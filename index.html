@@ -24,11 +24,18 @@
       </header>
       <section>
         <h3>
-<a id="ubuntu-tortoise-hg-git-github" class="anchor" href="#ubuntu-tortoise-hg-git-github" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ubuntu tortoise hg git github.</h3>
+<a id="ubuntu-tortoise-hg-mercurial-gui-client-for-github-repos" class="anchor" href="#ubuntu-tortoise-hg-mercurial-gui-client-for-github-repos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ubuntu tortoise-hg mercurial GUI client for github repos.</h3>
 
 <p>To use your github repo on Ubuntu 14.10 with the wonderful tortuise gui install the hg-git package with</p>
 
 <p><code>sudo apt-get install mercurial-git</code></p>
+
+<p>Configure your hg config <code>~/.hgrc</code> (create it if not available)</p>
+
+<pre><code>[extensions]
+hgext.git =
+hgext.bookmarks =
+</code></pre>
 
 <p>Now clone your git repo with </p>
 
