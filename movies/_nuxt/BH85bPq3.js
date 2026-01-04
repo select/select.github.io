@@ -1,0 +1,1 @@
+const o=()=>{if(typeof window>"u")return!1;const t=window.location.hostname;return t==="localhost"||t==="127.0.0.1"||t==="[::1]"||t.startsWith("192.168.")||t.startsWith("10.")||t.endsWith(".local")};export{o as i};

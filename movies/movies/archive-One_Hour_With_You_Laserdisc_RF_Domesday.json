@@ -1,0 +1,19 @@
+{
+  "imdbId": "archive-One_Hour_With_You_Laserdisc_RF_Domesday",
+  "title": "One Hour with You (Colorized, UCLA) - RF Laserdisc Rip",
+  "sources": [
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/One_Hour_With_You_Laserdisc_RF_Domesday",
+      "title": "One Hour With You Laserdisc RF Domesday",
+      "description": "This is an RF rip of the Laserdisc version of Ernst Lubitsch’s One Hour With You that was requested. This version was restored by UCLA’s Film, Television and Radio archive and was only ever released as part of the box set called The Lutbitsch Touch. It is noteworthy because it is the only release of the movie to feature the color tints that would have appeared at the release of the movie. It is theoretically possible to use this encode along with the Blu-ray to create a custom edit that would match how the film looked at release at a much higher fidelity by tone-matching in VapourSynth. Methodology: Capture was done using a Domesday Duplicator and a Pioneer CLDV2800. I will also note that while the Bluray version is a beautiful scan, the audio on that version appears to be severely clipped. The laserdisc features both EFM digital audio as well as PCM audio. The track included is mostly the EFM with some very brief snippets to cover dropouts in the digital track. This was done in DaVinci Resolve. The track was downmixed to mono (from 2.0 mono) using eac3to. I can provide those files to anyone who wishes to do a repack of the Bluray, although it is worth noting that the 1080p edit has a different duration owing to two factors: a slightly longer shot at 37:32:20 where a butler opens a pair of sliding french doors and an extended version of the theme on the laserdisc version following the credits. Encoding was done entirely in Vapoursynth, and I have erred on the side of a more transparent encode for this. IVTC was done with VIVTC. Both sides of the laserdisc were encoded in the same script instead of being concated after the fact. If anyone needs an archival rip of an untransferred tape or Laserdisc, I would be happy to be that beast of burden for the community. Script import vapoursynth as vs core = vs.core ##### Import The Video src = core.lsmas.LWLibavSource(u'D:/Domesday/LD/One-hour-with-you/EXPORT/OHWU_side1.mkv') src2 = core.lsmas.LWLibavSource(u'D:/Domesday/LD/One-hour-with-you/EXPORT/OHWU_side2.mkv') merged = src[:37914] + src2 [95:] src.set_output (8) src2.set_output (9) ##### Crop It cropped = merged.std.Crop(left=4, right=8, top=6, bottom=2) cropped.set_output(0) ##### Change Color Space for VIVTC limitations field_match_reference = cropped.fmtc.bitdepth(bits=8) ##### IVTC field_matched = core.vivtc.VFM(field_match_reference, clip2=cropped, order=1, field=0) deduped = core.vivtc.VDecimate(field_matched) ##### Change Color Space for Retail Output #output_depth = jet_temporal_denoise.fmtc.bitdepth(bits=8) output_depth = deduped.fmtc.bitdepth(bits=8) legalized = output_depth.std.Limiter( min=(16, 16, 16), max=(235, 240, 240), ) legalized.set_output(4) vspipe OHWU-Both.vpy -c y4m -o 4 - | c:\\tools\\x264\\x264-r3107-a8b68eb.exe - --demuxer y4m --crf 16.5 --sar 160/187 --preset placebo --stitchable --profile high --threads auto --level 4.1 --rc-lookahead 250 --me umh --no-dct-decimate --no-fast-pskip --deblock -3:-3 --qcomp 0.6 --ipratio 1.30 --aq-mode 3 --aq-strength 0.8 --merange 32 --psy-rd 1:0 --bframes 16 --output OHWU_both.mkv",
+      "id": "One_Hour_With_You_Laserdisc_RF_Domesday"
+    }
+  ],
+  "relatedMovies": [],
+  "collections": [],
+  "is_curated": false,
+  "verified": false,
+  "qualityLabels": [],
+  "lastUpdated": "2025-12-25T23:04:24.091Z"
+}

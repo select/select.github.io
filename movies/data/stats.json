@@ -1,0 +1,313 @@
+{
+  "database": {
+    "total": 31477,
+    "matched": 14946,
+    "unmatched": 16531,
+    "archiveOrgSources": 26789,
+    "youtubeSources": 11202,
+    "curatedCount": 14946,
+    "qualityMarkedCount": 250,
+    "qualityBreakdown": {
+      "blocked": 100,
+      "clip": 33,
+      "interview": 19,
+      "teaser": 6,
+      "trailer": 85,
+      "behind-the-scenes": 6,
+      "promo": 3,
+      "incorrect": 1,
+      "duplicate": 1
+    },
+    "collections": {
+      "feature_films": 26789
+    },
+    "youtubeChannels": [
+      {
+        "id": "UCGkHFrwE8KEuOHPVsIOskAg",
+        "name": "Netzkino",
+        "language": "de",
+        "enabled": true,
+        "scraped": 2321
+      },
+      {
+        "id": "UC8IHAQMuiJdY6ALuhG7iU8Q",
+        "name": "FilmRise Movies",
+        "language": "en",
+        "enabled": true,
+        "scraped": 327
+      },
+      {
+        "id": "UCVFYikepF-avelvuIaQ_lHA",
+        "name": "Popcornflix",
+        "language": "en",
+        "enabled": true,
+        "scraped": 471
+      },
+      {
+        "id": "UCGBzBkV-MinlBvHBzZawfLQ",
+        "name": "Movie Central",
+        "language": "en",
+        "enabled": true,
+        "scraped": 2379
+      },
+      {
+        "id": "UCOg0aMAXmF3o5m243PxhE5g",
+        "name": "Timeless Classic Movies",
+        "language": "en",
+        "enabled": true,
+        "scraped": 163
+      },
+      {
+        "id": "UCm5U4zqpahzyNXBv5ZT51Jw",
+        "name": "Mosfilm",
+        "language": "ru",
+        "enabled": true,
+        "scraped": 268
+      },
+      {
+        "id": "UCh4JH8axA_jUjB8YoRnm0cg",
+        "name": "Moviedome",
+        "language": "de",
+        "enabled": true,
+        "scraped": 529
+      },
+      {
+        "id": "UCE34fwgW7kWr7tc7YiOWtRw",
+        "name": "PizzaFlix",
+        "language": "en",
+        "enabled": true,
+        "scraped": 1971
+      },
+      {
+        "id": "UCT6gOjzXtqeb_oE-wZVHlFA",
+        "name": "Public Domain Movies - Classic Old Movies",
+        "language": "en",
+        "enabled": true,
+        "scraped": 179
+      },
+      {
+        "id": "UCWlLgwn2nfjnefINARfcquA",
+        "name": "Timeless Classic Films",
+        "language": "en",
+        "enabled": true,
+        "scraped": 30
+      },
+      {
+        "id": "UCgLqpXqmEJoyDYE_lpY1DXg",
+        "name": "Colorized Public Domain",
+        "language": "en",
+        "enabled": true,
+        "scraped": 234
+      },
+      {
+        "id": "UCycDFnpMeWzaITQSD1dWsOA",
+        "name": "Cult Cinema Classics",
+        "language": "en",
+        "enabled": true,
+        "scraped": 2042
+      },
+      {
+        "id": "UCvH6u_Qzn5RQdz9W198umDw",
+        "name": "Korean Classic Film",
+        "language": "ko",
+        "enabled": true,
+        "scraped": 288
+      }
+    ]
+  },
+  "external": {
+    "archiveOrg": {
+      "total": 27438,
+      "scraped": 26789,
+      "percent": 97.63466724979955,
+      "failed": 0,
+      "failureRate": 0
+    },
+    "youtube": {
+      "totalScraped": 11202,
+      "totalAvailable": 17855,
+      "totalFailed": 6022,
+      "failureRate": 34.962842545285646,
+      "percent": 62.73872864743769,
+      "channels": [
+        {
+          "id": "UCGkHFrwE8KEuOHPVsIOskAg",
+          "name": "Netzkino",
+          "language": "de",
+          "enabled": true,
+          "scraped": 2321,
+          "total": 2772,
+          "failed": 435,
+          "failureRate": 15.783744557329463
+        },
+        {
+          "id": "UC8IHAQMuiJdY6ALuhG7iU8Q",
+          "name": "FilmRise Movies",
+          "language": "en",
+          "enabled": true,
+          "scraped": 327,
+          "total": 446,
+          "failed": 138,
+          "failureRate": 29.677419354838708
+        },
+        {
+          "id": "UCVFYikepF-avelvuIaQ_lHA",
+          "name": "Popcornflix",
+          "language": "en",
+          "enabled": true,
+          "scraped": 471,
+          "total": 751,
+          "failed": 276,
+          "failureRate": 36.94779116465863
+        },
+        {
+          "id": "UCGBzBkV-MinlBvHBzZawfLQ",
+          "name": "Movie Central",
+          "language": "en",
+          "enabled": true,
+          "scraped": 2379,
+          "total": 2602,
+          "failed": 205,
+          "failureRate": 7.93343653250774
+        },
+        {
+          "id": "UCOg0aMAXmF3o5m243PxhE5g",
+          "name": "Timeless Classic Movies",
+          "language": "en",
+          "enabled": true,
+          "scraped": 163,
+          "total": 174,
+          "failed": 0,
+          "failureRate": 0
+        },
+        {
+          "id": "UCm5U4zqpahzyNXBv5ZT51Jw",
+          "name": "Mosfilm",
+          "language": "ru",
+          "enabled": true,
+          "scraped": 268,
+          "total": 293,
+          "failed": 0,
+          "failureRate": 0
+        },
+        {
+          "id": "UCh4JH8axA_jUjB8YoRnm0cg",
+          "name": "Moviedome",
+          "language": "de",
+          "enabled": true,
+          "scraped": 529,
+          "total": 605,
+          "failed": 106,
+          "failureRate": 16.69291338582677
+        },
+        {
+          "id": "UCE34fwgW7kWr7tc7YiOWtRw",
+          "name": "PizzaFlix",
+          "language": "en",
+          "enabled": true,
+          "scraped": 1971,
+          "total": 3650,
+          "failed": 1656,
+          "failureRate": 45.6575682382134
+        },
+        {
+          "id": "UCT6gOjzXtqeb_oE-wZVHlFA",
+          "name": "Public Domain Movies - Classic Old Movies",
+          "language": "en",
+          "enabled": true,
+          "scraped": 179,
+          "total": 558,
+          "failed": 350,
+          "failureRate": 66.1625708884688
+        },
+        {
+          "id": "UCWlLgwn2nfjnefINARfcquA",
+          "name": "Timeless Classic Films",
+          "language": "en",
+          "enabled": true,
+          "scraped": 30,
+          "total": 25,
+          "failed": 0,
+          "failureRate": 0
+        },
+        {
+          "id": "UCgLqpXqmEJoyDYE_lpY1DXg",
+          "name": "Colorized Public Domain",
+          "language": "en",
+          "enabled": true,
+          "scraped": 234,
+          "total": 282,
+          "failed": 47,
+          "failureRate": 16.72597864768683
+        },
+        {
+          "id": "UCycDFnpMeWzaITQSD1dWsOA",
+          "name": "Cult Cinema Classics",
+          "language": "en",
+          "enabled": true,
+          "scraped": 2042,
+          "total": 5087,
+          "failed": 2499,
+          "failureRate": 55.03193129266681
+        },
+        {
+          "id": "UCvH6u_Qzn5RQdz9W198umDw",
+          "name": "Korean Classic Film",
+          "language": "ko",
+          "enabled": true,
+          "scraped": 288,
+          "total": 610,
+          "failed": 310,
+          "failureRate": 51.83946488294314
+        }
+      ]
+    }
+  },
+  "curation": {
+    "total": 31477,
+    "curated": 14946,
+    "percent": 47.48228865520856
+  },
+  "omdb": {
+    "total": 31477,
+    "matched": 14946,
+    "unmatched": 16531,
+    "percent": 47.48228865520856,
+    "failed": 12144,
+    "failureRate": 44.82834994462902
+  },
+  "ai": {
+    "totalUnmatched": 16531,
+    "withAiData": 4741,
+    "withoutAiData": 11790,
+    "percent": 28.67945072893352
+  },
+  "quality": {
+    "totalMarked": 250,
+    "breakdown": {
+      "blocked": 100,
+      "clip": 33,
+      "interview": 19,
+      "teaser": 6,
+      "trailer": 85,
+      "behind-the-scenes": 6,
+      "promo": 3,
+      "incorrect": 1,
+      "duplicate": 1
+    },
+    "percent": 0.7942307081360993
+  },
+  "posters": {
+    "totalMovies": 31477,
+    "withPosterUrl": 13359,
+    "downloaded": 13272,
+    "missing": 87,
+    "failed": 12,
+    "failureRate": 0.09033423667570009,
+    "percentOfMoviesWithUrl": 99.34875364922524,
+    "percentOfAllMovies": 42.16411983352925,
+    "filesInDirectory": 13357,
+    "matchedPosters": 13272
+  },
+  "lastUpdated": "2026-01-02T20:52:22.613Z"
+}
