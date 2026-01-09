@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lightning_canson_rides_again",
-      "title": "Lightning Canson Rides Again",
+      "title": "Lightning Carson Rides Again",
+      "description": "You can find more information regarding this film on its IMDb page",
       "id": "lightning_canson_rides_again"
     },
     {
@@ -155,9 +156,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:56:51.442Z"
+  "lastUpdated": "2026-01-07T00:09:38.890Z"
 }

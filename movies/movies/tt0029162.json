@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lost.-horizon.-1937",
-      "title": "Lost. Horizon.",
+      "title": "Lost Horizon (1937)",
       "description": "Lost Horizon is a fantasy film directed by Frank Capra, released on March 2, 1937. It is based on the 1933 novel by James Hilton. The film features a group of British citizens, led by diplomat Robert Conway, who crash-land in the Himalayas and discover the utopian society of Shangri-La. The film explores themes of peace, brotherhood, and the search for an ideal society.",
       "id": "lost.-horizon.-1937"
     }
@@ -139,9 +139,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:00:14.224Z"
+  "lastUpdated": "2026-01-07T00:09:38.893Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Three_Men_From_Texas",
-      "title": "Three Men From Texas",
+      "title": "Three_Men_From_Texas",
       "description": "A Hopalong Cassidy Movie. See more at... http://www.imdb.com/title/tt0033160/ Writers: Clarence E. Mulford (characters), Norton S. Parker (screenplay) Stars: William Boyd, Russell Hayden and Andy Clyde",
       "id": "Three_Men_From_Texas"
     }
@@ -135,9 +135,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:25:38.523Z"
+  "lastUpdated": "2026-01-07T00:07:11.886Z"
 }

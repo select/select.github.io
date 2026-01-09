@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ice.-cold.-in.-alex.-1958_202510",
-      "title": "Ice. Cold. In. Alex. 1958 202510",
+      "title": "Ice Cold In Alex (1958)",
       "description": "Ice Cold in Alex is a 1958 British war film set during the Western Desert campaign of World War II based on the novel of the same name by Christopher Landon.  It  follows Captain Anson, a British officer suffering from alcoholism and battle fatigue, as he leads a group of soldiers and nurses on a perilous journey through the North African desert during World War II.  After becoming separated from their unit, they face numerous challenges, including enemy encounters and mechanical failures, while trying to reach safety in Alexandria, ultimately revealing a South African officer among them as a German spy.",
       "id": "ice.-cold.-in.-alex.-1958_202510"
     }
@@ -135,9 +135,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:28:30.774Z"
+  "lastUpdated": "2026-01-07T00:08:46.615Z"
 }

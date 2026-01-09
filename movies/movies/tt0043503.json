@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951theenforcersinconcienciabretaignewindustraoulwalsh",
-      "title": "1951theenforcersinconcienciabretaignewindustraoulwalsh",
+      "title": "1951 - The Enforcer - Sin conciencia - Bretaigne Windust / Raoul Walsh",
       "description": "1951 - The Enforcer - Sin conciencia - Bretaigne Windust / Raoul Walsh",
       "id": "1951theenforcersinconcienciabretaignewindustraoulwalsh"
     }
@@ -137,9 +137,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T17:57:10.699Z"
+  "lastUpdated": "2026-01-07T00:06:06.562Z"
 }

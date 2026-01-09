@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheSoutherner",
-      "title": "TheSoutherner",
+      "title": "The Southerner",
       "description": "Jean Renoir's classic tale of a cotton picker (Zachary Scott) who moves his wife (Betty Field) and children to a run down farm in hopes that they can grow their own cotton and make for a better future.",
       "id": "TheSoutherner"
     },
@@ -178,9 +178,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:53:38.571Z"
+  "lastUpdated": "2026-01-07T00:12:22.159Z"
 }

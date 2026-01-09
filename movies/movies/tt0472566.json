@@ -12,7 +12,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Star_Wreck_In_the_Pirkinning_VOScastellano",
-      "title": "Star Wreck In The Pirkinning VOScastellano",
+      "title": "Star Wreck: In the Pirkinning [VOScastellano]",
       "description": "el mundo 2005 > Con más de 450.000 espectadores en menos de una semana, el largometraje finlandés 'Star Wreck: In the Pirkinning', parodia del clásico de ciencia ficción 'Star Trek', ha batido todos los récord de distribución libre por Internet. [...] Su producción ha durado más de siete años y ha sido dirigido por un grupo de estudiantes y directores aficionados, con un bajo presupuesto pero efectos especiales de alta calidad.",
       "id": "Star_Wreck_In_the_Pirkinning_VOScastellano"
     }
@@ -150,9 +150,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T19:36:28.579Z"
+  "lastUpdated": "2026-01-07T00:06:51.870Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/assault-on-precinct-13-1976-a-film-by-john-carpenter-1080p",
-      "title": "Assault On Precinct 13 1976 A Film By John Carpenter",
+      "title": "Assault on Precinct 13",
       "description": "The lone inhabitants of an abandoned police station are under attack by the overwhelming numbers of a seemingly unstoppable street gang.",
       "id": "assault-on-precinct-13-1976-a-film-by-john-carpenter-1080p"
     },
@@ -158,9 +158,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:30:30.149Z"
+  "lastUpdated": "2026-01-07T00:07:31.711Z"
 }

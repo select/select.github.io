@@ -146,7 +146,20 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "2020s",
+      "name": "2020s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

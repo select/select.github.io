@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/black-robe-1991_202510",
-      "title": "Black Robe 1991 202510",
+      "title": "Black Robe (1991)",
       "description": "Black Robe is a 1991 historical drama film directed by Bruce Beresford, adapted by Brian Moore from his 1985 novel of the same name. It  follows a Jesuit missionary, Father LaForgue, in 1634 New France  as he embarks on a perilous journey to establish a mission among the Huron people. Accompanied by Algonquin guides, he faces the challenges of the harsh wilderness and conflicts with rival tribes while grappling with cultural differences and the complexities of faith.",
       "id": "black-robe-1991_202510"
     }
@@ -135,9 +135,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1990s",
+      "name": "1990s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:42:12.860Z"
+  "lastUpdated": "2026-01-07T00:07:38.718Z"
 }

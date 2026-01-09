@@ -154,7 +154,16 @@
       "channelName": "Moviedome"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

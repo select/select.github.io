@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/emperor.-of.-the.-north.-1973.720p.",
-      "title": "Emperor. Of. The. North. 1973.720p.",
+      "title": "Emperor of the North (1973)",
       "description": "Emperor of the North Pole is a 1973 American action adventure film directed by Robert Aldrich, starring Lee Marvin, Ernest Borgnine, Keith Carradine, and Charles Tyner. The  film set during the Great Depression, focusing on A-No. 1, a legendary hobo who challenges Shack, a brutal railroad conductor, to ride his train for free. The story follows A-No. 1 and a brash young hobo named Cigaret as they navigate dangerous encounters with Shack, leading to a violent showdown.",
       "id": "emperor.-of.-the.-north.-1973.720p."
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:08:18.909Z"
+  "lastUpdated": "2026-01-07T00:08:24.392Z"
 }

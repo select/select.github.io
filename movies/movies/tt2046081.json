@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/detective-a-contramano-1949",
-      "title": "Detective A Contramano",
+      "title": "Detective A Contramano ( 1949)",
+      "description": "pelicula",
       "id": "detective-a-contramano-1949"
     }
   ],
@@ -134,9 +135,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:56:45.928Z"
+  "lastUpdated": "2026-01-07T00:07:59.607Z"
 }

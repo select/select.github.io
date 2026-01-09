@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/o-homem-que-sabia-demais-1934",
-      "title": "O Homem Que Sabia Demais",
+      "title": "The Man Who Knew Too Much (1934) O Homem Que Sabia Demais",
       "description": "O Homem Que Sabia Demais (The Man Who Knew Too Much - 1934) legendado pt-br",
       "id": "o-homem-que-sabia-demais-1934"
     },
@@ -65,7 +65,7 @@
       "title": "The Lady Vanishes",
       "year": 1938,
       "imdbRating": "7.7",
-      "imdbVotes": "59,921",
+      "imdbVotes": "60,724",
       "language": "English, German, French, Italian",
       "sourceType": "archive.org"
     },
@@ -151,9 +151,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:48:55.686Z"
+  "lastUpdated": "2026-01-07T00:10:12.699Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-bridge-too-far-1977",
-      "title": "A Bridge Too Far",
+      "title": "A Bridge Too Far (1977)",
       "description": "A Bridge Too Far is a war film that dramatizes the ambitious Allied operation known as Operation Market Garden during World War II. The operation, devised by British Field Marshal Bernard Montgomery, aimed to quickly end the war by seizing key bridges in the Netherlands. The film is set in September 1944, following the D-Day invasion, as Allied forces are looking to exploit their momentum in Europe. The operation involves an aerial assault by paratroopers to capture bridges across the Dutch rivers, facilitating a ground advance by armored units. It comprises two parts: the airborne drops and ground attacks.As the airborne troops are dropped behind enemy lines, they face fierce German resistance. Miscommunications and logistical issues arise, leading to critical delays for ground forces, preventing them from reaching the paratroopers in time. The film accutely portrays the struggles of the soldiers as they fight against overwhelming odds. The operation ultimately fails, with Allied forces suffering heavy casualties. The film concludes with a poignant reflection on the cost of the failed mission, emphasizing themes of bravery, sacrifice, and the complexities of warfare. A Bridge Too Far explores not only the strategic failures of the operation but also the humanity of the soldiers involved, making the film a significant portrayal of WWII and the challenges of military operations.",
       "id": "a-bridge-too-far-1977"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:35:33.460Z"
+  "lastUpdated": "2026-01-07T00:07:18.437Z"
 }

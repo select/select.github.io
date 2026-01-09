@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1952-the-sniper-el-francotirador-edward-dmytryk-vose",
-      "title": "1952 The Sniper El Francotirador Edward Dmytryk Vose",
+      "title": "1952 - The Sniper - El francotirador - Edward Dmytryk - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1952-the-sniper-el-francotirador-edward-dmytryk-vose"
     },
     {
@@ -160,9 +161,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T22:19:04.905Z"
+  "lastUpdated": "2026-01-07T00:12:33.208Z"
 }

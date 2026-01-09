@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951-he-ran-all-the-way-yo-ame-a-un-asesino-john-berry-vose",
-      "title": "1951 He Ran All The Way Yo Ame A Un Asesino John Berry Vose",
+      "title": "1951 - He Ran All the Way - Yo amé a un asesino - John Berry - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1951-he-ran-all-the-way-yo-ame-a-un-asesino-john-berry-vose"
     }
   ],
@@ -134,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T17:56:52.487Z"
+  "lastUpdated": "2026-01-07T00:06:06.562Z"
 }

@@ -145,7 +145,16 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1990s",
+      "name": "1990s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

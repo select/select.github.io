@@ -17,6 +17,13 @@
           "US"
         ]
       }
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/MacbethSeanConneryAppleTV.mp4",
+      "title": "Macbeth Sean Connery",
+      "description": "1961 directed by Paul Almond starring Sean Connery as Macbeth, Zoe Caldwell as Lady Macbeth, William Needles as Banquo, Ted Follows as Macduff, Robin Gammell as Malcolm, Sharon Acker as Lady Macduff, Bernard Behrens as Lennox, Raymond Bellew as Donalbain, Eric Christmas as Porter, Gillie Fenwick as Angus and Rex Hagon as Fleance. Produced for television.",
+      "id": "MacbethSeanConneryAppleTV.mp4"
     }
   ],
   "metadata": {
@@ -149,9 +156,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:14:57.342Z"
+  "lastUpdated": "2026-01-07T18:15:42.220Z"
 }

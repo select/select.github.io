@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LittleNemo",
-      "title": "LittleNemo",
+      "title": "Little Nemo",
       "description": "Little Nemo a very early (1911) animation by Windsor McKay",
       "id": "LittleNemo"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LittleNemo_548",
-      "title": "LittleNemo 548",
+      "title": "Little Nemo",
       "description": "Little Nemo is a very early animation (1911) drawn by Windsor McCay and based on his comic strip, Little Nemo in Slumberland. It is interesting in that it shows McCay drawing the pictures which will later go into the animation.",
       "id": "LittleNemo_548"
     }
@@ -150,9 +150,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T18:32:43.466Z"
+  "lastUpdated": "2026-01-07T00:06:38.750Z"
 }

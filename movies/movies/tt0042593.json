@@ -6,8 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1950-in-a-lonely-place-en-un-lugar-solitario-nicholas-ray-vose",
-      "title": "1950 In A Lonely Place En Un Lugar Solitario Nicholas Ray Vose",
+      "title": "1950 - In a Lonely Place - En un lugar solitario - Nicholas Ray - VOSE",
+      "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "id": "1950-in-a-lonely-place-en-un-lugar-solitario-nicholas-ray-vose"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/InALonelyPlaceTrailer",
+      "title": "IN A LONELY PLACE trailer",
+      "description": "Outstanding mystery/film noir starring Humphrey Bogart and featuring Gloria Grahame in one of her most memorable roles. Loosely based on Dorothy B Hughes' novel. Added to the National Film Registry in 2007.",
+      "id": "InALonelyPlaceTrailer"
     }
   ],
   "metadata": {
@@ -135,9 +143,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T17:56:20.976Z"
+  "lastUpdated": "2026-01-07T18:09:26.239Z"
 }

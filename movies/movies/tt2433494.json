@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SightFilm",
-      "title": "SightFilm",
+      "title": "Sight",
       "description": "Title: Sight Summary: A short futuristic film featuring Augmented reality and Gamification. by Eran May-raz and Daniel Lazo. This is our graduation project from Bezaleal academy of arts. Directed by: Daniel Lazo, Eran May-Raz Actors: Production Company: Bezalel Academy of Arts and Design Release Date: 2012 (Israel) Aspect Ratio: REMOVE_TAG A short futuristic film featuring Augmented reality and Gamification. by Eran May-raz and Daniel Lazo. This is our graduation project from Bezaleal academy of arts.",
       "id": "SightFilm"
     }
@@ -137,9 +137,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T19:28:23.551Z"
+  "lastUpdated": "2026-01-07T00:06:51.869Z"
 }

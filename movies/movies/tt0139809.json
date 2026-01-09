@@ -197,7 +197,24 @@
       "channelName": "Popcornflix"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1990s",
+      "name": "1990s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

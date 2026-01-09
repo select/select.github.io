@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/operation-pacific-1951",
-      "title": "Operation Pacific",
+      "title": "Operation Pacific (1951) John Wayne · Patricia Neal",
       "description": "During World War II, a submarine commander must solve a problem with torpedoes that won't explode. Back on land, he's trying to win back his ex-wife.",
       "id": "operation-pacific-1951"
     }
@@ -139,9 +139,14 @@
       "channelName": "Mosfilm"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:16:47.511Z"
+  "lastUpdated": "2026-01-07T00:10:12.692Z"
 }

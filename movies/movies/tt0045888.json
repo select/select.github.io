@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/house-of-wax-1953_202510",
-      "title": "House Of Wax 1953 202510",
+      "title": "House of Wax (1953)",
       "description": "House of Wax is a 1953 American mystery-horror film directed by Andre de Toth and  stars Vincent Price. The film follows  Professor Henry Jarrod, a talented sculptor whose wax museum is destroyed by his business partner, Matthew Burke, who sets it on fire for insurance money. Surviving the blaze with severe injuries, Jarrod creates a new museum featuring lifelike wax figures, but he secretly uses the bodies of his murder victims, leading to a series of gruesome events as a young woman uncovers the horrifying truth.",
       "id": "house-of-wax-1953_202510"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:26:13.559Z"
+  "lastUpdated": "2026-01-07T00:08:46.614Z"
 }

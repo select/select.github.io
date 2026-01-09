@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/onibaba.-1964_202511",
-      "title": "Onibaba. 1964 202511",
+      "title": "Onibaba (1964)",
       "description": "Onibaba,  also titled The Hole, is a Japanese horror film directed by Kaneto Shindo that explores themes of love, betrayal, and the primal instincts of survival in a war-torn setting. Set in 14th-century Japan during a civil war, the story follows two women, a mother and her daughter-in-law, who live in a secluded area near a marsh. They survive by killing passing soldiers and robbing them of their belongings. The plot thickens when a soldier named Hachi arrives, revealing that he knows the son of the older woman. He expresses a longing for a romantic relationship with the daughter-in-law, who struggles with her emotions and circumstances. As Hachi and the daughter-in-law grow closer, the mother-in-law becomes increasingly jealous and protective. Things take a dark turn when the mother discovers the budding relationship. In her rage, she dons a demon mask that she had previously used to frighten foes and ultimately manipulates circumstances leading to betrayal and death, illustrating the depths of human fear and jealousy.The film culminates in a haunting conclusion that leaves the viewer with lingering questions about the nature of humanity and the consequences of primal instincts.",
       "id": "onibaba.-1964_202511"
     }
@@ -137,9 +137,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:16:34.516Z"
+  "lastUpdated": "2026-01-07T00:10:12.692Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/UpInTheAir",
-      "title": "UpInTheAir",
+      "title": "Up in the Air",
       "description": "Murder mystery at a radio station. Movie features Mantan Moreland and Frankie Darro along with Marjorie Reynolds and Lorna Gray.",
       "id": "UpInTheAir"
     }
@@ -146,9 +146,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:28:53.233Z"
+  "lastUpdated": "2026-01-07T00:07:11.887Z"
 }

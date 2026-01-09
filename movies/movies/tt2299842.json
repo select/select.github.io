@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Pieta2012ByKimKi-duk",
-      "title": "Pieta2012ByKimKi Duk",
+      "title": "Pieta (2012) by Kim Ki-Duk",
       "description": "Pieta (2012) by Kim Ki-Duk",
       "id": "Pieta2012ByKimKi-duk"
     }
@@ -145,9 +145,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T19:01:42.559Z"
+  "lastUpdated": "2026-01-07T00:06:45.466Z"
 }

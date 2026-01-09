@@ -26,6 +26,12 @@
       "id": "VhGNhwOtbVs",
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/charade-4-k",
+      "title": "Charade 4 K",
+      "id": "charade-4-k"
     }
   ],
   "metadata": {
@@ -154,9 +160,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:54:31.612Z"
+  "lastUpdated": "2026-01-07T19:11:10.933Z"
 }

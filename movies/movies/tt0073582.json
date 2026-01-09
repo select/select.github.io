@@ -13,7 +13,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deep-red-1975-david-hemmings",
-      "title": "Deep Red 1975 David Hemmings",
+      "title": "Deep Red (1975)",
       "description": "A musician witnesses a murder and then teams up with a reporter to find the killer.",
       "id": "deep-red-1975-david-hemmings"
     }
@@ -145,9 +145,26 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:20:16.180Z"
+  "lastUpdated": "2026-01-07T00:07:59.606Z"
 }

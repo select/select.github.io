@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/little-big-man-1970_202511",
-      "title": "Little Big Man 1970 202511",
+      "title": "Little Big Man (1970)",
       "description": "Little Big Man is a film released in 1970 , directed by Arthur Penn . It is a satirical Western that follows the story of Jack Crabbe , who claims to have lived through pivotal events in American history from a unique perspective as a white man raised by the Cheyenne.Jack Crabbe, portrayed by Dustin Hoffman , narrates his life story, recounting his encounters with historical figures and events, such as General Custer and the Battle of Little Bighorn. The film explores themes of cultural clash, identity, and the impact of colonization on Native American communities. Little Big Man remains important for its portrayal of Native American experiences and perspectives, challenging the traditional narrative often found in Westerns.",
       "id": "little-big-man-1970_202511"
     }
@@ -136,9 +136,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:58:16.559Z"
+  "lastUpdated": "2026-01-07T00:09:38.891Z"
 }

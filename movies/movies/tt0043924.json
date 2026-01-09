@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-place-in-the-sun-1951_202509",
-      "title": "A Place In The Sun 1951 202509",
+      "title": "A Place In The Sun (1951) Montgomery Clift · Elizabeth Taylor",
       "description": "Drama about a climber (Montgomery Clift) between two women. .",
       "id": "a-place-in-the-sun-1951_202509"
     }
@@ -135,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:39:35.547Z"
+  "lastUpdated": "2026-01-07T00:07:18.438Z"
 }

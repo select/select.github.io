@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kellys-heroes-1970_202507",
-      "title": "Kellys Heroes 1970 202507",
+      "title": "Kelly's Heroes (1970) Clint Eastwood · Telly Savalas",
       "description": "During the Allied invasion of Normandy (1944), an American raiding party privately captures 14,000 gold bars from a bank behind German lines.   A slapstick film with a large cast – the war was so colorful..",
       "id": "kellys-heroes-1970_202507"
     }
@@ -140,9 +140,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:48:29.552Z"
+  "lastUpdated": "2026-01-07T00:09:15.999Z"
 }

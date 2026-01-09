@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1956-the-killing-atraco-perfecto-stanley-kubrick-vose",
-      "title": "1956 The Killing Atraco Perfecto Stanley Kubrick Vose",
+      "title": "1956 - The Killing - Atraco perfecto - Stanley Kubrick - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1956-the-killing-atraco-perfecto-stanley-kubrick-vose"
     },
     {
@@ -155,9 +156,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T21:52:04.023Z"
+  "lastUpdated": "2026-01-07T00:12:44.281Z"
 }

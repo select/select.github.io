@@ -11,6 +11,13 @@
       "id": "Jakf-B3FXKY",
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/a-bay-of-blood-1971_202405",
+      "title": "A Bay Of Blood 1971",
+      "description": "The murder of a wealthy countess triggers a chain reaction of brutal killings in the surrounding bay area, as several unscrupulous characters try to seize her large estate.",
+      "id": "a-bay-of-blood-1971_202405"
     }
   ],
   "metadata": {
@@ -139,9 +146,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:38:42.574Z"
+  "lastUpdated": "2026-01-07T18:44:29.783Z"
 }

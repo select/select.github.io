@@ -144,7 +144,20 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

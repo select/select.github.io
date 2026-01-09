@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lola_20210820",
-      "title": "Lola 20210820",
+      "title": "Lola",
       "description": "Germany in the autumn of 1957: Lola (Barbara Sukowa), a seductive cabaret singer–prostitute, exults in her power as a tempter of men, but she wants more—money, property, and love. Pitting a corrupt building contractor (Mario Adorf) against the new straight-arrow building commissioner (Armin Mueller-Stahl), Lola launches an outrageous plan to elevate herself in a world where everything—and everyone—is for sale. Shot in childlike candy colors, Rainer Werner Fassbinder’s  Lola,  an homage to Josef von Sternberg’s classic  The Blue Angel,  is a wonderfully satirical tribute to capitalism.",
       "id": "lola_20210820"
     }
@@ -139,9 +139,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:58:49.843Z"
+  "lastUpdated": "2026-01-07T00:09:38.892Z"
 }

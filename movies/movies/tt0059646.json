@@ -137,9 +137,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:25:04.735Z"
+  "lastUpdated": "2026-01-07T00:10:12.694Z"
 }

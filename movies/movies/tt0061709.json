@@ -13,7 +13,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/day-of-anger-1967-fll",
-      "title": "Day Of Anger 1967 Fll",
+      "title": "Day Of Anger (1967)",
       "description": "Day of Anger is a 1967 Spaghetti Western film directed and co-written by Tonino Valerii and starring Lee Van Cleef and Giuliano Gemma, and features a musical score by Riz Ortolani.  The film credits the novel Der Tod ritt dienstags by Ron Barker as its basis and  follows Scott, a young street sweeper in the town of Clifton, who is mistreated by the townspeople due to his background. When the aging gunman Frank Talby arrives and takes Scott under his wing, they plot to take control of the town, leading to a violent confrontation that forces Scott to confront his mentor's ruthless ways and ultimately seek his own path.",
       "id": "day-of-anger-1967-fll"
     }
@@ -145,9 +145,18 @@
       "channelName": "Netzkino"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:19:43.102Z"
+  "lastUpdated": "2026-01-07T00:07:59.603Z"
 }

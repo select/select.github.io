@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PaintingPool2012",
-      "title": "PaintingPool2012",
+      "title": "Painting Pool (2012)",
       "description": "Painting Pool (2012)",
       "id": "PaintingPool2012"
     }
@@ -145,9 +145,18 @@
       "channelName": "Netzkino"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T18:57:59.859Z"
+  "lastUpdated": "2026-01-07T00:06:45.466Z"
 }

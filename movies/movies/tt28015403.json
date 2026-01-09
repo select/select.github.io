@@ -155,7 +155,20 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "2020s",
+      "name": "2020s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

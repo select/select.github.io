@@ -21,14 +21,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MyManGodfrey1936",
-      "title": "MyManGodfrey1936",
+      "title": "My Man Godfrey (1936)",
       "description": "A ditzy socialite finds a homeless man for a scavenger hunt and then hires him as their butler.",
       "id": "MyManGodfrey1936"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-man-godfrey-4-k",
-      "title": "My Man Godfrey 4 K",
+      "title": "My Man Godfrey (1936) [Colorized, 4K, 60FPS]",
+      "description": "My Man Godfrey is a 1936 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2021 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "id": "my-man-godfrey-4-k"
     },
     {
@@ -174,9 +175,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:34:55.210Z"
+  "lastUpdated": "2026-01-07T00:09:54.333Z"
 }

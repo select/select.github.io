@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/i.-am.-a.-fugitive.-from.-a.-chain.-gang.-1932",
-      "title": "I. Am. A. Fugitive. From. A. Chain. Gang.",
+      "title": "I Am a Fugitive from a Chain Gang (1932)",
       "description": "I Am a Fugitive from a Chain Gang is a 1932 American pre-Code crime tragedy film directed by Mervyn LeRoy and starring Paul Mun. The film  follows Jim Allen, a man wrongfully convicted of robbery who is sentenced to brutal hard labor on a chain gang in Georgia. After enduring harsh conditions and forming a plan with fellow inmates, he escapes to Chicago, where he tries to build a new life but ultimately faces betrayal and the consequences of his past.",
       "id": "i.-am.-a.-fugitive.-from.-a.-chain.-gang.-1932"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2026-01-01T23:30:12.906Z"
+  "lastUpdated": "2026-01-07T00:08:46.615Z"
 }

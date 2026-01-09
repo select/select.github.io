@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/moby-dick-1956",
-      "title": "Moby Dick",
+      "title": "Moby Dick (1956) Gregory Peck · Richard Basehart",
       "description": "Adventure drama by John Huston - based on Herman Melville ’s novel...",
       "id": "moby-dick-1956"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/moby-dick.-1956",
-      "title": "Moby Dick.",
+      "title": "Moby Dick (1956)",
       "description": "The 1956 adaptation of \"Moby Dick,\" directed by John Huston , is a cinematic interpretation of Herman Melville's classic novel. The film features a high-profile cast and was generally well-received, both critically and commercially. Set in the early 1840s , the film follows Ishmael , who embarks on a whaling voyage aboard the Pequod , captained by the vengeful Captain Ahab . Obsessed with hunting down the legendary  Moby Dick , a great white whale that had previously severely injured him, Ahab becomes increasingly dangerous as he leads his crew into perilous waters. The film captures Ahab's descent into madness and the crew's struggle against nature and fate. ",
       "id": "moby-dick.-1956"
     }
@@ -143,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:07:15.691Z"
+  "lastUpdated": "2026-01-07T00:09:54.329Z"
 }

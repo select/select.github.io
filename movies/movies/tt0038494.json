@@ -13,14 +13,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dressed-to-kill-1946",
-      "title": "Dressed To Kill",
+      "title": "Dressed to Kill (1946)",
       "description": "A convicted thief in Dartmoor prison hides the location of the stolen Bank of England printing plates inside three music boxes. When the innocent purchasers of the boxes start to be murdered, Holmes and Watson investigate. Watch on RetroFlix:  https://retroflix.org/dressed-to-kill-1946/",
       "id": "dressed-to-kill-1946"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dressed-to-kill_202107",
-      "title": "Dressed To Kill 202107",
+      "title": "Dressed To Kill",
       "description": "Sherlock Holmes sets out to discover why a trio of murderous villains, including a dangerously attractive female, are desperate to obtain three unassuming and inexpensive little music boxes.",
       "id": "dressed-to-kill_202107"
     },
@@ -163,9 +163,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:23:15.433Z"
+  "lastUpdated": "2026-01-07T00:08:15.375Z"
 }

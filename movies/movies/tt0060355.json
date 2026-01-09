@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/duel-at-diablo-1966",
-      "title": "Duel At Diablo",
+      "title": "Duel At Diablo (1966) James Garner · Sidney Poitier",
       "description": "The battle of a cavalry unit against hostile Indians is intertwined with the fate of three men. A carefully staged, thrilling Western that touches on the issue of race.",
       "id": "duel-at-diablo-1966"
     }
@@ -135,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:04:12.693Z"
+  "lastUpdated": "2026-01-07T00:08:15.376Z"
 }

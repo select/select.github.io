@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/manhunter.-1986-255910939230",
-      "title": "Manhunter. 1986 255910939230",
+      "title": "Manhunter (1986)",
       "description": "FBI Agent Will Graham, who retired after catching Hannibal Lecktor, returns to duty to engage in a risky cat-and-mouse game with Lecktor to capture a new killer.",
       "id": "manhunter.-1986-255910939230"
     }
@@ -137,9 +137,22 @@
       "channelName": "PizzaFlix"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:03:22.545Z"
+  "lastUpdated": "2026-01-07T00:09:46.426Z"
 }

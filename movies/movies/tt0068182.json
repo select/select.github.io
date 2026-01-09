@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/aguirre.-the.-wrath.-of.-god.-1972",
-      "title": "Aguirre. The. Wrath. Of. God.",
+      "title": "Aguirre, The Wrath of God (1972)",
       "description": "Aguirre, the Wrath of God is a 1972 epic historical drama film produced, written and directed by Werner Herzog. Klaus Kinski stars in the title role of Spanish soldier Lope de Aguirre, who leads a group of conquistadores down the Amazon River in South America in search of the legendary city of gold, El Dorado.  As the expedition descends into madness and chaos, Aguirre's ruthless ambition leads to mutiny and the eventual downfall of the group, culminating in his isolation and delusions of grandeur.",
       "id": "aguirre.-the.-wrath.-of.-god.-1972"
     }
@@ -138,9 +138,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:43:09.943Z"
+  "lastUpdated": "2026-01-07T00:07:24.994Z"
 }

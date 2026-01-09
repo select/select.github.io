@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/judgment-at-nuremberg-1961",
-      "title": "Judgment At Nuremberg",
+      "title": "Judgment At Nuremberg (1961) Spencer Tracy · Richard Widmark",
       "description": "In 1948, an American court in occupied Germany indicted four Nazi judges for war crimes.",
       "id": "judgment-at-nuremberg-1961"
     }
@@ -135,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-31T03:23:02.359Z"
+  "lastUpdated": "2026-01-07T00:09:15.997Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
-      "title": "Eyes Without A Face 1960 Restored 720p",
+      "title": "Eyes Without a Face - Les yeux sans visage (restored, uncut) (1960, France, horror, imdb score: 7.7)",
       "description": "Eyes Without a Face (French: Les Yeux sans visage) is a 1960 French-language horror film co-written and directed by Georges Franju. The film, a French-Italian co-production, stars Pierre Brasseur and Alida Valli. Based on the novel of the same name by Jean Redon, it revolves around a plastic surgeon who is determined to perform a face transplant on his daughter, who was disfigured in an auto crash. During the film's production, consideration was given to the standards of European censors by setting the right tone, minimizing gore and eliminating the mad scientist character. Although the film passed through the European censors, the film's release in Europe caused controversy nevertheless. Critical reaction ranged from praise to disgust.",
       "id": "eyes-without-a-face-1960-restored-720p-hd"
     }
@@ -135,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:10:02.384Z"
+  "lastUpdated": "2026-01-07T00:08:24.393Z"
 }

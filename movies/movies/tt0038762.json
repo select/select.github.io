@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-darling-clementine-1946_202508",
-      "title": "My Darling Clementine 1946 202508",
+      "title": "My Darling Clementine (1946)",
       "description": "Three brothers stop off for a night in the town of Tombstone. The next morning they find one of their brothers dead and their cattle stolen. They decide to take revenge on the culprits. Watch on RetroFlix:  https://retroflix.org/my-darling-clementine-1946/",
       "id": "my-darling-clementine-1946_202508"
     }
@@ -135,9 +135,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:09:50.032Z"
+  "lastUpdated": "2026-01-07T00:09:54.333Z"
 }

@@ -103,7 +103,7 @@
       "title": "His Girl Friday",
       "year": 1940,
       "imdbRating": "7.8",
-      "imdbVotes": "66,904",
+      "imdbVotes": "67,176",
       "language": "English, French",
       "sourceType": "archive.org"
     },
@@ -145,7 +145,16 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

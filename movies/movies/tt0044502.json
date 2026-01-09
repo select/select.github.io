@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/clash-by-night-1952",
-      "title": "Clash By Night",
+      "title": "Clash by Night (1952) Directed by Fritz Lang, Starring Barbara Stanwyck, Paul Douglas, Robert Ryan, Marilyn Monroe, Keith Andes",
       "description": "Clash by Night is a 1952 American FILM NOlR drama directed by Fritz Lang and starring Barbara Stanwyck, Paul Douglas, Robert Ryan, Marilyn Monroe and Keith Andes. The movie was based on the 1941 play by Clifford Odets, adapted by writer Alfred Hayes. This was the first major film in which Monroe was credited before the movie's title, albeit with fourth billing.   You can find out more about this movie from Wikipedia and read an article from FILM NOlR of the Week .",
       "id": "clash-by-night-1952"
     }
@@ -135,9 +135,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:48:30.899Z"
+  "lastUpdated": "2026-01-07T00:07:51.623Z"
 }

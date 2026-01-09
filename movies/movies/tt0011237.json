@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheGolem_893",
-      "title": "TheGolem 893",
+      "title": "The Golem",
       "description": "Classic story of a creature made of clay that comes to life and causes havok. Silent film starring Paul Wegener. Unrestored print, public domain.",
       "id": "TheGolem_893"
     },
@@ -43,6 +43,13 @@
           "US"
         ]
       }
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/TheGolem1915LostFilmFragments",
+      "title": "the Golem 1915 lost film fragments",
+      "description": "the Golem 1915 lost film fragments",
+      "id": "TheGolem1915LostFilmFragments"
     }
   ],
   "metadata": {
@@ -169,9 +176,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:15:53.492Z"
+  "lastUpdated": "2026-01-07T18:35:10.325Z"
 }

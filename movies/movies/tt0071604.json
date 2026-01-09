@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hearts-and-minds.-1974",
-      "title": "Hearts And Minds.",
+      "title": "Hearts And Minds (1974)",
       "description": "Hearts and Minds is a 1974 documentary  directed by Peter Davis,  that explores the Vietnam War through interviews with military officials, politicians, and Vietnamese civilians, juxtaposed with shocking footage of the war's brutality. The film critiques U.S. involvement in Vietnam, highlighting the devastating impact on both the Vietnamese people and American soldiers, and it won the Oscar for Best Documentary in 1975.",
       "id": "hearts-and-minds.-1974"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:22:21.516Z"
+  "lastUpdated": "2026-01-07T00:08:39.345Z"
 }

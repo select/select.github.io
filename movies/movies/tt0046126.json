@@ -6,9 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/niagara-1953-torrentes-de-paixao",
-      "title": "Niagara 1953 Torrentes De Paixao",
+      "title": "Niagara (1953) Torrentes de Paixão",
       "description": "Durante a visita de dois casais às cataratas do Niagara, fortes tensões surgem entre Rose e seu marido, George. A situação se agrava quando o segundo casal acaba se envolvendo na história.",
       "id": "niagara-1953-torrentes-de-paixao"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/1953niagarahhathaway",
+      "title": "1953 - Niagara - Henry Hathaway",
+      "description": "1953 - Niagara - Henry Hathaway",
+      "id": "1953niagarahhathaway"
     }
   ],
   "metadata": {
@@ -135,9 +142,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:12:20.629Z"
+  "lastUpdated": "2026-01-07T17:44:23.963Z"
 }

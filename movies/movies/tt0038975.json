@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1945-the-spiral-staircase-la-escalera-de-caracol-robert-siodmak-vose",
-      "title": "1945 The Spiral Staircase La Escalera De Caracol Robert Siodmak Vose",
+      "title": "1946 - The Spiral Staircase - La escalera de caracol - Robert Siodmak - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1945-the-spiral-staircase-la-escalera-de-caracol-robert-siodmak-vose"
     },
     {
@@ -148,9 +149,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T21:57:27.254Z"
+  "lastUpdated": "2026-01-07T00:12:55.130Z"
 }

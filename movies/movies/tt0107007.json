@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/gettysburg-1993_202511",
-      "title": "Gettysburg 1993 202511",
+      "title": "Gettysburg (1993)",
       "description": "\"Gettysburg,\" a 1993 film directed by Ron Maxwell, dramatizes the pivotal Battle of Gettysburg during the American Civil War, which took place from July 1 to July 3, 1863.The narrative follows key historical figures such as General Robert E. Lee (played by Martin Sheen) and General George G. Meade (played by Omar Epps), alongside the famous General Joshua Lawrence Chamberlain (played by Jeff Daniels), who leads the 20th Maine regiment. The film opens with the tensions leading up to the battle as both the Union and Confederate forces prepare for conflict. As the battle unfolds over three days, the film portrays significant events, such as the fierce fighting at Little Round Top , Pickett's Charge, and the struggles within the leadership of both armies. Through the perspectives of various soldiers, the film highlights themes of bravery, duty, and sacrifice. The ending captures the heavy toll of the battle, as the Confederate forces face a staggering defeat, marking a turning point in the Civil War.\"Gettysburg\" is notable for its historical accuracy, extensive battle recreations, and focus on the personal experiences of soldiers on both sides.",
       "id": "gettysburg-1993_202511"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1990s",
+      "name": "1990s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:16:53.730Z"
+  "lastUpdated": "2026-01-07T00:08:32.017Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Mother_883",
-      "title": "Mother 883",
+      "title": "Mother",
       "description": "Mother, 1926, directed by Vsevolod Pudovkin. This is a great silent film from the early days of Russian communism. It is the story of one mothers personal revolution against the Tsar and has one of the moist rousing ending in movie history. YTou will want to rise up yourself.",
       "id": "Mother_883"
     }
@@ -144,9 +144,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T18:43:26.980Z"
+  "lastUpdated": "2026-01-07T00:06:38.753Z"
 }

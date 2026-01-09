@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/markofzorro-1920",
-      "title": "Markofzorro",
+      "title": "Mark of Zorro",
       "description": "Mark of Zorro was the transition between Douglas Fairbanks' early career as a brash all-American hero and the lavish 1920s costume adventures.",
       "id": "markofzorro-1920"
     },
@@ -171,9 +171,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T22:02:17.895Z"
+  "lastUpdated": "2026-01-07T00:12:55.134Z"
 }

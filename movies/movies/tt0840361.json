@@ -13,7 +13,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Stranger_in_Town_1943",
-      "title": "Stranger In Town",
+      "title": "A Stranger in Town",
       "description": "Visiting a small town in order to hunt ducks, supreme court judge Frank Morgan (the Wizard of Oz) discovers abuse of power by public servants.",
       "id": "Stranger_in_Town_1943"
     },
@@ -157,9 +157,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:06:10.255Z"
+  "lastUpdated": "2026-01-07T00:06:58.269Z"
 }

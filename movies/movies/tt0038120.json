@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ErniePyleStory",
-      "title": "ErniePyleStory",
+      "title": "Story of G.I. Joe",
       "description": "Title: Story of G.I. Joe Summary: During WW2, Pulitzer prize winner and war correspondent Ernie Pyle joins the army and writes articles about his comrades in his daily columns. Directed by: William A. Wellman Actors: Production Company: Lester Cowan Productions Release Date: 13 July 1945 (USA) Aspect Ratio: 1.37 : 1 The story of men at war and that of the esteemed Pulitzer prize winning war correspondent Ernie Pyle. Soon after the U.S. entry into World War II, Pyle joined C Company, 18th Infantry in North Africa. There he got to know the men and often wrote about them in his columns mentioning them by name, something both the soldiers and their families back home appreciated. Pyle moved to other units but as C Company is the first he went into combat with, he considers them \"his\" company and rejoins them in Italy. Many will die but his reporting brings a human face to war.",
       "id": "ErniePyleStory"
     }
@@ -137,9 +137,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T18:27:12.054Z"
+  "lastUpdated": "2026-01-07T00:06:25.398Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cape-fear-1962-colorized",
-      "title": "Cape Fear 1962 Colorized",
+      "title": "Cape Fear (1962) ( Colorized) Gregory Peck · Robert Mitchum",
       "description": "After his release from prison, a sex offender seeks revenge on the lawyer whose testimony once landed him behind bars. The lawyer ultimately defends himself against the threat to his family with a trick. A sensational, suspenseful film that skillfully plays on the viewer's emotions.",
       "id": "cape-fear-1962-colorized"
     }
@@ -135,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:45:49.949Z"
+  "lastUpdated": "2026-01-07T00:07:45.166Z"
 }

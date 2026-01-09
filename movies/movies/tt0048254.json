@@ -6,13 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1955-killers-kiss-el-beso-del-asesino-stanley-kubrick-vose",
-      "title": "1955 Killers Kiss El Beso Del Asesino Stanley Kubrick Vose",
+      "title": "1955 - Killer's Kiss - El beso del asesino - Stanley Kubrick - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1955-killers-kiss-el-beso-del-asesino-stanley-kubrick-vose"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/killerskiss1955_201908",
-      "title": "Killerskiss1955 201908",
+      "title": "Killer's Kiss (1955)",
       "description": "Killer's Kiss is a 1955 American crime film noir directed by Stanley Kubrick and written by Kubrick and Howard Sackler. It is the second feature film directed by Kubrick, the first being his 1953 debut feature Fear and Desire. The film stars Jamie Smith, Irene Kane, and Frank Silvera.",
       "id": "killerskiss1955_201908"
     }
@@ -141,9 +142,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:49:26.212Z"
+  "lastUpdated": "2026-01-07T00:09:24.699Z"
 }

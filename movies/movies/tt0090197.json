@@ -6,13 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EagleInACage_201511",
-      "title": "EagleInACage 201511",
+      "title": "Eagle In A Cage",
+      "description": "This film has fallen into the Public Domain.",
       "id": "EagleInACage_201511"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EagleinaCage_201410",
-      "title": "EagleinaCage 201410",
+      "title": "Eagle in a Cage",
       "description": "1972 directed by Fielder Cook starring Kenneth Haigh, Billie Whitelaw, Ralph Richardson, Michael Williams, Ferdy Manye, Georgina Hale, Moses Gunn and John Gielgud. Screenplay by blacklisted writer Millard Lampell. A treatment of the story of Napolean's exile to the island of St. Helen, along with a former mistress and her husband, a devoted general, a doctor attendant and the daughter of his ex-mistress. Engaging drama features excellent performances, especially Haigh as Napolean and Gielgud as the seedy Lord Sissal.",
       "id": "EagleinaCage_201410"
     }
@@ -143,9 +144,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T18:26:00.872Z"
+  "lastUpdated": "2026-01-07T00:06:19.370Z"
 }

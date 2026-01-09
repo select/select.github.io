@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-tomorrow-your-yesterday-2016-blu-ray",
-      "title": "My Tomorrow Your Yesterday 2016 Blu Ray",
+      "title": "My Tomorrow, Your Yesterday (2016)",
       "description": "On the way to his university in Kyoto, a 20 y.o. man falls in love with a woman on the train. He tells her. They start dating. She has a supernatural secret.",
       "id": "my-tomorrow-your-yesterday-2016-blu-ray"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:10:20.269Z"
+  "lastUpdated": "2026-01-07T00:09:54.334Z"
 }

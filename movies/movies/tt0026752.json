@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mutiny.-on.-the.-bounty.-1935",
-      "title": "Mutiny. On. The. Bounty.",
+      "title": "Mutiny on the Bounty (1935)",
       "description": "\"Mutiny on the Bounty\" is a classic film from 1935 , directed by Frank Lloyd . It is an adaptation of the novel by Charles Nordhoff and James Norman Hall , which is based on the true historical events of the 1798 mutiny aboard the British ship HMS Bounty. The story follows Captain William Bligh , portrayed by Charles Laughton , and his crew as they journey to Tahiti to collect breadfruit plants. Bligh's brutal navigation style and harsh treatment of his crew lead to rising tensions. This culminates in a mutiny led by Fletcher Christian , played by Clark Gable . The mutineers seize control of the ship, resulting in a dramatic clash between Bligh and Christian.",
       "id": "mutiny.-on.-the.-bounty.-1935"
     }
@@ -138,9 +138,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:09:42.136Z"
+  "lastUpdated": "2026-01-07T00:09:54.333Z"
 }

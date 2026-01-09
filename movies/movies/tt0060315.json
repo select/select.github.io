@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/django.-1966_202512",
-      "title": "Django. 1966 202512",
+      "title": "Django (1966)",
       "description": "Django , directed by Sergio Corbucci , is a spaghetti western film that premiered in Italy on April 6, 1966 . It stars Franco Nero in a breakthrough role, alongside Loredana Nusciak and José Bódalo . The film's plot revolves around Django, a Union soldier-turned-drifter, who becomes embroiled in a violent feud between Confederate soldiers and Mexican bandits, with an iconic coffin in tow. The film centers on Django, a mysterious man who drags a coffin behind him. After rescuing a mixed-race prostitute named María , Django becomes embroiled in the conflict between the racist ex-Confederate officer Major Jackson and a group of Mexican revolutionaries led by Hugo . As the plot unfolds, Django confronts Jackson and his gang, leading to a series of violent encounters and revenge-driven actions.",
       "id": "django.-1966_202512"
     }
@@ -138,9 +138,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:01:30.900Z"
+  "lastUpdated": "2026-01-07T00:08:07.359Z"
 }

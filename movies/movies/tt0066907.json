@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chatos-land-1972_202510",
-      "title": "Chatos Land 1972 202510",
+      "title": "Chato's Land (1972)",
       "description": "Chato's Land is a 1972 Western Technicolor film directed by Michael Winner, starring Charles Bronson and Jack Palance. It  follows Pardon Chato, a half-Apache man who kills a racist sheriff in self-defense and becomes the target of a vengeful posse led by former Confederate Captain Quincey Whitmore.  As the posse brutally attacks Chato's family, he decides to stop fleeing and takes revenge, using his knowledge of the land to outsmart and eliminate his pursuers one by one.",
       "id": "chatos-land-1972_202510"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:47:24.189Z"
+  "lastUpdated": "2026-01-07T00:07:45.168Z"
 }

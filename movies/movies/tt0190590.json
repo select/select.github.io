@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/o-brother-where-art-thou_2000",
-      "title": "O Brother Where Art Thou",
+      "title": "O Brother, Where Art Thou? (2000)",
       "description": "O Brother, Where Art Thou? (2000)",
       "id": "o-brother-where-art-thou_2000"
     }
@@ -138,12 +138,21 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [
     "trailer"
   ],
   "qualityNotes": "",
-  "lastUpdated": "2026-01-04T22:37:19.380Z"
+  "lastUpdated": "2026-01-07T00:10:02.900Z"
 }

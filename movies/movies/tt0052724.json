@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/day-of-the-outlaw-1959_202508",
-      "title": "Day Of The Outlaw 1959 202508",
+      "title": "Day Of The Outlaw (1959) Robert Ryan · Burl Ives · Tina Louise",
       "description": "This winter western is the masterpiece of Hollywood veteran André de Toth.",
       "id": "day-of-the-outlaw-1959_202508"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:51:57.561Z"
+  "lastUpdated": "2026-01-07T00:07:59.603Z"
 }

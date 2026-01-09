@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/house_20210324",
-      "title": "House 20210324",
+      "title": "House",
       "description": "How to describe Nobuhiko Obayashi’s indescribable 1977 movie  House  ( Hausu )? As a psychedelic ghost tale? A stream-of-consciousness bedtime story? An episode of  Scooby-Doo  as directed by Mario Bava? Any of the above will do for this hallucinatory head trip about a schoolgirl who travels with six classmates to her ailing aunt’s creaky country home and comes face-to-face with evil spirits, a demonic house cat, a bloodthirsty piano, and other ghoulish visions, all realized by Obayashi via mattes, animation, and collage effects. Equally absurd and nightmarish,  House  might have been beamed to Earth from some other planet. Never before available on home video in the United States, it’s one of the most exciting cult discoveries in years.",
       "id": "house_20210324"
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:26:16.530Z"
+  "lastUpdated": "2026-01-07T00:08:46.614Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SherlockHolmes-TheWomanInGreenVost-fr",
-      "title": "SherlockHolmes TheWomanInGreenVost Fr",
+      "title": "Sherlock Holmes- The woman in green Vost-fr",
       "description": "http://laprochaineseance.free.fr/ Realisateur : Roy William Neill Acteurs : Basil Rathbone Nigel Bruce Henry Daniell Hillary Brooke Duree : 1h07 Genre : Suspense",
       "id": "SherlockHolmes-TheWomanInGreenVost-fr"
     },
@@ -122,13 +122,27 @@
           "DE"
         ]
       }
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/DressedToKill_201606",
+      "title": "Dressed To Kill-HD",
+      "description": "sherlock holmes investigates a gang who is after a collection of music boxes.",
+      "id": "DressedToKill_201606"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/Sherlock_Holmes_1954",
+      "title": "Sherlock Holmes 1954",
+      "description": "This series has fallen into the Public Domain.",
+      "id": "Sherlock_Holmes_1954"
     }
   ],
   "metadata": {
     "Rated": "PG-13",
     "Runtime": "128 min",
     "imdbRating": "7.5",
-    "imdbVotes": "695,036",
+    "imdbVotes": "700,190",
     "Genre": "Action, Adventure, Mystery",
     "Plot": "After finally catching serial killer and occult \"sorcerer\" Lord Blackwood, legendary sleuth Sherlock Holmes and his assistant Dr. Watson can close yet another successful case. But when Blackwood mysteriously returns from the grave and resumes his killing spree, Holmes must take up the hunt once again. Contending with his partner's new fiancée and the dimwitted head of Scotland Yard, the dauntless detective must unravel the clues that will lead him into a twisted web of murder, deceit, and black magic - and the deadly embrace of temptress Irene Adler.",
     "Director": "Guy Ritchie",
@@ -254,9 +268,22 @@
       "channelName": "Popcornflix"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T03:02:22.793Z"
+  "lastUpdated": "2026-01-07T18:27:08.742Z"
 }

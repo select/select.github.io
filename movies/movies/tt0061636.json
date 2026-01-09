@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/face.-to.-face.-1967",
-      "title": "Face. To. Face.",
+      "title": "Face to Face (1967)",
       "description": "Face to Face (original title: Faccia a faccia ) is a 1967 Italian-Spanish Spaghetti Western film directed by Sergio Sollima . The film is highly regarded within the genre for its storytelling and character development, and features a notable score by composer Ennio Morricone . The film follows Professor Brad Fletcher , who, after retiring due to tuberculosis, retreats to Texas and inadvertently becomes involved with Beauregard Bennet , a notorious outlaw. When Fletcher attempts to help Bennet, a series of events unfold that lead to a profound transformation within both characters. The film is often interpreted as a commentary on the rise of fascism in Europe, drawing from Sollima's own wartime experiences. The character arcs explore themes of power, morality, and violence, culminating in Fletcher taking command of Bennet's bandit gang.",
       "id": "face.-to.-face.-1967"
     }
@@ -139,9 +139,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:10:09.255Z"
+  "lastUpdated": "2026-01-07T00:08:24.393Z"
 }

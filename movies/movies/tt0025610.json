@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ODailyBread",
-      "title": "ODailyBread",
+      "title": "Our Daily Bread",
       "description": "Great Depression tale of community, cleverness, and hard work. Tagline: We live! We love! We fight! We hate! What don't we do for - OUR DAILY BREAD Here's the IMDB page.",
       "id": "ODailyBread"
     },
@@ -145,9 +145,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T14:35:30.345Z"
+  "lastUpdated": "2026-01-07T00:06:45.465Z"
 }

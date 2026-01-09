@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1950-night-and-the-city-noche-en-la-ciudad-jules-dassin-vose",
-      "title": "1950 Night And The City Noche En La Ciudad Jules Dassin Vose",
+      "title": "1950 - Night and the City - Noche en la ciudad - Jules Dassin - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1950-night-and-the-city-noche-en-la-ciudad-jules-dassin-vose"
     }
   ],
@@ -135,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T17:56:22.674Z"
+  "lastUpdated": "2026-01-07T00:06:06.562Z"
 }

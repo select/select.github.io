@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/murder-on-the-orient-express-1974",
-      "title": "Murder On The Orient Express",
+      "title": "Murder on the Orient Express (1974)",
       "description": "Murder on the Orient Express , directed by Sidney Lumet , is a classic mystery film based on Agatha Christie 's novel of the same name. Released in 1974 , it features an ensemble cast and is known for its captivating storytelling and intricate plot. The story revolves around the murder of a wealthy American, Samuel Ratchett , aboard the luxurious Orient Express train. Renowned Belgian detective Hercule Poirot is a passenger who is called to solve the crime. As the train is stopped due to a snowdrift, Poirot interviews the various passengers, uncovering secrets and motives, revealing a web of deception.",
       "id": "murder-on-the-orient-express-1974"
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:09:17.264Z"
+  "lastUpdated": "2026-01-07T00:09:54.332Z"
 }

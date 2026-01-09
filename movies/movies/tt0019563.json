@@ -142,7 +142,12 @@
       "channelName": "Popcornflix"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

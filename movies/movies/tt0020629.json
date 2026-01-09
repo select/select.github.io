@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/all.-quiet.-on.-the.-western.-front.-1930",
-      "title": "All. Quiet. On. The. Western. Front.",
+      "title": "All Quiet on the Western Front (1930)",
       "description": "All Quiet on the Western Front is a 1930 American pre-Code epic anti-war film based on the 1929 novel of the same name by German novelist Erich Maria Remarque.It  follows Paul Bäumer, a young German soldier who enlists in World War I after being inspired by his teacher's patriotic speeches. The film depicts the brutal realities of war, showcasing the physical and emotional trauma faced by Paul and his friends as they experience the horrors of battle, leading to a profound disillusionment with the idea of glory in warfare.",
       "id": "all.-quiet.-on.-the.-western.-front.-1930"
     }
@@ -138,9 +138,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:45:30.725Z"
+  "lastUpdated": "2026-01-07T00:07:24.998Z"
 }

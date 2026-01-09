@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cross.-of.-iron.-1977",
-      "title": "Cross. Of. Iron.",
+      "title": "Cross of Iron (1977)",
       "description": "Cross of Iron is a 1977 war film directed by Sam Peckinpah, featuring James Coburn, Maximilian Schell, James Mason, and David Warner. Set during World War II on the Eastern Front, focusing on the conflict between Corporal Rolf Steiner, a battle-hardened soldier, and Captain Stransky, an aristocratic officer seeking glory. The film explores themes of survival, camaraderie, and the futility of war as Steiner navigates the harsh realities of combat while Stransky's ambition puts their squad in danger.",
       "id": "cross.-of.-iron.-1977"
     },
@@ -156,9 +156,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:10:14.488Z"
+  "lastUpdated": "2026-01-07T00:07:51.626Z"
 }

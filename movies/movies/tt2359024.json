@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/blue-ruin-2013",
-      "title": "Blue Ruin",
+      "title": "Blue Ruin (2013)",
       "description": "Blue Ruin is a 2013 American indie thriller directed by Jeremy Saulnier. The film follows the story of Dwight Evans , portrayed by Macon Blair, a drifter living in his car at a beach town. His life takes a turn when he learns that the man responsible for his parents' murder is about to be released from prison. Dwight returns to his hometown to seek revenge, but the plan quickly spirals out of control. He lacks the skills and experience for such an act, leading to a series of violent confrontations that unfold in a raw and realistic manner. The film explores themes of vengeance, family ties, and the consequences of violence. As Dwight navigates the complexities of his quest for retribution, he finds himself entangled in a cycle of brutality that affects not only him but also those around him. The story is told with a focus on gritty realism, highlighting the emotional and physical toll of his journey.",
       "id": "blue-ruin-2013"
     }
@@ -145,9 +145,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:42:43.781Z"
+  "lastUpdated": "2026-01-07T00:07:38.719Z"
 }

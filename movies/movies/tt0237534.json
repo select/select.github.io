@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/brotherhood-of-the-wolf",
-      "title": "Brotherhood Of The Wolf",
+      "title": "Brotherhood Of The Wolf (2001)",
       "description": "Brotherhood of the Wolf is a 2001 French period action horror film directed by Christophe Gans, co-written by Gans and Stéphane Cabel, and starring Samuel Le Bihan, Mark Dacascos, Émilie Dequenne, Monica Bellucci and Vincent Cassel. The story takes place in 18th-century France, where the Chevalier de Fronsac and Mani of the Iroquois tribe are sent to investigate the mysterious slaughter of hundreds by an unknown creature in the county of Gévaudan.",
       "id": "brotherhood-of-the-wolf"
     }
@@ -142,9 +142,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:44:29.469Z"
+  "lastUpdated": "2026-01-07T00:07:45.164Z"
 }

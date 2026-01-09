@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dead-of-night_20210519",
-      "title": "Dead Of Night 20210519",
+      "title": "Dead of Night",
       "description": "Architect Walter Craig (Mervyn Johns), seeking the possibility of some work at a country farmhouse, soon finds himself once again stuck in his recurring nightmare. Dreading the end of the dream that he knows is coming, he must first listen to all the assembled guests' own bizarre tales.",
       "id": "dead-of-night_20210519"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dead.-of.-night.-1945",
-      "title": "Dead. Of. Night.",
+      "title": "Dead Of Night (1945)",
       "description": "\"Dead of Night\" is a 1945 British horror anthology film where an architect named Walter Craig experiences déjà vu upon arriving at a country house, realizing the guests are from his recurring nightmares. As the evening unfolds, each guest shares their own eerie stories, culminating in a chilling conclusion that ties back to Craig's unsettling dreams.",
       "id": "dead.-of.-night.-1945"
     }
@@ -145,9 +145,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:54:47.127Z"
+  "lastUpdated": "2026-01-07T00:07:59.605Z"
 }

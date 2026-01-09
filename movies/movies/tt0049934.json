@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/men-in-war-1957",
-      "title": "Men In War",
+      "title": "Men In War (1957) Robert Ryan · Aldo Ray",
       "description": "Anti-war film with Aldo Ray as a trigger-happy sergeant..",
       "id": "men-in-war-1957"
     },
@@ -173,9 +173,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2026-01-02T19:32:29.706Z"
+  "lastUpdated": "2026-01-07T00:09:46.433Z"
 }

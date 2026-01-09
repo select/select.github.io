@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/freaks.-1932_202511",
-      "title": "Freaks. 1932 202511",
+      "title": "Freaks (1932)",
       "description": "Freaks is a 1932 American pre-Code drama horror film produced and directed by Tod Browning, starring Wallace Ford, Leila Hyams, Olga Baclanova, and Roscoe Ates. It follows a beautiful trapeze artist named Cleopatra who marries a dwarf named Hans for his inheritance, while secretly plotting to kill him with the help of her lover, the strongman Hercules. When the other circus performers discover her deceit, they band together to take revenge, leading to a chilling climax that reveals the true nature of both the \"freaks\" and Cleopatra.",
       "id": "freaks.-1932_202511"
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:14:42.654Z"
+  "lastUpdated": "2026-01-07T00:08:32.016Z"
 }

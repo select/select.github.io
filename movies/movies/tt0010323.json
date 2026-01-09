@@ -30,7 +30,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
-      "title": "DasKabinettdesDoktorCaligariTheCabinetofDrCaligari",
+      "title": "Das Kabinett des Doktor Caligari ( The Cabinet of Dr. Caligari )",
       "description": "The Cabinet of Dr. Caligari is the first modern Horror Film and it influence a number of contemporary productions. A real classic! PLOT: A man named Francis relates a story about his best friend Alan and his fiancée Jane. Alan takes him to a fair where they meet Dr. Caligari, who exhibits a somnambulist, Cesare, that can predict the future. When Alan asks how long he has to live, Cesare says he has until dawn. The prophecy comes to pass, as Alan is murdered, and Cesare is a prime suspect. Cesare creeps into Jane's bedroom and abducts her, running from the townspeople and finally dying of exhaustion. Meanwhile, the police discover a dummy in Cesare's cabinet, while Caligari flees. Francis tracks Caligari to a mental asylum. He is the director! Or is he?",
       "id": "DasKabinettdesDoktorCaligariTheCabinetofDrCaligari"
     }
@@ -159,9 +159,26 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2026-01-02T19:26:23.274Z"
+  "lastUpdated": "2026-01-07T00:11:15.975Z"
 }

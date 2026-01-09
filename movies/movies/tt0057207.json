@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Judex1963",
-      "title": "Judex1963",
+      "title": "Judex (1963)",
       "description": "Judex (1963) is a French-language crime film remake of the 1916 French film serial of the same name concerning the adventures of pulp hero Judex. Directed by French filmmaker Georges Franju, the film stars Channing Pollock as Judex/Vallieres, Adith Scob as Jacqueline, Francine Berg as Diana and Michel Vitold as Favraux.",
       "id": "Judex1963"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T18:26:55.551Z"
+  "lastUpdated": "2026-01-07T00:06:30.621Z"
 }

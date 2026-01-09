@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dracula-1931-colorized",
-      "title": "Dracula 1931 Colorized",
+      "title": "Dracula (1931) Colorized",
       "description": "Dracula (1931) Colorized",
       "id": "dracula-1931-colorized"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dracula.-1931",
-      "title": "Dracula.",
+      "title": "Dracula (1931)",
       "description": "Dracula is a 1931 American pre-Code vampire film directed and co-produced by Tod Browning from a screenplay written by Garrett Fort and starring Bela Lugosi in the title role. In te film,  a British solicitor named Renfield travels to Transylvania to meet Count Dracula, who is interested in leasing a castle in London. After becoming Dracula's servant, Renfield accompanies him to London, where Dracula preys on young women, including Renfield's friend Mina, leading to a confrontation with vampire hunter Van Helsing, who ultimately seeks to stop Dracula's reign of terror.",
       "id": "dracula.-1931"
     }
@@ -145,9 +145,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:03:31.812Z"
+  "lastUpdated": "2026-01-07T00:08:15.375Z"
 }

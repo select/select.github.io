@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheLeopardMan1943",
-      "title": "TheLeopardMan1943",
+      "title": "The Leopard Man",
       "description": "Title: The Leopard Man Summary: A seemingly tame leopard used for a publicity stunt escapes and kills a young girl, spreading panic throughout a sleepy New Mexico town. Directed by: Jacques Tourneur Actors: Production Company: RKO Radio Pictures Release Date: 25 June 1943 (USA) Aspect Ratio: 1.37 : 1 At the encouragement of her manager, a nightclub performer in New Mexico (Kiki Walker) takes a leashed leopard into the club as a publicity gimmick. But her rival, angered by the attempt to upstage, scares the animal and it bolts. In the days that follow, people are mauled and the countryside is combed for the loose creature. But Kiki and her manager begin to wonder if maybe the leopard is not responsible for the killings.",
       "id": "TheLeopardMan1943"
     },
@@ -142,9 +142,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T17:02:16.329Z"
+  "lastUpdated": "2026-01-07T00:12:10.591Z"
 }

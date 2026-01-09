@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1953thebigheatlossobornadosfritzlang",
-      "title": "1953thebigheatlossobornadosfritzlang",
+      "title": "1953 - The Big Heat - Los sobornados - Fritz Lang",
       "description": "1953 - The Big Heat - Los sobornados - Fritz Lang",
       "id": "1953thebigheatlossobornadosfritzlang"
     },
@@ -142,9 +142,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T16:51:51.078Z"
+  "lastUpdated": "2026-01-07T00:11:46.533Z"
 }

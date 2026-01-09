@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1952-sudden-fear-miedo-subito-david-miller-vose",
-      "title": "1952 Sudden Fear Miedo Subito David Miller Vose",
+      "title": "1952 - Sudden Fear - Miedo súbito - David Miller - VOSE",
+      "description": "For Academic - Educational Use Only",
       "id": "1952-sudden-fear-miedo-subito-david-miller-vose"
     },
     {
@@ -155,9 +156,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T16:45:27.819Z"
+  "lastUpdated": "2026-01-07T00:11:35.632Z"
 }

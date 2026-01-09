@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cobra-verde-1987",
-      "title": "Cobra Verde",
+      "title": "Cobra Verde (1987)",
       "description": "Cobra Verde is a 1987 German drama film directed by Werner Herzog and starring Klaus Kinski, in their fifth and final collaboration. It is a film  about Francisco Manoel da Silva,  a Brazilian bandit who, after impregnating the daughters of a plantation owner, is sent to West Africa to reopen the slave trade. In Dahomey, he negotiates with the local king, ultimately leading a rebellion and becoming embroiled in the complexities of the slave trade and colonialism.",
       "id": "cobra-verde-1987"
     }
@@ -140,9 +140,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
-  "verified": false,
+  "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:48:46.904Z"
+  "lastUpdated": "2026-01-08T23:53:12.665Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mystery.-of.-the.-wax.-museum.-1933",
-      "title": "Mystery. Of. The. Wax. Museum.",
+      "title": "Mystery of the Wax Museum (1933)",
       "description": "Mystery of the Wax Museum is an American pre-Code mystery-horror film directed by Michael Curtiz and starring Lionel Atwill, Fay Wray, Glenda Farrell, and Frank McHugh. In the film,  sculptor Ivan Igor, after surviving a fire set by his partner, reopens a wax museum in New York City. As a reporter investigates the mysterious disappearances of bodies linked to the museum, she uncovers Igor's dark secret of using real corpses to create his lifelike sculptures.",
       "id": "mystery.-of.-the.-wax.-museum.-1933"
     }
@@ -136,9 +136,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:10:49.823Z"
+  "lastUpdated": "2026-01-07T00:09:54.335Z"
 }

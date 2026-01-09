@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kwaidan-1964_202510",
-      "title": "Kwaidan 1964 202510",
+      "title": "Kwaidan (1964)",
       "description": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film  consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include  \"The Black Hair,\" about a samurai haunted by his past,  \"The Woman of the Snow,\" featuring a woodcutter and a snow spirit, \"Hoichi the Earless,\" which follows a blind musician summoned by ghosts, and \"In a Cup of Tea,\" a story about a samurai tormented by a mysterious presence.",
       "id": "kwaidan-1964_202510"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kwaidan_202103",
-      "title": "Kwaidan 202103",
+      "title": "Kwaidan",
       "description": "After more than a decade of sober political dramas and socially minded period pieces, the great Japanese director Masaki Kobayashi shifted gears dramatically for this rapturously stylized quartet of ghost stories. Featuring colorfully surreal sets and luminous cinematography, these haunting tales of demonic comeuppance and spiritual trials, adapted from writer Lafcadio Hearn’s collections of Japanese folklore, are existentially frightening and meticulously crafted. This version of  Kwaidan  is the original three-hour cut, never before released in the United States.",
       "id": "kwaidan_202103"
     }
@@ -145,9 +145,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:52:12.413Z"
+  "lastUpdated": "2026-01-07T00:09:24.701Z"
 }

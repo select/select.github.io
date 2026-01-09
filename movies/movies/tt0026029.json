@@ -104,7 +104,7 @@
       "title": "The Lady Vanishes",
       "year": 1938,
       "imdbRating": "7.7",
-      "imdbVotes": "59,921",
+      "imdbVotes": "60,724",
       "language": "English, German, French, Italian",
       "sourceType": "archive.org"
     },
@@ -145,9 +145,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:49:42.897Z"
+  "lastUpdated": "2026-01-07T00:11:46.531Z"
 }

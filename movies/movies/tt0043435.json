@@ -13,25 +13,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951-cry-danger-grito-de-terror-parrish-ve-version-en-espanol",
-      "title": "1951 Cry Danger Grito De Terror Parrish Ve Version En Espanol",
+      "title": "1951 - Cry Danger - Grito de terror - Robert Parrish - VE - Versión en Español",
+      "description": "For Academic / Educational Use Only",
       "id": "1951-cry-danger-grito-de-terror-parrish-ve-version-en-espanol"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951-cry-danger-grito-de-terror-robert-parrish-vo-version-original",
-      "title": "1951 Cry Danger Grito De Terror Robert Parrish Vo Version Original",
+      "title": "1951 - Cry Danger - Grito de terror - Robert Parrish - VO - Versión Original",
+      "description": "For Academic / Educational Use Only",
       "id": "1951-cry-danger-grito-de-terror-robert-parrish-vo-version-original"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951-cry-danger-grito-de-terror-robert-parrish-vose",
-      "title": "1951 Cry Danger Grito De Terror Robert Parrish Vose",
+      "title": "1951 - Cry Danger - Grito de terror - Robert Parrish - VOSE",
+      "description": "https://derechonoir.wordpress.com/",
       "id": "1951-cry-danger-grito-de-terror-robert-parrish-vose"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cry-danger-1951",
-      "title": "Cry Danger",
+      "title": "Cry Danger (1951) Dick Powell, Rhonda Fleming, William Conrad, Jean Porter",
       "description": "  Cry Danger is a 1951 FILM NOlR thriller film, starring Dick Powell and Rhonda Fleming, William Conrad and Jean Porter. The film was directed by Robert Parrish, a former child star and later editor in his debut as a director.   You can find out more about this movie from Wikipedia . There is also a good review of the movie here from the movie blog D for Doom .    ",
       "id": "cry-danger-1951"
     }
@@ -160,9 +163,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:18:32.795Z"
+  "lastUpdated": "2026-01-07T00:07:51.626Z"
 }

@@ -6,13 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/clacinonl_lumberjack",
-      "title": "Clacinonl Lumberjack",
+      "title": "Lumberjack",
       "id": "clacinonl_lumberjack"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lumberjack1944",
-      "title": "Lumberjack1944",
+      "title": "Lumberjack",
+      "description": "You can find more information regarding this film on its IMDb page .",
       "id": "lumberjack1944"
     }
   ],
@@ -141,9 +142,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:01:01.515Z"
+  "lastUpdated": "2026-01-07T00:09:46.420Z"
 }

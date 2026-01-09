@@ -6,13 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-the-lodger-jack-el-destripador-john-brahm",
-      "title": "1944 The Lodger Jack El Destripador John Brahm",
+      "title": "1944 - The Lodger - Jack El destripador - John Brahm",
+      "description": "For Academic / Educational Use Only",
       "id": "1944-the-lodger-jack-el-destripador-john-brahm"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-the-lodger-jack-el-destripador-john-brahm-vo",
-      "title": "1944 The Lodger Jack El Destripador John Brahm Vo",
+      "title": "1944 - The Lodger - Jack el destripador - John Brahm - VO",
+      "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "id": "1944-the-lodger-jack-el-destripador-john-brahm-vo"
     }
   ],
@@ -140,9 +142,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T17:52:48.261Z"
+  "lastUpdated": "2026-01-07T00:06:03.997Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BridgeToIranInPersian",
-      "title": "BridgeToIranInPersian",
+      "title": "Bridge to Iran in Persian",
       "description": "Bridge to Iran in Persian",
       "id": "BridgeToIranInPersian"
     }
@@ -146,9 +146,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "2020s",
+      "name": "2020s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T18:19:32.658Z"
+  "lastUpdated": "2026-01-07T00:06:14.040Z"
 }

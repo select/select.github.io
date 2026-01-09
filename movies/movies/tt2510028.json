@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/frontera-2014-webrip-ma",
-      "title": "Frontera 2014 Webrip Ma",
+      "title": "Frontera",
       "description": "A former Arizona sheriff's wife is killed while riding on their ranch property. It would appear a Mexican man illegally crossing into the US is at fault. As the former and the current sheriff search for answers, lives are changed forever.",
       "id": "frontera-2014-webrip-ma"
     },
@@ -159,9 +159,22 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:23:40.494Z"
+  "lastUpdated": "2026-01-07T00:08:32.016Z"
 }

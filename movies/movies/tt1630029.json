@@ -162,7 +162,12 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],

@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DominiqueIsDead1978",
-      "title": "DominiqueIsDead1978",
+      "title": "Dominique Is Dead",
+      "description": "This film has fallen into the Public Domain.",
       "id": "DominiqueIsDead1978"
     },
     {
@@ -159,9 +160,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:11:49.240Z"
+  "lastUpdated": "2026-01-07T00:06:19.369Z"
 }

@@ -13,20 +13,21 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cyrano-4-k",
-      "title": "Cyrano 4 K",
+      "title": "Cyrano De Bergerac (1950) [Colorized, 4K, 60FPS]",
+      "description": "Cyrano De Bergerac is a 1950 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "id": "cyrano-4-k"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cyrano-de-bergerac-1950_202312",
-      "title": "Cyrano De Bergerac 1950 202312",
+      "title": "Cyrano de Bergerac (1950)",
       "description": "France, 1640. Cyrano, the charismatic swordsman-poet with the absurd nose, hopelessly loves the beauteous Roxane; she, in turn, confesses to Cyrano her love for the handsome but tongue-tied Christian. The chivalrous Cyrano sets up with Christian an innocent deception, with tragic results. Watch on RetroFlix:  https://retroflix.org/cyrano-de-bergerac-1950/",
       "id": "cyrano-de-bergerac-1950_202312"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cyrano.-de.-bergerac.-1950",
-      "title": "Cyrano. De. Bergerac.",
+      "title": "Cyrano De Bergerac (1950)",
       "description": "Cyrano de Bergerac is a 1950 American adventure comedy film based on the 1897 French alexandrine drama Cyrano de Bergerac by Edmond Rostand. It  follows the story of a talented poet and swordsman, Cyrano, who is deeply in love with his beautiful cousin Roxane but feels unworthy due to his large nose. To help her pursue another man, Christian, who lacks eloquence, Cyrano secretly writes love letters for him, leading to a complex love triangle filled with wit, bravery, and ultimately tragedy. The film  stars José Ferrer as Cyrano, Mala Powers as Roxane, and William Prince as Christian de Neuvillette. Other notable cast members include Morris Carnovsky as Le Bret and Ralph Clanton as Comte de Guiche.",
       "id": "cyrano.-de.-bergerac.-1950"
     },
@@ -94,13 +95,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Cyrano_DeBergerac_ipod",
-      "title": "Cyrano DeBergerac Ipod",
+      "title": "Cyrano DeBergerac",
+      "description": "From: IMDb : France, 1640: Cyrano, the charismatic swordsman-poet with the absurd nose, hopelessly loves the beauteous Roxane; she, in turn, confesses to Cyrano her love for the handsome but tongue-tied Christian. The chivalrous Cyrano sets up with Christian an innocent deception, with tragic results. Much cut from the play, but dialogue not rewritten.",
       "id": "Cyrano_DeBergerac_ipod"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cyrano-de-bergerac-1950-adventure-drama-romance-full-length-film",
-      "title": "Cyrano De Bergerac 1950 Adventure Drama Romance Full Length Film",
+      "title": "Cyrano De Bergerac ( 1950)  Adventure,  Drama,  Romance",
       "description": "Poet, romantic and sword fighter Cyrano de Bergerac (Jose Ferrer) loves the beautiful Roxane (Mala Powers), but although he is proud enough of his bulbous proboscis that he regularly duels those who dare mock it, he fears she could never love a man with such an enormous nose. When he learns that she  loves the handsome guardsman Christian (William Prince), Cyrano provides the tongue-tied young man with the words of love and devotion he wishes he could say to Roxanne himself.",
       "id": "cyrano-de-bergerac-1950-adventure-drama-romance-full-length-film"
     }
@@ -229,9 +231,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2026-01-03T23:59:51.529Z"
+  "lastUpdated": "2026-01-07T00:07:51.627Z"
 }

@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1950-where-the-sidewalk-ends-al-borde-del-peligro-otto-preminger-vose",
-      "title": "1950 Where The Sidewalk Ends Al Borde Del Peligro Otto Preminger Vose",
+      "title": "1950 - Where the Sidewalk Ends - Al borde del peligro - Otto Preminger - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1950-where-the-sidewalk-ends-al-borde-del-peligro-otto-preminger-vose"
     },
     {
@@ -142,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T22:05:36.850Z"
+  "lastUpdated": "2026-01-07T00:13:06.704Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bad-taste-1987-full-movie",
-      "title": "Bad Taste 1987 Full Movie",
+      "title": "Bad Taste",
       "description": "The population of a small town disappears and is replaced by aliens that chase human flesh for their intergalactic fast-food chain.",
       "id": "bad-taste-1987-full-movie"
     }
@@ -140,9 +140,18 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-31T16:46:03.410Z"
+  "lastUpdated": "2026-01-07T00:07:31.713Z"
 }

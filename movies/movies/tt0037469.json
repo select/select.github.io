@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-the-woman-in-the-window-la-mujer-del-cuadro-fritz-lang",
-      "title": "1944 The Woman In The Window La Mujer Del Cuadro Fritz Lang",
+      "title": "1944 - The Woman in the Window - La mujer del cuadro - Fritz Lang",
       "description": "1944 - The Woman in the Window - La mujer del cuadro - Fritz Lang",
       "id": "1944-the-woman-in-the-window-la-mujer-del-cuadro-fritz-lang"
     },
@@ -156,9 +156,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T21:52:45.864Z"
+  "lastUpdated": "2026-01-07T00:12:44.281Z"
 }

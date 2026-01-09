@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/all.-quiet.-on.-the.-western.-front.-1979",
-      "title": "All. Quiet. On. The. Western. Front.",
+      "title": "All Quiet on the Western Front (1979)",
       "description": "\"All Quiet on the Western Front\" (1979) is an anti-war television film directed by Delbert Mann, based on the novel by Erich Maria Remarque. It follows the story of Paul Bäumer, a young German soldier who experiences the brutal realities of World War I, leading to profound disillusionment with the war.",
       "id": "all.-quiet.-on.-the.-western.-front.-1979"
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:45:32.144Z"
+  "lastUpdated": "2026-01-07T00:07:24.998Z"
 }

@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FourHorsemenOfTheApocalypse",
-      "title": "FourHorsemenOfTheApocalypse",
+      "title": "The Four Horsemen of the Apocalypse",
       "description": "Rudolph Valentino Stars in this epic set during the First World War.",
       "id": "FourHorsemenOfTheApocalypse"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Four_Horsemen_of_the_Apocalypse",
-      "title": "The Four Horsemen Of The Apocalypse",
+      "title": "The Four Horsemen of the Apocalypse",
       "description": "This is the movie that made Rudolph Valentino a star. Written by June Mathis it was released in 1921 and was the best selling movie of that year. It went on to tbe th 6th best selling silent of all time, and at one point it was likely the highest grossing movie of all time due to rereleases (it was bumped by Gone with the Wind's release). For more info about the film and production please see http://forgetthetalkies.com/2008/06/valentino-review-four-horsemen-of.html This film will also hopefully screen at http://therudolphvalentinofilmfestival.com",
       "id": "The_Four_Horsemen_of_the_Apocalypse"
     },
@@ -29,6 +29,13 @@
       "title": "The Four Horsemen Of The Apocalypse (1921)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. One of the top grossing silent films ever made, The Four Horsemen of the Apocalypse was also a critical darling on release. It was an important success not only for director Rex Ingram and star Rudolph Valentino, but also for writer June Mathis, one of the few female writers in Hollywood at the time. The film follows a young man and his family, split between both Germany and France, as world war I begins and ravages Europe.",
       "id": "the-four-horsemen-of-the-apocalypse-1921-1080p-bluray-opus-1-0-x-264-retro-peeps"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/4horsemen-4k",
+      "title": "Rex Ingram: Four Horsemen of the Apocalypse (1921) [Colorized, 4K, 60FPS]",
+      "description": "Four horsemen of the apocalypse 1921 is a black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2021 using Artificial Intelligence (A.I) and Google Colab colab.research.google.com/ Technologies used: A.I. Colorizing: //github.com/jantic/DeOldify A.I. Increasing frame rate 60 FPS: //rife-vfi.github.io A.I. Upscaling to 4K: ffmpeg.org GPU: Google Colab",
+      "id": "4horsemen-4k"
     }
   ],
   "metadata": {
@@ -155,9 +162,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T16:57:32.987Z"
+  "lastUpdated": "2026-01-07T17:50:20.343Z"
 }

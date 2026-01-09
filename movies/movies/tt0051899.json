@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/man-of-the-west-1958",
-      "title": "Man Of The West",
+      "title": "Man Of The West (1958) Gary Cooper · Julie London",
       "description": "1874: A former bank robber, now righteous, is forced by his former accomplices to participate in a new robbery. He pretends to submit to their violence, but in reality, he decides to kill the bandits.. One of the most acclaimed Westerns of the 1950s, it is above average in its presentation and design, but whose apparent morality and numerous harsh elements remain questionable..",
       "id": "man-of-the-west-1958"
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:02:55.295Z"
+  "lastUpdated": "2026-01-07T00:09:46.425Z"
 }

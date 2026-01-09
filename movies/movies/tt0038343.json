@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bedlam_202104",
-      "title": "Bedlam 202104",
+      "title": "Bedlam",
       "description": "Nell Bowen, the protégé of Lord Mortimer, wants to help change the conditions of notorious St. Mary's of Bethlehem Asylum (Bedlam). Though she tries to reform Bedlam, but the cruel Master Sims who runs it has her committed there, though ultimate, it's the lunatics who've taken over the asylum.",
       "id": "bedlam_202104"
     }
@@ -137,9 +137,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T22:27:16.657Z"
+  "lastUpdated": "2026-01-07T00:07:31.714Z"
 }

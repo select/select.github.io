@@ -6,13 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1958-murder-by-contract-asesinato-por-contrato-irving-lerner-vose",
-      "title": "1958 Murder By Contract Asesinato Por Contrato Irving Lerner Vose",
+      "title": "1958 - Murder by Contract - Asesinato por contrato - Irving Lerner - VOSE",
+      "description": "For Academic / Educational Use Only",
       "id": "1958-murder-by-contract-asesinato-por-contrato-irving-lerner-vose"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/murder-by-contract-1958",
-      "title": "Murder By Contract",
+      "title": "Murder by Contract (1958)",
       "description": "Claude is a ruthless and efficient contract killer. His next target, a woman, is the most difficult. Watch on RetroFlix.org: https://retroflix.org/murder-by-contract-1958/",
       "id": "murder-by-contract-1958"
     }
@@ -141,9 +142,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:09:11.004Z"
+  "lastUpdated": "2026-01-07T00:09:54.332Z"
 }

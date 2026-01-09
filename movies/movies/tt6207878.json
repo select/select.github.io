@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NoDateNoSignature",
-      "title": "NoDateNoSignature",
+      "title": "No Date, No Signature",
       "description": "Iranian Film ‘No Date, No Signature’ Venice Film Festival Review By Vahid Jalilvand",
       "id": "NoDateNoSignature"
     }
@@ -145,9 +145,22 @@
       "channelName": "Movie Central"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T18:52:05.419Z"
+  "lastUpdated": "2026-01-07T00:06:45.464Z"
 }

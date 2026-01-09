@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Fatal_Glass_of_Beer_1933",
-      "title": "Fatal Glass Of Beer",
+      "title": "The Fatal Glass of Beer",
       "description": "A short W.C. Fields film.",
       "id": "Fatal_Glass_of_Beer_1933"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fatal_glass_of_beer",
-      "title": "Fatal Glass Of Beer",
+      "title": "Fatal Glass of Beer",
       "description": "Comedy short featuring W.C. Fields. You can find more information regarding this film on its IMDb page .",
       "id": "fatal_glass_of_beer"
     },
@@ -149,9 +149,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T16:56:24.477Z"
+  "lastUpdated": "2026-01-07T00:11:57.686Z"
 }

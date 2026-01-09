@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hombre-1967_202509",
-      "title": "Hombre 1967 202509",
+      "title": "Hombre (1967) Paul Newman · Fredric March",
       "description": "Paul Newman as a taciturn outsider. A gripping Western by Martin Ritt.. Paul Newman plays the white man John Russell, raised among the Apaches and thus familiar with their way of thinking and acting. Together with a group of travelers who view the outsider with contempt, Russell becomes embroiled in a stagecoach robbery in which the bandits are after the embezzled money of an Indian agent. Without food or sufficient water, the bandits abandon the group in the wilderness except for one hostage. The motley crew must reluctantly entrust themselves to the leadership of the experienced Russell, increasingly irritated by his behavior and Indian philosophy of life.   An unsentimental film, superbly photographed by James Wong Howe , in which the dialogue and the inner tension of the characters take center stage and which features Paul Newman in an exceptional role.",
       "id": "hombre-1967_202509"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hombre-1967_202511",
-      "title": "Hombre 1967 202511",
+      "title": "Hombre (1967)",
       "description": "Hombre is a 1967 American revisionist Western film directed by Martin Ritt, based on the 1961 novel of the same name by Elmore Leonard and starring Paul Newman, Fredric March, Richard Boone and Diane Cilento. The story  follows John Russell, a white man raised by Apaches, who inherits a boarding house after his adoptive father's death. He reluctantly returns to the white world, where he becomes the only hope for a group of stagecoach passengers when they are attacked by outlaws, leading to a moral dilemma about loyalty and survival.",
       "id": "hombre-1967_202511"
     }
@@ -143,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1960s",
+      "name": "1960s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:24:47.016Z"
+  "lastUpdated": "2026-01-07T00:08:46.613Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/house-of-frankenstein-1944_202106",
-      "title": "House Of Frankenstein 1944 202106",
+      "title": "House Of Frankenstein 1944",
       "description": "A deranged scientist escapes from prison and recruits Dracula, Frankenstein and the Wolf Man to get revenge on his behalf.",
       "id": "house-of-frankenstein-1944_202106"
     }
@@ -136,9 +136,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:26:07.415Z"
+  "lastUpdated": "2026-01-07T00:08:46.614Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fires-on-the-plain-1959",
-      "title": "Fires On The Plain",
+      "title": "Fires On The Plain (1959)",
       "description": "Fires on the Plain is a 1959 Japanese war film directed by Kon Ichikawa, starring Eiji Funakoshi. The screenplay, written by Natto Wada, is based on the novel Nobi by Shōhei Ōoka, translated as Fires on the Plain. It follows Private Tamura, a tubercular soldier in the Japanese army during the final days of World War II, as he struggles to survive on the island of Leyte. Cut off from supplies and facing starvation, he encounters the brutal realities of war, including cannibalism and despair, ultimately leading to a harrowing journey that explores the depths of human suffering and the loss of humanity in wartime.",
       "id": "fires-on-the-plain-1959"
     }
@@ -137,9 +137,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:12:32.605Z"
+  "lastUpdated": "2026-01-07T00:08:24.395Z"
 }

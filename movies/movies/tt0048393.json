@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/confidential-report-1955-orson-welles-colorized-movie-film-noir-thriller-subtitles",
-      "title": "Confidential Report 1955 Orson Welles Colorized Movie Film Noir Thriller Subtitles",
+      "title": "Confidential Report",
       "description": "Two words whispered, two men dead... Discovering the past can be murder... An elusive billionaire hires an American smuggler to investigate his past, leading to a dizzying descent into a cold-war European landscape.",
       "id": "confidential-report-1955-orson-welles-colorized-movie-film-noir-thriller-subtitles"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/film-noir-mr.-arkadin-confidential-report-1955-orson-welles-movie-subtiles",
-      "title": "Film Noir Mr. Arkadin Confidential Report 1955 Orson Welles Movie Subtiles",
+      "title": "Confidential Report",
       "description": "Claiming that he doesn’t know his own past, a rich man enlists an ex-con with an odd bit of detective work. Gregory Arkadin says he can’t remember anything before the late 1920s, and convict Guy Van Stratten is happy to take the job of exploring his new acquaintance’s life story. Guy’s research turns up stunning details about his employer’s past, and as his work seems linked to untimely deaths, the mystery surrounding Mr. Arkadin deepens.",
       "id": "film-noir-mr.-arkadin-confidential-report-1955-orson-welles-movie-subtiles"
     },
@@ -151,9 +151,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:48:36.654Z"
+  "lastUpdated": "2026-01-07T00:08:24.394Z"
 }

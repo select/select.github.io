@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-weisse-wasche",
-      "title": "1942 Weisse Wasche",
+      "title": "1942 Weisse Wäsche",
       "description": "Film aus dem deutschen dritten Reich von 1942. Weisse Wäsche ",
       "id": "1942-weisse-wasche"
     }
@@ -135,9 +135,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-26T14:14:50.916Z"
+  "lastUpdated": "2026-01-07T00:06:03.996Z"
 }

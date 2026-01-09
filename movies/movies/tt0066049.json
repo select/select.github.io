@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-man-called-horse-1970",
-      "title": "A Man Called Horse",
+      "title": "A Man Called Horse (1970)",
       "description": "A Man Called Horse is a 1970 Western film directed by Elliot Silverstein, produced by Sandy Howard, and written by Jack DeWitt. The film follows  an English aristocrat named John Morgan is captured by a Sioux tribe in the 1820s and initially treated like an animal. As he endures harsh treatment and learns the tribe's customs, he gains their respect, ultimately becoming a warrior and leader within the tribe.",
       "id": "a-man-called-horse-1970"
     }
@@ -138,9 +138,18 @@
       "channelName": "Netzkino"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:39:20.382Z"
+  "lastUpdated": "2026-01-07T00:07:18.438Z"
 }

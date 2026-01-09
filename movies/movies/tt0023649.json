@@ -6,9 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Vampyr1932",
-      "title": "Vampyr1932",
+      "title": "VAMPYR (1932)",
       "description": "Classic surreal horror movie. An arthouse type of film. This is an unrestored print with non English subtitles. CASTLE OF DOOM an Americanize version dubbed in English is also here in the Archives.",
       "id": "Vampyr1932"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/TheCastleOfDoom1934",
+      "title": "THE CASTLE OF DOOM (1934)",
+      "description": "This is the classic surreal movie VAMPYR (1932) Re cut and dubbed for the American market in 1934. This print is pretty poor but this is a rare film.",
+      "id": "TheCastleOfDoom1934"
     }
   ],
   "metadata": {
@@ -138,9 +145,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:29:16.635Z"
+  "lastUpdated": "2026-01-07T18:33:30.666Z"
 }

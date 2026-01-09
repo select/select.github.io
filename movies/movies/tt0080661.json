@@ -13,9 +13,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dressed_to_kill_ipod",
-      "title": "Dressed To Kill Ipod",
+      "title": "Dressed to Kill",
       "description": "Aka 'Sherlock Holmes in Dressed To Kill' - features Basil Rathbone as Sherlock Holmes.",
       "id": "dressed_to_kill_ipod"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/AnotherMysteryNightAtTheBijoudoubleFeature",
+      "title": "ANOTHER MYSTERY NIGHT AT THE BIJOU (double feature)",
+      "description": "This is a simulated Sherlock Holmes double feature program at a second-run movie house in the 1940s. The evening's entertainment begins with coming attractions and a cartoon, followed by \"Dressed to Kill.\" The intermission featurette is the Robert Benchley short, \"A Night at the Movies.\" The second feature presentation is \"The Secret Weapon.\" NOTE: All the items in this mysterious simulation can be found in various IA collections.",
+      "id": "AnotherMysteryNightAtTheBijoudoubleFeature"
     }
   ],
   "metadata": {
@@ -144,9 +151,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:22:08.190Z"
+  "lastUpdated": "2026-01-07T17:54:06.024Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/operation-crossbow-1965",
-      "title": "Operation Crossbow",
+      "title": "Operation Crossbow (1965) George Peppard · Sophia Loren",
       "description": "In 1943, three hand-picked agents parachute into Holland on a sabotage mission to counter the German missile threat.   A lavish American film that tells its interesting story with sufficient suspense right up to the overly sensational ending.",
       "id": "operation-crossbow-1965"
     }
@@ -135,9 +135,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:16:47.001Z"
+  "lastUpdated": "2026-01-07T00:10:12.692Z"
 }

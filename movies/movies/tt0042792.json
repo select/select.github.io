@@ -6,19 +6,21 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1950-no-way-out-o-odio-e-cego-un-rayo-de-luz-joseph-l.-mankiewicz-legendado",
-      "title": "1950 No Way Out O Odio E Cego Un Rayo De Luz Joseph L. Mankiewicz Legendado",
+      "title": "1950 - No Way Out - O ódio é cego - Un rayo de luz - Joseph L. Mankiewicz - Legendado",
+      "description": "https://derechonoir.wordpress.com/",
       "id": "1950-no-way-out-o-odio-e-cego-un-rayo-de-luz-joseph-l.-mankiewicz-legendado"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1950-no-way-out-un-rayo-de-luz-joseph-l.-mankiewicz-vose",
-      "title": "1950 No Way Out Un Rayo De Luz Joseph L. Mankiewicz Vose",
+      "title": "1950 - No Way Out - Un Rayo De Luz - Joseph L. Mankiewicz - VOSE",
+      "description": "https://derechonoir.wordpress.com/",
       "id": "1950-no-way-out-un-rayo-de-luz-joseph-l.-mankiewicz-vose"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nowayout1950",
-      "title": "Nowayout1950",
+      "title": "No Way Out (1950) Richard Widmark, Linda Darnell, Sidney Poitier - Film Noir Full Movie",
       "description": "No Way Out is a 1950 American film noir directed by Joseph L. Mankiewicz, and starring Richard Widmark, Linda Darnell, Stephen McNally and Sidney Poitier. Wikipedia: https://en.wikipedia.org/wiki/No_Way_Out_(1950_film) Suggested Film Noirs: http://bit.ly/2tLevkl The Internet Archive is an excellent choice for entire full length Netflix & YouTube style uploads of drama, mystery, thriller & crime noir movies from the UK & USA for free. Download complete online British & American classic black & white films from the 1940s & 1950s.",
       "id": "nowayout1950"
     },
@@ -157,9 +159,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T14:24:43.980Z"
+  "lastUpdated": "2026-01-07T00:10:02.899Z"
 }

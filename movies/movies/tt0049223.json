@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/forbidden.-planet.-1956_202512",
-      "title": "Forbidden. Planet. 1956 202512",
+      "title": "Forbidden Planet (1956)",
       "description": "\"Forbidden Planet\" is a classic science fiction film released in 1956 , directed by Fred M. Wilcox. It is celebrated as one of the first major sci-fi films to be set entirely on another planet, showcasing advanced special effects and a groundbreaking narrative style. The film follows a space crew led by Commander John J. Adams, played by Leslie Nielsen, who is sent to investigate the silence of a distant planet, Altair IV, where a previous expedition had vanished. Upon arrival, they discover Dr. Morbius, portrayed by Walter Pidgeon, and his daughter, Alta, living in an advanced, ancient civilization's ruins. They quickly learn of the planet's dangers, including the mysterious power of the Krell and the monstrous creature that stalks them. The film has influenced countless works in the sci-fi genre, including \"Star Trek\" and \"Star Wars.\" Its blend of adventure, philosophy, and cautionary tales about the dangers of technology and the subconscious resonates with both classic and modern audiences.",
       "id": "forbidden.-planet.-1956_202512"
     }
@@ -139,9 +139,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:13:58.842Z"
+  "lastUpdated": "2026-01-07T00:08:32.015Z"
 }

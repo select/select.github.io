@@ -26,7 +26,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1927-underworld-la-ley-del-hampa-josef-von-sternberg-intertitulos-en-ingles",
-      "title": "1927 Underworld La Ley Del Hampa Josef Von Sternberg Intertitulos En Ingles",
+      "title": "1927 - Underworld - La ley del hampa - Josef von Sternberg - Intertítulos en inglés",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "id": "1927-underworld-la-ley-del-hampa-josef-von-sternberg-intertitulos-en-ingles"
     }
@@ -156,9 +156,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2026-01-02T19:39:01.860Z"
+  "lastUpdated": "2026-01-07T00:12:55.132Z"
 }

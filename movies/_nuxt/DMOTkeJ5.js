@@ -1,0 +1,1 @@
+function t(r){if(r==null||r==="")return"";let e;return typeof r=="number"?e=r:e=parseInt(r.replace(/,/g,""),10),isNaN(e)?"":e>=1e6?`${(e/1e6).toFixed(1)}M votes`:e>=1e3?`${(e/1e3).toFixed(1)}K votes`:`${e} votes`}export{t as f};

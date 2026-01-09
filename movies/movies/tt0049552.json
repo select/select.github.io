@@ -6,9 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nightfall1957",
-      "title": "Nightfall1957",
+      "title": "Nightfall (1957) Anne Bancroft, Aldo Ray, Brian Keith - Film Noir",
       "description": "Nightfall is a 1957 American crime film noir directed by Jacques Tourneur and written by Stirling Silliphant. It features Aldo Ray, Brian Keith, and Anne Bancroft. The low-budget film is remembered today for camera work by cinematographer Burnett Guffey. It uses flashbacks as a device to tell the story, which was based on a 1948 novel by David Goodis. Wikipedia: https://en.wikipedia.org/wiki/Nightfall_(1957_film) Suggested Film Noirs: http://bit.ly/2tLevkl The Internet Archive is an excellent choice for entire full length Netflix & YouTube style uploads of drama, mystery, thriller & crime noir movies from the UK & USA for free. Download complete online British & American classic black & white films from the 1940s & 1950s.",
       "id": "nightfall1957"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/1956-nightfall-al-caer-la-noche-jacques-tourneur-vose",
+      "title": "1956 - Nightfall - Al caer la noche - Jacques Tourneur - VOSE",
+      "description": "For Academic / Educational Use Only",
+      "id": "1956-nightfall-al-caer-la-noche-jacques-tourneur-vose"
     }
   ],
   "metadata": {
@@ -136,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:13:02.025Z"
+  "lastUpdated": "2026-01-07T17:44:56.818Z"
 }

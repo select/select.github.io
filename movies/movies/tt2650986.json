@@ -6,14 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Northwest2013ByMichaelNoer",
-      "title": "Northwest2013ByMichaelNoer",
+      "title": "Northwest (2013) by Michael Noer",
       "description": "Northwest (2013) by Michael Noer",
       "id": "Northwest2013ByMichaelNoer"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Northwest2013ByMichaelNoer_248",
-      "title": "Northwest2013ByMichaelNoer 248",
+      "title": "Northwest (2013) by Michael Noer",
+      "description": "Northwest (2013) by Michael Noer",
       "id": "Northwest2013ByMichaelNoer_248"
     }
   ],
@@ -148,9 +149,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "2010s",
+      "name": "2010s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T18:52:35.416Z"
+  "lastUpdated": "2026-01-07T00:06:45.464Z"
 }

@@ -135,9 +135,25 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
-  "lastUpdated": "2025-12-28T17:00:31.686Z"
+  "qualityLabels": [
+    "blocked"
+  ],
+  "qualityNotes": "",
+  "lastUpdated": "2026-01-07T01:29:28.419Z"
 }

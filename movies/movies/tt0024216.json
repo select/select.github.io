@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/king.-kong.-1933.-colorized.-version",
-      "title": "King. Kong. 1933. Colorized. Version",
+      "title": "King Kong (1933) Colorized",
       "description": "King Kong (1933) Colorized",
       "id": "king.-kong.-1933.-colorized.-version"
     }
@@ -138,9 +138,22 @@
       "channelName": "Popcornflix"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:49:55.310Z"
+  "lastUpdated": "2026-01-07T00:09:24.700Z"
 }

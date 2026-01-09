@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/asa-the-scarlet-empress-1934-a-film-directed-by-josef-von-sternberg-with-marlene",
-      "title": "Asa The Scarlet Empress 1934 A Film Directed By Josef Von Sternberg With Marlene",
+      "title": "The Scarlet Empress (1934)",
       "description": "A German noblewoman enters into a loveless marriage with the dim-witted, unstable heir to the Russian throne, then plots to oust him from power.",
       "id": "asa-the-scarlet-empress-1934-a-film-directed-by-josef-von-sternberg-with-marlene"
     },
@@ -143,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T21:43:18.504Z"
+  "lastUpdated": "2026-01-07T00:12:22.158Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/genevieve-1953",
-      "title": "Genevieve",
+      "title": "Genevieve (1953)",
       "description": "Two friends driving in the London to Brighton vintage car rally bet on which of them will be the first to arrive back home. Watch on RetroFlix:  https://retroflix.org/genevieve-1953/",
       "id": "genevieve-1953"
     }
@@ -136,9 +136,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:16:27.925Z"
+  "lastUpdated": "2026-01-07T00:08:32.017Z"
 }

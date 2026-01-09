@@ -10,6 +10,13 @@
       "id": "7D-RBKm5zbA",
       "channelName": "Netzkino",
       "channelId": "UCGkHFrwE8KEuOHPVsIOskAg"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/a-streetcar-named-desire-1951",
+      "title": "A Streetcar Named Desire 1951",
+      "description": "A Streetcar Named Desire 1951",
+      "id": "a-streetcar-named-desire-1951"
     }
   ],
   "metadata": {
@@ -136,12 +143,17 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [
     "blocked"
   ],
   "qualityNotes": "YouTube video blocked/unavailable",
-  "lastUpdated": "2025-12-28T07:26:37.467Z"
+  "lastUpdated": "2026-01-07T18:45:27.860Z"
 }

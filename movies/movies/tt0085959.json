@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/monty-python__the-meaning-of-life__1983",
-      "title": "Monty Python The Meaning Of Life",
+      "title": "The Meaning of Life",
       "description": "Monty Python's The Meaning of Life",
       "id": "monty-python__the-meaning-of-life__1983"
     }
@@ -138,9 +138,14 @@
       "channelName": "Mosfilm"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
-  "verified": false,
+  "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:07:44.681Z"
+  "lastUpdated": "2026-01-08T23:54:21.138Z"
 }

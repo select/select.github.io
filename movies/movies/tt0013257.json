@@ -13,14 +13,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Haxan1922SpanishSubtitles",
-      "title": "Haxan1922SpanishSubtitles",
+      "title": "Haxan (1922) spanish subtitles",
       "description": "Haxan (1922) spanish subtitles No music. No sound.",
       "id": "Haxan1922SpanishSubtitles"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/haxan-1922_202312",
-      "title": "Haxan 1922 202312",
+      "title": "Häxan (1922)",
       "description": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous. Watch on RetroFlix:  https://retroflix.org/haxan-1922/",
       "id": "haxan-1922_202312"
     }
@@ -149,9 +149,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:22:26.748Z"
+  "lastUpdated": "2026-01-07T00:08:39.344Z"
 }

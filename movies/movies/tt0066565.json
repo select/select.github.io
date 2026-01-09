@@ -15,7 +15,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhiteSunOfTheDesert",
-      "title": "WhiteSunOfTheDesert",
+      "title": "White Sun of the Desert",
       "description": "\"White Sun of the Desert\" (Beloye solntse pustyni). It is the Soviet film, easterly \"western\". In the movie narrate about adventures of Red Army man Fyodor Sukhov. He rescues from gangster Abdullah its harem in days of civil war. One of the most known films in the history of the Soviet cinema. Many critics and spectators name this film as \"cult movie\". Phrases of heroes of a film have steadily entered into colloquial Russian. Director: Vladimir Motyl Authors of the scenario: Valentin Yezhov, Rustam Ibragimbekov, Mark Zakharov In roles: Anatoly Kuznetsov, Pavel Luspekaev, Spartak Mishulin, Kakhi Kavsadze, Nikolay Godovikov Director of photography: Edward Rozovsky Composer: Isaak Schwarz Movie studio: \"Mosfilm\"",
       "id": "WhiteSunOfTheDesert"
     }
@@ -145,9 +145,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:32:12.118Z"
+  "lastUpdated": "2026-01-07T00:07:11.888Z"
 }

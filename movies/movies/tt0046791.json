@@ -6,14 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/blackwidow1954usa",
-      "title": "Blackwidow1954usa",
+      "title": "Black Widow (1954) Ginger Rogers, George Raft, Van Heflin, Gene Tierney - Film Noir Full Movie",
       "description": "Black Widow is a 1954 mystery film with elements of film noir, written, produced and directed by Nunnally Johnson and starring Ginger Rogers, Van Heflin, Gene Tierney, Peggy Ann Garner and George Raft. Wikipedia: https://en.wikipedia.org/wiki/Black_Widow_(1954_film) Suggested Film Noirs: http://bit.ly/2tLevkl The Internet Archive is an excellent choice for entire full length Netflix & YouTube style uploads of drama, mystery, thriller & crime noir movies from the UK & USA for free. Download complete online British & American classic black & white films from the 1940s & 1950s.",
       "id": "blackwidow1954usa"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlackWidow1954",
-      "title": "BlackWidow1954",
+      "title": "Black Widow ( 1954)",
+      "description": "Film Noir",
       "id": "BlackWidow1954"
     }
   ],
@@ -142,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T23:47:13.279Z"
+  "lastUpdated": "2026-01-07T00:07:38.718Z"
 }

@@ -13,7 +13,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ThingsToCome_835",
-      "title": "ThingsToCome 835",
+      "title": "Things To Come",
       "description": "A story of 100 years: a decades-long second world war leaves plague and anarchy, then a rational state rebuilds civilization and tries space travel. - IMDB Description",
       "id": "ThingsToCome_835"
     },
@@ -173,9 +173,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:33:46.937Z"
+  "lastUpdated": "2026-01-07T00:12:44.282Z"
 }

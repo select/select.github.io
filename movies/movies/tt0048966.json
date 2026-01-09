@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/attack-1956_202508",
-      "title": "Attack 1956 202508",
+      "title": "Attack! (1956) Jack Palance · Eddie Albert",
       "description": "The deadly clash between a cowardly, incompetent American company commander, who was protected by higher-ups, and his subordinates during a defensive battle against German SS troops in Belgium. A realistic, tough war episode with a polemical touch; psychologically profound and credible in its portrayal.",
       "id": "attack-1956_202508"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/attack.-1956",
-      "title": "Attack.",
+      "title": "Attack! (1956)",
       "description": "Attack!\" is a 1956 war film set during World War II, focusing on a U.S.  front-line combat infantry unit led by the cowardly Captain Erskine Cooney. The story follows the tensions between Cooney and his more competent subordinate, Lieutenant Joe Costa, as they face the brutal realities of combat and the consequences of leadership failures during the Battle of the Bulge.",
       "id": "attack.-1956"
     }
@@ -143,9 +143,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:48:39.477Z"
+  "lastUpdated": "2026-01-07T00:07:31.712Z"
 }

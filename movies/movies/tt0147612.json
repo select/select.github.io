@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/happiness.-1998.4-k.-ai.-gup-scale",
-      "title": "Happiness. 1998.4 K. Ai. Gup Scale",
+      "title": "Happiness (1998) - AI upscaled to 4K",
       "description": "Sourced from that awful PAL DVD copy of the movie that is all around the internet Detelecined from 25fps to 23.80 (weird FPS I know, but that's what came out and keeps the runtime exactly the same, 2:14:09) Square pixels (no more anamorphic) AI upscaled to 3840x2160 Jpeg sequence with Topaz Synced to audio Encoded to 37.3mbps HVEC https://www.imdb.com/title/tt0147612/?ref_=fn_al_tt_1",
       "id": "happiness.-1998.4-k.-ai.-gup-scale"
     }
@@ -141,9 +141,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "1990s",
+      "name": "1990s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:21:09.426Z"
+  "lastUpdated": "2026-01-07T00:08:39.344Z"
 }

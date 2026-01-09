@@ -6,14 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/frankenstein-1931-colorized_202407",
-      "title": "Frankenstein 1931 Colorized 202407",
+      "title": "Frankenstein (1931) Colorized",
       "description": "Frankenstein (1931) Colorized",
       "id": "frankenstein-1931-colorized_202407"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/frankenstein.-1931",
-      "title": "Frankenstein.",
+      "title": "Frankenstein (1931)",
       "description": "Frankenstein is a 1931 American pre-Code science fiction gothic horror film directed by James Whale, produced by Carl Laemmle Jr. , and adapted from the 1927 play Frankenstein: An Adventure in the Macabre by Peggy Webling, which in turn was based on Mary Shelley's 1818 novel Frankenstein; or, The Modern Prometheus. It follows  Dr. Henry Frankenstein, an obsessed scientist, assembles a creature from body parts of the deceased and brings it to life using electricity. However, the creature, portrayed by Boris Karloff, escapes and wreaks havoc, leading to tragic consequences as Frankenstein confronts the monster he created.",
       "id": "frankenstein.-1931"
     },
@@ -150,9 +150,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:14:37.111Z"
+  "lastUpdated": "2026-01-07T00:08:32.016Z"
 }

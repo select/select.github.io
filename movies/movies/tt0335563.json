@@ -25,6 +25,13 @@
       "title": "Alice in Wonderland",
       "description": "Alice's Wonderland was one of a series of films which mixed animation with real life produced in 1923 by the Laugh o Gram studios which were headed by Walt Disney and employed Ub Iwerks who did a great deal of the animation.",
       "id": "AliceInWonderland_965"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/AliceInWonderland1803",
+      "title": "Alice in Wonderland (1803)",
+      "description": "This is a film of the children's story made in 1903 by Cecil Hepworth and Percy Stow. I have added a generic music track.",
+      "id": "AliceInWonderland1803"
     }
   ],
   "metadata": {
@@ -155,9 +162,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "2000s",
+      "name": "2000s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:07:37.702Z"
+  "lastUpdated": "2026-01-07T17:53:38.081Z"
 }

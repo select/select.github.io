@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1943-shadow-of-a-doubt-la-sombra-de-una-duda-alfred-hitchcock-vose",
-      "title": "1943 Shadow Of A Doubt La Sombra De Una Duda Alfred Hitchcock Vose",
+      "title": "1943 - Shadow of a Doubt - La sombra de una duda - Alfred Hitchcock - VOSE",
+      "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "id": "1943-shadow-of-a-doubt-la-sombra-de-una-duda-alfred-hitchcock-vose"
     },
     {
@@ -148,9 +149,22 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1940s",
+      "name": "1940s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T16:08:24.948Z"
+  "lastUpdated": "2026-01-07T00:10:50.365Z"
 }

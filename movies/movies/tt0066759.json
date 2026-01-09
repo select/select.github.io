@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheAmericanWestofJohnFord",
-      "title": "TheAmericanWestofJohnFord",
+      "title": "The American West of John Ford",
       "description": "A documentary encapsulating the career and Western films of director 'John Ford' , including clips from his work and interviews with his colleagues such as John Wayne, James Stewart, Henry Fonda and Andy Devine.",
       "id": "TheAmericanWestofJohnFord"
     },
@@ -146,9 +146,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T02:39:29.140Z"
+  "lastUpdated": "2026-01-07T00:06:58.272Z"
 }

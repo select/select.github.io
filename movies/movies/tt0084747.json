@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheDemon_201609",
-      "title": "TheDemon 201609",
+      "title": "The Demon",
       "description": "A serial killer stalks a young teacher while being hunted by a psychic investigator. You can find out more about this movie on its IMDB page .",
       "id": "TheDemon_201609"
     }
@@ -136,9 +136,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T19:53:43.025Z"
+  "lastUpdated": "2026-01-07T00:06:58.273Z"
 }

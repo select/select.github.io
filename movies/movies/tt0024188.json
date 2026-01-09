@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/island.-of.-lost.-souls.-1932",
-      "title": "Island. Of. Lost. Souls.",
+      "title": "Island of Lost Souls (1932)",
       "description": "Island of Lost Souls is a 1932 American science fiction horror film directed by Erle C.  Kenton. It  is based on H.  G.  Wells' 1896 novel The Island of Doctor Moreau and stars Charles Laughton, Richard Arlen, and Kathleen Burke. The film  follows Edward Parker, a shipwrecked sailor who is rescued and taken to a remote island owned by the mad scientist Dr. Moreau.  There, Parker discovers that Moreau is conducting horrific experiments to transform animals into human-like creatures, including Lota, a woman derived from a panther, leading to a series of chilling events as Parker confronts Moreau's twisted ambitions.",
       "id": "island.-of.-lost.-souls.-1932"
     }
@@ -136,9 +136,26 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:31:44.316Z"
+  "lastUpdated": "2026-01-07T00:08:54.188Z"
 }

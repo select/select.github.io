@@ -13,14 +13,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dr.-jekyll-and-mr.-hyde-1920_202504",
-      "title": "Dr. Jekyll And Mr. Hyde 1920 202504",
+      "title": "Dr. Jekyll and Mr. Hyde (1920)",
       "description": "A doctor's research into the roots of evil turns him into a hideous depraved fiend. Watch on RetroFlix:  https://retroflix.org/dr-jekyll-and-mr-hyde-1920/",
       "id": "dr.-jekyll-and-mr.-hyde-1920_202504"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jkyll4K",
-      "title": "Jkyll4K",
+      "title": "Dr Jekyll and Mr Hyde (1920) [Colorized, 4K, 60FPS}",
+      "description": "Dr Jekyll and Mr Hyde is a 1920 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "id": "jkyll4K"
     },
     {
@@ -173,9 +174,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-29T03:00:22.239Z"
+  "lastUpdated": "2026-01-07T00:09:15.996Z"
 }

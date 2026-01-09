@@ -1,134 +1,41 @@
 {
   "database": {
-    "total": 31477,
-    "matched": 14946,
-    "unmatched": 16531,
-    "archiveOrgSources": 26789,
+    "total": 30563,
+    "matched": 14963,
+    "unmatched": 15600,
+    "archiveOrgSources": 26517,
     "youtubeSources": 11202,
-    "curatedCount": 14946,
-    "qualityMarkedCount": 250,
+    "curatedCount": 14963,
+    "qualityMarkedCount": 215,
     "qualityBreakdown": {
-      "blocked": 100,
-      "clip": 33,
-      "interview": 19,
-      "teaser": 6,
-      "trailer": 85,
-      "behind-the-scenes": 6,
+      "blocked": 101,
+      "clip": 32,
+      "interview": 18,
+      "teaser": 4,
+      "trailer": 55,
+      "behind-the-scenes": 3,
       "promo": 3,
       "incorrect": 1,
       "duplicate": 1
     },
     "collections": {
-      "feature_films": 26789
-    },
-    "youtubeChannels": [
-      {
-        "id": "UCGkHFrwE8KEuOHPVsIOskAg",
-        "name": "Netzkino",
-        "language": "de",
-        "enabled": true,
-        "scraped": 2321
-      },
-      {
-        "id": "UC8IHAQMuiJdY6ALuhG7iU8Q",
-        "name": "FilmRise Movies",
-        "language": "en",
-        "enabled": true,
-        "scraped": 327
-      },
-      {
-        "id": "UCVFYikepF-avelvuIaQ_lHA",
-        "name": "Popcornflix",
-        "language": "en",
-        "enabled": true,
-        "scraped": 471
-      },
-      {
-        "id": "UCGBzBkV-MinlBvHBzZawfLQ",
-        "name": "Movie Central",
-        "language": "en",
-        "enabled": true,
-        "scraped": 2379
-      },
-      {
-        "id": "UCOg0aMAXmF3o5m243PxhE5g",
-        "name": "Timeless Classic Movies",
-        "language": "en",
-        "enabled": true,
-        "scraped": 163
-      },
-      {
-        "id": "UCm5U4zqpahzyNXBv5ZT51Jw",
-        "name": "Mosfilm",
-        "language": "ru",
-        "enabled": true,
-        "scraped": 268
-      },
-      {
-        "id": "UCh4JH8axA_jUjB8YoRnm0cg",
-        "name": "Moviedome",
-        "language": "de",
-        "enabled": true,
-        "scraped": 529
-      },
-      {
-        "id": "UCE34fwgW7kWr7tc7YiOWtRw",
-        "name": "PizzaFlix",
-        "language": "en",
-        "enabled": true,
-        "scraped": 1971
-      },
-      {
-        "id": "UCT6gOjzXtqeb_oE-wZVHlFA",
-        "name": "Public Domain Movies - Classic Old Movies",
-        "language": "en",
-        "enabled": true,
-        "scraped": 179
-      },
-      {
-        "id": "UCWlLgwn2nfjnefINARfcquA",
-        "name": "Timeless Classic Films",
-        "language": "en",
-        "enabled": true,
-        "scraped": 30
-      },
-      {
-        "id": "UCgLqpXqmEJoyDYE_lpY1DXg",
-        "name": "Colorized Public Domain",
-        "language": "en",
-        "enabled": true,
-        "scraped": 234
-      },
-      {
-        "id": "UCycDFnpMeWzaITQSD1dWsOA",
-        "name": "Cult Cinema Classics",
-        "language": "en",
-        "enabled": true,
-        "scraped": 2042
-      },
-      {
-        "id": "UCvH6u_Qzn5RQdz9W198umDw",
-        "name": "Korean Classic Film",
-        "language": "ko",
-        "enabled": true,
-        "scraped": 288
-      }
-    ]
+      "feature_films": 26517
+    }
   },
   "external": {
     "archiveOrg": {
-      "total": 27438,
-      "scraped": 26789,
-      "percent": 97.63466724979955,
+      "total": 27728,
+      "scraped": 26517,
+      "percent": 95.63257357184074,
       "failed": 0,
       "failureRate": 0
     },
     "youtube": {
       "totalScraped": 11202,
-      "totalAvailable": 17855,
+      "totalAvailable": 17897,
       "totalFailed": 6022,
       "failureRate": 34.962842545285646,
-      "percent": 62.73872864743769,
+      "percent": 62.59149578141589,
       "channels": [
         {
           "id": "UCGkHFrwE8KEuOHPVsIOskAg",
@@ -136,7 +43,7 @@
           "language": "de",
           "enabled": true,
           "scraped": 2321,
-          "total": 2772,
+          "total": 2777,
           "failed": 435,
           "failureRate": 15.783744557329463
         },
@@ -166,7 +73,7 @@
           "language": "en",
           "enabled": true,
           "scraped": 2379,
-          "total": 2602,
+          "total": 2603,
           "failed": 205,
           "failureRate": 7.93343653250774
         },
@@ -196,7 +103,7 @@
           "language": "de",
           "enabled": true,
           "scraped": 529,
-          "total": 605,
+          "total": 608,
           "failed": 106,
           "failureRate": 16.69291338582677
         },
@@ -206,7 +113,7 @@
           "language": "en",
           "enabled": true,
           "scraped": 1971,
-          "total": 3650,
+          "total": 3658,
           "failed": 1656,
           "failureRate": 45.6575682382134
         },
@@ -216,7 +123,7 @@
           "language": "en",
           "enabled": true,
           "scraped": 179,
-          "total": 558,
+          "total": 564,
           "failed": 350,
           "failureRate": 66.1625708884688
         },
@@ -236,7 +143,7 @@
           "language": "en",
           "enabled": true,
           "scraped": 234,
-          "total": 282,
+          "total": 283,
           "failed": 47,
           "failureRate": 16.72597864768683
         },
@@ -246,7 +153,7 @@
           "language": "en",
           "enabled": true,
           "scraped": 2042,
-          "total": 5087,
+          "total": 5105,
           "failed": 2499,
           "failureRate": 55.03193129266681
         },
@@ -264,50 +171,50 @@
     }
   },
   "curation": {
-    "total": 31477,
-    "curated": 14946,
-    "percent": 47.48228865520856
+    "total": 30563,
+    "curated": 14963,
+    "percent": 48.95789025946406
   },
   "omdb": {
-    "total": 31477,
-    "matched": 14946,
-    "unmatched": 16531,
-    "percent": 47.48228865520856,
-    "failed": 12144,
-    "failureRate": 44.82834994462902
+    "total": 30563,
+    "matched": 14963,
+    "unmatched": 15600,
+    "percent": 48.95789025946406,
+    "failed": 3494,
+    "failureRate": 18.93048707807336
   },
   "ai": {
-    "totalUnmatched": 16531,
-    "withAiData": 4741,
-    "withoutAiData": 11790,
-    "percent": 28.67945072893352
+    "totalUnmatched": 15600,
+    "withAiData": 9465,
+    "withoutAiData": 6135,
+    "percent": 60.67307692307692
   },
   "quality": {
-    "totalMarked": 250,
+    "totalMarked": 215,
     "breakdown": {
-      "blocked": 100,
-      "clip": 33,
-      "interview": 19,
-      "teaser": 6,
-      "trailer": 85,
-      "behind-the-scenes": 6,
+      "blocked": 101,
+      "clip": 32,
+      "interview": 18,
+      "teaser": 4,
+      "trailer": 55,
+      "behind-the-scenes": 3,
       "promo": 3,
       "incorrect": 1,
       "duplicate": 1
     },
-    "percent": 0.7942307081360993
+    "percent": 0.7034649739881556
   },
   "posters": {
-    "totalMovies": 31477,
-    "withPosterUrl": 13359,
-    "downloaded": 13272,
-    "missing": 87,
+    "totalMovies": 30563,
+    "withPosterUrl": 13366,
+    "downloaded": 13344,
+    "missing": 22,
     "failed": 12,
-    "failureRate": 0.09033423667570009,
-    "percentOfMoviesWithUrl": 99.34875364922524,
-    "percentOfAllMovies": 42.16411983352925,
-    "filesInDirectory": 13357,
-    "matchedPosters": 13272
+    "failureRate": 0.08984725965858043,
+    "percentOfMoviesWithUrl": 99.83540326200809,
+    "percentOfAllMovies": 43.660635408827666,
+    "filesInDirectory": 13439,
+    "matchedPosters": 13344
   },
-  "lastUpdated": "2026-01-02T20:52:22.613Z"
+  "lastUpdated": "2026-01-08T20:40:53.842Z"
 }

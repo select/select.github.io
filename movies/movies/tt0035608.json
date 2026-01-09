@@ -9,6 +9,13 @@
       "title": "Action in the North Atlantic",
       "description": "trailer",
       "id": "ActionInTheNorthAtlantic"
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/action-in-the-atlantic-1943",
+      "title": "Action In The Atlantic BOGART 1943",
+      "description": "Humphrey Bogart plays a 1st Mate on  WW2 Victory ship in an allied convoy hunted by murdering nazi U-Boats and their cowardly Captains.",
+      "id": "action-in-the-atlantic-1943"
     }
   ],
   "metadata": {
@@ -136,9 +143,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "war",
+      "name": "War"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T15:07:00.640Z"
+  "lastUpdated": "2026-01-07T18:47:41.711Z"
 }

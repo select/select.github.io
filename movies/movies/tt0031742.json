@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/of.-mice.-and.-men.-1939",
-      "title": "Of. Mice. And. Men.",
+      "title": "Of Mice and Men (1939)",
       "description": "Of Mice and Men is a 1939 American drama film based on the 1937 play of the same name, which itself was based on the novella of the same name by author John Steinbeck. It  follows two migrant workers, George and Lennie, during the Great Depression as they seek employment on a California ranch. They dream of owning their own land, but their plans are disrupted by tragedy when Lennie accidentally kills Curley's wife, leading to a heartbreaking conclusion.  The film stars Burgess Meredith, Betty Field, and Lon Chaney Jr. , and features Charles Bickford, Roman Bohnen, Bob Steele, and Noah Beery Jr.",
       "id": "of.-mice.-and.-men.-1939"
     }
@@ -139,9 +139,18 @@
       "channelName": "PizzaFlix"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1930s",
+      "name": "1930s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T07:15:13.824Z"
+  "lastUpdated": "2026-01-07T00:10:02.900Z"
 }

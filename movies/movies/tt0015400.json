@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ThiefOfBagdad1924",
-      "title": "ThiefOfBagdad1924",
+      "title": "Thief of Bagdad",
       "description": "Original (and therefore public domain) version of this classic. Does not contain any of the \"additional\" footage, interviews, new music or other embellishments added and copyrighted in the 1980s. Enjoy the acrobatic athleticism and Human-Generated (HG) effects of one of filmdom's greatest actors. IMDb 7.8/10 http://www.imdb.com/title/tt0015400/",
       "id": "ThiefOfBagdad1924"
     },
@@ -164,9 +164,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T22:02:16.542Z"
+  "lastUpdated": "2026-01-07T00:12:55.134Z"
 }

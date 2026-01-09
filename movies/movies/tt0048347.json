@@ -6,7 +6,8 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/golden-arms-4-k",
-      "title": "Golden Arms 4 K",
+      "title": "The Man With The Golden Arm (1955) [Colorized, 4K, 60FPS]",
+      "description": "The Man With The Golden Arm is a 1955 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2021 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "id": "golden-arms-4-k"
     },
     {
@@ -161,9 +162,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "id": "1950s",
+      "name": "1950s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-30T00:14:19.515Z"
+  "lastUpdated": "2026-01-07T00:12:44.281Z"
 }

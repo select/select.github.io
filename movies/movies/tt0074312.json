@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chinese-roulette",
-      "title": "Chinese Roulette",
+      "title": "Chinese Roulette(1976)",
       "description": "Both the parents of a young teen who walks with crutches, goes on each their secret meeting with lovers, both surprising each other at the family's county home. The daughter arrives and initiates a guessing game of \"Chinese roulette\".",
       "id": "chinese-roulette"
     }
@@ -135,9 +135,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "thriller",
+      "name": "Thriller"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T05:47:53.433Z"
+  "lastUpdated": "2026-01-07T00:07:51.622Z"
 }

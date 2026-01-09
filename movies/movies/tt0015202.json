@@ -6,14 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheHandsOfOrlac1924",
-      "title": "TheHandsOfOrlac1924",
+      "title": "The Hands of Orlac (1924)",
       "description": "Orlacs HÃ¤nde (English language title: \"The Hands of Orlac\"; French title: \"Les Mains d'Orlac\") is an Austrian silent film of 1924. This late Expressionist work, produced by Robert Wiene, has been remade twice.",
       "id": "TheHandsOfOrlac1924"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/handsoforlac4k",
-      "title": "Handsoforlac4k",
+      "title": "The Hands Of Orlac (1924) [Colorized, 4K, 60FPS]",
+      "description": "The Hands Of Orlac is a 1924 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io A.I. Upscaling to 4K:  https://ffmpeg.org GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "id": "handsoforlac4k"
     },
     {
@@ -151,9 +152,22 @@
       "channelName": "Netzkino"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "horror",
+      "name": "Horror"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1920s",
+      "name": "1920s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T21:49:18.483Z"
+  "lastUpdated": "2026-01-07T00:12:33.208Z"
 }

@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/agnes-of-god-1985",
-      "title": "Agnes Of God",
+      "title": "Agnes of God (1985)",
       "description": "Agnes of God is a 1985 American mystery film directed by Norman Jewison and starring Jane Fonda, Anne Bancroft and Meg Tilly. It follows  a novice nun named Sister Agnes who is found with a dead baby in her convent room, leading to an investigation into her mental state. A psychiatrist is assigned to determine if Agnes is competent to stand trial for manslaughter, uncovering themes of faith, innocence, and trauma as she navigates the complexities of Agnes's past and the secrets of the convent.",
       "id": "agnes-of-god-1985"
     }
@@ -137,9 +137,18 @@
       "channelName": "Netzkino"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "id": "1980s",
+      "name": "1980s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T21:43:04.801Z"
+  "lastUpdated": "2026-01-07T00:07:24.994Z"
 }

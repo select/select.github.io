@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lone-wolf-and-cub-2-baby-cart-at-the-river-styx",
-      "title": "Lone Wolf And Cub 2 Baby Cart At The River Styx",
+      "title": "Lone Wolf And Cub: 2 - Baby Cart At The River Styx",
       "description": "In this exploitation-cinema classic, which took the action and graphic violence of the  Lone Wolf and Cub  series to delirious new heights, Itto Ogami and Daigoro continue their quest for vengeance through  meifumado,  the spiritual way of “demons and damnation,” pursued constantly by the Shadow Yagyu clan and the shogun’s spies.",
       "id": "lone-wolf-and-cub-2-baby-cart-at-the-river-styx"
     }
@@ -139,9 +139,18 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "1970s",
+      "name": "1970s Cinema"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-28T06:58:57.122Z"
+  "lastUpdated": "2026-01-07T00:09:38.892Z"
 }

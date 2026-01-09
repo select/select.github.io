@@ -6,7 +6,7 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheSon-of-a-gun1919",
-      "title": "TheSon Of A Gun1919",
+      "title": "The Son-of-a-gun (1919)",
       "description": "Gilbert M. Anderson plays a cowboy who gets kicked out of town and told he'll be shot if he comes back. A Thunderbird Picture.",
       "id": "TheSon-of-a-gun1919"
     }
@@ -136,9 +136,14 @@
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "western",
+      "name": "Western"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "qualityLabels": [],
-  "lastUpdated": "2025-12-27T20:57:10.964Z"
+  "lastUpdated": "2026-01-07T00:07:05.036Z"
 }
