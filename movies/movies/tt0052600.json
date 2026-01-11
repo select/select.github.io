@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "Not Rated",
     "Runtime": "88 min",
-    "imdbRating": "8.2",
-    "imdbVotes": "11,927",
+    "imdbRating": 8.2,
+    "imdbVotes": 11927,
     "Genre": "Drama, Romance, War",
     "Plot": "During World War II, 19 year old soldier Alyosha gets a medal as a reward for a heroic act at the front. Instead of this medal he asks for a few days leave to visit his mother and repair the roof of their home. On the train eastwards he meets Shura who is on her way to her aunt. In those few days traveling together they fall in love.",
     "Director": "Grigoriy Chukhray",
@@ -32,8 +32,8 @@
       "imdbId": "tt0053712",
       "title": "Clear Skies",
       "year": 1961,
-      "imdbRating": "7.2",
-      "imdbVotes": "492",
+      "imdbRating": 7.2,
+      "imdbVotes": 492,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -42,8 +42,8 @@
       "imdbId": "tt0049783",
       "title": "The Forty-First",
       "year": 1956,
-      "imdbRating": "7.5",
-      "imdbVotes": "1,690",
+      "imdbRating": 7.5,
+      "imdbVotes": 1690,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -52,8 +52,8 @@
       "imdbId": "tt0051476",
       "title": "China Doll",
       "year": 1958,
-      "imdbRating": "6.0",
-      "imdbVotes": "652",
+      "imdbRating": 6,
+      "imdbVotes": 652,
       "language": "English, Chinese",
       "sourceType": "archive.org"
     },
@@ -61,8 +61,8 @@
       "imdbId": "tt0050634",
       "title": "The Cranes Are Flying",
       "year": 1957,
-      "imdbRating": "8.3",
-      "imdbVotes": "21,499",
+      "imdbRating": 8.3,
+      "imdbVotes": 21499,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -71,8 +71,8 @@
       "imdbId": "tt0050379",
       "title": "A Farewell to Arms",
       "year": 1957,
-      "imdbRating": "5.8",
-      "imdbVotes": "2,995",
+      "imdbRating": 5.8,
+      "imdbVotes": 2995,
       "language": "English, Latin",
       "sourceType": "archive.org"
     },
@@ -80,8 +80,8 @@
       "imdbId": "tt0050204",
       "title": "Bombers B-52",
       "year": 1957,
-      "imdbRating": "5.9",
-      "imdbVotes": "980",
+      "imdbRating": 5.9,
+      "imdbVotes": 980,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -89,8 +89,8 @@
       "imdbId": "tt0050882",
       "title": "Raintree County",
       "year": 1957,
-      "imdbRating": "6.3",
-      "imdbVotes": "4,428",
+      "imdbRating": 6.3,
+      "imdbVotes": 4428,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -98,8 +98,8 @@
       "imdbId": "tt0049871",
       "title": "A Town Like Alice",
       "year": 1956,
-      "imdbRating": "7.2",
-      "imdbVotes": "1,980",
+      "imdbRating": 7.2,
+      "imdbVotes": 1980,
       "language": "English, Japanese",
       "sourceType": "archive.org"
     },
@@ -107,8 +107,8 @@
       "imdbId": "tt0049934",
       "title": "War and Peace",
       "year": 1956,
-      "imdbRating": "6.7",
-      "imdbVotes": "11,288",
+      "imdbRating": 6.7,
+      "imdbVotes": 11288,
       "language": "English, Russian, French",
       "sourceType": "archive.org"
     },
@@ -116,8 +116,8 @@
       "imdbId": "tt0049014",
       "title": "The Black Tent",
       "year": 1956,
-      "imdbRating": "5.5",
-      "imdbVotes": "491",
+      "imdbRating": 5.5,
+      "imdbVotes": 491,
       "language": "German, English",
       "sourceType": "archive.org"
     },
@@ -125,8 +125,8 @@
       "imdbId": "tt0047860",
       "title": "Battle Cry",
       "year": 1955,
-      "imdbRating": "6.4",
-      "imdbVotes": "2,767",
+      "imdbRating": 6.4,
+      "imdbVotes": 2767,
       "language": "English, Japanese, Navajo",
       "sourceType": "archive.org"
     },
@@ -134,13 +134,21 @@
       "imdbId": "tt0022879",
       "title": "A Farewell to Arms",
       "year": 1932,
-      "imdbRating": "6.4",
-      "imdbVotes": "7,225",
+      "imdbRating": 6.4,
+      "imdbVotes": 7225,
       "language": "English, Italian, Latin, French",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "romance",
       "name": "Romance"
@@ -156,6 +164,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-23T04:02:07.236Z"
 }

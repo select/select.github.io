@@ -25,8 +25,8 @@
   "metadata": {
     "Rated": "Not Rated",
     "Runtime": "162 min",
-    "imdbRating": "8.0",
-    "imdbVotes": "153,633",
+    "imdbRating": 8,
+    "imdbVotes": 153633,
     "Genre": "Drama, Sci-Fi",
     "Plot": "In a small, unnamed country there's an area called the Zone. It's an unusual area, and within its a place known as the Room, where it's believed wishes are granted. The government declared The Zone a no-go area and have sealed it off. This hasn't stopped people from entering the Zone. A writer, and a professor, want to reach the Zone. Their guide - a man known as a stalker, has a special relation with the Zone.",
     "Director": "Andrei Tarkovsky",
@@ -41,8 +41,8 @@
       "imdbId": "tt0060107",
       "title": "Andrei Rublev",
       "year": 1966,
-      "imdbRating": "8.0",
-      "imdbVotes": "58,379",
+      "imdbRating": 8,
+      "imdbVotes": 58379,
       "language": "Russian, Italian, Tatar",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -51,8 +51,8 @@
       "imdbId": "tt0078067",
       "title": "Patrick",
       "year": 1978,
-      "imdbRating": "6.2",
-      "imdbVotes": "4,268",
+      "imdbRating": 6.2,
+      "imdbVotes": 4268,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -60,8 +60,8 @@
       "imdbId": "tt0081989",
       "title": "The Agency",
       "year": 1980,
-      "imdbRating": "4.8",
-      "imdbVotes": "643",
+      "imdbRating": 4.8,
+      "imdbVotes": 643,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -69,8 +69,8 @@
       "imdbId": "tt0053987",
       "title": "The Steamroller and the Violin",
       "year": 1961,
-      "imdbRating": "7.4",
-      "imdbVotes": "7,703",
+      "imdbRating": 7.4,
+      "imdbVotes": 7703,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -79,8 +79,8 @@
       "imdbId": "tt0091670",
       "title": "The Sacrifice",
       "year": 1986,
-      "imdbRating": "7.9",
-      "imdbVotes": "34,380",
+      "imdbRating": 7.9,
+      "imdbVotes": 34380,
       "language": "Swedish, Icelandic",
       "sourceType": "youtube",
       "channelName": "Moviedome"
@@ -89,8 +89,8 @@
       "imdbId": "tt0069293",
       "title": "Solaris",
       "year": 1972,
-      "imdbRating": "7.9",
-      "imdbVotes": "103,380",
+      "imdbRating": 7.9,
+      "imdbVotes": 103380,
       "language": "Russian, German",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -99,8 +99,8 @@
       "imdbId": "tt0072730",
       "title": "A Boy and His Dog",
       "year": 1975,
-      "imdbRating": "6.4",
-      "imdbVotes": "20,560",
+      "imdbRating": 6.4,
+      "imdbVotes": 20560,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -108,8 +108,8 @@
       "imdbId": "tt0085267",
       "title": "Born in Flames",
       "year": 1983,
-      "imdbRating": "6.5",
-      "imdbVotes": "2,418",
+      "imdbRating": 6.5,
+      "imdbVotes": 2418,
       "language": "English, French",
       "sourceType": "archive.org"
     },
@@ -117,8 +117,8 @@
       "imdbId": "tt0086429",
       "title": "Testament",
       "year": 1983,
-      "imdbRating": "6.9",
-      "imdbVotes": "7,406",
+      "imdbRating": 6.9,
+      "imdbVotes": 7406,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Movie Central"
@@ -127,8 +127,8 @@
       "imdbId": "tt0076727",
       "title": "Office Romance",
       "year": 1977,
-      "imdbRating": "8.2",
-      "imdbVotes": "11,272",
+      "imdbRating": 8.2,
+      "imdbVotes": 11272,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -137,8 +137,8 @@
       "imdbId": "tt14407336",
       "title": "The Beast",
       "year": 2023,
-      "imdbRating": "6.5",
-      "imdbVotes": "11,356",
+      "imdbRating": 6.5,
+      "imdbVotes": 11356,
       "language": "French, English",
       "sourceType": "youtube",
       "channelName": "Moviedome"
@@ -147,8 +147,8 @@
       "imdbId": "tt0079999",
       "title": "The Theme",
       "year": 1979,
-      "imdbRating": "7.3",
-      "imdbVotes": "601",
+      "imdbRating": 7.3,
+      "imdbVotes": 601,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -158,6 +158,10 @@
     {
       "id": "top-movies",
       "name": "Top Movies"
+    },
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
     },
     {
       "id": "sci-fi",
@@ -170,6 +174,5 @@
   ],
   "is_curated": true,
   "verified": true,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-03T20:23:01.752Z"
 }

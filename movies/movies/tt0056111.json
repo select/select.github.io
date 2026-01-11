@@ -25,8 +25,8 @@
   "metadata": {
     "Rated": "Not Rated",
     "Runtime": "95 min",
-    "imdbRating": "8.0",
-    "imdbVotes": "42,671",
+    "imdbRating": 8,
+    "imdbVotes": 42671,
     "Genre": "Drama, War",
     "Plot": "During World War II, 12-year old Ivan works as a spy on the eastern front. The small Ivan can cross the German lines unnoticed to collect information. Three Soviet officers try to take care of this boy-child.",
     "Director": "Andrei Tarkovsky, Eduard Abalov",
@@ -41,8 +41,8 @@
       "imdbId": "tt0055796",
       "title": "Billy Budd",
       "year": 1962,
-      "imdbRating": "7.8",
-      "imdbVotes": "5,166",
+      "imdbRating": 7.8,
+      "imdbVotes": 5166,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0056063",
       "title": "Hemingway's Adventures of a Young Man",
       "year": 1962,
-      "imdbRating": "6.3",
-      "imdbVotes": "717",
+      "imdbRating": 6.3,
+      "imdbVotes": 717,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -59,8 +59,7 @@
       "imdbId": "tt2461750",
       "title": "A.P.O. 923",
       "year": 1962,
-      "imdbRating": "N/A",
-      "imdbVotes": "7",
+      "imdbVotes": 7,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -68,8 +67,8 @@
       "imdbId": "tt0056447",
       "title": "Satan Never Sleeps",
       "year": 1962,
-      "imdbRating": "6.0",
-      "imdbVotes": "901",
+      "imdbRating": 6,
+      "imdbVotes": 901,
       "language": "English, Cantonese",
       "sourceType": "archive.org"
     },
@@ -77,8 +76,8 @@
       "imdbId": "tt0056676",
       "title": "The War Lover",
       "year": 1962,
-      "imdbRating": "6.5",
-      "imdbVotes": "2,077",
+      "imdbRating": 6.5,
+      "imdbVotes": 2077,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -86,8 +85,8 @@
       "imdbId": "tt0053712",
       "title": "Clear Skies",
       "year": 1961,
-      "imdbRating": "7.2",
-      "imdbVotes": "492",
+      "imdbRating": 7.2,
+      "imdbVotes": 492,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -96,8 +95,8 @@
       "imdbId": "tt0055031",
       "title": "Judgment at Nuremberg",
       "year": 1961,
-      "imdbRating": "8.3",
-      "imdbVotes": "93,758",
+      "imdbRating": 8.3,
+      "imdbVotes": 93758,
       "language": "English, German",
       "sourceType": "archive.org"
     },
@@ -105,8 +104,8 @@
       "imdbId": "tt0056907",
       "title": "The Cardinal",
       "year": 1963,
-      "imdbRating": "6.7",
-      "imdbVotes": "3,088",
+      "imdbRating": 6.7,
+      "imdbVotes": 3088,
       "language": "English, German, Latin",
       "sourceType": "archive.org"
     },
@@ -114,8 +113,8 @@
       "imdbId": "tt0055270",
       "title": "The Outsider",
       "year": 1961,
-      "imdbRating": "7.2",
-      "imdbVotes": "1,113",
+      "imdbRating": 7.2,
+      "imdbVotes": 1113,
       "language": "English, North American Indian",
       "sourceType": "archive.org"
     },
@@ -123,8 +122,8 @@
       "imdbId": "tt0055479",
       "title": "The Steel Claw",
       "year": 1961,
-      "imdbRating": "4.8",
-      "imdbVotes": "214",
+      "imdbRating": 4.8,
+      "imdbVotes": 214,
       "language": "English, Tagalog",
       "sourceType": "archive.org"
     },
@@ -132,8 +131,8 @@
       "imdbId": "tt0057652",
       "title": "The Victors",
       "year": 1963,
-      "imdbRating": "6.9",
-      "imdbVotes": "1,828",
+      "imdbRating": 6.9,
+      "imdbVotes": 1828,
       "language": "English, French, German, Italian, Russian",
       "sourceType": "archive.org"
     },
@@ -141,14 +140,22 @@
       "imdbId": "tt0055520",
       "title": "Then There Were Three",
       "year": 1961,
-      "imdbRating": "5.3",
-      "imdbVotes": "140",
+      "imdbRating": 5.3,
+      "imdbVotes": 140,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "PizzaFlix"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "war",
       "name": "War"
@@ -160,6 +167,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-02T19:32:37.668Z"
 }

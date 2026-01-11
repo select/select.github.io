@@ -14,8 +14,8 @@
   "metadata": {
     "Rated": "PG",
     "Runtime": "130 min",
-    "imdbRating": "7.1",
-    "imdbVotes": "56,508",
+    "imdbRating": 7.1,
+    "imdbVotes": 56508,
     "Genre": "Crime, Drama, Mystery",
     "Plot": "Marnie Edgar is a habitual liar and a thief who gets jobs as a secretary and after a few months robs the firms in question, usually of several thousand dollars. When she gets a job at Rutland's, she also catches the eye of the handsome owner, Mark Rutland. He prevents her from stealing and running off, as is her usual pattern, but also forces her to marry him. Their honeymoon is a disaster and she cannot stand to have a man touch her, and on their return home, Mark has a private detective look into her past. When he has the details of what happened in her childhood to make her what she is, he arranges a confrontation with her mother realizing that reliving the terrible events that occurred in her childhood and bringing out those repressed memories is the only way to save her.",
     "Director": "Alfred Hitchcock",
@@ -30,8 +30,8 @@
       "imdbId": "tt0028231",
       "title": "Secret Agent",
       "year": 1936,
-      "imdbRating": "6.4",
-      "imdbVotes": "9,469",
+      "imdbRating": 6.4,
+      "imdbVotes": 9469,
       "language": "English, French, German, Italian",
       "sourceType": "archive.org"
     },
@@ -39,8 +39,8 @@
       "imdbId": "tt0029811",
       "title": "Young and Innocent",
       "year": 1937,
-      "imdbRating": "6.8",
-      "imdbVotes": "11,597",
+      "imdbRating": 6.8,
+      "imdbVotes": 11597,
       "language": "English, Latin",
       "sourceType": "archive.org"
     },
@@ -48,8 +48,8 @@
       "imdbId": "tt0025452",
       "title": "The Man Who Knew Too Much",
       "year": 1934,
-      "imdbRating": "6.7",
-      "imdbVotes": "22,708",
+      "imdbRating": 6.7,
+      "imdbVotes": 22708,
       "language": "English, German, Italian, French",
       "sourceType": "archive.org"
     },
@@ -57,8 +57,8 @@
       "imdbId": "tt0030341",
       "title": "The Lady Vanishes",
       "year": 1938,
-      "imdbRating": "7.7",
-      "imdbVotes": "60,724",
+      "imdbRating": 7.7,
+      "imdbVotes": 60724,
       "language": "English, German, French, Italian",
       "sourceType": "archive.org"
     },
@@ -66,8 +66,8 @@
       "imdbId": "tt0017075",
       "title": "The Lodger: A Story of the London Fog",
       "year": 1927,
-      "imdbRating": "7.3",
-      "imdbVotes": "14,371",
+      "imdbRating": 7.3,
+      "imdbVotes": 14371,
       "language": "None",
       "sourceType": "archive.org"
     },
@@ -75,8 +75,8 @@
       "imdbId": "tt0049470",
       "title": "The Man Who Knew Too Much",
       "year": 1956,
-      "imdbRating": "7.4",
-      "imdbVotes": "74,727",
+      "imdbRating": 7.4,
+      "imdbVotes": 74727,
       "language": "English, Arabic, French",
       "sourceType": "archive.org"
     },
@@ -84,8 +84,8 @@
       "imdbId": "tt0283610",
       "title": "Stop-over Forever",
       "year": 1964,
-      "imdbRating": "5.0",
-      "imdbVotes": "43",
+      "imdbRating": 5,
+      "imdbVotes": 43,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -93,8 +93,8 @@
       "imdbId": "tt0058649",
       "title": "The Third Secret",
       "year": 1964,
-      "imdbRating": "6.5",
-      "imdbVotes": "1,356",
+      "imdbRating": 6.5,
+      "imdbVotes": 1356,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -102,8 +102,8 @@
       "imdbId": "tt0059909",
       "title": "Who Killed Teddy Bear",
       "year": 1965,
-      "imdbRating": "6.6",
-      "imdbVotes": "1,071",
+      "imdbRating": 6.6,
+      "imdbVotes": 1071,
       "language": "English, French, Russian",
       "sourceType": "archive.org"
     },
@@ -111,8 +111,8 @@
       "imdbId": "tt0057565",
       "title": "High and Low",
       "year": 1963,
-      "imdbRating": "8.4",
-      "imdbVotes": "62,377",
+      "imdbRating": 8.4,
+      "imdbVotes": 62377,
       "language": "Japanese",
       "sourceType": "archive.org"
     },
@@ -120,8 +120,8 @@
       "imdbId": "tt0056216",
       "title": "The Man Who Finally Died",
       "year": 1963,
-      "imdbRating": "6.1",
-      "imdbVotes": "593",
+      "imdbRating": 6.1,
+      "imdbVotes": 593,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -129,13 +129,17 @@
       "imdbId": "tt0057426",
       "title": "The Prize",
       "year": 1963,
-      "imdbRating": "6.8",
-      "imdbVotes": "5,621",
+      "imdbRating": 6.8,
+      "imdbVotes": 5621,
       "language": "English, French, German, Swedish, Italian",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "alfred-hitchcock",
+      "name": "Alfred Hitchcock"
+    },
     {
       "id": "mystery",
       "name": "Mystery"
@@ -147,6 +151,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-28T07:04:04.422Z"
 }

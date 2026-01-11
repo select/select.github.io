@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "PG",
     "Runtime": "99 min",
-    "imdbRating": "8.1",
-    "imdbVotes": "39,416",
+    "imdbRating": 8.1,
+    "imdbVotes": 39416,
     "Genre": "Drama, Music",
     "Plot": "After having neglected her children for many years, world famous pianist Charlotte visits her daughter Eva in her home. To her surprise she finds her other daughter, Helena, there as well. Helena is mentally disabled, and Eva has taken Helena out of the institution where their mother had placed her. The tension between Charlotte and Eva only builds up slowly, until a nightly conversation releases all the things they have wanted to tell each other.",
     "Director": "Ingmar Bergman",
@@ -32,8 +32,8 @@
       "imdbId": "tt6725014",
       "title": "Scenes from a Marriage",
       "year": 1974,
-      "imdbRating": "8.3",
-      "imdbVotes": "9,576",
+      "imdbRating": 8.3,
+      "imdbVotes": 9576,
       "language": "Swedish",
       "sourceType": "archive.org"
     },
@@ -41,8 +41,8 @@
       "imdbId": "tt0060827",
       "title": "Persona",
       "year": 1966,
-      "imdbRating": "8.0",
-      "imdbVotes": "138,584",
+      "imdbRating": 8,
+      "imdbVotes": 138584,
       "language": "Swedish, English",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0077549",
       "title": "Fingers",
       "year": 1978,
-      "imdbRating": "6.7",
-      "imdbVotes": "2,996",
+      "imdbRating": 6.7,
+      "imdbVotes": 2996,
       "language": "English, Italian",
       "sourceType": "archive.org"
     },
@@ -59,8 +59,8 @@
       "imdbId": "tt0076666",
       "title": "Saturday Night Fever",
       "year": 1977,
-      "imdbRating": "6.8",
-      "imdbVotes": "92,756",
+      "imdbRating": 6.8,
+      "imdbVotes": 92756,
       "language": "English, Italian",
       "sourceType": "youtube",
       "channelName": "Popcornflix"
@@ -69,8 +69,8 @@
       "imdbId": "tt0290154",
       "title": "Caminos de Michoacán",
       "year": 1979,
-      "imdbRating": "4.8",
-      "imdbVotes": "11",
+      "imdbRating": 4.8,
+      "imdbVotes": 11,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -78,8 +78,8 @@
       "imdbId": "tt0080532",
       "title": "A Christmas Without Snow",
       "year": 1980,
-      "imdbRating": "5.7",
-      "imdbVotes": "428",
+      "imdbRating": 5.7,
+      "imdbVotes": 428,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -87,8 +87,8 @@
       "imdbId": "tt0027796",
       "title": "Intermezzo",
       "year": 1936,
-      "imdbRating": "6.5",
-      "imdbVotes": "1,414",
+      "imdbRating": 6.5,
+      "imdbVotes": 1414,
       "language": "Swedish, German",
       "sourceType": "archive.org"
     },
@@ -96,8 +96,8 @@
       "imdbId": "tt0050976",
       "title": "The Seventh Seal",
       "year": 1957,
-      "imdbRating": "8.1",
-      "imdbVotes": "211,758",
+      "imdbRating": 8.1,
+      "imdbVotes": 211758,
       "language": "Swedish, Latin",
       "sourceType": "archive.org"
     },
@@ -105,8 +105,8 @@
       "imdbId": "tt0053976",
       "title": "The Virgin Spring",
       "year": 1960,
-      "imdbRating": "8.0",
-      "imdbVotes": "33,263",
+      "imdbRating": 8,
+      "imdbVotes": 33263,
       "language": "Swedish, German",
       "sourceType": "archive.org"
     },
@@ -114,8 +114,8 @@
       "imdbId": "tt0050986",
       "title": "Wild Strawberries",
       "year": 1957,
-      "imdbRating": "8.1",
-      "imdbVotes": "122,286",
+      "imdbRating": 8.1,
+      "imdbVotes": 122286,
       "language": "Swedish, Latin",
       "sourceType": "archive.org"
     },
@@ -123,8 +123,8 @@
       "imdbId": "tt0057358",
       "title": "Winter Light",
       "year": 1963,
-      "imdbRating": "8.0",
-      "imdbVotes": "27,834",
+      "imdbRating": 8,
+      "imdbVotes": 27834,
       "language": "Swedish",
       "sourceType": "archive.org"
     },
@@ -132,13 +132,21 @@
       "imdbId": "tt0071112",
       "title": "El albañil",
       "year": 1975,
-      "imdbRating": "5.7",
-      "imdbVotes": "37",
+      "imdbRating": 5.7,
+      "imdbVotes": 37,
       "language": "Spanish",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "1970s",
       "name": "1970s Cinema"
@@ -146,6 +154,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-23T04:02:48.094Z"
 }

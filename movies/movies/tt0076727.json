@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "Not Rated",
     "Runtime": "159 min",
-    "imdbRating": "8.2",
-    "imdbVotes": "11,272",
+    "imdbRating": 8.2,
+    "imdbVotes": 11272,
     "Genre": "Comedy, Drama, Romance",
     "Plot": "Anatoli Yefremovich Novoseltsev works in a statistics institution, whose director is an unattractive and bossy woman. An old friend of his, Yuri Grigorievich Samokhvalov, who gets appointed assistant director of the institution, wants to make Novoseltsev the head of the department but encounters objections from Ludmila Prokopievna Kalugina, the director. Samokhvalov then advises Novoseltsev to lightly hit on the boss. Ironically, Novoseltsev and Kalugina fall in love with each other...",
     "Director": "Eldar Ryazanov",
@@ -32,8 +32,8 @@
       "imdbId": "tt0096492",
       "title": "Forgotten Tune for the Flute",
       "year": 1987,
-      "imdbRating": "7.5",
-      "imdbVotes": "911",
+      "imdbRating": 7.5,
+      "imdbVotes": 911,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -42,8 +42,8 @@
       "imdbId": "tt0084873",
       "title": "A Railway Station for Two",
       "year": 1983,
-      "imdbRating": "7.8",
-      "imdbVotes": "3,743",
+      "imdbRating": 7.8,
+      "imdbVotes": 3743,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -52,8 +52,8 @@
       "imdbId": "tt0090368",
       "title": "A Cruel Romance",
       "year": 1984,
-      "imdbRating": "7.9",
-      "imdbVotes": "4,122",
+      "imdbRating": 7.9,
+      "imdbVotes": 4122,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -62,8 +62,8 @@
       "imdbId": "tt0075119",
       "title": "A Slave of Love",
       "year": 1976,
-      "imdbRating": "7.3",
-      "imdbVotes": "1,916",
+      "imdbRating": 7.3,
+      "imdbVotes": 1916,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -72,8 +72,8 @@
       "imdbId": "tt0079999",
       "title": "The Theme",
       "year": 1979,
-      "imdbRating": "7.3",
-      "imdbVotes": "601",
+      "imdbRating": 7.3,
+      "imdbVotes": 601,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -82,8 +82,8 @@
       "imdbId": "tt0072613",
       "title": "Afonya",
       "year": 1975,
-      "imdbRating": "7.7",
-      "imdbVotes": "5,439",
+      "imdbRating": 7.7,
+      "imdbVotes": 5439,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -92,8 +92,8 @@
       "imdbId": "tt0078771",
       "title": "Love on the Run",
       "year": 1979,
-      "imdbRating": "7.0",
-      "imdbVotes": "7,657",
+      "imdbRating": 7,
+      "imdbVotes": 7657,
       "language": "French",
       "sourceType": "youtube",
       "channelName": "Movie Central"
@@ -102,8 +102,8 @@
       "imdbId": "tt0079522",
       "title": "Manhattan",
       "year": 1979,
-      "imdbRating": "7.8",
-      "imdbVotes": "152,380",
+      "imdbRating": 7.8,
+      "imdbVotes": 152380,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Popcornflix"
@@ -112,8 +112,8 @@
       "imdbId": "tt0049397",
       "title": "Carnival Night",
       "year": 1956,
-      "imdbRating": "7.4",
-      "imdbVotes": "3,356",
+      "imdbRating": 7.4,
+      "imdbVotes": 3356,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -122,8 +122,8 @@
       "imdbId": "tt0190807",
       "title": "Subí que te llevo",
       "year": 1980,
-      "imdbRating": "5.2",
-      "imdbVotes": "58",
+      "imdbRating": 5.2,
+      "imdbVotes": 58,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -131,8 +131,8 @@
       "imdbId": "tt0070107",
       "title": "Ginger in the Morning",
       "year": 1974,
-      "imdbRating": "5.1",
-      "imdbVotes": "391",
+      "imdbRating": 5.1,
+      "imdbVotes": 391,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Cult Cinema Classics"
@@ -141,14 +141,18 @@
       "imdbId": "tt0079579",
       "title": "Moscow Does Not Believe in Tears",
       "year": 1980,
-      "imdbRating": "8.0",
-      "imdbVotes": "15,197",
+      "imdbRating": 8,
+      "imdbVotes": 15197,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
     {
       "id": "romance",
       "name": "Romance"
@@ -160,6 +164,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-02T19:33:48.134Z"
 }

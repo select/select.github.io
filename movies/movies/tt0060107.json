@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "R",
     "Runtime": "189 min",
-    "imdbRating": "8.0",
-    "imdbVotes": "58,379",
+    "imdbRating": 8,
+    "imdbVotes": 58379,
     "Genre": "Biography, Drama, History",
     "Plot": "Andreiv Rublev charts the life of the great icon painter through a turbulent period of 15th Century Russian history, a period marked by endless fighting between rival Princes and by Tatar invasions.",
     "Director": "Andrei Tarkovsky",
@@ -32,8 +32,8 @@
       "imdbId": "tt0056937",
       "title": "Cleopatra",
       "year": 1963,
-      "imdbRating": "7.0",
-      "imdbVotes": "40,253",
+      "imdbRating": 7,
+      "imdbVotes": 40253,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -41,8 +41,8 @@
       "imdbId": "tt0065593",
       "title": "Cromwell",
       "year": 1970,
-      "imdbRating": "7.0",
-      "imdbVotes": "7,269",
+      "imdbRating": 7,
+      "imdbVotes": 7269,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt1441953",
       "title": "Testament of Youth",
       "year": 2014,
-      "imdbRating": "7.2",
-      "imdbVotes": "31,170",
+      "imdbRating": 7.2,
+      "imdbVotes": 31170,
       "language": "English, German",
       "sourceType": "youtube",
       "channelName": "Moviedome"
@@ -60,8 +60,8 @@
       "imdbId": "tt0045473",
       "title": "Admiral Ushakov",
       "year": 1953,
-      "imdbRating": "7.3",
-      "imdbVotes": "224",
+      "imdbRating": 7.3,
+      "imdbVotes": 224,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -70,8 +70,8 @@
       "imdbId": "tt0086891",
       "title": "Anatomy of an Illness",
       "year": 1984,
-      "imdbRating": "6.4",
-      "imdbVotes": "116",
+      "imdbRating": 6.4,
+      "imdbVotes": 116,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -79,8 +79,8 @@
       "imdbId": "tt0024966",
       "title": "Chapaev",
       "year": 1934,
-      "imdbRating": "7.0",
-      "imdbVotes": "1,461",
+      "imdbRating": 7,
+      "imdbVotes": 1461,
       "language": "Russian",
       "sourceType": "archive.org"
     },
@@ -88,8 +88,8 @@
       "imdbId": "tt0266425",
       "title": "Conspiracy",
       "year": 2001,
-      "imdbRating": "7.6",
-      "imdbVotes": "28,545",
+      "imdbRating": 7.6,
+      "imdbVotes": 28545,
       "language": "English, German, Latin",
       "sourceType": "archive.org"
     },
@@ -97,8 +97,8 @@
       "imdbId": "tt0033451",
       "title": "Carl Peters",
       "year": 1941,
-      "imdbRating": "5.7",
-      "imdbVotes": "64",
+      "imdbRating": 5.7,
+      "imdbVotes": 64,
       "language": "German, English, French",
       "sourceType": "archive.org"
     },
@@ -106,8 +106,8 @@
       "imdbId": "tt9071322",
       "title": "Dark Waters",
       "year": 2019,
-      "imdbRating": "7.6",
-      "imdbVotes": "118,173",
+      "imdbRating": 7.6,
+      "imdbVotes": 118173,
       "language": "English, Korean",
       "sourceType": "archive.org"
     },
@@ -115,8 +115,8 @@
       "imdbId": "tt0007801",
       "title": "Cleopatra",
       "year": 1917,
-      "imdbRating": "6.6",
-      "imdbVotes": "413",
+      "imdbRating": 6.6,
+      "imdbVotes": 413,
       "language": "None, English",
       "sourceType": "archive.org"
     },
@@ -124,8 +124,8 @@
       "imdbId": "tt0053800",
       "title": "Esther and the King",
       "year": 1960,
-      "imdbRating": "5.5",
-      "imdbVotes": "883",
+      "imdbRating": 5.5,
+      "imdbVotes": 883,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -133,13 +133,21 @@
       "imdbId": "tt0041437",
       "title": "Guilty of Treason",
       "year": 1950,
-      "imdbRating": "6.1",
-      "imdbVotes": "257",
+      "imdbRating": 6.1,
+      "imdbVotes": 257,
       "language": "English",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "1960s",
       "name": "1960s Cinema"
@@ -147,6 +155,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-23T04:02:25.466Z"
 }

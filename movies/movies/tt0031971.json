@@ -23,8 +23,8 @@
   "metadata": {
     "Rated": "Approved",
     "Runtime": "96 min",
-    "imdbRating": "7.8",
-    "imdbVotes": "57,694",
+    "imdbRating": 7.8,
+    "imdbVotes": 57694,
     "Genre": "Adventure, Drama, Western",
     "Plot": "A simple stagecoach trip is complicated by the fact that Geronimo is on the warpath in the area. The passengers on the coach include a drunken doctor, two women, a bank manager who has taken off with his client's money, and the famous Ringo Kid, among others.",
     "Director": "John Ford",
@@ -39,8 +39,8 @@
       "imdbId": "tt0032111",
       "title": "Wasser für Canitoga",
       "year": 1939,
-      "imdbRating": "6.8",
-      "imdbVotes": "123",
+      "imdbRating": 6.8,
+      "imdbVotes": 123,
       "language": "German",
       "sourceType": "archive.org"
     },
@@ -48,8 +48,8 @@
       "imdbId": "tt0052902",
       "title": "The Horse Soldiers",
       "year": 1959,
-      "imdbRating": "7.1",
-      "imdbVotes": "12,576",
+      "imdbRating": 7.1,
+      "imdbVotes": 12576,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -57,8 +57,8 @@
       "imdbId": "tt0031190",
       "title": "Crashing Thru",
       "year": 1939,
-      "imdbRating": "5.8",
-      "imdbVotes": "80",
+      "imdbRating": 5.8,
+      "imdbVotes": 80,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "PizzaFlix"
@@ -67,8 +67,8 @@
       "imdbId": "tt0032959",
       "title": "Queen of the Yukon",
       "year": 1940,
-      "imdbRating": "5.9",
-      "imdbVotes": "91",
+      "imdbRating": 5.9,
+      "imdbVotes": 91,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -76,8 +76,8 @@
       "imdbId": "tt0019699",
       "title": "The Black Watch",
       "year": 1929,
-      "imdbRating": "5.6",
-      "imdbVotes": "494",
+      "imdbRating": 5.6,
+      "imdbVotes": 494,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "PizzaFlix"
@@ -86,8 +86,8 @@
       "imdbId": "tt0014321",
       "title": "North of Hudson Bay",
       "year": 1923,
-      "imdbRating": "5.1",
-      "imdbVotes": "126",
+      "imdbRating": 5.1,
+      "imdbVotes": 126,
       "language": "None",
       "sourceType": "archive.org"
     },
@@ -95,8 +95,8 @@
       "imdbId": "tt0017463",
       "title": "3 Bad Men",
       "year": 1926,
-      "imdbRating": "7.5",
-      "imdbVotes": "1,537",
+      "imdbRating": 7.5,
+      "imdbVotes": 1537,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -104,8 +104,8 @@
       "imdbId": "tt0046384",
       "title": "The Sun Shines Bright",
       "year": 1953,
-      "imdbRating": "6.9",
-      "imdbVotes": "1,870",
+      "imdbRating": 6.9,
+      "imdbVotes": 1870,
       "language": "English, German",
       "sourceType": "archive.org"
     },
@@ -113,8 +113,8 @@
       "imdbId": "tt0054292",
       "title": "Sergeant Rutledge",
       "year": 1960,
-      "imdbRating": "7.4",
-      "imdbVotes": "5,666",
+      "imdbRating": 7.4,
+      "imdbVotes": 5666,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -122,8 +122,8 @@
       "imdbId": "tt0011358",
       "title": "Just Pals",
       "year": 1920,
-      "imdbRating": "6.6",
-      "imdbVotes": "513",
+      "imdbRating": 6.6,
+      "imdbVotes": 513,
       "language": "None, English",
       "sourceType": "archive.org"
     },
@@ -131,8 +131,8 @@
       "imdbId": "tt0055558",
       "title": "Two Rode Together",
       "year": 1961,
-      "imdbRating": "6.7",
-      "imdbVotes": "7,380",
+      "imdbRating": 6.7,
+      "imdbVotes": 7380,
       "language": "English, Spanish",
       "sourceType": "archive.org"
     },
@@ -140,13 +140,17 @@
       "imdbId": "tt0032392",
       "title": "The Devil's Pipeline",
       "year": 1940,
-      "imdbRating": "6.2",
-      "imdbVotes": "36",
+      "imdbRating": 6.2,
+      "imdbVotes": 36,
       "language": "English",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "adventure",
       "name": "Adventure"
@@ -162,6 +166,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-28T07:23:57.203Z"
 }

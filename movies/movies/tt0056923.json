@@ -37,8 +37,8 @@
   "metadata": {
     "Rated": "Approved",
     "Runtime": "113 min",
-    "imdbRating": "7.8",
-    "imdbVotes": "88,013",
+    "imdbRating": 7.8,
+    "imdbVotes": 88013,
     "Genre": "Comedy, Mystery, Romance",
     "Plot": "In what's been called 'the best Alfred Hitchcock film which he didn't direct,' a man is thrown off a train, and when the police locate his wife, it turns out she knew nothing about him - not even his real name. After her are four men, who insist she's in possession of a huge amount of money which they believe to be theirs. If she doesn't give it to them, she'll be killed.",
     "Director": "Stanley Donen",
@@ -53,8 +53,8 @@
       "imdbId": "tt0043983",
       "title": "Royal Wedding",
       "year": 1951,
-      "imdbRating": "6.7",
-      "imdbVotes": "6,211",
+      "imdbRating": 6.7,
+      "imdbVotes": 6211,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -62,8 +62,8 @@
       "imdbId": "tt0054698",
       "title": "Breakfast at Tiffany's",
       "year": 1961,
-      "imdbRating": "7.5",
-      "imdbVotes": "201,775",
+      "imdbRating": 7.5,
+      "imdbVotes": 201775,
       "language": "English, Portuguese, French, Japanese",
       "sourceType": "archive.org"
     },
@@ -71,8 +71,8 @@
       "imdbId": "tt0207407",
       "title": "Detective Kitty O'Day",
       "year": 1944,
-      "imdbRating": "5.3",
-      "imdbVotes": "331",
+      "imdbRating": 5.3,
+      "imdbVotes": 331,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -80,8 +80,8 @@
       "imdbId": "tt0056912",
       "title": "Carry on Cabby",
       "year": 1963,
-      "imdbRating": "6.4",
-      "imdbVotes": "3,205",
+      "imdbRating": 6.4,
+      "imdbVotes": 3205,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -89,8 +89,8 @@
       "imdbId": "tt0057007",
       "title": "Donovan's Reef",
       "year": 1963,
-      "imdbRating": "6.7",
-      "imdbVotes": "10,024",
+      "imdbRating": 6.7,
+      "imdbVotes": 10024,
       "language": "English, French",
       "sourceType": "archive.org"
     },
@@ -98,8 +98,8 @@
       "imdbId": "tt0027923",
       "title": "Mad Holiday",
       "year": 1936,
-      "imdbRating": "6.1",
-      "imdbVotes": "211",
+      "imdbRating": 6.1,
+      "imdbVotes": 211,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -107,8 +107,8 @@
       "imdbId": "tt6566830",
       "title": "Most Likely to Murder",
       "year": 2018,
-      "imdbRating": "5.1",
-      "imdbVotes": "1,191",
+      "imdbRating": 5.1,
+      "imdbVotes": 1191,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Netzkino"
@@ -117,8 +117,8 @@
       "imdbId": "tt0026978",
       "title": "Seven Keys to Baldpate",
       "year": 1935,
-      "imdbRating": "5.9",
-      "imdbVotes": "309",
+      "imdbRating": 5.9,
+      "imdbVotes": 309,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -126,8 +126,8 @@
       "imdbId": "tt0028355",
       "title": "Theodora Goes Wild",
       "year": 1936,
-      "imdbRating": "7.1",
-      "imdbVotes": "3,078",
+      "imdbRating": 7.1,
+      "imdbVotes": 3078,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -135,8 +135,8 @@
       "imdbId": "tt0055650",
       "title": "Bring Me the Vampire",
       "year": 1963,
-      "imdbRating": "3.9",
-      "imdbVotes": "85",
+      "imdbRating": 3.9,
+      "imdbVotes": 85,
       "language": "Spanish",
       "sourceType": "youtube",
       "channelName": "Cult Cinema Classics"
@@ -145,8 +145,8 @@
       "imdbId": "tt0057608",
       "title": "Twice-Told Tales",
       "year": 1963,
-      "imdbRating": "6.6",
-      "imdbVotes": "3,652",
+      "imdbRating": 6.6,
+      "imdbVotes": 3652,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -154,13 +154,21 @@
       "imdbId": "tt0057156",
       "title": "The Horror of It All",
       "year": 1964,
-      "imdbRating": "4.8",
-      "imdbVotes": "442",
+      "imdbRating": 4.8,
+      "imdbVotes": 442,
       "language": "English",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
+    {
+      "id": "alfred-hitchcock",
+      "name": "Alfred Hitchcock"
+    },
     {
       "id": "romance",
       "name": "Romance"
@@ -176,6 +184,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-07T19:11:10.933Z"
 }

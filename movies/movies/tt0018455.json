@@ -7,14 +7,15 @@
       "type": "archive.org",
       "url": "https://archive.org/details/sunrise_1927",
       "title": "Sunrise",
+      "fileSize": 8343793723,
       "id": "sunrise_1927"
     }
   ],
   "metadata": {
     "Rated": "Passed",
     "Runtime": "94 min",
-    "imdbRating": "8.1",
-    "imdbVotes": "55,712",
+    "imdbRating": 8.1,
+    "imdbVotes": 55712,
     "Genre": "Drama, Romance",
     "Plot": "In this fable-morality subtitled \"A Song of Two Humans\", the \"evil\" temptress is a city woman who bewitches farmer Anses and tries to convince him to murder his neglected wife, Indre.",
     "Director": "F.W. Murnau",
@@ -29,8 +30,8 @@
       "imdbId": "tt0018379",
       "title": "7th Heaven",
       "year": 1927,
-      "imdbRating": "7.5",
-      "imdbVotes": "4,348",
+      "imdbRating": 7.5,
+      "imdbVotes": 4348,
       "language": "None, English",
       "sourceType": "archive.org"
     },
@@ -38,8 +39,8 @@
       "imdbId": "tt0017841",
       "title": "East Side, West Side",
       "year": 1927,
-      "imdbRating": "7.1",
-      "imdbVotes": "165",
+      "imdbRating": 7.1,
+      "imdbVotes": 165,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -47,8 +48,8 @@
       "imdbId": "tt0013496",
       "title": "Phantom",
       "year": 1922,
-      "imdbRating": "6.7",
-      "imdbVotes": "1,978",
+      "imdbRating": 6.7,
+      "imdbVotes": 1978,
       "language": "None, German",
       "sourceType": "archive.org"
     },
@@ -56,8 +57,8 @@
       "imdbId": "tt0017463",
       "title": "3 Bad Men",
       "year": 1926,
-      "imdbRating": "7.5",
-      "imdbVotes": "1,537",
+      "imdbRating": 7.5,
+      "imdbVotes": 1537,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -65,8 +66,8 @@
       "imdbId": "tt0016847",
       "title": "Faust",
       "year": 1926,
-      "imdbRating": "8.1",
-      "imdbVotes": "17,097",
+      "imdbRating": 8.1,
+      "imdbVotes": 17097,
       "language": "German, English",
       "sourceType": "archive.org"
     },
@@ -74,8 +75,8 @@
       "imdbId": "tt0020122",
       "title": "Lucky Star",
       "year": 1929,
-      "imdbRating": "7.6",
-      "imdbVotes": "1,656",
+      "imdbRating": 7.6,
+      "imdbVotes": 1656,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -83,8 +84,8 @@
       "imdbId": "tt0020359",
       "title": "Salute",
       "year": 1929,
-      "imdbRating": "5.2",
-      "imdbVotes": "238",
+      "imdbRating": 5.2,
+      "imdbVotes": 238,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -92,8 +93,8 @@
       "imdbId": "tt0017632",
       "title": "Annie Laurie",
       "year": 1927,
-      "imdbRating": "6.7",
-      "imdbVotes": "534",
+      "imdbRating": 6.7,
+      "imdbVotes": 534,
       "language": "None, English",
       "sourceType": "archive.org"
     },
@@ -101,8 +102,8 @@
       "imdbId": "tt0017662",
       "title": "Barbed Wire",
       "year": 1927,
-      "imdbRating": "7.0",
-      "imdbVotes": "233",
+      "imdbRating": 7,
+      "imdbVotes": 233,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -110,8 +111,8 @@
       "imdbId": "tt0017735",
       "title": "Captain Salvation",
       "year": 1927,
-      "imdbRating": "6.8",
-      "imdbVotes": "333",
+      "imdbRating": 6.8,
+      "imdbVotes": 333,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -119,8 +120,8 @@
       "imdbId": "tt0017829",
       "title": "Dress Parade",
       "year": 1927,
-      "imdbRating": "7.5",
-      "imdbVotes": "103",
+      "imdbRating": 7.5,
+      "imdbVotes": 103,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -128,13 +129,17 @@
       "imdbId": "tt0017998",
       "title": "Fanny Hawthorne",
       "year": 1927,
-      "imdbRating": "7.3",
-      "imdbVotes": "291",
+      "imdbRating": 7.3,
+      "imdbVotes": 291,
       "language": "None, English",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
     {
       "id": "romance",
       "name": "Romance"
@@ -146,6 +151,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-07T00:11:35.633Z"
 }

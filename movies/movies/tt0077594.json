@@ -25,8 +25,8 @@
   "metadata": {
     "Rated": "R",
     "Runtime": "100 min",
-    "imdbRating": "5.9",
-    "imdbVotes": "23,634",
+    "imdbRating": 5.9,
+    "imdbVotes": 23634,
     "Genre": "Action, Crime, Drama",
     "Plot": "In this movie, Bruce Lee is a very famous martial-arts master who stars in many films. After an unsuccessful murder attempt against him, everyone thinks his is dead, but he's just hiding, preparing his revenge...",
     "Director": "Robert Clouse, Bruce Lee",
@@ -41,8 +41,8 @@
       "imdbId": "tt0076024",
       "title": "Fighting Mad",
       "year": 1978,
-      "imdbRating": "5.4",
-      "imdbVotes": "708",
+      "imdbRating": 5.4,
+      "imdbVotes": 708,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0333955",
       "title": "La muerte del soplon",
       "year": 1978,
-      "imdbRating": "7.2",
-      "imdbVotes": "17",
+      "imdbRating": 7.2,
+      "imdbVotes": 17,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -59,8 +59,8 @@
       "imdbId": "tt0074634",
       "title": "Hollywood Man",
       "year": 1976,
-      "imdbRating": "5.0",
-      "imdbVotes": "340",
+      "imdbRating": 5,
+      "imdbVotes": 340,
       "language": "English, Spanish",
       "sourceType": "archive.org"
     },
@@ -68,8 +68,8 @@
       "imdbId": "tt0080573",
       "title": "Cry of the Innocent",
       "year": 1980,
-      "imdbRating": "5.1",
-      "imdbVotes": "225",
+      "imdbRating": 5.1,
+      "imdbVotes": 225,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -77,8 +77,8 @@
       "imdbId": "tt0074836",
       "title": "Mad Dog Morgan",
       "year": 1976,
-      "imdbRating": "6.1",
-      "imdbVotes": "1,916",
+      "imdbRating": 6.1,
+      "imdbVotes": 1916,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -86,8 +86,8 @@
       "imdbId": "tt0075263",
       "title": "St. Ives",
       "year": 1976,
-      "imdbRating": "6.2",
-      "imdbVotes": "2,905",
+      "imdbRating": 6.2,
+      "imdbVotes": 2905,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Netzkino"
@@ -96,8 +96,8 @@
       "imdbId": "tt0073774",
       "title": "The Swiss Conspiracy",
       "year": 1976,
-      "imdbRating": "5.0",
-      "imdbVotes": "539",
+      "imdbRating": 5,
+      "imdbVotes": 539,
       "language": "English, German",
       "sourceType": "archive.org"
     },
@@ -105,8 +105,8 @@
       "imdbId": "tt0323649",
       "title": "Pistoleros famosos",
       "year": 1981,
-      "imdbRating": "7.3",
-      "imdbVotes": "31",
+      "imdbRating": 7.3,
+      "imdbVotes": 31,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -114,8 +114,8 @@
       "imdbId": "tt0082332",
       "title": "Enter the Ninja",
       "year": 1981,
-      "imdbRating": "5.2",
-      "imdbVotes": "5,946",
+      "imdbRating": 5.2,
+      "imdbVotes": 5946,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -123,8 +123,8 @@
       "imdbId": "tt0073396",
       "title": "Mitchell",
       "year": 1975,
-      "imdbRating": "2.8",
-      "imdbVotes": "4,952",
+      "imdbRating": 2.8,
+      "imdbVotes": 4952,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -132,8 +132,8 @@
       "imdbId": "tt0230904",
       "title": "The Jackals",
       "year": 1981,
-      "imdbRating": "5.8",
-      "imdbVotes": "547",
+      "imdbRating": 5.8,
+      "imdbVotes": 547,
       "language": "Greek",
       "sourceType": "archive.org"
     },
@@ -141,15 +141,19 @@
       "imdbId": "tt0071402",
       "title": "Death Wish",
       "year": 1974,
-      "imdbRating": "6.9",
-      "imdbVotes": "45,235",
+      "imdbRating": 6.9,
+      "imdbVotes": 45235,
       "language": "English, Italian, German, French",
       "sourceType": "archive.org"
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    }
+  ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-29T02:12:12.541Z"
 }

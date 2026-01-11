@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "PG-13",
     "Runtime": "197 min",
-    "imdbRating": "7.9",
-    "imdbVotes": "150,618",
+    "imdbRating": 7.9,
+    "imdbVotes": 150618,
     "Genre": "Adventure, Biography, Drama",
     "Plot": "In 73 B.C., a Thracian slave leads a revolt at a gladiatorial school run by Lentulus Batiatus (Sir Peter Ustinov). The uprising soon spreads across the Italian Peninsula involving thousand of slaves. The plan is to acquire sufficient funds to acquire ships from Silesian pirates who could then transport them to other lands from Brandisium in the south. The Roman Senator Gracchus (Charles Laughton) schemes to have Marcus Publius Glabrus (John Dall), Commander of the garrison of Rome, lead an army against the slaves who are living on Vesuvius. When Glabrus is defeated his mentor, Senator and General Marcus Licinius Crassus (Sir Laurence Olivier) is greatly embarrassed and leads his own army against the slaves. Spartacus and the thousands of freed slaves successfully make their way to Brandisium only to find that the Silesians have abandoned them. They then turn north and must face the might of Rome.",
     "Director": "Stanley Kubrick",
@@ -32,8 +32,8 @@
       "imdbId": "tt0057105",
       "title": "Caesar the Conqueror",
       "year": 1962,
-      "imdbRating": "4.7",
-      "imdbVotes": "287",
+      "imdbRating": 4.7,
+      "imdbVotes": 287,
       "language": "Italian",
       "sourceType": "archive.org"
     },
@@ -41,8 +41,8 @@
       "imdbId": "tt0056172",
       "title": "Lawrence of Arabia",
       "year": 1962,
-      "imdbRating": "8.3",
-      "imdbVotes": "334,419",
+      "imdbRating": 8.3,
+      "imdbVotes": 334419,
       "language": "English, Arabic, Turkish",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0050825",
       "title": "Paths of Glory",
       "year": 1957,
-      "imdbRating": "8.4",
-      "imdbVotes": "230,917",
+      "imdbRating": 8.4,
+      "imdbVotes": 230917,
       "language": "English, German, Latin",
       "sourceType": "archive.org"
     },
@@ -59,8 +59,8 @@
       "imdbId": "tt0055270",
       "title": "The Outsider",
       "year": 1961,
-      "imdbRating": "7.2",
-      "imdbVotes": "1,113",
+      "imdbRating": 7.2,
+      "imdbVotes": 1113,
       "language": "English, North American Indian",
       "sourceType": "archive.org"
     },
@@ -68,8 +68,8 @@
       "imdbId": "tt0056556",
       "title": "Taras Bulba",
       "year": 1962,
-      "imdbRating": "6.3",
-      "imdbVotes": "4,745",
+      "imdbRating": 6.3,
+      "imdbVotes": 4745,
       "language": "English, Latin",
       "sourceType": "archive.org"
     },
@@ -77,8 +77,8 @@
       "imdbId": "tt0037576",
       "title": "Captain Kidd",
       "year": 1945,
-      "imdbRating": "6.3",
-      "imdbVotes": "2,181",
+      "imdbRating": 6.3,
+      "imdbVotes": 2181,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -86,8 +86,8 @@
       "imdbId": "tt1659619",
       "title": "The Odyssey",
       "year": 2016,
-      "imdbRating": "6.6",
-      "imdbVotes": "6,388",
+      "imdbRating": 6.6,
+      "imdbVotes": 6388,
       "language": "French, English",
       "sourceType": "youtube",
       "channelName": "Popcornflix"
@@ -96,8 +96,8 @@
       "imdbId": "tt0053106",
       "title": "Letter Never Sent",
       "year": 1960,
-      "imdbRating": "7.8",
-      "imdbVotes": "4,401",
+      "imdbRating": 7.8,
+      "imdbVotes": 4401,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -106,8 +106,8 @@
       "imdbId": "tt0071411",
       "title": "Dersu Uzala",
       "year": 1975,
-      "imdbRating": "8.2",
-      "imdbVotes": "35,263",
+      "imdbRating": 8.2,
+      "imdbVotes": 35263,
       "language": "Russian, Chinese",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -116,8 +116,8 @@
       "imdbId": "tt0041426",
       "title": "The Great Dan Patch",
       "year": 1949,
-      "imdbRating": "5.8",
-      "imdbVotes": "269",
+      "imdbRating": 5.8,
+      "imdbVotes": 269,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -125,8 +125,8 @@
       "imdbId": "tt0123066",
       "title": "Fangio, el demonio de las pistas",
       "year": 1950,
-      "imdbRating": "6.0",
-      "imdbVotes": "16",
+      "imdbRating": 6,
+      "imdbVotes": 16,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -134,13 +134,17 @@
       "imdbId": "tt0026752",
       "title": "Mutiny on the Bounty",
       "year": 1935,
-      "imdbRating": "7.6",
-      "imdbVotes": "25,741",
+      "imdbRating": 7.6,
+      "imdbVotes": 25741,
       "language": "English, Polynesian",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "adventure",
       "name": "Adventure"
@@ -152,6 +156,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-02T19:28:50.372Z"
 }

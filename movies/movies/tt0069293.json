@@ -25,8 +25,8 @@
   "metadata": {
     "Rated": "PG",
     "Runtime": "167 min",
-    "imdbRating": "7.9",
-    "imdbVotes": "103,380",
+    "imdbRating": 7.9,
+    "imdbVotes": 103380,
     "Genre": "Adventure, Drama, Mystery",
     "Plot": "The Solaris mission has established a base on a planet that appears to host some kind of intelligence, but the details are hazy and very secret. After the mysterious demise of one of the three scientists on the base, the main character is sent out to replace him. He finds the station run-down and the two remaining scientists cold and secretive. When he also encounters his wife who has been dead for ten years, he begins to appreciate the baffling nature of the alien intelligence.",
     "Director": "Andrei Tarkovsky",
@@ -41,8 +41,8 @@
       "imdbId": "tt0038574",
       "title": "Great Expectations",
       "year": 1946,
-      "imdbRating": "7.8",
-      "imdbVotes": "26,805",
+      "imdbRating": 7.8,
+      "imdbVotes": 26805,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0069113",
       "title": "The Poseidon Adventure",
       "year": 1972,
-      "imdbRating": "7.1",
-      "imdbVotes": "52,489",
+      "imdbRating": 7.1,
+      "imdbVotes": 52489,
       "language": "English, Hebrew",
       "sourceType": "youtube",
       "channelName": "Netzkino"
@@ -60,8 +60,8 @@
       "imdbId": "tt0040764",
       "title": "Sealed Verdict",
       "year": 1948,
-      "imdbRating": "6.6",
-      "imdbVotes": "79",
+      "imdbRating": 6.6,
+      "imdbVotes": 79,
       "language": "German, English",
       "sourceType": "archive.org"
     },
@@ -69,8 +69,8 @@
       "imdbId": "tt0027657",
       "title": "The Garden of Allah",
       "year": 1936,
-      "imdbRating": "5.8",
-      "imdbVotes": "1,746",
+      "imdbRating": 5.8,
+      "imdbVotes": 1746,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -78,8 +78,8 @@
       "imdbId": "tt0174174",
       "title": "Ruslan and Ludmila",
       "year": 1972,
-      "imdbRating": "7.2",
-      "imdbVotes": "488",
+      "imdbRating": 7.2,
+      "imdbVotes": 488,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Movie Central"
@@ -88,8 +88,8 @@
       "imdbId": "tt2923834",
       "title": "The Last Scout",
       "year": 2017,
-      "imdbRating": "4.2",
-      "imdbVotes": "2,559",
+      "imdbRating": 4.2,
+      "imdbVotes": 2559,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Movie Central"
@@ -98,8 +98,8 @@
       "imdbId": "tt1132130",
       "title": "2012 Doomsday",
       "year": 2008,
-      "imdbRating": "1.7",
-      "imdbVotes": "7,209",
+      "imdbRating": 1.7,
+      "imdbVotes": 7209,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Movie Central"
@@ -108,8 +108,8 @@
       "imdbId": "tt0068174",
       "title": "Adventures of Nick Carter",
       "year": 1972,
-      "imdbRating": "6.8",
-      "imdbVotes": "114",
+      "imdbRating": 6.8,
+      "imdbVotes": 114,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -117,8 +117,8 @@
       "imdbId": "tt0067670",
       "title": "The Return of Charlie Chan",
       "year": 1972,
-      "imdbRating": "5.7",
-      "imdbVotes": "180",
+      "imdbRating": 5.7,
+      "imdbVotes": 180,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -126,8 +126,8 @@
       "imdbId": "tt0069341",
       "title": "Tales from the Crypt",
       "year": 1972,
-      "imdbRating": "6.8",
-      "imdbVotes": "13,808",
+      "imdbRating": 6.8,
+      "imdbVotes": 13808,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -135,8 +135,8 @@
       "imdbId": "tt0069439",
       "title": "Murder Is a Murder",
       "year": 1972,
-      "imdbRating": "5.8",
-      "imdbVotes": "291",
+      "imdbRating": 5.8,
+      "imdbVotes": 291,
       "language": "French",
       "sourceType": "youtube",
       "channelName": "Cult Cinema Classics"
@@ -145,13 +145,17 @@
       "imdbId": "tt0070030",
       "title": "Emperor of the North",
       "year": 1973,
-      "imdbRating": "7.2",
-      "imdbVotes": "7,444",
+      "imdbRating": 7.2,
+      "imdbVotes": 7444,
       "language": "English",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "adventure",
       "name": "Adventure"
@@ -167,6 +171,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-02T19:32:50.420Z"
 }

@@ -25,8 +25,8 @@
   "metadata": {
     "Rated": "N/A",
     "Runtime": "164 min",
-    "imdbRating": "8.2",
-    "imdbVotes": "3,244",
+    "imdbRating": 8.2,
+    "imdbVotes": 3244,
     "Genre": "Comedy, Crime",
     "Plot": "A crook named Ostap Bender, who survived a murder attempt by Kisa Vorobyaninov in \"12 Chairs, \" now schemes to extort 1 million from an underground millionaire.",
     "Director": "Mikhail Shvejtser",
@@ -41,8 +41,8 @@
       "imdbId": "tt0062861",
       "title": "Danger: Diabolik",
       "year": 1968,
-      "imdbRating": "6.5",
-      "imdbVotes": "7,461",
+      "imdbRating": 6.5,
+      "imdbVotes": 7461,
       "language": "Italian",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0062759",
       "title": "The Diamond Arm",
       "year": 1969,
-      "imdbRating": "8.3",
-      "imdbVotes": "16,674",
+      "imdbRating": 8.3,
+      "imdbVotes": 16674,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -60,8 +60,8 @@
       "imdbId": "tt0058977",
       "title": "Blindfold",
       "year": 1966,
-      "imdbRating": "6.2",
-      "imdbVotes": "1,148",
+      "imdbRating": 6.2,
+      "imdbVotes": 1148,
       "language": "English, Italian",
       "sourceType": "archive.org"
     },
@@ -69,8 +69,8 @@
       "imdbId": "tt0068519",
       "title": "Gentlemen of Fortune",
       "year": 1971,
-      "imdbRating": "8.3",
-      "imdbVotes": "13,658",
+      "imdbRating": 8.3,
+      "imdbVotes": 13658,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -79,8 +79,8 @@
       "imdbId": "tt0066856",
       "title": "Born to Win",
       "year": 1971,
-      "imdbRating": "5.8",
-      "imdbVotes": "2,197",
+      "imdbRating": 5.8,
+      "imdbVotes": 2197,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -88,8 +88,8 @@
       "imdbId": "tt0059433",
       "title": "Masquerade",
       "year": 1965,
-      "imdbRating": "5.5",
-      "imdbVotes": "579",
+      "imdbRating": 5.5,
+      "imdbVotes": 579,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -97,8 +97,8 @@
       "imdbId": "tt0196832",
       "title": "Paula contra la mitad más uno",
       "year": 1971,
-      "imdbRating": "5.9",
-      "imdbVotes": "28",
+      "imdbRating": 5.9,
+      "imdbVotes": 28,
       "language": "English, Spanish",
       "sourceType": "archive.org"
     },
@@ -106,8 +106,8 @@
       "imdbId": "tt0066871",
       "title": "Burke & Hare",
       "year": 1972,
-      "imdbRating": "5.3",
-      "imdbVotes": "581",
+      "imdbRating": 5.3,
+      "imdbVotes": 581,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Netzkino"
@@ -116,8 +116,8 @@
       "imdbId": "tt0039645",
       "title": "My Favorite Brunette",
       "year": 1947,
-      "imdbRating": "6.7",
-      "imdbVotes": "3,928",
+      "imdbRating": 6.7,
+      "imdbVotes": 3928,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -125,8 +125,8 @@
       "imdbId": "tt27919777",
       "title": "Coney Island Cousins",
       "year": 2025,
-      "imdbRating": "9.5",
-      "imdbVotes": "6",
+      "imdbRating": 9.5,
+      "imdbVotes": 6,
       "language": "English, Russian",
       "sourceType": "youtube",
       "channelName": "Movie Central"
@@ -135,8 +135,8 @@
       "imdbId": "tt0043327",
       "title": "Behave Yourself!",
       "year": 1951,
-      "imdbRating": "5.5",
-      "imdbVotes": "813",
+      "imdbRating": 5.5,
+      "imdbVotes": 813,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Timeless Classic Movies"
@@ -145,8 +145,8 @@
       "imdbId": "tt0037960",
       "title": "Midnight Manhunt",
       "year": 1945,
-      "imdbRating": "5.3",
-      "imdbVotes": "456",
+      "imdbRating": 5.3,
+      "imdbVotes": 456,
       "language": "Spanish, English",
       "sourceType": "youtube",
       "channelName": "Timeless Classic Movies"
@@ -154,12 +154,15 @@
   ],
   "collections": [
     {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
+    {
       "id": "1960s",
       "name": "1960s Cinema"
     }
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2026-01-02T19:30:35.492Z"
 }

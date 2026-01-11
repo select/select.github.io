@@ -2,39 +2,29 @@
   "_schema": {
     "version": "1.1.0",
     "description": "Movie collections database",
-    "lastUpdated": "2026-01-08T22:54:45.111Z"
+    "lastUpdated": "2026-01-11T02:45:09.402Z"
   },
   "top-movies": {
     "id": "top-movies",
     "name": "Top Movies",
     "description": "A collection of top-rated movies across various genres and eras.",
     "movieIds": [
-      "tt0108052",
       "tt0050083",
-      "tt0073486",
-      "tt0054215",
-      "tt0086879",
       "tt0082096",
       "tt0043014",
       "tt0050825",
       "tt0051201",
-      "tt0062622",
       "tt0057012",
-      "tt0087843",
       "tt0056592",
-      "tt0056172",
       "tt0017136",
       "tt0036775",
       "tt0091251",
-      "tt0477348",
       "tt0071853",
-      "tt0031381",
       "tt0053291",
       "tt0057115",
       "tt0042192",
       "tt0012349",
       "tt0055630",
-      "tt0071315",
       "tt0050212",
       "tt0050976",
       "tt0041959",
@@ -45,7 +35,6 @@
       "tt0025316",
       "tt0032551",
       "tt0017925",
-      "tt0061722",
       "tt0063522",
       "tt0064115",
       "tt0061512",
@@ -56,11 +45,98 @@
       "tt0051808",
       "tt0071411",
       "tt0057565",
-      "tt0100998",
-      "tt0080979"
+      "tt0080979",
+      "tt0038733",
+      "tt0095468",
+      "tt0076085",
+      "tt0046851",
+      "tt0038190",
+      "tt0000417",
+      "tt0072417",
+      "tt0043338",
+      "tt0071141",
+      "tt0020629",
+      "tt0056444",
+      "tt0052561",
+      "tt0060107",
+      "tt0077711",
+      "tt0052600",
+      "tt0037558",
+      "tt0100234",
+      "tt0036506",
+      "tt0015175",
+      "tt0043313",
+      "tt0016847",
+      "tt0068519",
+      "tt0015881",
+      "tt3390572",
+      "tt0056058",
+      "tt0071604",
+      "tt0023042",
+      "tt0058604",
+      "tt0053946",
+      "tt0070233",
+      "tt0056111",
+      "tt0055031",
+      "tt0060584",
+      "tt0041546",
+      "tt4169250",
+      "tt0019760",
+      "tt0076391",
+      "tt0079579",
+      "tt0093603",
+      "tt0408664",
+      "tt0076727",
+      "tt0011541",
+      "tt0058888",
+      "tt0053221",
+      "tt0014429",
+      "tt0770802",
+      "tt0061847",
+      "tt0056443",
+      "tt0047445",
+      "tt6725014",
+      "tt0015324",
+      "tt0018455",
+      "tt0084747",
+      "tt0051036",
+      "tt0075404",
+      "tt0036868",
+      "tt0043362",
+      "tt0049012",
+      "tt0010323",
+      "tt0018742",
+      "tt0379225",
+      "tt0050634",
+      "tt0018806",
+      "tt0062759",
+      "tt0063845",
+      "tt0053114",
+      "tt0015064",
+      "tt0045112",
+      "tt0056241",
+      "tt0056049",
+      "tt0036244",
+      "tt0012364",
+      "tt0040725",
+      "tt0059527",
+      "tt0053976",
+      "tt0046268",
+      "tt0019585",
+      "tt0050613",
+      "tt0046438",
+      "tt0051093",
+      "tt0047281",
+      "tt0046478",
+      "tt0055601",
+      "tt1185616",
+      "tt0054144",
+      "tt0057358",
+      "tt1166827",
+      "tt1332128"
     ],
     "createdAt": "2025-12-29T00:00:00.000Z",
-    "updatedAt": "2026-01-06T01:00:28.954Z",
+    "updatedAt": "2026-01-11T01:02:08.699Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -77,7 +153,13 @@
         }
       }
     ],
-    "tags": ["classics", "highly-rated", "must-watch", "cinema-history", "masterpieces"]
+    "tags": [
+      "classics",
+      "highly-rated",
+      "must-watch",
+      "cinema-history",
+      "masterpieces"
+    ]
   },
   "charlie-chaplin": {
     "id": "charlie-chaplin",
@@ -170,7 +252,13 @@
         }
       }
     ],
-    "tags": ["comedy", "silent-film", "slapstick", "classic-hollywood", "shorts"]
+    "tags": [
+      "comedy",
+      "silent-film",
+      "slapstick",
+      "classic-hollywood",
+      "shorts"
+    ]
   },
   "animation-shorts": {
     "id": "animation-shorts",
@@ -1347,7 +1435,13 @@
         }
       }
     ],
-    "tags": ["animation", "shorts", "golden-age", "cartoons", "family"]
+    "tags": [
+      "animation",
+      "shorts",
+      "golden-age",
+      "cartoons",
+      "family"
+    ]
   },
   "martial-arts": {
     "id": "martial-arts",
@@ -1401,7 +1495,13 @@
     "createdAt": "2025-12-29T16:08:00.000Z",
     "updatedAt": "2026-01-07T00:32:07.557Z",
     "savedQueries": [],
-    "tags": ["action", "kung-fu", "martial-arts", "asian-cinema", "fight-scenes"],
+    "tags": [
+      "action",
+      "kung-fu",
+      "martial-arts",
+      "asian-cinema",
+      "fight-scenes"
+    ],
     "enabled": true
   },
   "canine-cinema": {
@@ -1418,7 +1518,13 @@
     "createdAt": "2025-12-29T16:18:00.000Z",
     "updatedAt": "2026-01-07T00:31:27.845Z",
     "savedQueries": [],
-    "tags": ["family", "animals", "dogs", "heartwarming", "adventure"],
+    "tags": [
+      "family",
+      "animals",
+      "dogs",
+      "heartwarming",
+      "adventure"
+    ],
     "enabled": false
   },
   "buster-keaton": {
@@ -1510,31 +1616,336 @@
     "createdAt": "2025-12-30T00:00:00.000Z",
     "updatedAt": "2026-01-02T20:52:21.165Z",
     "savedQueries": [],
-    "tags": ["comedy", "silent-film", "slapstick", "physical-comedy", "classic-hollywood"]
+    "tags": [
+      "comedy",
+      "silent-film",
+      "slapstick",
+      "physical-comedy",
+      "classic-hollywood"
+    ]
   },
   "criterion-collection": {
     "id": "criterion-collection",
     "name": "The Criterion Collection",
     "description": "Films from The Criterion Collection, a prestigious series of classic and contemporary films.",
     "movieIds": [
-      "archive-LieutenantKizhe1934Restored",
-      "archive-night-and-the-city-1950-576p-sd",
-      "archive-OneWonderfulSundaysubarashikiNichiyobi1947",
-      "archive-shatteredscherben1921",
-      "archive-the-story-of-temple-drake-1933-colorized-movie-720p-hdl_202402",
-      "archive-the.-third.-man.-1949.-criterion.-1080p.-blu-ray.",
-      "archive-thieves-highway-1949-restored-movie-720p-hd",
-      "archive-threepenny-opera-1931-colorized-movie-576p-sd",
+      "tt0005910",
+      "tt0012349",
+      "tt0012364",
+      "tt0013257",
+      "tt0013427",
+      "tt0014429",
       "tt0015634",
+      "tt0015768",
+      "tt0015841",
+      "tt0016142",
+      "tt0017075",
+      "tt0018051",
+      "tt0018054",
+      "tt0018526",
+      "tt0018528",
+      "tt0018742",
+      "tt0018839",
+      "tt0019071",
+      "tt0019109",
+      "tt0019412",
+      "tt0020701",
+      "tt0020927",
+      "tt0021025",
+      "tt0021156",
+      "tt0021542",
+      "tt0021576",
+      "tt0021800",
+      "tt0022698",
+      "tt0022807",
+      "tt0022883",
+      "tt0022913",
+      "tt0023238",
+      "tt0023427",
+      "tt0023458",
+      "tt0023563",
+      "tt0023649",
+      "tt0023985",
+      "tt0024188",
+      "tt0024446",
+      "tt0025062",
+      "tt0025316",
+      "tt0025452",
+      "tt0025746",
+      "tt0026029",
+      "tt0026276",
+      "tt0026966",
+      "tt0027951",
+      "tt0028010",
+      "tt0028358",
+      "tt0029850",
+      "tt0030341",
+      "tt0030637",
+      "tt0031593",
+      "tt0031971",
+      "tt0032156",
+      "tt0032599",
+      "tt0032842",
+      "tt0032976",
+      "tt0033532",
+      "tt0033712",
+      "tt0034272",
+      "tt0034881",
+      "tt0034891",
+      "tt0035112",
+      "tt0035169",
+      "tt0035753",
+      "tt0036400",
+      "tt0036506",
+      "tt0036613",
+      "tt0036695",
+      "tt0036775",
+      "tt0036947",
+      "tt0037075",
+      "tt0037367",
+      "tt0037415",
+      "tt0037558",
+      "tt0037638",
+      "tt0037800",
+      "tt0037824",
+      "tt0037865",
+      "tt0038109",
+      "tt0038268",
+      "tt0038559",
+      "tt0038574",
+      "tt0038577",
+      "tt0038669",
+      "tt0038733",
+      "tt0038762",
+      "tt0039090",
+      "tt0039224",
+      "tt0039661",
+      "tt0039677",
+      "tt0039768",
+      "tt0039871",
+      "tt0040338",
+      "tt0040607",
+      "tt0040636",
+      "tt0040662",
+      "tt0040724",
+      "tt0040725",
+      "tt0040919",
+      "tt0041546",
+      "tt0041699",
+      "tt0041886",
+      "tt0041958",
+      "tt0041959",
+      "tt0042192",
+      "tt0042531",
+      "tt0042593",
+      "tt0042665",
+      "tt0042788",
+      "tt0042958",
+      "tt0043137",
+      "tt0043313",
+      "tt0043338",
+      "tt0043362",
+      "tt0043614",
+      "tt0043927",
+      "tt0044000",
+      "tt0044982",
+      "tt0045112",
+      "tt0045555",
+      "tt0045935",
+      "tt0046187",
+      "tt0046268",
+      "tt0046438",
+      "tt0046478",
+      "tt0046511",
+      "tt0046851",
+      "tt0047281",
+      "tt0047296",
+      "tt0047417",
+      "tt0047444",
+      "tt0047445",
+      "tt0047930",
+      "tt0048127",
+      "tt0048261",
+      "tt0048393",
+      "tt0048424",
+      "tt0048579",
+      "tt0049010",
+      "tt0049012",
+      "tt0049263",
+      "tt0049406",
+      "tt0049710",
+      "tt0050083",
+      "tt0050330",
+      "tt0050393",
+      "tt0050613",
+      "tt0050634",
+      "tt0050782",
+      "tt0050825",
+      "tt0050976",
+      "tt0050986",
+      "tt0051036",
+      "tt0051378",
+      "tt0051418",
+      "tt0051808",
+      "tt0052561",
+      "tt0052587",
+      "tt0052600",
+      "tt0053106",
+      "tt0053114",
+      "tt0053121",
+      "tt0053134",
+      "tt0053220",
+      "tt0053270",
+      "tt0053291",
+      "tt0053459",
+      "tt0053472",
+      "tt0053765",
+      "tt0053976",
+      "tt0054144",
+      "tt0054331",
+      "tt0054687",
+      "tt0054709",
+      "tt0055257",
+      "tt0055601",
+      "tt0055630",
+      "tt0055830",
+      "tt0056049",
+      "tt0056058",
+      "tt0056111",
+      "tt0056215",
+      "tt0056218",
+      "tt0056443",
+      "tt0056444",
+      "tt0056514",
+      "tt0056923",
+      "tt0057012",
+      "tt0057091",
+      "tt0057114",
+      "tt0057115",
+      "tt0057193",
+      "tt0057207",
+      "tt0057358",
+      "tt0057363",
+      "tt0057495",
+      "tt0057565",
+      "tt0057643",
+      "tt0057829",
+      "tt0058279",
+      "tt0058390",
+      "tt0058414",
+      "tt0058430",
+      "tt0058604",
+      "tt0058888",
+      "tt0059183",
+      "tt0059303",
+      "tt0059346",
+      "tt0059402",
+      "tt0059527",
+      "tt0059646",
+      "tt0059936",
+      "tt0060107",
+      "tt0060304",
+      "tt0060560",
+      "tt0060586",
+      "tt0060758",
+      "tt0060802",
+      "tt0060827",
+      "tt0060959",
+      "tt0061101",
+      "tt0061722",
+      "tt0061809",
+      "tt0061811",
+      "tt0061847",
+      "tt0061882",
+      "tt0062430",
+      "tt0062952",
+      "tt0062994",
+      "tt0063186",
+      "tt0063350",
+      "tt0063518",
+      "tt0063522",
+      "tt0064390",
+      "tt0065466",
+      "tt0065531",
+      "tt0067227",
+      "tt0068278",
+      "tt0068815",
+      "tt0069293",
+      "tt0070544",
+      "tt0070698",
+      "tt0070809",
+      "tt0070820",
+      "tt0071141",
+      "tt0071508",
+      "tt0071604",
+      "tt0072157",
+      "tt0072417",
+      "tt0072962",
+      "tt0073076",
+      "tt0074102",
+      "tt0074486",
+      "tt0074749",
+      "tt0074958",
+      "tt0075404",
       "tt0076085",
-      "tt0470941",
+      "tt0076162",
+      "tt0077594",
+      "tt0077711",
+      "tt0078771",
+      "tt0079041",
+      "tt0079095",
+      "tt0079672",
+      "tt0079704",
+      "tt0079944",
+      "tt0080310",
+      "tt0080661",
+      "tt0080979",
+      "tt0081455",
+      "tt0082671",
+      "tt0085244",
+      "tt0085267",
+      "tt0086242",
+      "tt0086429",
+      "tt0087803",
+      "tt0089374",
+      "tt0091251",
+      "tt0092117",
+      "tt0094336",
+      "tt0095403",
+      "tt0095497",
+      "tt0100234",
+      "tt0103285",
       "tt0103905",
-      "tt0025316"
+      "tt0112631",
+      "tt0120591",
+      "tt0143348",
+      "tt0143428",
+      "tt0145923",
+      "tt0147612",
+      "tt0150980",
+      "tt0158714",
+      "tt0176049",
+      "tt0185125",
+      "tt0200768",
+      "tt0207145",
+      "tt0243133",
+      "tt0247443",
+      "tt0255274",
+      "tt0255441",
+      "tt0411270",
+      "tt6725014",
+      "tt6777170"
     ],
     "createdAt": "2025-12-31T02:45:00.000Z",
-    "updatedAt": "2026-01-03T04:29:30.288Z",
+    "updatedAt": "2026-01-11T01:09:26.024Z",
     "savedQueries": [],
-    "tags": ["classics", "art-house", "prestigious", "restored", "cinema-history"]
+    "tags": [
+      "classics",
+      "art-house",
+      "prestigious",
+      "restored",
+      "cinema-history"
+    ]
   },
   "abbott-and-costello": {
     "id": "abbott-and-costello",
@@ -1556,7 +1967,79 @@
     "createdAt": "2026-01-03T19:00:00.000Z",
     "updatedAt": "2026-01-03T19:00:00.000Z",
     "savedQueries": [],
-    "tags": ["comedy", "classic-hollywood", "duo", "slapstick", "wordplay"]
+    "tags": [
+      "comedy",
+      "classic-hollywood",
+      "duo",
+      "slapstick",
+      "wordplay"
+    ]
+  },
+  "alfred-hitchcock": {
+    "id": "alfred-hitchcock",
+    "name": "Alfred Hitchcock",
+    "description": "Suspenseful masterpieces from the Master of Suspense, Alfred Hitchcock, featuring psychological thrillers, mysteries, and iconic cinematic moments.",
+    "movieIds": [
+      "tt0019702",
+      "tt0058329",
+      "tt0054215",
+      "tt0032976",
+      "tt0028212",
+      "tt0036342",
+      "tt0038109",
+      "tt0026029",
+      "tt0030341",
+      "tt0017075",
+      "tt0025452",
+      "tt0049470",
+      "tt0039694",
+      "tt0029811",
+      "tt0018756",
+      "tt0056923",
+      "tt0017843",
+      "tt0031505",
+      "tt0028231",
+      "tt0024747",
+      "tt0020142",
+      "tt0016230",
+      "archive-i-confess-1950",
+      "archive-1940rebecaalfredhitchcock",
+      "archive-1946-notorious-encadenados-alfred-hitchcock-vose",
+      "youtube-mOcG8ZEfvCE",
+      "youtube-RmSdum4BMqI",
+      "youtube-gDt2qK_ZNQk",
+      "youtube-9aJ5j8HH46w",
+      "archive-secretagentfullmoviealfredhitchcockthriller1936englishsubtitle",
+      "archive-the-39-steps-colorized-movie-720p-hd",
+      "youtube-tEsehhPMO68",
+      "archive-the-lady-vanishes-colorized-movie-720p-hd_202403",
+      "youtube-jQ9ICZjQaLM",
+      "archive-the-man-who-knew-too-much-colorized-movie-720p-hd",
+      "youtube-cFU5esmgOds"
+    ],
+    "createdAt": "2026-01-10T17:18:00.000Z",
+    "updatedAt": "2026-01-10T16:39:55.543Z",
+    "savedQueries": [
+      {
+        "searchQuery": "Alfred Hitchcock",
+        "filterState": {
+          "searchQuery": "Alfred Hitchcock",
+          "currentPage": 1,
+          "lastScrollY": 0,
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "thriller",
+      "suspense",
+      "mystery",
+      "classic-hollywood",
+      "auteur"
+    ]
   },
   "akira-kurosawa": {
     "id": "akira-kurosawa",
@@ -1585,7 +2068,55 @@
     "createdAt": "2026-01-03T20:30:00.000Z",
     "updatedAt": "2026-01-03T20:53:18.150Z",
     "savedQueries": [],
-    "tags": ["japanese-cinema", "samurai", "drama", "masterpieces", "auteur"]
+    "tags": [
+      "japanese-cinema",
+      "samurai",
+      "drama",
+      "masterpieces",
+      "auteur"
+    ]
+  },
+  "billy-wilder": {
+    "id": "billy-wilder",
+    "name": "Billy Wilder",
+    "description": "Brilliant films from Billy Wilder, master filmmaker known for his sharp wit, cynical humor, and genre-defying classics that blend drama, comedy, and film noir.",
+    "movieIds": [
+      "archive-1945-the-lost-week-end-dias-sin-huella-billy-wilder-vose",
+      "tt0043338",
+      "tt0023740",
+      "tt0029929",
+      "tt0036775",
+      "tt0055256",
+      "tt0047437",
+      "tt0053291",
+      "tt0046359",
+      "tt0043014",
+      "tt0037884",
+      "tt0051201"
+    ],
+    "createdAt": "2026-01-10T18:30:00.000Z",
+    "updatedAt": "2026-01-11T02:45:09.399Z",
+    "savedQueries": [
+      {
+        "searchQuery": "Billy Wilder",
+        "filterState": {
+          "searchQuery": "Billy Wilder",
+          "currentPage": 1,
+          "lastScrollY": 0,
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "comedy",
+      "film-noir",
+      "classic-hollywood",
+      "auteur"
+    ]
   },
   "sci-fi": {
     "id": "sci-fi",
@@ -1596,7 +2127,6 @@
       "tt0062622",
       "tt12385804",
       "tt3460068",
-      "tt0437086",
       "tt0120591",
       "tt0015214",
       "tt0092610",
@@ -1678,7 +2208,7 @@
       "tt0044207"
     ],
     "createdAt": "2026-01-07T01:00:00.000Z",
-    "updatedAt": "2026-01-08T22:10:34.929Z",
+    "updatedAt": "2026-01-09T00:49:04.369Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -1692,11 +2222,19 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["Sci-Fi"]
+          "genres": [
+            "Sci-Fi"
+          ]
         }
       }
     ],
-    "tags": ["sci-fi", "space", "future", "technology", "aliens"]
+    "tags": [
+      "sci-fi",
+      "space",
+      "future",
+      "technology",
+      "aliens"
+    ]
   },
   "horror": {
     "id": "horror",
@@ -1808,11 +2346,19 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["Horror"]
+          "genres": [
+            "Horror"
+          ]
         }
       }
     ],
-    "tags": ["horror", "thriller", "suspense", "monsters", "supernatural"]
+    "tags": [
+      "horror",
+      "thriller",
+      "suspense",
+      "monsters",
+      "supernatural"
+    ]
   },
   "film-noir": {
     "id": "film-noir",
@@ -1971,11 +2517,19 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["Film-Noir"]
+          "genres": [
+            "Film-Noir"
+          ]
         }
       }
     ],
-    "tags": ["noir", "crime", "mystery", "black-and-white", "detective"],
+    "tags": [
+      "noir",
+      "crime",
+      "mystery",
+      "black-and-white",
+      "detective"
+    ],
     "enabled": true
   },
   "romance": {
@@ -2165,11 +2719,19 @@
           },
           "minRating": 7,
           "minVotes": 3000,
-          "genres": ["Romance"]
+          "genres": [
+            "Romance"
+          ]
         }
       }
     ],
-    "tags": ["romance", "love", "drama", "relationships", "heartwarming"],
+    "tags": [
+      "romance",
+      "love",
+      "drama",
+      "relationships",
+      "heartwarming"
+    ],
     "enabled": true
   },
   "adventure": {
@@ -2306,11 +2868,19 @@
           },
           "minRating": 7,
           "minVotes": 3000,
-          "genres": ["Adventure"]
+          "genres": [
+            "Adventure"
+          ]
         }
       }
     ],
-    "tags": ["adventure", "action", "exploration", "journey", "epic"],
+    "tags": [
+      "adventure",
+      "action",
+      "exploration",
+      "journey",
+      "epic"
+    ],
     "enabled": true
   },
   "mystery": {
@@ -2471,11 +3041,19 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["Mystery"]
+          "genres": [
+            "Mystery"
+          ]
         }
       }
     ],
-    "tags": ["mystery", "detective", "whodunit", "suspense", "investigation"],
+    "tags": [
+      "mystery",
+      "detective",
+      "whodunit",
+      "suspense",
+      "investigation"
+    ],
     "enabled": true
   },
   "thriller": {
@@ -2639,11 +3217,19 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["Thriller"]
+          "genres": [
+            "Thriller"
+          ]
         }
       }
     ],
-    "tags": ["thriller", "suspense", "tension", "psychological", "crime"],
+    "tags": [
+      "thriller",
+      "suspense",
+      "tension",
+      "psychological",
+      "crime"
+    ],
     "enabled": true
   },
   "war": {
@@ -2760,11 +3346,19 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["War"]
+          "genres": [
+            "War"
+          ]
         }
       }
     ],
-    "tags": ["war", "military", "combat", "historical", "drama"],
+    "tags": [
+      "war",
+      "military",
+      "combat",
+      "historical",
+      "drama"
+    ],
     "enabled": true
   },
   "western": {
@@ -2964,7 +3558,9 @@
           },
           "minRating": 6.5,
           "minVotes": 3000,
-          "genres": ["Western"]
+          "genres": [
+            "Western"
+          ]
         }
       }
     ],
@@ -3101,7 +3697,13 @@
         }
       }
     ],
-    "tags": ["1920s", "silent-film", "early-cinema", "classics", "vintage"],
+    "tags": [
+      "1920s",
+      "silent-film",
+      "early-cinema",
+      "classics",
+      "vintage"
+    ],
     "enabled": true
   },
   "1930s": {
@@ -3129,7 +3731,6 @@
       "tt0022905",
       "tt0021884",
       "tt0022913",
-      "tt0031381",
       "tt0031397",
       "tt0028988",
       "tt0023042",
@@ -3221,7 +3822,7 @@
       "tt0029811"
     ],
     "createdAt": "2026-01-07T02:00:00.000Z",
-    "updatedAt": "2026-01-08T22:26:52.946Z",
+    "updatedAt": "2026-01-11T01:03:08.582Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -3240,7 +3841,13 @@
         }
       }
     ],
-    "tags": ["1930s", "golden-age", "pre-code", "classics", "hollywood"],
+    "tags": [
+      "1930s",
+      "golden-age",
+      "pre-code",
+      "classics",
+      "hollywood"
+    ],
     "enabled": true
   },
   "1940s": {
@@ -3248,160 +3855,47 @@
     "name": "1940s Cinema",
     "description": "Film noir, wartime dramas, and post-war classics from the 1940s.",
     "movieIds": [
-      "tt0191755",
-      "tt0149809",
-      "tt12305226",
-      "tt12304756",
       "tt0041587",
       "tt0038733",
-      "tt0148592",
       "tt0038190",
-      "tt0184188",
-      "tt0204796",
-      "tt0191772",
-      "tt0198296",
-      "tt0178236",
       "tt0036613",
-      "tt0812201",
-      "tt1966357",
-      "tt2241043",
       "tt0039204",
-      "tt0038376",
       "tt0037558",
       "tt0039224",
-      "tt0181335",
-      "tt0178294",
-      "tt22994092",
-      "tt0193814",
-      "tt0199416",
-      "tt0201541",
-      "tt0038436",
-      "tt0194782",
-      "tt0198395",
-      "tt0031524",
       "tt0036506",
       "tt0037635",
-      "tt0188556",
-      "tt0150475",
-      "tt0034859",
-      "tt0032982",
-      "tt0158932",
-      "tt2046081",
-      "tt0240548",
-      "tt0036903",
       "tt0036775",
-      "tt0194839",
-      "tt0240883",
-      "tt0036511",
-      "tt0189237",
-      "tt0181995",
-      "tt0201633",
-      "tt0192115",
-      "tt0143291",
-      "tt0408098",
-      "tt0181847",
-      "tt1810592",
-      "tt0186989",
-      "tt0317423",
-      "tt0233669",
-      "tt0248006",
-      "tt0150568",
-      "tt0181538",
-      "tt12606824",
-      "tt0204330",
       "tt0036855",
       "tt0038559",
       "tt0038574",
-      "tt0033701",
       "tt0033712",
-      "tt0240578",
-      "tt1604114",
       "tt0032599",
-      "tt0033721",
-      "tt0194944",
-      "tt0148310",
-      "tt31824373",
       "tt0033729",
-      "tt0264698",
-      "tt13364232",
-      "tt2015402",
       "tt0037824",
-      "tt6045006",
       "tt0041546",
-      "tt0148382",
-      "tt0294287",
-      "tt0181348",
-      "tt0181620",
-      "tt0194116",
-      "tt0188923",
-      "tt0192502",
-      "tt0202029",
-      "tt10816824",
       "tt0037008",
-      "tt0178695",
       "tt0035753",
       "tt0037865",
       "tt0040536",
-      "tt0032712",
-      "tt0191185",
-      "tt0159590",
-      "tt0198721",
-      "tt0040576",
       "tt0033891",
       "tt0037059",
-      "tt0032775",
-      "tt0032777",
-      "tt0037063",
-      "tt0194153",
-      "tt0035073",
       "tt0038762",
       "tt0039661",
-      "tt0192376",
       "tt0039677",
-      "tt0033972",
       "tt0040662",
-      "tt12816892",
-      "tt0189035",
-      "tt2152805",
-      "tt0148586",
       "tt0032910",
-      "tt0148627",
-      "tt0148634",
-      "tt8835616",
-      "tt16899218",
-      "tt0234640",
       "tt0032976",
-      "tt0182383",
       "tt0040724",
-      "tt1155631",
-      "tt0201896",
       "tt0036323",
       "tt0038057",
-      "tt0131004",
-      "tt0247693",
       "tt0036342",
-      "tt34381727",
-      "tt0181815",
-      "tt0152446",
       "tt0037280",
-      "tt0201933",
-      "tt0035350",
-      "tt0130269",
-      "tt1418816",
-      "tt0034219",
       "tt0038109",
-      "tt0122730",
-      "tt1315413",
       "tt0041699",
-      "tt1248947",
-      "tt1523561",
       "tt0036868",
       "tt0040160",
-      "tt0150235",
       "tt0033532",
-      "tt0148099",
       "tt0040338",
-      "tt0159453",
       "tt0032551",
       "tt0038669",
       "tt0040525",
@@ -3409,37 +3903,19 @@
       "tt0033870",
       "tt0036172",
       "tt0040636",
-      "tt0148531",
       "tt0036244",
       "tt0035169",
       "tt0040725",
       "tt0040806",
       "tt0036377",
       "tt0041959",
-      "tt0153638",
       "tt0037469",
       "tt0041958",
-      "tt0248557",
       "tt0041996",
-      "tt0194010",
-      "tt0181727",
-      "tt0040919",
-      "tt0159814",
-      "tt2080409",
-      "tt0201295",
-      "tt0033217",
-      "tt0130357",
-      "tt0159827",
-      "tt0040954",
-      "tt0130360",
-      "tt15527684",
-      "tt0364699",
-      "tt0033258",
-      "tt27914463",
-      "tt0419282"
+      "tt0040919"
     ],
     "createdAt": "2026-01-07T02:00:00.000Z",
-    "updatedAt": "2026-01-08T21:43:45.856Z",
+    "updatedAt": "2026-01-11T00:58:47.773Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -3458,7 +3934,13 @@
         }
       }
     ],
-    "tags": ["1940s", "film-noir", "war-films", "classics", "golden-age"]
+    "tags": [
+      "1940s",
+      "film-noir",
+      "war-films",
+      "classics",
+      "golden-age"
+    ]
   },
   "1950s": {
     "id": "1950s",
@@ -3471,7 +3953,6 @@
       "tt0045465",
       "tt0043924",
       "tt0046851",
-      "tt0044081",
       "tt0043338",
       "tt0042192",
       "tt0047119",
@@ -3634,7 +4115,7 @@
       "tt0043142"
     ],
     "createdAt": "2026-01-07T02:00:00.000Z",
-    "updatedAt": "2026-01-08T22:28:44.980Z",
+    "updatedAt": "2026-01-11T01:00:18.863Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -3653,7 +4134,13 @@
         }
       }
     ],
-    "tags": ["1950s", "cinemascope", "method-acting", "classics", "technicolor"],
+    "tags": [
+      "1950s",
+      "cinemascope",
+      "method-acting",
+      "classics",
+      "technicolor"
+    ],
     "enabled": true
   },
   "1960s": {
@@ -3825,7 +4312,13 @@
         }
       }
     ],
-    "tags": ["1960s", "new-wave", "counterculture", "classics", "revolution"],
+    "tags": [
+      "1960s",
+      "new-wave",
+      "counterculture",
+      "classics",
+      "revolution"
+    ],
     "enabled": true
   },
   "1970s": {
@@ -3952,7 +4445,13 @@
         }
       }
     ],
-    "tags": ["1970s", "new-hollywood", "auteur", "classics", "gritty"],
+    "tags": [
+      "1970s",
+      "new-hollywood",
+      "auteur",
+      "classics",
+      "gritty"
+    ],
     "enabled": true
   },
   "1980s": {
@@ -4013,7 +4512,13 @@
         }
       }
     ],
-    "tags": ["1980s", "blockbusters", "action", "classics", "nostalgia"],
+    "tags": [
+      "1980s",
+      "blockbusters",
+      "action",
+      "classics",
+      "nostalgia"
+    ],
     "enabled": true
   },
   "1990s": {
@@ -4093,7 +4598,13 @@
         }
       }
     ],
-    "tags": ["1990s", "indie", "diverse", "modern", "classics"],
+    "tags": [
+      "1990s",
+      "indie",
+      "diverse",
+      "modern",
+      "classics"
+    ],
     "enabled": true
   },
   "2000s": {
@@ -4229,7 +4740,13 @@
         }
       }
     ],
-    "tags": ["2000s", "digital", "modern", "contemporary", "millennium"],
+    "tags": [
+      "2000s",
+      "digital",
+      "modern",
+      "contemporary",
+      "millennium"
+    ],
     "enabled": true
   },
   "2010s": {
@@ -4385,7 +4902,13 @@
         }
       }
     ],
-    "tags": ["2010s", "streaming", "contemporary", "modern", "recent"],
+    "tags": [
+      "2010s",
+      "streaming",
+      "contemporary",
+      "modern",
+      "recent"
+    ],
     "enabled": true
   },
   "2020s": {
@@ -4435,7 +4958,13 @@
         }
       }
     ],
-    "tags": ["2020s", "contemporary", "new-releases", "modern", "current"],
+    "tags": [
+      "2020s",
+      "contemporary",
+      "new-releases",
+      "modern",
+      "current"
+    ],
     "enabled": true
   }
 }

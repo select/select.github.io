@@ -22,8 +22,8 @@
   "metadata": {
     "Rated": "Not Rated",
     "Runtime": "141 min",
-    "imdbRating": "8.2",
-    "imdbVotes": "11,828",
+    "imdbRating": 8.2,
+    "imdbVotes": 11828,
     "Genre": "Drama",
     "Plot": "This study of Cuba--partially written by renowned poet Yevgeny Yevtushenko--captures the island just before it made the transition to a post-revolutionary society. Moving from city to country and back again, I AM CUBA examines the various problems caused by political oppression as well as by great discrepancies in wealth and power. Beginning in Havana in the pre-Castro era, we see how foreigners contributed to the city's prostitution and poverty; this sequence features dreamy, hallucinogenic camera work that creates a feeling of unease and dislocation. Then, in glorious images of palm tress and fertile land, the film looks at the sugar cane fields in the countryside, and the difficulties faced by peasants working the land. Finally, back in the city again, leftist students battle the police and a corrupt government--and pay a high price for their rebellion.",
     "Director": "Mikhail Kalatozov",
@@ -38,8 +38,8 @@
       "imdbId": "tt0053106",
       "title": "Letter Never Sent",
       "year": 1960,
-      "imdbRating": "7.8",
-      "imdbVotes": "4,401",
+      "imdbRating": 7.8,
+      "imdbVotes": 4401,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -48,8 +48,8 @@
       "imdbId": "tt0050634",
       "title": "The Cranes Are Flying",
       "year": 1957,
-      "imdbRating": "8.3",
-      "imdbVotes": "21,499",
+      "imdbRating": 8.3,
+      "imdbVotes": 21499,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -58,8 +58,8 @@
       "imdbId": "tt0067315",
       "title": "The Red Tent",
       "year": 1969,
-      "imdbRating": "6.9",
-      "imdbVotes": "2,483",
+      "imdbRating": 6.9,
+      "imdbVotes": 2483,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -68,8 +68,8 @@
       "imdbId": "tt0057811",
       "title": "633 Squadron",
       "year": 1964,
-      "imdbRating": "6.4",
-      "imdbVotes": "4,879",
+      "imdbRating": 6.4,
+      "imdbVotes": 4879,
       "language": "English, German",
       "sourceType": "archive.org"
     },
@@ -77,8 +77,8 @@
       "imdbId": "tt0228438",
       "title": "Iron Angel",
       "year": 1964,
-      "imdbRating": "3.6",
-      "imdbVotes": "128",
+      "imdbRating": 3.6,
+      "imdbVotes": 128,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -86,8 +86,8 @@
       "imdbId": "tt0058521",
       "title": "Revolt of the Barbarians",
       "year": 1964,
-      "imdbRating": "5.6",
-      "imdbVotes": "107",
+      "imdbRating": 5.6,
+      "imdbVotes": 107,
       "language": "Italian",
       "sourceType": "archive.org"
     },
@@ -95,8 +95,8 @@
       "imdbId": "tt0058557",
       "title": "Seance on a Wet Afternoon",
       "year": 1964,
-      "imdbRating": "7.6",
-      "imdbVotes": "7,624",
+      "imdbRating": 7.6,
+      "imdbVotes": 7624,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -104,8 +104,8 @@
       "imdbId": "tt0058390",
       "title": "The Naked Kiss",
       "year": 1964,
-      "imdbRating": "7.2",
-      "imdbVotes": "9,021",
+      "imdbRating": 7.2,
+      "imdbVotes": 9021,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -113,8 +113,8 @@
       "imdbId": "tt0060461",
       "title": "The Girl-Getters",
       "year": 1964,
-      "imdbRating": "6.6",
-      "imdbVotes": "888",
+      "imdbRating": 6.6,
+      "imdbVotes": 888,
       "language": "English, German",
       "sourceType": "archive.org"
     },
@@ -122,8 +122,8 @@
       "imdbId": "tt0058209",
       "title": "A House Is Not a Home",
       "year": 1964,
-      "imdbRating": "5.7",
-      "imdbVotes": "262",
+      "imdbRating": 5.7,
+      "imdbVotes": 262,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -131,8 +131,8 @@
       "imdbId": "tt0189375",
       "title": "Así o de otra manera",
       "year": 1964,
-      "imdbRating": "6.0",
-      "imdbVotes": "9",
+      "imdbRating": 6,
+      "imdbVotes": 9,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -140,13 +140,20 @@
       "imdbId": "tt0185921",
       "title": "Bettina",
       "year": 1964,
-      "imdbRating": "N/A",
-      "imdbVotes": "5",
+      "imdbVotes": 5,
       "language": "Spanish",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
+    {
+      "id": "criterion-collection",
+      "name": "The Criterion Collection"
+    },
     {
       "id": "1960s",
       "name": "1960s Cinema"
@@ -154,6 +161,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-23T04:02:45.841Z"
 }

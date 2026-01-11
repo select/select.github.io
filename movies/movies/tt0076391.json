@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "PG",
     "Runtime": "95 min",
-    "imdbRating": "8.1",
-    "imdbVotes": "7,423",
+    "imdbRating": 8.1,
+    "imdbVotes": 7423,
     "Genre": "Comedy, Drama",
     "Plot": "Pilot Mimino works at small local airlines in Telavi, Georgia, flying helicopters between small villages. He dreams of piloting large planes for major international airlines, so he goes to Moscow for refresher courses. There in a hotel he meets truck driver Rubik from Dilijan, Armenia who is given a place in that hotel by mistake. Together they have many adventures in Moscow. However, both are homesick and long for their family, friends, and hometowns in the Caucasus.",
     "Director": "Georgiy Daneliya",
@@ -32,8 +32,8 @@
       "imdbId": "tt0072613",
       "title": "Afonya",
       "year": 1975,
-      "imdbRating": "7.7",
-      "imdbVotes": "5,439",
+      "imdbRating": 7.7,
+      "imdbVotes": 5439,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -42,8 +42,8 @@
       "imdbId": "tt0076727",
       "title": "Office Romance",
       "year": 1977,
-      "imdbRating": "8.2",
-      "imdbVotes": "11,272",
+      "imdbRating": 8.2,
+      "imdbVotes": 11272,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -52,8 +52,8 @@
       "imdbId": "tt0075119",
       "title": "A Slave of Love",
       "year": 1976,
-      "imdbRating": "7.3",
-      "imdbVotes": "1,916",
+      "imdbRating": 7.3,
+      "imdbVotes": 1916,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -62,8 +62,8 @@
       "imdbId": "tt0229650",
       "title": "Picardía Mexicana",
       "year": 1978,
-      "imdbRating": "7.0",
-      "imdbVotes": "73",
+      "imdbRating": 7,
+      "imdbVotes": 73,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -71,8 +71,8 @@
       "imdbId": "tt0188726",
       "title": "Juan que reía",
       "year": 1976,
-      "imdbRating": "6.5",
-      "imdbVotes": "44",
+      "imdbRating": 6.5,
+      "imdbVotes": 44,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -80,8 +80,8 @@
       "imdbId": "tt0178325",
       "title": "Los chicos crecen",
       "year": 1976,
-      "imdbRating": "4.9",
-      "imdbVotes": "17",
+      "imdbRating": 4.9,
+      "imdbVotes": 17,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -89,8 +89,8 @@
       "imdbId": "tt0078294",
       "title": "Somebody Killed Her Husband",
       "year": 1978,
-      "imdbRating": "4.9",
-      "imdbVotes": "581",
+      "imdbRating": 4.9,
+      "imdbVotes": 581,
       "language": "English",
       "sourceType": "youtube",
       "channelName": "Netzkino"
@@ -99,8 +99,6 @@
       "imdbId": "tt0202036",
       "title": "Un idilio de estación",
       "year": 1978,
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -108,8 +106,8 @@
       "imdbId": "tt0075248",
       "title": "To Dream, to Dream",
       "year": 1976,
-      "imdbRating": "7.3",
-      "imdbVotes": "205",
+      "imdbRating": 7.3,
+      "imdbVotes": 205,
       "language": "Spanish",
       "sourceType": "archive.org"
     },
@@ -117,8 +115,8 @@
       "imdbId": "tt0079999",
       "title": "The Theme",
       "year": 1979,
-      "imdbRating": "7.3",
-      "imdbVotes": "601",
+      "imdbRating": 7.3,
+      "imdbVotes": 601,
       "language": "Russian",
       "sourceType": "youtube",
       "channelName": "Mosfilm"
@@ -127,8 +125,8 @@
       "imdbId": "tt0072730",
       "title": "A Boy and His Dog",
       "year": 1975,
-      "imdbRating": "6.4",
-      "imdbVotes": "20,560",
+      "imdbRating": 6.4,
+      "imdbVotes": 20560,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -136,13 +134,17 @@
       "imdbId": "tt0071112",
       "title": "El albañil",
       "year": 1975,
-      "imdbRating": "5.7",
-      "imdbVotes": "37",
+      "imdbRating": 5.7,
+      "imdbVotes": 37,
       "language": "Spanish",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
     {
       "id": "1970s",
       "name": "1970s Cinema"
@@ -150,6 +152,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-23T04:01:28.046Z"
 }

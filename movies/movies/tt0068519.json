@@ -16,8 +16,8 @@
   "metadata": {
     "Rated": "TV-13",
     "Runtime": "88 min",
-    "imdbRating": "8.3",
-    "imdbVotes": "13,658",
+    "imdbRating": 8.3,
+    "imdbVotes": 13658,
     "Genre": "Comedy, Crime, Drama",
     "Plot": "A kindergarten director Troshkin is a dead ringer for a criminal nicknamed \"Docent\" who stole the priceless headpiece of Alexander the Great during an archaeological expedition. But after militia \"inputs\" Troshkin into the criminal environment he has nothing left to do but to carefully play out the part of his \"evil twin\".",
     "Director": "Aleksandr Seryy",
@@ -32,8 +32,8 @@
       "imdbId": "tt0066856",
       "title": "Born to Win",
       "year": 1971,
-      "imdbRating": "5.8",
-      "imdbVotes": "2,197",
+      "imdbRating": 5.8,
+      "imdbVotes": 2197,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -41,8 +41,8 @@
       "imdbId": "tt0196832",
       "title": "Paula contra la mitad más uno",
       "year": 1971,
-      "imdbRating": "5.9",
-      "imdbVotes": "28",
+      "imdbRating": 5.9,
+      "imdbVotes": 28,
       "language": "English, Spanish",
       "sourceType": "archive.org"
     },
@@ -50,8 +50,8 @@
       "imdbId": "tt0028346",
       "title": "Reefer Madness",
       "year": 1936,
-      "imdbRating": "3.7",
-      "imdbVotes": "9,511",
+      "imdbRating": 3.7,
+      "imdbVotes": 9511,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -59,8 +59,8 @@
       "imdbId": "tt0032343",
       "title": "City of Chance",
       "year": 1940,
-      "imdbRating": "6.6",
-      "imdbVotes": "83",
+      "imdbRating": 6.6,
+      "imdbVotes": 83,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -68,8 +68,8 @@
       "imdbId": "tt0038418",
       "title": "A Close Call for Boston Blackie",
       "year": 1946,
-      "imdbRating": "6.0",
-      "imdbVotes": "409",
+      "imdbRating": 6,
+      "imdbVotes": 409,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -77,8 +77,8 @@
       "imdbId": "tt0033871",
       "title": "A Man Betrayed",
       "year": 1941,
-      "imdbRating": "5.9",
-      "imdbVotes": "643",
+      "imdbRating": 5.9,
+      "imdbVotes": 643,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -86,8 +86,8 @@
       "imdbId": "tt0029199",
       "title": "A Man Betrayed",
       "year": 1936,
-      "imdbRating": "5.6",
-      "imdbVotes": "119",
+      "imdbRating": 5.6,
+      "imdbVotes": 119,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -95,8 +95,8 @@
       "imdbId": "tt0024985",
       "title": "City Park",
       "year": 1934,
-      "imdbRating": "5.4",
-      "imdbVotes": "46",
+      "imdbRating": 5.4,
+      "imdbVotes": 46,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -104,8 +104,8 @@
       "imdbId": "tt0033805",
       "title": "Lady Scarface",
       "year": 1941,
-      "imdbRating": "5.7",
-      "imdbVotes": "318",
+      "imdbRating": 5.7,
+      "imdbVotes": 318,
       "language": "French, English",
       "sourceType": "archive.org"
     },
@@ -113,8 +113,8 @@
       "imdbId": "tt0214642",
       "title": "Le drapeau noir flotte sur la marmite",
       "year": 1971,
-      "imdbRating": "5.5",
-      "imdbVotes": "157",
+      "imdbRating": 5.5,
+      "imdbVotes": 157,
       "language": "French",
       "sourceType": "archive.org"
     },
@@ -122,8 +122,8 @@
       "imdbId": "tt0034898",
       "title": "Inside the Law",
       "year": 1942,
-      "imdbRating": "5.1",
-      "imdbVotes": "67",
+      "imdbRating": 5.1,
+      "imdbVotes": 67,
       "language": "English",
       "sourceType": "archive.org"
     },
@@ -131,13 +131,17 @@
       "imdbId": "tt0031490",
       "title": "Inspector Hornleigh on Holiday",
       "year": 1939,
-      "imdbRating": "6.8",
-      "imdbVotes": "254",
+      "imdbRating": 6.8,
+      "imdbVotes": 254,
       "language": "English",
       "sourceType": "archive.org"
     }
   ],
   "collections": [
+    {
+      "id": "top-movies",
+      "name": "Top Movies"
+    },
     {
       "id": "1970s",
       "name": "1970s Cinema"
@@ -145,6 +149,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "qualityLabels": [],
   "lastUpdated": "2025-12-23T04:01:51.370Z"
 }
