@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Laddie_1940",
+      "id": "Laddie_1940",
       "title": "Laddie",
       "description": "Based on the novel by Gene Stratton-Porter.",
       "fileSize": 1327495098,
-      "id": "Laddie_1940"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/Laddie_1940",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 51342
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=4L3m0IlwJYc",
+      "id": "4L3m0IlwJYc",
       "title": "Laddie (1940) DRAMA",
       "description": "Stars: Tim Holt, Virginia Gilmore, Joan Carroll \nDirector: Jack Hively\n\nHandsome Laddie Stanton courts neighbor Pamela Pryor, meeting opposition from her stern military father, recently immigrated from England.",
-      "id": "4L3m0IlwJYc",
+      "addedAt": "2025-12-26T23:47:20.408Z",
+      "thumbnail": "https://i.ytimg.com/vi/4L3m0IlwJYc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBNm4ZmEIABHZaa_ujRmqF0GySV5g",
+      "duration": 4157,
+      "language": "en",
+      "year": 1940,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032021",
-      "title": "They Made Her a Spy",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035388",
-      "title": "Street of Chance",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033021",
-      "title": "Santa Fe Trail",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 4478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032247",
-      "title": "Beyond Tomorrow",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 2497,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135739",
-      "title": "Die drei Codonas",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032588",
-      "title": "Herz ohne Heimat",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033297",
-      "title": "Zwischen Hamburg und Haiti",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0032021",
+    "tt0035388",
+    "tt0032599",
+    "tt0033021",
+    "tt0032343",
+    "tt0032179",
+    "tt0032247",
+    "tt0032406",
+    "tt0032404",
+    "tt0135739",
+    "tt0032588",
+    "tt0033297"
   ],
   "collections": [],
   "is_curated": true,

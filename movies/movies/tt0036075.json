@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/KingOfTheCowboys",
+      "id": "KingOfTheCowboys",
       "title": "King of the Cowboys",
       "description": "Roy Rogers, Smiley Burnette and the Sons of the Pioneers go undercover to help Texas Governor Russell Hicks stop World War II Axis sympathizers from blowing up U.S. warehouses.",
       "fileSize": 1603154350,
-      "id": "KingOfTheCowboys"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/KingOfTheCowboys",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 19591
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=WDJP6SX2DHo",
+      "id": "WDJP6SX2DHo",
       "title": "King of the Cowboys (1943) ROY ROGERS",
       "description": "Sabateurs are blowing up government warehouses (during World War II). Roy and his pals work undercover to put an end to their operations. Songs include \"A Gay Ranchero,\" \"Ride 'Em Cowboy,\" \"Ride, Ranger, Ride,\" \"Red River Valley,\" and \"I'm an Old Cowhand.",
-      "id": "WDJP6SX2DHo",
+      "addedAt": "2025-12-26T23:54:49.856Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/WDJP6SX2DHo/maxresdefault.webp",
+      "duration": 3369,
+      "language": "en",
+      "year": 1943,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036357",
-      "title": "Silver Spurs",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036033",
-      "title": "Idaho",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036379",
-      "title": "Song of Texas",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036725",
-      "title": "Cowboy and the Senorita",
-      "year": 1944,
-      "imdbRating": 5.7,
-      "imdbVotes": 313,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035965",
-      "title": "Hands Across the Border",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034832",
-      "title": "Heart of the Golden West",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037296",
-      "title": "Song of Nevada",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037472",
-      "title": "The Yellow Rose of Texas",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035255",
-      "title": "Ridin' Down the Canyon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035397",
-      "title": "Sunset on the Desert",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035396",
-      "title": "Sunset Serenade",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035364",
-      "title": "South of Santa Fe",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036357",
+    "tt0036033",
+    "tt0036379",
+    "tt0036725",
+    "tt0035965",
+    "tt0034832",
+    "tt0037296",
+    "tt0037472",
+    "tt0035255",
+    "tt0035397",
+    "tt0035396",
+    "tt0035364"
   ],
   "collections": [],
   "is_curated": true,

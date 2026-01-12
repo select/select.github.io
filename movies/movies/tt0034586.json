@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CastleFilm",
+      "id": "CastleFilm",
       "title": "Castle in the Desert",
       "description": "Title: Castle in the Desert Summary: Charlie Chan investigates apparent poisonings at a mystery mansion in the Mojave Desert. Directed by: Harry Lachman Actors: Sidney Toler, Arleen Whelan, Richard Derr Production Company: Twentieth Century Fox Release Date: 27 February 1942 (USA) Aspect Ratio: 1.37 : 1 Paul Manderley, eccentric historian, and his wife, descendant of the Borgias, live in an isolated castle-like mansion in the Mojave Desert. When a guest suddenly collapses, Charlie Chan is invited to stay. As the standard mystery-mansion props come into play, and all means of outside communication are sabotaged, it becomes evident that one of the inhabitants has access to poisons and is prepared to use them...",
       "fileSize": 471039974,
-      "id": "CastleFilm"
+      "addedAt": "2026-01-07T00:06:14.041Z",
+      "thumbnail": "https://archive.org/services/img/CastleFilm",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 9973
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/castle-in-the-desert-1942",
+      "id": "castle-in-the-desert-1942",
       "title": "Castle in the Desert 1942 colorized =Charlie Chan=",
       "description": "An eccentric historian and his wife live in an isolated castle-like mansion in the Mojave Desert. When a guest suddenly collapses, Charlie Chan is invited to investigate and deterines that he was poisoned. Then all communication with the outside world is sabotaged, and the murderer is free to strike again. Sidney Toler as Charlie Chan Arleen Whelan as Brenda Hartford Richard Derr as Carl Detheridge Douglass Dumbrille as Paul Manderley Henry Daniell as Watson King Edmund MacDonald as Walter Hartford Victor Sen Yung as Jimmy Chan Lenita Lane as Lucy Manderley Ethel Griffies as Madame Saturnia Milton Parsons as Arthur Fletcher Steven Geray as Dr. Retling Lucien Littlefield as Gleason I colorized this using AI software that doesn't always get the colors right, but I think it looks fairly natural. Hopefully a more professional job will be done someday.",
       "fileSize": 550777677,
-      "id": "castle-in-the-desert-1942"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/castle-in-the-desert-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 7711
     }
   ],
   "metadata": {
@@ -35,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033519",
-      "title": "Dead Men Tell",
-      "year": 1941,
-      "imdbRating": 6.9,
-      "imdbVotes": 1401,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034681",
-      "title": "Dr. Renault's Secret",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 540,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033876",
-      "title": "Man at Large",
-      "year": 1941,
-      "imdbRating": 6.7,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034711",
-      "title": "Eyes in the Night",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 2030,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0034488",
-      "title": "Back-Room Boy",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 323,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035448",
-      "title": "Today I Hang",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034602",
-      "title": "A Close Call for Ellery Queen",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018867",
-      "title": "Escape from Hong Kong",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 38,
-      "language": "English, German, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034825",
-      "title": "Halfway to Shanghai",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033519",
+    "tt0034681",
+    "tt0033876",
+    "tt0034711",
+    "tt0034488",
+    "tt0035694",
+    "tt0034985",
+    "tt0035121",
+    "tt0035448",
+    "tt0034602",
+    "tt0018867",
+    "tt0034825"
   ],
   "collections": [],
   "is_curated": true,

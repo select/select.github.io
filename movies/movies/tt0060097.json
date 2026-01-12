@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NightmareCastle",
+      "id": "NightmareCastle",
       "title": "Nightmare Castle",
       "description": "A woman and her lover are tortured and killed by her sadistic husband. The pair return from the grave to seek vengeance. - IMDB Description",
       "fileSize": 1977190778,
-      "id": "NightmareCastle"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/NightmareCastle",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 84824
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nightmare_castle",
+      "id": "nightmare_castle",
       "title": "Nightmare Castle",
       "description": "You can find more information regarding this film on its IMDb page . This MPEG-4 file has been encoded to work with the Sony PSP. I would be interested to get feedback from anybody viewing this file on a PSP (or other handheld device).",
       "fileSize": 4762919766,
-      "id": "nightmare_castle"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/nightmare_castle",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 272291
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NIGHTMARECASTLEUNCUT",
+      "id": "NIGHTMARECASTLEUNCUT",
       "title": "\"NIGHTMARE CASTLE\" uncut",
       "description": "This is a complete version of “Nightmare Castle,” (“Amanti d'Oltretomba”) running 1:44; other versions in the Archive are the US edit, at 1:19. According to imdb.com, “Cut scenes are mainly plot to increase the tempo, as well as some scenes with violence.” This print is considerably sharper, and with better contrast, than the others, as well. Although the opening and closing credits are in Italian, all dialogue is in dubbed English. I’ve included an Italian movie poster, which misspells the star’s surname as “Steel,” just as in the movie’s credits.",
       "fileSize": 2318087489,
-      "id": "NIGHTMARECASTLEUNCUT"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/NIGHTMARECASTLEUNCUT",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 38649
     }
   ],
   "metadata": {
@@ -43,115 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0060049",
-      "title": "Terror-Creatures from the Grave",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 1198,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061005",
-      "title": "She Beast",
-      "year": 1966,
-      "imdbRating": 4.7,
-      "imdbVotes": 1525,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058307",
-      "title": "The Long Hair of Death",
-      "year": 1964,
-      "imdbRating": 6.2,
-      "imdbVotes": 1988,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057522",
-      "title": "The Ghost",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 1458,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058983",
-      "title": "Bloody Pit of Horror",
-      "year": 1965,
-      "imdbRating": 4.5,
-      "imdbVotes": 2387,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059504",
-      "title": "Blood Beast from Outer Space",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 898,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058954",
-      "title": "The Beach Girls and the Monster",
-      "year": 1965,
-      "imdbRating": 3.4,
-      "imdbVotes": 1135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059920",
-      "title": "The Wizard of Mars",
-      "year": 1965,
-      "imdbRating": 3.4,
-      "imdbVotes": 631,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059486",
-      "title": "Mutiny in Outer Space",
-      "year": 1965,
-      "imdbRating": 4.9,
-      "imdbVotes": 575,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059106",
-      "title": "Die! Die! My Darling!",
-      "year": 1965,
-      "imdbRating": 6.3,
-      "imdbVotes": 3160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059466",
-      "title": "Monsters Crash the Pajama Party",
-      "year": 1965,
-      "imdbRating": 4.6,
-      "imdbVotes": 397,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0407696",
-      "title": "Creature of the Walking Dead",
-      "year": 1965,
-      "imdbRating": 2.8,
-      "imdbVotes": 287,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0060049",
+    "tt0061005",
+    "tt0058307",
+    "tt0057522",
+    "tt0058983",
+    "tt0059504",
+    "tt0058954",
+    "tt0059920",
+    "tt0059486",
+    "tt0059106",
+    "tt0059466",
+    "tt0407696"
   ],
   "collections": [],
   "is_curated": true,

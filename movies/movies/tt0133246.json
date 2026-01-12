@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/twisters-revenge",
+      "id": "twisters-revenge",
       "title": "Twister's Revenge!",
       "description": "Three bumbling criminals have been trying to get their hands on the computerized control system of Mr. Twister, a talking monster truck with a mind of its own.",
       "fileSize": 1191229701,
-      "id": "twisters-revenge"
+      "addedAt": "2026-01-07T00:12:55.130Z",
+      "thumbnail": "https://archive.org/services/img/twisters-revenge",
+      "collection": "feature_films",
+      "downloads": 362
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0472566",
-      "title": "Star Wreck: In the Pirkinning",
-      "year": 2005,
-      "imdbRating": 6.6,
-      "imdbVotes": 5878,
-      "language": "Finnish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121694",
-      "title": "Robo Vampire",
-      "year": 1988,
-      "imdbRating": 3.4,
-      "imdbVotes": 1547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0096468",
-      "title": "Mistaken Identity",
-      "year": 1988,
-      "imdbRating": 6.4,
-      "imdbVotes": 27,
-      "language": "Cantonese, Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0095781",
-      "title": "Once Upon a Texas Train",
-      "year": 1988,
-      "imdbRating": 5.7,
-      "imdbVotes": 796,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1705773",
-      "title": "Mega Shark vs. Crocosaurus",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 5081,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0095403",
-      "title": "Police Story 2",
-      "year": 1988,
-      "imdbRating": 7.1,
-      "imdbVotes": 24216,
-      "language": "Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0252973",
-      "title": "Captain Celluloid vs. the Film Pirates",
-      "year": 1966,
-      "imdbRating": 6.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0095687",
-      "title": "My Stepmother Is an Alien",
-      "year": 1988,
-      "imdbRating": 5.4,
-      "imdbVotes": 28659,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0319235",
-      "title": "El cuatrero",
-      "year": 1989,
-      "imdbRating": 5.7,
-      "imdbVotes": 30,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0093278",
-      "title": "Ishtar",
-      "year": 1987,
-      "imdbRating": 4.7,
-      "imdbVotes": 12345,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0472566",
+    "tt0121694",
+    "tt0096468",
+    "tt0095781",
+    "tt2130142",
+    "tt0843873",
+    "tt1705773",
+    "tt0095403",
+    "tt0252973",
+    "tt0095687",
+    "tt0319235",
+    "tt0093278"
   ],
   "collections": [],
   "is_curated": true,

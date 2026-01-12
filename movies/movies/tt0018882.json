@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/feel-my-pulse_1928",
+      "id": "feel-my-pulse_1928",
       "title": "Feel My Pulse",
       "fileSize": 4060921447,
-      "id": "feel-my-pulse_1928"
+      "addedAt": "2026-01-07T00:08:24.394Z",
+      "thumbnail": "https://archive.org/services/img/feel-my-pulse_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 575
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019690",
-      "title": "Big News",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0016550",
-      "title": "Womanhandled",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 98,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018351",
-      "title": "Running Wild",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 266,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021287",
-      "title": "Reaching for the Moon",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 477,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034486",
-      "title": "Baby Face Morgan",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 263,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034698",
-      "title": "Einmal der liebe Herrgott sein",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 87,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132489",
-      "title": "Die Sache mit Styx",
-      "year": 1942,
-      "imdbRating": 7.6,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032602",
-      "title": "Hold That Woman!",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 182,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028342",
-      "title": "Taming the Wild",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026863",
-      "title": "The Perfect Clue",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019690",
+    "tt0028010",
+    "tt0016550",
+    "tt0019987",
+    "tt0018351",
+    "tt0021287",
+    "tt0034486",
+    "tt0034698",
+    "tt0132489",
+    "tt0032602",
+    "tt0028342",
+    "tt0026863"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-bucking-broadway",
+      "id": "silent-bucking-broadway",
       "title": "Bucking Broadway",
       "fileSize": 7633482790,
-      "id": "silent-bucking-broadway"
+      "addedAt": "2026-01-07T00:10:59.114Z",
+      "thumbnail": "https://archive.org/services/img/silent-bucking-broadway",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 587
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009153",
-      "title": "Hell Bent",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 445,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0009977",
-      "title": "By Indian Post",
-      "year": 1919,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011358",
-      "title": "Just Pals",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 513,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046384",
-      "title": "The Sun Shines Bright",
-      "year": 1953,
-      "imdbRating": 6.9,
-      "imdbVotes": 1870,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031971",
-      "title": "Stagecoach",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 57694,
-      "language": "English, Spanish, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0054292",
-      "title": "Sergeant Rutledge",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 5666,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055558",
-      "title": "Two Rode Together",
-      "year": 1961,
-      "imdbRating": 6.7,
-      "imdbVotes": 7380,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1072650",
-      "title": "The Man from Tia Juana",
-      "year": 1917,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008060",
-      "title": "The Heart of Texas Ryan",
-      "year": 1917,
-      "imdbRating": 5.1,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007610",
-      "title": "'49-'17",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 369,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009153",
+    "tt0009977",
+    "tt0011358",
+    "tt0017463",
+    "tt0046384",
+    "tt0031971",
+    "tt0054292",
+    "tt0055558",
+    "tt1072650",
+    "tt0008060",
+    "tt0007610",
+    "tt0008309"
   ],
   "collections": [],
   "is_curated": true,

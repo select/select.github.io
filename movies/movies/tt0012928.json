@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MyMovie_20171023",
+      "id": "MyMovie_20171023",
       "title": "\"Beauty's Worth\" (1922) starring Marion Davies",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     \"Beauty's Worth\" is a drama. A plain girl is ridiculed for her clothes when she \"comes out\" in society before she finds an unlikely ally. Directed by               Robert G. Vignola Produced by             Cosmopolitan Productions Scenario by                Luther Reed          Based on                    the story by Sophie Kerr Starring                     Marion Davies, Forrest Stanley, June Elvidge, Truly Shattuck, Lydia Yeamans Titus, Hallam Cooley, Antrim Short, Thomas Jefferson, Martha Mattox, Aileen Mannin Cinematography        Ira H. Morgan Distributed by           Paramount Pictures Release date               May 14, 1922 Running time             112 min. Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 2162649595,
-      "id": "MyMovie_20171023"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MyMovie_20171023",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 7859
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-beautys-worth",
+      "id": "silent-beautys-worth",
       "title": "Beauty's Worth",
       "fileSize": 1144131574,
-      "id": "silent-beautys-worth"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-beautys-worth",
+      "language": "English",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 397
     }
   ],
   "metadata": {
@@ -34,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013750",
-      "title": "When Knighthood Was in Flower",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 1113,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011960",
-      "title": "The Wildcat",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1336,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014497",
-      "title": "Souls for Sale",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 1133,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011652",
-      "title": "The Saphead",
-      "year": 1920,
-      "imdbRating": 6.1,
-      "imdbVotes": 1804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026863",
-      "title": "The Perfect Clue",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025747",
-      "title": "The Scarlet Letter",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0013750",
+    "tt0011960",
+    "tt0012122",
+    "tt0014497",
+    "tt0011741",
+    "tt0011652",
+    "tt0026863",
+    "tt0018297",
+    "tt0019258",
+    "tt0025747",
+    "tt0010806",
+    "tt0016548"
   ],
   "collections": [],
   "is_curated": true,

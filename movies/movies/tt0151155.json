@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/el-jugador-1947",
+      "id": "el-jugador-1947",
       "title": "El Jugador ( 1947)",
       "description": "El jugador  es una película en blanco y negro de  Argentina  dirigida por  León Klimovsky  sobre el guion de  Manuel Villegas López  según la  novela homónima  de  Fiódor Dostoievsky  que se estrenó el 22 de octubre de 1947 y que tuvo como protagonistas a  Roberto Escalada ,  Judith Sulián ,  Florindo Ferrario ,  Alberto Bello ,  Amalia Sánchez Ariño  y  Pedro Laxalt .(Wikipedia) Sinopsis Un hombre se consagra al juego desenfrenado luego de una desilusión amorosa Reparto Roberto Escalada  ... Andrés Judith Sulián  ... Paulina Florindo Ferrario  ... Barón de Segal Alberto Bello  ... Dr Guerrero Amalia Sánchez Ariño  ... tía Pedro Laxalt  ... Carlos Haydée Larroca  ... Blanche Walter Jacob Ángel Boffa",
       "fileSize": 1791993671,
-      "id": "el-jugador-1947"
+      "addedAt": "2026-01-07T00:08:15.378Z",
+      "thumbnail": "https://archive.org/services/img/el-jugador-1947",
+      "language": "spa",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 47
     }
   ],
   "metadata": {
@@ -27,107 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0191755",
-      "title": "30 segundos de amor",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151904",
-      "title": "La parda Flora",
-      "year": 1952,
-      "imdbRating": 5.9,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184230",
-      "title": "Una atrevida aventurita",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200480",
-      "title": "Besos perdidos",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0175941",
-      "title": "Nace la libertad",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198395",
-      "title": "Cumbres de hidalguía",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123006",
-      "title": "La caraba",
-      "year": 1947,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184985",
-      "title": "Los verdes paraísos",
-      "year": 1947,
-      "imdbRating": 7.3,
-      "imdbVotes": 35,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181815",
-      "title": "Siete para un secreto",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0127017",
-      "title": "The Marihuana Story",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 54,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184187",
-      "title": "Adán y la serpiente",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197212",
-      "title": "Adiós pampa mía",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0191755",
+    "tt0151904",
+    "tt0184230",
+    "tt0200480",
+    "tt0175941",
+    "tt0198395",
+    "tt0123006",
+    "tt0184985",
+    "tt0181815",
+    "tt0127017",
+    "tt0184187",
+    "tt0197212"
   ],
   "collections": [],
   "is_curated": true,

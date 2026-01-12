@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/la-chacota-1963",
+      "id": "la-chacota-1963",
       "title": "La Chacota (1963)",
       "description": "La chacota  es una película en blanco y negro de  Argentina  dirigida por  Enrique Dawi  sobre su propio guion escrito en colaboración con  Landrú  y  Aldo Cammarota  que se estrenó el 17 de octubre de 1963 y que tuvo como protagonistas a  Luis Aguilé ,  Mariquita Gallegos ,  Evangelina Elizondo  y  Osvaldo Pacheco . Sinopsis Una cantante busca reemplazar a su partenaire. Un aficionado lo hace y triunfa en la televisión. Reparto Luis Aguilé Mariquita Gallegos Evangelina Elizondo Osvaldo Pacheco Augusto Codecá Fidel Pintos Héctor Calcaño Chela Ruiz Jorge Marchesini Alberto Locati Julio De Grazia Oscar Casco Bettina Hudson Raúl Ricutti Gladys Mancini Cacho Espíndola Los Mac Ke Mac's Marcelo Jaime Pepe Marrone Héctor Tilbe",
       "fileSize": 1078699709,
-      "id": "la-chacota-1963"
+      "addedAt": "2026-01-07T00:09:24.701Z",
+      "thumbnail": "https://archive.org/services/img/la-chacota-1963",
+      "language": "spa",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 20
     }
   ],
   "metadata": {
@@ -26,97 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0155347",
-      "title": "Los viciosos",
-      "year": 1962,
-      "imdbRating": 4.1,
-      "imdbVotes": 11,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0193363",
-      "title": "Operación G",
-      "year": 1962,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174958",
-      "title": "El nacimiento de un libro",
-      "year": 1963,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt24820646",
-      "title": "West Side Story (1961)",
-      "year": 1961,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182689",
-      "title": "Álamos talados",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt25681212",
-      "title": "200) Blood and Black Lace (1964)",
-      "year": 1964,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5255878",
-      "title": "El ciclo",
-      "year": 1964,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140022",
-      "title": "El encuentro",
-      "year": 1964,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186324",
-      "title": "Luna Park",
-      "year": 1960,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058683",
-      "title": "Tres alcobas",
-      "year": 1964,
-      "imdbRating": 3.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt21920646",
-      "title": "The Unfinished Task",
-      "year": 1960,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200156",
-      "title": "El sonámbulo que quería dormir",
-      "year": 1956,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0155347",
+    "tt0193363",
+    "tt0174958",
+    "tt24820646",
+    "tt0182689",
+    "tt25681212",
+    "tt5255878",
+    "tt0140022",
+    "tt0186324",
+    "tt0058683",
+    "tt21920646",
+    "tt0200156"
   ],
   "collections": [],
   "is_curated": true,

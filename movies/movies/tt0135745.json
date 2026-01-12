@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-ab-mitternacht-rene-deltgen-peter-voss",
+      "id": "1938-ab-mitternacht-rene-deltgen-peter-voss",
       "title": "1938 Ab Mitternacht ( Rene Deltgen, Peter Voss)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Ab Mitternacht.  U.a mit Rene Deltgen und Peter Voss",
       "fileSize": 2033990175,
-      "id": "1938-ab-mitternacht-rene-deltgen-peter-voss"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-ab-mitternacht-rene-deltgen-peter-voss",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 232
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135746",
-      "title": "Achtung! Feind hört mit!",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 40,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030126",
-      "title": "Female Fugitive",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030170",
-      "title": "Gangster's Boy",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030063",
-      "title": "The Divorce of Lady X",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 1581,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030637",
-      "title": "Pygmalion",
-      "year": 1938,
-      "imdbRating": 7.7,
-      "imdbVotes": 10214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030692",
-      "title": "Romance of the Limberlost",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030727",
-      "title": "Secrets of an Actress",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030090",
-      "title": "The Duke of West Point",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030981",
-      "title": "Wives Under Suspicion",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 550,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029861",
-      "title": "Always Goodbye",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 663,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0135746",
+    "tt0029855",
+    "tt0030126",
+    "tt0030170",
+    "tt0030323",
+    "tt0030063",
+    "tt0030637",
+    "tt0030692",
+    "tt0030727",
+    "tt0030090",
+    "tt0030981",
+    "tt0029861"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-evil-of-frankenstein",
+      "id": "the-evil-of-frankenstein",
       "title": "The Evil of Frankenstein",
       "description": "Upon returning to his home village to continue his experimental research, the destitute Dr. Frankenstein revives his old creature, but a hypnotist wants the monster to control for himself.",
       "fileSize": 7092600858,
-      "id": "the-evil-of-frankenstein"
+      "addedAt": "2026-01-07T00:11:57.685Z",
+      "thumbnail": "https://archive.org/services/img/the-evil-of-frankenstein",
+      "language": "eng",
+      "year": 1964,
+      "collection": "feature_films",
+      "downloads": 14018
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0057401",
-      "title": "Paranoiac",
-      "year": 1963,
-      "imdbRating": 6.7,
-      "imdbVotes": 3483,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061557",
-      "title": "The Deadly Bees",
-      "year": 1966,
-      "imdbRating": 4.2,
-      "imdbVotes": 2304,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0069341",
-      "title": "Tales from the Crypt",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 13808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062384",
-      "title": "Torture Garden",
-      "year": 1967,
-      "imdbRating": 6.1,
-      "imdbVotes": 3531,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065762",
-      "title": "The Vampire Happening",
-      "year": 1971,
-      "imdbRating": 4.7,
-      "imdbVotes": 767,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058155",
-      "title": "The Gorgon",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 7482,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058405",
-      "title": "Nightmare",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 2654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042423",
-      "title": "The Dungeon of Harrow",
-      "year": 1964,
-      "imdbRating": 3.4,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057970",
-      "title": "The Creeping Terror",
-      "year": 1964,
-      "imdbRating": 1.9,
-      "imdbVotes": 4759,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057156",
-      "title": "The Horror of It All",
-      "year": 1964,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058567",
-      "title": "Blood and Black Lace",
-      "year": 1964,
-      "imdbRating": 7.1,
-      "imdbVotes": 14519,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058279",
-      "title": "Kwaidan",
-      "year": 1964,
-      "imdbRating": 7.9,
-      "imdbVotes": 21660,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0057401",
+    "tt0061557",
+    "tt0069341",
+    "tt0062384",
+    "tt0065762",
+    "tt0058155",
+    "tt0058405",
+    "tt0042423",
+    "tt0057970",
+    "tt0057156",
+    "tt0058567",
+    "tt0058279"
   ],
   "collections": [],
   "is_curated": true,

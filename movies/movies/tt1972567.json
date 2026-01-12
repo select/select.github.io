@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_2171",
+      "id": "dipwad2_zoho_2171",
       "title": "217",
       "description": "217",
       "fileSize": 5187831349,
-      "id": "dipwad2_zoho_2171"
+      "addedAt": "2026-01-07T00:08:07.356Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_2171",
+      "collection": "feature_films",
+      "downloads": 2198
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_217",
+      "id": "rog56_mail_217",
       "title": "217",
       "description": "217",
       "fileSize": 6337937392,
-      "id": "rog56_mail_217"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_217",
+      "collection": "feature_films",
+      "downloads": 5378
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_217_201607",
+      "id": "rog56_mail_217_201607",
       "title": "217",
       "description": "217",
       "fileSize": 2101440646,
-      "id": "rog56_mail_217_201607"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_217_201607",
+      "collection": "feature_films",
+      "downloads": 2602
     }
   ],
   "metadata": {
@@ -42,107 +54,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2973216",
-      "title": "922: From Academic Watch to Academic WOW!",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8508676",
-      "title": "Swansea Love Story",
-      "year": 2010,
-      "imdbRating": 6.8,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4077512",
-      "title": "Dog Lover",
-      "year": 2010,
-      "language": "Bosnian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1810688",
-      "title": "Luke Forward: Arizona Wants the F-35 Joint Strike Force Fighter",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2205904",
-      "title": "Generation Iron",
-      "year": 2013,
-      "imdbRating": 7,
-      "imdbVotes": 8131,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt1392998",
-      "title": "Veiled Voices",
-      "year": 2009,
-      "imdbRating": 7.1,
-      "imdbVotes": 7,
-      "language": "English, Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2083126",
-      "title": "311",
-      "year": 2011,
-      "imdbRating": 6.8,
-      "imdbVotes": 20,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1699673",
-      "title": "More Than Meets the Eye",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1543506",
-      "title": "Misha Versus Moscow: The Battle for Georgia's Future",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt6724510",
-      "title": "Classic Sci-Fi TV: 150 Episodes",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3457988",
-      "title": "Ein blinder Held - Die Liebe des Otto Weidt",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 75,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt2973216",
+    "tt4189440",
+    "tt8508676",
+    "tt4077512",
+    "tt1810688",
+    "tt2205904",
+    "tt1392998",
+    "tt2083126",
+    "tt1699673",
+    "tt1543506",
+    "tt6724510",
+    "tt3457988"
   ],
   "collections": [],
   "is_curated": true,

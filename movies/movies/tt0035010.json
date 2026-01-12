@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/madame-spy-1942",
+      "id": "madame-spy-1942",
       "title": "Madame Spy (1942)",
       "description": "Constance Bennett, Don Porter, John Litel Directed by Roy William Neill",
       "fileSize": 1106424402,
-      "id": "madame-spy-1942"
+      "addedAt": "2026-01-07T00:09:46.421Z",
+      "thumbnail": "https://archive.org/services/img/madame-spy-1942",
+      "collection": "feature_films",
+      "downloads": 1663
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038008",
-      "title": "Pursuit to Algiers",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 4395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173742",
-      "title": "Confessions of a Vice Baron",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033547",
-      "title": "Double Cross",
-      "year": 1941,
-      "imdbRating": 5.1,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033903",
-      "title": "Men of the Timberland",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034161",
-      "title": "Sea Raiders",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0038360",
-      "title": "Black Angel",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 4147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032790",
-      "title": "Midnight Limited",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033082",
-      "title": "South of Pago Pago",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033429",
-      "title": "Bowery Boy",
-      "year": 1940,
-      "imdbRating": 7.3,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032690",
-      "title": "The Last Alarm",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035317",
+    "tt0038008",
+    "tt0033426",
+    "tt0173742",
+    "tt0033547",
+    "tt0033903",
+    "tt0034161",
+    "tt0038360",
+    "tt0032790",
+    "tt0033082",
+    "tt0033429",
+    "tt0032690"
   ],
   "collections": [],
   "is_curated": true,

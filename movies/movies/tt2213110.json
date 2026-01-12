@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/warofthewildcats",
+      "id": "warofthewildcats",
       "title": "delete",
       "description": "john wayne takes on an oil baron in this film.",
       "fileSize": 2026,
-      "id": "warofthewildcats"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/warofthewildcats",
+      "collection": "feature_films",
+      "downloads": 998
     }
   ],
   "metadata": {
@@ -27,103 +31,18 @@
     "Awards": "4 wins & 10 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1880353",
-      "title": "The Blind Man",
-      "year": 2011,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2148928",
-      "title": "406",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1779491",
-      "title": "The Accordion",
-      "year": 2010,
-      "imdbRating": 6.8,
-      "imdbVotes": 311,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2378045",
-      "title": "204",
-      "year": 2010,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1512093",
-      "title": "306",
-      "year": 2010,
-      "imdbRating": 6,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2355473",
-      "title": "612",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3122618",
-      "title": "Goodnight My Love",
-      "year": 2012,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1699674",
-      "title": "My Happiness",
-      "year": 2010,
-      "imdbRating": 8.2,
-      "imdbVotes": 9,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2536422",
-      "title": "Act of Faith",
-      "year": 2012,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2376386",
-      "title": "111",
-      "year": 2012,
-      "imdbRating": 7.7,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1880353",
+    "tt2148928",
+    "tt1779491",
+    "tt2378045",
+    "tt1512093",
+    "tt1763178",
+    "tt2509978",
+    "tt2355473",
+    "tt3122618",
+    "tt1699674",
+    "tt2536422",
+    "tt2376386"
   ],
   "collections": [],
   "is_curated": true,

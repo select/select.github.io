@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-take-a-chance",
+      "id": "silent-take-a-chance",
       "title": "Take a Chance",
       "fileSize": 871520589,
-      "id": "silent-take-a-chance"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-take-a-chance",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 839
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/take-a-chance-1918-directed-by-alfred-j.-goulding",
+      "id": "take-a-chance-1918-directed-by-alfred-j.-goulding",
       "title": "Take A Chance (1918) Directed By Alfred J. Goulding",
       "description": "Take a Chance Directed by Alfred J. Goulding Produced by Hal Roach Starring Harold Lloyd Release date December 15, 1918 Running time 10 min Country United States Languages Silent English intertitles Take a Chance is a 1918 American short comedy film featuring Harold Lloyd . [ 1 ] Plot Harold becomes smitten with a hired girl (Bebe) who is washing a staircase. When Bebe's beau (Snub) arrives to drive her to a picnic, Harold stealthily sneaks into the back seat of Snub's car. Without their being aware of his presence, Harold causes them to get into a fight. When the car arrives at the picnic grounds, Harold and Bebe enter the park together and enjoy a frantic few moments on a seesaw. Two prison escapees enter the park. One clubs Harold over the head and dresses him in his prison garb to confuse the pursuing police force. Harold uses his wits and athletic ability to elude capture by many officers. Cast Harold Lloyd Snub Pollard Bebe Daniels William Blaisdell Sammy Brooks Harry Burns Billy Fay James A. Fitzgerald William Gillespie Lew Harvey Wallace Howe Bud Jamison Dee Lampton Belle Mitchell References \"Progressive Silent Film List: Take a Chance\" . Silent Era . Retrieved December 13, 2008 .",
       "fileSize": 256092807,
-      "id": "take-a-chance-1918-directed-by-alfred-j.-goulding"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/take-a-chance-1918-directed-by-alfred-j.-goulding",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 75
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009099",
-      "title": "A Gasoline Wedding",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 246,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009071",
-      "title": "Fireman Save My Child",
-      "year": 1918,
-      "imdbRating": 5.5,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009082",
-      "title": "Follow the Crowd",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009171",
-      "title": "Hey There",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 182,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009316",
-      "title": "Look Pleasant, Please",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 240,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009631",
-      "title": "Somewhere in Turkey",
-      "year": 1918,
-      "imdbRating": 4.2,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009732",
-      "title": "Two-Gun Gussie",
-      "year": 1918,
-      "imdbRating": 5.6,
-      "imdbVotes": 320,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007709",
-      "title": "Bliss",
-      "year": 1917,
-      "imdbRating": 5.4,
-      "imdbVotes": 162,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007764",
-      "title": "By the Sad Sea Waves",
-      "year": 1917,
-      "imdbRating": 6.1,
-      "imdbVotes": 395,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010023",
-      "title": "Count Your Change",
-      "year": 1919,
-      "imdbRating": 5.4,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007686",
-      "title": "Bashful",
-      "year": 1917,
-      "imdbRating": 6.5,
-      "imdbVotes": 285,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010516",
-      "title": "Off the Trolley",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0009099",
+    "tt0009071",
+    "tt0009082",
+    "tt0009171",
+    "tt0009316",
+    "tt0009631",
+    "tt0009732",
+    "tt0007709",
+    "tt0007764",
+    "tt0010023",
+    "tt0007686",
+    "tt0010516"
   ],
   "collections": [],
   "is_curated": true,

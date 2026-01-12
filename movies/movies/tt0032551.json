@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-grapes-of-wrath-1940",
+      "id": "the-grapes-of-wrath-1940",
       "title": "The Grapes Of Wrath ( 1940)",
       "description": "The Grapes of Wrath  is a 1940 American  drama film  directed by  John Ford . It was based on  John Steinbeck 's 1939  Pulitzer Prize -winning  novel of the same name . The screenplay was written by  Nunnally Johnson  and the executive producer was  Darryl F. Zanuck . The film tells the story of the Joads, an  Oklahoma  family, who, after losing their farm during the  Great Depression  in the 1930s, become  migrant workers  and end up in  California . The motion picture details their arduous journey across the United States as they travel to California in search of work and opportunities for the family members, and features cinematography by  Gregg Toland . The film is widely considered to be one of the  greatest films of all time . In 1989, it was one of the first 25 films selected by the  Library of Congress  for preservation in the United States  National Film Registry  for being \"culturally, historically, or aesthetically significant\".",
       "fileSize": 2197092193,
-      "id": "the-grapes-of-wrath-1940"
+      "addedAt": "2026-01-07T00:12:10.587Z",
+      "thumbnail": "https://archive.org/services/img/the-grapes-of-wrath-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 128655
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-grapes-of-wrath_202108",
+      "id": "the-grapes-of-wrath_202108",
       "title": "The Grapes of Wrath (1940)",
       "description": "The Grapes of Wrath (1940)",
       "fileSize": 11147909,
-      "id": "the-grapes-of-wrath_202108"
+      "addedAt": "2026-01-07T00:12:10.587Z",
+      "thumbnail": "https://archive.org/services/img/the-grapes-of-wrath_202108",
+      "collection": "feature_films",
+      "downloads": 5156
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "Won 2 Oscars. 13 wins & 6 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033729",
-      "title": "How Green Was My Valley",
-      "year": 1941,
-      "imdbRating": 7.7,
-      "imdbVotes": 28253,
-      "language": "English, Welsh",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031971",
-      "title": "Stagecoach",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 57694,
-      "language": "English, Spanish, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0034297",
-      "title": "Tobacco Road",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 2586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028141",
-      "title": "The Prisoner of Shark Island",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 2666,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046384",
-      "title": "The Sun Shines Bright",
-      "year": 1953,
-      "imdbRating": 6.9,
-      "imdbVotes": 1870,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018909",
-      "title": "Four Sons",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 923,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032710",
-      "title": "Lillian Russell",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 592,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033729",
+    "tt0031971",
+    "tt0034297",
+    "tt0034498",
+    "tt0028141",
+    "tt0017463",
+    "tt0023955",
+    "tt0018972",
+    "tt0025335",
+    "tt0046384",
+    "tt0018909",
+    "tt0032710"
   ],
   "collections": [
     {

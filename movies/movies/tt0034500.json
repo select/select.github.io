@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/behind-the-eight-ball-1942",
+      "id": "behind-the-eight-ball-1942",
       "title": "Behind The Eight Ball (1942)",
       "description": "billiards",
       "fileSize": 860106321,
-      "id": "behind-the-eight-ball-1942"
+      "addedAt": "2026-01-07T00:07:31.714Z",
+      "thumbnail": "https://archive.org/services/img/behind-the-eight-ball-1942",
+      "collection": "feature_films",
+      "downloads": 901
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035218",
-      "title": "Private Buckaroo",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 589,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021057",
-      "title": "Leathernecking",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035220",
-      "title": "Private Snuffy Smith",
-      "year": 1942,
-      "imdbRating": 4.5,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035764",
-      "title": "Crazy House",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 249,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033224",
-      "title": "The Villain Still Pursued Her",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 345,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036861",
-      "title": "Ghost Catchers",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034486",
-      "title": "Baby Face Morgan",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 263,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0446928",
-      "title": "Beautiful Clothes (Make Beautiful Girls)",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227404",
-      "title": "Roman einer Nacht",
-      "year": 1933,
-      "imdbRating": 7.6,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034698",
-      "title": "Einmal der liebe Herrgott sein",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 87,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132489",
-      "title": "Die Sache mit Styx",
-      "year": 1942,
-      "imdbRating": 7.6,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034754",
-      "title": "Freckles Comes Home",
-      "year": 1942,
-      "imdbRating": 4.9,
-      "imdbVotes": 203,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035218",
+    "tt0021057",
+    "tt0035220",
+    "tt0035764",
+    "tt0033224",
+    "tt0036861",
+    "tt0034486",
+    "tt0446928",
+    "tt0227404",
+    "tt0034698",
+    "tt0132489",
+    "tt0034754"
   ],
   "collections": [],
   "is_curated": true,

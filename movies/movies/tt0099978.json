@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LaserMission_201511",
+      "id": "LaserMission_201511",
       "title": "Laser Mission",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1492954477,
-      "id": "LaserMission_201511"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/LaserMission_201511",
+      "collection": "feature_films",
+      "downloads": 11340
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/laser-mission-1989",
+      "id": "laser-mission-1989",
       "title": "Laser Mission (1989)",
       "description": "A CIA agent is sent to get Professor Braun before the KGB can seize him as the Prof's knowledge, together with a recently stolen diamond, could be used to make a laser cannon. Watch on RetroFlix:  https://retroflix.org/laser-mission-1989/",
       "fileSize": 326753506,
-      "id": "laser-mission-1989"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/laser-mission-1989",
+      "language": "eng",
+      "year": 1989,
+      "collection": "feature_films",
+      "downloads": 1348
     }
   ],
   "metadata": {
@@ -35,122 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0100232",
-      "title": "Navy Seals",
-      "year": 1990,
-      "imdbRating": 5.5,
-      "imdbVotes": 19125,
-      "language": "English, Arabic",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1268864",
-      "title": "The Blonde Captive",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0094843",
-      "title": "Casablanca Express",
-      "year": 1989,
-      "imdbRating": 4.1,
-      "imdbVotes": 629,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0112747",
-      "title": "Cruel Jaws",
-      "year": 1995,
-      "imdbRating": 3.3,
-      "imdbVotes": 969,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0319235",
-      "title": "El cuatrero",
-      "year": 1989,
-      "imdbRating": 5.7,
-      "imdbVotes": 30,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1694508",
-      "title": "2010: Moby Dick",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 2675,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0057076",
-      "title": "From Russia with Love",
-      "year": 1963,
-      "imdbRating": 7.3,
-      "imdbVotes": 152689,
-      "language": "English, Russian, Turkish, French, Romany, Italian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1094162",
-      "title": "AVH: Alien vs. Hunter",
-      "year": 2007,
-      "imdbRating": 1.5,
-      "imdbVotes": 3548,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0073511",
-      "title": "Paper Tiger",
-      "year": 1975,
-      "imdbRating": 5.8,
-      "imdbVotes": 774,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0025940",
-      "title": "The Vanishing Shadow",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0221905",
-      "title": "Octopus",
-      "year": 2000,
-      "imdbRating": 3,
-      "imdbVotes": 1864,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0426556",
-      "title": "Raging Sharks",
-      "year": 2005,
-      "imdbRating": 2.6,
-      "imdbVotes": 988,
-      "language": "English, Bulgarian",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    }
+    "tt0100232",
+    "tt1268864",
+    "tt0094843",
+    "tt0112747",
+    "tt0319235",
+    "tt1694508",
+    "tt0057076",
+    "tt1094162",
+    "tt0073511",
+    "tt0025940",
+    "tt0221905",
+    "tt0426556"
   ],
   "collections": [],
   "is_curated": true,

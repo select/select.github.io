@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/johnny-yuma",
+      "id": "johnny-yuma",
       "title": "Johnny Yuma",
       "description": "A greedy woman kills her land-owning husband with the aid of her brother. Since the husband's will leaves his land to his nephew, the woman and her brother hire a gunman to eliminate this nephew before he can claim his inheritance. The nephew, however, proves to be a resourceful fighter -- good both with his gun and with his fists -- and he manages not only to close in on his foes but also to form an alliance of sorts with the gunman who's been hired to kill him.",
       "fileSize": 522531358,
-      "id": "johnny-yuma"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/johnny-yuma",
+      "collection": "feature_films",
+      "downloads": 2402
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0060315",
-      "title": "Django",
-      "year": 1966,
-      "imdbRating": 7.2,
-      "imdbVotes": 33156,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060897",
-      "title": "Return of the Seven",
-      "year": 1966,
-      "imdbRating": 5.5,
-      "imdbVotes": 4991,
-      "language": "English, Spanish, Greek, Ancient (to 1453), Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061709",
-      "title": "Day of Anger",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 6249,
-      "language": "Italian, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215842",
-      "title": "El hijo de Gabino Barrera",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060325",
-      "title": "A Stranger in Town",
-      "year": 1967,
-      "imdbRating": 5.9,
-      "imdbVotes": 760,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0064395",
-      "title": "Guns of the Magnificent Seven",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 3327,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216546",
-      "title": "Django and Sartana Are Coming... It's the End",
-      "year": 1970,
-      "imdbRating": 4.4,
-      "imdbVotes": 363,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0026846",
-      "title": "Paradise Canyon",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1086,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060168",
-      "title": "Billy the Kid Versus Dracula",
-      "year": 1966,
-      "imdbRating": 3.8,
-      "imdbVotes": 2326,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060586",
-      "title": "Fighting Elegy",
-      "year": 1966,
-      "imdbRating": 6.9,
-      "imdbVotes": 1632,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070091",
-      "title": "The Gatling Gun",
-      "year": 1971,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060588",
-      "title": "Khartoum",
-      "year": 1966,
-      "imdbRating": 6.8,
-      "imdbVotes": 8472,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0060315",
+    "tt0060897",
+    "tt0061709",
+    "tt0215842",
+    "tt0060325",
+    "tt0064395",
+    "tt0216546",
+    "tt0026846",
+    "tt0060168",
+    "tt0060586",
+    "tt0070091",
+    "tt0060588"
   ],
   "collections": [],
   "is_curated": true,

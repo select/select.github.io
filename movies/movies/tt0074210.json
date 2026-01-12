@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlackFist",
+      "id": "BlackFist",
       "title": "Black Fist",
       "description": "To make money, a Los Angeles street-fighter goes to work for gangsters. IMDB Movie Information",
       "fileSize": 2131561225,
-      "id": "BlackFist"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlackFist",
+      "year": 1975,
+      "collection": "feature_films",
+      "downloads": 207972
     }
   ],
   "metadata": {
@@ -27,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0073396",
-      "title": "Mitchell",
-      "year": 1975,
-      "imdbRating": 2.8,
-      "imdbVotes": 4952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071548",
-      "title": "Get Christie Love!",
-      "year": 1974,
-      "imdbRating": 5.4,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074156",
-      "title": "Assault on Precinct 13",
-      "year": 1976,
-      "imdbRating": 7.3,
-      "imdbVotes": 58340,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071402",
-      "title": "Death Wish",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 45235,
-      "language": "English, Italian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074836",
-      "title": "Mad Dog Morgan",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073755",
-      "title": "The Street Fighter's Last Revenge",
-      "year": 1974,
-      "imdbRating": 6,
-      "imdbVotes": 1518,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0073756",
-      "title": "The Street Fighter",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 5803,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0075263",
-      "title": "St. Ives",
-      "year": 1976,
-      "imdbRating": 6.2,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0075260",
-      "title": "Squadra antiscippo",
-      "year": 1976,
-      "imdbRating": 6,
-      "imdbVotes": 856,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073774",
-      "title": "The Swiss Conspiracy",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 539,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070930",
-      "title": "The Wrestler",
-      "year": 1974,
-      "imdbRating": 5.2,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0073396",
+    "tt0071548",
+    "tt0074634",
+    "tt0074156",
+    "tt0071402",
+    "tt0074836",
+    "tt0073755",
+    "tt0073756",
+    "tt0075263",
+    "tt0075260",
+    "tt0073774",
+    "tt0070930"
   ],
   "collections": [],
   "is_curated": true,

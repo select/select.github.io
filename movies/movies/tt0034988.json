@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/london-blackout-murders",
+      "id": "london-blackout-murders",
       "title": "London Blackout Murders",
       "description": "Nazi spies in London are found out.",
       "fileSize": 157534366,
-      "id": "london-blackout-murders"
+      "addedAt": "2026-01-07T00:09:38.892Z",
+      "thumbnail": "https://archive.org/services/img/london-blackout-murders",
+      "collection": "feature_films",
+      "downloads": 3204
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039550",
-      "title": "Larceny",
-      "year": 1948,
-      "imdbRating": 6.9,
-      "imdbVotes": 982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036790",
-      "title": "End of the Road",
-      "year": 1944,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035740",
-      "title": "City Without Men",
-      "year": 1943,
-      "imdbRating": 5.2,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036531",
-      "title": "Whispering Footsteps",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035944",
-      "title": "Girls in Chains",
-      "year": 1943,
-      "imdbRating": 4.5,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0038917",
-      "title": "The Secret of the Whistler",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 701,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034959",
-      "title": "Lady Gangster",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 846,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0036743",
-      "title": "Dark Mountain",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034941",
-      "title": "Kid Glove Killer",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 1174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035388",
-      "title": "Street of Chance",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034798",
-      "title": "The Glass Key",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 7712,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035432",
-      "title": "This Gun for Hire",
-      "year": 1942,
-      "imdbRating": 7.4,
-      "imdbVotes": 10874,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039550",
+    "tt0036790",
+    "tt0035740",
+    "tt0036531",
+    "tt0035944",
+    "tt0038917",
+    "tt0034959",
+    "tt0036743",
+    "tt0034941",
+    "tt0035388",
+    "tt0034798",
+    "tt0035432"
   ],
   "collections": [],
   "is_curated": true,

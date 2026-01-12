@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Pygmalion",
+      "id": "Pygmalion",
       "title": "Pygmalion",
       "description": "Loosely based on the Greek myth \"Pygmalion\" a Cypriot sculptor who carved a woman out of ivory but his statue was so fair and realistic that he fell in love with it. The snobbish & intellectual Professor of languages, Henry Higgins (Leslie Howard) makes a bet with his friend (Scott Sunderland) that he can take a London flower seller, Eliza Doolittle (Wendy Hiller), from the gutters and pass her off as a society lady. However he discovers that this involves dealing with a human being with ideas of her own.",
       "fileSize": 2188379134,
-      "id": "Pygmalion"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/Pygmalion",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 146125
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pygmalion-1938",
+      "id": "pygmalion-1938",
       "title": "Pygmalion (1938)",
       "description": "When linguistics professor Henry Higgins boasts that he can pass off Cockney flower girl Eliza Doolittle as a princess with only six months' training, Colonel George Pickering takes him up on the bet. Eliza moves into Higgins's home and begins her rigorous training after the professor comes to a financial agreement with her dustman father, Alfred. But the plucky young woman is not the only one undergoing a transformation. Watch on RetroFlix:  https://retroflix.org/pygmalion-1938/",
       "fileSize": 583544771,
-      "id": "pygmalion-1938"
+      "addedAt": "2026-01-07T00:10:21.540Z",
+      "thumbnail": "https://archive.org/services/img/pygmalion-1938",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 222
     }
   ],
   "metadata": {
@@ -35,113 +46,18 @@
     "Awards": "Won 1 Oscar. 4 wins & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030063",
-      "title": "The Divorce of Lady X",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 1581,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029861",
-      "title": "Always Goodbye",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 663,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030710",
-      "title": "Saleslady",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031282",
-      "title": "Eternally Yours",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031593",
-      "title": "Love Affair",
-      "year": 1939,
-      "imdbRating": 7.3,
-      "imdbVotes": 6880,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028575",
-      "title": "Angel",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 3607,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0320737",
-      "title": "La virgencita de madera",
-      "year": 1937,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031602",
-      "title": "Made for Each Other",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 4172,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029298",
-      "title": "Navy Blues",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032132",
-      "title": "Winter Carnival",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0030063",
+    "tt0029861",
+    "tt0030710",
+    "tt0031282",
+    "tt0031593",
+    "tt0028557",
+    "tt0028575",
+    "tt0320737",
+    "tt0031602",
+    "tt0029298",
+    "tt0032132",
+    "tt0032599"
   ],
   "collections": [
     {

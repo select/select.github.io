@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-gauner-im-frack",
+      "id": "1938-gauner-im-frack",
       "title": "1938 Gauner Im Frack",
       "description": "Film aus dem deutschen dritten Reich von 1938 Gauner im Frack.",
       "fileSize": 243225820,
-      "id": "1938-gauner-im-frack"
+      "addedAt": "2026-01-07T00:06:02.056Z",
+      "thumbnail": "https://archive.org/services/img/1938-gauner-im-frack",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 152
     }
   ],
   "metadata": {
@@ -26,100 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027701",
-      "title": "Die große und die kleine Welt",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028922",
-      "title": "Gefährliches Spiel",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030496",
-      "title": "Narren im Schnee",
-      "year": 1938,
-      "imdbRating": 7.8,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030931",
-      "title": "Verliebtes Abenteuer",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122801",
-      "title": "Wie einst im Mai",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032187",
-      "title": "Alarm",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031360",
-      "title": "Die Geliebte",
-      "year": 1939,
-      "imdbRating": 7.5,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140561",
-      "title": "Sommer, Sonne, Erika",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028606",
-      "title": "Ball im Metropol",
-      "year": 1937,
-      "imdbRating": 7.1,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135858",
-      "title": "Daphne und der Diplomat",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028594",
-      "title": "Die Austernlilli",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029110",
-      "title": "Die Landstreicher",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0027701",
+    "tt0028922",
+    "tt0030496",
+    "tt0030931",
+    "tt0122801",
+    "tt0032187",
+    "tt0031360",
+    "tt0140561",
+    "tt0028606",
+    "tt0135858",
+    "tt0028594",
+    "tt0029110"
   ],
   "collections": [],
   "is_curated": true,

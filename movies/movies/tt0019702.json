@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/blackmail_1929",
+      "id": "blackmail_1929",
       "title": "Blackmail",
       "description": "https://web.archive.org/web/20230216060553/https://en.wikipedia.org/wiki/Blackmail_%281929_film%29",
       "fileSize": 1543369486,
-      "id": "blackmail_1929"
+      "addedAt": "2026-01-07T00:07:38.718Z",
+      "thumbnail": "https://archive.org/services/img/blackmail_1929",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 8564
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/blackmail-hitchcock-1929",
+      "id": "blackmail-hitchcock-1929",
       "title": "Blackmail Hitchcock 1929",
       "description": "England’s first “talkie” feature film, starring Anny Ondra, John Longden, and Cyril Ritchard. (1929) Hitchcock. (By the way: for those fans of \"The Sweeney\" this is the 1st movie in which the Flying Squad is referenced (if you pay attention) it involves detectives from the early \"Flying Squad.\" (Be patient. The vocals come in at about the 8 mark.) The subject matter is extremely controversial for the day and some scenes were - what were then considered extremely risqué.",
       "fileSize": 205129727,
-      "id": "blackmail-hitchcock-1929"
+      "addedAt": "2026-01-07T00:07:38.718Z",
+      "thumbnail": "https://archive.org/services/img/blackmail-hitchcock-1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 452
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017075",
-      "title": "The Lodger: A Story of the London Fog",
-      "year": 1927,
-      "imdbRating": 7.3,
-      "imdbVotes": 14371,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020305",
-      "title": "The Racketeer",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0794314",
-      "title": "Mocny czlowiek",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 268,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020142",
-      "title": "The Manxman",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 3461,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019035",
-      "title": "Interference",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020686",
-      "title": "The Big House",
-      "year": 1930,
-      "imdbRating": 7.1,
-      "imdbVotes": 2676,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028212",
-      "title": "Sabotage",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 19272,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029811",
-      "title": "Young and Innocent",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 11597,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058329",
-      "title": "Marnie",
-      "year": 1964,
-      "imdbRating": 7.1,
-      "imdbVotes": 56508,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0017075",
+    "tt0020305",
+    "tt0794314",
+    "tt0020142",
+    "tt0019035",
+    "tt0020686",
+    "tt0028231",
+    "tt0039694",
+    "tt0031505",
+    "tt0028212",
+    "tt0029811",
+    "tt0058329"
   ],
   "collections": [
     {

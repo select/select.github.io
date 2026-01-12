@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_1892",
+      "id": "dipwad2_zoho_1892",
       "title": "189",
       "description": "189",
       "fileSize": 3825826780,
-      "id": "dipwad2_zoho_1892"
+      "addedAt": "2026-01-07T00:08:07.356Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_1892",
+      "collection": "feature_films",
+      "downloads": 7843
     }
   ],
   "metadata": {
@@ -26,111 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt16156352",
-      "title": "Vladivostok",
-      "year": 2021,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt10333426",
-      "title": "Bliss",
-      "year": 2021,
-      "imdbRating": 5.4,
-      "imdbVotes": 21421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9141588",
-      "title": "Mediterraneo: The Law of the Sea",
-      "year": 2021,
-      "imdbRating": 6.5,
-      "imdbVotes": 1239,
-      "language": "Spanish, Greek, English, Catalan, Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14176766",
-      "title": "Marham",
-      "year": 2021,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15135188",
-      "title": "Tamil Rockers",
-      "year": 2021,
-      "imdbVotes": 186,
-      "language": "Tamil, Telugu",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13840262",
-      "title": "Ferdinand von Schirach: Feinde - Der Prozess",
-      "year": 2021,
-      "imdbVotes": 50,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12942442",
-      "title": "218",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8545482",
-      "title": "Zone 414",
-      "year": 2021,
-      "imdbRating": 5.1,
-      "imdbVotes": 5919,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14311250",
-      "title": "Honey Lemon Soda",
-      "year": 2021,
-      "imdbRating": 5.6,
-      "imdbVotes": 213,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13799986",
-      "title": "Kaguya-sama: Love Is War - Final",
-      "year": 2021,
-      "imdbRating": 5.8,
-      "imdbVotes": 147,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6588950",
-      "title": "Senior Moment",
-      "year": 2021,
-      "imdbRating": 5.6,
-      "imdbVotes": 2284,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8956324",
-      "title": "Warning",
-      "year": 2021,
-      "imdbRating": 4.6,
-      "imdbVotes": 6442,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt16156352",
+    "tt10333426",
+    "tt9141588",
+    "tt14176766",
+    "tt15135188",
+    "tt13840262",
+    "tt12942442",
+    "tt8545482",
+    "tt14311250",
+    "tt13799986",
+    "tt6588950",
+    "tt8956324"
   ],
   "collections": [],
   "is_curated": true,

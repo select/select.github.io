@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/in_love_with_life",
+      "id": "in_love_with_life",
       "title": "In Love With Life",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4400338847,
-      "id": "in_love_with_life"
+      "addedAt": "2026-01-07T00:08:54.187Z",
+      "thumbnail": "https://archive.org/services/img/in_love_with_life",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 51356
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=wRQw18T9z38",
+      "id": "wRQw18T9z38",
       "title": "In Love with Life (1934) DRAMA",
       "description": "Stars: Lila Lee, Dickie Moore, Onslow Stevens\nDirector: Frank R. Strayer\n\nIn this heart-grabber from the writer of \"Little Lord Fauntleroy,\" a mother runs off to marry a worthless young man who, abandons her before a child is born. Her grandfather is embittered and when she returns destitute with child, he exacts revengeby allowing the boy to stay but tells his her she has to leave... never to return.",
-      "id": "wRQw18T9z38",
+      "addedAt": "2025-12-26T23:50:24.455Z",
+      "thumbnail": "https://i.ytimg.com/vi/wRQw18T9z38/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLB9vUQq4otxU5XbBITK3t3MptvZ6A",
+      "duration": 3089,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025016",
-      "title": "Cross Streets",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026882",
-      "title": "Port of Lost Dreams",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025306",
-      "title": "In the Money",
-      "year": 1933,
-      "imdbRating": 4.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046229",
-      "title": "Reaching from Heaven",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023859",
-      "title": "By Appointment Only",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026230",
-      "title": "Condemned to Live",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024727",
-      "title": "The Vampire Bat",
-      "year": 1933,
-      "imdbRating": 5.7,
-      "imdbVotes": 3180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025921",
-      "title": "Twin Husbands",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027069",
-      "title": "Symphony of Living",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022957",
-      "title": "Gorilla Ship",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022794",
-      "title": "The Crusader",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025016",
+    "tt0026882",
+    "tt0025306",
+    "tt0022662",
+    "tt0046229",
+    "tt0023859",
+    "tt0026230",
+    "tt0024727",
+    "tt0025921",
+    "tt0027069",
+    "tt0022957",
+    "tt0022794"
   ],
   "collections": [],
   "is_curated": true,

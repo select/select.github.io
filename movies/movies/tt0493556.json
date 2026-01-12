@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-la-bergre-divry",
+      "id": "silent-la-bergre-divry",
       "title": "La bergère d'Ivry",
       "fileSize": 1120596658,
-      "id": "silent-la-bergre-divry"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-la-bergre-divry",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 325
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002198",
-      "title": "Le friquet",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 29,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004825",
-      "title": "The Wishing Ring: An Idyll of Old England",
-      "year": 1914,
-      "imdbRating": 6.5,
-      "imdbVotes": 323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004872",
-      "title": "Alias Jimmy Valentine",
-      "year": 1915,
-      "imdbRating": 6.6,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002910",
-      "title": "Granddad",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003075",
-      "title": "The Little Tease",
-      "year": 1913,
-      "imdbRating": 5.7,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003497",
-      "title": "The Unwelcome Guest",
-      "year": 1913,
-      "imdbRating": 6.6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003516",
-      "title": "The Wanderer",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0778062",
-      "title": "Silent Heroes",
-      "year": 1913,
-      "imdbRating": 4.9,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464694",
-      "title": "Tannhäuser",
-      "year": 1913,
-      "imdbRating": 5.2,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002816",
-      "title": "The Drummer of the 8th",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 128,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002198",
+    "tt0004825",
+    "tt0004872",
+    "tt0002784",
+    "tt0002795",
+    "tt0002910",
+    "tt0003075",
+    "tt0003497",
+    "tt0003516",
+    "tt0778062",
+    "tt0464694",
+    "tt0002816"
   ],
   "collections": [],
   "is_curated": true,

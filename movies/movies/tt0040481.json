@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/it-always-rains-on-sunday",
+      "id": "it-always-rains-on-sunday",
       "title": "It Always Rains On Sunday",
       "description": "Slice of life drama following the lives of various people in London's East End on a wet Sunday. Rose was engaged to local wild boy Tommy Swann but he got imprisoned on Dartmoor. After he was locked up she got married to sedate but dull George. Tommy's now broken out of jail and comes to see Rose to get help to flee the country. ",
       "fileSize": 7199663586,
-      "id": "it-always-rains-on-sunday"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/it-always-rains-on-sunday",
+      "language": "eng",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 5634
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041911",
-      "title": "The Spider and the Fly",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 412,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039587",
-      "title": "The Loves of Joanna Godden",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038342",
-      "title": "Bedelia",
-      "year": 1946,
-      "imdbRating": 6.6,
-      "imdbVotes": 397,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040768",
-      "title": "Secret Service Investigator",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041663",
-      "title": "Mr. Soft Touch",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037109",
-      "title": "My Buddy",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037446",
-      "title": "Waterfront",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 291,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0043830",
-      "title": "My True Story",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041204",
-      "title": "Boys in Brown",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041546",
-      "title": "Kind Hearts and Coronets",
-      "year": 1949,
-      "imdbRating": 8,
-      "imdbVotes": 40979,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037991",
-      "title": "Pink String and Sealing Wax",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 717,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0041911",
+    "tt0039694",
+    "tt0039587",
+    "tt0038342",
+    "tt0040768",
+    "tt0041663",
+    "tt0037109",
+    "tt0037446",
+    "tt0043830",
+    "tt0041204",
+    "tt0041546",
+    "tt0037991"
   ],
   "collections": [],
   "is_curated": true,

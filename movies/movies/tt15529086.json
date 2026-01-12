@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheMenaceOfGuatemala",
+      "id": "TheMenaceOfGuatemala",
       "title": "The Menace of Guatemala",
       "description": "Documentary featurette",
       "fileSize": 170336922,
-      "id": "TheMenaceOfGuatemala"
+      "addedAt": "2026-01-07T00:07:05.033Z",
+      "thumbnail": "https://archive.org/services/img/TheMenaceOfGuatemala",
+      "collection": "feature_films",
+      "downloads": 2951
     }
   ],
   "metadata": {
@@ -26,105 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0247794",
-      "title": "Unser Führer - Des Reiches Wiedergeburt",
-      "year": 1934,
-      "imdbRating": 2.7,
-      "imdbVotes": 21,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247304",
-      "title": "Dr. Todt - Berufung und Werk",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2292978",
-      "title": "Ewige Wache",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1177174",
-      "title": "Reichsparteitag der Ehre",
-      "year": 1936,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3112348",
-      "title": "Children in the Surf at Coney Island",
-      "year": 1904,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0247794",
+    "tt0247304",
+    "tt2292978",
+    "tt1177174",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt1515754",
+    "tt3112348"
   ],
   "collections": [],
   "is_curated": true,

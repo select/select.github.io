@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-brave-hunter",
+      "id": "silent-the-brave-hunter",
       "title": "The Brave Hunter",
       "fileSize": 144413931,
-      "id": "silent-the-brave-hunter"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-brave-hunter",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 193
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/theBraveHunter1912",
+      "id": "theBraveHunter1912",
       "title": "THE BRAVE HUNTER (1912)",
       "description": "THE BRAVE HUNTER Biograph company, 1/2 reel, rel. Apr. 22, 1912 dir. Mack Sennett, cam. Percy Higginson cast: Mack Sennett, Mabel Normand, Dell Henderson, William J. Butler, Kate Bruce, Charles Avery, J. Jiquel Lanoe filmed: Jan-Feb 1912 Location: CA copyright: Apr. 22, 1912",
       "fileSize": 238810943,
-      "id": "theBraveHunter1912"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/theBraveHunter1912",
+      "collection": "feature_films",
+      "downloads": 899
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002255",
-      "title": "Hot Stuff",
-      "year": 1912,
-      "imdbRating": 4.5,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002501",
-      "title": "A Spanish Dilemma",
-      "year": 1912,
-      "imdbRating": 4.2,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002398",
-      "title": "Oh, Those Eyes",
-      "year": 1912,
-      "imdbRating": 5.2,
-      "imdbVotes": 56,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002159",
-      "title": "The Engagement Ring",
-      "year": 1912,
-      "imdbRating": 4.4,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002203",
-      "title": "The Furs",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002569",
-      "title": "The Water Nymph",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002528",
-      "title": "Tomboy Bessie",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002576",
-      "title": "What the Doctor Ordered",
-      "year": 1912,
-      "imdbRating": 4.7,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002233",
-      "title": "Help! Help!",
-      "year": 1912,
-      "imdbRating": 4.6,
-      "imdbVotes": 143,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003417",
-      "title": "A Strong Revenge",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002663",
-      "title": "Barney Oldfield's Race for a Life",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003104",
-      "title": "Mabel's Dramatic Career",
-      "year": 1913,
-      "imdbRating": 5.7,
-      "imdbVotes": 323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002255",
+    "tt0002501",
+    "tt0002398",
+    "tt0002159",
+    "tt0002203",
+    "tt0002569",
+    "tt0002528",
+    "tt0002576",
+    "tt0002233",
+    "tt0003417",
+    "tt0002663",
+    "tt0003104"
   ],
   "collections": [],
   "is_curated": true,

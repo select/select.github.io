@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dom-na-trubnoy_1928",
+      "id": "dom-na-trubnoy_1928",
       "title": "Dom na Trubnoy",
       "fileSize": 6497277984,
-      "id": "dom-na-trubnoy_1928"
+      "addedAt": "2026-01-07T00:08:07.360Z",
+      "thumbnail": "https://archive.org/services/img/dom-na-trubnoy_1928",
+      "language": "Russian",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 220
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019412",
-      "title": "Speedy",
-      "year": 1928,
-      "imdbRating": 7.6,
-      "imdbVotes": 4381,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018742",
-      "title": "The Cameraman",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 13471,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018937",
-      "title": "A Girl in Every Port",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 864,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019057",
-      "title": "A Knight in London",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018710",
-      "title": "A Blonde for a Night",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018673",
-      "title": "Bare Knees",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018756",
-      "title": "Champagne",
-      "year": 1928,
-      "imdbRating": 5.4,
-      "imdbVotes": 2846,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0019412",
+    "tt0019421",
+    "tt0018742",
+    "tt1893190",
+    "tt0018937",
+    "tt0019057",
+    "tt0019067",
+    "tt0018710",
+    "tt0018628",
+    "tt0018673",
+    "tt0018721",
+    "tt0018756"
   ],
   "collections": [],
   "is_curated": true,

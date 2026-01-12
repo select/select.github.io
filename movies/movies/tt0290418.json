@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/andrea-1973",
+      "id": "andrea-1973",
       "title": "Andrea (1973)",
       "description": "Andrea  es una película de  Argentina  filmada en  Eastmancolor  dirigida por  Carlos Rinaldi  según el guion de  Ulyses Petit de Murat  que se estrenó el 4 de octubre de 1973 y que tuvo como actores principales a  Andrea Del Boca ,  Ángel Magaña ,  Raúl Aubel  y  Mario Passano . (Wikipedia) Sinopsis Una huerfanita de madre que vive al cuidado del abuelo en el Sur del país y el conflicto ocasionada por la llegada de su padre. Reparto Andrea Del Boca Ángel Magaña Raúl Aubel Mario Passano Paquita Más Clever Dusseau Julieta Magaña",
       "fileSize": 1305113892,
-      "id": "andrea-1973"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/andrea-1973",
+      "language": "spa",
+      "year": 1973,
+      "collection": "feature_films",
+      "downloads": 331
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0179848",
-      "title": "El hijo del pueblo",
-      "year": 1974,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178269",
-      "title": "Bicho raro",
-      "year": 1965,
-      "imdbRating": 7.1,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065611",
-      "title": "Darling Lili",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 2584,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183067",
-      "title": "La familia hippie",
-      "year": 1971,
-      "imdbRating": 3.8,
-      "imdbVotes": 27,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0023845",
-      "title": "Britannia of Billingsgate",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030089",
-      "title": "The Duke Is Tops",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 391,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036704",
-      "title": "Champagne Charlie",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032410",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 1346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310574",
-      "title": "El acompañamiento",
-      "year": 1991,
-      "imdbRating": 5.3,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200879",
-      "title": "El mundo que inventamos",
-      "year": 1973,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0179848",
+    "tt0178269",
+    "tt0065611",
+    "tt0183067",
+    "tt0049397",
+    "tt0023845",
+    "tt0019933",
+    "tt0030089",
+    "tt0036704",
+    "tt0032410",
+    "tt0310574",
+    "tt0200879"
   ],
   "collections": [],
   "is_curated": true,

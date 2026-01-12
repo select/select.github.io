@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/charro-1969",
+      "id": "charro-1969",
       "title": "Charro! (1969) Elvis Presley · Ina Balin",
       "description": "Elvis Presley cleans up the Wild West without singing a single note..",
       "fileSize": 3121559766,
-      "id": "charro-1969"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/charro-1969",
+      "language": "eng",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 228
     }
   ],
   "metadata": {
@@ -27,120 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051461",
-      "title": "Cattle Empire",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 768,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043747",
-      "title": "Little Big Horn",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 499,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0044698",
-      "title": "Hellgate",
-      "year": 1952,
-      "imdbRating": 6.4,
-      "imdbVotes": 553,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0064780",
-      "title": "The Over-the-Hill Gang",
-      "year": 1969,
-      "imdbRating": 6,
-      "imdbVotes": 714,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064217",
-      "title": "Death of a Gunfighter",
-      "year": 1969,
-      "imdbRating": 6.2,
-      "imdbVotes": 1776,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064395",
-      "title": "Guns of the Magnificent Seven",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 3327,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065104",
-      "title": "Gunman of Ave Maria",
-      "year": 1969,
-      "imdbRating": 6.3,
-      "imdbVotes": 899,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0064175",
-      "title": "Boot Hill",
-      "year": 1969,
-      "imdbRating": 5.5,
-      "imdbVotes": 4025,
-      "language": "Italian, English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0064275",
-      "title": "Four Came to Kill Sartana",
-      "year": 1969,
-      "imdbRating": 4.3,
-      "imdbVotes": 129,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0065051",
-      "title": "Support Your Local Sheriff!",
-      "year": 1969,
-      "imdbRating": 7.4,
-      "imdbVotes": 13333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066105",
-      "title": "The Price of Power",
-      "year": 1969,
-      "imdbRating": 6.3,
-      "imdbVotes": 948,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126263",
-      "title": "God Will Forgive My Pistol",
-      "year": 1969,
-      "imdbRating": 4.6,
-      "imdbVotes": 61,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0051461",
+    "tt0043747",
+    "tt0044698",
+    "tt0064780",
+    "tt0064217",
+    "tt0064395",
+    "tt0064175",
+    "tt0064275",
+    "tt0065051",
+    "tt0066105",
+    "tt0126263",
+    "tt0065759"
   ],
   "collections": [],
   "is_curated": true,

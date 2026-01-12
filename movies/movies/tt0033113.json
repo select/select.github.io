@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sued-for-libel-1939-l",
+      "id": "sued-for-libel-1939-l",
       "title": "Sued For Libel (1939)",
       "description": "Kent Taylor",
       "fileSize": 918405015,
-      "id": "sued-for-libel-1939-l"
+      "addedAt": "2026-01-07T00:11:35.633Z",
+      "thumbnail": "https://archive.org/services/img/sued-for-libel-1939-l",
+      "collection": "feature_films",
+      "downloads": 417
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037100",
-      "title": "Murder in the Blue Room",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027627",
-      "title": "Florida Special",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030968",
-      "title": "When Were You Born?",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 412,
-      "language": "Chinese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037735",
-      "title": "Genius at Work",
-      "year": 1946,
-      "imdbRating": 5.1,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029207",
-      "title": "The Mandarin Mystery",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 474,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030025",
-      "title": "Crime Ring",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029810",
-      "title": "Young Dynamite",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027517",
-      "title": "The Devil Diamond",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031245",
-      "title": "Double Deal",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037859",
-      "title": "Lady on a Train",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 2629,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031490",
-      "title": "Inspector Hornleigh on Holiday",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031709",
-      "title": "Nancy Drew... Reporter",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 1492,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037100",
+    "tt0027627",
+    "tt0030968",
+    "tt0037735",
+    "tt0029207",
+    "tt0030025",
+    "tt0029810",
+    "tt0027517",
+    "tt0031245",
+    "tt0037859",
+    "tt0031490",
+    "tt0031709"
   ],
   "collections": [],
   "is_curated": true,

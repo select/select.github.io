@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/black-and-tan_1929",
+      "id": "black-and-tan_1929",
       "title": "Black and Tan",
       "fileSize": 1723665199,
-      "id": "black-and-tan_1929"
+      "addedAt": "2026-01-07T00:07:38.718Z",
+      "thumbnail": "https://archive.org/services/img/black-and-tan_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 236
     }
   ],
   "metadata": {
@@ -26,111 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020447",
-      "title": "St. Louis Blues",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 461,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019099",
-      "title": "Lingerie",
-      "year": 1928,
-      "imdbVotes": 10,
-      "language": "French, None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0349326",
-      "title": "Danse macabre",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 295,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037792",
-      "title": "The House I Live In",
-      "year": 1945,
-      "imdbRating": 6.4,
-      "imdbVotes": 700,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1503085",
-      "title": "A Musicale Melange",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017896",
-      "title": "A Ziegfeld Midnight Frolic",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698489",
-      "title": "Carlena Diamond: Harpist Supreme",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0258888",
-      "title": "For Your Beautiful Eyes",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 85,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019900",
-      "title": "Fragmentos da vida",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 54,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0020447",
+    "tt0019099",
+    "tt0349326",
+    "tt0037792",
+    "tt1503085",
+    "tt0017896",
+    "tt1706294",
+    "tt1698474",
+    "tt1698489",
+    "tt2509978",
+    "tt0258888",
+    "tt0019900"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/character-studies_1928",
+      "id": "character-studies_1928",
       "title": "Character Studies",
       "fileSize": 748776307,
-      "id": "character-studies_1928"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/character-studies_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 221
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706329",
-      "title": "Cut Yourself a Piece of Cake",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430019",
-      "title": "Dick Rich and His Melodious Monarchs",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698500",
-      "title": "English as She Is Not Spoken",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192101",
-      "title": "Gus Arnheim and His Ambassadors",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1053360",
-      "title": "Gus Van and Joe Schenck",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759722",
-      "title": "The Stage Hands",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251348",
-      "title": "Hollywood Models",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1893190",
+    "tt3251338",
+    "tt0309243",
+    "tt0211244",
+    "tt1706329",
+    "tt0430019",
+    "tt1698500",
+    "tt4135826",
+    "tt0192101",
+    "tt1053360",
+    "tt0759722",
+    "tt3251348"
   ],
   "collections": [],
   "is_curated": true,

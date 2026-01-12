@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/yokel-boy-1942-hd",
+      "id": "yokel-boy-1942-hd",
       "title": "Yokel Boy (1942)",
       "description": "Albert Dekker, Joan Davis, Eddie Foy Jr., Alan Mowbray",
       "fileSize": 1720097590,
-      "id": "yokel-boy-1942-hd"
+      "addedAt": "2026-01-07T00:13:17.038Z",
+      "thumbnail": "https://archive.org/services/img/yokel-boy-1942-hd",
+      "collection": "feature_films",
+      "downloads": 865
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033749",
-      "title": "Ice-Capades",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032246",
-      "title": "Behind the News",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 99,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034486",
-      "title": "Baby Face Morgan",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 263,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034698",
-      "title": "Einmal der liebe Herrgott sein",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 87,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132489",
-      "title": "Die Sache mit Styx",
-      "year": 1942,
-      "imdbRating": 7.6,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035258",
-      "title": "Rings on Her Fingers",
-      "year": 1942,
-      "imdbRating": 6.6,
-      "imdbVotes": 1119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032602",
-      "title": "Hold That Woman!",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 182,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026019",
-      "title": "Young and Beautiful",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035126",
-      "title": "Night in New Orleans",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027184",
-      "title": "Waterfront Lady",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 150,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035249",
-      "title": "Remember Pearl Harbor",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036344",
-      "title": "Shantytown",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033749",
+    "tt0032246",
+    "tt0034486",
+    "tt0034698",
+    "tt0132489",
+    "tt0035258",
+    "tt0032602",
+    "tt0026019",
+    "tt0035126",
+    "tt0027184",
+    "tt0035249",
+    "tt0036344"
   ],
   "collections": [],
   "is_curated": true,

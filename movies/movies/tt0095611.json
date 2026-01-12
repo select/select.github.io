@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/memorial-valley-massacre",
+      "id": "memorial-valley-massacre",
       "title": "Memorial Valley Massacre",
       "description": "Campers on a holiday are terrorized by an axe-wielding maniac.",
       "fileSize": 5078410287,
-      "id": "memorial-valley-massacre"
+      "addedAt": "2026-01-07T00:09:46.432Z",
+      "thumbnail": "https://archive.org/services/img/memorial-valley-massacre",
+      "collection": "feature_films",
+      "downloads": 553
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/memorial-valley-massacre-1988",
+      "id": "memorial-valley-massacre-1988",
       "title": "Memorial Valley Massacre (1988)",
       "description": "Campers on a holiday are terrorized by an axe-wielding maniac. Watch on RetroFlix:  https://retroflix.org/memorial-valley-massacre-1988/",
       "fileSize": 575565499,
-      "id": "memorial-valley-massacre-1988"
+      "addedAt": "2026-01-07T00:09:46.432Z",
+      "thumbnail": "https://archive.org/services/img/memorial-valley-massacre-1988",
+      "language": "eng",
+      "year": 1988,
+      "collection": "feature_films",
+      "downloads": 311
     }
   ],
   "metadata": {
@@ -35,120 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0143952",
-      "title": "Trapped Alive",
-      "year": 1988,
-      "imdbRating": 4.6,
-      "imdbVotes": 682,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088828",
-      "title": "Bloody Wednesday",
-      "year": 1987,
-      "imdbRating": 3.9,
-      "imdbVotes": 559,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0090197",
-      "title": "In a Glass Cage",
-      "year": 1986,
-      "imdbRating": 6.7,
-      "imdbVotes": 5376,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182958",
-      "title": "Dead Girls",
-      "year": 1990,
-      "imdbRating": 4.3,
-      "imdbVotes": 373,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0101592",
-      "title": "Clearcut",
-      "year": 1991,
-      "imdbRating": 6.9,
-      "imdbVotes": 1473,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0087050",
-      "title": "Children of the Corn",
-      "year": 1984,
-      "imdbRating": 5.6,
-      "imdbVotes": 61879,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1149606",
-      "title": "Nightmare at the End of the Hall",
-      "year": 2008,
-      "imdbRating": 4.6,
-      "imdbVotes": 723,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt10342914",
-      "title": "Lair",
-      "year": 2021,
-      "imdbRating": 4.2,
-      "imdbVotes": 4045,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt3138558",
-      "title": "Preservation",
-      "year": 2014,
-      "imdbRating": 4.8,
-      "imdbVotes": 6211,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0054393",
-      "title": "Tormented",
-      "year": 1960,
-      "imdbRating": 4.9,
-      "imdbVotes": 3113,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt2741564",
-      "title": "Angelica",
-      "year": 2015,
-      "imdbRating": 4.9,
-      "imdbVotes": 1005,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    }
+    "tt0143952",
+    "tt0088828",
+    "tt0090197",
+    "tt0182958",
+    "tt0101592",
+    "tt0087050",
+    "tt0087796",
+    "tt0053337",
+    "tt1149606",
+    "tt10342914",
+    "tt3138558",
+    "tt0054393"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mosquito-squadron-1969_202507",
+      "id": "mosquito-squadron-1969_202507",
       "title": "Mosquito Squadron (1969) David McCallum · Suzanne Neve",
       "description": "During World War II, an English air squadron must destroy a German V-rocket base in France, where their downed comrades are being held captive.",
       "fileSize": 3586892001,
-      "id": "mosquito-squadron-1969_202507"
+      "addedAt": "2026-01-07T00:09:54.330Z",
+      "thumbnail": "https://archive.org/services/img/mosquito-squadron-1969_202507",
+      "language": "eng",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 262
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0065093",
-      "title": "The Thousand Plane Raid",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 567,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064571",
-      "title": "Eagles Over London",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 845,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064110",
-      "title": "The Bridge at Remagen",
-      "year": 1969,
-      "imdbRating": 6.7,
-      "imdbVotes": 10987,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062673",
-      "title": "Anzio",
-      "year": 1968,
-      "imdbRating": 6,
-      "imdbVotes": 4100,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062688",
-      "title": "Attack on the Iron Coast",
-      "year": 1968,
-      "imdbRating": 5.5,
-      "imdbVotes": 803,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064135",
-      "title": "Carter's Army",
-      "year": 1970,
-      "imdbRating": 5.1,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062819",
-      "title": "Commandos",
-      "year": 1968,
-      "imdbRating": 5.4,
-      "imdbVotes": 1083,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065825",
-      "title": "Hell Boats",
-      "year": 1970,
-      "imdbRating": 5.5,
-      "imdbVotes": 550,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062357",
-      "title": "Testa di sbarco per otto implacabili",
-      "year": 1968,
-      "imdbRating": 4.8,
-      "imdbVotes": 346,
-      "language": "Italian, French, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062886",
-      "title": "The Devil's Brigade",
-      "year": 1968,
-      "imdbRating": 6.7,
-      "imdbVotes": 6603,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065966",
-      "title": "The Last Escape",
-      "year": 1970,
-      "imdbRating": 5.1,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061913",
-      "title": "Far from Vietnam",
-      "year": 1967,
-      "imdbRating": 7.3,
-      "imdbVotes": 908,
-      "language": "French, English, Vietnamese, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0065093",
+    "tt0064571",
+    "tt0064110",
+    "tt0062673",
+    "tt0062688",
+    "tt0064135",
+    "tt0062819",
+    "tt0065825",
+    "tt0062357",
+    "tt0062886",
+    "tt0065966",
+    "tt0061913"
   ],
   "collections": [],
   "is_curated": true,

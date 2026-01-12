@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/up-in-the-world",
+      "id": "up-in-the-world",
       "title": "Up in the World",
       "description": "A friendly window cleaner works at an English country estate where he saves the owner's son from kidnappers.",
       "fileSize": 7118882714,
-      "id": "up-in-the-world"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/up-in-the-world",
+      "language": "eng",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 1089
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "Won 5 Oscars. 15 wins & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044355",
-      "title": "Androcles and the Lion",
-      "year": 1952,
-      "imdbRating": 6,
-      "imdbVotes": 1095,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1320261",
-      "title": "Gulliver's Travels",
-      "year": 2010,
-      "imdbRating": 4.9,
-      "imdbVotes": 76502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058548",
-      "title": "Santa Claus Conquers the Martians",
-      "year": 1964,
-      "imdbRating": 2.7,
-      "imdbVotes": 12783,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477347",
-      "title": "Night at the Museum",
-      "year": 2006,
-      "imdbRating": 6.5,
-      "imdbVotes": 401598,
-      "language": "English, Italian, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247746",
-      "title": "Supersonic Saucer",
-      "year": 1956,
-      "imdbRating": 5.5,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0221306",
-      "title": "Johnny Tolengo, el majestuoso",
-      "year": 1987,
-      "imdbRating": 4.7,
-      "imdbVotes": 109,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0320261",
-      "title": "Los pequeños aventureros",
-      "year": 1977,
-      "imdbRating": 6.5,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199057",
-      "title": "Los superagentes contra los fantasmas",
-      "year": 1986,
-      "imdbRating": 3.5,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0335284",
-      "title": "Margarito Tereré",
-      "year": 1978,
-      "imdbRating": 6.3,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8539280",
-      "title": "The Legend of the Christmas Witch",
-      "year": 2018,
-      "imdbRating": 4.8,
-      "imdbVotes": 948,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2251519",
-      "title": "The Blue Tiger",
-      "year": 2012,
-      "imdbRating": 5.9,
-      "imdbVotes": 156,
-      "language": "Czech",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0014611",
-      "title": "Why Worry?",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 2102,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0044355",
+    "tt1320261",
+    "tt0058548",
+    "tt0247746",
+    "tt0221306",
+    "tt0320261",
+    "tt0199057",
+    "tt0335284",
+    "tt8539280",
+    "tt2251519",
+    "tt0014611",
+    "tt6181728"
   ],
   "collections": [],
   "is_curated": true,

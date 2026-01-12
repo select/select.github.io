@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/slander-house-1938",
+      "id": "slander-house-1938",
       "title": "Slander House (1938)",
       "description": "Owner of salon catering to fat society dames must deal with a dull fiance, a romantic stranger, the jealous blond who loves him, and the lecherous husband of a client. Watch on RetroFlix:  https://retroflix.org/slander-house-1938/",
       "fileSize": 410215656,
-      "id": "slander-house-1938"
+      "addedAt": "2026-01-07T00:11:24.929Z",
+      "thumbnail": "https://archive.org/services/img/slander-house-1938",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 50
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/slander_house",
+      "id": "slander_house",
       "title": "Slander House",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4104405145,
-      "id": "slander_house"
+      "addedAt": "2026-01-07T00:11:24.929Z",
+      "thumbnail": "https://archive.org/services/img/slander_house",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 51884
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=_8-kXeHunG0",
+      "id": "_8-kXeHunG0",
       "title": "Slander House (1938) ROMANCE",
       "description": "Stars: Adrienne Ames, Craig Reynolds, Esther Ralston \nDirector: Charles Lamont\n\nThe Owner of a swank beauty salon must contend with a dull fiance, a romantic stranger, the jealous blond who loves him, and the lecherous husband of a client.",
-      "id": "_8-kXeHunG0",
+      "addedAt": "2025-12-26T23:53:28.213Z",
+      "thumbnail": "https://i.ytimg.com/vi/_8-kXeHunG0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_05_KUgV3TNgU_Q2PusiQc7-vYA",
+      "duration": 3936,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +60,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029994",
-      "title": "Cipher Bureau",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029745",
-      "title": "Wallaby Jim of the Islands",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027501",
-      "title": "The Dark Hour",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027348",
-      "title": "Below the Deadline",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027863",
-      "title": "Lady Luck",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030473",
-      "title": "Mr. Wong, Detective",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 1262,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030322",
-      "title": "King of Alcatraz",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026412",
-      "title": "The Girl Who Came Back",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 80,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031680",
-      "title": "Mr. Wong in Chinatown",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029994",
+    "tt0029745",
+    "tt0027406",
+    "tt0027501",
+    "tt0027348",
+    "tt0027863",
+    "tt0030037",
+    "tt0030473",
+    "tt0030322",
+    "tt0026412",
+    "tt0031505",
+    "tt0031680"
   ],
   "collections": [],
   "is_curated": true,

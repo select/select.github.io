@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/carne-1968",
+      "id": "carne-1968",
       "title": "Carne",
       "description": "La película Argentina de explotación sexual Carne de 1968 dirigida por Armando Bó Sinopsis: Una muchacha que trabaja en un frigorífico es secuestrada y violada en un camión de transporte de carne por un grupo de hombres. Según las leyes de derechos de autor de Argentina, la película se encuentra en el dominio público en ese país. The scan of the poster was taken from here: https://web.archive.org/web/20220628012353/https://4.bp.blogspot.com/-EYy16oH0kz0/Tjnpzg46sCI/AAAAAAAAACM/zzzkrieU3X0/s1600/ISABEL%20SARLI%20CARNE%20(1968).jpg",
       "fileSize": 1086976819,
-      "id": "carne-1968"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/carne-1968",
+      "language": "spa",
+      "year": 1968,
+      "collection": "feature_films",
+      "downloads": 98300
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059099",
-      "title": "Desnuda en la arena",
-      "year": 1969,
-      "imdbRating": 5.4,
-      "imdbVotes": 95,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062256",
-      "title": "La señora del intendente",
-      "year": 1967,
-      "imdbRating": 5.9,
-      "imdbVotes": 32,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122062",
-      "title": "Favela",
-      "year": 1961,
-      "imdbRating": 5.1,
-      "imdbVotes": 21,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123269",
-      "title": "Sin familia",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060724",
-      "title": "La mujer del zapatero",
-      "year": 1965,
-      "imdbRating": 5.6,
-      "imdbVotes": 27,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0169035",
-      "title": "Los mochileros",
-      "year": 1970,
-      "imdbRating": 3.7,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063518",
-      "title": "Romeo and Juliet",
-      "year": 1968,
-      "imdbRating": 7.6,
-      "imdbVotes": 36409,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0348451",
-      "title": "Yayla kartali",
-      "year": 1968,
-      "imdbRating": 6.5,
-      "imdbVotes": 11,
-      "language": "Turkish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060265",
-      "title": "The Chinese Room",
-      "year": 1968,
-      "imdbRating": 5,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062673",
-      "title": "Anzio",
-      "year": 1968,
-      "imdbRating": 6,
-      "imdbVotes": 4100,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062688",
-      "title": "Attack on the Iron Coast",
-      "year": 1968,
-      "imdbRating": 5.5,
-      "imdbVotes": 803,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062819",
-      "title": "Commandos",
-      "year": 1968,
-      "imdbRating": 5.4,
-      "imdbVotes": 1083,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0059099",
+    "tt0062256",
+    "tt0122062",
+    "tt0123269",
+    "tt0060724",
+    "tt0169035",
+    "tt0063518",
+    "tt0348451",
+    "tt0060265",
+    "tt0062673",
+    "tt0062688",
+    "tt0062819"
   ],
   "collections": [],
   "is_curated": true,

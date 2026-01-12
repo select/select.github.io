@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/children-of-nagasaki",
+      "id": "children-of-nagasaki",
       "title": "Children Of Nagasaki",
       "description": "A doctor who was widowed during the bombing of Nagasaki decides to write his memoirs before he succumbs to radiation sickness.",
       "fileSize": 10478794481,
-      "id": "children-of-nagasaki"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/children-of-nagasaki",
+      "language": "jpn",
+      "year": 1983,
+      "collection": "feature_films",
+      "downloads": 3037
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037227",
-      "title": "Army",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 381,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036977",
-      "title": "Jubilation Street",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 194,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086251",
-      "title": "The Scarlet and the Black",
-      "year": 1983,
-      "imdbRating": 7.5,
-      "imdbVotes": 4073,
-      "language": "Latin, English, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088734",
-      "title": "Arch of Triumph",
-      "year": 1984,
-      "imdbRating": 5.5,
-      "imdbVotes": 608,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091251",
-      "title": "Come and See",
-      "year": 1985,
-      "imdbRating": 8.3,
-      "imdbVotes": 119291,
-      "language": "Russian, Belarusian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082096",
-      "title": "Das Boot",
-      "year": 1981,
-      "imdbRating": 8.4,
-      "imdbVotes": 284170,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0089279",
-      "title": "Hitler's S.S.: Portrait in Evil",
-      "year": 1985,
-      "imdbRating": 6.5,
-      "imdbVotes": 888,
-      "language": "English, German, Polish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0094858",
-      "title": "Father",
-      "year": 1988,
-      "imdbRating": 5.7,
-      "imdbVotes": 86,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038810",
-      "title": "Morning for the Osone Family",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 346,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039406",
-      "title": "Phoenix",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 138,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035964",
-      "title": "Port of Flowers",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036034",
-      "title": "The Living Magoroku",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 154,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0037227",
+    "tt0036977",
+    "tt0086251",
+    "tt0088734",
+    "tt0091251",
+    "tt0082096",
+    "tt0089279",
+    "tt0094858",
+    "tt0038810",
+    "tt0039406",
+    "tt0035964",
+    "tt0036034"
   ],
   "collections": [],
   "is_curated": true,

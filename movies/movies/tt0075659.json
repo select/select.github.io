@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/all-at-sea_202508",
+      "id": "all-at-sea_202508",
       "title": "All At Sea",
       "description": "All at Sea is a 1977 Australian television film about a group of misfits on holiday on an island resort. Not great resolution but quite watchable.  Kind of an Australian take on Benny Hill or the Adventures of British comedy. ",
       "fileSize": 1201601585,
-      "id": "all-at-sea_202508"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/all-at-sea_202508",
+      "language": "eng",
+      "year": 1977,
+      "collection": "feature_films",
+      "downloads": 1232
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0076391",
-      "title": "Mimino",
-      "year": 1977,
-      "imdbRating": 8.1,
-      "imdbVotes": 7423,
-      "language": "Russian, Georgian, Armenian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0076826",
-      "title": "To See Such Fun",
-      "year": 1977,
-      "imdbRating": 7.3,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075956",
-      "title": "Double Nickels",
-      "year": 1977,
-      "imdbRating": 5.1,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178306",
-      "title": "El casamiento de Laucha",
-      "year": 1977,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076162",
-      "title": "House",
-      "year": 1977,
-      "imdbRating": 7.2,
-      "imdbVotes": 36764,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074166",
-      "title": "La aventura explosiva",
-      "year": 1977,
-      "imdbRating": 4.4,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074982",
-      "title": "La nueva cigarra",
-      "year": 1977,
-      "imdbRating": 7.1,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0320261",
-      "title": "Los pequeños aventureros",
-      "year": 1977,
-      "imdbRating": 6.5,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204279",
-      "title": "Dios los cría",
-      "year": 1977,
-      "imdbRating": 6.4,
-      "imdbVotes": 39,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076665",
-      "title": "Satan's Cheerleaders",
-      "year": 1977,
-      "imdbRating": 4.1,
-      "imdbVotes": 1316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076727",
-      "title": "Office Romance",
-      "year": 1977,
-      "imdbRating": 8.2,
-      "imdbVotes": 11272,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0075119",
-      "title": "A Slave of Love",
-      "year": 1976,
-      "imdbRating": 7.3,
-      "imdbVotes": 1916,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0076391",
+    "tt0076826",
+    "tt0075956",
+    "tt0178306",
+    "tt0076162",
+    "tt0074166",
+    "tt0074982",
+    "tt0320261",
+    "tt0204279",
+    "tt0076665",
+    "tt0076727",
+    "tt0075119"
   ],
   "collections": [],
   "is_curated": true,

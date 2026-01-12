@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/barbed-wire_1927",
+      "id": "barbed-wire_1927",
       "title": "Barbed Wire",
       "fileSize": 2832909438,
-      "id": "barbed-wire_1927"
+      "addedAt": "2026-01-07T00:07:31.713Z",
+      "thumbnail": "https://archive.org/services/img/barbed-wire_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 1965
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018578",
-      "title": "Wings",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 15487,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018862",
-      "title": "Caucasian Love",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 182,
-      "language": "None, Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019098",
-      "title": "Lilac Time",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019071",
-      "title": "The Last Command",
-      "year": 1928,
-      "imdbRating": 7.9,
-      "imdbVotes": 4676,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018014",
-      "title": "Hotel Imperial",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021542",
-      "title": "Westfront 1918",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 2664,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021800",
-      "title": "Dishonored",
-      "year": 1931,
-      "imdbRating": 7.2,
-      "imdbVotes": 3287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019758",
-      "title": "Charming Sinners",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0018578",
+    "tt0018862",
+    "tt0018990",
+    "tt0019098",
+    "tt0019071",
+    "tt0020602",
+    "tt0015624",
+    "tt0018014",
+    "tt0021542",
+    "tt0021800",
+    "tt0019758",
+    "tt0016548"
   ],
   "collections": [],
   "is_curated": true,

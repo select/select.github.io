@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-reptile",
+      "id": "the-reptile",
       "title": "The Reptile",
       "description": "In a Cornish village, various locals die from mysterious snake bites, but the coroner rules the deaths as heart attacks, until a family of newcomers starts an investigation.",
       "fileSize": 7060669603,
-      "id": "the-reptile"
+      "addedAt": "2026-01-07T00:12:22.157Z",
+      "thumbnail": "https://archive.org/services/img/the-reptile",
+      "language": "eng",
+      "year": 1966,
+      "collection": "feature_films",
+      "downloads": 12241
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059504",
-      "title": "Blood Beast from Outer Space",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 898,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044925",
-      "title": "Vampire Over London",
-      "year": 1952,
-      "imdbRating": 3.8,
-      "imdbVotes": 1012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0049248",
-      "title": "The Gamma People",
-      "year": 1956,
-      "imdbRating": 5.3,
-      "imdbVotes": 875,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060580",
-      "title": "Terror Beneath the Sea",
-      "year": 1966,
-      "imdbRating": 4.7,
-      "imdbVotes": 643,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060558",
-      "title": "Jesse James Meets Frankenstein's Daughter",
-      "year": 1966,
-      "imdbRating": 3.4,
-      "imdbVotes": 2116,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060666",
-      "title": "Manos: The Hands of Fate",
-      "year": 1966,
-      "imdbRating": 1.7,
-      "imdbVotes": 38193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061005",
-      "title": "She Beast",
-      "year": 1966,
-      "imdbRating": 4.7,
-      "imdbVotes": 1525,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058601",
-      "title": "Sound of Horror",
-      "year": 1966,
-      "imdbRating": 4.9,
-      "imdbVotes": 477,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061140",
-      "title": "The Undertaker and His Pals",
-      "year": 1966,
-      "imdbRating": 4.5,
-      "imdbVotes": 1264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060168",
-      "title": "Billy the Kid Versus Dracula",
-      "year": 1966,
-      "imdbRating": 3.8,
-      "imdbVotes": 2326,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062463",
-      "title": "The Vulture",
-      "year": 1966,
-      "imdbRating": 4.2,
-      "imdbVotes": 386,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061557",
-      "title": "The Deadly Bees",
-      "year": 1966,
-      "imdbRating": 4.2,
-      "imdbVotes": 2304,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0059504",
+    "tt0044925",
+    "tt0049248",
+    "tt0060580",
+    "tt0060558",
+    "tt0060666",
+    "tt0061005",
+    "tt0058601",
+    "tt0061140",
+    "tt0060168",
+    "tt0062463",
+    "tt0061557"
   ],
   "collections": [],
   "is_curated": true,

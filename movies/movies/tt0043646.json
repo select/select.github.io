@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951-hollywood-story-crimen-en-hollywood-william-castle-vose",
+      "id": "1951-hollywood-story-crimen-en-hollywood-william-castle-vose",
       "title": "1951 - Hollywood Story - Crimen en Hollywood - William Castle - VOSE",
       "description": "For Academic - Educational Use Only",
       "fileSize": 366164833,
-      "id": "1951-hollywood-story-crimen-en-hollywood-william-castle-vose"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1951-hollywood-story-crimen-en-hollywood-william-castle-vose",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 792
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hollywood-story-1951_202110",
+      "id": "hollywood-story-1951_202110",
       "title": "Hollywood Story (1951)",
       "description": "Richard Conte, Julie Adams, Richard Egan, Henry Hull, Fred Clark, Jim Backus, Paul Cavanagh, Francis X. Bushman, Betty Blythe, William Farnum, Elmo Lincoln, Joel McCrea",
       "fileSize": 1114155589,
-      "id": "hollywood-story-1951_202110"
+      "addedAt": "2026-01-07T00:08:46.612Z",
+      "thumbnail": "https://archive.org/services/img/hollywood-story-1951_202110",
+      "collection": "feature_films",
+      "downloads": 1168
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hollywood-story-1951_202307",
+      "id": "hollywood-story-1951_202307",
       "title": "Hollywood Story (1951)",
       "description": "A producer takes over a small film studio and - sensing that it'll be a good movie- begins investigating an old murder of a silent film director shot in his office years ago. He finds that his life is threatened as he digs deeper into the mystery. Watch on RetroFlix.org:  https://retroflix.org/hollywood-story-1951/",
       "fileSize": 226641691,
-      "id": "hollywood-story-1951_202307"
+      "addedAt": "2026-01-07T00:08:46.612Z",
+      "thumbnail": "https://archive.org/services/img/hollywood-story-1951_202307",
+      "language": "eng",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 330
     }
   ],
   "metadata": {
@@ -43,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043523",
-      "title": "The Fat Man",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042007",
-      "title": "Undertow",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048420",
-      "title": "New Orleans Uncensored",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043086",
-      "title": "Under the Gun",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043087",
-      "title": "Undercover Girl",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 247,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042039",
-      "title": "Whirlpool",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 4900,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041958",
-      "title": "Thieves' Highway",
-      "year": 1949,
-      "imdbRating": 7.5,
-      "imdbVotes": 7130,
-      "language": "English, Italian, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041487",
-      "title": "House of Strangers",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 4307,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045564",
-      "title": "The Blue Gardenia",
-      "year": 1953,
-      "imdbRating": 6.8,
-      "imdbVotes": 6423,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044364",
-      "title": "Another Man's Poison",
-      "year": 1951,
-      "imdbRating": 6.8,
-      "imdbVotes": 3699,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043435",
-      "title": "Cry Danger",
-      "year": 1951,
-      "imdbRating": 7.3,
-      "imdbVotes": 3004,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0043523",
+    "tt0042007",
+    "tt0048420",
+    "tt0049340",
+    "tt0043086",
+    "tt0043087",
+    "tt0042039",
+    "tt0041958",
+    "tt0041487",
+    "tt0045564",
+    "tt0044364",
+    "tt0043435"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/primitive-love_1927",
+      "id": "primitive-love_1927",
       "title": "Primitive Love",
       "fileSize": 3896743814,
-      "id": "primitive-love_1927"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/primitive-love_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 683
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0236708",
-      "title": "Santa Claus",
-      "year": 1925,
-      "imdbRating": 6.5,
-      "imdbVotes": 223,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017743",
-      "title": "Chang: A Drama of the Wilderness",
-      "year": 1927,
-      "imdbRating": 6.9,
-      "imdbVotes": 1152,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340302",
-      "title": "Film 25",
-      "year": 1927,
-      "imdbRating": 4.6,
-      "imdbVotes": 55,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340324",
-      "title": "Film 29",
-      "year": 1927,
-      "imdbRating": 4.9,
-      "imdbVotes": 49,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208526",
-      "title": "Twenty-Four-Dollar Island",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 243,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255441",
-      "title": "The Olympic Games, Amsterdam 1928",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0196592",
-      "title": "Gow the Head Hunter",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 57,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174772",
-      "title": "In the Shadow of the Machine",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123117",
-      "title": "Inflation",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 324,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179489",
-      "title": "La tour",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 199,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0236708",
+    "tt5503754",
+    "tt0017743",
+    "tt6340302",
+    "tt6340324",
+    "tt0208526",
+    "tt0309243",
+    "tt0255441",
+    "tt0196592",
+    "tt0174772",
+    "tt0123117",
+    "tt0179489"
   ],
   "collections": [],
   "is_curated": true,

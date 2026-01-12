@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/two-tars_1928",
+      "id": "two-tars_1928",
       "title": "Two Tars",
       "fileSize": 1569690072,
-      "id": "two-tars_1928"
+      "addedAt": "2026-01-07T00:12:55.131Z",
+      "thumbnail": "https://archive.org/services/img/two-tars_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 733
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020264",
-      "title": "Perfect Day",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1782,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023251",
-      "title": "The Music Box",
-      "year": 1932,
-      "imdbRating": 7.9,
-      "imdbVotes": 8136,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0019999",
-      "title": "The Hoose-Gow",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1306,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020489",
-      "title": "They Go Boom!",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 1259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019688",
-      "title": "Big Business",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 3445,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020161",
-      "title": "Men O'War",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 1430,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017231",
-      "title": "On the Front Page",
-      "year": 1926,
-      "imdbRating": 5.7,
-      "imdbVotes": 181,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019376",
-      "title": "Should Married Men Go Home?",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 784,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019670",
-      "title": "Bacon Grabbers",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 786,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020531",
-      "title": "Unaccustomed As We Are",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233497",
-      "title": "Crazy House",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018860",
-      "title": "Early to Bed",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 762,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0020264",
+    "tt0023251",
+    "tt0019999",
+    "tt0020489",
+    "tt0019688",
+    "tt0020161",
+    "tt0017231",
+    "tt0019376",
+    "tt0019670",
+    "tt0020531",
+    "tt0233497",
+    "tt0018860"
   ],
   "collections": [],
   "is_curated": true,

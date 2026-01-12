@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jubilation-street",
+      "id": "jubilation-street",
       "title": "Jubilation Street",
       "description": "As World War II escalates, the tight-knit inhabitants of a street in Tokyo must relocate from their homes so the government can use the space. Kinoshita’s sensitive film—beautifully and resourcefully shot—traces the fears and desires of the evacuees.",
       "fileSize": 6051902860,
-      "id": "jubilation-street"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/jubilation-street",
+      "language": "jpn",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 2033
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037227",
-      "title": "Army",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 381,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035964",
-      "title": "Port of Flowers",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036034",
-      "title": "The Living Magoroku",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 154,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087571",
-      "title": "Children of Nagasaki",
-      "year": 1983,
-      "imdbRating": 6.8,
-      "imdbVotes": 164,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038810",
-      "title": "Morning for the Osone Family",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 346,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036791",
-      "title": "Enemy of Women",
-      "year": 1944,
-      "imdbRating": 5,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036824",
-      "title": "The Fighting Seabees",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 4012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037058",
-      "title": "Medal for the General",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037449",
-      "title": "The Way Ahead",
-      "year": 1944,
-      "imdbRating": 6.9,
-      "imdbVotes": 2280,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037121",
-      "title": "The Navy Way",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 168,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036529",
-      "title": "Ladies Courageous",
-      "year": 1944,
-      "imdbRating": 5.7,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037280",
-      "title": "Since You Went Away",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 5182,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    }
+    "tt0037227",
+    "tt0035964",
+    "tt0036034",
+    "tt0087571",
+    "tt0038810",
+    "tt0036791",
+    "tt0036824",
+    "tt0037058",
+    "tt0037449",
+    "tt0037121",
+    "tt0036529",
+    "tt0037280"
   ],
   "collections": [],
   "is_curated": true,

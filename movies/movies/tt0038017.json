@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/red-dragon-1945",
+      "id": "red-dragon-1945",
       "title": "Red Dragon (1945)",
       "description": "Red Dragon Sidney Toler 1945",
       "fileSize": 1319342254,
-      "id": "red-dragon-1945"
+      "addedAt": "2026-01-07T00:10:30.753Z",
+      "thumbnail": "https://archive.org/services/img/red-dragon-1945",
+      "collection": "feature_films",
+      "downloads": 8630
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038056",
-      "title": "The Scarlet Clue",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 1596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033738",
-      "title": "I Killed That Man",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032903",
-      "title": "Phantom of Chinatown",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 803,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024443",
-      "title": "The Phantom Broadcast",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020267",
-      "title": "The Phantom in the House",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024605",
-      "title": "The Sphinx",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 523,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037599",
-      "title": "The Cisco Kid in Old New Mexico",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0038449",
-      "title": "Dangerous Money",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1300,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038452",
-      "title": "Dark Alibi",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 1437,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039912",
-      "title": "The Trap",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 1295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0038056",
+    "tt0033738",
+    "tt0027807",
+    "tt0032903",
+    "tt0024443",
+    "tt0020267",
+    "tt0024605",
+    "tt0037599",
+    "tt0038449",
+    "tt0038452",
+    "tt0039912",
+    "tt0037960"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheShowdown1940",
+      "id": "TheShowdown1940",
       "title": "The Showdown (1940)",
       "description": "Hopalong Cassidy (William Boyd) deals with a fake Baron and Sue Willard (Jan Clayton) who claims to be Colonel Rufe White's niece of White's Ranch. PD - No copyright renewal",
       "fileSize": 1482361580,
-      "id": "TheShowdown1940"
+      "addedAt": "2026-01-07T00:07:05.036Z",
+      "thumbnail": "https://archive.org/services/img/TheShowdown1940",
+      "collection": "feature_films",
+      "downloads": 7039
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034505",
-      "title": "Below the Border",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 129,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034785",
-      "title": "Ghost Town Law",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0034638",
-      "title": "Dawn on the Great Divide",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029532",
-      "title": "Secret Valley",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031925",
-      "title": "Silver on the Sage",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033546",
-      "title": "Doomed Caravan",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031557",
-      "title": "Law of the Pampas",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032706",
-      "title": "The Light of Western Stars",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032329",
-      "title": "Chasing Trouble",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031119",
-      "title": "Boys' Reformatory",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034188",
-      "title": "Sign of the Wolf",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033060",
-      "title": "Sky Patrol",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034505",
+    "tt0034785",
+    "tt0034638",
+    "tt0029532",
+    "tt0031925",
+    "tt0033546",
+    "tt0031557",
+    "tt0032706",
+    "tt0032329",
+    "tt0031119",
+    "tt0034188",
+    "tt0033060"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-jeux-denfants",
+      "id": "silent-jeux-denfants",
       "title": "Jeux D'Enfants",
       "fileSize": 158155610,
-      "id": "silent-jeux-denfants"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-jeux-denfants",
+      "language": "French",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 1912
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139934",
-      "title": "Le circuit de l'alcool",
-      "year": 1912,
-      "imdbRating": 5.4,
-      "imdbVotes": 47,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938571",
-      "title": "Les chalands",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 39,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002910",
-      "title": "Granddad",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003075",
-      "title": "The Little Tease",
-      "year": 1913,
-      "imdbRating": 5.7,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003497",
-      "title": "The Unwelcome Guest",
-      "year": 1913,
-      "imdbRating": 6.6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003516",
-      "title": "The Wanderer",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0778062",
-      "title": "Silent Heroes",
-      "year": 1913,
-      "imdbRating": 4.9,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1223220",
+    "tt0139934",
+    "tt1207008",
+    "tt0938571",
+    "tt1113818",
+    "tt0002784",
+    "tt0002795",
+    "tt0002910",
+    "tt0003075",
+    "tt0003497",
+    "tt0003516",
+    "tt0778062"
   ],
   "collections": [],
   "is_curated": true,

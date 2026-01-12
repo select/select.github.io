@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/gerald-mc-boing-boing-1950",
+      "id": "gerald-mc-boing-boing-1950",
       "title": "Gerald McBoing-Boing (1950)",
       "description": "The story of a little boy who would only talk in sound effects.  Watch on RetroFlix:  https://retroflix.org/gerald-mcboing-boing-1950/",
       "fileSize": 46927873,
-      "id": "gerald-mc-boing-boing-1950"
+      "addedAt": "2026-01-07T00:08:32.017Z",
+      "thumbnail": "https://archive.org/services/img/gerald-mc-boing-boing-1950",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 221
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "Won 1 Oscar. 3 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150710",
-      "title": "Georgie and the Dragon",
-      "year": 1951,
-      "imdbRating": 7.4,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153908",
-      "title": "The Wonder Gloves",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151579",
-      "title": "The Miner's Daughter",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044865",
-      "title": "Madeline",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 238,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153850",
-      "title": "Willie the Kid",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1673582",
-      "title": "Flight Safety: After the Cut",
-      "year": 1946,
-      "imdbRating": 5,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049258",
-      "title": "Gerald McBoing! Boing! on Planet Moo",
-      "year": 1956,
-      "imdbRating": 5.9,
-      "imdbVotes": 328,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149986",
-      "title": "Bungled Bungalow",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038608",
-      "title": "Hollywood Daffy",
-      "year": 1946,
-      "imdbRating": 7.2,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147628",
-      "title": "Mighty Mouse in the Trojan Horse",
-      "year": 1946,
-      "imdbRating": 6.6,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151840",
-      "title": "The Oompahs",
-      "year": 1952,
-      "imdbRating": 7.2,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150710",
+    "tt0153908",
+    "tt0151579",
+    "tt0044865",
+    "tt0153850",
+    "tt1673582",
+    "tt0049258",
+    "tt0149986",
+    "tt0038608",
+    "tt0147628",
+    "tt0151840",
+    "tt14091630"
   ],
   "collections": [],
   "is_curated": true,

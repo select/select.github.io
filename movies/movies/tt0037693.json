@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fatal-witness-1945",
+      "id": "fatal-witness-1945",
       "title": "Fatal Witness (1945)",
       "description": "Evelyn Ankers",
       "fileSize": 894844385,
-      "id": "fatal-witness-1945"
+      "addedAt": "2026-01-07T00:08:24.394Z",
+      "thumbnail": "https://archive.org/services/img/fatal-witness-1945",
+      "collection": "feature_films",
+      "downloads": 538
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038828",
-      "title": "Passkey to Danger",
-      "year": 1946,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038109",
-      "title": "Spellbound",
-      "year": 1945,
-      "imdbRating": 7.5,
-      "imdbVotes": 53812,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038346",
-      "title": "Behind Green Lights",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 1068,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036886",
-      "title": "Guest in the House",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 1087,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036745",
-      "title": "Dark Waters",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 1118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037008",
-      "title": "Laura",
-      "year": 1944,
-      "imdbRating": 7.9,
-      "imdbVotes": 52736,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039757",
-      "title": "The Red House",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 5167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039768",
-      "title": "Ride the Pink Horse",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 3532,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0274965",
-      "title": "The Tiger Woman",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040798",
-      "title": "Sleep, My Love",
-      "year": 1948,
-      "imdbRating": 6.8,
-      "imdbVotes": 2259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040823",
-      "title": "Sorry, Wrong Number",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 12863,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040002",
-      "title": "A Woman's Vengeance",
-      "year": 1948,
-      "imdbRating": 6.9,
-      "imdbVotes": 908,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0038828",
+    "tt0038109",
+    "tt0038346",
+    "tt0036886",
+    "tt0036745",
+    "tt0037008",
+    "tt0039757",
+    "tt0039768",
+    "tt0274965",
+    "tt0040798",
+    "tt0040823",
+    "tt0040002"
   ],
   "collections": [],
   "is_curated": true,

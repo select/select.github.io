@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hawaii_calls",
+      "id": "hawaii_calls",
       "title": "Hawaii Calls",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4912335680,
-      "id": "hawaii_calls"
+      "addedAt": "2026-01-07T00:08:39.344Z",
+      "thumbnail": "https://archive.org/services/img/hawaii_calls",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 73817
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=_s77RZSEyCo",
+      "id": "_s77RZSEyCo",
       "title": "Hawaii Calls (1938) BOBBY BREEN",
       "description": "Stars: Bobby Breen, Ned Sparks, Irvin S. Cobb \nDirector: Edward F. Cline\n\nA young stow away on board an ocean liner sings for his travel fare and with the help of his sidekick turns detective to recover stolen naval documents!",
-      "id": "_s77RZSEyCo",
+      "addedAt": "2025-12-26T23:44:14.750Z",
+      "thumbnail": "https://i.ytimg.com/vi/_s77RZSEyCo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLD0RHPv2ti-C4QMpy2sS54-RkaTkA",
+      "duration": 3777,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,112 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029945",
-      "title": "Breaking the Ice",
-      "year": 1938,
-      "imdbRating": 5.1,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030565",
-      "title": "Peck's Bad Boy with the Circus",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027882",
-      "title": "Let's Sing Again",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030089",
-      "title": "The Duke Is Tops",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 391,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029047",
-      "title": "In Old Chicago",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 2692,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0180770",
-      "title": "Jettatore",
-      "year": 1938,
-      "imdbRating": 7.1,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027202",
-      "title": "When a Man's a Man",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028629",
-      "title": "Big Fella",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 217,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028988",
-      "title": "Heidi",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 5105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028906",
-      "title": "La fuga",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 40,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197707",
-      "title": "La muchacha del circo",
-      "year": 1937,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032098",
-      "title": "La vida de Carlos Gardel",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0029945",
+    "tt0030565",
+    "tt0027882",
+    "tt0030089",
+    "tt0029047",
+    "tt0180770",
+    "tt0027202",
+    "tt0028629",
+    "tt0028988",
+    "tt0028906",
+    "tt0197707",
+    "tt0032098"
   ],
   "collections": [],
   "is_curated": true,

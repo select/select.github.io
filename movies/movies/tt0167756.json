@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/addio-giovinezza_1928",
+      "id": "addio-giovinezza_1928",
       "title": "Addio giovinezza!",
       "fileSize": 6883953561,
-      "id": "addio-giovinezza_1928"
+      "addedAt": "2026-01-07T00:07:18.440Z",
+      "thumbnail": "https://archive.org/services/img/addio-giovinezza_1928",
+      "language": "Italian",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 377
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0248811",
-      "title": "Frauenliebe - Frauenleid",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018379",
-      "title": "7th Heaven",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 4348,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017667",
-      "title": "The Beloved Rogue",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017765",
-      "title": "College",
-      "year": 1927,
-      "imdbRating": 6.9,
-      "imdbVotes": 5578,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018295",
-      "title": "El puño de hierro",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 57,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017899",
-      "title": "For the Term of His Natural Life",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0336695",
-      "title": "The Kid Stakes",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019339",
-      "title": "The Rush Hour",
-      "year": 1927,
-      "imdbRating": 7.9,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017623",
-      "title": "Am Rande der Welt",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 76,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017632",
-      "title": "Annie Laurie",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 534,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017735",
-      "title": "Captain Salvation",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0248811",
+    "tt0018379",
+    "tt0017667",
+    "tt0017765",
+    "tt0018295",
+    "tt0017899",
+    "tt0336695",
+    "tt0019339",
+    "tt0017623",
+    "tt0017632",
+    "tt0017662",
+    "tt0017735"
   ],
   "collections": [],
   "is_curated": true,

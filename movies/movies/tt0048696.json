@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tarantula_202106",
+      "id": "tarantula_202106",
       "title": "Tarantula",
       "description": "A spider escapes from an isolated Arizona desert laboratory experimenting in giantism and grows to tremendous size as it wreaks havoc on the local inhabitants.",
       "fileSize": 6593992949,
-      "id": "tarantula_202106"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/tarantula_202106",
+      "language": "eng",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 11205
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048554",
-      "title": "Revenge of the Creature",
-      "year": 1955,
-      "imdbRating": 5.6,
-      "imdbVotes": 7271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046876",
-      "title": "Creature from the Black Lagoon",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 37202,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045920",
-      "title": "It Came from Outer Space",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 12306,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050539",
-      "title": "The Incredible Shrinking Man",
-      "year": 1957,
-      "imdbRating": 7.6,
-      "imdbVotes": 20967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051948",
-      "title": "Monster on the Campus",
-      "year": 1958,
-      "imdbRating": 5.8,
-      "imdbVotes": 2150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050210",
-      "title": "The Brain from Planet Arous",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050432",
-      "title": "The Giant Claw",
-      "year": 1957,
-      "imdbRating": 4.6,
-      "imdbVotes": 4591,
-      "language": "English, Japanese, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048127",
-      "title": "Godzilla Raids Again",
-      "year": 1955,
-      "imdbRating": 5.7,
-      "imdbVotes": 9173,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048215",
-      "title": "It Came from Beneath the Sea",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 6690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049615",
-      "title": "The Phantom from 10,000 Leagues",
-      "year": 1955,
-      "imdbRating": 3.6,
-      "imdbVotes": 2234,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0048256",
-      "title": "King Dinosaur",
-      "year": 1955,
-      "imdbRating": 2.2,
-      "imdbVotes": 1686,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0049646",
-      "title": "The Quatermass Xperiment",
-      "year": 1955,
-      "imdbRating": 6.6,
-      "imdbVotes": 8063,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0048554",
+    "tt0046876",
+    "tt0045920",
+    "tt0051948",
+    "tt0050210",
+    "tt0050432",
+    "tt0048127",
+    "tt0048215",
+    "tt0049615",
+    "tt0048256",
+    "tt0049646",
+    "tt0047898"
   ],
   "collections": [],
   "is_curated": true,

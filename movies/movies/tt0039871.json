@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/one-wonderful-sunday",
+      "id": "one-wonderful-sunday",
       "title": "One Wonderful Sunday",
       "description": "This affectionate paean to young love is also a frank examination by Akira Kurosawa of the harsh realities of postwar Japan. During a Sunday trip into war-ravaged Tokyo, Yuzo and Masako look for work and lodging, as well as affordable entertainments to pass the time. Reminiscent of Frank Capra’s social-realist comedies and echoing contemporaneous Italian neorealism,  One Wonderful Sunday  touchingly offers a sliver of hope in dark times.",
       "fileSize": 2164931756,
-      "id": "one-wonderful-sunday"
+      "addedAt": "2026-01-07T00:10:12.692Z",
+      "thumbnail": "https://archive.org/services/img/one-wonderful-sunday",
+      "language": "jpn",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 13767
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OneWonderfulSundaysubarashikiNichiyobi1947",
+      "id": "OneWonderfulSundaysubarashikiNichiyobi1947",
       "title": "One Wonderful Sunday (Subarashiki nichiyobi) (1947)",
       "description": "Synopsis Yuzo and his fiancÃ©e Masako spend their Sunday afternoon together, trying to have a good time on just thirty-five yen. They manage to have many small adventures, especially because Masako's optimism and belief in dreams is able to lift Yuzo from his realistic despair. -- IMDb Cast: Isao Numasaki, Chieko Nakakita, Atsushi Watanabe, Zeko Nakamura, Ichiro Sugai, Masao Shimizu * * * * * This affectionate paean to young love is also a frank examination by Akira Kurosawa of the harsh realities of postwar Japan. During a Sunday trip into war-ravaged Tokyo, Yuzo and Masako look for work and lodging, as well as affordable entertainments to pass the time. Reminiscent of Frank Capraâs social-realist comedies and echoing contemporaneous Italian neorealism, One Wonderful Sunday touchingly offers a sliver of hope in dark times. -- The Criterion Collection",
       "fileSize": 112928682,
-      "id": "OneWonderfulSundaysubarashikiNichiyobi1947"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OneWonderfulSundaysubarashikiNichiyobi1947",
+      "collection": "feature_films",
+      "downloads": 11674
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "2 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043614",
-      "title": "The Idiot",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 5828,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039090",
-      "title": "No Regrets for Our Youth",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 4157,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038268",
-      "title": "Sanshiro Sugata, Part Two",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2900,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041699",
-      "title": "Stray Dog",
-      "year": 1949,
-      "imdbRating": 7.8,
-      "imdbVotes": 20087,
-      "language": "Japanese, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039370",
-      "title": "The Farmer's Daughter",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 2999,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039686",
-      "title": "The Other Love",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 927,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039698",
-      "title": "The Perils of Pauline",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 1278,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039152",
-      "title": "Angel and the Badman",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 7236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040481",
-      "title": "It Always Rains on Sunday",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 2505,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039567",
-      "title": "Lighthouse",
-      "year": 1947,
-      "imdbRating": 6.2,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199735",
-      "title": "Madame Bovary",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 49,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0043614",
+    "tt0039090",
+    "tt0038268",
+    "tt0041699",
+    "tt0039694",
+    "tt0039370",
+    "tt0039686",
+    "tt0039698",
+    "tt0039152",
+    "tt0040481",
+    "tt0039567",
+    "tt0199735"
   ],
   "collections": [
     {

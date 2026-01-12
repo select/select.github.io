@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PerilsOfTheJungle",
+      "id": "PerilsOfTheJungle",
       "title": "Perils of the Jungle",
       "description": "On an African safari with his friend Grant (Stanley Farrar), Clyde Beatty plans to buy some black-maned Numbian lions from Jo Carter (Phyllis Coates) but her animals are wiped out by a fire. Despite interference by rival dealer Gorman (John Doucette), who hopes to ruin Jo, Beatty saves her business by helping her to capture an adult gorilla",
       "fileSize": 1664918445,
-      "id": "PerilsOfTheJungle"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PerilsOfTheJungle",
+      "year": 1953,
+      "collection": "feature_films",
+      "downloads": 8013
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=-E-FjjWtsps",
+      "id": "-E-FjjWtsps",
       "title": "Perils of the Jungle (1953) JUNGLE ADVENTURE",
       "description": "Stars: Clyde Beatty, Stanley Farrar, Phyllis Coates \n Director: George Blair\n\n White hunter tracks down lions on the Congo jungle.",
-      "id": "-E-FjjWtsps",
+      "addedAt": "2025-12-26T23:53:23.107Z",
+      "thumbnail": "https://i.ytimg.com/vi/-E-FjjWtsps/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA6HmwxA4rVSGYo6hkMR5Vm8TsfZA",
+      "duration": 3660,
+      "language": "en",
+      "year": 1953,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040269",
-      "title": "Daredevils of the Clouds",
-      "year": 1948,
-      "imdbRating": 6.1,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0128271",
-      "title": "Insurance Investigator",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045551",
-      "title": "Beneath the 12-Mile Reef",
-      "year": 1953,
-      "imdbRating": 5.7,
-      "imdbVotes": 1685,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045563",
-      "title": "Blowing Wild",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 1291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045682",
-      "title": "Destination Gobi",
-      "year": 1953,
-      "imdbRating": 6.3,
-      "imdbVotes": 1156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045783",
-      "title": "Fort Algiers",
-      "year": 1953,
-      "imdbRating": 5.4,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045919",
-      "title": "Island in the Sky",
-      "year": 1953,
-      "imdbRating": 6.8,
-      "imdbVotes": 3891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046238",
-      "title": "Return to Paradise",
-      "year": 1953,
-      "imdbRating": 6,
-      "imdbVotes": 858,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046286",
-      "title": "Sea Devils",
-      "year": 1953,
-      "imdbRating": 5.6,
-      "imdbVotes": 809,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046368",
-      "title": "The Steel Lady",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 365,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046268",
-      "title": "The Wages of Fear",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 71394,
-      "language": "French, English, Spanish, German, Italian, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042453",
-      "title": "Federal Agent at Large",
-      "year": 1950,
-      "imdbRating": 5.9,
-      "imdbVotes": 70,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0040269",
+    "tt0128271",
+    "tt0045551",
+    "tt0045563",
+    "tt0045682",
+    "tt0045783",
+    "tt0045919",
+    "tt0046238",
+    "tt0046286",
+    "tt0046368",
+    "tt0046268",
+    "tt0042453"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shadow-of-doubt-1935-",
+      "id": "shadow-of-doubt-1935-",
       "title": "Shadow Of Doubt (1935)",
       "description": "Ricardo Cortez",
       "fileSize": 1045611110,
-      "id": "shadow-of-doubt-1935-"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/shadow-of-doubt-1935-",
+      "collection": "feature_films",
+      "downloads": 446
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shadow-of-doubt-1935-_202109",
+      "id": "shadow-of-doubt-1935-_202109",
       "title": "Shadow Of Doubt (1935)",
       "description": "Ricardo Cortez",
       "fileSize": 1045601769,
-      "id": "shadow-of-doubt-1935-_202109"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/shadow-of-doubt-1935-_202109",
+      "collection": "feature_films",
+      "downloads": 1110
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027923",
-      "title": "Mad Holiday",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026819",
-      "title": "One Frightened Night",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027053",
-      "title": "Streamline Express",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026694",
-      "title": "Me and Marlborough",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026978",
-      "title": "Seven Keys to Baldpate",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027204",
-      "title": "While the Patient Slept",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 447,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032017",
-      "title": "There's That Woman Again",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025169",
-      "title": "The Ghost Walks",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 663,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027923",
+    "tt0027845",
+    "tt0026085",
+    "tt0026819",
+    "tt0027053",
+    "tt0026694",
+    "tt0026978",
+    "tt0027204",
+    "tt0032017",
+    "tt0027495",
+    "tt0027807",
+    "tt0025169"
   ],
   "collections": [],
   "is_curated": true,

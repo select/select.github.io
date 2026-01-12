@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rolling-stones-1936",
+      "id": "rolling-stones-1936",
       "title": "Rolling Stones (1936)",
       "description": "Rolling Stones is a Terrytoons cartoon directed by Mannie Davis, George Gordon, Frank Moser. Watch on RetroFlix:  https://retroflix.org/rolling-stones-1936/",
       "fileSize": 33980759,
-      "id": "rolling-stones-1936"
+      "addedAt": "2026-01-07T00:10:40.949Z",
+      "thumbnail": "https://archive.org/services/img/rolling-stones-1936",
+      "language": "eng",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 61
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0161338",
-      "title": "The Busy Bee",
-      "year": 1936,
-      "imdbRating": 4.3,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149808",
-      "title": "A Battle Royal",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149981",
-      "title": "A Bully Frog",
-      "year": 1936,
-      "imdbRating": 4.2,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153214",
-      "title": "A Tough Egg",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153627",
-      "title": "A Waif's Welcome",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162048",
-      "title": "A Wolf in Cheap Clothing",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149634",
-      "title": "Alpine Yodeler",
-      "year": 1936,
-      "imdbRating": 4.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149712",
-      "title": "An Arrow Escape",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149796",
-      "title": "Barnyard Amateurs",
-      "year": 1936,
-      "imdbRating": 4.2,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150074",
-      "title": "Cats in a Bag",
-      "year": 1936,
-      "imdbRating": 4.3,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150514",
-      "title": "Farmer Al Falfa's 20th Anniversary",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150517",
-      "title": "Farmer Al Falfa's Prize Package",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0161338",
+    "tt0149808",
+    "tt0149981",
+    "tt0153214",
+    "tt0153627",
+    "tt0162048",
+    "tt0149634",
+    "tt0149712",
+    "tt0149796",
+    "tt0150074",
+    "tt0150514",
+    "tt0150517"
   ],
   "collections": [
     {

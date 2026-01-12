@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-finlandia",
+      "id": "silent-finlandia",
       "title": "Finlandia",
       "fileSize": 3780786300,
-      "id": "silent-finlandia"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-finlandia",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 467
     }
   ],
   "metadata": {
@@ -26,107 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013257",
-      "title": "Häxan",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 18391,
-      "language": "Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13166260",
-      "title": "Fiestas de Centenario 1822 - 1922 Cima de la Libertad",
-      "year": 1922,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013427",
-      "title": "Nanook of the North",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 14039,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229789",
-      "title": "A Trip to Paramountown",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0294857",
-      "title": "La préparation du sérum antidiphtérique à l'institut Pasteur à Bruxelles",
-      "year": 1922,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1029374",
-      "title": "Seeing Stars",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1764657",
-      "title": "The Great White Silence",
-      "year": 1922,
-      "imdbRating": 7.9,
-      "imdbVotes": 1797,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131468",
-      "title": "Manhatta",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1693,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0306032",
-      "title": "Rudolph Valentino and His 88 American Beauties",
-      "year": 1923,
-      "imdbRating": 5.2,
-      "imdbVotes": 61,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0263823",
-      "title": "Ostende, reine des plages",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988738",
-      "title": "Sunshine Gatherers",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 22,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0013257",
+    "tt13166260",
+    "tt0013427",
+    "tt0229789",
+    "tt0294857",
+    "tt1029374",
+    "tt1764657",
+    "tt0131468",
+    "tt0306032",
+    "tt0988639",
+    "tt0263823",
+    "tt0988738"
   ],
   "collections": [],
   "is_curated": true,

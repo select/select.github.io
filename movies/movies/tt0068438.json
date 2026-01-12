@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CURSEOFTHEHEADLESSHORSEMAN_201511",
+      "id": "CURSEOFTHEHEADLESSHORSEMAN_201511",
       "title": "CURSE OF THE HEADLESS HORSEMAN",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 906770982,
-      "id": "CURSEOFTHEHEADLESSHORSEMAN_201511"
+      "addedAt": "2026-01-07T00:06:14.041Z",
+      "thumbnail": "https://archive.org/services/img/CURSEOFTHEHEADLESSHORSEMAN_201511",
+      "collection": "feature_films",
+      "downloads": 10300
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0068658",
-      "title": "Grave of the Vampire",
-      "year": 1972,
-      "imdbRating": 5,
-      "imdbVotes": 1639,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068713",
-      "title": "Horror Express",
-      "year": 1972,
-      "imdbRating": 6.5,
-      "imdbVotes": 13285,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068370",
-      "title": "Children Shouldn't Play with Dead Things",
-      "year": 1972,
-      "imdbRating": 5.3,
-      "imdbVotes": 5302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072937",
-      "title": "Encounter with the Unknown",
-      "year": 1972,
-      "imdbRating": 4.7,
-      "imdbVotes": 721,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068967",
-      "title": "Moon of the Wolf",
-      "year": 1972,
-      "imdbRating": 5.1,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068615",
-      "title": "Frogs",
-      "year": 1972,
-      "imdbRating": 4.4,
-      "imdbVotes": 8258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0124012",
-      "title": "Morgiana",
-      "year": 1972,
-      "imdbRating": 7.2,
-      "imdbVotes": 1659,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066871",
-      "title": "Burke & Hare",
-      "year": 1972,
-      "imdbRating": 5.3,
-      "imdbVotes": 581,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0069426",
-      "title": "The Twilight People",
-      "year": 1972,
-      "imdbRating": 4.1,
-      "imdbVotes": 754,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0070698",
-      "title": "Sisters",
-      "year": 1972,
-      "imdbRating": 6.9,
-      "imdbVotes": 22356,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069341",
-      "title": "Tales from the Crypt",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 13808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069510",
-      "title": "The Woman Hunter",
-      "year": 1972,
-      "imdbRating": 4.7,
-      "imdbVotes": 297,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0068658",
+    "tt0068713",
+    "tt0068370",
+    "tt0072937",
+    "tt0068967",
+    "tt0068615",
+    "tt0124012",
+    "tt0066871",
+    "tt0069426",
+    "tt0070698",
+    "tt0069341",
+    "tt0069510"
   ],
   "collections": [],
   "is_curated": true,

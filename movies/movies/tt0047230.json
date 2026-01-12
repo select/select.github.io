@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fighting_men",
+      "id": "fighting_men",
       "title": "Fighting Men",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5130845420,
-      "id": "fighting_men"
+      "addedAt": "2026-01-07T00:08:24.394Z",
+      "thumbnail": "https://archive.org/services/img/fighting_men",
+      "year": 1953,
+      "collection": "feature_films",
+      "downloads": 53779
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046816",
-      "title": "The Caine Mutiny",
-      "year": 1954,
-      "imdbRating": 7.7,
-      "imdbVotes": 31131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047463",
-      "title": "The Sea Shall Not Have Them",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 763,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047162",
-      "title": "The Last Time I Saw Paris",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 4616,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046746",
-      "title": "The Bamboo Prison",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 267,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047376",
-      "title": "The Purple Plain",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 2524,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043590",
-      "title": "Go for Broke!",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 1952,
-      "language": "English, Japanese, Italian, Hawaiian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045844",
-      "title": "Guerrilla Girl",
-      "year": 1953,
-      "imdbRating": 4.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046029",
-      "title": "Malta Story",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 1982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048413",
-      "title": "Napoleon",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 615,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046478",
-      "title": "Ugetsu",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 27766,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048818",
-      "title": "Yellowneck",
-      "year": 1955,
-      "imdbRating": 4.4,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045487",
-      "title": "Break to Freedom",
-      "year": 1953,
-      "imdbRating": 6.6,
-      "imdbVotes": 465,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    }
+    "tt0046816",
+    "tt0047463",
+    "tt0047162",
+    "tt0046746",
+    "tt0047376",
+    "tt0043590",
+    "tt0045844",
+    "tt0046029",
+    "tt0048413",
+    "tt0046478",
+    "tt0048818",
+    "tt0045487"
   ],
   "collections": [],
   "is_curated": true,

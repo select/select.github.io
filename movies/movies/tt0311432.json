@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Legend_of_Marilyn_Monroe",
+      "id": "The_Legend_of_Marilyn_Monroe",
       "title": "The Legend of Marilyn Monroe",
       "description": "\"The Legend of Marilyn Monroe\" examines Marilyn through an investigation of her private live. From her turbulent childhood when her mother vanished beyond the dark wall of mental illness, through her short stays at various orphanages and foster homes to her marriage at sixteen to James Dougherty. Relive Marilyn's first exposure during World War II as a calendar girl for the war effort, one of her first performances in Ladies of the Chorus, and acting debut in \"Asphalt Jungle\", then into the limelight as a glamorous Hollywood superstar: \"The Legend of Marilyn Monroe\", lifts the veil of intrigue and depicts the essence of the legendary Norma Jean Baker we grew to love as Marilyn Monroe.",
       "fileSize": 1531153762,
-      "id": "The_Legend_of_Marilyn_Monroe"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Legend_of_Marilyn_Monroe",
+      "year": 1964,
+      "collection": "feature_films",
+      "downloads": 112129
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059529",
-      "title": "Triumph Over Violence",
-      "year": 1965,
-      "imdbRating": 8.1,
-      "imdbVotes": 2137,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0310597",
-      "title": "Ahmad Shamlou: Master Poet of Liberty",
-      "year": 1999,
-      "imdbRating": 7.7,
-      "imdbVotes": 82,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1475191",
-      "title": "American Radical: The Trials of Norman Finkelstein",
-      "year": 2009,
-      "imdbRating": 7.8,
-      "imdbVotes": 833,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247304",
-      "title": "Dr. Todt - Berufung und Werk",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3123418",
-      "title": "Bizarre: A Circus Story",
-      "year": 2016,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7188868",
-      "title": "Diana: In Her Own Words",
-      "year": 2017,
-      "imdbRating": 7.8,
-      "imdbVotes": 4008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9316022",
-      "title": "Struggle: The Life and Lost Art of Szukalski",
-      "year": 2018,
-      "imdbRating": 7.9,
-      "imdbVotes": 4682,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066759",
-      "title": "The American West of John Ford",
-      "year": 1971,
-      "imdbRating": 7.1,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0499562",
-      "title": "The Secret Life of Adolf Hitler",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7295854",
-      "title": "Væbnet med ord & vinger",
-      "year": 2018,
-      "imdbRating": 7.1,
-      "imdbVotes": 53,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1185616",
-      "title": "Waltz with Bashir",
-      "year": 2008,
-      "imdbRating": 8,
-      "imdbVotes": 61713,
-      "language": "Hebrew, Arabic, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8020616",
-      "title": "Buster Keaton, the Genius Destroyed by Hollywood",
-      "year": 2016,
-      "imdbRating": 7.2,
-      "imdbVotes": 228,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt0059529",
+    "tt0310597",
+    "tt1475191",
+    "tt0247304",
+    "tt3123418",
+    "tt7188868",
+    "tt9316022",
+    "tt0066759",
+    "tt0499562",
+    "tt7295854",
+    "tt1185616",
+    "tt8020616"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/why-play-leap-frog-1950",
+      "id": "why-play-leap-frog-1950",
       "title": "Why Play Leap Frog (1950)",
       "description": "Cold War-era cartoon aimed at convincing workers that increased productivity brings about greater purchasing power. Watch on RetroFlix:  https://retroflix.org/why-play-leap-frog-1950/",
       "fileSize": 60862971,
-      "id": "why-play-leap-frog-1950"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/why-play-leap-frog-1950",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 60
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt6021616",
-      "title": "Going Places",
-      "year": 1948,
-      "imdbRating": 7.8,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10284276",
-      "title": "A Few Quick Facts: USS Iowa/Brain/Shoes",
-      "year": 1944,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150145",
-      "title": "The Cleaning Day",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150360",
-      "title": "The Dog and the Bone",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161672",
-      "title": "The Homeless Pup",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151524",
-      "title": "Meet King Joe",
-      "year": 1949,
-      "imdbRating": 6.2,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148463",
-      "title": "A Merry Chase",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149591",
-      "title": "Aesop's Fable: Foiling the Fox",
-      "year": 1950,
-      "imdbRating": 5.5,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149621",
-      "title": "All This and Rabbit Stew",
-      "year": 1950,
-      "imdbRating": 4.6,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149683",
-      "title": "Anti-Cats",
-      "year": 1950,
-      "imdbRating": 4.3,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149829",
-      "title": "Beauty on the Beach",
-      "year": 1950,
-      "imdbRating": 7.5,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt6021616",
+    "tt10284276",
+    "tt0150145",
+    "tt0150360",
+    "tt0161672",
+    "tt0151524",
+    "tt14091630",
+    "tt0148463",
+    "tt0149591",
+    "tt0149621",
+    "tt0149683",
+    "tt0149829"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/two-man-submarine",
+      "id": "two-man-submarine",
       "title": "Two Man Submarine",
       "description": "Two-Man Submarine Bruce Bennett",
       "fileSize": 1042118066,
-      "id": "two-man-submarine"
+      "addedAt": "2026-01-07T00:12:55.131Z",
+      "thumbnail": "https://archive.org/services/img/two-man-submarine",
+      "collection": "feature_films",
+      "downloads": 443
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037701",
-      "title": "First Yank Into Tokyo",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035378",
-      "title": "Stand by All Networks",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037253",
-      "title": "Secret Command",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 361,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036449",
-      "title": "Tonight We Raid Calais",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037622",
-      "title": "Crime, Inc.",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040078",
-      "title": "Adventures of Gallant Bess",
-      "year": 1948,
-      "imdbRating": 5.2,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041100",
-      "title": "Air Hostess",
-      "year": 1949,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044371",
-      "title": "Arctic Flight",
-      "year": 1952,
-      "imdbRating": 5.4,
-      "imdbVotes": 162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031177",
-      "title": "Conspiracy",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 198,
-      "language": "English, Esperanto",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037446",
-      "title": "Waterfront",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 291,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0033399",
-      "title": "Blonde Comet",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 112,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    }
+    "tt0037701",
+    "tt0034572",
+    "tt0035378",
+    "tt0037253",
+    "tt0036449",
+    "tt0037622",
+    "tt0040078",
+    "tt0041100",
+    "tt0044371",
+    "tt0031177",
+    "tt0037446",
+    "tt0033399"
   ],
   "collections": [],
   "is_curated": true,

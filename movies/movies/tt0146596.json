@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/custard-pies-1929",
+      "id": "custard-pies-1929",
       "title": "Custard Pies (1929)",
       "description": "Animals take on human characteristics in this good-natured comedy. Watch on RetroFlix:  https://retroflix.org/custard-pies-1929/",
       "fileSize": 51737039,
-      "id": "custard-pies-1929"
+      "addedAt": "2026-01-07T00:07:51.627Z",
+      "thumbnail": "https://archive.org/services/img/custard-pies-1929",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 41
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/custard-pies_1929",
+      "id": "custard-pies_1929",
       "title": "Custard Pies",
       "fileSize": 940726329,
-      "id": "custard-pies_1929"
+      "addedAt": "2026-01-07T00:07:51.627Z",
+      "thumbnail": "https://archive.org/services/img/custard-pies_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 116
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0146913",
-      "title": "House Cleaning Time",
-      "year": 1929,
-      "imdbRating": 4.5,
-      "imdbVotes": 32,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0402854",
-      "title": "The Black Duck",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146849",
-      "title": "Happy Go Luckies",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146423",
-      "title": "Alpine Antics",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150513",
-      "title": "Farm Relief",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019014",
-      "title": "Homeless Homer",
-      "year": 1929,
-      "imdbRating": 4.1,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0142419",
-      "title": "Jungle Jingles",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136324",
-      "title": "Ko-Ko's Harem Scarem",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146975",
-      "title": "Land o' Cotton",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141664",
-      "title": "Noah's Lark",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147193",
-      "title": "Presto-Chango",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1058754",
-      "title": "Sick Cylinders",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 36,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt0146913",
+    "tt0402854",
+    "tt0146849",
+    "tt0146423",
+    "tt0150513",
+    "tt0019014",
+    "tt0142419",
+    "tt0136324",
+    "tt0146975",
+    "tt0141664",
+    "tt0147193",
+    "tt1058754"
   ],
   "collections": [
     {

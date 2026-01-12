@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-boy-friend_1928",
+      "id": "the-boy-friend_1928",
       "title": "The Boy Friend",
       "fileSize": 2220974951,
-      "id": "the-boy-friend_1928"
+      "addedAt": "2026-01-07T00:11:57.681Z",
+      "thumbnail": "https://archive.org/services/img/the-boy-friend_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 312
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018881",
-      "title": "Feed 'em and Weep",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 60,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208994",
-      "title": "Going Ga-Ga",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019253",
-      "title": "Pass the Gravy",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017634",
-      "title": "Anything Once!",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174101",
-      "title": "A Pair of Tights",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 151,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017729",
-      "title": "Call of the Cuckoo",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 674,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130629",
-      "title": "Don't Tell Everything",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130802",
-      "title": "Jewish Prudence",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018881",
+    "tt0208994",
+    "tt0019253",
+    "tt0017634",
+    "tt0174101",
+    "tt0017729",
+    "tt0130629",
+    "tt0130802",
+    "tt1893190",
+    "tt0018628",
+    "tt0018721",
+    "tt1131583"
   ],
   "collections": [],
   "is_curated": true,

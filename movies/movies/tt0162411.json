@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/IsadoraDuncan",
+      "id": "IsadoraDuncan",
       "title": "Isadora Duncan",
       "description": "Isadora Duncan Vanessa Redgrave Sparks 'The Loves of Isadora': Karel Reisz's Picture By VINCENT CANBY, nytimes.com Published: April 28, 1969 Karel Reisz' biographical portrait of Isadora Duncan stars Vanessa Redgrave as the famed modern dancer, who gained notoriety for her revolutionary performances and public romantic life.",
       "fileSize": 17947420,
-      "id": "IsadoraDuncan"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/IsadoraDuncan",
+      "collection": "feature_films",
+      "downloads": 1425
     }
   ],
   "metadata": {
@@ -27,110 +31,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0201829",
-      "title": "Parlons grand-mère",
-      "year": 1989,
-      "imdbRating": 7.1,
-      "imdbVotes": 24,
-      "language": "Wolof",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173731",
-      "title": "Christmas at Home",
-      "year": 1990,
-      "imdbRating": 8.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0104312",
-      "title": "Fútbol argentino",
-      "year": 1990,
-      "imdbRating": 8,
-      "imdbVotes": 41,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0376917",
-      "title": "Tejedoras de Ñanduti",
-      "year": 1988,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6658312",
-      "title": "The Making of 'Der Todesking'",
-      "year": 1991,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0800129",
-      "title": "Marvin Gaye",
-      "year": 1987,
-      "imdbRating": 7.6,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2116884",
-      "title": "Focus on Wildlife",
-      "year": 1986,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0106944",
-      "title": "Forbidden Love: The Unashamed Stories of Lesbian Lives",
-      "year": 1992,
-      "imdbRating": 7.4,
-      "imdbVotes": 324,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091134",
-      "title": "Gombrowicz, o la seducción (Representado por sus discípulos)",
-      "year": 1986,
-      "imdbRating": 7.5,
-      "imdbVotes": 11,
-      "language": "Spanish, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0268602",
-      "title": "AFI Life Achievement Award: A Tribute to Gene Kelly",
-      "year": 1985,
-      "imdbRating": 7,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0438487",
-      "title": "Teotihuacán: El misterio del templo del hombre jaguar en Tetitla",
-      "year": 1993,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0247568",
-      "title": "Nazi Concentration and Prison Camps",
-      "year": 1945,
-      "imdbRating": 8.3,
-      "imdbVotes": 1690,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0201829",
+    "tt0173731",
+    "tt0104312",
+    "tt0376917",
+    "tt6658312",
+    "tt0800129",
+    "tt2116884",
+    "tt0106944",
+    "tt0091134",
+    "tt0268602",
+    "tt0438487",
+    "tt0247568"
   ],
   "collections": [],
   "is_curated": true,

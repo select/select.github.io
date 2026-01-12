@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/laila_1929",
+      "id": "laila_1929",
       "title": "Laila",
       "fileSize": 16323636139,
-      "id": "laila_1929"
+      "addedAt": "2026-01-07T00:09:38.887Z",
+      "thumbnail": "https://archive.org/services/img/laila_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 165
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020514",
-      "title": "The Trespasser",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 1455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019798",
-      "title": "The Dance of Life",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 352,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019758",
-      "title": "Charming Sinners",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019788",
-      "title": "Coquette",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 2351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019852",
-      "title": "Eternal Love",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 606,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019946",
-      "title": "The Great Gabbo",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 1027,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019958",
-      "title": "Half Way to Heaven",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138560",
-      "title": "Korkein voitto",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0019644",
+    "tt0019957",
+    "tt0019979",
+    "tt0020514",
+    "tt0019798",
+    "tt0020602",
+    "tt0019758",
+    "tt0019788",
+    "tt0019852",
+    "tt0019946",
+    "tt0019958",
+    "tt0138560"
   ],
   "collections": [],
   "is_curated": true,

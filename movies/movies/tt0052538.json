@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheWhiteWarrior1961",
+      "id": "TheWhiteWarrior1961",
       "title": "The White Warrior",
       "description": "This is the English dub version. From IMDB: The story of Hadji Murad, a 19th-century Chechen chieftain who led his warriors in a fight against the invading forces of the Russian Czar.",
       "fileSize": 2155557553,
-      "id": "TheWhiteWarrior1961"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/TheWhiteWarrior1961",
+      "language": "English",
+      "year": 1961,
+      "collection": "feature_films",
+      "downloads": 127900
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0052604",
-      "title": "The Giant of Marathon",
-      "year": 1959,
-      "imdbRating": 5.1,
-      "imdbVotes": 1112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052170",
-      "title": "Sea Fury",
-      "year": 1958,
-      "imdbRating": 6,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051702",
-      "title": "Harry Black and the Tiger",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054953",
-      "title": "The Guns of Navarone",
-      "year": 1961,
-      "imdbRating": 7.5,
-      "imdbVotes": 57924,
-      "language": "English, Greek, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050579",
-      "title": "Jungle Heat",
-      "year": 1957,
-      "imdbRating": 5.3,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049357",
-      "title": "Night Ambush",
-      "year": 1957,
-      "imdbRating": 6.5,
-      "imdbVotes": 2008,
-      "language": "English, Greek, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050356",
-      "title": "The Enemy Below",
-      "year": 1957,
-      "imdbRating": 7.4,
-      "imdbVotes": 12604,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050858",
-      "title": "The Pride and the Passion",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 3285,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048983",
-      "title": "Bandido!",
-      "year": 1956,
-      "imdbRating": 6,
-      "imdbVotes": 1217,
-      "language": "English, German, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055323",
-      "title": "Women of Devil's Island",
-      "year": 1962,
-      "imdbRating": 4.2,
-      "imdbVotes": 294,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053861",
-      "title": "The Giants of Thessaly",
-      "year": 1960,
-      "imdbRating": 5.1,
-      "imdbVotes": 395,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178515",
-      "title": "Hercules and the Masked Rider",
-      "year": 1963,
-      "imdbRating": 4.3,
-      "imdbVotes": 188,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0052604",
+    "tt0052170",
+    "tt0051702",
+    "tt0054953",
+    "tt0050579",
+    "tt0049357",
+    "tt0050356",
+    "tt0050858",
+    "tt0048983",
+    "tt0055323",
+    "tt0053861",
+    "tt0178515"
   ],
   "collections": [],
   "is_curated": true,

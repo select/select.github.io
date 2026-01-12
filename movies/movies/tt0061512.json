@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cool-hand-luke",
+      "id": "cool-hand-luke",
       "title": "COOL HAND LUKE",
       "description": "Cool Hand Luke with Paul Newman, 1967. \"Some men you just can't reason with...\"",
       "fileSize": 99883814,
-      "id": "cool-hand-luke"
+      "addedAt": "2026-01-07T00:07:51.625Z",
+      "thumbnail": "https://archive.org/services/img/cool-hand-luke",
+      "year": 1967,
+      "collection": "feature_films",
+      "downloads": 903
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "Won 1 Oscar. 5 wins & 11 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0061882",
-      "title": "Branded to Kill",
-      "year": 1967,
-      "imdbRating": 7.2,
-      "imdbVotes": 10774,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061451",
-      "title": "House of 1,000 Dolls",
-      "year": 1967,
-      "imdbRating": 5,
-      "imdbVotes": 646,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061809",
-      "title": "In Cold Blood",
-      "year": 1967,
-      "imdbRating": 7.9,
-      "imdbVotes": 30068,
-      "language": "English, French, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062009",
-      "title": "Double Suicide: Japanese Summer",
-      "year": 1967,
-      "imdbRating": 6.7,
-      "imdbVotes": 913,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061956",
-      "title": "Maroc 7",
-      "year": 1967,
-      "imdbRating": 5.2,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062038",
-      "title": "The Night of the Generals",
-      "year": 1967,
-      "imdbRating": 7.2,
-      "imdbVotes": 9237,
-      "language": "English, Italian, Spanish, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062207",
-      "title": "Robbery",
-      "year": 1967,
-      "imdbRating": 6.9,
-      "imdbVotes": 2129,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0174685",
-      "title": "Girl in Gold Boots",
-      "year": 1968,
-      "imdbRating": 2.3,
-      "imdbVotes": 4023,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064448",
-      "title": "House of Cards",
-      "year": 1968,
-      "imdbRating": 6,
-      "imdbVotes": 800,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155751",
-      "title": "Humo de Marihuana",
-      "year": 1968,
-      "imdbRating": 5,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063143",
-      "title": "Istanbul Express",
-      "year": 1968,
-      "imdbRating": 5.8,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0280581",
-      "title": "La cómplice",
-      "year": 1966,
-      "imdbRating": 5.4,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0061882",
+    "tt0061451",
+    "tt0061809",
+    "tt0062009",
+    "tt0061956",
+    "tt0062038",
+    "tt0062207",
+    "tt0174685",
+    "tt0064448",
+    "tt0155751",
+    "tt0063143",
+    "tt0280581"
   ],
   "collections": [
     {

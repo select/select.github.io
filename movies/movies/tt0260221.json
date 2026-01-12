@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Narcotics",
+      "id": "Narcotics",
       "title": "Narcotics",
       "description": "film",
       "fileSize": 447418746,
-      "id": "Narcotics"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/Narcotics",
+      "collection": "feature_films",
+      "downloads": 51861
     }
   ],
   "metadata": {
@@ -27,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059936",
-      "title": "Patriotism",
-      "year": 1966,
-      "imdbRating": 7.4,
-      "imdbVotes": 2091,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0313018",
-      "title": "Um Clássico, Dois em Casa, Nenhum Jogo Fora",
-      "year": 1968,
-      "imdbRating": 7.1,
-      "imdbVotes": 26,
-      "language": "Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12658952",
-      "title": "Town of the Times",
-      "year": 1963,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001431",
-      "title": "The Unchanging Sea",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 916,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1419606",
-      "title": "El refrigerador",
-      "year": 2008,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002054",
-      "title": "A Beast at Bay",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001150",
-      "title": "A Child of the Ghetto",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000832",
-      "title": "A Corner in Wheat",
-      "year": 1909,
-      "imdbRating": 6.6,
-      "imdbVotes": 2796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000852",
-      "title": "A Drunkard's Reformation",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0059936",
+    "tt0313018",
+    "tt12658952",
+    "tt0001032",
+    "tt0001265",
+    "tt0001431",
+    "tt0002381",
+    "tt1419606",
+    "tt0002054",
+    "tt0001150",
+    "tt0000832",
+    "tt0000852"
   ],
   "collections": [],
   "is_curated": true,

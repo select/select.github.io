@@ -6,9 +6,18 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nuori-luotsi_1928",
+      "id": "nuori-luotsi_1928",
       "title": "Nuori luotsi",
       "fileSize": 14073729023,
-      "id": "nuori-luotsi_1928"
+      "addedAt": "2026-01-07T00:10:02.900Z",
+      "thumbnail": "https://archive.org/services/img/nuori-luotsi_1928",
+      "language": [
+        "Finnish",
+        "Swedish"
+      ],
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 510
     }
   ],
   "metadata": {
@@ -26,115 +35,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018379",
-      "title": "7th Heaven",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 4348,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017632",
-      "title": "Annie Laurie",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 534,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017735",
-      "title": "Captain Salvation",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017829",
-      "title": "Dress Parade",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017841",
-      "title": "East Side, West Side",
-      "year": 1927,
-      "imdbRating": 7.1,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017998",
-      "title": "Fanny Hawthorne",
-      "year": 1927,
-      "imdbRating": 7.3,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018166",
-      "title": "Mockery",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 578,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018179",
-      "title": "Mr. Wu",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 721,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018218",
-      "title": "Old San Francisco",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018528",
-      "title": "The Unknown",
-      "year": 1927,
-      "imdbRating": 7.7,
-      "imdbVotes": 9487,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0018379",
+    "tt0017632",
+    "tt0017662",
+    "tt0017735",
+    "tt0017829",
+    "tt0017841",
+    "tt0017998",
+    "tt0018166",
+    "tt0018179",
+    "tt0018218",
+    "tt0018528",
+    "tt0018297"
   ],
   "collections": [],
   "is_curated": true,

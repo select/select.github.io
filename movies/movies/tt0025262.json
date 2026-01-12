@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HollywoodMystery",
+      "id": "HollywoodMystery",
       "title": "Hollywood Mystery",
       "description": "This really isn't a mystery. Rather it's a behind the scenes farce about the making of a gangster movie. Directed by R Reeves Eason. Released in 1934. Complete print. a.k.a. \"Hollywood Hoodlum\"",
       "fileSize": 733776427,
-      "id": "HollywoodMystery"
+      "addedAt": "2026-01-07T00:06:25.402Z",
+      "thumbnail": "https://archive.org/services/img/HollywoodMystery",
+      "collection": "feature_films",
+      "downloads": 6693
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028163",
-      "title": "Red River Valley",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036181",
-      "title": "Murder on the Waterfront",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041811",
-      "title": "Rimfire",
-      "year": 1949,
-      "imdbRating": 5.7,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036262",
-      "title": "The Phantom",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 471,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035371",
-      "title": "Spy Ship",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024031",
-      "title": "Forgotten",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024486",
-      "title": "Rainbow Over Broadway",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027184",
-      "title": "Waterfront Lady",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 150,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023520",
-      "title": "A Strange Adventure",
-      "year": 1932,
-      "imdbRating": 5.1,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147467",
-      "title": "Sex Madness",
-      "year": 1934,
-      "imdbRating": 2.9,
-      "imdbVotes": 995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023025",
+    "tt0028163",
+    "tt0036181",
+    "tt0041811",
+    "tt0036262",
+    "tt0035371",
+    "tt0024031",
+    "tt0024486",
+    "tt0027184",
+    "tt0023520",
+    "tt0147467",
+    "tt0025178"
   ],
   "collections": [],
   "is_curated": true,

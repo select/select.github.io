@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-shiralee",
+      "id": "the-shiralee",
       "title": "The Shiralee",
       "description": "When Jim Macauley finds his wife with another man, he takes their young daughter and they hit the road. With a young child as his responsibility, he finds he can't be quite the fancy-free wanderer that he had been.",
       "fileSize": 7856561664,
-      "id": "the-shiralee"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-shiralee",
+      "language": "eng",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 2223
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "Nominated for 2 BAFTA 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051565",
-      "title": "Dunkirk",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 3775,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053321",
-      "title": "Season of Passion",
-      "year": 1959,
-      "imdbRating": 5.9,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052398",
-      "title": "Windom's Way",
-      "year": 1957,
-      "imdbRating": 5.9,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049871",
-      "title": "A Town Like Alice",
-      "year": 1956,
-      "imdbRating": 7.2,
-      "imdbVotes": 1980,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049433",
-      "title": "The Last Man to Hang",
-      "year": 1956,
-      "imdbRating": 5.9,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053140",
-      "title": "Operation Amsterdam",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 913,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050782",
-      "title": "White Nights",
-      "year": 1957,
-      "imdbRating": 7.8,
-      "imdbVotes": 9351,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0050634",
-      "title": "The Cranes Are Flying",
-      "year": 1957,
-      "imdbRating": 8.3,
-      "imdbVotes": 21499,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0050241",
-      "title": "Chain of Evidence",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050083",
-      "title": "12 Angry Men",
-      "year": 1957,
-      "imdbRating": 9,
-      "imdbVotes": 957726,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050097",
-      "title": "Across the Bridge",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 961,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051492",
-      "title": "Count Five and Die",
-      "year": 1957,
-      "imdbRating": 6.5,
-      "imdbVotes": 232,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0051565",
+    "tt0053321",
+    "tt0052398",
+    "tt0049871",
+    "tt0049433",
+    "tt0053140",
+    "tt0050782",
+    "tt0050634",
+    "tt0050241",
+    "tt0050083",
+    "tt0050097",
+    "tt0051492"
   ],
   "collections": [],
   "is_curated": true,

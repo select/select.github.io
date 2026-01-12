@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-symphonie-eines-lebens",
+      "id": "1942-symphonie-eines-lebens",
       "title": "1942 Symphonie Eines Lebens",
       "description": "Film aus dem deutschen dritten Reich von 1942. Symphonie eines Lebens.  U.a mit Henny Porten und Harald Paulsen ",
       "fileSize": 610039326,
-      "id": "1942-symphonie-eines-lebens"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-symphonie-eines-lebens",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 132
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0122396",
-      "title": "Die beiden Schwestern",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035591",
-      "title": "Zwischen Himmel und Erde",
-      "year": 1942,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159504",
-      "title": "Kampfgeschwader Lützow",
-      "year": 1941,
-      "imdbRating": 6.9,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034636",
-      "title": "The Dark Tower",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035622",
-      "title": "Alaska Highway",
-      "year": 1943,
-      "imdbRating": 5,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035614",
-      "title": "Aerial Gunner",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 375,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035608",
-      "title": "Action in the North Atlantic",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 4833,
-      "language": "English, German, Russian, Norwegian, French, Spanish, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035612",
-      "title": "The Adventures of Tartu",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 1095,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035701",
-      "title": "Bullets and Saddles",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035740",
-      "title": "City Without Men",
-      "year": 1943,
-      "imdbRating": 5.2,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035755",
-      "title": "Corregidor",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 326,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0122396",
+    "tt0035591",
+    "tt0159504",
+    "tt0034636",
+    "tt0035622",
+    "tt0035614",
+    "tt0035608",
+    "tt0035612",
+    "tt0035701",
+    "tt0035723",
+    "tt0035740",
+    "tt0035755"
   ],
   "collections": [],
   "is_curated": true,

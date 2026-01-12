@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-water-gipsies",
+      "id": "the-water-gipsies",
       "title": "The Water Gipsies",
       "description": "A.P. Herbert's famous tale about a girl living on a Thames barge, and her love for a local artist.",
       "fileSize": 6068110942,
-      "id": "the-water-gipsies"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-water-gipsies",
+      "language": "eng",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 1403
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025678",
-      "title": "Alexandra",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024989",
-      "title": "The Clairvoyant",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 1252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027131",
-      "title": "Transatlantic Tunnel",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 1009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037058",
-      "title": "Medal for the General",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023469",
-      "title": "The Sign of Four: Sherlock Holmes' Greatest Case",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011907",
-      "title": "The Adventures of Sherlock Holmes",
-      "year": 1921,
-      "imdbRating": 4.3,
-      "imdbVotes": 16,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017998",
-      "title": "Fanny Hawthorne",
-      "year": 1927,
-      "imdbRating": 7.3,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160467",
-      "title": "The Life Story of David Lloyd George",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 102,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256432",
-      "title": "The Third Visitor",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023145",
-      "title": "The Phantom Fiend",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 382,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024157",
-      "title": "I Lived with You",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 239,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025011",
-      "title": "Crimson Romance",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 181,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    }
+    "tt0025678",
+    "tt0024989",
+    "tt0027131",
+    "tt0037058",
+    "tt0023469",
+    "tt0011907",
+    "tt0017998",
+    "tt0160467",
+    "tt0256432",
+    "tt0023145",
+    "tt0024157",
+    "tt0025011"
   ],
   "collections": [],
   "is_curated": true,

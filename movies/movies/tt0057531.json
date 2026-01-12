@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/stolen-hours-1963",
+      "id": "stolen-hours-1963",
       "title": "Stolen Hours (1963) Diane Baker, Susan Hayward",
       "description": "Laura (Susan Hayward) lives a life of socialite life in London's high society. Then comes the shock: a brain tumor. Laura only has a few months left.",
       "fileSize": 645507034,
-      "id": "stolen-hours-1963"
+      "addedAt": "2026-01-07T00:11:35.629Z",
+      "thumbnail": "https://archive.org/services/img/stolen-hours-1963",
+      "language": "eng",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 189
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0071589",
-      "title": "The Gun and the Pulpit",
-      "year": 1974,
-      "imdbRating": 5.7,
-      "imdbVotes": 345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056063",
-      "title": "Hemingway's Adventures of a Young Man",
-      "year": 1962,
-      "imdbRating": 6.3,
-      "imdbVotes": 717,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058620",
-      "title": "Strait-Jacket",
-      "year": 1964,
-      "imdbRating": 6.8,
-      "imdbVotes": 6892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055719",
-      "title": "The 300 Spartans",
-      "year": 1962,
-      "imdbRating": 6.5,
-      "imdbVotes": 7861,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057415",
-      "title": "A Place to Go",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056810",
-      "title": "Act One",
-      "year": 1963,
-      "imdbRating": 6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178515",
-      "title": "Hercules and the Masked Rider",
-      "year": 1963,
-      "imdbRating": 4.3,
-      "imdbVotes": 188,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057062",
-      "title": "Five Minutes to Love",
-      "year": 1963,
-      "imdbRating": 4.4,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057207",
-      "title": "Judex",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 3146,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12658952",
-      "title": "Town of the Times",
-      "year": 1963,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056656",
-      "title": "The Very Edge",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056937",
-      "title": "Cleopatra",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 40253,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0071589",
+    "tt0056063",
+    "tt0058620",
+    "tt0055719",
+    "tt0057415",
+    "tt0056810",
+    "tt0178515",
+    "tt0057062",
+    "tt0057207",
+    "tt12658952",
+    "tt0056656",
+    "tt0056937"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-panorama-from-times-building-new-york",
+      "id": "silent-panorama-from-times-building-new-york",
       "title": "Panorama from Times Building, New York",
       "fileSize": 47133288,
-      "id": "silent-panorama-from-times-building-new-york"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-panorama-from-times-building-new-york",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 375
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000492",
-      "title": "Personal",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 143,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232946",
-      "title": "The Widow and the Only Man",
-      "year": 1904,
-      "imdbRating": 4.3,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445338",
-      "title": "The Dude and the Burglars",
-      "year": 1903,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3369930",
-      "title": "In the Swimming Pool, Palm Beach, Florida",
-      "year": 1905,
-      "imdbRating": 3.9,
-      "imdbVotes": 34,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000524",
-      "title": "New York Subway",
-      "year": 1905,
-      "imdbRating": 5.8,
-      "imdbVotes": 819,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471083",
-      "title": "Audley Range School, Blackburn",
-      "year": 1905,
-      "imdbRating": 5.1,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4386602",
-      "title": "Bacilo",
-      "year": 1905,
-      "imdbRating": 4.5,
-      "imdbVotes": 104,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233479",
-      "title": "Coney Island at Night",
-      "year": 1905,
-      "imdbRating": 6,
-      "imdbVotes": 379,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977212",
-      "title": "Domashna rabota (predilki)",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 196,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471190",
-      "title": "Halifax Catholic Procession",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 78,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6668862",
-      "title": "Le Cake-walk du Nouveau Cirque",
-      "year": 1905,
-      "imdbRating": 4.4,
-      "imdbVotes": 46,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4386704",
-      "title": "Panagur pred crkvata 'Sv. Nedela' vo Bitola",
-      "year": 1905,
-      "imdbRating": 5,
-      "imdbVotes": 102,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000492",
+    "tt0232946",
+    "tt0445338",
+    "tt3369930",
+    "tt0000524",
+    "tt0471083",
+    "tt4386602",
+    "tt0233479",
+    "tt2977212",
+    "tt0471190",
+    "tt6668862",
+    "tt4386704"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mesmerized-1985",
+      "id": "mesmerized-1985",
       "title": "Mesmerized (1985) Jodie Foster, John Lithgow",
       "description": "An orphan (Jodie Foster) weds an older man (John Lithgow) in circa-1900 New Zealand, then finds out he's a miser who spies on her.",
       "fileSize": 260355248,
-      "id": "mesmerized-1985"
+      "addedAt": "2026-01-07T00:09:46.433Z",
+      "thumbnail": "https://archive.org/services/img/mesmerized-1985",
+      "collection": "feature_films",
+      "downloads": 2135
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mesmerized-1985_202401",
+      "id": "mesmerized-1985_202401",
       "title": "Mesmerized (1985)",
       "description": "An orphan weds an older man in circa-1900 New Zealand, then finds out he's a miser who spies on her. Watch on RetroFlix:  https://retroflix.org/mesmerized-1985/",
       "fileSize": 260269735,
-      "id": "mesmerized-1985_202401"
+      "addedAt": "2026-01-07T00:09:46.433Z",
+      "thumbnail": "https://archive.org/services/img/mesmerized-1985_202401",
+      "language": "eng",
+      "year": 1985,
+      "collection": "feature_films",
+      "downloads": 1023
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0088910",
-      "title": "Children of the Night",
-      "year": 1985,
-      "imdbRating": 5.3,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088683",
-      "title": "Agnes of God",
-      "year": 1985,
-      "imdbRating": 6.6,
-      "imdbVotes": 8241,
-      "language": "English, French, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091251",
-      "title": "Come and See",
-      "year": 1985,
-      "imdbRating": 8.3,
-      "imdbVotes": 119291,
-      "language": "Russian, Belarusian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0311144",
-      "title": "Flores robadas en los jardines de Quilmes",
-      "year": 1985,
-      "imdbRating": 5.3,
-      "imdbVotes": 30,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0089269",
-      "title": "Hellhole",
-      "year": 1985,
-      "imdbRating": 5,
-      "imdbVotes": 1194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186908",
-      "title": "La búsqueda",
-      "year": 1985,
-      "imdbRating": 5.8,
-      "imdbVotes": 155,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087187",
-      "title": "Los días de junio",
-      "year": 1985,
-      "imdbRating": 6.2,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0353784",
-      "title": "Narco terror",
-      "year": 1985,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0090006",
-      "title": "Shaker Run",
-      "year": 1985,
-      "imdbRating": 5.5,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298055",
-      "title": "Masacre en el río Tula",
-      "year": 1985,
-      "imdbRating": 6.1,
-      "imdbVotes": 45,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0190157",
-      "title": "You Killed Me First",
-      "year": 1985,
-      "imdbRating": 5.8,
-      "imdbVotes": 437,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0341358",
-      "title": "Jangnam",
-      "year": 1985,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "Korean",
-      "sourceType": "youtube",
-      "channelName": "Korean Classic Film"
-    }
+    "tt0088910",
+    "tt0088683",
+    "tt0091251",
+    "tt0311144",
+    "tt0089269",
+    "tt0186908",
+    "tt0087187",
+    "tt0353784",
+    "tt0090006",
+    "tt0298055",
+    "tt0190157",
+    "tt0341358"
   ],
   "collections": [],
   "is_curated": true,

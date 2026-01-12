@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_9641",
+      "id": "dipwad2_zoho_9641",
       "title": "964",
       "description": "964",
       "fileSize": 13340674377,
-      "id": "dipwad2_zoho_9641"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_9641",
+      "collection": "feature_films",
+      "downloads": 3352
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0235245",
-      "title": "Brain Twisters",
-      "year": 1991,
-      "imdbRating": 3.5,
-      "imdbVotes": 554,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0099582",
-      "title": "Flatliners",
-      "year": 1990,
-      "imdbRating": 6.6,
-      "imdbVotes": 97199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0097874",
-      "title": "Metamorphosis",
-      "year": 1990,
-      "imdbRating": 4,
-      "imdbVotes": 1119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0108339",
-      "title": "Ticks",
-      "year": 1993,
-      "imdbRating": 5.5,
-      "imdbVotes": 6192,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0121694",
-      "title": "Robo Vampire",
-      "year": 1988,
-      "imdbRating": 3.4,
-      "imdbVotes": 1547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092610",
-      "title": "Bad Taste",
-      "year": 1987,
-      "imdbRating": 6.5,
-      "imdbVotes": 50526,
-      "language": "English, Maori",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4191640",
-      "title": "Die weibliche Kampfmaschine",
-      "year": 1987,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0115006",
-      "title": "Xtro 3: Watch the Skies",
-      "year": 1995,
-      "imdbRating": 3.6,
-      "imdbVotes": 1435,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0070222",
-      "title": "Invasion of the Bee Girls",
-      "year": 1973,
-      "imdbRating": 4.9,
-      "imdbVotes": 3464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047149",
-      "title": "Killers from Space",
-      "year": 1954,
-      "imdbRating": 3.5,
-      "imdbVotes": 2632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0343449",
-      "title": "The Bone Snatcher",
-      "year": 2003,
-      "imdbRating": 4.4,
-      "imdbVotes": 2967,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    }
+    "tt0235245",
+    "tt0099582",
+    "tt0097874",
+    "tt0108339",
+    "tt0121694",
+    "tt0092610",
+    "tt4191640",
+    "tt0115006",
+    "tt0070222",
+    "tt0047149",
+    "tt0053337",
+    "tt0343449"
   ],
   "collections": [],
   "is_curated": true,

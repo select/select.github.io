@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sabotagemovie",
+      "id": "sabotagemovie",
       "title": "Sabotage",
       "description": "A Scotland Yard undercover detective is on the trail of a saboteur who is part of a plot to set off a bomb in London. But when the detective's cover is blown, the plot begins to unravel. You can find out more about this movie on its IMDB page .",
       "fileSize": 2012037868,
-      "id": "sabotagemovie"
+      "addedAt": "2026-01-07T00:10:40.951Z",
+      "thumbnail": "https://archive.org/services/img/sabotagemovie",
+      "collection": "feature_films",
+      "downloads": 37924
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SabotageImageQualityUpgrade",
+      "id": "SabotageImageQualityUpgrade",
       "title": "SABOTAGE image quality upgrade",
       "description": "This print is much sharper and cleaner than the existing IA copies. Another outstanding suspense thriller from Hitchcock's British years. If it isn't as popular as \"The 39 Steps\" or \"The Lady Vanishes,\" it's probably because it's mounted on a smaller scale than those well-known classics. It also has a plot element some audiences found disturbing. Based on Joseph Conrad's novel, \"The Secret Agent.\" Directed by Alfred Hitchcock. UK release 1936. US release 1937. a.k.a. \"I Married a Murderer,\" \"A Woman Alone\" and \"The Hidden Power\" Complete print. CAST NOTE: Sylvia Sidney is billed as Sylvia Sydney. Oskar Homolka is billed as Oscar Homolka. NOTE: \"The 39 Steps\" and \"The Lady Vanishes\" are also available here at IA.",
       "fileSize": 1052630298,
-      "id": "SabotageImageQualityUpgrade"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/SabotageImageQualityUpgrade",
+      "collection": "feature_films",
+      "downloads": 16954
     }
   ],
   "metadata": {
@@ -35,122 +43,18 @@
     "Awards": "2 wins & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3390572",
-      "title": "Haider",
-      "year": 2014,
-      "imdbRating": 8,
-      "imdbVotes": 58694,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2893780",
-      "title": "Convict",
-      "year": 2014,
-      "imdbRating": 5.5,
-      "imdbVotes": 1823,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3213078",
-      "title": "Palmdale",
-      "year": 2014,
-      "imdbRating": 5.6,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2112277",
-      "title": "Swelter",
-      "year": 2014,
-      "imdbRating": 4.5,
-      "imdbVotes": 3541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2650986",
-      "title": "Northwest",
-      "year": 2013,
-      "imdbRating": 6.8,
-      "imdbVotes": 4359,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4025514",
-      "title": "Suburra",
-      "year": 2015,
-      "imdbRating": 7.4,
-      "imdbVotes": 22430,
-      "language": "Italian, Romany, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2119552",
-      "title": "The Shifting",
-      "year": 2013,
-      "imdbRating": 6.4,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2717558",
-      "title": "On the Job",
-      "year": 2013,
-      "imdbRating": 6.9,
-      "imdbVotes": 3388,
-      "language": "Filipino",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0817545",
-      "title": "The Power of Few",
-      "year": 2013,
-      "imdbRating": 5.1,
-      "imdbVotes": 4305,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2497808",
-      "title": "Ambushed",
-      "year": 2013,
-      "imdbRating": 3.8,
-      "imdbVotes": 1778,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1893195",
-      "title": "A.C.A.B. - All Cops Are Bastards",
-      "year": 2012,
-      "imdbRating": 6.6,
-      "imdbVotes": 8514,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2175098",
-      "title": "Recognize",
-      "year": 2012,
-      "imdbRating": 3.5,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt3390572",
+    "tt2893780",
+    "tt3213078",
+    "tt2112277",
+    "tt2650986",
+    "tt4025514",
+    "tt2119552",
+    "tt2717558",
+    "tt0817545",
+    "tt2497808",
+    "tt1893195",
+    "tt2175098"
   ],
   "collections": [],
   "is_curated": true,

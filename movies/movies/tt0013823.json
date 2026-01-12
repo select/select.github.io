@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AlicesWonderland",
+      "id": "AlicesWonderland",
       "title": "Alice's Wonderland",
       "description": "Alice's Wonderland (1923), from the series Laugh-O-Grams. View movies and cartoons on youtube @ PDFREETV View trailers on youtube @ The Trailer Archive",
       "fileSize": 329623412,
-      "id": "AlicesWonderland"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AlicesWonderland",
+      "collection": "feature_films",
+      "downloads": 158387
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alices-wonderland-1923_202501",
+      "id": "alices-wonderland-1923_202501",
       "title": "Alice's Wonderland (1923)",
       "description": "Instead of Wonderland, Alice visits the Walt Disney animation room. Watch on RetroFlix:  https://retroflix.org/alices-wonderland-1923/",
       "fileSize": 230073346,
-      "id": "alices-wonderland-1923_202501"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/alices-wonderland-1923_202501",
+      "language": "eng",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 170
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-alices-wonderland",
+      "id": "silent-alices-wonderland",
       "title": "Alice's Wonderland",
       "fileSize": 183481272,
-      "id": "silent-alices-wonderland"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-alices-wonderland",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 2107
     }
   ],
   "metadata": {
@@ -42,114 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014659",
-      "title": "Alice and the Dog Catcher",
-      "year": 1924,
-      "imdbRating": 4.9,
-      "imdbVotes": 220,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014663",
-      "title": "Alice's Fishy Story",
-      "year": 1924,
-      "imdbRating": 4.6,
-      "imdbVotes": 179,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014660",
-      "title": "Alice and the Three Bears",
-      "year": 1924,
-      "imdbRating": 4.8,
-      "imdbVotes": 232,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014656",
-      "title": "Alice Gets in Dutch",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 268,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014661",
-      "title": "Alice the Peacemaker",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 91,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014662",
-      "title": "Alice's Day at Sea",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 282,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014665",
-      "title": "Alice's Wild West Show",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015551",
-      "title": "Alice Cans the Cannibals",
-      "year": 1925,
-      "imdbRating": 4.4,
-      "imdbVotes": 152,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015553",
-      "title": "Alice Gets Stung",
-      "year": 1925,
-      "imdbRating": 4.9,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015560",
-      "title": "Alice in the Jungle",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015562",
-      "title": "Alice the Toreador",
-      "year": 1925,
-      "imdbRating": 5.3,
-      "imdbVotes": 203,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    }
+    "tt0014659",
+    "tt0014663",
+    "tt0014664",
+    "tt0014660",
+    "tt0014656",
+    "tt0014661",
+    "tt0014662",
+    "tt0014665",
+    "tt0015551",
+    "tt0015553",
+    "tt0015560",
+    "tt0015562"
   ],
   "collections": [
     {

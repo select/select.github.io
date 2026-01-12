@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1941-heimkehr-paula-wessely-attila-horbiger-carl-raddatz-otto-wernicke",
+      "id": "1941-heimkehr-paula-wessely-attila-horbiger-carl-raddatz-otto-wernicke",
       "title": "1941 Heimkehr ( Paula Wessely, Attila Hörbiger, Carl Raddatz, Otto Wernicke)",
       "description": "Film aus dem deutschen dritten Reich von 1941. Heimkehr.  U.a mit Paula Wessely und Attila Hörbiger ",
       "fileSize": 2312250219,
-      "id": "1941-heimkehr-paula-wessely-attila-horbiger-carl-raddatz-otto-wernicke"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1941-heimkehr-paula-wessely-attila-horbiger-carl-raddatz-otto-wernicke",
+      "language": "ger",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 306
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1941-Heimkehr",
+      "id": "1941-Heimkehr",
       "title": "1941 - Heimkehr (1h 28m, 640x480)",
       "description": "1941 - Heimkehr (1h 28m, 640x480)",
       "fileSize": 1609988451,
-      "id": "1941-Heimkehr"
+      "addedAt": "2026-01-07T00:06:03.994Z",
+      "thumbnail": "https://archive.org/services/img/1941-Heimkehr",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 45631
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "1 win & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0240026",
-      "title": "Späte Liebe",
-      "year": 1943,
-      "imdbRating": 7.2,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150900",
-      "title": "Das Herz muß schweigen",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030154",
-      "title": "Frau Sixta",
-      "year": 1938,
-      "imdbRating": 7.5,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028220",
-      "title": "Savoy-Hotel 217",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 67,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034385",
-      "title": "Wetterleuchten um Barbara",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031628",
-      "title": "Maria Ilona",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032165",
-      "title": "Zwischen Strom und Steppe",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031338",
-      "title": "Frau im Strom",
-      "year": 1939,
-      "imdbRating": 8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220485",
-      "title": "Germanin - Die Geschichte einer kolonialen Tat",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 35,
-      "language": "French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034012",
-      "title": "Penny Serenade",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 8233,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033871",
-      "title": "A Man Betrayed",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0240026",
+    "tt0150900",
+    "tt0030154",
+    "tt0028220",
+    "tt0034385",
+    "tt0031628",
+    "tt0032165",
+    "tt0031338",
+    "tt0220485",
+    "tt0033891",
+    "tt0034012",
+    "tt0033871"
   ],
   "collections": [],
   "is_curated": true,

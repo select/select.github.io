@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/in-the-shadow-of-the-caravan",
+      "id": "in-the-shadow-of-the-caravan",
       "title": "In the Shadow of the Caravans",
       "description": "This documentary explores life in Afghanistan, months ahead of the Soviet invasion in 1979. Licensed by Cinecontact.",
       "fileSize": 193252686,
-      "id": "in-the-shadow-of-the-caravan"
+      "addedAt": "2026-01-07T00:08:54.187Z",
+      "thumbnail": "https://archive.org/services/img/in-the-shadow-of-the-caravan",
+      "language": "eng",
+      "year": 1979,
+      "collection": "feature_films",
+      "downloads": 536
     }
   ],
   "metadata": {
@@ -26,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0079020",
-      "title": "Que Viva Mexico",
-      "year": 1979,
-      "imdbRating": 7.4,
-      "imdbVotes": 1912,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt7320904",
-      "title": "Eddie and Lutz",
-      "year": 1979,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194880",
-      "title": "La fiesta de todos",
-      "year": 1979,
-      "imdbRating": 3.3,
-      "imdbVotes": 96,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079704",
-      "title": "Paul Robeson: Tribute to an Artist",
-      "year": 1979,
-      "imdbRating": 7.5,
-      "imdbVotes": 521,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1002443",
-      "title": "Day of the Killer Tornadoes",
-      "year": 1978,
-      "imdbRating": 8.1,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080741",
-      "title": "Fist of Fear, Touch of Death",
-      "year": 1980,
-      "imdbRating": 2.4,
-      "imdbVotes": 1284,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13689842",
-      "title": "Raging Bull (1980)",
-      "year": 1980,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0163354",
-      "title": "Roger Corman: Hollywood's Wild Angel",
-      "year": 1978,
-      "imdbRating": 6.7,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt1816593",
-      "title": "Mr. Lincoln's Springfield",
-      "year": 1977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076826",
-      "title": "To See Such Fun",
-      "year": 1977,
-      "imdbRating": 7.3,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14825238",
-      "title": "Lion of the Desert (1981)",
-      "year": 1981,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0949880",
-      "title": "The KGB Connections",
-      "year": 1981,
-      "imdbRating": 7.8,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0079020",
+    "tt7320904",
+    "tt0194880",
+    "tt0079704",
+    "tt1002443",
+    "tt0080741",
+    "tt13689842",
+    "tt0163354",
+    "tt1816593",
+    "tt0076826",
+    "tt14825238",
+    "tt0949880"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-germanin-die-geschichte-einer-kolonialen-tat-luis-trenker-lotte-koch-peter-petersen",
+      "id": "1942-germanin-die-geschichte-einer-kolonialen-tat-luis-trenker-lotte-koch-peter-petersen",
       "title": "1942 Germanin Die Geschichte Einer Kolonialen Tat ( Luis Trenker, Lotte Koch, Peter Petersen)",
       "description": "Film aus dem deutschen dritten Reich von 1942. Germanin - Die Geschichte einer kolonialen Tat. u.a mit Luis Trenker und Lotte Koch ",
       "fileSize": 1175713038,
-      "id": "1942-germanin-die-geschichte-einer-kolonialen-tat-luis-trenker-lotte-koch-peter-petersen"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-germanin-die-geschichte-einer-kolonialen-tat-luis-trenker-lotte-koch-peter-petersen",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 154
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-Germanin",
+      "id": "1942-Germanin",
       "title": "1942 - Germanin - Die Geschichte einer kolonialen Tat (1h 26m, 448x336)",
       "description": "1942 - Germanin - Die Geschichte einer kolonialen Tat (1h 26m, 448x336)",
       "fileSize": 1576100171,
-      "id": "1942-Germanin"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1942-Germanin",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 24505
     }
   ],
   "metadata": {
@@ -35,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033271",
-      "title": "Der Fuchs von Glenarvon",
-      "year": 1940,
-      "imdbRating": 6.7,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033702",
-      "title": "Heimkehr",
-      "year": 1941,
-      "imdbRating": 3.4,
-      "imdbVotes": 124,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034636",
-      "title": "The Dark Tower",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035622",
-      "title": "Alaska Highway",
-      "year": 1943,
-      "imdbRating": 5,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035614",
-      "title": "Aerial Gunner",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 375,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035608",
-      "title": "Action in the North Atlantic",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 4833,
-      "language": "English, German, Russian, Norwegian, French, Spanish, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035612",
-      "title": "The Adventures of Tartu",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 1095,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035701",
-      "title": "Bullets and Saddles",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035740",
-      "title": "City Without Men",
-      "year": 1943,
-      "imdbRating": 5.2,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035755",
-      "title": "Corregidor",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 326,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035784",
-      "title": "Dead Men Walk",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 1713,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033271",
+    "tt0033702",
+    "tt0034636",
+    "tt0035622",
+    "tt0035614",
+    "tt0035608",
+    "tt0035612",
+    "tt0035701",
+    "tt0035723",
+    "tt0035740",
+    "tt0035755",
+    "tt0035784"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PaymentOnDemand",
+      "id": "PaymentOnDemand",
       "title": "Payment on Demand",
       "description": "tr",
       "fileSize": 20185019,
-      "id": "PaymentOnDemand"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PaymentOnDemand",
+      "collection": "feature_films",
+      "downloads": 2071
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044364",
-      "title": "Another Man's Poison",
-      "year": 1951,
-      "imdbRating": 6.8,
-      "imdbVotes": 3699,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043390",
-      "title": "Cause for Alarm!",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 2709,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027347",
-      "title": "The Beloved Vagabond",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018588",
-      "title": "Three Loves",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 285,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041694",
-      "title": "No Man of Her Own",
-      "year": 1950,
-      "imdbRating": 7.4,
-      "imdbVotes": 2967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042192",
-      "title": "All About Eve",
-      "year": 1950,
-      "imdbRating": 8.2,
-      "imdbVotes": 145739,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045029",
-      "title": "Phone Call from a Stranger",
-      "year": 1952,
-      "imdbRating": 7,
-      "imdbVotes": 3125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045932",
-      "title": "Jeopardy",
-      "year": 1953,
-      "imdbRating": 6.7,
-      "imdbVotes": 2431,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043885",
-      "title": "Only the Valiant",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 1891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043362",
-      "title": "The Browning Version",
-      "year": 1951,
-      "imdbRating": 8,
-      "imdbVotes": 5576,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043938",
-      "title": "The Prowler",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 4414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043332",
-      "title": "Bellissima",
-      "year": 1951,
-      "imdbRating": 7.7,
-      "imdbVotes": 5518,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0044364",
+    "tt0043390",
+    "tt0027347",
+    "tt0018588",
+    "tt0041694",
+    "tt0042192",
+    "tt0045029",
+    "tt0045932",
+    "tt0043885",
+    "tt0043362",
+    "tt0043938",
+    "tt0043332"
   ],
   "collections": [],
   "is_curated": true,

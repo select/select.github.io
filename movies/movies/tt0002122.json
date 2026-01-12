@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-cry-of-the-children",
+      "id": "silent-the-cry-of-the-children",
       "title": "The Cry of the Children",
       "fileSize": 362241556,
-      "id": "silent-the-cry-of-the-children"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-cry-of-the-children",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 366
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002143",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 893,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367144",
-      "title": "The Tiniest of Stars",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002504",
-      "title": "The Star of Bethlehem",
-      "year": 1912,
-      "imdbRating": 4.9,
-      "imdbVotes": 60,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001545",
-      "title": "Cinderella",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 149,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002851",
-      "title": "Fatty Joins the Force",
-      "year": 1913,
-      "imdbRating": 5.4,
-      "imdbVotes": 437,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464694",
-      "title": "Tannhäuser",
-      "year": 1913,
-      "imdbRating": 5.2,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003961",
-      "title": "A Film Johnnie",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 1796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004091",
-      "title": "His Favorite Pastime",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 1253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003969",
-      "title": "A Flirt's Mistake",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 255,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0344506",
-      "title": "The Two Roses",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002143",
+    "tt0367144",
+    "tt0002504",
+    "tt0002784",
+    "tt0001545",
+    "tt0002851",
+    "tt0464694",
+    "tt0463594",
+    "tt0003961",
+    "tt0004091",
+    "tt0003969",
+    "tt0344506"
   ],
   "collections": [],
   "is_curated": true,

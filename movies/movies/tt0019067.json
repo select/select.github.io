@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-lady-of-chance_1928",
+      "id": "a-lady-of-chance_1928",
       "title": "A Lady of Chance",
       "fileSize": 4022614545,
-      "id": "a-lady-of-chance_1928"
+      "addedAt": "2026-01-07T00:07:18.438Z",
+      "thumbnail": "https://archive.org/services/img/a-lady-of-chance_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 685
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020143",
-      "title": "Marianne",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 1281,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019109",
-      "title": "Lonesome",
-      "year": 1928,
-      "imdbRating": 7.7,
-      "imdbVotes": 2694,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020425",
-      "title": "So This Is College",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139686",
-      "title": "Une femme a passé",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 91,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020988",
-      "title": "Hot Curves",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018471",
-      "title": "Tell It to the Marines",
-      "year": 1926,
-      "imdbRating": 7.1,
-      "imdbVotes": 1677,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028102",
-      "title": "Piccadilly Jim",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018836",
-      "title": "The Divine Woman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021649",
-      "title": "Behind Office Doors",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 556,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0020143",
+    "tt0019109",
+    "tt0019258",
+    "tt0018297",
+    "tt0020425",
+    "tt0139686",
+    "tt0020988",
+    "tt0018471",
+    "tt0028102",
+    "tt0018836",
+    "tt0021649",
+    "tt0016548"
   ],
   "collections": [],
   "is_curated": true,

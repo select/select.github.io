@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-billy-the-bear-tamer",
+      "id": "silent-billy-the-bear-tamer",
       "title": "Billy the Bear Tamer",
       "fileSize": 930886876,
-      "id": "silent-billy-the-bear-tamer"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-billy-the-bear-tamer",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 256
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003876",
-      "title": "The Egyptian Mummy",
-      "year": 1914,
-      "imdbRating": 5.8,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005812",
-      "title": "A Night in the Show",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 2446,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004936",
-      "title": "The Bank",
-      "year": 1915,
-      "imdbRating": 6.6,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005571",
-      "title": "A Jitney Elopement",
-      "year": 1915,
-      "imdbRating": 5.9,
-      "imdbVotes": 1464,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005810",
-      "title": "A Night Out",
-      "year": 1915,
-      "imdbRating": 5.9,
-      "imdbVotes": 1915,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006309",
-      "title": "A Woman",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 1990,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005044",
-      "title": "By the Sea",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 1967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005489",
-      "title": "His New Job",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 2089,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005309",
-      "title": "Fatty and Mabel at the San Diego Exposition",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005310",
-      "title": "Mabel and Fatty's Married Life",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 312,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005676",
-      "title": "Fatty and Mabel's Simple Life",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005679",
-      "title": "Mabel, Fatty and the Law",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003876",
+    "tt0005812",
+    "tt0004936",
+    "tt0005571",
+    "tt0005810",
+    "tt0006309",
+    "tt0005044",
+    "tt0005489",
+    "tt0005309",
+    "tt0005310",
+    "tt0005676",
+    "tt0005679"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-old-oregon-trail_1928",
+      "id": "the-old-oregon-trail_1928",
       "title": "The Old Oregon Trail",
       "fileSize": 2736539215,
-      "id": "the-old-oregon-trail_1928"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-old-oregon-trail_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 240
     }
   ],
   "metadata": {
@@ -26,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009900",
-      "title": "Back to God's Country",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 967,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011439",
-      "title": "The Mark of Zorro",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 2866,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020500",
-      "title": "Thundering Thompson",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018908",
-      "title": "The Four Feathers",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 352,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020320",
-      "title": "Redskin",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019886",
-      "title": "The Flying Fleet",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017918",
-      "title": "The Gaucho",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 363,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020198",
-      "title": "The Mysterious Island",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 925,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019945",
-      "title": "The Great Divide",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020556",
-      "title": "The Virginian",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 930,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0016804",
-      "title": "Don Juan",
-      "year": 1926,
-      "imdbRating": 7,
-      "imdbVotes": 1007,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0009900",
+    "tt0011439",
+    "tt0020500",
+    "tt0019884",
+    "tt0018908",
+    "tt0020320",
+    "tt0019886",
+    "tt0017918",
+    "tt0020198",
+    "tt0019945",
+    "tt0020556",
+    "tt0016804"
   ],
   "collections": [],
   "is_curated": true,

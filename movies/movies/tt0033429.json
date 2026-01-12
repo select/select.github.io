@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bowery-boy-1940-s",
+      "id": "bowery-boy-1940-s",
       "title": "Bowery Boy (1940)",
       "description": "Dennis O'Keefe Story by Samuel Fuller",
       "fileSize": 891835818,
-      "id": "bowery-boy-1940-s"
+      "addedAt": "2026-01-07T00:07:38.720Z",
+      "thumbnail": "https://archive.org/services/img/bowery-boy-1940-s",
+      "collection": "feature_films",
+      "downloads": 441
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029952",
-      "title": "Bulldog Drummond's Peril",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032790",
-      "title": "Midnight Limited",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033082",
-      "title": "South of Pago Pago",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032690",
-      "title": "The Last Alarm",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032832",
-      "title": "Mysterious Doctor Satan",
-      "year": 1940,
-      "imdbRating": 7.4,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032557",
-      "title": "The Green Archer",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032559",
-      "title": "The Green Hornet Strikes Again!",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 443,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031207",
-      "title": "Daredevils of the Red Circle",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033547",
-      "title": "Double Cross",
-      "year": 1941,
-      "imdbRating": 5.1,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033903",
-      "title": "Men of the Timberland",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034161",
-      "title": "Sea Raiders",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0029952",
+    "tt0032790",
+    "tt0033082",
+    "tt0032690",
+    "tt0032832",
+    "tt0032557",
+    "tt0032559",
+    "tt0033426",
+    "tt0031207",
+    "tt0033547",
+    "tt0033903",
+    "tt0034161"
   ],
   "collections": [],
   "is_curated": true,

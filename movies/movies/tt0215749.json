@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Enchanted_Sedan_Chair",
+      "id": "The_Enchanted_Sedan_Chair",
       "title": "The Enchanted Sedan Chair",
       "description": "The original French title is La Chaise à porteurs enchantée . IMDb Page",
       "fileSize": 77992943,
-      "id": "The_Enchanted_Sedan_Chair"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Enchanted_Sedan_Chair",
+      "language": "English",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 2040
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222731",
-      "title": "The Fugitive Apparitions",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 183,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135122",
-      "title": "The Hilarious Posters",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 1176,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215992",
-      "title": "The Mermaid",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1349,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216016",
-      "title": "The Mysterious Retort",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 720,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135631",
-      "title": "The Untamable Whiskers",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1200,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216419",
-      "title": "The Wonderful Living Fan",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 689,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223755",
-      "title": "The Monster",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 1382,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223291",
-      "title": "The Mystical Flame",
-      "year": 1903,
-      "imdbRating": 5.1,
-      "imdbVotes": 192,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000575",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1907,
-      "imdbRating": 5.7,
-      "imdbVotes": 636,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0215575",
+    "tt0222731",
+    "tt0215664",
+    "tt0135122",
+    "tt0215992",
+    "tt0216016",
+    "tt0135631",
+    "tt0216419",
+    "tt0223755",
+    "tt0223291",
+    "tt0000575",
+    "tt0000465"
   ],
   "collections": [],
   "is_curated": true,

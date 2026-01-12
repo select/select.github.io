@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-little-journeys-in-the-national-forests-of-colorado",
+      "id": "silent-little-journeys-in-the-national-forests-of-colorado",
       "title": "Little Journeys in the National Forests of Colorado",
       "fileSize": 101770519,
-      "id": "silent-little-journeys-in-the-national-forests-of-colorado"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-little-journeys-in-the-national-forests-of-colorado",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 180
     }
   ],
   "metadata": {
@@ -25,104 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0471648",
-      "title": "De-Light: Making an Electric Light Bulb",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182302",
-      "title": "Lights and Shadows in a City of a Million",
-      "year": 1920,
-      "imdbRating": 4.6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1495996",
-      "title": "The Reawakening",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647254",
-      "title": "Trails That Lure",
-      "year": 1920,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131468",
-      "title": "Manhatta",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1693,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988738",
-      "title": "Sunshine Gatherers",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 22,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13166260",
-      "title": "Fiestas de Centenario 1822 - 1922 Cima de la Libertad",
-      "year": 1922,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0940590",
-      "title": "Civilization of the Far East",
-      "year": 1916,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0471648",
+    "tt1182302",
+    "tt1495996",
+    "tt2647254",
+    "tt1515754",
+    "tt0131468",
+    "tt0988639",
+    "tt0988738",
+    "tt13166260",
+    "tt0955263",
+    "tt2647224",
+    "tt0940590"
   ],
   "collections": [],
   "is_curated": true,

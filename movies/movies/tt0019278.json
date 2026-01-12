@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/plane-crazy-1928_202406",
+      "id": "plane-crazy-1928_202406",
       "title": "Plane Crazy (1928)",
       "description": "Inspired by Lindbergh's flight from New York to Paris, Mickey builds a plane to take Minnie for a trip. Watch on RetroFlix:  https://retroflix.org/plane-crazy-1928/",
       "fileSize": 201160906,
-      "id": "plane-crazy-1928_202406"
+      "addedAt": "2026-01-07T00:10:12.701Z",
+      "thumbnail": "https://archive.org/services/img/plane-crazy-1928_202406",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 244
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/plane-crazy_1928",
+      "id": "plane-crazy_1928",
       "title": "Plane Crazy",
       "fileSize": 399350853,
-      "id": "plane-crazy_1928"
+      "addedAt": "2026-01-07T00:10:12.701Z",
+      "thumbnail": "https://archive.org/services/img/plane-crazy_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 3777
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020041",
-      "title": "The Jazz Fool",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020053",
-      "title": "The Karnival Kid",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019227",
-      "title": "Oh What a Knight",
-      "year": 1928,
-      "imdbRating": 6.4,
-      "imdbVotes": 301,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019397",
-      "title": "Sky Scrappers",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019399",
-      "title": "Sleigh Bells",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 36,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020484",
-      "title": "El terrible toreador",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017847",
-      "title": "Empty Socks",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 52,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018212",
-      "title": "The Ocean Hop",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 264,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020445",
-      "title": "Springtime",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 558,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020164",
-      "title": "The Merry Dwarfs",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 492,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0020041",
+    "tt0020053",
+    "tt0018628",
+    "tt0019227",
+    "tt0019397",
+    "tt0019399",
+    "tt0017618",
+    "tt0020484",
+    "tt0017847",
+    "tt0018212",
+    "tt0020445",
+    "tt0020164"
   ],
   "collections": [
     {

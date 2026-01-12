@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ClCiOn_MyLoveForYours",
+      "id": "ClCiOn_MyLoveForYours",
       "title": "Honeymoon in Bali",
       "fileSize": 2368334637,
-      "id": "ClCiOn_MyLoveForYours"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/ClCiOn_MyLoveForYours",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 11296
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/honeymoon-in-bali-1939",
+      "id": "honeymoon-in-bali-1939",
       "title": "Honeymoon in Bali (1939)",
       "description": "Bill Burnett, a resident of Bali, visits New York City, meets and falls in love with Gail Allen, the successful manager of a Fifth Avenue shop, who is determined to remain free and independent. Bill proposes, Gail declines and Bill goes home to Bali. But a young girl, Rosie, and Tony the Window Cleaner, who dispels advice on every floor, soon have Gail thinking maybe she was a bit hasty with her no to Bill's proposal. Ere long she discovers that she does love Bill and can't live without him. She goes down to Bali to give him the good news. He learns that he is soon to marry Noel Van Ness. She goes back to New York City. Watch on RetroFlix:  https://retroflix.org/honeymoon-in-bali-1939/",
       "fileSize": 623326655,
-      "id": "honeymoon-in-bali-1939"
+      "addedAt": "2026-01-07T00:08:46.613Z",
+      "thumbnail": "https://archive.org/services/img/honeymoon-in-bali-1939",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 172
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031611",
-      "title": "Man About Town",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029266",
-      "title": "Mr. Boggs Steps Out",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030820",
-      "title": "Swing Your Lady",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030853",
-      "title": "Thanks for the Memory",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034730",
-      "title": "Fiesta",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 150,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034115",
-      "title": "Road Show",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 540,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033749",
-      "title": "Ice-Capades",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029223",
-      "title": "Meet the Boy Friend",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033174",
-      "title": "Too Many Husbands",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 1725,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031569",
-      "title": "Liebe - streng verboten!",
-      "year": 1939,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0031611",
+    "tt0029266",
+    "tt0030820",
+    "tt0030853",
+    "tt0034730",
+    "tt0028999",
+    "tt0034115",
+    "tt0033749",
+    "tt0029223",
+    "tt0033174",
+    "tt0024808",
+    "tt0031569"
   ],
   "collections": [],
   "is_curated": true,

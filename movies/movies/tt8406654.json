@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/v-4_20251118",
+      "id": "v-4_20251118",
       "title": "El tercer hombre",
       "description": "Cine clásico ",
       "fileSize": 923654978,
-      "id": "v-4_20251118"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/v-4_20251118",
+      "collection": "feature_films",
+      "downloads": 24
     }
   ],
   "metadata": {
@@ -26,120 +30,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9552162",
-      "title": "Kakegurui: The Movie",
-      "year": 2019,
-      "imdbRating": 6.1,
-      "imdbVotes": 818,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4669974",
-      "title": "Foster Boy",
-      "year": 2019,
-      "imdbRating": 6.4,
-      "imdbVotes": 902,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8269120",
-      "title": "Dark Encounter",
-      "year": 2019,
-      "imdbRating": 5.3,
-      "imdbVotes": 4642,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt8106846",
-      "title": "Haxan",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13486266",
-      "title": "Bagged",
-      "year": 2020,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10772662",
-      "title": "The Boy Behind the Door",
-      "year": 2020,
-      "imdbRating": 5.7,
-      "imdbVotes": 6294,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5774450",
-      "title": "Summer of 84",
-      "year": 2018,
-      "imdbRating": 6.7,
-      "imdbVotes": 49977,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6772950",
-      "title": "Truth or Dare",
-      "year": 2018,
-      "imdbRating": 5.2,
-      "imdbVotes": 70087,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt10799214",
-      "title": "Drown the Clown",
-      "year": 2020,
-      "imdbRating": 4.1,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt9378826",
-      "title": "The Droving",
-      "year": 2020,
-      "imdbRating": 5.2,
-      "imdbVotes": 720,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3767278",
-      "title": "Bayou Caviar",
-      "year": 2018,
-      "imdbRating": 4.6,
-      "imdbVotes": 3100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    }
+    "tt9214844",
+    "tt9552162",
+    "tt4669974",
+    "tt8269120",
+    "tt8106846",
+    "tt13486266",
+    "tt10772662",
+    "tt5774450",
+    "tt6772950",
+    "tt10799214",
+    "tt9378826",
+    "tt3767278"
   ],
   "collections": [],
   "is_curated": true,

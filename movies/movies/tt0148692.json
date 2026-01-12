@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Beizai_karnamehsafar",
+      "id": "Beizai_karnamehsafar",
       "title": "Beizai_Karnameh (Safar)",
       "description": "Beizai_Karnameh (Safar)",
       "fileSize": 31231589,
-      "id": "Beizai_karnamehsafar"
+      "addedAt": "2026-01-07T00:06:14.038Z",
+      "thumbnail": "https://archive.org/services/img/Beizai_karnamehsafar",
+      "collection": "feature_films",
+      "downloads": 150
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "2 wins & 2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0194709",
-      "title": "Blum",
-      "year": 1970,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168822",
-      "title": "Gitano",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 46,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064268",
-      "title": "A Nest of Gentry",
-      "year": 1969,
-      "imdbRating": 6.5,
-      "imdbVotes": 354,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0188586",
-      "title": "Embrujo de amor",
-      "year": 1971,
-      "imdbRating": 6.2,
-      "imdbVotes": 33,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334192",
-      "title": "Póker de amantes para tres",
-      "year": 1969,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189091",
-      "title": "Siempre te amaré",
-      "year": 1971,
-      "imdbRating": 4.6,
-      "imdbVotes": 30,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064397",
-      "title": "The Gypsy Moths",
-      "year": 1969,
-      "imdbRating": 6.3,
-      "imdbVotes": 2518,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063518",
-      "title": "Romeo and Juliet",
-      "year": 1968,
-      "imdbRating": 7.6,
-      "imdbVotes": 36409,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0348451",
-      "title": "Yayla kartali",
-      "year": 1968,
-      "imdbRating": 6.5,
-      "imdbVotes": 11,
-      "language": "Turkish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0357962",
-      "title": "Nino",
-      "year": 1972,
-      "imdbRating": 6.3,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068278",
-      "title": "The Bitter Tears of Petra von Kant",
-      "year": 1972,
-      "imdbRating": 7.5,
-      "imdbVotes": 11499,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3311950",
-      "title": "Class of '74",
-      "year": 1972,
-      "imdbRating": 4.9,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0194709",
+    "tt0168822",
+    "tt0064268",
+    "tt0188586",
+    "tt0334192",
+    "tt0189091",
+    "tt0064397",
+    "tt0063518",
+    "tt0348451",
+    "tt0357962",
+    "tt0068278",
+    "tt3311950"
   ],
   "collections": [],
   "is_curated": true,

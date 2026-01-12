@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/long-pants_1927",
+      "id": "long-pants_1927",
       "title": "Long Pants",
       "fileSize": 1956242379,
-      "id": "long-pants_1927"
+      "addedAt": "2026-01-07T00:09:38.892Z",
+      "thumbnail": "https://archive.org/services/img/long-pants_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 1042
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019151",
-      "title": "The Matinee Idol",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 640,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022268",
-      "title": "Platinum Blonde",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3687,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036613",
-      "title": "Arsenic and Old Lace",
-      "year": 1944,
-      "imdbRating": 7.9,
-      "imdbVotes": 77355,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016851",
-      "title": "Fiddlesticks",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 199,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016971",
-      "title": "His First Flame",
-      "year": 1927,
-      "imdbRating": 5.8,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025316",
-      "title": "It Happened One Night",
-      "year": 1934,
-      "imdbRating": 8.1,
-      "imdbVotes": 116995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024240",
-      "title": "Lady for a Day",
-      "year": 1933,
-      "imdbRating": 7.4,
-      "imdbVotes": 4946,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027996",
-      "title": "Mr. Deeds Goes to Town",
-      "year": 1936,
-      "imdbRating": 7.8,
-      "imdbVotes": 23599,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205957",
-      "title": "The Ballad of Fisher's Boarding House",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 198,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019010",
-      "title": "Hollywood Bound",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019290",
-      "title": "The Power of the Press",
-      "year": 1928,
-      "imdbRating": 6.4,
-      "imdbVotes": 300,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0019151",
+    "tt0022268",
+    "tt0033891",
+    "tt0036613",
+    "tt0016851",
+    "tt0016971",
+    "tt0025316",
+    "tt0024240",
+    "tt0027996",
+    "tt0205957",
+    "tt0019010",
+    "tt0019290"
   ],
   "collections": [],
   "is_curated": true,

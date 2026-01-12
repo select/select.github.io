@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NewMexico",
+      "id": "NewMexico",
       "title": "New Mexico",
       "description": "Captain Hunt (Lew Ayres) of the cavalry is trying to promote good relations with the Indian chief Acoma (Ted de Corsia). But Hunt's superiors in the military insist on pursuing policies that will provoke a conflict, and Chief Acoma is not willing to let himself be insulted.",
       "fileSize": 1430352645,
-      "id": "NewMexico"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/NewMexico",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 33466
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=TuEPd1Fjw-c",
+      "id": "TuEPd1Fjw-c",
       "title": "New Mexico (1951) WESTERN",
       "description": "Stars: Lew Ayres, Marilyn Maxwell, Robert Hutton\n Director: Irving Reis\n\n A cavalry captain has great difficulty keeping the peace between his tyrannical colonel and an Indian chief bent on revenge",
-      "id": "TuEPd1Fjw-c",
+      "addedAt": "2025-12-26T23:49:22.313Z",
+      "thumbnail": "https://i.ytimg.com/vi/TuEPd1Fjw-c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLALUyPpU0_p9aFkD_HWlIof5462wQ",
+      "duration": 4177,
+      "language": "en",
+      "year": 1951,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042313",
-      "title": "The Capture",
-      "year": 1950,
-      "imdbRating": 5.9,
-      "imdbVotes": 680,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043885",
-      "title": "Only the Valiant",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 1891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043829",
-      "title": "My Outlaw Brother",
-      "year": 1951,
-      "imdbRating": 5.2,
-      "imdbVotes": 340,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043895",
-      "title": "The Painted Hills",
-      "year": 1951,
-      "imdbRating": 4.2,
-      "imdbVotes": 1269,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043853",
-      "title": "Night Riders of Montana",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043959",
-      "title": "Rawhide",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 3273,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043962",
-      "title": "Red Mountain",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 688,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043626",
-      "title": "Heart of the Rockies",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0040087",
-      "title": "All My Sons",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 2474,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042232",
-      "title": "Battling Marshal",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044506",
-      "title": "Colorado Sundown",
-      "year": 1952,
-      "imdbRating": 6.2,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042313",
+    "tt0043885",
+    "tt0043829",
+    "tt0043895",
+    "tt0043853",
+    "tt0043959",
+    "tt0043962",
+    "tt0043626",
+    "tt0040087",
+    "tt0042232",
+    "tt0044506",
+    "tt0042383"
   ],
   "collections": [],
   "is_curated": true,

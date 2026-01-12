@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rusty-knife",
+      "id": "rusty-knife",
       "title": "Rusty Knife",
       "description": "Rusty Knife  was the first smash for director Toshio Masuda, who would go on to become one of Japanese cinema’s major hit makers. In the film, Yujiro Ishihara and fellow top Nikkatsu star Akira Kobayashi play former hoodlums trying to leave behind a life of crime, but their past comes back to haunt them when the authorities seek them out as murder witnesses.",
       "fileSize": 7407645798,
-      "id": "rusty-knife"
+      "addedAt": "2026-01-07T00:10:40.951Z",
+      "thumbnail": "https://archive.org/services/img/rusty-knife",
+      "language": "jpn",
+      "year": 1958,
+      "collection": "feature_films",
+      "downloads": 4788
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1248984",
-      "title": "I Am Waiting",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 1022,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051489",
-      "title": "Cop Hater",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 600,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051572",
-      "title": "Edge of Fury",
-      "year": 1958,
-      "imdbRating": 6.1,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051959",
-      "title": "Murder by Contract",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 4824,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051987",
-      "title": "Never Love a Stranger",
-      "year": 1958,
-      "imdbRating": 5.4,
-      "imdbVotes": 458,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052050",
-      "title": "Party Girl",
-      "year": 1958,
-      "imdbRating": 7,
-      "imdbVotes": 3821,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051500",
-      "title": "The Cry Baby Killer",
-      "year": 1958,
-      "imdbRating": 5.1,
-      "imdbVotes": 760,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051866",
-      "title": "The Lineup",
-      "year": 1958,
-      "imdbRating": 7.3,
-      "imdbVotes": 4708,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051895",
-      "title": "The Man Who Died Twice",
-      "year": 1958,
-      "imdbRating": 6,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052293",
-      "title": "Thunder Road",
-      "year": 1958,
-      "imdbRating": 6.6,
-      "imdbVotes": 4758,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051783",
-      "title": "Invisible Avenger",
-      "year": 1958,
-      "imdbRating": 5.3,
-      "imdbVotes": 256,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179248",
-      "title": "El jefe",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 120,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt1248984",
+    "tt0051489",
+    "tt0051572",
+    "tt0051959",
+    "tt0051987",
+    "tt0052050",
+    "tt0051500",
+    "tt0051866",
+    "tt0051895",
+    "tt0052293",
+    "tt0051783",
+    "tt0179248"
   ],
   "collections": [],
   "is_curated": true,

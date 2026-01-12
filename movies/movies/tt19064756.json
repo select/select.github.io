@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_811",
+      "id": "rog56_mail_811",
       "title": "811",
       "description": "811",
       "fileSize": 1889372839,
-      "id": "rog56_mail_811"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_811",
+      "collection": "feature_films",
+      "downloads": 2189
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt10368680",
-      "title": "Below the Fold",
-      "year": 2021,
-      "imdbRating": 4.2,
-      "imdbVotes": 330,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10799214",
-      "title": "Drown the Clown",
-      "year": 2020,
-      "imdbRating": 4.1,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt15392282",
-      "title": "Merry Christmas",
-      "year": 2024,
-      "imdbRating": 6.9,
-      "imdbVotes": 29679,
-      "language": "Hindi, Tamil",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt9778348",
-      "title": "The Winter Lake",
-      "year": 2020,
-      "imdbRating": 4.7,
-      "imdbVotes": 1324,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9552162",
-      "title": "Kakegurui: The Movie",
-      "year": 2019,
-      "imdbRating": 6.1,
-      "imdbVotes": 818,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4669974",
-      "title": "Foster Boy",
-      "year": 2019,
-      "imdbRating": 6.4,
-      "imdbVotes": 902,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5909334",
-      "title": "Beyond the Night",
-      "year": 2018,
-      "imdbRating": 5.5,
-      "imdbVotes": 500,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7233106",
-      "title": "The Amaranth",
-      "year": 2018,
-      "imdbRating": 5.5,
-      "imdbVotes": 600,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5761612",
-      "title": "Woman on the Edge",
-      "year": 2018,
-      "imdbRating": 4.1,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0037179",
-      "title": "A Place of One's Own",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053318",
-      "title": "Suddenly, Last Summer",
-      "year": 1959,
-      "imdbRating": 7.5,
-      "imdbVotes": 18282,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt10368680",
+    "tt10799214",
+    "tt15392282",
+    "tt9778348",
+    "tt9214844",
+    "tt9552162",
+    "tt4669974",
+    "tt5909334",
+    "tt7233106",
+    "tt5761612",
+    "tt0037179",
+    "tt0053318"
   ],
   "collections": [],
   "is_curated": true,

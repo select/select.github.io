@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jet-attack-1958",
+      "id": "jet-attack-1958",
       "title": "Jet Attack (1958)",
       "description": "John Agar, Audrey Totter, Gregory Walcott",
       "fileSize": 950151924,
-      "id": "jet-attack-1958"
+      "addedAt": "2026-01-07T00:09:15.996Z",
+      "thumbnail": "https://archive.org/services/img/jet-attack-1958",
+      "collection": "feature_films",
+      "downloads": 835
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0052870",
-      "title": "Guns Girls and Gangsters",
-      "year": 1959,
-      "imdbRating": 6.2,
-      "imdbVotes": 747,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053689",
-      "title": "Cage of Evil",
-      "year": 1960,
-      "imdbRating": 5.5,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051476",
-      "title": "China Doll",
-      "year": 1958,
-      "imdbRating": 6,
-      "imdbVotes": 652,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051454",
-      "title": "Carve Her Name with Pride",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 1924,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053935",
-      "title": "Ice Cold in Alex",
-      "year": 1958,
-      "imdbRating": 7.7,
-      "imdbVotes": 6816,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052151",
-      "title": "Run Silent Run Deep",
-      "year": 1958,
-      "imdbRating": 7.3,
-      "imdbVotes": 13494,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051052",
-      "title": "Tank Battalion",
-      "year": 1958,
-      "imdbRating": 4,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051776",
-      "title": "The Inn of the Sixth Happiness",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 5539,
-      "language": "English, Japanese, Mandarin, Russian, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051978",
-      "title": "The Naked and the Dead",
-      "year": 1958,
-      "imdbRating": 6.4,
-      "imdbVotes": 1871,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052415",
-      "title": "The Young Lions",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 9047,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052294",
-      "title": "Thundering Jets",
-      "year": 1958,
-      "imdbRating": 6.5,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055270",
-      "title": "The Outsider",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 1113,
-      "language": "English, North American Indian",
-      "sourceType": "archive.org"
-    }
+    "tt0052870",
+    "tt0053689",
+    "tt0051476",
+    "tt0051454",
+    "tt0053935",
+    "tt0052151",
+    "tt0051052",
+    "tt0051776",
+    "tt0051978",
+    "tt0052415",
+    "tt0052294",
+    "tt0055270"
   ],
   "collections": [],
   "is_curated": true,

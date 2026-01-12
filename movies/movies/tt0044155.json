@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Two_Dollar_Bettor_movie",
+      "id": "Two_Dollar_Bettor_movie",
       "title": "Two Dollar Bettor",
       "description": "New to betting on the horses, a middle-aged man has good fortune at first and thinks that gambling is a good source of income. Then his luck turns. Finding himself in dire financial straits, he is tempted to take money from the vault of the bank where he works. Currently rated 7.1 at the IMDB ( here ). (The video is interlaced in the MPEG2 file. If viewing with VLC, deinterlace with menu-path Video/Deinterlace/Blend.) You can load the mpeg2 file into DVDAuthorGUI (a free program) and quickly create a DVD to watch on your television.",
       "fileSize": 1935351554,
-      "id": "Two_Dollar_Bettor_movie"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/Two_Dollar_Bettor_movie",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 97968
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=syHpB_-7jRA",
+      "id": "syHpB_-7jRA",
       "title": "Two Dollar Bettor (1951) Marie Windsor | Crime, Drama, Film-Noir | Full Length Movie",
       "description": "I won! I paid! \nAn honest bank employee gets hooked on horse racing, and starts to embezzle bank funds in an attempt to recoup his losses.\n\nDirector: Edward L. Cahn\nWriters: William Raynor, Howard Emmett Rogers \nStars: John Litel, Marie Windsor, Steve Brodie \nGenres: Classics, Crime, Drama, Film-Noir, Thriller \n\n@CultCinemaClassics:\nhttps://www.facebook.com/CultCinemaClassics \nhttps://www.tiktok.com/@cultcinemaclassics\nhttps://www.instagram.com/cultcinemaclassics",
-      "id": "syHpB_-7jRA",
+      "addedAt": "2025-12-27T00:46:48.681Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/syHpB_-7jRA/maxresdefault.webp?v=63b6c458",
+      "duration": 4285,
+      "language": "en",
+      "year": 1951,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042394",
-      "title": "Destination Murder",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 1033,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042412",
-      "title": "Double Deal",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 253,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041986",
-      "title": "Treasure of Monte Cristo",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0044364",
-      "title": "Another Man's Poison",
-      "year": 1951,
-      "imdbRating": 6.8,
-      "imdbVotes": 3699,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043435",
-      "title": "Cry Danger",
-      "year": 1951,
-      "imdbRating": 7.3,
-      "imdbVotes": 3004,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043390",
-      "title": "Cause for Alarm!",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 2709,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043465",
-      "title": "Detective Story",
-      "year": 1951,
-      "imdbRating": 7.5,
-      "imdbVotes": 9898,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043625",
-      "title": "He Ran All the Way",
-      "year": 1951,
-      "imdbRating": 7,
-      "imdbVotes": 3252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043646",
-      "title": "Hollywood Story",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 1060,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043660",
-      "title": "The House on Telegraph Hill",
-      "year": 1951,
-      "imdbRating": 6.9,
-      "imdbVotes": 4025,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043320",
-      "title": "The Basketball Fix",
-      "year": 1951,
-      "imdbRating": 5.4,
-      "imdbVotes": 210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043523",
-      "title": "The Fat Man",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 586,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042394",
+    "tt0042412",
+    "tt0041986",
+    "tt0044364",
+    "tt0043435",
+    "tt0043390",
+    "tt0043465",
+    "tt0043625",
+    "tt0043646",
+    "tt0043660",
+    "tt0043320",
+    "tt0043523"
   ],
   "collections": [],
   "is_curated": true,

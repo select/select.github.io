@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Juggernaut_movie",
+      "id": "Juggernaut_movie",
       "title": "Juggernaut",
       "description": "Needing funds for his research, Boris Karloff is persuaded by a woman to poison her rich husband.",
       "fileSize": 2695939885,
-      "id": "Juggernaut_movie"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/Juggernaut_movie",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 55985
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=jGXsQGG1ThU",
+      "id": "jGXsQGG1ThU",
       "title": "Juggernaut (1936) BORIS KARLOFF",
       "description": "Stars: Boris Karloff, Joan Wyndham and Arthur Margetson\nDirector: Henry Edwards\n\nAn evil doctor and the greedy wife of a rich man plot to poison him so they can get their hands on his money.",
-      "id": "jGXsQGG1ThU",
+      "addedAt": "2025-12-26T23:55:39.730Z",
+      "thumbnail": "https://i.ytimg.com/vi/jGXsQGG1ThU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBngSAApADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDxoAF22c8GyzPWBzraKNpiI3Pfxw",
+      "duration": 3704,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026759",
-      "title": "Phantom Ship",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 1092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026972",
-      "title": "Scrooge",
-      "year": 1935,
-      "imdbRating": 6.4,
-      "imdbVotes": 2667,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027037",
-      "title": "Squibs",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139723",
-      "title": "Vintage Wine",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 63,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029028",
-      "title": "The House of Secrets",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249943",
-      "title": "Schloß Vogelöd",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144191",
-      "title": "A Face in the Fog",
-      "year": 1936,
-      "imdbRating": 4.5,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028776",
-      "title": "Pilot X",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029596",
-      "title": "Special Agent K-7",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026759",
+    "tt0026972",
+    "tt0027037",
+    "tt0139723",
+    "tt0028231",
+    "tt0029028",
+    "tt0027495",
+    "tt0249943",
+    "tt0144191",
+    "tt0027807",
+    "tt0028776",
+    "tt0029596"
   ],
   "collections": [],
   "is_curated": true,

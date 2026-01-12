@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dangerous-to-know",
+      "id": "dangerous-to-know",
       "title": "Dangerous To Know",
       "description": "Dangerous to Know Anna May Wong",
       "fileSize": 1288302481,
-      "id": "dangerous-to-know"
+      "addedAt": "2026-01-07T00:07:51.628Z",
+      "thumbnail": "https://archive.org/services/img/dangerous-to-know",
+      "collection": "feature_films",
+      "downloads": 941
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030322",
-      "title": "King of Alcatraz",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031232",
-      "title": "Disbarred",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033582",
-      "title": "The Face Behind the Mask",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031534",
-      "title": "King of Chinatown",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034959",
-      "title": "Lady Gangster",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 846,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0028136",
-      "title": "The Preview Murder Mystery",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041269",
-      "title": "The Crooked Way",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042618",
-      "title": "Johnny One-Eye",
-      "year": 1950,
-      "imdbRating": 5.5,
-      "imdbVotes": 161,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030981",
-      "title": "Wives Under Suspicion",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 550,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031221",
-      "title": "Death of a Champion",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031497",
-      "title": "Island of Lost Men",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030322",
+    "tt0028770",
+    "tt0031232",
+    "tt0033582",
+    "tt0031534",
+    "tt0034959",
+    "tt0028136",
+    "tt0041269",
+    "tt0042618",
+    "tt0030981",
+    "tt0031221",
+    "tt0031497"
   ],
   "collections": [],
   "is_curated": true,

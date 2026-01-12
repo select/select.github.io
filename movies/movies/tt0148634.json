@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/practice-makes-perfect-1940",
+      "id": "practice-makes-perfect-1940",
       "title": "Practice Makes Perfect (1940)",
       "description": "Scrappy learns to play the piano. Watch on RetroFlix:  https://retroflix.org/practice-makes-perfect-1940/",
       "fileSize": 60068325,
-      "id": "practice-makes-perfect-1940"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/practice-makes-perfect-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 56
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0152299",
-      "title": "School Boy Dreams",
-      "year": 1940,
-      "imdbRating": 4.6,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149626",
-      "title": "All's Well That Ends Well",
-      "year": 1940,
-      "imdbRating": 4.2,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159281",
-      "title": "Billy Mouse's Akwakade",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161403",
-      "title": "Catnip Capers",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150154",
-      "title": "Club Life in the Stone Age",
-      "year": 1940,
-      "imdbRating": 5.3,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150361",
-      "title": "Dog in a Mansion",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150437",
-      "title": "Edgar Runs Again",
-      "year": 1940,
-      "imdbRating": 4.9,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150841",
-      "title": "Hare and the Hounds",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150847",
-      "title": "Harvest Time",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147014",
-      "title": "Love in a Cottage",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148503",
-      "title": "Much Ado About Nothing",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161946",
-      "title": "Rover's Rescue",
-      "year": 1940,
-      "imdbRating": 4,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0152299",
+    "tt0149626",
+    "tt0159281",
+    "tt0161403",
+    "tt0150154",
+    "tt0150361",
+    "tt0150437",
+    "tt0150841",
+    "tt0150847",
+    "tt0147014",
+    "tt0148503",
+    "tt0161946"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/last_of_the_warrens",
+      "id": "last_of_the_warrens",
       "title": "Last of the Warrens",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4282550089,
-      "id": "last_of_the_warrens"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/last_of_the_warrens",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 61559
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=MPPeE1_yr5A",
+      "id": "MPPeE1_yr5A",
       "title": "Last of the Warrens (1936) BOB STEELE",
       "description": "Stars: Bob Steele, Margaret Marquis, Charles King \nDirector: Robert N. Bradbury\n\nTed Warren returns from WW1 to find that everyone thinks he was dead. The culprit is Kent who intercepted his mail, rustled the Warren cattle, took over the Warren ranch, and is now after Ted's girl friend. When Kent's henchmen fail to kill Ted, Kent shoots Ted's father and leaves him for dead. But only wounded, the plan is to have Warren appear as a ghost to get a confession from Kent.",
-      "id": "MPPeE1_yr5A",
+      "addedAt": "2025-12-26T23:49:07.131Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/MPPeE1_yr5A/maxresdefault.webp",
+      "duration": 3173,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027393",
-      "title": "Brand of the Outlaws",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027436",
-      "title": "Cavalry",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028968",
-      "title": "The Gun Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027842",
-      "title": "The Kid Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027873",
-      "title": "The Law Rides",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026052",
-      "title": "Alias John Law",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026114",
-      "title": "Big Calibre",
-      "year": 1935,
-      "imdbRating": 5.6,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026785",
-      "title": "No Man's Range",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026929",
-      "title": "The Rider of the Law",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028324",
-      "title": "Sundown Saunders",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027015",
-      "title": "Smokey Smith",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027128",
-      "title": "Trail of Terror",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027393",
+    "tt0027436",
+    "tt0028968",
+    "tt0027842",
+    "tt0027873",
+    "tt0026052",
+    "tt0026114",
+    "tt0026785",
+    "tt0026929",
+    "tt0028324",
+    "tt0027015",
+    "tt0027128"
   ],
   "collections": [],
   "is_curated": true,

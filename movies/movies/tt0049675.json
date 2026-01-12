@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ride-the-high-iron",
+      "id": "ride-the-high-iron",
       "title": "Ride The High Iron",
       "description": "Ride the High Iron Don Taylor, Sally Forrest, Raymond Burr Columbia Pictures 1956",
       "fileSize": 905084466,
-      "id": "ride-the-high-iron"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/ride-the-high-iron",
+      "collection": "feature_films",
+      "downloads": 1033
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050271",
-      "title": "Crime of Passion",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 3102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049621",
-      "title": "Please Murder Me!",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1693,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047213",
-      "title": "They Were So Young",
-      "year": 1954,
-      "imdbRating": 5.5,
-      "imdbVotes": 220,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0049783",
-      "title": "The Forty-First",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 1690,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0049871",
-      "title": "A Town Like Alice",
-      "year": 1956,
-      "imdbRating": 7.2,
-      "imdbVotes": 1980,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048967",
-      "title": "Autumn Leaves",
-      "year": 1956,
-      "imdbRating": 6.8,
-      "imdbVotes": 3289,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049291",
-      "title": "The Harder They Fall",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 9634,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049406",
-      "title": "The Killing",
-      "year": 1956,
-      "imdbRating": 7.9,
-      "imdbVotes": 102237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049904",
-      "title": "The Unguarded Moment",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049955",
-      "title": "The Wild Party",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050271",
+    "tt0049621",
+    "tt0047213",
+    "tt0049783",
+    "tt0049397",
+    "tt0049871",
+    "tt0048967",
+    "tt0049291",
+    "tt0049340",
+    "tt0049406",
+    "tt0049904",
+    "tt0049955"
   ],
   "collections": [],
   "is_curated": true,

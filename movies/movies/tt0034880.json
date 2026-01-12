@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/I_Live_on_Danger_1942",
+      "id": "I_Live_on_Danger_1942",
       "title": "I Live on Danger",
       "description": "Chester Morris plays a radio reporter.",
       "fileSize": 1236841526,
-      "id": "I_Live_on_Danger_1942"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/I_Live_on_Danger_1942",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 11423
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=0nh0vfYIOkM",
+      "id": "0nh0vfYIOkM",
       "title": "I Live on Danger (1942) CHESTER MORRIS",
       "description": "Stars: Chester Morris, Jean Parker, Elisabeth Risdon\nDirector: Sam White\n\nEddie Nelson is wrongly accused of murder, and journalist Jeff Morrell and Nelson's sister, Susan Richards, fight to prove his innocence!",
-      "id": "0nh0vfYIOkM",
+      "addedAt": "2025-12-26T23:47:37.929Z",
+      "thumbnail": "https://i.ytimg.com/vi/0nh0vfYIOkM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBngSAAqADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBZwJ9GwyikLqcd_1k4BeFstHif6g",
+      "duration": 3924,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036653",
-      "title": "Bluebeard",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 2188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034521",
-      "title": "Black Dragons",
-      "year": 1942,
-      "imdbRating": 4.3,
-      "imdbVotes": 1324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034538",
-      "title": "Bombs Over Burma",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034546",
-      "title": "Bowery at Midnight",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 1219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033856",
-      "title": "Lucky Ghost",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035031",
-      "title": "Man with Two Lives",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 353,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035301",
-      "title": "Secret Mission",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 436,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035452",
-      "title": "Tomorrow We Live",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 263,
-      "language": "German, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034602",
-      "title": "A Close Call for Ellery Queen",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197551",
-      "title": "Historia de crímenes",
-      "year": 1942,
-      "imdbRating": 7.9,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0036653",
+    "tt0034521",
+    "tt0034538",
+    "tt0034546",
+    "tt0034985",
+    "tt0033856",
+    "tt0035031",
+    "tt0035301",
+    "tt0035121",
+    "tt0035452",
+    "tt0034602",
+    "tt0197551"
   ],
   "collections": [],
   "is_curated": true,

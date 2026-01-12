@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/black-sun_202103",
+      "id": "black-sun_202103",
       "title": "Black Sun",
       "description": "You’ve probably never seen anything quite like this manic, oddball, anti–buddy picture about a young, jazz-obsessed Japanese drifter and a black American GI on the lam in Tokyo. The two outsiders become outlaws, and Koreyoshi Kurahara depicts their growing bond as an alternately absurd and tragic culture clash.  Black Sun ( Kuroi taiyo ) features original music by American jazz drummer Max Roach.",
       "fileSize": 7784432495,
-      "id": "black-sun_202103"
+      "addedAt": "2026-01-07T00:07:38.718Z",
+      "thumbnail": "https://archive.org/services/img/black-sun_202103",
+      "language": "jpn",
+      "year": 1964,
+      "collection": "feature_films",
+      "downloads": 3686
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2017464",
-      "title": "Intimidation",
-      "year": 1960,
-      "imdbRating": 7.2,
-      "imdbVotes": 928,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057238",
-      "title": "The Warped Ones",
-      "year": 1960,
-      "imdbRating": 6.9,
-      "imdbVotes": 1079,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058754",
-      "title": "Woman of Straw",
-      "year": 1964,
-      "imdbRating": 6.8,
-      "imdbVotes": 2878,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057207",
-      "title": "Judex",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 3146,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062347",
-      "title": "The Hired Killer",
-      "year": 1966,
-      "imdbRating": 5.9,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0055484",
-      "title": "Strongroom",
-      "year": 1962,
-      "imdbRating": 7.2,
-      "imdbVotes": 655,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1446089",
-      "title": "Cruel Gun Story",
-      "year": 1964,
-      "imdbRating": 7.1,
-      "imdbVotes": 1275,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1248984",
-      "title": "I Am Waiting",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 1022,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054817",
-      "title": "Five Minutes to Live",
-      "year": 1961,
-      "imdbRating": 5.5,
-      "imdbVotes": 1009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054627",
-      "title": "Anatomy of a Psycho",
-      "year": 1961,
-      "imdbRating": 4.1,
-      "imdbVotes": 645,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054687",
-      "title": "Blast of Silence",
-      "year": 1961,
-      "imdbRating": 7.4,
-      "imdbVotes": 6025,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061451",
-      "title": "House of 1,000 Dolls",
-      "year": 1967,
-      "imdbRating": 5,
-      "imdbVotes": 646,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt2017464",
+    "tt0057238",
+    "tt0058754",
+    "tt0057207",
+    "tt0062347",
+    "tt0055484",
+    "tt1446089",
+    "tt1248984",
+    "tt0054817",
+    "tt0054627",
+    "tt0054687",
+    "tt0061451"
   ],
   "collections": [],
   "is_curated": true,

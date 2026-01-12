@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-adventures-of-mark-twain-1944",
+      "id": "the-adventures-of-mark-twain-1944",
       "title": "The Adventures Of Mark Twain (1944) Fredric March · Alexis Smith",
       "description": "The adventurous life story of the great American storyteller, described in detail and without dramatic highlights, but carried by a good leading actor.",
       "fileSize": 4126161243,
-      "id": "the-adventures-of-mark-twain-1944"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-adventures-of-mark-twain-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 197
     }
   ],
   "metadata": {
@@ -27,119 +33,18 @@
     "Awards": "Nominated for 3 Oscars. 3 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037576",
-      "title": "Captain Kidd",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 2181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1659619",
-      "title": "The Odyssey",
-      "year": 2016,
-      "imdbRating": 6.6,
-      "imdbVotes": 6388,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0071411",
-      "title": "Dersu Uzala",
-      "year": 1975,
-      "imdbRating": 8.2,
-      "imdbVotes": 35263,
-      "language": "Russian, Chinese",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0057105",
-      "title": "Caesar the Conqueror",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 287,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041426",
-      "title": "The Great Dan Patch",
-      "year": 1949,
-      "imdbRating": 5.8,
-      "imdbVotes": 269,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123066",
-      "title": "Fangio, el demonio de las pistas",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056172",
-      "title": "Lawrence of Arabia",
-      "year": 1962,
-      "imdbRating": 8.3,
-      "imdbVotes": 334419,
-      "language": "English, Arabic, Turkish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036529",
-      "title": "Ladies Courageous",
-      "year": 1944,
-      "imdbRating": 5.7,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026752",
-      "title": "Mutiny on the Bounty",
-      "year": 1935,
-      "imdbRating": 7.6,
-      "imdbVotes": 25741,
-      "language": "English, Polynesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036878",
-      "title": "The Great Alaskan Mystery",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt2181959",
-      "title": "God Loves Caviar",
-      "year": 2012,
-      "imdbRating": 5.9,
-      "imdbVotes": 3207,
-      "language": "English, Greek, Russian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0844457",
-      "title": "North Face",
-      "year": 2008,
-      "imdbRating": 7.4,
-      "imdbVotes": 16789,
-      "language": "German, Swiss German, French, Italian",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0037576",
+    "tt1659619",
+    "tt0071411",
+    "tt0057105",
+    "tt0041426",
+    "tt0123066",
+    "tt0036529",
+    "tt0026752",
+    "tt0036878",
+    "tt0844457",
+    "tt0054331",
+    "tt0037824"
   ],
   "collections": [],
   "is_curated": true,

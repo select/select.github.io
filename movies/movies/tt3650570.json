@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-trafalgar-square-riot",
+      "id": "silent-trafalgar-square-riot",
       "title": "Trafalgar Square Riot",
       "fileSize": 33532137,
-      "id": "silent-trafalgar-square-riot"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-trafalgar-square-riot",
+      "language": "English",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 505
     }
   ],
   "metadata": {
@@ -25,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0772896",
-      "title": "Die Leibstandarte SS-Adolf Hitler im Einsatz",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470339",
-      "title": "The Haunted Bedroom",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0330942",
-      "title": "The Struggle",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2241043",
-      "title": "Bela Lugosi Hypnotized",
-      "year": 1940,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220288",
-      "title": "15,000 Soldiers Reviewed by the President at Camp Alger May 28",
-      "year": 1898,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0471602",
-      "title": "C-V News: Filming Greed",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366564",
-      "title": "Her Nephews from Labrador",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013919",
-      "title": "Lieutenant Clive Wilson and the Tranby Croft Party Hull",
-      "year": 1902,
-      "imdbRating": 5.2,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013921",
-      "title": "Lord Roberts' Visit to Manchester",
-      "year": 1901,
-      "imdbRating": 5.1,
-      "imdbVotes": 70,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1410251",
-      "title": "On to Washington",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 51,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013937",
-      "title": "Opening of the Drill Hall in Accrington by General Baden-Powell",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0772896",
+    "tt0470339",
+    "tt0463594",
+    "tt0330942",
+    "tt2241043",
+    "tt0220288",
+    "tt0471602",
+    "tt0366564",
+    "tt1013919",
+    "tt1013921",
+    "tt1410251",
+    "tt1013937"
   ],
   "collections": [],
   "is_curated": true,

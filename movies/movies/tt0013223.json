@@ -6,16 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-headless-horseman",
+      "id": "silent-the-headless-horseman",
       "title": "The Headless Horseman",
       "fileSize": 906118163,
-      "id": "silent-the-headless-horseman"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-headless-horseman",
+      "language": "English",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 1133
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=ldiv3AemVX0",
+      "id": "ldiv3AemVX0",
       "title": "The Headless Horseman (1922) Silent | Horror Movie | Classic Film",
       "description": "The village of Sleepy Hollow is getting ready to greet the new school teacher, Ichabod Crane, who is coming from New York. Crane has already heard of the village's legendary ghost, a headless horseman who is said to be searching for the head that he lost in battle. The schoolteacher has barely arrived when he begins to pursue the beautiful young heiress Katrina Van Tassel, angering Abraham Van Brunt, who is courting her. Crane's harsh, small-minded approach to teaching also turns some of the villagers against him. Soon there many who would like to see him leave the village altogether.\n\nDirector: Edward D. Venturini\nWriter: Washington Irving (story \"The Legend of Sleepy Hollow\"), Carl Stearns Clancy\nStars: Will Rogers, Lois Meredith, Ben Hendricks Jr. \nGenres:  Comedy, Drama, Horror",
-      "id": "ldiv3AemVX0",
+      "addedAt": "2025-12-27T00:50:22.589Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/ldiv3AemVX0/maxresdefault.webp?v=607450f9",
+      "duration": 4571,
+      "language": "en",
+      "year": 1922,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -35,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011607",
-      "title": "The Parson's Widow",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 1556,
-      "language": "None, Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013458",
-      "title": "One Exciting Night",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1566938",
-      "title": "Portrait of a Zombie",
-      "year": 2012,
-      "imdbRating": 3.6,
-      "imdbVotes": 405,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt10280220",
-      "title": "Ghost Writer",
-      "year": 2019,
-      "imdbRating": 6.6,
-      "imdbVotes": 603,
-      "language": "Indonesian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4446228",
-      "title": "Astro Loco",
-      "year": 2021,
-      "imdbRating": 4.1,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0205957",
-      "title": "The Ballad of Fisher's Boarding House",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 198,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062957",
-      "title": "Fangs of the Living Dead",
-      "year": 1969,
-      "imdbRating": 4.4,
-      "imdbVotes": 1266,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0010316",
-      "title": "Jubilo",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012255",
-      "title": "The Haunted House",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 3791,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011960",
-      "title": "The Wildcat",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1336,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0011607",
+    "tt0012928",
+    "tt0013458",
+    "tt1566938",
+    "tt10280220",
+    "tt4446228",
+    "tt0205957",
+    "tt0062957",
+    "tt0010316",
+    "tt0012465",
+    "tt0012255",
+    "tt0011960"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-charlatan_1929",
+      "id": "the-charlatan_1929",
       "title": "The Charlatan",
       "fileSize": 2243832117,
-      "id": "the-charlatan_1929"
+      "addedAt": "2026-01-07T00:11:57.682Z",
+      "thumbnail": "https://archive.org/services/img/the-charlatan_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 206
     }
   ],
   "metadata": {
@@ -26,118 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020388",
-      "title": "Seven Keys to Baldpate",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 451,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023333",
-      "title": "The Phantom Express",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021828",
-      "title": "East of Borneo",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020103",
-      "title": "The Locked Door",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020534",
-      "title": "The Unholy Night",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 413,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020255",
-      "title": "Painted Faces",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 93,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt1533114",
-      "title": "White Night",
-      "year": 2009,
-      "imdbRating": 6.5,
-      "imdbVotes": 1516,
-      "language": "Korean",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0035298",
-      "title": "Secret Agent of Japan",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 114,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039815",
-      "title": "Seven Keys to Baldpate",
-      "year": 1947,
-      "imdbRating": 5.9,
-      "imdbVotes": 475,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020146",
-      "title": "The Marriage Playground",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 100,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138560",
-      "title": "Korkein voitto",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020197",
-      "title": "The Mysterious Dr. Fu Manchu",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0020388",
+    "tt0023333",
+    "tt0021828",
+    "tt0020103",
+    "tt0020534",
+    "tt0020255",
+    "tt1533114",
+    "tt0035298",
+    "tt0039815",
+    "tt0020146",
+    "tt0138560",
+    "tt0020197"
   ],
   "collections": [],
   "is_curated": true,

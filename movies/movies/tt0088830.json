@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EternalEvil",
+      "id": "EternalEvil",
       "title": "Eternal Evil",
       "description": "A dissatisfied Montreal director of TV commercials is taught to astrally project himself by a mysterious woman. But soon he finds that he does it against his will when he sleeps, and while he does it, he commits savage acts against those in his life.",
       "fileSize": 2061945364,
-      "id": "EternalEvil"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/EternalEvil",
+      "year": 1985,
+      "collection": "feature_films",
+      "downloads": 33084
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EternalEvil_201511",
+      "id": "EternalEvil_201511",
       "title": "Eternal Evil",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1643991790,
-      "id": "EternalEvil_201511"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/EternalEvil_201511",
+      "collection": "feature_films",
+      "downloads": 2966
     }
   ],
   "metadata": {
@@ -35,120 +44,18 @@
     "Awards": "3 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0082782",
-      "title": "My Bloody Valentine",
-      "year": 1981,
-      "imdbRating": 6.3,
-      "imdbVotes": 26964,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0089269",
-      "title": "Hellhole",
-      "year": 1985,
-      "imdbRating": 5,
-      "imdbVotes": 1194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0269338",
-      "title": "Hot Love",
-      "year": 1985,
-      "imdbRating": 5.4,
-      "imdbVotes": 252,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136735",
-      "title": "Blood Cult",
-      "year": 1985,
-      "imdbRating": 3.4,
-      "imdbVotes": 371,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0089922",
-      "title": "The Ripper",
-      "year": 1985,
-      "imdbRating": 3.7,
-      "imdbVotes": 325,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0090196",
-      "title": "Transylvania 6-5000",
-      "year": 1985,
-      "imdbRating": 5,
-      "imdbVotes": 8783,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0088961",
-      "title": "Creature",
-      "year": 1985,
-      "imdbRating": 4.4,
-      "imdbVotes": 4822,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0090197",
-      "title": "In a Glass Cage",
-      "year": 1986,
-      "imdbRating": 6.7,
-      "imdbVotes": 5376,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0193013",
-      "title": "Black Devil Doll from Hell",
-      "year": 1984,
-      "imdbRating": 3.5,
-      "imdbVotes": 666,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087050",
-      "title": "Children of the Corn",
-      "year": 1984,
-      "imdbRating": 5.6,
-      "imdbVotes": 61879,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092530",
-      "title": "Alien Predator",
-      "year": 1986,
-      "imdbRating": 3.8,
-      "imdbVotes": 1386,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0088392",
-      "title": "What Waits Below",
-      "year": 1984,
-      "imdbRating": 4.7,
-      "imdbVotes": 660,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0082782",
+    "tt0089269",
+    "tt0269338",
+    "tt0136735",
+    "tt0089922",
+    "tt0090196",
+    "tt0088961",
+    "tt0090197",
+    "tt0193013",
+    "tt0087050",
+    "tt0092530",
+    "tt0088392"
   ],
   "collections": [],
   "is_curated": true,

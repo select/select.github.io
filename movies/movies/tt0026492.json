@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hoosier_schoolmaster",
+      "id": "hoosier_schoolmaster",
       "title": "Hoosier Schoolmaster",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4087829810,
-      "id": "hoosier_schoolmaster"
+      "addedAt": "2026-01-07T00:08:46.613Z",
+      "thumbnail": "https://archive.org/services/img/hoosier_schoolmaster",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 45804
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=wsZ6YS1o4oc",
+      "id": "wsZ6YS1o4oc",
       "title": "The Hoosier Schoolmaster (1935) DRAMA",
       "description": "Stars: Norman Foster, Charlotte Henry, Fred Kohler Jr.\nDirector: Lewis D. Collins\n\nA former Union soldier faces an uphill battle when he begins work as a teacher in a small town where many locals still harbor resentment against the \"Damn Yankees.\"",
-      "id": "wsZ6YS1o4oc",
+      "addedAt": "2025-12-26T23:44:08.708Z",
+      "thumbnail": "https://i.ytimg.com/vi/wsZ6YS1o4oc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCljM0V3gPTesl4IZpFlOeX8tn3oA",
+      "duration": 4175,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027028",
-      "title": "The Spanish Cape Mystery",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027544",
-      "title": "Down to the Sea",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025687",
-      "title": "Public Stenographer",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025454",
-      "title": "The Man from Hell",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030140",
-      "title": "Flight Into Nowhere",
-      "year": 1938,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030541",
-      "title": "The Strange Case of Dr. Meade",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026593",
-      "title": "Ladies Crave Excitement",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026360",
-      "title": "The Fire-Trap",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038446",
-      "title": "Danger Woman",
-      "year": 1946,
-      "imdbRating": 5.1,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026668",
-      "title": "Make a Million",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026273",
-      "title": "The Desert Trail",
-      "year": 1935,
-      "imdbRating": 5.2,
-      "imdbVotes": 1060,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027028",
+    "tt0027544",
+    "tt0025687",
+    "tt0027003",
+    "tt0025454",
+    "tt0030140",
+    "tt0030541",
+    "tt0026593",
+    "tt0026360",
+    "tt0038446",
+    "tt0027057",
+    "tt0026668"
   ],
   "collections": [],
   "is_curated": true,

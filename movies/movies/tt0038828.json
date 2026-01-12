@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/passkey-to-danger",
+      "id": "passkey-to-danger",
       "title": "Passkey To Danger",
       "description": "Passkey to Danger Kane Richmond, Stephanie Bachelor, Gerald Mohr Republic Pictures",
       "fileSize": 932683751,
-      "id": "passkey-to-danger"
+      "addedAt": "2026-01-07T00:10:12.696Z",
+      "thumbnail": "https://archive.org/services/img/passkey-to-danger",
+      "collection": "feature_films",
+      "downloads": 704
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/passkey-to-danger-1946-",
+      "id": "passkey-to-danger-1946-",
       "title": "Passkey To Danger (1946)",
       "description": "Kane Richmond Republic Pictures",
       "fileSize": 1259511635,
-      "id": "passkey-to-danger-1946-"
+      "addedAt": "2026-01-07T00:10:12.696Z",
+      "thumbnail": "https://archive.org/services/img/passkey-to-danger-1946-",
+      "collection": "feature_films",
+      "downloads": 735
     }
   ],
   "metadata": {
@@ -35,115 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039194",
-      "title": "Blackmail",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038640",
-      "title": "The Inner Circle",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037693",
-      "title": "The Fatal Witness",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038958",
-      "title": "So Dark the Night",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1443,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037691",
-      "title": "Fallen Angel",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 6860,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039439",
-      "title": "The Guilty",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 816,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037752",
-      "title": "Grissly's Millions",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038110",
-      "title": "The Spider",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0274965",
-      "title": "The Tiger Woman",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037985",
-      "title": "The Phantom of 42nd Street",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040457",
-      "title": "I Love Trouble",
-      "year": 1948,
-      "imdbRating": 6.7,
-      "imdbVotes": 1130,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039194",
+    "tt0038640",
+    "tt0037693",
+    "tt0038958",
+    "tt0037691",
+    "tt0039439",
+    "tt0037752",
+    "tt0038110",
+    "tt0274965",
+    "tt0037985",
+    "tt0037078",
+    "tt0040457"
   ],
   "collections": [],
   "is_curated": true,

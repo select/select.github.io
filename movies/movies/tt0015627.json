@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-black-cyclone",
+      "id": "silent-black-cyclone",
       "title": "Black Cyclone",
       "fileSize": 1110618417,
-      "id": "silent-black-cyclone"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-black-cyclone",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 1566
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015038",
-      "title": "The King of Wild Horses",
-      "year": 1924,
-      "imdbRating": 6.9,
-      "imdbVotes": 47,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018204",
-      "title": "No Man's Law",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040078",
-      "title": "Adventures of Gallant Bess",
-      "year": 1948,
-      "imdbRating": 5.2,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015693",
-      "title": "Cobra",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 793,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033808",
-      "title": "Lady from Louisiana",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032972",
-      "title": "The Ranger and the Lady",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 141,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039152",
-      "title": "Angel and the Badman",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 7236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042286",
-      "title": "Broken Arrow",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 10555,
-      "language": "English, Apache languages",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077327",
-      "title": "China 9, Liberty 37",
-      "year": 1978,
-      "imdbRating": 6.1,
-      "imdbVotes": 1584,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038499",
-      "title": "Duel in the Sun",
-      "year": 1946,
-      "imdbRating": 6.7,
-      "imdbVotes": 10129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186500",
-      "title": "El romance de un gaucho",
-      "year": 1961,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0017463",
+    "tt0015038",
+    "tt0018204",
+    "tt0040078",
+    "tt0015693",
+    "tt0033808",
+    "tt0032972",
+    "tt0039152",
+    "tt0042286",
+    "tt0077327",
+    "tt0038499",
+    "tt0186500"
   ],
   "collections": [],
   "is_curated": true,

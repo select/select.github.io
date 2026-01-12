@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/woman-in-hiding-1950",
+      "id": "woman-in-hiding-1950",
       "title": "Woman In Hiding (1950) Ida Lupino, Stephen Mc Nally, Howard Duff",
       "description": "Woman in Hiding is a 1950 American FILM NOlR crime film directed by Michael Gordon and starring Ida Lupino, Stephen McNally and Howard Duff.   You can find out more about this movie from Wikipedia .  ",
       "fileSize": 894401138,
-      "id": "woman-in-hiding-1950"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/woman-in-hiding-1950",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 6997
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1950-woman-in-hiding-bodas-sangrientas-michael-gordon-vose",
+      "id": "1950-woman-in-hiding-bodas-sangrientas-michael-gordon-vose",
       "title": "1950 - Woman in Hiding - Bodas sangrientas - Michael Gordon - VOSE",
       "description": "For Academic / Educational Use Only",
       "fileSize": 436866753,
-      "id": "1950-woman-in-hiding-bodas-sangrientas-michael-gordon-vose"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1950-woman-in-hiding-bodas-sangrientas-michael-gordon-vose",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 1895
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039973",
-      "title": "The Web",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 1524,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041572",
-      "title": "The Lady Gambles",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1095,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042792",
-      "title": "No Way Out",
-      "year": 1950,
-      "imdbRating": 7.4,
-      "imdbVotes": 6522,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042953",
-      "title": "Shakedown",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 773,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041251",
-      "title": "City Across the River",
-      "year": 1949,
-      "imdbRating": 6.3,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047370",
-      "title": "Private Hell 36",
-      "year": 1954,
-      "imdbRating": 6.7,
-      "imdbVotes": 1952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040636",
-      "title": "The Naked City",
-      "year": 1948,
-      "imdbRating": 7.5,
-      "imdbVotes": 16389,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044417",
-      "title": "Beware, My Lovely",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 2410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044552",
-      "title": "Diplomatic Courier",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 1459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042869",
-      "title": "Quicksand",
-      "year": 1950,
-      "imdbRating": 6.6,
-      "imdbVotes": 2655,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043142",
-      "title": "Woman on the Run",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4980,
-      "language": "English, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0042274",
-      "title": "Borderline",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 1568,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0039973",
+    "tt0041572",
+    "tt0042792",
+    "tt0042953",
+    "tt0041251",
+    "tt0047370",
+    "tt0040636",
+    "tt0044417",
+    "tt0044552",
+    "tt0042869",
+    "tt0043142",
+    "tt0042274"
   ],
   "collections": [],
   "is_curated": true,

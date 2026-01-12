@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-surf-girl",
+      "id": "silent-the-surf-girl",
       "title": "The Surf Girl",
       "fileSize": 326670709,
-      "id": "silent-the-surf-girl"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-surf-girl",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 428
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0279784",
-      "title": "Dora's Dunking Doughnuts",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014967",
-      "title": "The Hansom Cabman",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 125,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015096",
-      "title": "The Luck o' the Foolish",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016851",
-      "title": "Fiddlesticks",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 199,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020152",
-      "title": "Matchmaking Mamma",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014667",
-      "title": "All Night Long",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014882",
-      "title": "Feet of Mud",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018744",
-      "title": "The Campus Vamp",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 156,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017944",
-      "title": "The Golf Nut",
-      "year": 1927,
-      "imdbRating": 5.5,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005443",
-      "title": "A Hash House Fraud",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003863",
-      "title": "Dough and Dynamite",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 1197,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004100",
-      "title": "His Musical Career",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 1171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0279784",
+    "tt0014967",
+    "tt0015096",
+    "tt0016851",
+    "tt0020152",
+    "tt0014667",
+    "tt0014882",
+    "tt0018744",
+    "tt0017944",
+    "tt0005443",
+    "tt0003863",
+    "tt0004100"
   ],
   "collections": [],
   "is_curated": true,

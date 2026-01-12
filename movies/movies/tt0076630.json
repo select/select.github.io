@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Rituals_1977",
+      "id": "Rituals_1977",
       "title": "Rituals",
       "description": "Also known as \"The Creeper\". A low-budget but powerful Canadian/U.S. film starring Hal Holbrook. Five physicians on a fishing trip are dropped off by a pontoon-airplane in the middle of a wilderness, where they soon find themselves stalked by a merciless madman.",
       "fileSize": 1545453553,
-      "id": "Rituals_1977"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/Rituals_1977",
+      "year": 1977,
+      "collection": "feature_films",
+      "downloads": 67147
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Rituals1977",
+      "id": "Rituals1977",
       "title": "Rituals ( 1977) upgrade",
       "description": "Also known as \"The Creeper.\" This higher-quality version includes all of the opening credits, and has a runtime of about 1:36. The other copy in the Archive run around 1:29. Just for fun, i have included an image of an advertisement for the movie. A large file, but half the size of the source material. \"Five doctors go on vacation deep in the Canadian wilderness. After all but one pair of the party's shoes disappear, the remaining shoed camper decides to hike out and go look for help. Soon after he leaves, however, his four companions realizes that something is very wrong when someone leaves a decapitated deer head just outside their camp. Even though they still don't have their shoes, they decide to follow their friend's trail out of the woods, but their path is blocked by someone who doesn't want to see them leave the forest alive.\"",
       "fileSize": 2500942514,
-      "id": "Rituals1977"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/Rituals1977",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 9500
     }
   ],
   "metadata": {
@@ -35,125 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0112747",
-      "title": "Cruel Jaws",
-      "year": 1995,
-      "imdbRating": 3.3,
-      "imdbVotes": 969,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1094162",
-      "title": "AVH: Alien vs. Hunter",
-      "year": 2007,
-      "imdbRating": 1.5,
-      "imdbVotes": 3548,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0221905",
-      "title": "Octopus",
-      "year": 2000,
-      "imdbRating": 3,
-      "imdbVotes": 1864,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0426556",
-      "title": "Raging Sharks",
-      "year": 2005,
-      "imdbRating": 2.6,
-      "imdbVotes": 988,
-      "language": "English, Bulgarian",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0118912",
-      "title": "DNA",
-      "year": 1996,
-      "imdbRating": 3.5,
-      "imdbVotes": 1965,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt21097864",
-      "title": "Python Island",
-      "year": 2022,
-      "imdbRating": 4.1,
-      "imdbVotes": 117,
-      "language": "Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0339236",
-      "title": "Shark Zone",
-      "year": 2003,
-      "imdbRating": 2.7,
-      "imdbVotes": 848,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2306511",
-      "title": "Dark Amazon",
-      "year": 2014,
-      "imdbRating": 4.2,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1183733",
-      "title": "War of the Worlds 2: The Next Wave",
-      "year": 2008,
-      "imdbRating": 2,
-      "imdbVotes": 3992,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4943934",
-      "title": "Martian Land",
-      "year": 2015,
-      "imdbRating": 2.4,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6874406",
-      "title": "Alien Convergence",
-      "year": 2017,
-      "imdbRating": 2.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0112747",
+    "tt1094162",
+    "tt0221905",
+    "tt0426556",
+    "tt0118912",
+    "tt21097864",
+    "tt0339236",
+    "tt2306511",
+    "tt1183733",
+    "tt2130142",
+    "tt4943934",
+    "tt6874406"
   ],
   "collections": [],
   "is_curated": true,

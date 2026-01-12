@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SecretMission",
+      "id": "SecretMission",
       "title": "Secret Mission",
       "description": "“Wartime action, drama, comedy and romance” “A bit less than routine” “Complete twaddle” (IMDB reviews quotes). A far-fetched and haphazard espionage thriller that implied the Germans were so gullible and incompetent they would be easy to defeat. Even as a home front morale booster it must have been hard to swallow in bomb-ravaged London and Coventry. Good cast and production. IMDB rating 5.4. Directed by Harold French. Released in 1942 (UK only). Complete print (PAL transfer). A.K.A. “Secret Service”",
       "fileSize": 1342846876,
-      "id": "SecretMission"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/SecretMission",
+      "collection": "feature_films",
+      "downloads": 14761
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SecretMission4286",
+      "id": "SecretMission4286",
       "title": "Secret Mission",
       "description": "Title: Secret Mission Summary: Three British spies and a French resistance fighter sneak into occupied France to gather information about the German forces for a planned invasion. Directed by: Harold French Actors: Hugh Williams, James Mason, Carla Lehmann Production Company: Excelsior Films Release Date: 5 October 1942 (UK) Aspect Ratio: 1.37 : 1 Three British spies and a French resistance fighter sneak into occupied France to gather information about the German forces for a planned invasion.",
       "fileSize": 724603487,
-      "id": "SecretMission4286"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/SecretMission4286",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 4210
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035494",
-      "title": "Unpublished Story",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040623",
-      "title": "My Brother Jonathan",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034538",
-      "title": "Bombs Over Burma",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045758",
-      "title": "Fear and Desire",
-      "year": 1952,
-      "imdbRating": 5.3,
-      "imdbVotes": 14612,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045844",
-      "title": "Guerrilla Girl",
-      "year": 1953,
-      "imdbRating": 4.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034891",
-      "title": "In Which We Serve",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 6880,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036093",
-      "title": "Lady from Chungking",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035452",
-      "title": "Tomorrow We Live",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 263,
-      "language": "German, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034593",
-      "title": "China Girl",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 662,
-      "language": "English, Mandarin, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0035494",
+    "tt0040623",
+    "tt0034538",
+    "tt0136209",
+    "tt0159476",
+    "tt0045758",
+    "tt0045844",
+    "tt0034891",
+    "tt0036093",
+    "tt0035121",
+    "tt0035452",
+    "tt0034593"
   ],
   "collections": [],
   "is_curated": true,

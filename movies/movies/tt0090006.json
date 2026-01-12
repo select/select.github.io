@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shaker-run",
+      "id": "shaker-run",
       "title": "Shaker Run",
       "description": "A New Zealand government scientist hires a stunt-driving team to transport a lethal virus and keep it out of the hands of her own country's military.",
       "fileSize": 283787216,
-      "id": "shaker-run"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/shaker-run",
+      "collection": "feature_films",
+      "downloads": 1339
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0089269",
-      "title": "Hellhole",
-      "year": 1985,
-      "imdbRating": 5,
-      "imdbVotes": 1194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186908",
-      "title": "La búsqueda",
-      "year": 1985,
-      "imdbRating": 5.8,
-      "imdbVotes": 155,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0353784",
-      "title": "Narco terror",
-      "year": 1985,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298055",
-      "title": "Masacre en el río Tula",
-      "year": 1985,
-      "imdbRating": 6.1,
-      "imdbVotes": 45,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0090311",
-      "title": "What Comes Around",
-      "year": 1985,
-      "imdbRating": 4.9,
-      "imdbVotes": 154,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0089721",
-      "title": "The Detached Mission",
-      "year": 1986,
-      "imdbRating": 5.3,
-      "imdbVotes": 278,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0352599",
-      "title": "Mujeres salvajes",
-      "year": 1984,
-      "imdbRating": 5.5,
-      "imdbVotes": 80,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087258",
-      "title": "Final Justice",
-      "year": 1984,
-      "imdbRating": 2.3,
-      "imdbVotes": 3524,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091166",
-      "title": "Hands of Steel",
-      "year": 1986,
-      "imdbRating": 5.3,
-      "imdbVotes": 2963,
-      "language": "Italian, Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088359",
-      "title": "White Fire",
-      "year": 1984,
-      "imdbRating": 4.7,
-      "imdbVotes": 1045,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091328",
-      "title": "Karma",
-      "year": 1986,
-      "imdbRating": 7.2,
-      "imdbVotes": 2466,
-      "language": "Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0223769",
-      "title": "La muerte cruzó el río Bravo",
-      "year": 1984,
-      "imdbRating": 5.9,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0089269",
+    "tt0186908",
+    "tt0353784",
+    "tt0298055",
+    "tt0090311",
+    "tt0089721",
+    "tt0352599",
+    "tt0087258",
+    "tt0091166",
+    "tt0088359",
+    "tt0091328",
+    "tt0223769"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-rund-um-die-freiheitsstatue",
+      "id": "1942-rund-um-die-freiheitsstatue",
       "title": "1942 Rund Um Die Freiheitsstatue",
       "description": "Film aus dem deutschen dritten Reich von 1942. Filmdokument. Rund um die Freiheitsstatue.. Aufnahmen aus der besten Demoktie aller Zeiten. USA unter Roosevelt..in etwa wie im besten Deutschland aller Zeiten.. Nur ein waschechter Demokrat erfreut sich(oder geilt sich gar auf)an diesen Aufnahmen.. Schrecklich!. Alleine am Ende die Sensationsgeier beim Selbstmord.",
       "fileSize": 697039463,
-      "id": "1942-rund-um-die-freiheitsstatue"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-rund-um-die-freiheitsstatue",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 192
     }
   ],
   "metadata": {
@@ -26,104 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0772896",
-      "title": "Die Leibstandarte SS-Adolf Hitler im Einsatz",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1248947",
-      "title": "Sulle orme di Giacomo Leopardi",
-      "year": 1941,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308046",
-      "title": "Looney Lens: Pas de deux",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 33,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308002",
-      "title": "Looney Lens: Split Skyscrapers",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308008",
-      "title": "Looney Lens: Tenth Avenue, NYC",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013921",
-      "title": "Lord Roberts' Visit to Manchester",
-      "year": 1901,
-      "imdbRating": 5.1,
-      "imdbVotes": 70,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013937",
-      "title": "Opening of the Drill Hall in Accrington by General Baden-Powell",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1315413",
-      "title": "Sprung in den Feind",
-      "year": 1942,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2080409",
-      "title": "Unsere Jungen - Ein Film der nationalpolitschen Erziehungsanstalten",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt13364232",
+    "tt0772896",
+    "tt1248947",
+    "tt3308046",
+    "tt3308002",
+    "tt3308008",
+    "tt1013921",
+    "tt1013937",
+    "tt0034498",
+    "tt1315413",
+    "tt2080409",
+    "tt16899218"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Men_of_San_Quentin_1942",
+      "id": "Men_of_San_Quentin_1942",
       "title": "Men of San Quentin",
       "description": "Corruption and riots plague a prison.",
       "fileSize": 1679077064,
-      "id": "Men_of_San_Quentin_1942"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/Men_of_San_Quentin_1942",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 5534
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=pxk2HJxe33s",
+      "id": "pxk2HJxe33s",
       "title": "Men of San Quentin (1942) ACTION-CRIME",
       "description": "Stars: J. Anthony Hughes, Eleanor Stewart, George Breakston\nDirector: William Beaudine\n\nA crooked deputy warden at San Quentin Penitentiary tries to frame a sergeant of the guards, Jack Holden, for the killing of a guard and a prisoner during a jailbreak.",
-      "id": "pxk2HJxe33s",
+      "addedAt": "2025-12-26T23:54:00.217Z",
+      "thumbnail": "https://i.ytimg.com/vi/pxk2HJxe33s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA3r8GgcDHWpUQ9cC8vYLOleTFOIw",
+      "duration": 4605,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033399",
-      "title": "Blonde Comet",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 112,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033595",
-      "title": "Federal Fugitives",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032690",
-      "title": "The Last Alarm",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037441",
-      "title": "Voodoo Man",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 1282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034637",
-      "title": "The Dawn Express",
-      "year": 1942,
-      "imdbRating": 4.5,
-      "imdbVotes": 234,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033747",
-      "title": "I'll Sell My Life",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034878",
-      "title": "Hurricane Smith",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033535",
-      "title": "Dick Tracy vs. Crime, Inc.",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0038349",
-      "title": "Below the Deadline",
-      "year": 1946,
-      "imdbRating": 5.6,
-      "imdbVotes": 154,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036845",
-      "title": "Gambler's Choice",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037115",
-      "title": "Nabonga",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 656,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033399",
+    "tt0033526",
+    "tt0033595",
+    "tt0032690",
+    "tt0037441",
+    "tt0034637",
+    "tt0033747",
+    "tt0034878",
+    "tt0033535",
+    "tt0038349",
+    "tt0036845",
+    "tt0037115"
   ],
   "collections": [],
   "is_curated": true,

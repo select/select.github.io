@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-son-of-tarzan",
+      "id": "silent-the-son-of-tarzan",
       "title": "The Son of Tarzan",
       "fileSize": 1166226486,
-      "id": "silent-the-son-of-tarzan"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-son-of-tarzan",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 1274
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011387",
-      "title": "The Last of the Mohicans",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1472,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011753",
-      "title": "Terror Island",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012739",
-      "title": "Tangled Trails",
-      "year": 1921,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012752",
-      "title": "The Three Musketeers",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012642",
-      "title": "A Sailor-Made Man",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1285,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010708",
-      "title": "Smashing Barriers",
-      "year": 1919,
-      "imdbRating": 5.7,
-      "imdbVotes": 32,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009682",
-      "title": "Tarzan of the Apes",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 951,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010446",
-      "title": "The Master Mystery",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 159,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013674",
-      "title": "The Three Must-Get-Theres",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 645,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133813",
-      "title": "The Grub Stake",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014321",
-      "title": "North of Hudson Bay",
-      "year": 1923,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130218",
-      "title": "Regeneration",
-      "year": 1923,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0011387",
+    "tt0011753",
+    "tt0012739",
+    "tt0012752",
+    "tt0012642",
+    "tt0010708",
+    "tt0009682",
+    "tt0010446",
+    "tt0013674",
+    "tt0133813",
+    "tt0014321",
+    "tt0130218"
   ],
   "collections": [],
   "is_curated": true,

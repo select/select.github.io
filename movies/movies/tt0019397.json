@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sky-scrappers-1928",
+      "id": "sky-scrappers-1928",
       "title": "Sky Scrappers (1928)",
       "description": "'Sky Scrappers' finds three characters -- Oswald, a Big Pete-style bully and a Minnie-ish female character -- all engaged in knockabout humour on a building site. Watch on RetroFlix:  https://retroflix.org/sky-scrappers-1928/",
       "fileSize": 35152619,
-      "id": "sky-scrappers-1928"
+      "addedAt": "2026-01-07T00:11:24.928Z",
+      "thumbnail": "https://archive.org/services/img/sky-scrappers-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 61
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sky-scrappers_1928",
+      "id": "sky-scrappers_1928",
       "title": "Sky Scrappers",
       "fileSize": 251276265,
-      "id": "sky-scrappers_1928"
+      "addedAt": "2026-01-07T00:11:24.928Z",
+      "thumbnail": "https://archive.org/services/img/sky-scrappers_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 297
     }
   ],
   "metadata": {
@@ -34,113 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019227",
-      "title": "Oh What a Knight",
-      "year": 1928,
-      "imdbRating": 6.4,
-      "imdbVotes": 301,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019399",
-      "title": "Sleigh Bells",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 36,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017847",
-      "title": "Empty Socks",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 52,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018212",
-      "title": "The Ocean Hop",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 264,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020041",
-      "title": "The Jazz Fool",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020053",
-      "title": "The Karnival Kid",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140909",
-      "title": "Comicalamities",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018885",
-      "title": "Fiery Fireman",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018997",
-      "title": "High Up",
-      "year": 1928,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0018628",
+    "tt0019227",
+    "tt0019399",
+    "tt0017618",
+    "tt0017847",
+    "tt0018212",
+    "tt0020041",
+    "tt0020053",
+    "tt0018721",
+    "tt0140909",
+    "tt0018885",
+    "tt0018997"
   ],
   "collections": [
     {

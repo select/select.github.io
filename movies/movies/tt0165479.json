@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-slow-as-lightning",
+      "id": "silent-slow-as-lightning",
       "title": "Slow as Lightning",
       "fileSize": 783247670,
-      "id": "silent-slow-as-lightning"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-slow-as-lightning",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 433
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0133813",
-      "title": "The Grub Stake",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014321",
-      "title": "North of Hudson Bay",
-      "year": 1923,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130218",
-      "title": "Regeneration",
-      "year": 1923,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014447",
-      "title": "Schlagende Wetter",
-      "year": 1923,
-      "imdbRating": 6.5,
-      "imdbVotes": 75,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013607",
-      "title": "Sky High",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133848",
-      "title": "Helen of Troy",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 122,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132960",
-      "title": "Flaming Waters",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016013",
-      "title": "Lazybones",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 561,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016049",
-      "title": "Luch smerti",
-      "year": 1925,
-      "imdbRating": 6,
-      "imdbVotes": 128,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016288",
-      "title": "Riders of the Purple Sage",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 227,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016051",
-      "title": "The Lucky Devil",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0133813",
+    "tt0014321",
+    "tt0130218",
+    "tt0014447",
+    "tt0013607",
+    "tt0133848",
+    "tt0132960",
+    "tt0016641",
+    "tt0016013",
+    "tt0016049",
+    "tt0016288",
+    "tt0016051"
   ],
   "collections": [],
   "is_curated": true,

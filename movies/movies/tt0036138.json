@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1943-ein-mann-mit-grundsatzen-hans-sohnker-ursula-herking-fritz-odemar-ernst-waldow",
+      "id": "1943-ein-mann-mit-grundsatzen-hans-sohnker-ursula-herking-fritz-odemar-ernst-waldow",
       "title": "1943 Ein Mann Mit Grundsätzen ( Hans Söhnker, Ursula Herking, Fritz Odemar, Ernst Waldow)",
       "description": "Film aus dem deutschen dritten Reich von 1943. Ein Mann mit Grundsätzen.  U.a mit Hans Söhnker und Ernst Waldow ",
       "fileSize": 856076630,
-      "id": "1943-ein-mann-mit-grundsatzen-hans-sohnker-ursula-herking-fritz-odemar-ernst-waldow"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1943-ein-mann-mit-grundsatzen-hans-sohnker-ursula-herking-fritz-odemar-ernst-waldow",
+      "language": "ger",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 167
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034839",
-      "title": "Die heimliche Gräfin",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 34,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037249",
-      "title": "Schrammeln",
-      "year": 1944,
-      "imdbRating": 7.4,
-      "imdbVotes": 63,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033002",
-      "title": "Rosen in Tirol",
-      "year": 1940,
-      "imdbRating": 7,
-      "imdbVotes": 82,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035053",
-      "title": "Meine Frau Teresa",
-      "year": 1942,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031763",
-      "title": "Opernball",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 91,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026389",
-      "title": "Frühjahrsparade",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035294",
-      "title": "Schicksal",
-      "year": 1942,
-      "imdbRating": 7.5,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033557",
-      "title": "Dreimal Hochzeit",
-      "year": 1941,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035480",
-      "title": "Two Weeks to Live",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 216,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035758",
-      "title": "Cosmo Jones in the Crime Smasher",
-      "year": 1943,
-      "imdbRating": 4.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035927",
-      "title": "Geliebter Schatz",
-      "year": 1943,
-      "imdbRating": 8.3,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0034839",
+    "tt0037249",
+    "tt0033002",
+    "tt0035053",
+    "tt0031763",
+    "tt0026389",
+    "tt0035294",
+    "tt0033557",
+    "tt0035480",
+    "tt0035758",
+    "tt0035927",
+    "tt0036066"
   ],
   "collections": [],
   "is_curated": true,

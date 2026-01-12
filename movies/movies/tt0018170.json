@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-monkey-talks-1927",
+      "id": "the-monkey-talks-1927",
       "title": "The Monkey Talks (1927)",
       "description": "Olive Borden, Don Alvarado",
       "fileSize": 1145650589,
-      "id": "the-monkey-talks-1927"
+      "addedAt": "2026-01-07T00:12:22.154Z",
+      "thumbnail": "https://archive.org/services/img/the-monkey-talks-1927",
+      "collection": "feature_films",
+      "downloads": 555
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-monkey-talks_1927",
+      "id": "the-monkey-talks_1927",
       "title": "The Monkey Talks",
       "fileSize": 1392117419,
-      "id": "the-monkey-talks_1927"
+      "addedAt": "2026-01-07T00:12:22.154Z",
+      "thumbnail": "https://archive.org/services/img/the-monkey-talks_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 753
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018118",
-      "title": "The Loves of Carmen",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019312",
-      "title": "The Red Dance",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017540",
-      "title": "What Price Glory",
-      "year": 1926,
-      "imdbRating": 6.9,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047860",
-      "title": "Battle Cry",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 2767,
-      "language": "English, Japanese, Navajo",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043469",
-      "title": "Distant Drums",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 2436,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023202",
-      "title": "Me and My Gal",
-      "year": 1932,
-      "imdbRating": 6.6,
-      "imdbVotes": 1442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037954",
-      "title": "Objective, Burma!",
-      "year": 1945,
-      "imdbRating": 7.3,
-      "imdbVotes": 5658,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046286",
-      "title": "Sea Devils",
-      "year": 1953,
-      "imdbRating": 5.6,
-      "imdbVotes": 809,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005960",
-      "title": "The Regeneration",
-      "year": 1915,
-      "imdbRating": 6.8,
-      "imdbVotes": 1464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051978",
-      "title": "The Naked and the Dead",
-      "year": 1958,
-      "imdbRating": 6.4,
-      "imdbVotes": 1871,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049672",
-      "title": "The Revolt of Mamie Stover",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 1062,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048691",
-      "title": "The Tall Men",
-      "year": 1955,
-      "imdbRating": 6.7,
-      "imdbVotes": 3484,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0018118",
+    "tt0019312",
+    "tt0017540",
+    "tt0047860",
+    "tt0043469",
+    "tt0023202",
+    "tt0037954",
+    "tt0046286",
+    "tt0005960",
+    "tt0051978",
+    "tt0049672",
+    "tt0048691"
   ],
   "collections": [],
   "is_curated": true,

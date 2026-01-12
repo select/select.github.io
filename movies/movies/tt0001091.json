@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhatDrinkDid",
+      "id": "WhatDrinkDid",
       "title": "\"What Drink Did\" (1909) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"What Drink Did\" is a short drama. The film is included in our program to illustrate the work of three of our stars: actress Florence Lawrence, actor Arthur V. Johnson and cinematographer Billy Bitzer. Directed by                       D.W. Griffith Cinematography by         Billy Bitzer Starring                             David Miles, Florence Lawrence, Gladys Egan and Adele DeGarde (children), Arthur V. Johnson Distributed by                   Biograph Company Release date                      June 3, 1909 Country                             United States Running time                    12 m. Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 236995524,
-      "id": "WhatDrinkDid"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhatDrinkDid",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 1835
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-what-drink-did",
+      "id": "silent-what-drink-did",
       "title": "What Drink Did",
       "fileSize": 179118688,
-      "id": "silent-what-drink-did"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-what-drink-did",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 446
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000880",
-      "title": "The Girls and Daddy",
-      "year": 1909,
-      "imdbRating": 5.8,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000833",
-      "title": "The Country Doctor",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 749,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000752",
-      "title": "Romance of a Jewess",
-      "year": 1908,
-      "imdbRating": 5.1,
-      "imdbVotes": 138,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001072",
-      "title": "A Trap for Santa Claus",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 409,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000828",
-      "title": "Confidence",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 114,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000942",
-      "title": "The Lonely Villa",
-      "year": 1909,
-      "imdbRating": 6.1,
-      "imdbVotes": 1054,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001016",
-      "title": "Resurrection",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 152,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000821",
-      "title": "The Cardinal's Conspiracy",
-      "year": 1909,
-      "imdbRating": 4.7,
-      "imdbVotes": 125,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000946",
-      "title": "The Lure of the Gown",
-      "year": 1909,
-      "imdbRating": 4.6,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001088",
-      "title": "The Way of Man",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001431",
-      "title": "The Unchanging Sea",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 916,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000764",
-      "title": "The Song of the Shirt",
-      "year": 1908,
-      "imdbRating": 5.7,
-      "imdbVotes": 140,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000880",
+    "tt0000833",
+    "tt0000752",
+    "tt0001072",
+    "tt0000828",
+    "tt0000942",
+    "tt0001016",
+    "tt0000821",
+    "tt0000946",
+    "tt0001088",
+    "tt0001431",
+    "tt0000764"
   ],
   "collections": [],
   "is_curated": true,

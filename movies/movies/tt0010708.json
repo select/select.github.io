@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-smashing-barriers",
+      "id": "silent-smashing-barriers",
       "title": "Smashing Barriers",
       "fileSize": 769678336,
-      "id": "silent-smashing-barriers"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-smashing-barriers",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 327
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046360",
-      "title": "Stamp Day for Superman",
-      "year": 1954,
-      "imdbRating": 5.5,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000439",
-      "title": "The Great Train Robbery",
-      "year": 1903,
-      "imdbRating": 7.3,
-      "imdbVotes": 21493,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1323925",
-      "title": "The Hunt for Gollum",
-      "year": 2009,
-      "imdbRating": 6.7,
-      "imdbVotes": 5766,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010146",
-      "title": "From Hand to Mouth",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7158656",
-      "title": "Urban Vengeance",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0011387",
-      "title": "The Last of the Mohicans",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1472,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009682",
-      "title": "Tarzan of the Apes",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 951,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011753",
-      "title": "Terror Island",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010446",
-      "title": "The Master Mystery",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 159,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011717",
-      "title": "The Son of Tarzan",
-      "year": 1920,
-      "imdbRating": 5.3,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012278",
-      "title": "The 'High Sign'",
-      "year": 1921,
-      "imdbRating": 7.6,
-      "imdbVotes": 3670,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0488015",
-      "title": "Gôketsu Jiraiya",
-      "year": 1921,
-      "imdbRating": 5.8,
-      "imdbVotes": 199,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0046360",
+    "tt0000439",
+    "tt1323925",
+    "tt0010146",
+    "tt7158656",
+    "tt0011387",
+    "tt0009682",
+    "tt0011753",
+    "tt0010446",
+    "tt0011717",
+    "tt0012278",
+    "tt0488015"
   ],
   "collections": [],
   "is_curated": true,

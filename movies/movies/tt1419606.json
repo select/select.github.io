@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/700142783142",
+      "id": "700142783142",
       "title": "El refrigerador",
       "description": "Terror ",
       "fileSize": 336196086,
-      "id": "700142783142"
+      "addedAt": "2026-01-07T00:06:09.632Z",
+      "thumbnail": "https://archive.org/services/img/700142783142",
+      "collection": "feature_films",
+      "downloads": 15
     }
   ],
   "metadata": {
@@ -26,101 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1424450",
-      "title": "501",
-      "year": 2008,
-      "imdbRating": 5.5,
-      "imdbVotes": 20,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7197090",
-      "title": "Stolen Lives: Bexley",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1779491",
-      "title": "The Accordion",
-      "year": 2010,
-      "imdbRating": 6.8,
-      "imdbVotes": 311,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2378045",
-      "title": "204",
-      "year": 2010,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1512093",
-      "title": "306",
-      "year": 2010,
-      "imdbRating": 6,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1699674",
-      "title": "My Happiness",
-      "year": 2010,
-      "imdbRating": 8.2,
-      "imdbVotes": 9,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3207354",
-      "title": "The Wash",
-      "year": 2006,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1780962",
-      "title": "Room 712",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1581787",
-      "title": "307",
-      "year": 2010,
-      "imdbRating": 8.6,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1880353",
-      "title": "The Blind Man",
-      "year": 2011,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5506590",
-      "title": "202",
-      "year": 2005,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt1424450",
+    "tt7197090",
+    "tt1779491",
+    "tt2378045",
+    "tt1512093",
+    "tt1763178",
+    "tt1699674",
+    "tt3207354",
+    "tt1780962",
+    "tt1581787",
+    "tt1880353",
+    "tt5506590"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-red-spectre",
+      "id": "silent-the-red-spectre",
       "title": "The Red Spectre",
       "fileSize": 183027940,
-      "id": "silent-the-red-spectre"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-red-spectre",
+      "language": "French",
+      "year": 1907,
+      "collection": "feature_films",
+      "downloads": 823
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001223",
-      "title": "Frankenstein",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 5022,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8086184",
-      "title": "Le Miroir Magique",
-      "year": 1908,
-      "imdbRating": 4.6,
-      "imdbVotes": 33,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000516",
-      "title": "The Electric Hotel",
-      "year": 1908,
-      "imdbRating": 6.6,
-      "imdbVotes": 1069,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223755",
-      "title": "The Monster",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 1382,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2481878",
-      "title": "Absurd Encounter with Fear",
-      "year": 1967,
-      "imdbRating": 5.5,
-      "imdbVotes": 1329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000575",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1907,
-      "imdbRating": 5.7,
-      "imdbVotes": 636,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164493",
-      "title": "Cinderella",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 100,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000621",
-      "title": "That Fatal Sneeze",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 641,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0246507",
-      "title": "The Dancing Pig",
-      "year": 1907,
-      "imdbRating": 6.3,
-      "imdbVotes": 1501,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020530",
-      "title": "Un chien andalou",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 54952,
-      "language": "French",
-      "sourceType": "archive.org"
-    }
+    "tt0001223",
+    "tt8086184",
+    "tt0000516",
+    "tt0223755",
+    "tt0000301",
+    "tt2481878",
+    "tt0000575",
+    "tt0164493",
+    "tt0000621",
+    "tt0246507",
+    "tt0020530",
+    "tt0000546"
   ],
   "collections": [],
   "is_curated": true,

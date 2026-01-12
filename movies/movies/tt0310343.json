@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/west-virginia-the-state-beautiful_1929",
+      "id": "west-virginia-the-state-beautiful_1929",
       "title": "West Virginia, the State Beautiful",
       "fileSize": 748485326,
-      "id": "west-virginia-the-state-beautiful_1929"
+      "addedAt": "2026-01-07T00:13:06.702Z",
+      "thumbnail": "https://archive.org/services/img/west-virginia-the-state-beautiful_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 594
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192102",
-      "title": "H2O",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 801,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0206174",
-      "title": "Nogent, Eldorado du dimanche",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0351759",
-      "title": "Skyscraper Symphony",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 354,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0337245",
-      "title": "Stramilano",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020523",
-      "title": "Turksib",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 458,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174772",
-      "title": "In the Shadow of the Machine",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123117",
-      "title": "Inflation",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 324,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179489",
-      "title": "La tour",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 199,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019369",
-      "title": "Shanhkayskiy dokument",
-      "year": 1928,
-      "imdbRating": 6.4,
-      "imdbVotes": 35,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0475080",
+    "tt0192102",
+    "tt0206174",
+    "tt0351759",
+    "tt0337245",
+    "tt0020523",
+    "tt0021576",
+    "tt0309243",
+    "tt0174772",
+    "tt0123117",
+    "tt0179489",
+    "tt0019369"
   ],
   "collections": [],
   "is_curated": true,

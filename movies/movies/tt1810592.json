@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/eleventh-hour-1942",
+      "id": "eleventh-hour-1942",
       "title": "Eleventh Hour (1942)",
       "description": "Using Clark Kent as a cover, Superman travels to Japan as a saboteur during the war. Watch on RetroFlix:  https://retroflix.org/eleventh-hour-1942/",
       "fileSize": 133982781,
-      "id": "eleventh-hour-1942"
+      "addedAt": "2026-01-07T00:08:15.379Z",
+      "thumbnail": "https://archive.org/services/img/eleventh-hour-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 147
     }
   ],
   "metadata": {
@@ -26,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0446928",
-      "title": "Beautiful Clothes (Make Beautiful Girls)",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1315413",
-      "title": "Sprung in den Feind",
-      "year": 1942,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149809",
-      "title": "A Battle for a Bottle",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148294",
-      "title": "A Hollywood Detour",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035414",
-      "title": "A Tale of Two Kitties",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153194",
-      "title": "A Torrid Toreador",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149616",
-      "title": "All About Dogs",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034448",
-      "title": "All Out for 'V'",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0167760",
-      "title": "All Together",
-      "year": 1942,
-      "imdbRating": 4.9,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140812",
-      "title": "Any Bonds Today?",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034498",
+    "tt0446928",
+    "tt1315413",
+    "tt0148531",
+    "tt0149809",
+    "tt0148294",
+    "tt0035414",
+    "tt0153194",
+    "tt0149616",
+    "tt0034448",
+    "tt0167760",
+    "tt0140812"
   ],
   "collections": [],
   "is_curated": true,

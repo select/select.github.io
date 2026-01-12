@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Inside_the_Law_1942",
+      "id": "Inside_the_Law_1942",
       "title": "Inside the Law",
       "description": "A silly poverty-row farce about a gang of pickpockets that decides to run a bank. Update: I removed most of the crackle from the audio.",
       "fileSize": 1392848499,
-      "id": "Inside_the_Law_1942"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/Inside_the_Law_1942",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 4414
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=j00yIfn621k",
+      "id": "j00yIfn621k",
       "title": "Inside the Law (1942) COMEDY",
       "description": "Stars: Wallace Ford, Frank Sully, Harry Holman\nDirector: Hamilton MacFadden\n\nA mom-and-pop gang of confidence men pull off the biggest con of their career after their latest scam uncovers a letter of introduction to a local bank.",
-      "id": "j00yIfn621k",
+      "addedAt": "2025-12-26T23:44:07.376Z",
+      "thumbnail": "https://i.ytimg.com/vi/j00yIfn621k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCjpdGlxVQanrwIDcqH0t5OlcIh4w",
+      "duration": 3405,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033928",
-      "title": "Murder by Invitation",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035126",
-      "title": "Night in New Orleans",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035345",
-      "title": "Smart Alecks",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033871",
-      "title": "A Man Betrayed",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033805",
-      "title": "Lady Scarface",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 318,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276344",
-      "title": "Murder with Music",
-      "year": 1941,
-      "imdbRating": 4,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033428",
-      "title": "Bowery Blitzkrieg",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 672,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036073",
-      "title": "Kid Dynamite",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 614,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036207",
-      "title": "No Place for a Lady",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033923",
-      "title": "Mr. District Attorney",
-      "year": 1941,
-      "imdbRating": 6.2,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032609",
-      "title": "The House Across the Bay",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033928",
+    "tt0035126",
+    "tt0035345",
+    "tt0033871",
+    "tt0033805",
+    "tt0276344",
+    "tt0033428",
+    "tt0036073",
+    "tt0036207",
+    "tt0033923",
+    "tt0032343",
+    "tt0032609"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,32 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-battle-of-the-sexes-1928",
+      "id": "the-battle-of-the-sexes-1928",
       "title": "The Battle of the Sexes",
       "description": "https://web.archive.org/web/20230321120350/https://en.wikipedia.org/wiki/The_Battle_of_the_Sexes_%281928_film%29",
       "fileSize": 1319347346,
-      "id": "the-battle-of-the-sexes-1928"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-battle-of-the-sexes-1928",
+      "language": [
+        "eng",
+        "Russian"
+      ],
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1180
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-battle-of-the-sexes_1928",
+      "id": "the-battle-of-the-sexes_1928",
       "title": "The Battle of the Sexes",
       "fileSize": 5062569171,
-      "id": "the-battle-of-the-sexes_1928"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-battle-of-the-sexes_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 345
     }
   ],
   "metadata": {
@@ -34,114 +49,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016308",
-      "title": "Sally of the Sawdust",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 598,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000653",
-      "title": "A Calamitous Elopement",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 225,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001062",
-      "title": "Those Awful Hats",
-      "year": 1909,
-      "imdbRating": 6.2,
-      "imdbVotes": 1256,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000641",
-      "title": "Balked at the Altar",
-      "year": 1908,
-      "imdbRating": 4.7,
-      "imdbVotes": 178,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000684",
-      "title": "Father Gets in the Game",
-      "year": 1908,
-      "imdbRating": 5.1,
-      "imdbVotes": 129,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000877",
-      "title": "Getting Even",
-      "year": 1909,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013458",
-      "title": "One Exciting Night",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000892",
-      "title": "Her First Biscuits",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001333",
-      "title": "Muggsy's First Sweetheart",
-      "year": 1910,
-      "imdbRating": 5.6,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002478",
-      "title": "The School Teacher and the Waif",
-      "year": 1912,
-      "imdbRating": 5.6,
-      "imdbVotes": 69,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000800",
-      "title": "The Awakening",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0016308",
+    "tt0000653",
+    "tt0001062",
+    "tt0000641",
+    "tt0000684",
+    "tt0000877",
+    "tt0013458",
+    "tt0001002",
+    "tt0000892",
+    "tt0001333",
+    "tt0002478",
+    "tt0000800"
   ],
   "collections": [],
   "is_curated": true,

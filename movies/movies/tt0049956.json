@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/williamsburg-the-story-of-a-patriot-1957",
+      "id": "williamsburg-the-story-of-a-patriot-1957",
       "title": "Williamsburg The Story Of A Patriot ( 1957)",
       "description": "Williamsburg: the Story of a Patriot, often called The Patriot, is an orientation film produced by Paramount Pictures and the Colonial Williamsburg Foundation in 1957.",
       "fileSize": 645657119,
-      "id": "williamsburg-the-story-of-a-patriot-1957"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/williamsburg-the-story-of-a-patriot-1957",
+      "collection": "feature_films",
+      "downloads": 543
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/williamsburg-the-story-of-a-patriot-1957_202402",
+      "id": "williamsburg-the-story-of-a-patriot-1957_202402",
       "title": "Williamsburg: The Story of a Patriot (1957)",
       "description": "Williamsburg: the Story of a Patriot tells the story of Virginia's role in American Independence (up to the point of voting to propose independence at the Second Continental Congress), from the point of view of John Fry (played by a young Jack Lord), a fictional Virginia planter elected to the House of Burgesses. Watch on RetroFlix:  https://retroflix.org/williamsburg-the-story-of-a-patriot-1957/",
       "fileSize": 645645849,
-      "id": "williamsburg-the-story-of-a-patriot-1957_202402"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/williamsburg-the-story-of-a-patriot-1957_202402",
+      "language": "eng",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 262
     }
   ],
   "metadata": {
@@ -35,112 +45,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132251",
-      "title": "Joan of Arc",
-      "year": 1900,
-      "imdbRating": 6.6,
-      "imdbVotes": 1518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191402",
-      "title": "La revolución de Mayo",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 94,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001117",
-      "title": "Cleopatra",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 15,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188941",
-      "title": "Nero. Or the Fall of Rome.",
-      "year": 1909,
-      "imdbRating": 5.2,
-      "imdbVotes": 553,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0434198",
-      "title": "The Death of the Duke D'Enghien",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 32,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000776",
-      "title": "The Last Days of Pompeii",
-      "year": 1908,
-      "imdbRating": 5.6,
-      "imdbVotes": 137,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0221180",
-      "title": "The Flag: A Story Inspired by the Tradition of Betsy Ross",
-      "year": 1927,
-      "imdbRating": 5.7,
-      "imdbVotes": 254,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051492",
-      "title": "Count Five and Die",
-      "year": 1957,
-      "imdbRating": 6.5,
-      "imdbVotes": 232,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0001032",
+    "tt0001915",
+    "tt0132251",
+    "tt0191402",
+    "tt1223220",
+    "tt0001117",
+    "tt0207954",
+    "tt0188941",
+    "tt0434198",
+    "tt0000776",
+    "tt0221180",
+    "tt0051492"
   ],
   "collections": [],
   "is_curated": true,

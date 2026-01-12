@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-island-of-the-lost",
+      "id": "silent-the-island-of-the-lost",
       "title": "The Island of the Lost",
       "fileSize": 1137726597,
-      "id": "silent-the-island-of-the-lost"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-island-of-the-lost",
+      "language": "German",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 1945
     }
   ],
   "metadata": {
@@ -26,118 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012364",
-      "title": "The Phantom Carriage",
-      "year": 1921,
-      "imdbRating": 8,
-      "imdbVotes": 15311,
-      "language": "None, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059920",
-      "title": "The Wizard of Mars",
-      "year": 1965,
-      "imdbRating": 3.4,
-      "imdbVotes": 631,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10554196",
-      "title": "Pungo: A Witch's Tale",
-      "year": 2020,
-      "imdbRating": 4.3,
-      "imdbVotes": 1794,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0050432",
-      "title": "The Giant Claw",
-      "year": 1957,
-      "imdbRating": 4.6,
-      "imdbVotes": 4591,
-      "language": "English, Japanese, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228040",
-      "title": "Ice Queen",
-      "year": 2005,
-      "imdbRating": 3,
-      "imdbVotes": 668,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0337377",
-      "title": "The Mechanical Man",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 272,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013257",
-      "title": "Häxan",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 18391,
-      "language": "Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011237",
-      "title": "The Golem",
-      "year": 1920,
-      "imdbRating": 7.2,
-      "imdbVotes": 8788,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013442",
-      "title": "Nosferatu: A Symphony of Horror",
-      "year": 1922,
-      "imdbRating": 7.8,
-      "imdbVotes": 120332,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011221",
-      "title": "Genuine: The Tragedy of a Vampire",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 1171,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    }
+    "tt0012364",
+    "tt0059920",
+    "tt10554196",
+    "tt0050432",
+    "tt0228040",
+    "tt0843873",
+    "tt1132130",
+    "tt3233972",
+    "tt0337377",
+    "tt0013257",
+    "tt0011237",
+    "tt0013442"
   ],
   "collections": [],
   "is_curated": true,

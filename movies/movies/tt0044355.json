@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/androcles-and-the-lion",
+      "id": "androcles-and-the-lion",
       "title": "Androcles And The Lion",
       "description": "George Bernard Shaw’s breezy, delightful dramatization of this classic fable—about a Christian slave who pulls a thorn from a lion's paw and is spared from death in the Colosseum as a result of his kind act—was written as a meditation on modern Christian values. And Pascal’s final Shaw production plays it broadly, casting comic character actor Alan Young as the titular naïf. He’s ably supported by Jean Simmons, Victor Mature, Robert Newton, and Elsa Lanchester.",
       "fileSize": 8046677009,
-      "id": "androcles-and-the-lion"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/androcles-and-the-lion",
+      "language": "eng",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 3330
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048960",
-      "title": "Around the World in 80 Days",
-      "year": 1956,
-      "imdbRating": 6.7,
-      "imdbVotes": 31304,
-      "language": "English, Spanish, French, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1320261",
-      "title": "Gulliver's Travels",
-      "year": 2010,
-      "imdbRating": 4.9,
-      "imdbVotes": 76502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058548",
-      "title": "Santa Claus Conquers the Martians",
-      "year": 1964,
-      "imdbRating": 2.7,
-      "imdbVotes": 12783,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477347",
-      "title": "Night at the Museum",
-      "year": 2006,
-      "imdbRating": 6.5,
-      "imdbVotes": 401598,
-      "language": "English, Italian, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045094",
-      "title": "Road to Bali",
-      "year": 1952,
-      "imdbRating": 6.4,
-      "imdbVotes": 5358,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0221306",
-      "title": "Johnny Tolengo, el majestuoso",
-      "year": 1987,
-      "imdbRating": 4.7,
-      "imdbVotes": 109,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0320261",
-      "title": "Los pequeños aventureros",
-      "year": 1977,
-      "imdbRating": 6.5,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199057",
-      "title": "Los superagentes contra los fantasmas",
-      "year": 1986,
-      "imdbRating": 3.5,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0335284",
-      "title": "Margarito Tereré",
-      "year": 1978,
-      "imdbRating": 6.3,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8539280",
-      "title": "The Legend of the Christmas Witch",
-      "year": 2018,
-      "imdbRating": 4.8,
-      "imdbVotes": 948,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2251519",
-      "title": "The Blue Tiger",
-      "year": 2012,
-      "imdbRating": 5.9,
-      "imdbVotes": 156,
-      "language": "Czech",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0014611",
-      "title": "Why Worry?",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 2102,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0048960",
+    "tt1320261",
+    "tt0058548",
+    "tt0045094",
+    "tt0221306",
+    "tt0320261",
+    "tt0199057",
+    "tt0335284",
+    "tt8539280",
+    "tt2251519",
+    "tt0014611",
+    "tt6181728"
   ],
   "collections": [],
   "is_curated": true,

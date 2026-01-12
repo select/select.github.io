@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Murder_at_Midnight_1931",
+      "id": "Murder_at_Midnight_1931",
       "title": "Murder at Midnight",
       "description": "Gun used during charades turns out to be loaded with real ammo instead of blanks.",
       "fileSize": 1466712628,
-      "id": "Murder_at_Midnight_1931"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/Murder_at_Midnight_1931",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 22917
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=88hirTZBn0c",
+      "id": "88hirTZBn0c",
       "title": "Murder at Midnight (1931) PRE-CODE HOLLYWOOD",
       "description": "Stars: Aileen Pringle, Alice White, Hale Hamilton \nWriter/Director: Frank R. Strayer\n\n Wealthy Mr. Kennedy shoots his secretary, Channing, during a parlor game, but it turns out the gun was loaded with real bullets. Luckily, criminologist Phillip Montrose is on hand to help the police. When Kennedy quickly ends up dead as well, the police think it's a tidy murder-suicide, but the family lawyer knows of a letter that voiced Kennedy's suspicions about someone who was out to get him. Soon, the cops are on the trail of a ruthless and clever killer who is one step ahead of even Montrose.",
-      "id": "88hirTZBn0c",
+      "addedAt": "2025-12-26T23:53:56.565Z",
+      "thumbnail": "https://i.ytimg.com/vi/88hirTZBn0c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA_a1Hkup_tr11Se_-UmIBlqOs9nA",
+      "duration": 3985,
+      "language": "en",
+      "year": 1931,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023187",
-      "title": "Manhattan Tower",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021763",
-      "title": "Convicted",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022836",
-      "title": "Dragnet Patrol",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023549",
-      "title": "Tangled Destinies",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 243,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023236",
-      "title": "The Monster Walks",
-      "year": 1932,
-      "imdbRating": 4.1,
-      "imdbVotes": 1126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024619",
-      "title": "Strange People",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025921",
-      "title": "Twin Husbands",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024727",
-      "title": "The Vampire Bat",
-      "year": 1933,
-      "imdbRating": 5.7,
-      "imdbVotes": 3180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022373",
-      "title": "Sherlock Holmes' Fatal Hour",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 485,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022418",
-      "title": "The Speckled Band",
-      "year": 1931,
-      "imdbRating": 5.3,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022173",
-      "title": "Murder by the Clock",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 369,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023187",
+    "tt0021763",
+    "tt0022836",
+    "tt0022662",
+    "tt0023549",
+    "tt0023236",
+    "tt0024619",
+    "tt0025921",
+    "tt0024727",
+    "tt0022373",
+    "tt0022418",
+    "tt0022173"
   ],
   "collections": [],
   "is_curated": true,

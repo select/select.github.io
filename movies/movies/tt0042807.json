@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/once-a-thief",
+      "id": "once-a-thief",
       "title": "Once A Thief (1950)",
       "description": "Cesar Romero, June Havoc, Lon Chaney Jr.",
       "fileSize": 1439820393,
-      "id": "once-a-thief"
+      "addedAt": "2026-01-07T00:10:02.902Z",
+      "thumbnail": "https://archive.org/services/img/once-a-thief",
+      "collection": "feature_films",
+      "downloads": 2020
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043066",
-      "title": "Three Steps North",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 186,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039730",
-      "title": "The Pretender",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 392,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047877",
-      "title": "The Big Bluff",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 630,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041243",
-      "title": "Chicago Deadline",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 375,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043516",
-      "title": "F.B.I. Girl",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042869",
-      "title": "Quicksand",
-      "year": 1950,
-      "imdbRating": 6.6,
-      "imdbVotes": 2655,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043142",
-      "title": "Woman on the Run",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4980,
-      "language": "English, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0042274",
-      "title": "Borderline",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 1568,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042394",
-      "title": "Destination Murder",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 1033,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043292",
-      "title": "Appointment with Danger",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 1534,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042379",
-      "title": "Dark City",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 2781,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042428",
-      "title": "Edge of Doom",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 946,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0043066",
+    "tt0039730",
+    "tt0047877",
+    "tt0041243",
+    "tt0043516",
+    "tt0042869",
+    "tt0043142",
+    "tt0042274",
+    "tt0042394",
+    "tt0043292",
+    "tt0042379",
+    "tt0042428"
   ],
   "collections": [],
   "is_curated": true,

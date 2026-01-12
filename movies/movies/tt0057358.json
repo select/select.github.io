@@ -6,10 +6,19 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/winter-light_ingmar-bergman",
+      "id": "winter-light_ingmar-bergman",
       "title": "Winter Light",
       "description": "https://web.archive.org/web/20230203061854/https://en.wikipedia.org/wiki/Winter_Light https://web.archive.org/web/20230318052115/https://www.imdb.com/title/tt0057358/ The source file (*.mkv) contains one subtitle track (English) and two audio tracks (Swedish and English). You can use this M3U file to load the source file into your local media player, such as VLC or mpv . For VLC, go to A udio &gt; Audio T rack &gt; Track 2 -  [English] ; or Subti t le &gt; Sub  T rack &gt; Track 1 - [English] . For mpv, Shift+3 to toggle to Audio: (2) eng ; or 'v' to toggle subtitles on/off and 'j' to cycle through to \"Subtitles: (1) eng\" .",
       "fileSize": 1294556886,
-      "id": "winter-light_ingmar-bergman"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/winter-light_ingmar-bergman",
+      "language": [
+        "swe",
+        "English"
+      ],
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 14422
     }
   ],
   "metadata": {
@@ -27,113 +36,18 @@
     "Awards": "3 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0053976",
-      "title": "The Virgin Spring",
-      "year": 1960,
-      "imdbRating": 8,
-      "imdbVotes": 33263,
-      "language": "Swedish, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050976",
-      "title": "The Seventh Seal",
-      "year": 1957,
-      "imdbRating": 8.1,
-      "imdbVotes": 211758,
-      "language": "Swedish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050986",
-      "title": "Wild Strawberries",
-      "year": 1957,
-      "imdbRating": 8.1,
-      "imdbVotes": 122286,
-      "language": "Swedish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060827",
-      "title": "Persona",
-      "year": 1966,
-      "imdbRating": 8,
-      "imdbVotes": 138584,
-      "language": "Swedish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077711",
-      "title": "Autumn Sonata",
-      "year": 1978,
-      "imdbRating": 8.1,
-      "imdbVotes": 39416,
-      "language": "Swedish, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt6725014",
-      "title": "Scenes from a Marriage",
-      "year": 1974,
-      "imdbRating": 8.3,
-      "imdbVotes": 9576,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057415",
-      "title": "A Place to Go",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056810",
-      "title": "Act One",
-      "year": 1963,
-      "imdbRating": 6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178515",
-      "title": "Hercules and the Masked Rider",
-      "year": 1963,
-      "imdbRating": 4.3,
-      "imdbVotes": 188,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057062",
-      "title": "Five Minutes to Love",
-      "year": 1963,
-      "imdbRating": 4.4,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057207",
-      "title": "Judex",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 3146,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12658952",
-      "title": "Town of the Times",
-      "year": 1963,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0053976",
+    "tt0050976",
+    "tt0050986",
+    "tt0060827",
+    "tt0077711",
+    "tt6725014",
+    "tt0057415",
+    "tt0056810",
+    "tt0178515",
+    "tt0057062",
+    "tt0057207",
+    "tt12658952"
   ],
   "collections": [
     {

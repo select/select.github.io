@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cage-of-gold",
+      "id": "cage-of-gold",
       "title": "Cage Of Gold",
       "description": "In post-WW2 Britain, a young woman marries an old flame but after he disappears, and is later declared dead, she re-marries, only to be blackmailed by the supposedly-dead first husband who suddenly re-appears in her life, in need of money.",
       "fileSize": 6513720506,
-      "id": "cage-of-gold"
+      "addedAt": "2026-01-07T00:07:45.166Z",
+      "thumbnail": "https://archive.org/services/img/cage-of-gold",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 2494
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0057415",
-      "title": "A Place to Go",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042333",
-      "title": "The Clouded Yellow",
-      "year": 1950,
-      "imdbRating": 6.9,
-      "imdbVotes": 956,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053242",
-      "title": "Sapphire",
-      "year": 1959,
-      "imdbRating": 7.2,
-      "imdbVotes": 2503,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058754",
-      "title": "Woman of Straw",
-      "year": 1964,
-      "imdbRating": 6.8,
-      "imdbVotes": 2878,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039398",
-      "title": "Frieda",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 574,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044357",
-      "title": "Angel Face",
-      "year": 1952,
-      "imdbRating": 7.2,
-      "imdbVotes": 9721,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042869",
-      "title": "Quicksand",
-      "year": 1950,
-      "imdbRating": 6.6,
-      "imdbVotes": 2655,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043142",
-      "title": "Woman on the Run",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4980,
-      "language": "English, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0042176",
-      "title": "711 Ocean Drive",
-      "year": 1950,
-      "imdbRating": 6.8,
-      "imdbVotes": 2218,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042274",
-      "title": "Borderline",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 1568,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042394",
-      "title": "Destination Murder",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 1033,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043292",
-      "title": "Appointment with Danger",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 1534,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0057415",
+    "tt0042333",
+    "tt0053242",
+    "tt0058754",
+    "tt0039398",
+    "tt0044357",
+    "tt0042869",
+    "tt0043142",
+    "tt0042176",
+    "tt0042274",
+    "tt0042394",
+    "tt0043292"
   ],
   "collections": [],
   "is_curated": true,

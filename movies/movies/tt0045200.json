@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-card-1952",
+      "id": "the-card-1952",
       "title": "The Card (1952)",
       "description": "A charming and ambitious young man finds many ways to raise himself through the ranks in business and social standing - some honest, some not quite so. If he can just manage to avoid a certain very predatory woman. Watch on RetroFlix:  https://retroflix.org/the-card-1952/",
       "fileSize": 1938958226,
-      "id": "the-card-1952"
+      "addedAt": "2026-01-07T00:11:57.681Z",
+      "thumbnail": "https://archive.org/services/img/the-card-1952",
+      "language": "eng",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 182
     }
   ],
   "metadata": {
@@ -27,109 +33,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4229926",
-      "title": "411",
-      "year": 2015,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2376386",
-      "title": "111",
-      "year": 2012,
-      "imdbRating": 7.7,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1780962",
-      "title": "Room 712",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021387",
-      "title": "The Skull Murder Mystery",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044314",
-      "title": "5 Fingers",
-      "year": 1952,
-      "imdbRating": 7.6,
-      "imdbVotes": 5573,
-      "language": "English, German, Portuguese, Turkish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044557",
-      "title": "Don't Bother to Knock",
-      "year": 1952,
-      "imdbRating": 6.9,
-      "imdbVotes": 8692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044937",
-      "title": "My Cousin Rachel",
-      "year": 1952,
-      "imdbRating": 7,
-      "imdbVotes": 3599,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044673",
-      "title": "The Green Glove",
-      "year": 1952,
-      "imdbRating": 6,
-      "imdbVotes": 979,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045256",
-      "title": "Tread Softly",
-      "year": 1952,
-      "imdbRating": 5.3,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043409",
-      "title": "Circle of Danger",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 1069,
-      "language": "English, Gaelic, German",
-      "sourceType": "archive.org"
-    }
+    "tt0003803",
+    "tt2889500",
+    "tt4229926",
+    "tt2376386",
+    "tt1780962",
+    "tt0021387",
+    "tt0044314",
+    "tt0044557",
+    "tt0044937",
+    "tt0044673",
+    "tt0045256",
+    "tt0043409"
   ],
   "collections": [],
   "is_curated": true,

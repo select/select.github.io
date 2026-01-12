@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/davy_20210618",
+      "id": "davy_20210618",
       "title": "Davy",
       "description": "The Mad Morgans are a family song and dance act touring the British Music Halls. Young Davy is the star of the act but should he stay with his family or strike out on his own ?",
       "fileSize": 6513272282,
-      "id": "davy_20210618"
+      "addedAt": "2026-01-07T00:07:59.603Z",
+      "thumbnail": "https://archive.org/services/img/davy_20210618",
+      "language": "eng",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 2278
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0184342",
-      "title": "Cinco gallinas y el cielo",
-      "year": 1957,
-      "imdbRating": 7.5,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199395",
-      "title": "Las campanas de Teresa",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0051720",
-      "title": "Equinox Flower",
-      "year": 1958,
-      "imdbRating": 7.8,
-      "imdbVotes": 4993,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051666",
-      "title": "God's Little Acre",
-      "year": 1958,
-      "imdbRating": 6.5,
-      "imdbVotes": 2105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049683",
-      "title": "Rock, Pretty Baby!",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045769",
-      "title": "The Final Test",
-      "year": 1953,
-      "imdbRating": 6.6,
-      "imdbVotes": 243,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4887484",
-      "title": "Sailor Beware!",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047900",
-      "title": "Broadway Jungle",
-      "year": 1955,
-      "imdbRating": 2.6,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048188",
-      "title": "I Am a Camera",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 667,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188938",
-      "title": "El negoción",
-      "year": 1959,
-      "imdbRating": 7.2,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053134",
-      "title": "Good Morning",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 11823,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    }
+    "tt0184342",
+    "tt0199395",
+    "tt0049397",
+    "tt0051720",
+    "tt0051666",
+    "tt0049683",
+    "tt0045769",
+    "tt4887484",
+    "tt0047900",
+    "tt0048188",
+    "tt0188938",
+    "tt0053134"
   ],
   "collections": [],
   "is_curated": true,

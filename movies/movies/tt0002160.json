@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-entente-cordiale",
+      "id": "silent-entente-cordiale",
       "title": "Entente cordiale",
       "fileSize": 1458968807,
-      "id": "silent-entente-cordiale"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-entente-cordiale",
+      "language": "French",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 520
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0277882",
-      "title": "Max as a Chiropodist",
-      "year": 1914,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248990",
-      "title": "Max in a Taxi",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181680",
-      "title": "Max Wants a Divorce",
-      "year": 1917,
-      "imdbRating": 6.1,
-      "imdbVotes": 128,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001009",
-      "title": "Princess Nicotine; or, the Smoke Fairy",
-      "year": 1909,
-      "imdbRating": 6.5,
-      "imdbVotes": 981,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000669",
-      "title": "Cupid's Pranks",
-      "year": 1908,
-      "imdbRating": 4.9,
-      "imdbVotes": 160,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0288252",
-      "title": "The Thieving Hand",
-      "year": 1908,
-      "imdbRating": 6.6,
-      "imdbVotes": 678,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2459468",
-      "title": "Katya & the Scarlet Sails",
-      "year": 2012,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002501",
-      "title": "A Spanish Dilemma",
-      "year": 1912,
-      "imdbRating": 4.2,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215495",
-      "title": "Algie, the Miner",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 568,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002280",
-      "title": "An Interrupted Elopement",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0277882",
+    "tt0248990",
+    "tt0181680",
+    "tt0001009",
+    "tt0000669",
+    "tt0288252",
+    "tt2459468",
+    "tt0002133",
+    "tt0002501",
+    "tt0215495",
+    "tt0002280",
+    "tt0210599"
   ],
   "collections": [],
   "is_curated": true,

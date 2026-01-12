@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/IsntLifeWonderful",
+      "id": "IsntLifeWonderful",
       "title": "Isn't Life Wonderful",
       "description": "(From Wikipedia) Isn't Life Wonderful? (1924) is a film, directed by D. W. Griffith for his company D. W. Griffith Productions, and distributed by United Artists. It was based on the novel by Geoffrey Moss and it went under the alternative title Dawn. The title of the film was spoofed in the Charlie Chase comedy Isn't Life Terrible (1925). Most of the scenes were filmed in Germany and Austria. Only one was filmed in New York at the studio. The film also stars Carol Dempster and Neil Hamilton. The film was also a failure at the box office, and led to Griffith leaving United Artists shortly after its run in theaters.[1] The film did receive some positive critical notices at the time, but its stock has risen considerably since; it has for some decades been considered one of Griffith's greatest films. Most also feel this film features the finest performance by leading actress Carol Dempster.",
       "fileSize": 658061752,
-      "id": "IsntLifeWonderful"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/IsntLifeWonderful",
+      "collection": "feature_films",
+      "downloads": 13691
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/isnt-life-wonderful-1924",
+      "id": "isnt-life-wonderful-1924",
       "title": "Isn't Life Wonderful (1924)",
       "description": "A family from Poland has been left homeless in the wake of World War I. They move to Germany and struggle to survive the conditions there, during the Great Inflation. Inga is a Polish war orphan who has only accumulated a small amount of money from the rubble and hopes to marry Paul. Weakened by poison gas, Paul begins to invest in Inga's future and he serves as their symbol of optimism. Watch on RetroFlix:  https://retroflix.org/isnt-life-wonderful-1924/",
       "fileSize": 718982247,
-      "id": "isnt-life-wonderful-1924"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/isnt-life-wonderful-1924",
+      "language": "eng",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 158
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-isnt-life-wonderful",
+      "id": "silent-isnt-life-wonderful",
       "title": "Isn't Life Wonderful",
       "fileSize": 1827509138,
-      "id": "silent-isnt-life-wonderful"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-isnt-life-wonderful",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 515
     }
   ],
   "metadata": {
@@ -42,114 +57,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014604",
-      "title": "The White Rose",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011841",
-      "title": "Way Down East",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 6016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018854",
-      "title": "Drums of Love",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0014672",
+    "tt0014604",
+    "tt0012122",
+    "tt0012532",
+    "tt0011841",
+    "tt0018854",
+    "tt0009559",
+    "tt0009968",
+    "tt0002795",
+    "tt0001978",
+    "tt0001371",
+    "tt0010806"
   ],
   "collections": [],
   "is_curated": true,

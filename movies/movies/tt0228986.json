@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Every.Man.His.Own.Cigar.Lighter",
+      "id": "Every.Man.His.Own.Cigar.Lighter",
       "title": "Every Man His Own Cigar Lighter",
       "description": "The original French title for the print fragment is Un peu de feu s.v.p. IMDb Page",
       "fileSize": 3099970,
-      "id": "Every.Man.His.Own.Cigar.Lighter"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/Every.Man.His.Own.Cigar.Lighter",
+      "language": "English",
+      "year": 1903,
+      "collection": "feature_films",
+      "downloads": 1866
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0222731",
-      "title": "The Fugitive Apparitions",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 183,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228014",
-      "title": "The Christmas Angel",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 243,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215992",
-      "title": "The Mermaid",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1349,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135631",
-      "title": "The Untamable Whiskers",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1200,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223586",
-      "title": "The Wandering Jew",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 236,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216419",
-      "title": "The Wonderful Living Fan",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 689,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222785",
-      "title": "A Mesmerian Experiment",
-      "year": 1905,
-      "imdbRating": 5.3,
-      "imdbVotes": 221,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135180",
-      "title": "The Infernal Cauldron",
-      "year": 1903,
-      "imdbRating": 6.6,
-      "imdbVotes": 2415,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223755",
-      "title": "The Monster",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 1382,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215749",
-      "title": "The Enchanted Sedan Chair",
-      "year": 1905,
-      "imdbRating": 5.4,
-      "imdbVotes": 524,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0222731",
+    "tt0228014",
+    "tt0215664",
+    "tt0215992",
+    "tt0135631",
+    "tt0223586",
+    "tt0216419",
+    "tt0222785",
+    "tt0135180",
+    "tt0223755",
+    "tt0215575",
+    "tt0215749"
   ],
   "collections": [],
   "is_curated": true,

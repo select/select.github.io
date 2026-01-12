@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AliceTheWhaler",
+      "id": "AliceTheWhaler",
       "title": "Alice the Whaler",
       "description": "This is an old silent cartoon and live actor film. It was made in 1927. Thanks go to my online friend that is restoring these films. He is working on other Alice Films from the MGM film library that burned during the 1930's.",
       "fileSize": 209904967,
-      "id": "AliceTheWhaler"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AliceTheWhaler",
+      "collection": "feature_films",
+      "downloads": 4720
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alice-the-whaler-1927",
+      "id": "alice-the-whaler-1927",
       "title": "Alice the Whaler (1927)",
       "description": "Alice is dancing aboard her ship with a veritable zoo of a crew. Meanwhile, in the galley, the chef (a cat) is preparing food while his assistant, a mouse, is peeling potatoes. When the chef complains that they need eggs, the mouse is enlisted to retrieve them from the crow's nest. The birds there give him a rough time, but he's eventually able to capture one and strong-arm three eggs out of it. When he returns, though, he finds the chef now wants some milk, and so he's off to find the ship's goat, with similar comedic results. Watch on RetroFlix:  https://retroflix.org/alice-the-whaler-1927/",
       "fileSize": 141789351,
-      "id": "alice-the-whaler-1927"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/alice-the-whaler-1927",
+      "language": "eng",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 62
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alice-the-whaler_1927",
+      "id": "alice-the-whaler_1927",
       "title": "Alice the Whaler",
       "fileSize": 52621931,
-      "id": "alice-the-whaler_1927"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/alice-the-whaler_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 745
     }
   ],
   "metadata": {
@@ -42,114 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015558",
-      "title": "Alice Solves the Puzzle",
-      "year": 1925,
-      "imdbRating": 5.2,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017604",
-      "title": "Alice in the Big League",
-      "year": 1927,
-      "imdbRating": 5.6,
-      "imdbVotes": 56,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017612",
-      "title": "Alice's Circus Daze",
-      "year": 1927,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014658",
-      "title": "Alice the Piper",
-      "year": 1924,
-      "imdbRating": 6.5,
-      "imdbVotes": 68,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017610",
-      "title": "Alice's Auto Race",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 34,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017949",
-      "title": "Great Guns",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 317,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018213",
-      "title": "Oh Teacher",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 324,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018150",
-      "title": "The Mechanical Cow",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 347,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018509",
-      "title": "Trolley Troubles",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 736,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016582",
-      "title": "Alice Helps the Romance",
-      "year": 1926,
-      "imdbRating": 5.5,
-      "imdbVotes": 107,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016585",
-      "title": "Alice in the Wooly West",
-      "year": 1926,
-      "imdbRating": 5.3,
-      "imdbVotes": 228,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016586",
-      "title": "Alice on the Farm",
-      "year": 1926,
-      "imdbRating": 4.8,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015558",
+    "tt0017604",
+    "tt0017612",
+    "tt0014658",
+    "tt0017610",
+    "tt0017949",
+    "tt0018213",
+    "tt0018150",
+    "tt0018509",
+    "tt0016582",
+    "tt0016585",
+    "tt0016586"
   ],
   "collections": [
     {

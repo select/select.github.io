@@ -6,9 +6,18 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-in-the-land-of-morning-calm",
+      "id": "silent-in-the-land-of-morning-calm",
       "title": "In the Land of Morning Calm",
       "fileSize": 1730822004,
-      "id": "silent-in-the-land-of-morning-calm"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-in-the-land-of-morning-calm",
+      "language": [
+        "Korean",
+        "German"
+      ],
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2156
     }
   ],
   "metadata": {
@@ -25,110 +34,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt6340186",
-      "title": "Film 13",
-      "year": 1925,
-      "imdbRating": 5,
-      "imdbVotes": 52,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0264444",
-      "title": "Bruxelles: port aérien international",
-      "year": 1924,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308046",
-      "title": "Looney Lens: Pas de deux",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 33,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308002",
-      "title": "Looney Lens: Split Skyscrapers",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308008",
-      "title": "Looney Lens: Tenth Avenue, NYC",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340302",
-      "title": "Film 25",
-      "year": 1927,
-      "imdbRating": 4.6,
-      "imdbVotes": 55,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340324",
-      "title": "Film 29",
-      "year": 1927,
-      "imdbRating": 4.9,
-      "imdbVotes": 49,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208526",
-      "title": "Twenty-Four-Dollar Island",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 243,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0297449",
-      "title": "1925 Studio Tour",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 441,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015873",
-      "title": "Grass: A Nation's Battle for Life",
-      "year": 1925,
-      "imdbRating": 7.7,
-      "imdbVotes": 1257,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255274",
-      "title": "The Olympic Games in Paris 1924",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 156,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt6340186",
+    "tt0264444",
+    "tt3308046",
+    "tt3308002",
+    "tt3308008",
+    "tt5503754",
+    "tt6340302",
+    "tt6340324",
+    "tt0208526",
+    "tt0297449",
+    "tt0015873",
+    "tt0255274"
   ],
   "collections": [],
   "is_curated": true,

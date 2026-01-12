@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/peking-express-1951-",
+      "id": "peking-express-1951-",
       "title": "Peking Express (1951)",
       "description": "Joseph Cotten, Corinne Calvet, Marvin Miller",
       "fileSize": 1367702041,
-      "id": "peking-express-1951-"
+      "addedAt": "2026-01-07T00:10:12.698Z",
+      "thumbnail": "https://archive.org/services/img/peking-express-1951-",
+      "collection": "feature_films",
+      "downloads": 1946
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042379",
-      "title": "Dark City",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 2781,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045267",
-      "title": "The Turning Point",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 1862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040071",
-      "title": "The Accused",
-      "year": 1949,
-      "imdbRating": 6.8,
-      "imdbVotes": 1129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040740",
-      "title": "Road House",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 3271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043118",
-      "title": "Walk Softly, Stranger",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 1412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041822",
-      "title": "Rope of Sand",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1860,
-      "language": "English, Afrikaans",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041959",
-      "title": "The Third Man",
-      "year": 1949,
-      "imdbRating": 8.1,
-      "imdbVotes": 191736,
-      "language": "English, German, Russian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045566",
-      "title": "A Blueprint for Murder",
-      "year": 1953,
-      "imdbRating": 6.7,
-      "imdbVotes": 1883,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045557",
-      "title": "The Bigamist",
-      "year": 1953,
-      "imdbRating": 6.8,
-      "imdbVotes": 4886,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046269",
-      "title": "Salome",
-      "year": 1953,
-      "imdbRating": 5.8,
-      "imdbVotes": 2279,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043469",
-      "title": "Distant Drums",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 2436,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043543",
-      "title": "Flame of Stamboul",
-      "year": 1951,
-      "imdbRating": 5.6,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042379",
+    "tt0045267",
+    "tt0040071",
+    "tt0040740",
+    "tt0043118",
+    "tt0041822",
+    "tt0041959",
+    "tt0045566",
+    "tt0045557",
+    "tt0046269",
+    "tt0043469",
+    "tt0043543"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-brand-im-ozean-rene-deltgen-hans-sohnker-rudolf-fernau-wolfgang-staudte",
+      "id": "1939-brand-im-ozean-rene-deltgen-hans-sohnker-rudolf-fernau-wolfgang-staudte",
       "title": "1939 Brand Im Ozean ( Rene Deltgen, Hans Söhnker, Rudolf Fernau, Wolfgang Staudte)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Brand im Ozean.  U.a mit Rene Deltgen und Hans Söhnker ",
       "fileSize": 875239921,
-      "id": "1939-brand-im-ozean-rene-deltgen-hans-sohnker-rudolf-fernau-wolfgang-staudte"
+      "addedAt": "2026-01-07T00:06:02.056Z",
+      "thumbnail": "https://archive.org/services/img/1939-brand-im-ozean-rene-deltgen-hans-sohnker-rudolf-fernau-wolfgang-staudte",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 131
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0136435",
-      "title": "Nordlicht",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031397",
-      "title": "Gulliver's Travels",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 5174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031124",
-      "title": "Bulldog Drummond's Bride",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 542,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031207",
-      "title": "Daredevils of the Red Circle",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032111",
-      "title": "Wasser für Canitoga",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 123,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031680",
-      "title": "Mr. Wong in Chinatown",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026903",
-      "title": "Queen of the Jungle",
-      "year": 1939,
-      "imdbRating": 4,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033090",
-      "title": "Spies of the Air",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 126,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031213",
-      "title": "A Day at the Zoo",
-      "year": 1939,
-      "imdbRating": 6.9,
-      "imdbVotes": 536,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031058",
-      "title": "Ask a Policeman",
-      "year": 1939,
-      "imdbRating": 7.4,
-      "imdbVotes": 1010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031025",
-      "title": "Aladdin and His Wonderful Lamp",
-      "year": 1939,
-      "imdbRating": 7.6,
-      "imdbVotes": 779,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0136435",
+    "tt0031397",
+    "tt0031124",
+    "tt0031207",
+    "tt0032111",
+    "tt0031505",
+    "tt0031680",
+    "tt0026903",
+    "tt0033090",
+    "tt0031213",
+    "tt0031058",
+    "tt0031025"
   ],
   "collections": [],
   "is_curated": true,

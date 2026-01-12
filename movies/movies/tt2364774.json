@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Kill.or.Cure",
+      "id": "Kill.or.Cure",
       "title": "Kill.or.Cure",
       "description": "classic",
       "fileSize": 66554700501,
-      "id": "Kill.or.Cure"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/Kill.or.Cure",
+      "collection": "feature_films",
+      "downloads": 247211
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2622672",
-      "title": "Scream at the Devil",
-      "year": 2015,
-      "imdbRating": 2.6,
-      "imdbVotes": 625,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1480285",
-      "title": "Abattoir",
-      "year": 2016,
-      "imdbRating": 4.5,
-      "imdbVotes": 4560,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3743042",
-      "title": "Lake Bodom",
-      "year": 2016,
-      "imdbRating": 5.2,
-      "imdbVotes": 5126,
-      "language": "Finnish, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5937770",
-      "title": "Tell Me How I Die",
-      "year": 2016,
-      "imdbRating": 5,
-      "imdbVotes": 5441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2290709",
-      "title": "The Appearing",
-      "year": 2014,
-      "imdbRating": 3,
-      "imdbVotes": 1501,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3387542",
-      "title": "The Forest",
-      "year": 2016,
-      "imdbRating": 4.8,
-      "imdbVotes": 46521,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2971388",
-      "title": "308",
-      "year": 2013,
-      "imdbRating": 5.3,
-      "imdbVotes": 129,
-      "language": "Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2348394",
-      "title": "Home Sweet Home",
-      "year": 2013,
-      "imdbRating": 4.7,
-      "imdbVotes": 1943,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1984116",
-      "title": "Backwater",
-      "year": 2013,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4537888",
-      "title": "The Monster Project",
-      "year": 2017,
-      "imdbRating": 4.5,
-      "imdbVotes": 3808,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1861279",
-      "title": "Barricade",
-      "year": 2012,
-      "imdbRating": 4.4,
-      "imdbVotes": 3062,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5774450",
-      "title": "Summer of 84",
-      "year": 2018,
-      "imdbRating": 6.7,
-      "imdbVotes": 49977,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt2622672",
+    "tt3743042",
+    "tt5937770",
+    "tt2290709",
+    "tt3387542",
+    "tt2971388",
+    "tt2348394",
+    "tt1984116",
+    "tt4537888",
+    "tt1861279",
+    "tt5774450",
+    "tt1740725"
   ],
   "collections": [],
   "is_curated": true,

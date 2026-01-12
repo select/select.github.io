@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/press-for-time",
+      "id": "press-for-time",
       "title": "Press For Time",
       "description": "The British P.M.'s grandson, Norman, becomes a reporter for a provincial newspaper where he causes hilarious chaos.",
       "fileSize": 8067066748,
-      "id": "press-for-time"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/press-for-time",
+      "language": "eng",
+      "year": 1966,
+      "collection": "feature_films",
+      "downloads": 1234
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059143",
-      "title": "The Early Bird",
-      "year": 1965,
-      "imdbRating": 6.7,
-      "imdbVotes": 1339,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057530",
-      "title": "A Stitch in Time",
-      "year": 1963,
-      "imdbRating": 6.9,
-      "imdbVotes": 1304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056307",
-      "title": "On the Beat",
-      "year": 1962,
-      "imdbRating": 6.8,
-      "imdbVotes": 1100,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053683",
-      "title": "The Bulldog Breed",
-      "year": 1960,
-      "imdbRating": 6.1,
-      "imdbVotes": 918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052815",
-      "title": "Follow a Star",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061005",
-      "title": "She Beast",
-      "year": 1966,
-      "imdbRating": 4.7,
-      "imdbVotes": 1525,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059171",
-      "title": "The Fat Spy",
-      "year": 1966,
-      "imdbRating": 2.6,
-      "imdbVotes": 590,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061140",
-      "title": "The Undertaker and His Pals",
-      "year": 1966,
-      "imdbRating": 4.5,
-      "imdbVotes": 1264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063371",
-      "title": "A Report on the Party and Guests",
-      "year": 1966,
-      "imdbRating": 7.1,
-      "imdbVotes": 1866,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061728",
-      "title": "What's Cooking in Paris",
-      "year": 1966,
-      "imdbRating": 6.7,
-      "imdbVotes": 7205,
-      "language": "French, German, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207145",
-      "title": "As Long as You've Got Your Health",
-      "year": 1966,
-      "imdbRating": 7.1,
-      "imdbVotes": 914,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309401",
-      "title": "Buenos Aires, verano 1912",
-      "year": 1966,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0059143",
+    "tt0057530",
+    "tt0056307",
+    "tt0053683",
+    "tt0052815",
+    "tt0061005",
+    "tt0059171",
+    "tt0061140",
+    "tt0063371",
+    "tt0061728",
+    "tt0207145",
+    "tt0309401"
   ],
   "collections": [],
   "is_curated": true,

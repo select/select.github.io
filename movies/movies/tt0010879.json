@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-when-the-clouds-roll-by",
+      "id": "silent-when-the-clouds-roll-by",
       "title": "When the Clouds Roll by",
       "fileSize": 1162033254,
-      "id": "silent-when-the-clouds-roll-by"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-when-the-clouds-roll-by",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1035
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011474",
-      "title": "The Mollycoddle",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012513",
-      "title": "The Nut",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007031",
-      "title": "Manhattan Madness",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012701",
-      "title": "A Small Town Idol",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026338",
-      "title": "The Farmer Takes a Wife",
-      "year": 1935,
-      "imdbRating": 6.4,
-      "imdbVotes": 488,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007873",
-      "title": "Down to Earth",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008775",
-      "title": "Wild and Woolly",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 675,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015324",
-      "title": "Sherlock Jr.",
-      "year": 1924,
-      "imdbRating": 8.2,
-      "imdbVotes": 64220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020227",
-      "title": "Nothing But the Truth",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019676",
-      "title": "Barnum Was Right",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010146",
-      "title": "From Hand to Mouth",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1180,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0011474",
+    "tt0012513",
+    "tt0007031",
+    "tt0012701",
+    "tt0026338",
+    "tt0009142",
+    "tt0007873",
+    "tt0008775",
+    "tt0015324",
+    "tt0020227",
+    "tt0019676",
+    "tt0010146"
   ],
   "collections": [],
   "is_curated": true,

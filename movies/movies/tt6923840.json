@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hell-in-normandy",
+      "id": "hell-in-normandy",
       "title": "Hell In Normandy",
       "description": "World War II in the days leading up to the Normandy Invasion/D-Day. Omaha Beach - one of the Allied Forces/American beach heads is where a parachute unit is sent to destroy a German installation.",
       "fileSize": 287456535,
-      "id": "hell-in-normandy"
+      "addedAt": "2026-01-07T00:08:39.345Z",
+      "thumbnail": "https://archive.org/services/img/hell-in-normandy",
+      "collection": "feature_films",
+      "downloads": 5328
     }
   ],
   "metadata": {
@@ -27,124 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt6893370",
-      "title": "My Little Monster",
-      "year": 2018,
-      "imdbRating": 6,
-      "imdbVotes": 866,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5459382",
-      "title": "The Etruscan Smile",
-      "year": 2018,
-      "imdbRating": 6.9,
-      "imdbVotes": 2297,
-      "language": "English, Gaelic",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3846674",
-      "title": "To All the Boys I've Loved Before",
-      "year": 2018,
-      "imdbRating": 7,
-      "imdbVotes": 135017,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4859168",
-      "title": "Then Came You",
-      "year": 2018,
-      "imdbRating": 6.9,
-      "imdbVotes": 14363,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6186940",
-      "title": "Hot Air",
-      "year": 2018,
-      "imdbRating": 5.4,
-      "imdbVotes": 1340,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2139869",
-      "title": "Family Games",
-      "year": 2018,
-      "imdbRating": 6.3,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1352771",
-      "title": "Randy's Canvas",
-      "year": 2018,
-      "imdbRating": 6.3,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt8315092",
-      "title": "We Love",
-      "year": 2018,
-      "imdbRating": 4.8,
-      "imdbVotes": 270,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5068162",
-      "title": "Sometimes Always Never",
-      "year": 2018,
-      "imdbRating": 6.3,
-      "imdbVotes": 3522,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1971310",
-      "title": "5 Weddings",
-      "year": 2018,
-      "imdbRating": 3.5,
-      "imdbVotes": 671,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7738450",
-      "title": "Thunder Road",
-      "year": 2018,
-      "imdbRating": 7,
-      "imdbVotes": 20281,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt4364194",
-      "title": "The Peanut Butter Falcon",
-      "year": 2019,
-      "imdbRating": 7.6,
-      "imdbVotes": 117031,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt6893370",
+    "tt5459382",
+    "tt3846674",
+    "tt4859168",
+    "tt6186940",
+    "tt2139869",
+    "tt1352771",
+    "tt8315092",
+    "tt5068162",
+    "tt1971310",
+    "tt7738450",
+    "tt4364194"
   ],
   "collections": [],
   "is_curated": true,

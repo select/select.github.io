@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_6201",
+      "id": "dipwad2_zoho_6201",
       "title": "620",
       "description": "620 ",
       "fileSize": 2983073039,
-      "id": "dipwad2_zoho_6201"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_6201",
+      "collection": "feature_films",
+      "downloads": 546
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_620",
+      "id": "rog56_mail_620",
       "title": "620",
       "description": "620",
       "fileSize": 2842488897,
-      "id": "rog56_mail_620"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_620",
+      "collection": "feature_films",
+      "downloads": 705
     }
   ],
   "metadata": {
@@ -35,110 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9587320",
-      "title": "The Unseen Enemy",
-      "year": 1981,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0156739",
-      "title": "Liebesfilm",
-      "year": 1982,
-      "imdbRating": 5.9,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5598030",
-      "title": "Trailer",
-      "year": 1980,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7320904",
-      "title": "Eddie and Lutz",
-      "year": 1979,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079704",
-      "title": "Paul Robeson: Tribute to an Artist",
-      "year": 1979,
-      "imdbRating": 7.5,
-      "imdbVotes": 521,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1002443",
-      "title": "Day of the Killer Tornadoes",
-      "year": 1978,
-      "imdbRating": 8.1,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381088",
-      "title": "Christmas Snows, Christmas Winds",
-      "year": 1978,
-      "imdbRating": 5.7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0176684",
-      "title": "Dégustation maison",
-      "year": 1978,
-      "imdbRating": 5.9,
-      "imdbVotes": 258,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0387927",
-      "title": "The Child Molester",
-      "year": 1964,
-      "imdbRating": 5.4,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt9587320",
+    "tt5598030",
+    "tt7320904",
+    "tt0079704",
+    "tt1002443",
+    "tt0381088",
+    "tt0176684",
+    "tt0387927",
+    "tt6564690",
+    "tt3155794",
+    "tt0308284",
+    "tt3110548"
   ],
   "collections": [],
   "is_curated": true,

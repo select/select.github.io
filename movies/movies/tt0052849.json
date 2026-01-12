@@ -6,19 +6,29 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=8PyJKCTrTxk",
+      "id": "8PyJKCTrTxk",
       "title": "The Girl in Lovers Lane (1960) SMALL TOWN CRIME",
       "description": "Exclusive Friday at PizzaFLIX Edition!\nStars: Brett Halsey, Joyce Meadows, Lowell Brown, and Jack Elam \nDirected by: Charles R. Rondeau\n\nIn this Mystery Science Theater favorite, a seasoned drifter and a runaway rich kid hop a freight train to Small Town USA, where they find trouble, Love, and a psycho Jack Elam. Spaghetti Western fans may recognize Brett Halsley a.k.a. Montgomery Ford.",
-      "id": "8PyJKCTrTxk",
+      "addedAt": "2025-12-26T23:42:42.696Z",
+      "thumbnail": "https://i.ytimg.com/vi/8PyJKCTrTxk/maxresdefault.jpg",
+      "duration": 4595,
+      "language": "en",
+      "year": 1960,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Girl_In_Lovers_Lane",
+      "id": "Girl_In_Lovers_Lane",
       "title": "The Girl in Lover's Lane",
       "description": "\"Too Young to Know...Too Reckless to Care...\" Two drifters arrive in a small town and get into trouble immediately.",
       "fileSize": 1828586504,
-      "id": "Girl_In_Lovers_Lane"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/Girl_In_Lovers_Lane",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 15678
     }
   ],
   "metadata": {
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051987",
-      "title": "Never Love a Stranger",
-      "year": 1958,
-      "imdbRating": 5.4,
-      "imdbVotes": 458,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186380",
-      "title": "Más allá del olvido",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 313,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038342",
-      "title": "Bedelia",
-      "year": 1946,
-      "imdbRating": 6.6,
-      "imdbVotes": 397,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043830",
-      "title": "My True Story",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054058",
-      "title": "Man on a String",
-      "year": 1960,
-      "imdbRating": 6.2,
-      "imdbVotes": 506,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054084",
-      "title": "Midnight Lace",
-      "year": 1960,
-      "imdbRating": 6.8,
-      "imdbVotes": 6332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054102",
-      "title": "Murder, Inc.",
-      "year": 1960,
-      "imdbRating": 6.6,
-      "imdbVotes": 1687,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0051987",
+    "tt0186380",
+    "tt0032179",
+    "tt0038342",
+    "tt0022662",
+    "tt0033526",
+    "tt0021770",
+    "tt0039694",
+    "tt0043830",
+    "tt0054058",
+    "tt0054084",
+    "tt0054102"
   ],
   "collections": [],
   "is_curated": true,

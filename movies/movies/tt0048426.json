@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/no-mans-woman-",
+      "id": "no-mans-woman-",
       "title": "No Man's Woman (1955)",
       "description": "Marie Windsor, John Archer, Patrick Knowles Republic Pictures",
       "fileSize": 1561308056,
-      "id": "no-mans-woman-"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/no-mans-woman-",
+      "collection": "feature_films",
+      "downloads": 557
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/no-mans-woman-1955",
+      "id": "no-mans-woman-1955",
       "title": "No Man's Woman (1955) Marie Windsor, John Archer, Patric Knowles",
       "description": "No Man's Woman is a 1955 American FILM NOlR crime film directed by Franklin Adreon and starring Marie Windsor, John Archer and Patric Knowles.   You can find out more about this movie from Wikipedia .",
       "fileSize": 916662613,
-      "id": "no-mans-woman-1955"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/no-mans-woman-1955",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 989
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/no-mans-woman-1955_202307",
+      "id": "no-mans-woman-1955_202307",
       "title": "No Man's Woman (1955)",
       "description": "A greedy, scheming woman is found murdered in her studio, and the police find that there is no shortage of suspects who wanted to see her dead--among them a rich husband she wouldn't divorce unless he paid her a huge settlement, a lover she caused to be fired from his job and an assistant whose fiancé she tried to seduce. Watch on RetroFlix:  https://retroflix.org/no-mans-woman-1955/",
       "fileSize": 243884028,
-      "id": "no-mans-woman-1955_202307"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/no-mans-woman-1955_202307",
+      "language": "eng",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 169
     }
   ],
   "metadata": {
@@ -43,115 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049836",
-      "title": "Terror at Midnight",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054930",
-      "title": "Girl on the Run",
-      "year": 1953,
-      "imdbRating": 5.1,
-      "imdbVotes": 253,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0124076",
-      "title": "Portland Exposé",
-      "year": 1957,
-      "imdbRating": 6,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0047681",
-      "title": "World for Ransom",
-      "year": 1954,
-      "imdbRating": 5.8,
-      "imdbVotes": 654,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047878",
-      "title": "The Big Combo",
-      "year": 1955,
-      "imdbRating": 7.3,
-      "imdbVotes": 9203,
-      "language": "English, Swedish, Latin, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047934",
-      "title": "Chicago Syndicate",
-      "year": 1955,
-      "imdbRating": 6.5,
-      "imdbVotes": 661,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047958",
-      "title": "Crashout",
-      "year": 1955,
-      "imdbRating": 7,
-      "imdbVotes": 791,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037691",
-      "title": "Fallen Angel",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 6860,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047904",
-      "title": "A Bullet for Joey",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 1322,
-      "language": "English, Spanish, Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048301",
-      "title": "A Life in the Balance",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049204",
-      "title": "Female Jungle",
-      "year": 1955,
-      "imdbRating": 5.5,
-      "imdbVotes": 630,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049836",
+    "tt0054930",
+    "tt0124076",
+    "tt0047681",
+    "tt0047878",
+    "tt0047934",
+    "tt0047958",
+    "tt0037078",
+    "tt0037691",
+    "tt0047904",
+    "tt0048301",
+    "tt0049204"
   ],
   "collections": [],
   "is_curated": true,

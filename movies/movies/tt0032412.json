@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dr.-cyclops",
+      "id": "dr.-cyclops",
       "title": "Dr. Cyclops",
       "description": "A mad scientist working in the South American jungle miniaturizes his colleagues when he feels his megalomania is threatened.",
       "fileSize": 6341935019,
-      "id": "dr.-cyclops"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dr.-cyclops",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 5097
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dr..-cyclops.-1940",
+      "id": "dr..-cyclops.-1940",
       "title": "Dr. Cyclops (1940)",
       "description": "\"Dr. Cyclops\" is a 1940 American science fiction horror film directed by Ernest B. Schoedsack, known for being the first horror film made in full three-strip Technicolor. It follows the story of Dr. Alexander Thorkel, a mad scientist who shrinks his colleagues to microscopic size in his jungle laboratory. When they threaten to expose his experiments, he uses his invention to miniaturize them. The scientists must navigate the dangers of the jungle while trying to escape Thorkel's clutches.",
       "fileSize": 1379944182,
-      "id": "dr..-cyclops.-1940"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dr..-cyclops.-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 368
     }
   ],
   "metadata": {
@@ -35,118 +47,18 @@
     "Awards": "Nominated for 1 Oscar. 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033297",
-      "title": "Zwischen Hamburg und Haiti",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032959",
-      "title": "Queen of the Yukon",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032392",
-      "title": "The Devil's Pipeline",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032642",
-      "title": "Isle of Destiny",
-      "year": 1940,
-      "imdbRating": 4.7,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050649",
-      "title": "The Living Idol",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 349,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033139",
-      "title": "Terry and the Pirates",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt10852686",
-      "title": "S.O.S. Survive or Sacrifice",
-      "year": 2020,
-      "imdbRating": 3.1,
-      "imdbVotes": 408,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13452524",
-      "title": "Monsters of War",
-      "year": 2021,
-      "imdbRating": 2.1,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0816436",
-      "title": "Black Water",
-      "year": 2007,
-      "imdbRating": 5.8,
-      "imdbVotes": 16535,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0032818",
-      "title": "The Mummy's Hand",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 4847,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033159",
-      "title": "Three Faces West",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1001,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016545",
-      "title": "Wolfblood",
-      "year": 1925,
-      "imdbRating": 5.4,
-      "imdbVotes": 331,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0033297",
+    "tt0032959",
+    "tt0032392",
+    "tt0032642",
+    "tt0050649",
+    "tt0033139",
+    "tt10852686",
+    "tt13452524",
+    "tt0816436",
+    "tt0032818",
+    "tt0033159",
+    "tt0016545"
   ],
   "collections": [],
   "is_curated": true,

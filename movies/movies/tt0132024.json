@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/celles-qui-sen-font_1928",
+      "id": "celles-qui-sen-font_1928",
       "title": "Celles qui s'en font",
       "fileSize": 206376781,
-      "id": "celles-qui-sen-font_1928"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/celles-qui-sen-font_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 300
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0132076",
-      "title": "Danses espagnoles",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020927",
-      "title": "The Golf Specialist",
-      "year": 1930,
-      "imdbRating": 6.2,
-      "imdbVotes": 1259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021590",
-      "title": "Ain't Nature Grand!",
-      "year": 1930,
-      "imdbRating": 5.3,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021660",
-      "title": "Big Man from the North",
-      "year": 1930,
-      "imdbRating": 5.8,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020705",
-      "title": "Box Car Blues",
-      "year": 1930,
-      "imdbRating": 5.3,
-      "imdbVotes": 236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020767",
-      "title": "Circus Capers",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020784",
-      "title": "Congo Jazz",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 482,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020907",
-      "title": "Frozen Frolics",
-      "year": 1930,
-      "imdbRating": 4.3,
-      "imdbVotes": 122,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146845",
-      "title": "Gypped in Egypt",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020983",
-      "title": "Hold Anything",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0132076",
+    "tt0017775",
+    "tt0021576",
+    "tt0020927",
+    "tt0021590",
+    "tt0021660",
+    "tt0020705",
+    "tt0020767",
+    "tt0020784",
+    "tt0020907",
+    "tt0146845",
+    "tt0020983"
   ],
   "collections": [],
   "is_curated": true,

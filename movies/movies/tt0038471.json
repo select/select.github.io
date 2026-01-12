@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/devils-mask-1946",
+      "id": "devils-mask-1946",
       "title": "The Devil’s Mask (1946)",
       "description": "Anita Louise, Jim Bannon",
       "fileSize": 1117820928,
-      "id": "devils-mask-1946"
+      "addedAt": "2026-01-07T00:08:07.354Z",
+      "thumbnail": "https://archive.org/services/img/devils-mask-1946",
+      "collection": "feature_films",
+      "downloads": 739
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038774",
-      "title": "Night Editor",
-      "year": 1946,
-      "imdbRating": 6.7,
-      "imdbVotes": 1068,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038640",
-      "title": "The Inner Circle",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039800",
-      "title": "Scared to Death",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 1834,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038449",
-      "title": "Dangerous Money",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1300,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038452",
-      "title": "Dark Alibi",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 1437,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038758",
-      "title": "Murder in the Music Hall",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038828",
-      "title": "Passkey to Danger",
-      "year": 1946,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038958",
-      "title": "So Dark the Night",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1443,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038774",
+    "tt0037078",
+    "tt0038494",
+    "tt0038577",
+    "tt0038640",
+    "tt0039800",
+    "tt0038449",
+    "tt0038452",
+    "tt0038758",
+    "tt0038828",
+    "tt0038958",
+    "tt0039645"
   ],
   "collections": [],
   "is_curated": true,

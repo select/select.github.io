@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/asa-the-scarlet-empress-1934-a-film-directed-by-josef-von-sternberg-with-marlene",
+      "id": "asa-the-scarlet-empress-1934-a-film-directed-by-josef-von-sternberg-with-marlene",
       "title": "The Scarlet Empress (1934)",
       "description": "A German noblewoman enters into a loveless marriage with the dim-witted, unstable heir to the Russian throne, then plots to oust him from power.",
       "fileSize": 3071321036,
-      "id": "asa-the-scarlet-empress-1934-a-film-directed-by-josef-von-sternberg-with-marlene"
+      "addedAt": "2026-01-07T00:07:25.000Z",
+      "thumbnail": "https://archive.org/services/img/asa-the-scarlet-empress-1934-a-film-directed-by-josef-von-sternberg-with-marlene",
+      "collection": "feature_films",
+      "downloads": 8115
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-scarlet-empress",
+      "id": "the-scarlet-empress",
       "title": "The Scarlet Empress",
       "description": "Marlene Dietrich stars in Josef von Sternberg’s feverishly debauched biopic as the spoiled princess Sophia Frederica, who grows up being groomed for greatness and yearning for a handsome husband. Sent to Russia to marry the Grand Duke Peter, she is horrified to discover that her betrothed is a half-wit and her new home a macabre palace where depravity rules. Before long, however, she is initiated into the sadistic power politics that govern the court, paving the way for her transformation into the imperious libertine Catherine the Great. A lavish spectacle in which von Sternberg’s domineering visual genius reaches new heights of florid extravagance,  The Scarlet Empress  is a perversely erotic portrait of a woman—and a movie star—capable of bringing legions to heel.",
       "fileSize": 8610325297,
-      "id": "the-scarlet-empress"
+      "addedAt": "2026-01-07T00:12:22.158Z",
+      "thumbnail": "https://archive.org/services/img/the-scarlet-empress",
+      "language": "eng",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 7007
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "1 win."
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026276",
-      "title": "The Devil Is a Woman",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 4152,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021800",
-      "title": "Dishonored",
-      "year": 1931,
-      "imdbRating": 7.2,
-      "imdbVotes": 3287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021156",
-      "title": "Morocco",
-      "year": 1930,
-      "imdbRating": 7,
-      "imdbVotes": 7738,
-      "language": "English, French, Spanish, Arabic, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020697",
-      "title": "The Blue Angel",
-      "year": 1930,
-      "imdbRating": 7.6,
-      "imdbVotes": 17200,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0022698",
-      "title": "Blonde Venus",
-      "year": 1932,
-      "imdbRating": 7.1,
-      "imdbVotes": 6071,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023458",
-      "title": "Shanghai Express",
-      "year": 1932,
-      "imdbRating": 7.3,
-      "imdbVotes": 11001,
-      "language": "English, French, Cantonese, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019754",
-      "title": "The Case of Lena Smith",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 52,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019071",
-      "title": "The Last Command",
-      "year": 1928,
-      "imdbRating": 7.9,
-      "imdbVotes": 4676,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030675",
-      "title": "The Return of the Scarlet Pimpernel",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 354,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024966",
-      "title": "Chapaev",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 1461,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0026276",
+    "tt0021800",
+    "tt0021156",
+    "tt0020697",
+    "tt0027727",
+    "tt0022698",
+    "tt0023458",
+    "tt0019754",
+    "tt0019071",
+    "tt0030675",
+    "tt0025178",
+    "tt0024966"
   ],
   "collections": [
     {

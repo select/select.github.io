@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheCatAndTheCanary_201511",
+      "id": "TheCatAndTheCanary_201511",
       "title": "The Cat And The Canary",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 954976255,
-      "id": "TheCatAndTheCanary_201511"
+      "addedAt": "2026-01-07T00:06:58.273Z",
+      "thumbnail": "https://archive.org/services/img/TheCatAndTheCanary_201511",
+      "collection": "feature_films",
+      "downloads": 5656
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-cat-and-the-canary-1939-legendado-pt",
+      "id": "the-cat-and-the-canary-1939-legendado-pt",
       "title": "The Cat And The Canary (1939), com Bob Hope e Paulette Godard, legendas em português",
       "description": "Filme norte-americano do gênero comédia de terror, dirigido por Elliott Nugent, com roteiro de Walter DeLeon e Lynn Starling baseado na peça homônima de John Willard. No elenco: Bob Hope, Paulette Godard, Gale Sondergaard e Douglass Montegomery.",
       "fileSize": 314022568,
-      "id": "the-cat-and-the-canary-1939-legendado-pt"
+      "addedAt": "2026-01-07T00:11:57.682Z",
+      "thumbnail": "https://archive.org/services/img/the-cat-and-the-canary-1939-legendado-pt",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 2766
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033963",
-      "title": "Nothing But the Truth",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1093,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031716",
-      "title": "Never Say Die",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 658,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034850",
-      "title": "The Hidden Hand",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 686,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026819",
-      "title": "One Frightened Night",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031831",
-      "title": "Clouds Over Europe",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 1148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031489",
-      "title": "Inspector Hornleigh",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013458",
-      "title": "One Exciting Night",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037151",
-      "title": "One Body Too Many",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 1582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031387",
-      "title": "The Gorilla",
-      "year": 1939,
-      "imdbRating": 4.8,
-      "imdbVotes": 1730,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025169",
-      "title": "The Ghost Walks",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 663,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057156",
-      "title": "The Horror of It All",
-      "year": 1964,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033963",
+    "tt0039645",
+    "tt0031716",
+    "tt0034850",
+    "tt0026819",
+    "tt0031831",
+    "tt0031489",
+    "tt0013458",
+    "tt0037151",
+    "tt0031387",
+    "tt0025169",
+    "tt0057156"
   ],
   "collections": [
     {

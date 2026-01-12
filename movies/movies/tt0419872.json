@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-tale-of-crab-temple",
+      "id": "silent-tale-of-crab-temple",
       "title": "Tale of Crab Temple",
       "fileSize": 172717036,
-      "id": "silent-tale-of-crab-temple"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-tale-of-crab-temple",
+      "language": "Japanese",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 1351
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0419883",
-      "title": "Kinken chochiku Shiobara Tasuke",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141010",
-      "title": "Felix All Puzzled",
-      "year": 1925,
-      "imdbRating": 6.1,
-      "imdbVotes": 142,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168766",
-      "title": "Felix Finds 'Em Fickle",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 50,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1238115",
-      "title": "Kitay v ogne (Ruki proch ot Kitaya!)",
-      "year": 1925,
-      "imdbRating": 6.5,
-      "imdbVotes": 94,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419902",
-      "title": "Kyoiku senga: Ubasute yama",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177956",
-      "title": "Opus IV",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 410,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0363074",
-      "title": "Slick Sleuths",
-      "year": 1926,
-      "imdbRating": 6,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419901",
-      "title": "Kyoiku otogi manga: Usagi to kame",
-      "year": 1924,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141035",
-      "title": "Felix Out of Luck",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177955",
-      "title": "Opus III",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 426,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147714",
-      "title": "The Wind Jammers",
-      "year": 1926,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0419883",
+    "tt0141010",
+    "tt0168766",
+    "tt1238115",
+    "tt0419902",
+    "tt0177956",
+    "tt0141028",
+    "tt0363074",
+    "tt0419901",
+    "tt0141035",
+    "tt0177955",
+    "tt0147714"
   ],
   "collections": [],
   "is_curated": true,

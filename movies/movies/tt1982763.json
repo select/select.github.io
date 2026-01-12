@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-le-char-funbre",
+      "id": "silent-le-char-funbre",
       "title": "Le char funèbre",
       "fileSize": 24662459,
-      "id": "silent-le-char-funbre"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-le-char-funbre",
+      "language": "French",
+      "year": 1902,
+      "collection": "feature_films",
+      "downloads": 247
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1982757",
-      "title": "Le Bey de Tunis et les personnages de sa suite descendant l'escalier du Bardo",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 196,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366268",
-      "title": "Burning of Durland's Riding Academy",
-      "year": 1902,
-      "imdbRating": 5.1,
-      "imdbVotes": 181,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471108",
-      "title": "Burnley v Manchester United",
-      "year": 1902,
-      "imdbRating": 5.3,
-      "imdbVotes": 116,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471148",
-      "title": "Dewsbury v Manningham",
-      "year": 1902,
-      "imdbRating": 5.3,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471163",
-      "title": "Electric Tram Rides from Forster Square, Bradford",
-      "year": 1902,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982765",
-      "title": "Le roi de Cambodge se rendant au Palais",
-      "year": 1902,
-      "imdbRating": 4.8,
-      "imdbVotes": 87,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471229",
-      "title": "Leeds Athletic and Cycling Club Carnival",
-      "year": 1902,
-      "imdbRating": 5.5,
-      "imdbVotes": 89,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471236",
-      "title": "Living Wigan",
-      "year": 1902,
-      "imdbRating": 5.6,
-      "imdbVotes": 130,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982775",
-      "title": "M. le Président de la République sur la Jetée Promenade",
-      "year": 1902,
-      "imdbRating": 5.1,
-      "imdbVotes": 102,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366872",
-      "title": "Panoramic View of the Golden Gate",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 89,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0375046",
-      "title": "Scene on Lower Broadway",
-      "year": 1902,
-      "imdbRating": 4.9,
-      "imdbVotes": 166,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471384",
-      "title": "Sheffield United v Bury",
-      "year": 1902,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1982757",
+    "tt0366268",
+    "tt0471108",
+    "tt0471148",
+    "tt0471163",
+    "tt1982765",
+    "tt0471229",
+    "tt0471236",
+    "tt1982775",
+    "tt0366872",
+    "tt0375046",
+    "tt0471384"
   ],
   "collections": [],
   "is_curated": true,

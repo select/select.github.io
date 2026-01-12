@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ParadiseCanyon",
+      "id": "ParadiseCanyon",
       "title": "Paradise Canyon",
       "description": "AKA Paradise Ranch Government agent John Wyatt (John Wayne) is searching for a counterfeit ring operating on the Mexican/Arizona border and joins Doc Carter's (Earle Hodgins) traveling medicine show as a sharpshooter.",
       "fileSize": 1482568561,
-      "id": "ParadiseCanyon"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/ParadiseCanyon",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 243882
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/paradise-canyon-1935",
+      "id": "paradise-canyon-1935",
       "title": "Paradise Canyon (1935)",
       "description": "John Wyatt is a government agent sent to smash a counterfeiting operation near the Mexican border. Joining Doc Carter's medicine show they arrive in the town where Curly Joe, who once framed Carter, resides. Watch on RetroFlix:  https://retroflix.org/paradise-canyon-1935/",
       "fileSize": 332936311,
-      "id": "paradise-canyon-1935"
+      "addedAt": "2026-01-07T00:10:12.695Z",
+      "thumbnail": "https://archive.org/services/img/paradise-canyon-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 66
     }
   ],
   "metadata": {
@@ -35,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026267",
-      "title": "The Dawn Rider",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026937",
-      "title": "Rip Roaring Riley",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026908",
-      "title": "Rainbow Valley",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 760,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025699",
-      "title": "Randy Rides Alone",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025830",
-      "title": "The Star Packer",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025440",
-      "title": "The Lucky Texan",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 1429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025969",
-      "title": "West of the Divide",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1095,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024902",
-      "title": "Blue Steel",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1796,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025373",
-      "title": "The Lawless Frontier",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024805",
-      "title": "'Neath the Arizona Skies",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 1179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025455",
-      "title": "The Man from Utah",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1291,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026267",
+    "tt0026937",
+    "tt0027087",
+    "tt0026908",
+    "tt0025699",
+    "tt0025830",
+    "tt0025440",
+    "tt0025969",
+    "tt0024902",
+    "tt0025373",
+    "tt0024805",
+    "tt0025455"
   ],
   "collections": [],
   "is_curated": true,

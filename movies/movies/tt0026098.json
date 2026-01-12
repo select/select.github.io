@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-barcarole-willy-birgel-elsa-wagner-gustav-frohlich-hilde-hildebrand",
+      "id": "1935-barcarole-willy-birgel-elsa-wagner-gustav-frohlich-hilde-hildebrand",
       "title": "1935 Barcarole ( Willy Birgel, Elsa Wagner, Gustav Fröhlich, Hilde Hildebrand)",
       "description": "Film aus dem deutschen dritten Reich von 1935. Barcarole.  U.a mit Willy Birgel und Gustav Fröhlich ",
       "fileSize": 808844830,
-      "id": "1935-barcarole-willy-birgel-elsa-wagner-gustav-frohlich-hilde-hildebrand"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1935-barcarole-willy-birgel-elsa-wagner-gustav-frohlich-hilde-hildebrand",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 252
     }
   ],
   "metadata": {
@@ -27,109 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0134112",
-      "title": "Der Spieler",
-      "year": 1938,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028924",
-      "title": "Die gelbe Flagge",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029178",
-      "title": "Madame Bovary",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031338",
-      "title": "Frau im Strom",
-      "year": 1939,
-      "imdbRating": 8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026968",
-      "title": "Schwarze Rosen",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027048",
-      "title": "Stradivari",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026764",
-      "title": "Nacht der Verwandlung",
-      "year": 1935,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025679",
-      "title": "Prinzessin Turandot",
-      "year": 1934,
-      "imdbRating": 7.7,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028560",
-      "title": "Alarm in Peking",
-      "year": 1937,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028851",
-      "title": "Fanny Elssler",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024600",
-      "title": "Ray of Sunshine",
-      "year": 1933,
-      "imdbRating": 7.4,
-      "imdbVotes": 182,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0134112",
+    "tt0028924",
+    "tt0029178",
+    "tt0031338",
+    "tt0026968",
+    "tt0027048",
+    "tt0026764",
+    "tt0025679",
+    "tt0028560",
+    "tt0028851",
+    "tt0024600",
+    "tt0027087"
   ],
   "collections": [],
   "is_curated": true,

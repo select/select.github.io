@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-le-pied-qui-treint",
+      "id": "silent-le-pied-qui-treint",
       "title": "Le pied qui étreint",
       "fileSize": 973224291,
-      "id": "silent-le-pied-qui-treint"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-le-pied-qui-treint",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 544
     }
   ],
   "metadata": {
@@ -26,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0331019",
-      "title": "Têtes de femmes, femmes de tête",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 40,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0442588",
-      "title": "Biscot se trompe d'étage",
-      "year": 1916,
-      "imdbRating": 5.7,
-      "imdbVotes": 40,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209091",
-      "title": "Lagourdette, gentleman cambrioleur",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011071",
-      "title": "Convict 13",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 3668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt27919777",
-      "title": "Coney Island Cousins",
-      "year": 2025,
-      "imdbRating": 9.5,
-      "imdbVotes": 6,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0043327",
-      "title": "Behave Yourself!",
-      "year": 1951,
-      "imdbRating": 5.5,
-      "imdbVotes": 813,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0062759",
-      "title": "The Diamond Arm",
-      "year": 1969,
-      "imdbRating": 8.3,
-      "imdbVotes": 16674,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0028346",
-      "title": "Reefer Madness",
-      "year": 1936,
-      "imdbRating": 3.7,
-      "imdbVotes": 9511,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0331019",
+    "tt0442588",
+    "tt0209091",
+    "tt0006206",
+    "tt0002133",
+    "tt0011071",
+    "tt0039645",
+    "tt27919777",
+    "tt0043327",
+    "tt0037960",
+    "tt0062759",
+    "tt0028346"
   ],
   "collections": [],
   "is_curated": true,

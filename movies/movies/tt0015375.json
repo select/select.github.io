@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-studenterna-p-trstehult",
+      "id": "silent-studenterna-p-trstehult",
       "title": "Studenterna på Tröstehult",
       "fileSize": 1101420593,
-      "id": "silent-studenterna-p-trstehult"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-studenterna-p-trstehult",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 139
     }
   ],
   "metadata": {
@@ -26,106 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018977",
-      "title": "Hattmakarens bal",
-      "year": 1928,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154377",
-      "title": "La dame masquée",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 22,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015739",
-      "title": "Daughters Who Pay",
-      "year": 1925,
-      "imdbRating": 7.7,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0196220",
-      "title": "Das Wunder des Schneeschuhs, 2. Teil - Eine Fuchsjagd auf Skiern durchs Engadin",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018380",
-      "title": "El señor Don Juan Tenorio",
-      "year": 1927,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0345330",
-      "title": "Gesetze der Liebe",
-      "year": 1927,
-      "imdbRating": 5.8,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188993",
-      "title": "Perdón, viejita",
-      "year": 1927,
-      "imdbRating": 5.7,
-      "imdbVotes": 36,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012219",
-      "title": "A Girl of the Bush",
-      "year": 1921,
-      "imdbRating": 5.4,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011503",
-      "title": "Die Nacht ohne Morgen",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259120",
-      "title": "Âme belge",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 8,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011273",
-      "title": "Hegyek alján",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432307",
-      "title": "Johann Baptiste Lingg",
-      "year": 1920,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    }
+    "tt0018977",
+    "tt0154377",
+    "tt0015739",
+    "tt0196220",
+    "tt0018380",
+    "tt0345330",
+    "tt0188993",
+    "tt0012219",
+    "tt0011503",
+    "tt0259120",
+    "tt0011273",
+    "tt0432307"
   ],
   "collections": [],
   "is_curated": true,

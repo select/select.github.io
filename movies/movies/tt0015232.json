@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-pierrot-pierrette",
+      "id": "silent-pierrot-pierrette",
       "title": "Pierrot, Pierrette",
       "fileSize": 707337629,
-      "id": "silent-pierrot-pierrette"
+      "addedAt": "2026-01-07T00:11:15.971Z",
+      "thumbnail": "https://archive.org/services/img/silent-pierrot-pierrette",
+      "language": "French",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 987
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015116",
-      "title": "Manhandled",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 1121,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015313",
-      "title": "Secrets of the Night",
-      "year": 1924,
-      "imdbRating": 6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015500",
-      "title": "Wine of Youth",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 411,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209007",
-      "title": "Gustave est médium",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 12,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0015663",
-      "title": "California Straight Ahead",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014137",
-      "title": "Hollywood",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 86,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016013",
-      "title": "Lazybones",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 561,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0293777",
-      "title": "Le brasier ardent",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 353,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015768",
-      "title": "Master of the House",
-      "year": 1925,
-      "imdbRating": 7,
-      "imdbVotes": 2506,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    }
+    "tt0014646",
+    "tt0015116",
+    "tt0015313",
+    "tt0015500",
+    "tt0209007",
+    "tt0016028",
+    "tt0016548",
+    "tt0015663",
+    "tt0014137",
+    "tt0016013",
+    "tt0293777",
+    "tt0015768"
   ],
   "collections": [],
   "is_curated": true,

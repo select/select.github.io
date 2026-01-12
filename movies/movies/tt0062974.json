@@ -6,9 +6,13 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/finians-rainbow-1968",
+      "id": "finians-rainbow-1968",
       "title": "Finians Rainbow",
       "description": "Finian's Rainbow (1968)",
-      "id": "finians-rainbow-1968"
+      "addedAt": "2025-12-23T03:54:55.109Z",
+      "thumbnail": "https://archive.org/services/img/finians-rainbow-1968",
+      "collection": "feature_films",
+      "downloads": 198
     }
   ],
   "metadata": {
@@ -26,118 +30,18 @@
     "Awards": "Nominated for 2 Oscars. 1 win & 9 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050842",
-      "title": "The Pied Piper of Hamelin",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 572,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039188",
-      "title": "Bill and Coo",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 322,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0118692",
-      "title": "Beauty and the Beast: The Enchanted Christmas",
-      "year": 1997,
-      "imdbRating": 6,
-      "imdbVotes": 9553,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0064595",
-      "title": "The Littlest Angel",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0066344",
-      "title": "Scrooge",
-      "year": 1970,
-      "imdbRating": 7.5,
-      "imdbVotes": 13318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066328",
-      "title": "Santa and the Three Bears",
-      "year": 1970,
-      "imdbRating": 6.6,
-      "imdbVotes": 735,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068190",
-      "title": "Alice's Adventures in Wonderland",
-      "year": 1972,
-      "imdbRating": 5.7,
-      "imdbVotes": 1940,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068670",
-      "title": "Había una vez un circo",
-      "year": 1972,
-      "imdbRating": 4.8,
-      "imdbVotes": 83,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068311",
-      "title": "The Boy Who Turned Yellow",
-      "year": 1972,
-      "imdbRating": 5.7,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066194",
-      "title": "The Over-the-Hill Gang Rides Again",
-      "year": 1970,
-      "imdbRating": 5.6,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036696",
-      "title": "The Canterville Ghost",
-      "year": 1944,
-      "imdbRating": 6.9,
-      "imdbVotes": 3442,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1217213",
-      "title": "Secret of the Wings",
-      "year": 2012,
-      "imdbRating": 7,
-      "imdbVotes": 15741,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0050842",
+    "tt0039188",
+    "tt0118692",
+    "tt0064595",
+    "tt0066344",
+    "tt0066328",
+    "tt0068190",
+    "tt0068670",
+    "tt0068311",
+    "tt0066194",
+    "tt0036696",
+    "tt1217213"
   ],
   "collections": [],
   "is_curated": true,

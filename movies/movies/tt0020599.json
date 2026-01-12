@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/woman-trap_1929",
+      "id": "woman-trap_1929",
       "title": "Woman Trap",
       "fileSize": 2963166090,
-      "id": "woman-trap_1929"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/woman-trap_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 5529
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/woman-trap_1929_202506",
+      "id": "woman-trap_1929_202506",
       "title": "Woman Trap (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Two brothers, one a police chief and the other a hardened criminal, both fall in love with the same woman. William A. Wellman, the director of Oscar Winner 'Wings' also directed this barely remembered crime romance. Most of the actors involved did not continue to have very successful careers in sound films, which may be why this picture has been mostly forgotten. ",
       "fileSize": 2916058890,
-      "id": "woman-trap_1929_202506"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/woman-trap_1929_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 77
     }
   ],
   "metadata": {
@@ -34,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020135",
-      "title": "The Man I Love",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020900",
-      "title": "Framed",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018684",
-      "title": "Beggars of Life",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 1376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020810",
-      "title": "Dangerous Paradise",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 141,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022979",
-      "title": "The Hatchet Man",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 914,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021092",
-      "title": "The Pay-Off",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019571",
-      "title": "While the City Sleeps",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022836",
-      "title": "Dragnet Patrol",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019630",
-      "title": "Alibi",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 987,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036845",
-      "title": "Gambler's Choice",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040978",
-      "title": "Yellow Sky",
-      "year": 1948,
-      "imdbRating": 7.4,
-      "imdbVotes": 5936,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019765",
+    "tt0020135",
+    "tt0020900",
+    "tt0018684",
+    "tt0020810",
+    "tt0022979",
+    "tt0021092",
+    "tt0019571",
+    "tt0022836",
+    "tt0019630",
+    "tt0036845",
+    "tt0040978"
   ],
   "collections": [],
   "is_curated": true,

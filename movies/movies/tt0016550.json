@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-womanhandled",
+      "id": "silent-womanhandled",
       "title": "Womanhandled",
       "fileSize": 956771003,
-      "id": "silent-womanhandled"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-womanhandled",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2174
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0200457",
-      "title": "The Adventures of Robert Macaire",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 80,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018882",
-      "title": "Feel My Pulse",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 241,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0018351",
-      "title": "Running Wild",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 266,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034831",
-      "title": "Harvard, Here I Come!",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037033",
-      "title": "Machine Gun Mama",
-      "year": 1944,
-      "imdbRating": 5,
-      "imdbVotes": 93,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044962",
-      "title": "Never Wave at a WAC",
-      "year": 1953,
-      "imdbRating": 5.9,
-      "imdbVotes": 620,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034264",
-      "title": "Tanks a Million",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015772",
-      "title": "The Eagle",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 2212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025681",
-      "title": "The Private Life of Don Juan",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 752,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028662",
-      "title": "A Bride for Henry",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0200457",
+    "tt0018882",
+    "tt0019987",
+    "tt0028010",
+    "tt0018351",
+    "tt0034831",
+    "tt0037033",
+    "tt0044962",
+    "tt0034264",
+    "tt0015772",
+    "tt0025681",
+    "tt0028662"
   ],
   "collections": [],
   "is_curated": true,

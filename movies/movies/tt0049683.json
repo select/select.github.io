@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rock-rock-rock-4-k",
+      "id": "rock-rock-rock-4-k",
       "title": "Rock, Rock, Rock! (1956) [Colorized,4k,60fps]",
       "description": "Rock, Rock, Rock! is a 1956 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2021 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com/   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "fileSize": 6169617807,
-      "id": "rock-rock-rock-4-k"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rock-rock-rock-4-k",
+      "collection": "feature_films",
+      "downloads": 760
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rock_rock_rock",
+      "id": "rock_rock_rock",
       "title": "Rock, Rock, Rock",
       "description": "Taken from IMDB : A young teenage girl desperately tries to earn enough money to buy a dress for a school rock and roll dance. This early rock and roll feature includes an appearance by disc jockey Alan Freed, and performances by artists including Chuck Berry, LaVern Baker, and Frankie Lymon and the Teenagers",
       "fileSize": 2202201429,
-      "id": "rock_rock_rock"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rock_rock_rock",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 305304
     }
   ],
   "metadata": {
@@ -35,113 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051815",
-      "title": "Kermesse",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185288",
-      "title": "Donde comienzan los pantanos",
-      "year": 1952,
-      "imdbRating": 6.7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3480060",
-      "title": "Cold Iron Is a Titanic Comedy",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022789",
-      "title": "Crooner",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020828",
-      "title": "Dixiana",
-      "year": 1930,
-      "imdbRating": 5.2,
-      "imdbVotes": 440,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071112",
-      "title": "El albañil",
-      "year": 1975,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029209",
-      "title": "Manhattan Merry-Go-Round",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 177,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025513",
-      "title": "Money Means Nothing",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028260",
-      "title": "Sitting on the Moon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036391",
-      "title": "Stormy Weather",
-      "year": 1943,
-      "imdbRating": 7.3,
-      "imdbVotes": 2945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056693",
-      "title": "Wild Guitar",
-      "year": 1962,
-      "imdbRating": 4.6,
-      "imdbVotes": 1098,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0051815",
+    "tt0185288",
+    "tt0049397",
+    "tt3480060",
+    "tt0022789",
+    "tt0020828",
+    "tt0071112",
+    "tt0029209",
+    "tt0025513",
+    "tt0028260",
+    "tt0036391",
+    "tt0056693"
   ],
   "collections": [],
   "is_curated": true,

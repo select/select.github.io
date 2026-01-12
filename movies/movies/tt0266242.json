@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/biography.-johnny.-cash",
+      "id": "biography.-johnny.-cash",
       "title": "Johnny Cash: The Man in Black",
       "description": "Biogrpayhy S10.E24 Johnny Cash was one of the greatest figures in American music history. From his early roackabilly days at Sun Records, to his legendary prison concerts, he was an icon of unmatched talent and influence.",
       "fileSize": 624881781,
-      "id": "biography.-johnny.-cash"
+      "addedAt": "2026-01-07T00:07:38.717Z",
+      "thumbnail": "https://archive.org/services/img/biography.-johnny.-cash",
+      "language": "eng",
+      "year": 1998,
+      "collection": "feature_films",
+      "downloads": 77
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "Nominated for 1 Primetime Emmy. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1127851",
-      "title": "Marc Bolan: The Final Word",
-      "year": 2007,
-      "imdbRating": 7.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225448",
-      "title": "A Cry from the Grave",
-      "year": 1999,
-      "imdbRating": 7.8,
-      "imdbVotes": 352,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310597",
-      "title": "Ahmad Shamlou: Master Poet of Liberty",
-      "year": 1999,
-      "imdbRating": 7.7,
-      "imdbVotes": 82,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1765782",
-      "title": "Depeche Mode: Tour of the Universe - Barcelona 20/21.11.09",
-      "year": 2010,
-      "imdbRating": 8.3,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038654",
-      "title": "Jivin' in Be-Bop",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4519562",
-      "title": "Original Motion Picture Soundtrack",
-      "year": 2017,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0770802",
-      "title": "Samsara",
-      "year": 2011,
-      "imdbRating": 8.4,
-      "imdbVotes": 39134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0790769",
-      "title": "Kurt Cobain About a Son",
-      "year": 2006,
-      "imdbRating": 7.2,
-      "imdbVotes": 3877,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3457782",
-      "title": "China the Dragon Smith the Second Chance",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2268622",
-      "title": "808",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 727,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205255",
-      "title": "Mercedes Sosa: como un pájaro libre",
-      "year": 1983,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4382650",
-      "title": "NWA & Eazy-E: Kings of Compton",
-      "year": 2016,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt1127851",
+    "tt0225448",
+    "tt0310597",
+    "tt1765782",
+    "tt0038654",
+    "tt4519562",
+    "tt0770802",
+    "tt0790769",
+    "tt3457782",
+    "tt2268622",
+    "tt0205255",
+    "tt4382650"
   ],
   "collections": [],
   "is_curated": true,

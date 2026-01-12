@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1956slightlyscarletligeramenteescarlataallandwan",
+      "id": "1956slightlyscarletligeramenteescarlataallandwan",
       "title": "1956 - Slightly Scarlet - Ligeramente escarlata - Allan Dwan",
       "description": "1956 - Slightly Scarlet - Ligeramente escarlata _ Allan Dwan",
       "fileSize": 461573112,
-      "id": "1956slightlyscarletligeramenteescarlataallandwan"
+      "addedAt": "2026-01-07T00:06:06.563Z",
+      "thumbnail": "https://archive.org/services/img/1956slightlyscarletligeramenteescarlataallandwan",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 3846
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/slightly-scarlet-1956",
+      "id": "slightly-scarlet-1956",
       "title": "Slightly Scarlet (1956) John Payne, Rhonda Fleming, Arlene Dahl, Ted De Corsia",
       "description": "Slightly Scarlet is a 1956 American crime film, with some noirish elements, based on James M. Cain's novel Love's Lovely Counterfeit. It was directed by Allan Dwan, and its widescreen cinematography was by John Alton. The film stars John Payne, Rhonda Fleming, Arlene Dahl and Ted de Corsia.   You can find out more about this movie from Wikipedia . ",
       "fileSize": 903433313,
-      "id": "slightly-scarlet-1956"
+      "addedAt": "2026-01-07T00:11:24.929Z",
+      "thumbnail": "https://archive.org/services/img/slightly-scarlet-1956",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 4806
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049026",
-      "title": "The Boss",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049405",
-      "title": "The Killer Is Loose",
-      "year": 1956,
-      "imdbRating": 6.6,
-      "imdbVotes": 2650,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050506",
-      "title": "Hidden Fear",
-      "year": 1957,
-      "imdbRating": 5.5,
-      "imdbVotes": 384,
-      "language": "English, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050903",
-      "title": "The River's Edge",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 1402,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049406",
-      "title": "The Killing",
-      "year": 1956,
-      "imdbRating": 7.9,
-      "imdbVotes": 102237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049904",
-      "title": "The Unguarded Moment",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049955",
-      "title": "The Wild Party",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049636",
-      "title": "The Price of Fear",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 726,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050087",
-      "title": "5 Steps to Danger",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 1183,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050271",
-      "title": "Crime of Passion",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 3102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049621",
-      "title": "Please Murder Me!",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1693,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049026",
+    "tt0049405",
+    "tt0050506",
+    "tt0050903",
+    "tt0049340",
+    "tt0049406",
+    "tt0049904",
+    "tt0049955",
+    "tt0049636",
+    "tt0050087",
+    "tt0050271",
+    "tt0049621"
   ],
   "collections": [],
   "is_curated": true,

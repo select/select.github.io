@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/campus-sleuth",
+      "id": "campus-sleuth",
       "title": "Campus Sleuth",
       "description": "Campus Sleuth Freddie Stewart, June Pressier, Noel Neill 1948 Monogram Pictures This is the sixth of eight films in The Teen Agers series.",
       "fileSize": 1092006919,
-      "id": "campus-sleuth"
+      "addedAt": "2026-01-07T00:07:45.166Z",
+      "thumbnail": "https://archive.org/services/img/campus-sleuth",
+      "collection": "feature_films",
+      "downloads": 434
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040803",
-      "title": "Smart Politics",
-      "year": 1948,
-      "imdbRating": 6.7,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039799",
-      "title": "Sarge Goes to College",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039133",
-      "title": "Adventure Island",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039231",
-      "title": "Bush Christmas",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039339",
-      "title": "Dragnet",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041971",
-      "title": "The Torch",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 235,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039707",
-      "title": "The Pilgrim Lady",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045125",
-      "title": "Scaramouche",
-      "year": 1952,
-      "imdbRating": 7.5,
-      "imdbVotes": 6562,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044517",
-      "title": "The Crimson Pirate",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 7270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036879",
-      "title": "The Great Mike",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040803",
+    "tt0039799",
+    "tt0041098",
+    "tt0039133",
+    "tt0039231",
+    "tt0039339",
+    "tt0039580",
+    "tt0041971",
+    "tt0039707",
+    "tt0045125",
+    "tt0044517",
+    "tt0036879"
   ],
   "collections": [],
   "is_curated": true,

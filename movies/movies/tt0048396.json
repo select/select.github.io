@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mimbeat",
+      "id": "mimbeat",
       "title": "Murder Is My Beat",
       "description": "Title: Murder Is My Beat Summary: A police detective helps a singer heading to prison for the murder of a man she claims is still alive. Directed by: Edgar G. Ulmer Actors: Production Company: Masthead Productions Release Date: 27 February 1955 (USA) Aspect Ratio: 1.85 : 1 A police detective helps a singer heading to prison for the murder of a man she claims is still alive.",
       "fileSize": 540071533,
-      "id": "mimbeat"
+      "addedAt": "2026-01-07T00:09:54.327Z",
+      "thumbnail": "https://archive.org/services/img/mimbeat",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 3638
     }
   ],
   "metadata": {
@@ -27,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048426",
-      "title": "No Man's Woman",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046791",
-      "title": "Black Widow",
-      "year": 1954,
-      "imdbRating": 6.7,
-      "imdbVotes": 3333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045669",
-      "title": "Dangerous Crossing",
-      "year": 1953,
-      "imdbRating": 6.9,
-      "imdbVotes": 2687,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050440",
-      "title": "The Girl in the Kremlin",
-      "year": 1957,
-      "imdbRating": 4.9,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054930",
-      "title": "Girl on the Run",
-      "year": 1953,
-      "imdbRating": 5.1,
-      "imdbVotes": 253,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0124076",
-      "title": "Portland Exposé",
-      "year": 1957,
-      "imdbRating": 6,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0037638",
-      "title": "Detour",
-      "year": 1945,
-      "imdbRating": 7.3,
-      "imdbVotes": 20553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038126",
-      "title": "Strange Illusion",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 1189,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040751",
-      "title": "Ruthless",
-      "year": 1948,
-      "imdbRating": 6.8,
-      "imdbVotes": 1516,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035944",
-      "title": "Girls in Chains",
-      "year": 1943,
-      "imdbRating": 4.5,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0044557",
-      "title": "Don't Bother to Knock",
-      "year": 1952,
-      "imdbRating": 6.9,
-      "imdbVotes": 8692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043251",
-      "title": "The 13th Letter",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 581,
-      "language": "English, French, Latin",
-      "sourceType": "archive.org"
-    }
+    "tt0048426",
+    "tt0046791",
+    "tt0045669",
+    "tt0050440",
+    "tt0054930",
+    "tt0124076",
+    "tt0037638",
+    "tt0038126",
+    "tt0040751",
+    "tt0035944",
+    "tt0044557",
+    "tt0043251"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/plane-dippy-1936",
+      "id": "plane-dippy-1936",
       "title": "Plane Dippy (1936)",
       "description": "Air Corpsman Porky is caught in a voice-controlled airplane responding to commands given to a dog by children near the microphone.",
       "fileSize": 965945896,
-      "id": "plane-dippy-1936"
+      "addedAt": "2026-01-07T00:10:12.701Z",
+      "thumbnail": "https://archive.org/services/img/plane-dippy-1936",
+      "language": "eng",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 198
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027968",
-      "title": "Milk and Money",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027371",
-      "title": "The Blow Out",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 326,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028467",
-      "title": "The Village Smithy",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026422",
-      "title": "Gold Diggers of '49",
-      "year": 1935,
-      "imdbRating": 6.2,
-      "imdbVotes": 508,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029040",
-      "title": "I Wanna Be a Sailor",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029400",
-      "title": "Picador Porky",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 223,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029422",
-      "title": "Porky the Wrestler",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029426",
-      "title": "Porky's Duck Hunt",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029708",
-      "title": "Uncle Tom's Bungalow",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028123",
-      "title": "Porky in the North Woods",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029427",
-      "title": "Porky's Garden",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032426",
-      "title": "The Early Worm Gets the Bird",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027968",
+    "tt0027371",
+    "tt0028467",
+    "tt0026422",
+    "tt0029040",
+    "tt0029400",
+    "tt0029422",
+    "tt0029426",
+    "tt0029708",
+    "tt0028123",
+    "tt0029427",
+    "tt0032426"
   ],
   "collections": [],
   "is_curated": true,

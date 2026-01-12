@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-ingmarsarvet",
+      "id": "silent-ingmarsarvet",
       "title": "Ingmarsarvet",
       "fileSize": 1285866511,
-      "id": "silent-ingmarsarvet"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-ingmarsarvet",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 555
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030337",
-      "title": "A Woman's Face",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 1188,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027796",
-      "title": "Intermezzo",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 1414,
-      "language": "Swedish, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015361",
-      "title": "Strike",
-      "year": 1925,
-      "imdbRating": 7.6,
-      "imdbVotes": 8788,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0015648",
-      "title": "Battleship Potemkin",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 63373,
-      "language": "None, Russian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0015693",
-      "title": "Cobra",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 793,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132960",
-      "title": "Flaming Waters",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015900",
-      "title": "Head Winds",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015842",
-      "title": "The Joyless Street",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 1686,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016377",
-      "title": "Soul-Fire",
-      "year": 1925,
-      "imdbRating": 4.3,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016006",
-      "title": "The Lady",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 163,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016107",
-      "title": "The Midnight Girl",
-      "year": 1925,
-      "imdbRating": 5.8,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0030337",
+    "tt0027796",
+    "tt0015361",
+    "tt0015648",
+    "tt0015693",
+    "tt0132960",
+    "tt0015900",
+    "tt0015842",
+    "tt0016028",
+    "tt0016377",
+    "tt0016006",
+    "tt0016107"
   ],
   "collections": [],
   "is_curated": true,

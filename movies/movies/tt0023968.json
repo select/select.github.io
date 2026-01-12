@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1933-du-sollst-nicht-begehren-paul-klinger-karl-platen",
+      "id": "1933-du-sollst-nicht-begehren-paul-klinger-karl-platen",
       "title": "1933 Du Sollst Nicht Begehren ( Paul Klinger, Karl Platen)",
       "description": "Film aus dem deutschen dritten Reich von 1933. Du sollst nicht begehren.  U.a mit Paul Klinger und Karl Platen",
       "fileSize": 1335201472,
-      "id": "1933-du-sollst-nicht-begehren-paul-klinger-karl-platen"
+      "addedAt": "2026-01-07T00:06:00.052Z",
+      "thumbnail": "https://archive.org/services/img/1933-du-sollst-nicht-begehren-paul-klinger-karl-platen",
+      "language": "ger",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 119
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0122801",
-      "title": "Wie einst im Mai",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0253214",
-      "title": "Das Lied der Sonne",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0241030",
-      "title": "Das verliebte Hotel",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133782",
-      "title": "Frühlingsstimmen",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123090",
-      "title": "Glück im Schloß",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255580",
-      "title": "Schüsse an der Grenze",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183083",
-      "title": "The Fighting President",
-      "year": 1933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181982",
-      "title": "Die blonde Christl",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228215",
-      "title": "Die vom Niederrhein",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251646",
-      "title": "Csibi, der Fratz",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025245",
-      "title": "Der Herr ohne Wohnung",
-      "year": 1934,
-      "imdbRating": 7.2,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025336",
-      "title": "Der junge Baron Neuhaus",
-      "year": 1934,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0122801",
+    "tt0253214",
+    "tt0241030",
+    "tt0133782",
+    "tt0123090",
+    "tt0255580",
+    "tt0183083",
+    "tt0181982",
+    "tt0228215",
+    "tt0251646",
+    "tt0025245",
+    "tt0025336"
   ],
   "collections": [],
   "is_curated": true,

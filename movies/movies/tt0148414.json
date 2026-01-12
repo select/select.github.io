@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/little-rover-1935",
+      "id": "little-rover-1935",
       "title": "Little Rover (1935)",
       "description": "A dog is tired of living in a house and decides to leave for the fun and excitement of the big city. However, it turns out to be not exactly the way he thought it would be. Watch on RetroFlix:  https://retroflix.org/little-rover-1935/",
       "fileSize": 230243749,
-      "id": "little-rover-1935"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/little-rover-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 164
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150344",
-      "title": "Dizzy Ducks",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472483",
-      "title": "Peg Leg Pedro",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2210558",
-      "title": "The Princess and the Pauper",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419883",
-      "title": "Kinken chochiku Shiobara Tasuke",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt1020989",
+    "tt0150344",
+    "tt0472483",
+    "tt2210558",
+    "tt0148531",
+    "tt14091630",
+    "tt12305226",
+    "tt12304756",
+    "tt0146584",
+    "tt0475080",
+    "tt0419883",
+    "tt0419941"
   ],
   "collections": [],
   "is_curated": true,

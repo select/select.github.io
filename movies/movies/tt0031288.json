@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ExileExpress",
+      "id": "ExileExpress",
       "title": "Exile Express",
       "description": "Anna Sten plays Nadine Nikolas, a Russian emigrant to the United States who is diligently studying for her citizenship qualification exam and employed as a laboratory assistant for a research chemist, Dr. Hite (Harry Davenport) who has developed a sort of pesticide that can also be a horribly lethal weapon. Some foreign power wants to get the formula, and the authorities suspect that Nadine is involved in the plot. She isn't, but she's ordered deported anyway.",
       "fileSize": 1820792853,
-      "id": "ExileExpress"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/ExileExpress",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 53898
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=k9DC879IHkk",
+      "id": "k9DC879IHkk",
       "title": "Exile Express (1939) MYSTERY",
       "description": "Stars: Anna Sten, Alan Marshal, Jerome Cowan\n Director: Otis Garrett\n\n Spies will not stop at murder in their attempts to wrest a secret formula for a deadly poison away from American scientists.",
-      "id": "k9DC879IHkk",
+      "addedAt": "2025-12-26T23:54:25.606Z",
+      "thumbnail": "https://i.ytimg.com/vi/k9DC879IHkk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCFrS1jmem93pRvVZZsKilZibYwEA",
+      "duration": 4213,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,112 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030342",
-      "title": "The Lady in the Morgue",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164600",
-      "title": "Fräulein",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032165",
-      "title": "Zwischen Strom und Steppe",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031282",
-      "title": "Eternally Yours",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031593",
-      "title": "Love Affair",
-      "year": 1939,
-      "imdbRating": 7.3,
-      "imdbVotes": 6880,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031381",
-      "title": "Gone with the Wind",
-      "year": 1939,
-      "imdbRating": 8.2,
-      "imdbVotes": 350271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032159",
-      "title": "The Zero Hour",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031082",
-      "title": "Barricade",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 158,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033675",
-      "title": "The Great Commandment",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031602",
-      "title": "Made for Each Other",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 4172,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031863",
-      "title": "Rio",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 198,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0030037",
+    "tt0030342",
+    "tt0164600",
+    "tt0032165",
+    "tt0031282",
+    "tt0031593",
+    "tt0032159",
+    "tt0031082",
+    "tt0033675",
+    "tt0031602",
+    "tt0031863",
+    "tt0031975"
   ],
   "collections": [],
   "is_curated": true,

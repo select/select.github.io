@@ -6,24 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alibi_1929",
+      "id": "alibi_1929",
       "title": "Alibi",
       "fileSize": 4568066315,
-      "id": "alibi_1929"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/alibi_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 517
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alibi_1929_202506",
+      "id": "alibi_1929_202506",
       "title": "Alibi (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Banned in Chicago the year it was released for \"immorality\", Alibi was nominated for three Academy Awards, and was thought of as the greatest gangster film yet made. Modern reviews are less glowing, but the picture still serves as an interesting Pre-code crime drama. ",
       "fileSize": 4508214800,
-      "id": "alibi_1929_202506"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/alibi_1929_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 135
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=B0wVCerNT44",
+      "id": "B0wVCerNT44",
       "title": "Alibi (1929) CHESTER MORRIS",
       "description": "PRE-CODE HOLLYWOOD\nWriter/Director: Roland West\nStars: Chester Morris, Regis Toomey, Mae Busch\n\nA gangster is the prime suspect of a murdered policeman, but his Alibi is rock solid... or is it? This early talkie was nominated for three Academy Awards: Best Picture, Best Actor, and Best Art Direction.",
-      "id": "B0wVCerNT44",
+      "addedAt": "2025-12-26T23:43:56.316Z",
+      "thumbnail": "https://i.ytimg.com/vi/B0wVCerNT44/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkjHlH__i9vPbkQSc6qtdv9PfouQ",
+      "duration": 4934,
+      "language": "en",
+      "year": 1929,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -43,115 +60,18 @@
     "Awards": "Nominated for 3 Oscars. 3 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021764",
-      "title": "Corsair",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020668",
-      "title": "The Bat Whispers",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 1270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020599",
-      "title": "Woman Trap",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020227",
-      "title": "Nothing But the Truth",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020500",
-      "title": "Thundering Thompson",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019676",
-      "title": "Barnum Was Right",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11758792",
-      "title": "Reloaded",
-      "year": 2021,
-      "imdbRating": 4.1,
-      "imdbVotes": 689,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0136492",
-      "title": "Roaring Roads",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0165992",
-      "title": "Tough to Handle",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021764",
+    "tt0020668",
+    "tt0020599",
+    "tt0019765",
+    "tt0020227",
+    "tt0020500",
+    "tt0019676",
+    "tt0019884",
+    "tt11758792",
+    "tt0136492",
+    "tt0165992",
+    "tt0019979"
   ],
   "collections": [],
   "is_curated": true,

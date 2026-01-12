@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheVoiceOfTheViolin",
+      "id": "TheVoiceOfTheViolin",
       "title": "\"The Voice Of The Violin\" (1909) director D.W. Griffith starring Arthur V. Johnson",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"The Voice of the Violin\" is a short drama. The film is included in our program to illustrate the work of two of our stars: actor Arthur Johnson and cinematographer Billy Bitzer. Directed by                       D.W. Griffith Cinematography by         Billy Bitzer, Arthur Marvin Starring                             Arthur Johnson, Marion Leonard Distributed by                   Biograph Company Release date                      March 18, 1909 Country                             United States Running time                    13 m. Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 215362058,
-      "id": "TheVoiceOfTheViolin"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/TheVoiceOfTheViolin",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 1866
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-voice-of-the-violin",
+      "id": "silent-the-voice-of-the-violin",
       "title": "The Voice of the Violin",
       "fileSize": 170102465,
-      "id": "silent-the-voice-of-the-violin"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-voice-of-the-violin",
+      "language": "English",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 369
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000986",
-      "title": "Nursing a Viper",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 120,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000871",
-      "title": "Fools of Fate",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 119,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001016",
-      "title": "Resurrection",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 152,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000841",
-      "title": "The Day After",
-      "year": 1909,
-      "imdbRating": 5.2,
-      "imdbVotes": 81,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000832",
-      "title": "A Corner in Wheat",
-      "year": 1909,
-      "imdbRating": 6.6,
-      "imdbVotes": 2796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000852",
-      "title": "A Drunkard's Reformation",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001050",
-      "title": "A Strange Meeting",
-      "year": 1909,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001072",
-      "title": "A Trap for Santa Claus",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 409,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000797",
-      "title": "At the Altar",
-      "year": 1909,
-      "imdbRating": 5.4,
-      "imdbVotes": 177,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000828",
-      "title": "Confidence",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 114,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000854",
-      "title": "Edgar Allan Poe",
-      "year": 1909,
-      "imdbRating": 5.9,
-      "imdbVotes": 573,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000986",
+    "tt0001032",
+    "tt0000871",
+    "tt0001016",
+    "tt0000841",
+    "tt0000832",
+    "tt0000852",
+    "tt0001050",
+    "tt0001072",
+    "tt0000797",
+    "tt0000828",
+    "tt0000854"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-devious-path_1929",
+      "id": "the-devious-path_1929",
       "title": "The Devious Path",
       "fileSize": 7238633776,
-      "id": "the-devious-path_1929"
+      "addedAt": "2026-01-07T00:11:57.684Z",
+      "thumbnail": "https://archive.org/services/img/the-devious-path_1929",
+      "language": "German",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 183
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021542",
-      "title": "Westfront 1918",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 2664,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018087",
-      "title": "The Love of Jeanne Ney",
-      "year": 1927,
-      "imdbRating": 7.2,
-      "imdbVotes": 899,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020475",
-      "title": "Diary of a Lost Girl",
-      "year": 1929,
-      "imdbRating": 7.8,
-      "imdbVotes": 4918,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9731440",
-      "title": "The Mistress of Atlantis",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018836",
-      "title": "The Divine Woman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018862",
-      "title": "Caucasian Love",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 182,
-      "language": "None, Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018846",
-      "title": "Doomsday",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 127,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018854",
-      "title": "Drums of Love",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018879",
-      "title": "Fazil",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 239,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0021542",
+    "tt0018087",
+    "tt0020475",
+    "tt9731440",
+    "tt0018972",
+    "tt0018836",
+    "tt0019067",
+    "tt0018618",
+    "tt0018862",
+    "tt0018846",
+    "tt0018854",
+    "tt0018879"
   ],
   "collections": [],
   "is_curated": true,

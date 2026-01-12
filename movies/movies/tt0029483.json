@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RichRelations",
+      "id": "RichRelations",
       "title": "Rich Relations",
       "description": "A secretary finds herself being romanced by a \"ladies man\". What she doesn't know is that it's her boss who really loves her.",
       "fileSize": 1412324585,
-      "id": "RichRelations"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RichRelations",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 10646
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=JPSzjx1uywo",
+      "id": "JPSzjx1uywo",
       "title": "Rich Relations (1937) ROM-COM",
       "description": "Stars: Ralph Forbes, Frances Grant, Barry Norton\nDirector: Clifford Sanforth\n\nA secretary finds herself being romanced by a \"ladies man\". What she doesn't know is that it's her boss who really loves her.",
-      "id": "JPSzjx1uywo",
+      "addedAt": "2025-12-26T23:47:32.256Z",
+      "thumbnail": "https://i.ytimg.com/vi/JPSzjx1uywo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhmIGYoZjAP&rs=AOn4CLA5zzasy97iCfUhldosn2ItYToalw",
+      "duration": 3919,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,107 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182242",
-      "title": "I'll Name the Murderer",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030255",
-      "title": "I Demand Payment",
-      "year": 1938,
-      "imdbRating": 5.1,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026740",
-      "title": "Murder by Television",
-      "year": 1935,
-      "imdbRating": 4.2,
-      "imdbVotes": 759,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028568",
-      "title": "All Over Town",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029101",
-      "title": "Der Lachdoktor",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029521",
-      "title": "Der Schimmelkrieg in der Holledau",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0170436",
-      "title": "Kein Wort von Liebe",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029225",
-      "title": "Mein Sohn, der Herr Minister",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0028999",
+    "tt0182242",
+    "tt0030255",
+    "tt0026740",
+    "tt0028568",
+    "tt0028574",
+    "tt0233667",
+    "tt0028018",
+    "tt0029101",
+    "tt0029521",
+    "tt0170436",
+    "tt0029225"
   ],
   "collections": [],
   "is_curated": true,

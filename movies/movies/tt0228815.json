@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-santa-claus-vs-cupid",
+      "id": "silent-santa-claus-vs-cupid",
       "title": "Santa Claus vs. Cupid",
       "fileSize": 267008759,
-      "id": "silent-santa-claus-vs-cupid"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-santa-claus-vs-cupid",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 385
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0418515",
-      "title": "Black Eyes",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 81,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002356",
-      "title": "The Melody of Love",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0002045",
-      "title": "The Ball Player and the Bandit",
-      "year": 1912,
-      "imdbRating": 4.3,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002512",
-      "title": "The Sunbeam",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 412,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0236553",
-      "title": "One Too Many",
-      "year": 1916,
-      "imdbRating": 4.3,
-      "imdbVotes": 179,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001740",
-      "title": "The Lonedale Operator",
-      "year": 1911,
-      "imdbRating": 6.5,
-      "imdbVotes": 1322,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005414",
-      "title": "Daydreams",
-      "year": 1915,
-      "imdbRating": 6.7,
-      "imdbVotes": 309,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231300",
-      "title": "Brought Home",
-      "year": 1915,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0418515",
+    "tt0002784",
+    "tt0002795",
+    "tt0002356",
+    "tt0002045",
+    "tt0002512",
+    "tt0236553",
+    "tt0001978",
+    "tt0001740",
+    "tt0003803",
+    "tt0005414",
+    "tt0231300"
   ],
   "collections": [],
   "is_curated": true,

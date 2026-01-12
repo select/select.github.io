@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-300-ves-ember",
+      "id": "silent-a-300-ves-ember",
       "title": "A 300 éves ember",
       "fileSize": 248549031,
-      "id": "silent-a-300-ves-ember"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-300-ves-ember",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 191
     }
   ],
   "metadata": {
@@ -25,105 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0440839",
-      "title": "Sturmzeichen - Ein Kriegsfilm",
-      "year": 1914,
-      "imdbRating": 3.6,
-      "imdbVotes": 10,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2714960",
-      "title": "A Militant Suffragette",
-      "year": 1914,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0167894",
-      "title": "Diana, l'affascinatrice",
-      "year": 1915,
-      "imdbRating": 5.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177205",
-      "title": "Schuld und Sühne",
-      "year": 1912,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0007407",
-      "title": "Szulamit",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240523",
-      "title": "A föld rabjai",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0242728",
-      "title": "Az utolsó éjszaka",
-      "year": 1917,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472394",
-      "title": "Das Lied der Colombine",
-      "year": 1918,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132234",
-      "title": "Im Lebenswirbel",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 25,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5148080",
-      "title": "Katie Fforde - Das Weihnachtswunder von New York",
-      "year": 2015,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt25601256",
-      "title": "Sinister (2012)/12 Angry Men (1957) - 83 Movie Buff Specialists (Ep 18)",
-      "year": 2012,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191755",
-      "title": "30 segundos de amor",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0440839",
+    "tt2714960",
+    "tt0167894",
+    "tt0177205",
+    "tt0007407",
+    "tt0240523",
+    "tt0242728",
+    "tt0472394",
+    "tt0132234",
+    "tt5148080",
+    "tt25601256",
+    "tt0191755"
   ],
   "collections": [],
   "is_curated": true,

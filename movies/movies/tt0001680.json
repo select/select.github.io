@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-his-trust",
+      "id": "silent-his-trust",
       "title": "His Trust",
       "fileSize": 195575436,
-      "id": "silent-his-trust"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-his-trust",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 230
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001913",
-      "title": "Swords and Hearts",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001681",
-      "title": "His Trust Fulfilled",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001227",
-      "title": "The Fugitive",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 254,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001256",
-      "title": "The House with Closed Shutters",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 590,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000895",
-      "title": "The Hessian Renegades",
-      "year": 1909,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001615",
-      "title": "Fisher Folks",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001701",
-      "title": "The Indian Brothers",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 80,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001949",
-      "title": "The Two Paths",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001913",
+    "tt0001987",
+    "tt0001681",
+    "tt0001265",
+    "tt0001227",
+    "tt0001256",
+    "tt0000895",
+    "tt0001593",
+    "tt0001615",
+    "tt0001753",
+    "tt0001701",
+    "tt0001949"
   ],
   "collections": [],
   "is_curated": true,

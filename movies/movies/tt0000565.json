@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-night-before-christmas",
+      "id": "silent-the-night-before-christmas",
       "title": "The Night Before Christmas",
       "fileSize": 140197726,
-      "id": "silent-the-night-before-christmas"
+      "addedAt": "2026-01-07T00:11:24.921Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-night-before-christmas",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 605
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-night-before-christmas-1905-directed-by-edwin-s.-porter",
+      "id": "the-night-before-christmas-1905-directed-by-edwin-s.-porter",
       "title": "The Night Before Christmas (1905) Directed By Edwin S. Porter",
       "description": "The Night Before Christmas (1905) Director: Edwin S. Porter The Night Before Christmas is a 1905 American silent short film directed by Edwin S. Porter for the Edison Manufacturing Company. It closely follows Clement Clarke Moore's 1823 poem Twas the Night Before Christmas, and was the first film production of the poem. Plot summary: Scenes are introduced using lines of the poem. Santa Claus, played by Harry Eytinge, is shown feeding real reindeer and finishes his work in the workshop. Meanwhile, the children of a city household hang their stockings and go to bed, but unable to sleep they engage in a pillow fight. Santa Claus leaves his home on a sleigh with his reindeer. He enters the children's house through the chimney and leaves the presents. The children come down the stairs and enjoy their Christmas presents. Production: 1,670 ft of film was shot, with 798 ft used. A panoramic shot of Santa Claus riding his sleigh over hills and the moon was shot using miniatures and a painted backdrop. -From Wikipedia",
       "fileSize": 100946344,
-      "id": "the-night-before-christmas-1905-directed-by-edwin-s.-porter"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-night-before-christmas-1905-directed-by-edwin-s.-porter",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 149
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0235045",
-      "title": "The Whole Dam Family and the Dam Dog",
-      "year": 1905,
-      "imdbRating": 5.3,
-      "imdbVotes": 735,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233391",
-      "title": "The Burglar's Slide for Life",
-      "year": 1905,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233479",
-      "title": "Coney Island at Night",
-      "year": 1905,
-      "imdbRating": 6,
-      "imdbVotes": 379,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228839",
-      "title": "The Seven Ages",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0273542",
-      "title": "Dog Factory",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 443,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231758",
-      "title": "How a French Nobleman Got a Wife Through the 'New York Herald' Personal Columns",
-      "year": 1904,
-      "imdbRating": 5.3,
-      "imdbVotes": 287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248890",
-      "title": "How the Office Boy Saw the Ball Game",
-      "year": 1906,
-      "imdbRating": 5.4,
-      "imdbVotes": 133,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235568",
-      "title": "Maniac Chase",
-      "year": 1904,
-      "imdbRating": 5.2,
-      "imdbVotes": 158,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477366",
-      "title": "Rector's to Claremont",
-      "year": 1904,
-      "imdbRating": 4.6,
-      "imdbVotes": 140,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477372",
-      "title": "Scarecrow Pump",
-      "year": 1904,
-      "imdbRating": 4.6,
-      "imdbVotes": 151,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445359",
-      "title": "The Ex-Convict",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 238,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477377",
-      "title": "The Strenuous Life; or, Anti-Race Suicide",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 143,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0235045",
+    "tt0233391",
+    "tt0233479",
+    "tt0228839",
+    "tt0273542",
+    "tt0231758",
+    "tt0248890",
+    "tt0235568",
+    "tt0477366",
+    "tt0477372",
+    "tt0445359",
+    "tt0477377"
   ],
   "collections": [],
   "is_curated": true,

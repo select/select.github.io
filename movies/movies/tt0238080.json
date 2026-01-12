@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlackCobra",
+      "id": "BlackCobra",
       "title": "Black Cobra",
       "description": "Detective Robert Malone (Fred Williamson) establishes himself as a maverick, uncompromising policeman when he guns down several criminals during a hostage standoff. Next, he finds himself protecting a female photographer (Eva Grimaldi) who has witnessed a murder. She is sought by a moronic gang of motorcyclists who have been murdering and raping at will. Malone finds them, confronts them, and takes care of (police) business.",
       "fileSize": 2041833911,
-      "id": "BlackCobra"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlackCobra",
+      "year": 1987,
+      "collection": "feature_films",
+      "downloads": 20651
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlackCobra_133",
+      "id": "BlackCobra_133",
       "title": "Black Cobra",
       "description": "Robert Malone, the take-no-lip Chicago Detective who plays by his own rules must protect the only woman who can identify the leader of a roving motorcycle gang. Find out more about this movie on its IMDB page .",
       "fileSize": 2928927643,
-      "id": "BlackCobra_133"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlackCobra_133",
+      "language": "English",
+      "year": 1987,
+      "collection": "feature_films",
+      "downloads": 35819
     }
   ],
   "metadata": {
@@ -35,120 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0100468",
-      "title": "Red Surf",
-      "year": 1989,
-      "imdbRating": 4.1,
-      "imdbVotes": 835,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0100029",
-      "title": "Lionheart",
-      "year": 1990,
-      "imdbRating": 6.2,
-      "imdbVotes": 41956,
-      "language": "English, French, Serbian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0279243",
-      "title": "Mujer de cabaret",
-      "year": 1991,
-      "imdbRating": 5.5,
-      "imdbVotes": 33,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445845",
-      "title": "Yo el ejecutor",
-      "year": 1987,
-      "imdbRating": 5.8,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0093640",
-      "title": "No Way Out",
-      "year": 1987,
-      "imdbRating": 7.1,
-      "imdbVotes": 53715,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0099812",
-      "title": "Island of Fire",
-      "year": 1991,
-      "imdbRating": 5.7,
-      "imdbVotes": 4073,
-      "language": "Mandarin, Cantonese, English, Tagalog",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0090693",
-      "title": "Band of the Hand",
-      "year": 1986,
-      "imdbRating": 6.2,
-      "imdbVotes": 3334,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0186908",
-      "title": "La búsqueda",
-      "year": 1985,
-      "imdbRating": 5.8,
-      "imdbVotes": 155,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0353784",
-      "title": "Narco terror",
-      "year": 1985,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0107843",
-      "title": "Point of No Return",
-      "year": 1993,
-      "imdbRating": 6.1,
-      "imdbVotes": 31530,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0298055",
-      "title": "Masacre en el río Tula",
-      "year": 1985,
-      "imdbRating": 6.1,
-      "imdbVotes": 45,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0107525",
-      "title": "Martial Outlaw",
-      "year": 1993,
-      "imdbRating": 5.6,
-      "imdbVotes": 354,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    }
+    "tt0100468",
+    "tt0100029",
+    "tt0279243",
+    "tt0445845",
+    "tt0093640",
+    "tt0099812",
+    "tt0090693",
+    "tt0186908",
+    "tt0353784",
+    "tt0107843",
+    "tt0298055",
+    "tt0107525"
   ],
   "collections": [],
   "is_curated": true,

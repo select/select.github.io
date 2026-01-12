@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/island-in-the-sky-1938-",
+      "id": "island-in-the-sky-1938-",
       "title": "Island In The Sky (1938)",
       "description": "Gloria Stuart",
       "fileSize": 1168780736,
-      "id": "island-in-the-sky-1938-"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/island-in-the-sky-1938-",
+      "collection": "feature_films",
+      "downloads": 1497
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042289",
-      "title": "Bunco Squad",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 328,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030057",
-      "title": "The Devil's Party",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028004",
-      "title": "Murder with Pictures",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030266",
-      "title": "Illegal Traffic",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030873",
-      "title": "Time Out for Murder",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032022",
-      "title": "They Made Me a Criminal",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 2630,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031179",
-      "title": "Convict's Code",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 299,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031232",
-      "title": "Disbarred",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031465",
-      "title": "I Stole a Million",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 120,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031259",
-      "title": "Dust Be My Destiny",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 1008,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027697",
-      "title": "Great Guy",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032508",
-      "title": "Gang War",
-      "year": 1940,
-      "imdbRating": 5,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042289",
+    "tt0030057",
+    "tt0028004",
+    "tt0030266",
+    "tt0030873",
+    "tt0032022",
+    "tt0031179",
+    "tt0031232",
+    "tt0031465",
+    "tt0031259",
+    "tt0027697",
+    "tt0032508"
   ],
   "collections": [],
   "is_curated": true,

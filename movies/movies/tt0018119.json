@@ -6,23 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/love_1928",
+      "id": "love_1928",
       "title": "Love",
       "fileSize": 4194705066,
-      "id": "love_1928"
+      "addedAt": "2026-01-07T00:09:38.894Z",
+      "thumbnail": "https://archive.org/services/img/love_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 848
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/so-this-is-love_1928",
+      "id": "so-this-is-love_1928",
       "title": "So This Is Love?",
       "fileSize": 3908605390,
-      "id": "so-this-is-love_1928"
+      "addedAt": "2026-01-07T00:11:24.929Z",
+      "thumbnail": "https://archive.org/services/img/so-this-is-love_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 710
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-love-of-zero_1928",
+      "id": "the-love-of-zero_1928",
       "title": "The Love of Zero",
       "fileSize": 790030688,
-      "id": "the-love-of-zero_1928"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-love-of-zero_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 243
     }
   ],
   "metadata": {
@@ -40,111 +56,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0351759",
-      "title": "Skyscraper Symphony",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 354,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019992",
-      "title": "The Hole in the Wall",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018336",
-      "title": "The Romantic Age",
-      "year": 1927,
-      "imdbRating": 7.2,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018654",
-      "title": "Arizona Days",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146484",
-      "title": "Big Game",
-      "year": 1928,
-      "imdbVotes": 12,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0842765",
-      "title": "Character Studies",
-      "year": 1928,
-      "imdbRating": 5.2,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0351759",
+    "tt0019992",
+    "tt0018336",
+    "tt0018654",
+    "tt1893190",
+    "tt3251338",
+    "tt0309243",
+    "tt0018628",
+    "tt0211244",
+    "tt0146484",
+    "tt0018721",
+    "tt0842765"
   ],
   "collections": [],
   "is_curated": true,

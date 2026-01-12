@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shoot-the-works-1934",
+      "id": "shoot-the-works-1934",
       "title": "Shoot The Works (1934)",
       "description": "Jack Oakie, Ben Bernie, Alison Skipworth",
       "fileSize": 1357872752,
-      "id": "shoot-the-works-1934"
+      "addedAt": "2026-01-07T00:10:50.366Z",
+      "thumbnail": "https://archive.org/services/img/shoot-the-works-1934",
+      "collection": "feature_films",
+      "downloads": 737
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025094",
-      "title": "Evergreen",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025349",
-      "title": "King Kelly of the U.S.A.",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025493",
-      "title": "The Merry Widow",
-      "year": 1934,
-      "imdbRating": 7.2,
-      "imdbVotes": 3336,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020458",
-      "title": "Street Girl",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 487,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027037",
-      "title": "Squibs",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023740",
-      "title": "Adorable",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024640",
-      "title": "Take a Chance",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021334",
-      "title": "The Sap from Syracuse",
-      "year": 1930,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028062",
-      "title": "One Rainy Afternoon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027519",
-      "title": "The Devil on Horseback",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023580",
-      "title": "There Goes the Bride",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023158",
-      "title": "Love Me Tonight",
-      "year": 1932,
-      "imdbRating": 7.5,
-      "imdbVotes": 4934,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025094",
+    "tt0025349",
+    "tt0025493",
+    "tt0020458",
+    "tt0027037",
+    "tt0023740",
+    "tt0024640",
+    "tt0021334",
+    "tt0028062",
+    "tt0027519",
+    "tt0023580",
+    "tt0023158"
   ],
   "collections": [],
   "is_curated": true,

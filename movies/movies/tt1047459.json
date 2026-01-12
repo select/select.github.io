@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/religion_202406",
+      "id": "religion_202406",
       "title": "Religion",
       "description": "..",
       "fileSize": 16477160,
-      "id": "religion_202406"
+      "addedAt": "2026-01-07T00:10:30.753Z",
+      "thumbnail": "https://archive.org/services/img/religion_202406",
+      "language": "ger",
+      "collection": "feature_films",
+      "downloads": 62
     }
   ],
   "metadata": {
@@ -27,121 +32,18 @@
     "Awards": "1 win & 2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0473700",
-      "title": "September Dawn",
-      "year": 2007,
-      "imdbRating": 5.8,
-      "imdbVotes": 3117,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0768167",
-      "title": "Ascension Day",
-      "year": 2007,
-      "imdbRating": 8.4,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0425743",
-      "title": "American Soldiers",
-      "year": 2005,
-      "imdbRating": 3.5,
-      "imdbVotes": 2550,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1259574",
-      "title": "Red Riding: The Year of Our Lord 1974",
-      "year": 2009,
-      "imdbRating": 6.9,
-      "imdbVotes": 13986,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0416654",
-      "title": "The Colt",
-      "year": 2005,
-      "imdbRating": 6.4,
-      "imdbVotes": 574,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020558",
-      "title": "Centurion",
-      "year": 2010,
-      "imdbRating": 6.3,
-      "imdbVotes": 88560,
-      "language": "English, Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0377935",
-      "title": "Beyond the Front Line",
-      "year": 2004,
-      "imdbRating": 6.5,
-      "imdbVotes": 1674,
-      "language": "Swedish, Finnish, Russian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0353042",
-      "title": "DC 9/11: Time of Crisis",
-      "year": 2003,
-      "imdbRating": 4.4,
-      "imdbVotes": 973,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0092978",
-      "title": "Escape from Sobibor",
-      "year": 1987,
-      "imdbRating": 7.4,
-      "imdbVotes": 10404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    }
+    "tt0473700",
+    "tt0768167",
+    "tt0425743",
+    "tt1259574",
+    "tt0416654",
+    "tt1020558",
+    "tt0377935",
+    "tt0353042",
+    "tt0092978",
+    "tt0020030",
+    "tt0027727",
+    "tt1441953"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-csardas-max-hansen-hans-olden-tibor-von-hallmay-hans-olden",
+      "id": "1935-csardas-max-hansen-hans-olden-tibor-von-hallmay-hans-olden",
       "title": "1935 Csardas ( Max Hansen, Hans Olden, Tibor Von Hallmay, Hans Olden)",
       "description": "Film aus dem deutschen dritten Reich von 1935. Csardas.  U.a mit Hans Olden und Tibor von Hallmay ",
       "fileSize": 585448505,
-      "id": "1935-csardas-max-hansen-hans-olden-tibor-von-hallmay-hans-olden"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1935-csardas-max-hansen-hans-olden-tibor-von-hallmay-hans-olden",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 98
     }
   ],
   "metadata": {
@@ -26,109 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0204800",
-      "title": "Alibi Bye Bye",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026132",
-      "title": "Boys Will Be Boys",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026179",
-      "title": "Car of Dreams",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133358",
-      "title": "Alles für die Firma",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026079",
-      "title": "April, April!",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 74,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026309",
-      "title": "Das Einmaleins der Liebe",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026401",
-      "title": "Der Gefangene des Königs",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140135",
-      "title": "Held einer Nacht",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026516",
-      "title": "Ich liebe alle Frauen",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 31,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141753",
-      "title": "Pygmalion",
-      "year": 1935,
-      "imdbRating": 7.2,
-      "imdbVotes": 28,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0204800",
+    "tt0026085",
+    "tt0026132",
+    "tt0026179",
+    "tt0133358",
+    "tt0026079",
+    "tt0026309",
+    "tt0026401",
+    "tt0129972",
+    "tt0140135",
+    "tt0026516",
+    "tt0141753"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-eerie-tales",
+      "id": "silent-eerie-tales",
       "title": "Eerie Tales",
       "fileSize": 3943870927,
-      "id": "silent-eerie-tales"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-eerie-tales",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1893
     }
   ],
   "metadata": {
@@ -26,121 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010323",
-      "title": "The Cabinet of Dr. Caligari",
-      "year": 1920,
-      "imdbRating": 8,
-      "imdbVotes": 74697,
-      "language": "None, German",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt6988208",
-      "title": "House of the Witch",
-      "year": 2017,
-      "imdbRating": 4.2,
-      "imdbVotes": 3972,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4419364",
-      "title": "Holidays",
-      "year": 2016,
-      "imdbRating": 5.1,
-      "imdbVotes": 12122,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2565974",
-      "title": "Razors: The Return of Jack the Ripper",
-      "year": 2016,
-      "imdbRating": 2.3,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3584496",
-      "title": "Mermaid Down",
-      "year": 2019,
-      "imdbRating": 4.3,
-      "imdbVotes": 11289,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0037415",
-      "title": "The Uninvited",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 13199,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5629964",
-      "title": "The Midnight Man",
-      "year": 2016,
-      "imdbRating": 4.8,
-      "imdbVotes": 5026,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5040012",
-      "title": "Nosferatu",
-      "year": 2024,
-      "imdbRating": 7.1,
-      "imdbVotes": 252917,
-      "language": "English, Romanian, Romany, Russian, Latin, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006819",
-      "title": "Hoffmanns Erzählungen",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 58,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011237",
-      "title": "The Golem",
-      "year": 1920,
-      "imdbRating": 7.2,
-      "imdbVotes": 8788,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011221",
-      "title": "Genuine: The Tragedy of a Vampire",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 1171,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    }
+    "tt0010323",
+    "tt6988208",
+    "tt4419364",
+    "tt2565974",
+    "tt3584496",
+    "tt0037415",
+    "tt5629964",
+    "tt1132130",
+    "tt5040012",
+    "tt0006819",
+    "tt0011237",
+    "tt0011221"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-horse-ate-the-hat_1928",
+      "id": "the-horse-ate-the-hat_1928",
       "title": "The Horse Ate the Hat",
       "fileSize": 8130962379,
-      "id": "the-horse-ate-the-hat_1928"
+      "addedAt": "2026-01-07T00:12:10.588Z",
+      "thumbnail": "https://archive.org/services/img/the-horse-ate-the-hat_1928",
+      "language": "French",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 277
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018826",
-      "title": "Two Timid Souls",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 226,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036962",
-      "title": "It Happened Tomorrow",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 3276,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034881",
-      "title": "I Married a Witch",
-      "year": 1942,
-      "imdbRating": 7.1,
-      "imdbVotes": 10422,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179489",
-      "title": "La tour",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 199,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019412",
-      "title": "Speedy",
-      "year": 1928,
-      "imdbRating": 7.6,
-      "imdbVotes": 4381,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018742",
-      "title": "The Cameraman",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 13471,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018937",
-      "title": "A Girl in Every Port",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 864,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019057",
-      "title": "A Knight in London",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018710",
-      "title": "A Blonde for a Night",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018826",
+    "tt0036962",
+    "tt0034881",
+    "tt0179489",
+    "tt0019412",
+    "tt0019421",
+    "tt0018742",
+    "tt1893190",
+    "tt0018937",
+    "tt0019057",
+    "tt0019067",
+    "tt0018710"
   ],
   "collections": [],
   "is_curated": true,

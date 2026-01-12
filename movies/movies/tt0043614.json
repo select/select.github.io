@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-idiot",
+      "id": "the-idiot",
       "title": "The Idiot",
       "description": "After finishing what would become his international phenomenon  Rashomon , Akira Kurosawa immediately turned to one of the most daring, and problem-plagued, productions of his career.  The Idiot , an adaptation of Fyodor Dostoyevsky's nineteenth-century masterpiece about a wayward, pure soul's reintegration into society—updated by Kurosawa to capture Japan’s postwar aimlessness—was a victim of studio interference and, finally, public indifference. Today, this \"folly\" looks ever more fascinating, a stylish, otherworldly evocation of one man’s wintry mindscape.",
       "fileSize": 13590688989,
-      "id": "the-idiot"
+      "addedAt": "2026-01-07T00:12:10.588Z",
+      "thumbnail": "https://archive.org/services/img/the-idiot",
+      "language": "jpn",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 34867
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Idiot_1958_Clip",
+      "id": "The_Idiot_1958_Clip",
       "title": "The_Idiot_1958_Clip",
       "description": "The_Idiot_1958_Clip",
       "fileSize": 251886377,
-      "id": "The_Idiot_1958_Clip"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Idiot_1958_Clip",
+      "collection": "feature_films",
+      "downloads": 474
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042958",
-      "title": "Scandal",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4851,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039871",
-      "title": "One Wonderful Sunday",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 3976,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041699",
-      "title": "Stray Dog",
-      "year": 1949,
-      "imdbRating": 7.8,
-      "imdbVotes": 20087,
-      "language": "Japanese, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043313",
-      "title": "Early Summer",
-      "year": 1951,
-      "imdbRating": 8.1,
-      "imdbVotes": 9910,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043409",
-      "title": "Circle of Danger",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 1069,
-      "language": "English, Gaelic, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043830",
-      "title": "My True Story",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043651",
-      "title": "Home Town Story",
-      "year": 1951,
-      "imdbRating": 5,
-      "imdbVotes": 1128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043652",
-      "title": "One Summer of Happiness",
-      "year": 1951,
-      "imdbRating": 6.8,
-      "imdbVotes": 870,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043924",
-      "title": "A Place in the Sun",
-      "year": 1951,
-      "imdbRating": 7.7,
-      "imdbVotes": 25414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0193798",
-      "title": "Cartas de amor",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043526",
-      "title": "Father's Little Dividend",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 4427,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057565",
-      "title": "High and Low",
-      "year": 1963,
-      "imdbRating": 8.4,
-      "imdbVotes": 62377,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0042958",
+    "tt0039871",
+    "tt0041699",
+    "tt0043313",
+    "tt0043409",
+    "tt0043830",
+    "tt0043651",
+    "tt0043652",
+    "tt0043924",
+    "tt0193798",
+    "tt0043526",
+    "tt0057565"
   ],
   "collections": [
     {

@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Amateur_Crook_1937",
+      "id": "Amateur_Crook_1937",
       "title": "Amateur Crook",
       "description": "A quickie from poverty row.",
       "fileSize": 1087515814,
-      "id": "Amateur_Crook_1937"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/Amateur_Crook_1937",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 19754
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/amateur-crook-1937-",
+      "id": "amateur-crook-1937-",
       "title": "Amateur Crook (1937)",
       "description": "Bruce Bennett, Joan Barclay",
       "fileSize": 820671155,
-      "id": "amateur-crook-1937-"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/amateur-crook-1937-",
+      "collection": "feature_films",
+      "downloads": 334
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=Vr15s3TjeaM",
+      "id": "Vr15s3TjeaM",
       "title": "Amateur Crook (1937) HERMAN BRIX",
       "description": "Stars: Herman Brix, Joan Barclay, Monte Blue \nDirector: Sam Katzman\n\nJerry Cummings, a mining engineer, has pledged a large diamond on a short-term note to a pair of crooked loan sharks, Crone and Jan Jaffin, and heads for Mexico. His daughter Betsy, posing as a jewel thief called Mary Layton, is working to keep the crooks from absconding with the jewel, and her efforts are hindered greatly by an artist, Jimmy Baxter, who thinks she is a crook and Crone and Jaffin the good guys.",
-      "id": "Vr15s3TjeaM",
+      "addedAt": "2025-12-26T23:48:52.762Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vr15s3TjeaM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhcIFwoXDAP&rs=AOn4CLDxjDelGEfxAEIDTCENwjXPkd7apg",
+      "duration": 3535,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0140551",
-      "title": "Sky Racket",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028785",
-      "title": "Dick Tracy",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 662,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029757",
-      "title": "The Westland Case",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028359",
-      "title": "13 Hours by Air",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028241",
-      "title": "Shadow of Chinatown",
-      "year": 1936,
-      "imdbRating": 4.5,
-      "imdbVotes": 303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030455",
-      "title": "The Missing Guest",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031245",
-      "title": "Double Deal",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031330",
-      "title": "Forged Passport",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032246",
-      "title": "Behind the News",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 99,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033510",
-      "title": "Dangerous Lady",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024573",
-      "title": "Skyway",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026772",
-      "title": "The New Adventures of Tarzan",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 450,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0140551",
+    "tt0028785",
+    "tt0029757",
+    "tt0028359",
+    "tt0028241",
+    "tt0030455",
+    "tt0031245",
+    "tt0031330",
+    "tt0032246",
+    "tt0033510",
+    "tt0024573",
+    "tt0026772"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mad-holiday",
+      "id": "mad-holiday",
       "title": "Mad Holiday (1936)",
       "description": "Edmund Lowe, Elissa Landi, ZaSu Pitts",
       "fileSize": 1384708744,
-      "id": "mad-holiday"
+      "addedAt": "2026-01-07T00:09:46.421Z",
+      "thumbnail": "https://archive.org/services/img/mad-holiday",
+      "collection": "feature_films",
+      "downloads": 2395
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026980",
-      "title": "Shadow of Doubt",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 281,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028355",
-      "title": "Theodora Goes Wild",
-      "year": 1936,
-      "imdbRating": 7.1,
-      "imdbVotes": 3078,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026978",
-      "title": "Seven Keys to Baldpate",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026124",
-      "title": "Black Sheep",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027528",
-      "title": "Dishonour Bright",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 47,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026980",
+    "tt0028355",
+    "tt0026978",
+    "tt0026124",
+    "tt0027845",
+    "tt0027311",
+    "tt0027286",
+    "tt0028010",
+    "tt0027495",
+    "tt0207407",
+    "tt0027528",
+    "tt0027807"
   ],
   "collections": [],
   "is_curated": true,

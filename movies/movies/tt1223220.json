@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-antony-and-cleopatra",
+      "id": "silent-antony-and-cleopatra",
       "title": "Antony and Cleopatra",
       "fileSize": 1042904260,
-      "id": "silent-antony-and-cleopatra"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-antony-and-cleopatra",
+      "language": "Italian",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 3225
     }
   ],
   "metadata": {
@@ -25,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470339",
-      "title": "The Haunted Bedroom",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0330942",
-      "title": "The Struggle",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812323",
-      "title": "The Master of the Sword",
-      "year": 1915,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0482779",
-      "title": "In the Hands of the Enemy",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367144",
-      "title": "The Tiniest of Stars",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002356",
-      "title": "The Melody of Love",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt2160081",
+    "tt1207008",
+    "tt1113818",
+    "tt0470339",
+    "tt0463594",
+    "tt0330942",
+    "tt0482779",
+    "tt0367144",
+    "tt0417062",
+    "tt0002356",
+    "tt0231716",
+    "tt0178933"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sorority-girl-1957",
+      "id": "sorority-girl-1957",
       "title": "Sorority Girl (1957)",
       "description": "Susan Cabot, Dick Miller, Barboura Morris Directed by  Roger Corman",
       "fileSize": 1556194600,
-      "id": "sorority-girl-1957"
+      "addedAt": "2026-01-07T00:11:35.624Z",
+      "thumbnail": "https://archive.org/services/img/sorority-girl-1957",
+      "collection": "feature_films",
+      "downloads": 1387
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sorority-girl-1957-",
+      "id": "sorority-girl-1957-",
       "title": "Sorority Girl (1957)",
       "description": "Dick Miller",
       "fileSize": 1555683140,
-      "id": "sorority-girl-1957-"
+      "addedAt": "2026-01-07T00:11:35.624Z",
+      "thumbnail": "https://archive.org/services/img/sorority-girl-1957-",
+      "collection": "feature_films",
+      "downloads": 1064
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050906",
-      "title": "Rock All Night",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051062",
-      "title": "Teenage Doll",
-      "year": 1957,
-      "imdbRating": 5.6,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048682",
-      "title": "Swamp Women",
-      "year": 1956,
-      "imdbRating": 3.4,
-      "imdbVotes": 2106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052379",
-      "title": "War of the Satellites",
-      "year": 1958,
-      "imdbRating": 5.1,
-      "imdbVotes": 1247,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052655",
-      "title": "A Bucket of Blood",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 8366,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054462",
-      "title": "The Wasp Woman",
-      "year": 1959,
-      "imdbRating": 4.8,
-      "imdbVotes": 5840,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053925",
-      "title": "House of Usher",
-      "year": 1960,
-      "imdbRating": 6.9,
-      "imdbVotes": 16233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054017",
-      "title": "Last Woman on Earth",
-      "year": 1960,
-      "imdbRating": 4.8,
-      "imdbVotes": 2220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051887",
-      "title": "Machine-Gun Kelly",
-      "year": 1958,
-      "imdbRating": 6.1,
-      "imdbVotes": 2101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055304",
-      "title": "The Pit and the Pendulum",
-      "year": 1961,
-      "imdbRating": 7,
-      "imdbVotes": 17260,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055019",
-      "title": "The Intruder",
-      "year": 1962,
-      "imdbRating": 7.6,
-      "imdbVotes": 4167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065760",
-      "title": "Gas! -Or- It Became Necessary to Destroy the World in Order to Save It.",
-      "year": 1970,
-      "imdbRating": 4.2,
-      "imdbVotes": 1738,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050906",
+    "tt0051062",
+    "tt0048682",
+    "tt0052379",
+    "tt0052655",
+    "tt0054462",
+    "tt0053925",
+    "tt0054017",
+    "tt0051887",
+    "tt0055304",
+    "tt0055019",
+    "tt0065760"
   ],
   "collections": [],
   "is_curated": true,

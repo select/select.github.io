@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheGirlFromRio",
+      "id": "TheGirlFromRio",
       "title": "The Girl From Rio",
       "description": "A Brazilian Beauty heads for New York City to help clear her brother from charges of murder.",
       "fileSize": 1072250809,
-      "id": "TheGirlFromRio"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheGirlFromRio",
+      "collection": "feature_films",
+      "downloads": 9753
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0064615",
-      "title": "Mackenna's Gold",
-      "year": 1969,
-      "imdbRating": 6.7,
-      "imdbVotes": 10403,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066987",
-      "title": "The Desperate Mission",
-      "year": 1969,
-      "imdbRating": 6.3,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065150",
-      "title": "The Undefeated",
-      "year": 1969,
-      "imdbRating": 6.6,
-      "imdbVotes": 7783,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062807",
-      "title": "Five for Hell",
-      "year": 1969,
-      "imdbRating": 5,
-      "imdbVotes": 688,
-      "language": "Italian, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0066565",
-      "title": "White Sun of the Desert",
-      "year": 1970,
-      "imdbRating": 7.7,
-      "imdbVotes": 8323,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0063060",
-      "title": "Hellfighters",
-      "year": 1968,
-      "imdbRating": 6.5,
-      "imdbVotes": 6773,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065374",
-      "title": "The Adventurers",
-      "year": 1970,
-      "imdbRating": 5.2,
-      "imdbVotes": 944,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065207",
-      "title": "Where Eagles Dare",
-      "year": 1968,
-      "imdbRating": 7.6,
-      "imdbVotes": 66156,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062630",
-      "title": "The Vatican Affair",
-      "year": 1968,
-      "imdbRating": 5.6,
-      "imdbVotes": 54,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0061578",
-      "title": "The Dirty Dozen",
-      "year": 1967,
-      "imdbRating": 7.7,
-      "imdbVotes": 82152,
-      "language": "English, German, French, Spanish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060261",
-      "title": "The Hellbenders",
-      "year": 1967,
-      "imdbRating": 6.7,
-      "imdbVotes": 2165,
-      "language": "Italian, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067216",
-      "title": "The Horsemen",
-      "year": 1971,
-      "imdbRating": 6.2,
-      "imdbVotes": 1355,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0064615",
+    "tt0066987",
+    "tt0065150",
+    "tt0062807",
+    "tt0066565",
+    "tt0063060",
+    "tt0065374",
+    "tt0065207",
+    "tt0062630",
+    "tt0061578",
+    "tt0060261",
+    "tt0067216"
   ],
   "collections": [],
   "is_curated": true,

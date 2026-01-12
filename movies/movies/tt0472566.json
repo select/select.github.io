@@ -6,16 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/StarWreckInThePirkining",
+      "id": "StarWreckInThePirkining",
       "title": "StarWreckInThePirkining",
-      "id": "StarWreckInThePirkining"
+      "addedAt": "2025-12-21T21:06:28.213Z",
+      "thumbnail": "https://archive.org/services/img/StarWreckInThePirkining",
+      "collection": "feature_films",
+      "downloads": 345869
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Star_Wreck_In_the_Pirkinning_VOScastellano",
+      "id": "Star_Wreck_In_the_Pirkinning_VOScastellano",
       "title": "Star Wreck: In the Pirkinning [VOScastellano]",
       "description": "el mundo 2005 > Con más de 450.000 espectadores en menos de una semana, el largometraje finlandés 'Star Wreck: In the Pirkinning', parodia del clásico de ciencia ficción 'Star Trek', ha batido todos los récord de distribución libre por Internet. [...] Su producción ha durado más de siete años y ha sido dirigido por un grupo de estudiantes y directores aficionados, con un bajo presupuesto pero efectos especiales de alta calidad.",
       "fileSize": 2327390066,
-      "id": "Star_Wreck_In_the_Pirkinning_VOScastellano"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/Star_Wreck_In_the_Pirkinning_VOScastellano",
+      "language": "spanish",
+      "year": 2005,
+      "collection": "feature_films",
+      "downloads": 60840
     }
   ],
   "metadata": {
@@ -33,123 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3038708",
-      "title": "Iron Sky: The Coming Race",
-      "year": 2019,
-      "imdbRating": 5,
-      "imdbVotes": 12432,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0937419",
-      "title": "Reign of the Fallen",
-      "year": 2005,
-      "imdbRating": 6.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0457489",
-      "title": "Star Wars: Revelations",
-      "year": 2005,
-      "imdbRating": 5,
-      "imdbVotes": 1134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133246",
-      "title": "Twister's Revenge!",
-      "year": 1988,
-      "imdbRating": 2.7,
-      "imdbVotes": 470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0426556",
-      "title": "Raging Sharks",
-      "year": 2005,
-      "imdbRating": 2.6,
-      "imdbVotes": 988,
-      "language": "English, Bulgarian",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0270882",
-      "title": "The Karate Dog",
-      "year": 2005,
-      "imdbRating": 2.7,
-      "imdbVotes": 1608,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0455583",
-      "title": "Komodo vs. Cobra",
-      "year": 2005,
-      "imdbRating": 2.7,
-      "imdbVotes": 2321,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0337887",
-      "title": "Confessions of an Action Star",
-      "year": 2005,
-      "imdbRating": 3.8,
-      "imdbVotes": 818,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0228040",
-      "title": "Ice Queen",
-      "year": 2005,
-      "imdbRating": 3,
-      "imdbVotes": 668,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1705773",
-      "title": "Mega Shark vs. Crocosaurus",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 5081,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0843873",
+    "tt3038708",
+    "tt0937419",
+    "tt0457489",
+    "tt0133246",
+    "tt0426556",
+    "tt0270882",
+    "tt0455583",
+    "tt0337887",
+    "tt2130142",
+    "tt0228040",
+    "tt1705773"
   ],
   "collections": [
     {

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/VIP.61",
+      "id": "VIP.61",
       "title": "VIP. 61",
       "description": "Noir british classic",
       "fileSize": 59938953459,
-      "id": "VIP.61"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/VIP.61",
+      "collection": "feature_films",
+      "downloads": 42446
     }
   ],
   "metadata": {
@@ -27,121 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1172203",
-      "title": "Sita Sings the Blues",
-      "year": 2008,
-      "imdbRating": 7.6,
-      "imdbVotes": 5022,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1334226",
-      "title": "Dead Man Drinking",
-      "year": 2008,
-      "imdbRating": 5.3,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0844671",
-      "title": "College",
-      "year": 2008,
-      "imdbRating": 4.6,
-      "imdbVotes": 12790,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0942385",
-      "title": "Tropic Thunder",
-      "year": 2008,
-      "imdbRating": 7.1,
-      "imdbVotes": 478477,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1212399",
-      "title": "305",
-      "year": 2008,
-      "imdbRating": 3,
-      "imdbVotes": 965,
-      "language": "English, Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1037156",
-      "title": "Stone of Destiny",
-      "year": 2008,
-      "imdbRating": 6.7,
-      "imdbVotes": 4615,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1314248",
-      "title": "Sea Beast",
-      "year": 2008,
-      "imdbRating": 4.2,
-      "imdbVotes": 1890,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0430770",
-      "title": "The Women",
-      "year": 2008,
-      "imdbRating": 5,
-      "imdbVotes": 23599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1213644",
-      "title": "Disaster Movie",
-      "year": 2008,
-      "imdbRating": 1.9,
-      "imdbVotes": 96719,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0884224",
-      "title": "War, Inc.",
-      "year": 2008,
-      "imdbRating": 5.5,
-      "imdbVotes": 22905,
-      "language": "English, Hungarian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0944958",
-      "title": "Love and Other Crimes",
-      "year": 2008,
-      "imdbRating": 6.2,
-      "imdbVotes": 721,
-      "language": "Serbian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1027658",
-      "title": "Absurdistan",
-      "year": 2008,
-      "imdbRating": 6.7,
-      "imdbVotes": 1760,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt1172203",
+    "tt1334226",
+    "tt0844671",
+    "tt1212399",
+    "tt1037156",
+    "tt1314248",
+    "tt0430770",
+    "tt1213644",
+    "tt0944958",
+    "tt1027658",
+    "tt0907678",
+    "tt1082064"
   ],
   "collections": [],
   "is_curated": true,

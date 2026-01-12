@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/feeling-good_202108",
+      "id": "feeling-good_202108",
       "title": "Feeling Good",
       "description": "This short was originally one of the sequences of As Long as You're Healthy, in its 1965 version. In 1971, Pierre Étaix re-edited it to a short feature : Feeling good. In 2010, it was presented in the general reissue of his films.",
       "fileSize": 1219566050,
-      "id": "feeling-good_202108"
+      "addedAt": "2026-01-07T00:08:24.394Z",
+      "thumbnail": "https://archive.org/services/img/feeling-good_202108",
+      "language": "fre",
+      "year": 1971,
+      "collection": "feature_films",
+      "downloads": 1500
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0064390",
-      "title": "Le Grand Amour",
-      "year": 1969,
-      "imdbRating": 7.5,
-      "imdbVotes": 1432,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207145",
-      "title": "As Long as You've Got Your Health",
-      "year": 1966,
-      "imdbRating": 7.1,
-      "imdbVotes": 914,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056514",
-      "title": "The Suitor",
-      "year": 1962,
-      "imdbRating": 7.2,
-      "imdbVotes": 1105,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0290100",
-      "title": "Vienna",
-      "year": 1968,
-      "imdbRating": 5.7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2459468",
-      "title": "Katya & the Scarlet Sails",
-      "year": 2012,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt12180592",
-      "title": "Cineminuto Cinemex: Dulce Familia",
-      "year": 2019,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10906518",
-      "title": "Atraco perfecto",
-      "year": 2017,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048920",
-      "title": "90 Day Wondering",
-      "year": 1956,
-      "imdbRating": 5.9,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381908",
-      "title": "A Bear, a Boy and a Dog",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000653",
-      "title": "A Calamitous Elopement",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 225,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007802",
-      "title": "A Clever Dummy",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 207,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0064390",
+    "tt0207145",
+    "tt0056514",
+    "tt0290100",
+    "tt0015477",
+    "tt2459468",
+    "tt12180592",
+    "tt10906518",
+    "tt0048920",
+    "tt0381908",
+    "tt0000653",
+    "tt0007802"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-konigstiger-hans-junkermann-else-elster-otto-stockel",
+      "id": "1935-konigstiger-hans-junkermann-else-elster-otto-stockel",
       "title": "1935 Königstiger ( Hans Junkermann, Else Elster, Otto Stöckel)",
       "description": "Film aus dem deutschen dritten Reich von 1935. Königstiger  u.a mit Hans Junkermann und Else Elster ",
       "fileSize": 653508033,
-      "id": "1935-konigstiger-hans-junkermann-else-elster-otto-stockel"
+      "addedAt": "2026-01-07T00:06:00.055Z",
+      "thumbnail": "https://archive.org/services/img/1935-konigstiger-hans-junkermann-else-elster-otto-stockel",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 112
     }
   ],
   "metadata": {
@@ -26,98 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0228081",
-      "title": "Blutsbrüder",
-      "year": 1935,
-      "imdbRating": 9,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026440",
-      "title": "Der grüne Domino",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0252021",
-      "title": "Der stählerne Strahl",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027179",
-      "title": "Der Vogelhändler",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027195",
-      "title": "Die Werft zum Grauen Hecht",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0237484",
-      "title": "Eine Nacht an der Donau",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026589",
-      "title": "Künstlerliebe",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026626",
-      "title": "Liebeslied",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026695",
-      "title": "Mein Leben für Maria Isabell",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025583",
-      "title": "Oberwachtmeister Schwenke",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138186",
-      "title": "Warum lügt Fräulein Käthe?",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168017",
-      "title": "Joy Ride",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0228081",
+    "tt0026440",
+    "tt0252021",
+    "tt0027179",
+    "tt0027195",
+    "tt0237484",
+    "tt0026589",
+    "tt0026626",
+    "tt0026695",
+    "tt0025583",
+    "tt0138186",
+    "tt0168017"
   ],
   "collections": [],
   "is_curated": true,

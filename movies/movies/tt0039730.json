@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1947thepretenderyosoymiasesinow.leewilder",
+      "id": "1947thepretenderyosoymiasesinow.leewilder",
       "title": "1947 - The Pretender - Yo soy mi asesino - W. Lee Wilder",
       "description": "1947 - The Pretender - Yo soy mi asesino - W. Lee Wilder",
       "fileSize": 411134123,
-      "id": "1947thepretenderyosoymiasesinow.leewilder"
+      "addedAt": "2026-01-07T00:06:03.998Z",
+      "thumbnail": "https://archive.org/services/img/1947thepretenderyosoymiasesinow.leewilder",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 1836
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pretender-1947-",
+      "id": "pretender-1947-",
       "title": "The Pretender (1947)",
       "description": "Albert Dekker Republic Pictures",
       "fileSize": 1020122283,
-      "id": "pretender-1947-"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/pretender-1947-",
+      "collection": "feature_films",
+      "downloads": 1673
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042807",
-      "title": "Once a Thief",
-      "year": 1950,
-      "imdbRating": 6.2,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043066",
-      "title": "Three Steps North",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 186,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047877",
-      "title": "The Big Bluff",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 630,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039515",
-      "title": "Johnny O'Clock",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 2969,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039335",
-      "title": "A Double Life",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 4170,
-      "language": "English, Italian, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039224",
-      "title": "Brute Force",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 12259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039311",
-      "title": "Desert Fury",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 2289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039482",
-      "title": "I Walk Alone",
-      "year": 1947,
-      "imdbRating": 7,
-      "imdbVotes": 3652,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039536",
-      "title": "Kiss of Death",
-      "year": 1947,
-      "imdbRating": 7.4,
-      "imdbVotes": 10143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039217",
-      "title": "The Brasher Doubloon",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 1420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040525",
-      "title": "The Lady from Shanghai",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 35285,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039389",
-      "title": "For You I Die",
-      "year": 1947,
-      "imdbRating": 6,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042807",
+    "tt0043066",
+    "tt0047877",
+    "tt0039515",
+    "tt0039335",
+    "tt0039224",
+    "tt0039311",
+    "tt0039482",
+    "tt0039536",
+    "tt0039217",
+    "tt0040525",
+    "tt0039389"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-der-verlorene-schuh",
+      "id": "silent-der-verlorene-schuh",
       "title": "Der verlorene Schuh",
       "fileSize": 442662234,
-      "id": "silent-der-verlorene-schuh"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-der-verlorene-schuh",
+      "language": "German",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 634
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013992",
-      "title": "Glumov's Diary",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014249",
-      "title": "The Man Without Desire",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014721",
-      "title": "Black Oxen",
-      "year": 1923,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014509",
-      "title": "Der steinerne Reiter",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 98,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013257",
-      "title": "Häxan",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 18391,
-      "language": "Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013688",
-      "title": "The Toll of the Sea",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 913,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015400",
-      "title": "The Thief of Bagdad",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 7374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013442",
-      "title": "Nosferatu: A Symphony of Horror",
-      "year": 1922,
-      "imdbRating": 7.8,
-      "imdbVotes": 120332,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015174",
-      "title": "Die Nibelungen: Kriemhild's Revenge",
-      "year": 1924,
-      "imdbRating": 7.9,
-      "imdbVotes": 5147,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015175",
-      "title": "Die Nibelungen: Siegfried",
-      "year": 1924,
-      "imdbRating": 8.1,
-      "imdbVotes": 6716,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015224",
-      "title": "Peter Pan",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 1317,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0013992",
+    "tt0014249",
+    "tt0014721",
+    "tt0014509",
+    "tt0013257",
+    "tt0013688",
+    "tt0015400",
+    "tt0013014",
+    "tt0013442",
+    "tt0015174",
+    "tt0015175",
+    "tt0015224"
   ],
   "collections": [],
   "is_curated": true,

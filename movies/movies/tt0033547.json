@@ -6,24 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/double-cross-1941",
+      "id": "double-cross-1941",
       "title": "Double Cross (1941)",
       "description": "A disgraced cop aims to reclaim his honor by nailing a corrupt crime boss. Watch on RetroFlix:  https://retroflix.org/double-cross-1941/",
       "fileSize": 201296052,
-      "id": "double-cross-1941"
+      "addedAt": "2026-01-07T00:08:15.374Z",
+      "thumbnail": "https://archive.org/services/img/double-cross-1941",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 107
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/double_cross",
+      "id": "double_cross",
       "title": "Double Cross",
       "fileSize": 3544063523,
-      "id": "double_cross"
+      "addedAt": "2026-01-07T00:08:15.374Z",
+      "thumbnail": "https://archive.org/services/img/double_cross",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 63752
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=DiX9276UY6g",
+      "id": "DiX9276UY6g",
       "title": "Double Cross (1941) CRIME DRAMA",
       "description": "Stars: Wynne Gibson, Kane Richmond, John Miljan\nDirector: Albert H. Kelley\n\nA gambling joint run by Fay Saunders is raided by the police. Fay grabs the pistol of her sweetheart, police officer Steved Bronson, and kills one of the raiding policemen.Steve seizes the gun from her and is riddled by hie fellow officers who think he has turned on them. Steve, on his hospital death-bed tells his friend and fellow officer, Jim Murray, the real story, and Jim sets out to clear Steve's name.",
-      "id": "DiX9276UY6g",
+      "addedAt": "2025-12-26T23:55:53.806Z",
+      "thumbnail": "https://i.ytimg.com/vi/DiX9276UY6g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCKazWk75JrTvI06KwE90UcI3TUdg",
+      "duration": 3755,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -43,117 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033903",
-      "title": "Men of the Timberland",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034161",
-      "title": "Sea Raiders",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032790",
-      "title": "Midnight Limited",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033082",
-      "title": "South of Pago Pago",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033429",
-      "title": "Bowery Boy",
-      "year": 1940,
-      "imdbRating": 7.3,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032690",
-      "title": "The Last Alarm",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035010",
-      "title": "Madame Spy",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032832",
-      "title": "Mysterious Doctor Satan",
-      "year": 1940,
-      "imdbRating": 7.4,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032557",
-      "title": "The Green Archer",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032559",
-      "title": "The Green Hornet Strikes Again!",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 443,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027517",
-      "title": "The Devil Diamond",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033426",
+    "tt0033903",
+    "tt0034161",
+    "tt0032790",
+    "tt0033082",
+    "tt0033429",
+    "tt0032690",
+    "tt0035010",
+    "tt0032832",
+    "tt0032557",
+    "tt0032559",
+    "tt0027517"
   ],
   "collections": [],
   "is_curated": true,

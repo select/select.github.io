@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Girls_in_Chains_1943",
+      "id": "Girls_in_Chains_1943",
       "title": "Girls in Chains",
       "description": "Another poverty-row film.",
       "fileSize": 1217469624,
-      "id": "Girls_in_Chains_1943"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/Girls_in_Chains_1943",
+      "collection": "feature_films",
+      "downloads": 14240
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chains_202103",
+      "id": "chains_202103",
       "title": "Chains",
       "description": "After years of making mostly comedies and literary adaptations, Raffaello Matarazzo turned to melodrama with this intense tale of a tight-knit working-class family shattered by temptation. There’s a touch of noir in  Chains, in which the saintly yet earthy Yvonne Sanson, as the devoted wife of a mechanic (Amedeo Nazzari), finds herself unwillingly drawn back to an ex-love who has turned to crime.",
       "fileSize": 7716647173,
-      "id": "chains_202103"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/chains_202103",
+      "language": "ita",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 4863
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046447",
-      "title": "Tormento",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 260,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043532",
-      "title": "Nobody's Children",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 408,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047832",
-      "title": "The White Angel",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 269,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041503",
-      "title": "Impact",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 5035,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041109",
-      "title": "Alimony",
-      "year": 1949,
-      "imdbRating": 5.3,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041268",
-      "title": "Criss Cross",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 10070,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041555",
-      "title": "Knock on Any Door",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 4414,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041761",
-      "title": "Port of New York",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041269",
-      "title": "The Crooked Way",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041786",
-      "title": "The Reckless Moment",
-      "year": 1949,
-      "imdbRating": 7.1,
-      "imdbVotes": 6042,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042006",
-      "title": "The Undercover Man",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1454,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041958",
-      "title": "Thieves' Highway",
-      "year": 1949,
-      "imdbRating": 7.5,
-      "imdbVotes": 7130,
-      "language": "English, Italian, Greek",
-      "sourceType": "archive.org"
-    }
+    "tt0046447",
+    "tt0043532",
+    "tt0047832",
+    "tt0041503",
+    "tt0041109",
+    "tt0041268",
+    "tt0041555",
+    "tt0041761",
+    "tt0041269",
+    "tt0041786",
+    "tt0042006",
+    "tt0041958"
   ],
   "collections": [],
   "is_curated": true,

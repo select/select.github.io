@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/StampDayForSUPERMAN",
+      "id": "StampDayForSUPERMAN",
       "title": "Stamp Day For Superman",
       "description": "The Superman production company donated this special 18 minute episode to the US Treasury to help promote school stamp day savings plans to children. This is the only episode of the series that has entered the public domain. It features all of the hallmarks that made the original 1950s Superman series so memorable.",
       "fileSize": 471179492,
-      "id": "StampDayForSUPERMAN"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/StampDayForSUPERMAN",
+      "language": "English",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 80013
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/StampDayForSuperman_201508",
+      "id": "StampDayForSuperman_201508",
       "title": "Stamp Day For Superman",
       "description": "This short is in the Public Domain because it is a government work.",
       "fileSize": 76848131,
-      "id": "StampDayForSuperman_201508"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/StampDayForSuperman_201508",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 1068
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045605",
-      "title": "Captain Scarlett",
-      "year": 1952,
-      "imdbRating": 4.6,
-      "imdbVotes": 372,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000439",
-      "title": "The Great Train Robbery",
-      "year": 1903,
-      "imdbRating": 7.3,
-      "imdbVotes": 21493,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1323925",
-      "title": "The Hunt for Gollum",
-      "year": 2009,
-      "imdbRating": 6.7,
-      "imdbVotes": 5766,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7158656",
-      "title": "Urban Vengeance",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0010708",
-      "title": "Smashing Barriers",
-      "year": 1919,
-      "imdbRating": 5.7,
-      "imdbVotes": 32,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047365",
-      "title": "Prince Valiant",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 3037,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046719",
-      "title": "Apache",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 5298,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047013",
-      "title": "Garden of Evil",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 4159,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047073",
-      "title": "Hell and High Water",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 2417,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047444",
-      "title": "Samurai I: Musashi Miyamoto",
-      "year": 1954,
-      "imdbRating": 7.4,
-      "imdbVotes": 9728,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046414",
-      "title": "Beat the Devil",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 10677,
-      "language": "Arabic, English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0045668",
-      "title": "Dance Hall Racket",
-      "year": 1953,
-      "imdbRating": 3.4,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0045605",
+    "tt0000439",
+    "tt1323925",
+    "tt7158656",
+    "tt0010708",
+    "tt0047365",
+    "tt0046719",
+    "tt0047013",
+    "tt0047073",
+    "tt0047444",
+    "tt0046414",
+    "tt0045668"
   ],
   "collections": [],
   "is_curated": true,

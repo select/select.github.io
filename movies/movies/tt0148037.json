@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cubbys-stratosphere-flight-1934",
+      "id": "cubbys-stratosphere-flight-1934",
       "title": "Cubby's Stratosphere Flight (1934)",
       "description": "A Rube Goldberg-style flying machine transports Cubby to the North Pole, where he ducks an angry polar bear/traffic cop into an igloo/speakeasy which boasts a wild musical floor show. Watch on RetroFlix:  https://retroflix.org/cubbys-stratosphere-flight-1934/",
       "fileSize": 181787956,
-      "id": "cubbys-stratosphere-flight-1934"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/cubbys-stratosphere-flight-1934",
+      "language": "eng",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 42
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0152236",
-      "title": "A Royal Good Time",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024839",
-      "title": "Art for Art's Sake",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150013",
-      "title": "Cactus King",
-      "year": 1934,
-      "imdbRating": 4.9,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148132",
-      "title": "Fiddlin' Fun",
-      "year": 1934,
-      "imdbRating": 4.5,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025728",
-      "title": "Goode Knight",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148318",
-      "title": "How's Crops",
-      "year": 1934,
-      "imdbRating": 4.8,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025328",
-      "title": "Jest of Honor",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151147",
-      "title": "Jolly Good Felons",
-      "year": 1934,
-      "imdbRating": 6.4,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148470",
-      "title": "Mild Cargo",
-      "year": 1934,
-      "imdbRating": 4.2,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152639",
-      "title": "Sultan Pepper",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150523",
-      "title": "The Fatal Note",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151428",
-      "title": "A Mad House",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0152236",
+    "tt0024839",
+    "tt0150013",
+    "tt0148132",
+    "tt0025728",
+    "tt0148318",
+    "tt0025328",
+    "tt0151147",
+    "tt0148470",
+    "tt0152639",
+    "tt0150523",
+    "tt0151428"
   ],
   "collections": [],
   "is_curated": true,

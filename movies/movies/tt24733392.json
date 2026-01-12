@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lincoln-2012",
+      "id": "lincoln-2012",
       "title": "Lincoln 2012",
       "description": "Lincoln 2012",
       "fileSize": 10759052,
-      "id": "lincoln-2012"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/lincoln-2012",
+      "collection": "feature_films",
+      "downloads": 6279
     }
   ],
   "metadata": {
@@ -26,93 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt25601256",
-      "title": "Sinister (2012)/12 Angry Men (1957) - 83 Movie Buff Specialists (Ep 18)",
-      "year": 2012,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt18757486",
-      "title": "BEE57: Inside Llewyn Davis (2013) mit Johannes Klan",
-      "year": 2013,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt34366982",
-      "title": "54. Coppola Cast #34: Twixt (2011) & B'twixt Now and Sunrise: The Authentic Cut (2022)",
-      "year": 2011,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt18757100",
-      "title": "Das ABC des Films: Q wie Que la Bete Meure (Das Biest muss sterben, 1969) & Queen of Earth (2015)",
-      "year": 2015,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3119524",
-      "title": "UFC 161: Evans vs. Henderson",
-      "year": 2013,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt27992077",
-      "title": "Silver Screen Vision: #007 - The Wrestler (2008)",
-      "year": 2008,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13967852",
-      "title": "Hell Town",
-      "year": 1937,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt32493438",
-      "title": "Lords of the Gourd: The Pursuit of Excellence",
-      "year": 2007,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt22472124",
-      "title": "244 - ALL THE COLORS OF THE DARK (1972) + YOUR VICE IS A LOCKED ROOM AND ONLY I HAVE A KEY (1972)",
-      "year": 1972,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt25610444",
-      "title": "The Empire Strikes Back (1980)/Annie Hall (1977) - 69 Movie Buff Specialists (Ep 32)",
-      "year": 1980,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt24820788",
-      "title": "Apocalypse Now (1979)",
-      "year": 1979,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt25681212",
-      "title": "200) Blood and Black Lace (1964)",
-      "year": 1964,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt25601256",
+    "tt18757486",
+    "tt34366982",
+    "tt18757100",
+    "tt3119524",
+    "tt27992077",
+    "tt13967852",
+    "tt32493438",
+    "tt22472124",
+    "tt25610444",
+    "tt24820788",
+    "tt25681212"
   ],
   "collections": [],
   "is_curated": true,

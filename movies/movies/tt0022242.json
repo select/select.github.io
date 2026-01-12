@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pagan-lady-1931",
+      "id": "pagan-lady-1931",
       "title": "Pagan Lady",
       "description": "https://web.archive.org/web/20230326155500/https://en.wikipedia.org/wiki/The_Pagan_Lady \"Steel is what they fall in love with.\"   - Juvenal",
       "fileSize": 467916063,
-      "id": "pagan-lady-1931"
+      "addedAt": "2026-01-07T00:10:12.694Z",
+      "thumbnail": "https://archive.org/services/img/pagan-lady-1931",
+      "language": "eng",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 1829
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022149",
-      "title": "Millie",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 878,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022537",
-      "title": "The Viking",
-      "year": 1931,
-      "imdbRating": 6,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022689",
-      "title": "Bird of Paradise",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1646,
-      "language": "English, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020691",
-      "title": "The Big Trail",
-      "year": 1930,
-      "imdbRating": 7.2,
-      "imdbVotes": 4648,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020959",
-      "title": "Hell Harbor",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018908",
-      "title": "The Four Feathers",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 352,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019886",
-      "title": "The Flying Fleet",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021828",
-      "title": "East of Borneo",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021374",
-      "title": "The Silver Horde",
-      "year": 1930,
-      "imdbRating": 5.8,
-      "imdbVotes": 610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026083",
-      "title": "Artisten",
-      "year": 1935,
-      "imdbRating": 2.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023904",
-      "title": "The Constant Woman",
-      "year": 1933,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022149",
+    "tt0022537",
+    "tt0022689",
+    "tt0020691",
+    "tt0020959",
+    "tt0018908",
+    "tt0019886",
+    "tt0021828",
+    "tt0011741",
+    "tt0021374",
+    "tt0026083",
+    "tt0023904"
   ],
   "collections": [],
   "is_curated": true,

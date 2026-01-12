@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/top-cat-2011-dvdrip.xvid-g",
+      "id": "top-cat-2011-dvdrip.xvid-g",
       "title": "Top Cat: The Movie",
       "description": "Top Cat and the gang face a new police chief, who is not at all happy with the poor Officer Dibble's performance trying to prevent Top Cat's scams.",
       "fileSize": 1282398127,
-      "id": "top-cat-2011-dvdrip.xvid-g"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/top-cat-2011-dvdrip.xvid-g",
+      "language": "eng",
+      "year": 2012,
+      "collection": "feature_films",
+      "downloads": 123
     }
   ],
   "metadata": {
@@ -27,119 +33,18 @@
     "Awards": "2 wins & 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1468321",
-      "title": "Higashi no Eden Gekijôban II: Paradise Lost",
-      "year": 2010,
-      "imdbRating": 7,
-      "imdbVotes": 1373,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1566486",
-      "title": "Behemoth",
-      "year": 2011,
-      "imdbRating": 3.7,
-      "imdbVotes": 1801,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1684927",
-      "title": "Swamp Shark",
-      "year": 2011,
-      "imdbRating": 3.7,
-      "imdbVotes": 3230,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1474456",
-      "title": "Lizard Boy",
-      "year": 2011,
-      "imdbRating": 2.9,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1620449",
-      "title": "Animals United",
-      "year": 2010,
-      "imdbRating": 4.9,
-      "imdbVotes": 7254,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2631148",
-      "title": "Mystery Political Science Theater 2012: Tea Party Invaders from Outer Space Target South Carolina!",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1272051",
-      "title": "Space Dogs",
-      "year": 2010,
-      "imdbRating": 5,
-      "imdbVotes": 1595,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2179678",
-      "title": "Soledad y Larguirucho",
-      "year": 2012,
-      "imdbRating": 3.8,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1780983",
-      "title": "Assassin's Bullet",
-      "year": 2012,
-      "imdbRating": 3.6,
-      "imdbVotes": 3521,
-      "language": "English, French, Bulgarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1527823",
-      "title": "Last Kung Fu Monk",
-      "year": 2010,
-      "imdbRating": 4,
-      "imdbVotes": 753,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1080019",
-      "title": "Jerry Cotton",
-      "year": 2010,
-      "imdbRating": 5.2,
-      "imdbVotes": 995,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0423474",
-      "title": "Venus & Vegas",
-      "year": 2010,
-      "imdbRating": 4,
-      "imdbVotes": 677,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt1468321",
+    "tt1566486",
+    "tt1684927",
+    "tt1474456",
+    "tt1620449",
+    "tt2631148",
+    "tt1272051",
+    "tt2179678",
+    "tt1780983",
+    "tt1527823",
+    "tt1080019",
+    "tt0423474"
   ],
   "collections": [],
   "is_curated": true,

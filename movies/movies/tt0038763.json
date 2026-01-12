@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MyDogShep",
+      "id": "MyDogShep",
       "title": "My Dog Shep",
       "description": "An orphan boy on his way to live with his uncle picks up a stray dog, and the two become fast friends. However, the uncle doesn't want the dog, and when chickens are found dead, the uncle accuses the dog of killing them.",
       "fileSize": 1435554327,
-      "id": "MyDogShep"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MyDogShep",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 64540
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=uK7Er9j5AVo",
+      "id": "uK7Er9j5AVo",
       "title": "My Dog Shep (1946) TOM NEAL",
       "description": "Stars: Flame, Tom Neal, William Farnum \nDirector: Ford Beebe\n\nAn orphan boy on his way to live with his uncle picks up a stray dog, and the two become fast friends. However, the uncle doesn't want the dog, so the boy and the dog run away and meet an elderly man who also ran away from a home where he believed he wasn't wanted either.",
-      "id": "uK7Er9j5AVo",
+      "addedAt": "2025-12-26T23:47:19.190Z",
+      "thumbnail": "https://i.ytimg.com/vi/uK7Er9j5AVo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhjIGMoYzAP&rs=AOn4CLB9TOmK_6WJr2dh3DNy7XaHK5n6NQ",
+      "duration": 4118,
+      "language": "en",
+      "year": 1946,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,113 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041276",
-      "title": "The Dalton Gang",
-      "year": 1949,
-      "imdbRating": 4.9,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0035124",
-      "title": "Night Monster",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028306",
-      "title": "Stampede",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2836316",
-      "title": "The Green Hornet Movie Edition",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024245",
-      "title": "Laughing at Life",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 116,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030898",
-      "title": "Trouble at Midnight",
-      "year": 1937,
-      "imdbRating": 7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037638",
-      "title": "Detour",
-      "year": 1945,
-      "imdbRating": 7.3,
-      "imdbVotes": 20553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037622",
-      "title": "Crime, Inc.",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037701",
-      "title": "First Yank Into Tokyo",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037409",
-      "title": "Two-Man Submarine",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036959",
-      "title": "The Invisible Man's Revenge",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0041276",
+    "tt0035124",
+    "tt0028306",
+    "tt2836316",
+    "tt0024245",
+    "tt0030898",
+    "tt0037638",
+    "tt0037622",
+    "tt0037701",
+    "tt0037409",
+    "tt0036959",
+    "tt0038494"
   ],
   "collections": [],
   "is_curated": true,

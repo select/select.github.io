@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Socrates",
+      "id": "Socrates",
       "title": "Socrates",
       "description": "cinefilosofia",
       "fileSize": 1360627645,
-      "id": "Socrates"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/Socrates",
+      "collection": "feature_films",
+      "downloads": 22161
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0066839",
-      "title": "Blaise Pascal",
-      "year": 1972,
-      "imdbRating": 7,
-      "imdbVotes": 644,
-      "language": "French, Latin, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065593",
-      "title": "Cromwell",
-      "year": 1970,
-      "imdbRating": 7,
-      "imdbVotes": 7269,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060107",
-      "title": "Andrei Rublev",
-      "year": 1966,
-      "imdbRating": 8,
-      "imdbVotes": 58379,
-      "language": "Russian, Italian, Tatar",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0045473",
-      "title": "Admiral Ushakov",
-      "year": 1953,
-      "imdbRating": 7.3,
-      "imdbVotes": 224,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt1475191",
-      "title": "American Radical: The Trials of Norman Finkelstein",
-      "year": 2009,
-      "imdbRating": 7.8,
-      "imdbVotes": 833,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086891",
-      "title": "Anatomy of an Illness",
-      "year": 1984,
-      "imdbRating": 6.4,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024966",
-      "title": "Chapaev",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 1461,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266425",
-      "title": "Conspiracy",
-      "year": 2001,
-      "imdbRating": 7.6,
-      "imdbVotes": 28545,
-      "language": "English, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033451",
-      "title": "Carl Peters",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034653",
-      "title": "Diesel",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9071322",
-      "title": "Dark Waters",
-      "year": 2019,
-      "imdbRating": 7.6,
-      "imdbVotes": 118173,
-      "language": "English, Korean",
-      "sourceType": "archive.org"
-    }
+    "tt0066839",
+    "tt0065593",
+    "tt0060107",
+    "tt1441953",
+    "tt0045473",
+    "tt1475191",
+    "tt0086891",
+    "tt0024966",
+    "tt0266425",
+    "tt0033451",
+    "tt0034653",
+    "tt9071322"
   ],
   "collections": [],
   "is_curated": true,

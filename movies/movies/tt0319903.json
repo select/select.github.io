@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-mystery-of-dead-mans-isle",
+      "id": "silent-the-mystery-of-dead-mans-isle",
       "title": "The Mystery of Dead Man's Isle",
       "fileSize": 409902541,
-      "id": "silent-the-mystery-of-dead-mans-isle"
+      "addedAt": "2026-01-07T00:11:15.978Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-mystery-of-dead-mans-isle",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 415
     }
   ],
   "metadata": {
@@ -25,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1488156",
-      "title": "The Wild Engine",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 92,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1487926",
-      "title": "In Danger's Path",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1316458",
-      "title": "The Escape on the Fast Freight",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 81,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1316468",
-      "title": "The Leap from the Water Tower",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1488145",
-      "title": "The Pay Train",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1488157",
-      "title": "The Wrong Train Order",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1534525",
-      "title": "The Governor's Special",
-      "year": 1916,
-      "imdbRating": 6.6,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1534533",
-      "title": "The Open Track",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0437960",
-      "title": "Les dents de fer",
-      "year": 1913,
-      "imdbRating": 6.8,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002208",
-      "title": "The Girl and Her Trust",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 1279,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002553",
-      "title": "An Unseen Enemy",
-      "year": 1912,
-      "imdbRating": 6.5,
-      "imdbVotes": 1005,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005482",
-      "title": "The Hidden City",
-      "year": 1915,
-      "imdbRating": 4.8,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1488156",
+    "tt1487926",
+    "tt1316458",
+    "tt1316468",
+    "tt1488145",
+    "tt1488157",
+    "tt1534525",
+    "tt1534533",
+    "tt0437960",
+    "tt0002208",
+    "tt0002553",
+    "tt0005482"
   ],
   "collections": [],
   "is_curated": true,

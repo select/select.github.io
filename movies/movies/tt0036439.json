@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TigerFangs",
+      "id": "TigerFangs",
       "title": "Tiger Fangs",
       "description": "A big-game hunter (Frank Buck) travels to Malaya to help stop the Nazis and Japanese from destroying the rubber industry.",
       "fileSize": 1609201005,
-      "id": "TigerFangs"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/TigerFangs",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 8574
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=o2ChDq6IDmQ",
+      "id": "o2ChDq6IDmQ",
       "title": "Tiger Fangs (1943) JUNGLE ADVENTURE",
       "description": "Stars: Frank Buck, June Duprez, Duncan Renaldo \n Director: Sam Newfield\n\n A big-game hunter travels to Malaya to help stop the Nazis and Japanese from destroying the rubber industry.",
-      "id": "o2ChDq6IDmQ",
+      "addedAt": "2025-12-26T23:53:44.209Z",
+      "thumbnail": "https://i.ytimg.com/vi/o2ChDq6IDmQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCjW-kmQI-4yRyq61TVAjjRKS_KzA",
+      "duration": 3449,
+      "language": "en",
+      "year": 1943,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032763",
-      "title": "Marked Men",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039133",
-      "title": "Adventure Island",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031305",
-      "title": "Fighting Mad",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041918",
-      "title": "State Department: File 649",
-      "year": 1949,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164611",
-      "title": "Go-Get-'Em, Haines",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035679",
-      "title": "The Black Raven",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 839,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0034908",
-      "title": "Jacaré",
-      "year": 1942,
-      "imdbRating": 4.7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037336",
-      "title": "Swing Hostess",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037115",
-      "title": "Nabonga",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 656,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034929",
-      "title": "Jungle Siren",
-      "year": 1942,
-      "imdbRating": 3.7,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038246",
-      "title": "White Pongo",
-      "year": 1945,
-      "imdbRating": 3,
-      "imdbVotes": 704,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0032763",
+    "tt0039133",
+    "tt0031305",
+    "tt0026223",
+    "tt0041918",
+    "tt0164611",
+    "tt0035679",
+    "tt0034908",
+    "tt0037336",
+    "tt0037115",
+    "tt0034929",
+    "tt0038246"
   ],
   "collections": [],
   "is_curated": true,

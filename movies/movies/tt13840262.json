@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/der-prozess_202006",
+      "id": "der-prozess_202006",
       "title": "Der Prozess",
       "description": "Der Prozess",
       "fileSize": 2963974661,
-      "id": "der-prozess_202006"
+      "addedAt": "2026-01-07T00:07:59.606Z",
+      "thumbnail": "https://archive.org/services/img/der-prozess_202006",
+      "language": "spanish",
+      "collection": "feature_films",
+      "downloads": 330
     }
   ],
   "metadata": {
@@ -26,122 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt13576640",
-      "title": "Ferdinand von Schirach: Feinde - Gegen die Zeit",
-      "year": 2021,
-      "imdbRating": 6.5,
-      "imdbVotes": 484,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8545482",
-      "title": "Zone 414",
-      "year": 2021,
-      "imdbRating": 5.1,
-      "imdbVotes": 5919,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10298870",
-      "title": "Hide and Bleed",
-      "year": 2021,
-      "imdbRating": 3.7,
-      "imdbVotes": 312,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7888964",
-      "title": "Nobody",
-      "year": 2021,
-      "imdbRating": 7.4,
-      "imdbVotes": 379152,
-      "language": "English, Russian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10016180",
-      "title": "The Little Things",
-      "year": 2021,
-      "imdbRating": 6.3,
-      "imdbVotes": 137766,
-      "language": "English, Spanish, Arabic",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt12974634",
-      "title": "Mexican Moon",
-      "year": 2021,
-      "imdbRating": 5.5,
-      "imdbVotes": 2192,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13422712",
-      "title": "Outlaw's Buckle",
-      "year": 2021,
-      "imdbRating": 2.6,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt14552076",
-      "title": "MLK: The Conspiracies",
-      "year": 2021,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt13651858",
-      "title": "Safer at Home",
-      "year": 2021,
-      "imdbRating": 3.8,
-      "imdbVotes": 4064,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13674082",
-      "title": "973",
-      "year": 2022,
-      "imdbVotes": 8,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11775236",
-      "title": "Acts of Revenge",
-      "year": 2020,
-      "imdbRating": 3.6,
-      "imdbVotes": 339,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10314450",
-      "title": "Becky",
-      "year": 2020,
-      "imdbRating": 6.1,
-      "imdbVotes": 28095,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt13576640",
+    "tt8545482",
+    "tt10298870",
+    "tt10016180",
+    "tt12974634",
+    "tt13422712",
+    "tt14552076",
+    "tt13651858",
+    "tt13674082",
+    "tt11775236",
+    "tt10314450",
+    "tt21824832"
   ],
   "collections": [],
   "is_curated": true,

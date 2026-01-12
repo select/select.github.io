@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-saturday-night-kid_1929",
+      "id": "the-saturday-night-kid_1929",
       "title": "The Saturday Night Kid",
       "fileSize": 3314458150,
-      "id": "the-saturday-night-kid_1929"
+      "addedAt": "2026-01-07T00:12:22.158Z",
+      "thumbnail": "https://archive.org/services/img/the-saturday-night-kid_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 918
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020278",
-      "title": "Pointed Heels",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021334",
-      "title": "The Sap from Syracuse",
-      "year": 1930,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031322",
-      "title": "The Flying Deuces",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 6052,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032637",
-      "title": "The Invisible Woman",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 3517,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020809",
-      "title": "Dangerous Nan McGrew",
-      "year": 1930,
-      "imdbRating": 4.7,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021133",
-      "title": "Maybe It's Love",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017894",
-      "title": "Flying Luck",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017928",
-      "title": "Get Your Man",
-      "year": 1927,
-      "imdbRating": 6.5,
-      "imdbVotes": 228,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019690",
-      "title": "Big News",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0314115",
-      "title": "Good Night Nurse",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0020278",
+    "tt0021334",
+    "tt0023243",
+    "tt0031322",
+    "tt0032637",
+    "tt0020809",
+    "tt0021133",
+    "tt0017894",
+    "tt0017928",
+    "tt0019690",
+    "tt0019933",
+    "tt0314115"
   ],
   "collections": [],
   "is_curated": true,

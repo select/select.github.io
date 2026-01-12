@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-extraordinary-waiter",
+      "id": "silent-the-extraordinary-waiter",
       "title": "The Extraordinary Waiter",
       "fileSize": 25801718,
-      "id": "silent-the-extraordinary-waiter"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-extraordinary-waiter",
+      "year": 1902,
+      "collection": "feature_films",
+      "downloads": 256
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000357",
-      "title": "The Haunted Curiosity Shop",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211928",
-      "title": "Artistic Creation",
-      "year": 1901,
-      "imdbRating": 6.4,
-      "imdbVotes": 201,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000377",
-      "title": "Undressing Extraordinary",
-      "year": 1901,
-      "imdbRating": 6.1,
-      "imdbVotes": 129,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2627724",
-      "title": "The Magic Sword",
-      "year": 1902,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212596",
-      "title": "The Waif and the Wizard",
-      "year": 1901,
-      "imdbRating": 5.6,
-      "imdbVotes": 127,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245125",
-      "title": "Fun in a Bakery Shop",
-      "year": 1902,
-      "imdbRating": 5.9,
-      "imdbVotes": 430,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422664",
-      "title": "His Only Pair",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367570",
-      "title": "The Burlesque Suicide",
-      "year": 1902,
-      "imdbRating": 4.8,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367569",
-      "title": "The Burlesque Suicide, No. 2",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 212,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0379830",
-      "title": "The Interrupted Bathers",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 231,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000357",
+    "tt0211928",
+    "tt0000377",
+    "tt2627724",
+    "tt0212596",
+    "tt0245125",
+    "tt1422664",
+    "tt0367570",
+    "tt0367569",
+    "tt0379830",
+    "tt0308284",
+    "tt2585250"
   ],
   "collections": [],
   "is_curated": true,

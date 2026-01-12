@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/woman_in_brown",
+      "id": "woman_in_brown",
       "title": "Woman In Brown",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4855559296,
-      "id": "woman_in_brown"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/woman_in_brown",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 83730
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=dXAVEda9BVI",
+      "id": "dXAVEda9BVI",
       "title": "Woman In Brown (1948) W. LEE WILDER",
       "description": "Stars: Conrad Nagel, Fritz Kortner, Reinhold Schünzel\nDirector: W. Lee Wilder\n\nIn Hungary, a rich baron discovers that there are extensive oil deposits underneath nearby properties owned by villagers. He manages to convince all the property owners to sell to him, except for a few properties owned by Jewish families. Infuriated at their refusal to sell to him, he attempts, with the help of some corrupt local police, to have the men charged with the murder of a local woman, who in reality actually committed suicide. Also known as THE VICIOUS CIRCLE.",
-      "id": "dXAVEda9BVI",
+      "addedAt": "2025-12-26T23:55:52.345Z",
+      "thumbnail": "https://i.ytimg.com/vi/dXAVEda9BVI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLD0DV5-q5AS7g8cIjC3RX0rX4cH9Q",
+      "duration": 3703,
+      "language": "en",
+      "year": 1948,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -35,104 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040941",
-      "title": "The Vicious Circle",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039730",
-      "title": "The Pretender",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 392,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042807",
-      "title": "Once a Thief",
-      "year": 1950,
-      "imdbRating": 6.2,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0264698",
-      "title": "Hoy cumple años mamá",
-      "year": 1948,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183750",
-      "title": "Los secretos del buzón",
-      "year": 1948,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040576",
-      "title": "María de los Ángeles",
-      "year": 1948,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184740",
-      "title": "Mis cinco hijos",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194203",
-      "title": "Novio, marido y amante",
-      "year": 1948,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182383",
-      "title": "Recuerdos de un ángel",
-      "year": 1948,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184230",
-      "title": "Una atrevida aventurita",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043066",
-      "title": "Three Steps North",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 186,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191755",
-      "title": "30 segundos de amor",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0040941",
+    "tt0039730",
+    "tt0042807",
+    "tt0264698",
+    "tt0183750",
+    "tt0040576",
+    "tt0184740",
+    "tt0194203",
+    "tt0182383",
+    "tt0184230",
+    "tt0043066",
+    "tt0191755"
   ],
   "collections": [],
   "is_curated": true,

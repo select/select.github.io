@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-centaurs",
+      "id": "silent-the-centaurs",
       "title": "The Centaurs",
       "fileSize": 75155045,
-      "id": "silent-the-centaurs"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-centaurs",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 629
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0126879",
-      "title": "Dreams of the Rarebit Fiend: Bug Vaudeville",
-      "year": 1921,
-      "imdbRating": 5.7,
-      "imdbVotes": 377,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012123",
-      "title": "Dreams of the Rarebit Fiend: The Pet",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 437,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126913",
-      "title": "Flip's Circus",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009620",
-      "title": "The Sinking of the 'Lusitania'",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 1323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10359784",
-      "title": "Bobby Bumps in Their Master's Voice",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012620",
-      "title": "Rhythmus 21",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 1485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0443314",
-      "title": "A Coach for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147865",
-      "title": "Babes at Sea",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8815066",
-      "title": "Kuro Nyago",
-      "year": 1931,
-      "imdbVotes": 12,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0126879",
+    "tt0012123",
+    "tt0126913",
+    "tt0126926",
+    "tt0013014",
+    "tt0009620",
+    "tt10359784",
+    "tt0012620",
+    "tt0443314",
+    "tt1020989",
+    "tt0147865",
+    "tt8815066"
   ],
   "collections": [],
   "is_curated": true,

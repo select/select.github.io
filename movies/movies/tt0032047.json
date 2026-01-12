@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TortureShip",
+      "id": "TortureShip",
       "title": "Torture Ship",
       "description": "A well known doctor is indicted for his experiments toward curing the criminal mind. Needing to continue his work and hoping that success will clear him, he buys a boat, loads it with several high profile criminals hoping to escape the law and heads out to sea. At least that's the plan, but things start to go wrong and things are revealed to be not what they seemed at first.",
       "fileSize": 1287643159,
-      "id": "TortureShip"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/TortureShip",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 45630
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=WEQmE7ApRrw",
+      "id": "WEQmE7ApRrw",
       "title": "Torture Ship (1939) HORROR",
       "description": "Stars: Lyle Talbot, Irving Pichel, Julie Bishop\n Director: Victor Halperin\n Writer: Jack London (story)\n\n A mad scientist performs experiments on \"the criminal mind\" on captured criminals on board his private ship. From the director of the clasic horror fllm WHITE ZOMBIE.",
-      "id": "WEQmE7ApRrw",
+      "addedAt": "2025-12-26T23:54:14.425Z",
+      "thumbnail": "https://i.ytimg.com/vi/WEQmE7ApRrw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCWGP8cHDepfSBNu73SoBwdfNVKnw",
+      "duration": 2929,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031951",
-      "title": "Son of Frankenstein",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 13067,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031614",
-      "title": "The Man They Could Not Hang",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 2005,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028174",
-      "title": "Revolt of the Zombies",
-      "year": 1936,
-      "imdbRating": 3.4,
-      "imdbVotes": 1925,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032390",
-      "title": "The Devil Bat",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 3607,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032245",
-      "title": "Before I Hang",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1450,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032753",
-      "title": "The Man with Nine Lives",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 1138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023694",
-      "title": "White Zombie",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 11929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024631",
-      "title": "Supernatural",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 1023,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031126",
-      "title": "Buried Alive",
-      "year": 1939,
-      "imdbRating": 4.6,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0034613",
-      "title": "The Corpse Vanishes",
-      "year": 1942,
-      "imdbRating": 4.6,
-      "imdbVotes": 3653,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027521",
-      "title": "The Devil-Doll",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 5320,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035640",
-      "title": "The Ape Man",
-      "year": 1943,
-      "imdbRating": 4.4,
-      "imdbVotes": 1572,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031951",
+    "tt0031614",
+    "tt0028174",
+    "tt0032390",
+    "tt0032245",
+    "tt0032753",
+    "tt0023694",
+    "tt0024631",
+    "tt0031126",
+    "tt0034613",
+    "tt0027521",
+    "tt0035640"
   ],
   "collections": [],
   "is_curated": true,

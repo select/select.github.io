@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/return-to-yesterday",
+      "id": "return-to-yesterday",
       "title": "Return to Yesterday",
       "description": "Robert Maine is torn between returning to the glamour of Hollywood or working with a small theatre company in England.",
       "fileSize": 5420271236,
-      "id": "return-to-yesterday"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/return-to-yesterday",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 2172
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032110",
-      "title": "The Ware Case",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 163,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033169",
-      "title": "Tom Brown's School Days",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 526,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029319",
-      "title": "Non-Stop New York",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043118",
-      "title": "Walk Softly, Stranger",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 1412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039324",
-      "title": "Dishonored Lady",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 1722,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041495",
-      "title": "The Woman on Pier 13",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 1493,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033729",
-      "title": "How Green Was My Valley",
-      "year": 1941,
-      "imdbRating": 7.7,
-      "imdbVotes": 28253,
-      "language": "English, Welsh",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034548",
-      "title": "Adventure in Blackmail",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033021",
-      "title": "Santa Fe Trail",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 4478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    }
+    "tt0032110",
+    "tt0033169",
+    "tt0029319",
+    "tt0043118",
+    "tt0039324",
+    "tt0041495",
+    "tt0033729",
+    "tt0034548",
+    "tt0032599",
+    "tt0033021",
+    "tt0032343",
+    "tt0032179"
   ],
   "collections": [],
   "is_curated": true,

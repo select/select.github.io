@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shiraz_1929",
+      "id": "shiraz_1929",
       "title": "Shiraz",
       "fileSize": 17027576759,
-      "id": "shiraz_1929"
+      "addedAt": "2026-01-07T00:10:50.366Z",
+      "thumbnail": "https://archive.org/services/img/shiraz_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 158
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0309977",
-      "title": "Pan Tadeusz",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 119,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019824",
-      "title": "The Divine Lady",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 957,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019589",
-      "title": "The Woman Disputed",
-      "year": 1928,
-      "imdbRating": 7.3,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018218",
-      "title": "Old San Francisco",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014702",
-      "title": "Beau Brummel",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015016",
-      "title": "The Iron Horse",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 2649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035294",
-      "title": "Schicksal",
-      "year": 1942,
-      "imdbRating": 7.5,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018217",
-      "title": "October (Ten Days that Shook the World)",
-      "year": 1928,
-      "imdbRating": 7.4,
-      "imdbVotes": 8595,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0309977",
+    "tt0019824",
+    "tt0019589",
+    "tt0018218",
+    "tt0014854",
+    "tt0015022",
+    "tt0014702",
+    "tt0015016",
+    "tt0027727",
+    "tt0035294",
+    "tt0018972",
+    "tt0018217"
   ],
   "collections": [],
   "is_curated": true,

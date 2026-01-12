@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/picador-porky-1937",
+      "id": "picador-porky-1937",
       "title": "Picador Porky (1937)",
       "description": "Porky and two pals stumble onto a Mexican town on the day of the town's annual bullfight.",
       "fileSize": 1001177353,
-      "id": "picador-porky-1937"
+      "addedAt": "2026-01-07T00:10:12.700Z",
+      "thumbnail": "https://archive.org/services/img/picador-porky-1937",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 439
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029422",
-      "title": "Porky the Wrestler",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027371",
-      "title": "The Blow Out",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 326,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030280",
-      "title": "The Isle of Pingo Pongo",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028467",
-      "title": "The Village Smithy",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031552",
-      "title": "Land of the Midnight Fun",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029040",
-      "title": "I Wanna Be a Sailor",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029426",
-      "title": "Porky's Duck Hunt",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029427",
-      "title": "Porky's Garden",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029708",
-      "title": "Uncle Tom's Bungalow",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027968",
-      "title": "Milk and Money",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028109",
-      "title": "Plane Dippy",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032426",
-      "title": "The Early Worm Gets the Bird",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029422",
+    "tt0027371",
+    "tt0030280",
+    "tt0028467",
+    "tt0031552",
+    "tt0029040",
+    "tt0029426",
+    "tt0029427",
+    "tt0029708",
+    "tt0027968",
+    "tt0028109",
+    "tt0032426"
   ],
   "collections": [],
   "is_curated": true,

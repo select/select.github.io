@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Junction88",
+      "id": "Junction88",
       "title": "Junction 88",
       "description": "Musical with an African-American cast. Low-budget, but charming.",
       "fileSize": 2045742314,
-      "id": "Junction88"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/Junction88",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 7738
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0276344",
-      "title": "Murder with Music",
-      "year": 1941,
-      "imdbRating": 4,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039799",
-      "title": "Sarge Goes to College",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039948",
-      "title": "Vacation Days",
-      "year": 1947,
-      "imdbRating": 4.1,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040508",
-      "title": "Killer Diller",
-      "year": 1948,
-      "imdbRating": 5.6,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040803",
-      "title": "Smart Politics",
-      "year": 1948,
-      "imdbRating": 6.7,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040919",
-      "title": "Unfaithfully Yours",
-      "year": 1948,
-      "imdbRating": 7.5,
-      "imdbVotes": 6034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037541",
-      "title": "The Big Show-Off",
-      "year": 1945,
-      "imdbRating": 5.6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037650",
-      "title": "Doll Face",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 587,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037336",
-      "title": "Swing Hostess",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043123",
-      "title": "The West Point Story",
-      "year": 1950,
-      "imdbRating": 6.2,
-      "imdbVotes": 1486,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037399",
-      "title": "Trocadero",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 138,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036762",
-      "title": "Dixie Jamboree",
-      "year": 1944,
-      "imdbRating": 4.6,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0276344",
+    "tt0039799",
+    "tt0039948",
+    "tt0040508",
+    "tt0040803",
+    "tt0040919",
+    "tt0038382",
+    "tt0037541",
+    "tt0037650",
+    "tt0037336",
+    "tt0043123",
+    "tt0037399"
   ],
   "collections": [],
   "is_curated": true,

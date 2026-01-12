@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/paul-tremaine-and-his-aristocrats_1929",
+      "id": "paul-tremaine-and-his-aristocrats_1929",
       "title": "Paul Tremaine and His Aristocrats",
       "fileSize": 463425948,
-      "id": "paul-tremaine-and-his-aristocrats_1929"
+      "addedAt": "2026-01-07T00:10:12.697Z",
+      "thumbnail": "https://archive.org/services/img/paul-tremaine-and-his-aristocrats_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 71
     }
   ],
   "metadata": {
@@ -26,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1876303",
-      "title": "Dream Cafe",
-      "year": 1927,
-      "imdbRating": 4.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430596",
-      "title": "At the Seashore",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3663322",
-      "title": "An Everyday Occurence",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0468845",
-      "title": "Rhythms",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229761",
-      "title": "Tal Henry and His North Carolinians",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189157",
-      "title": "Traffic Regulations",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12881722",
-      "title": "The Heron and Three Birds of Prey",
-      "year": 1930,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1876303",
+    "tt0430596",
+    "tt3663322",
+    "tt0475080",
+    "tt0468845",
+    "tt0229761",
+    "tt0189157",
+    "tt1893190",
+    "tt3251338",
+    "tt0309243",
+    "tt0211244",
+    "tt12881722"
   ],
   "collections": [],
   "is_curated": true,

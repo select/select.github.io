@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alamos-talados-1960",
+      "id": "alamos-talados-1960",
       "title": "Alamos Talados (1960)",
       "description": "Álamos talados  es una película filmada en colores de  Argentina  dirigida por  Catrano Catrani  sobre el guion de  Abelardo Arias  y  Antonio Di Benedetto  según la novela de Abelardo Arias que se estrenó el 5 de mayo de 1960 y que tuvo como protagonistas a  José Luis Suárez ,  Lilian Araya  y  Ubaldo Martínez .Fue filmada en  San Rafael ,  provincia de Mendoza . (Wikipedia) Sinopsis Un idealizado amor juvenil en unas vacaciones mendocinas. Reparto Actor Personaje José Luis Suárez Lilian Araya Ubaldo Martínez Emilio Guevara María Isabel Alberdi Pepita Meliá Aldo Braga Dora Norby",
       "fileSize": 2843680211,
-      "id": "alamos-talados-1960"
+      "addedAt": "2026-01-07T00:07:24.995Z",
+      "thumbnail": "https://archive.org/services/img/alamos-talados-1960",
+      "language": "spa",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 64
     }
   ],
   "metadata": {
@@ -27,97 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0290404",
-      "title": "Al sur del paralelo 42",
-      "year": 1955,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183398",
-      "title": "Lejos del cielo",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183750",
-      "title": "Los secretos del buzón",
-      "year": 1948,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186324",
-      "title": "Luna Park",
-      "year": 1960,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt21920646",
-      "title": "The Unfinished Task",
-      "year": 1960,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184086",
-      "title": "El último montonero",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201507",
-      "title": "Campo virgen",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201567",
-      "title": "El dinero de Dios",
-      "year": 1959,
-      "imdbRating": 6.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189510",
-      "title": "Evangelina",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0195227",
-      "title": "Salitre",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt24820646",
-      "title": "West Side Story (1961)",
-      "year": 1961,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051526",
-      "title": "Del cuplé al tango",
-      "year": 1958,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0290404",
+    "tt0183398",
+    "tt0183750",
+    "tt0186324",
+    "tt21920646",
+    "tt0184086",
+    "tt0201507",
+    "tt0201567",
+    "tt0189510",
+    "tt0195227",
+    "tt24820646",
+    "tt0051526"
   ],
   "collections": [],
   "is_curated": true,

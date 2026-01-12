@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DelinquentDoughters",
+      "id": "DelinquentDoughters",
       "title": "Delinquent Daughters",
       "description": "A town is shocked when a high school girl commits suicide. A reporter and a cop team up to investigate and find out exactly what is going on among the youth of the town.",
       "fileSize": 1600171873,
-      "id": "DelinquentDoughters"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DelinquentDoughters",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 21415
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=c10KAFvDYvk",
+      "id": "c10KAFvDYvk",
       "title": "Delinquent Daughters (1944) EXPLOITATION",
       "description": "Stars: June Carlson, Fifi D'Orsay, Teala Loring\n Director: Albert Herman\n\n A town is shocked when a high school girl commits suicide. A reporter and a cop team up to investigate and find out exactly what is going on among the youth of the town.",
-      "id": "c10KAFvDYvk",
+      "addedAt": "2025-12-26T23:53:02.364Z",
+      "thumbnail": "https://i.ytimg.com/vi/c10KAFvDYvk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB7ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA03wxGM3YkuD38bQLRj0kl8rleog",
+      "duration": 4168,
+      "language": "en",
+      "year": 1944,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034637",
-      "title": "The Dawn Express",
-      "year": 1942,
-      "imdbRating": 4.5,
-      "imdbVotes": 234,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026259",
-      "title": "Danger Ahead",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037115",
-      "title": "Nabonga",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 656,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037267",
-      "title": "Shake Hands with Murder",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037985",
-      "title": "The Phantom of 42nd Street",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0038550",
-      "title": "Gas House Kids",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035573",
-      "title": "A Yank in Libya",
-      "year": 1942,
-      "imdbRating": 4.3,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036164",
-      "title": "Miss V from Moscow",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036743",
-      "title": "Dark Mountain",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037427",
-      "title": "Der Verteidiger hat das Wort",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 31,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035991",
-      "title": "Herr Sanders lebt gefährlich",
-      "year": 1944,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036775",
-      "title": "Double Indemnity",
-      "year": 1944,
-      "imdbRating": 8.3,
-      "imdbVotes": 176771,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034637",
+    "tt0026259",
+    "tt0037115",
+    "tt0037267",
+    "tt0037985",
+    "tt0038550",
+    "tt0035573",
+    "tt0036164",
+    "tt0036743",
+    "tt0037427",
+    "tt0035991",
+    "tt0036775"
   ],
   "collections": [],
   "is_curated": true,

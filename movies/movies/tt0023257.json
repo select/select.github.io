@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MysteryRanch",
+      "id": "MysteryRanch",
       "title": "Mystery Ranch",
       "description": "A famous western author based in New York City heads for a western ranch to find out what cowboy life is really about.",
       "fileSize": 1024673859,
-      "id": "MysteryRanch"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MysteryRanch",
+      "collection": "feature_films",
+      "downloads": 22530
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027384",
-      "title": "The Border Patrolman",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022293",
-      "title": "The Range Feud",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 499,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029012",
-      "title": "Hollywood Stadium Mystery",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023604",
-      "title": "Tombstone Canyon",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025939",
-      "title": "Rocky Mountain Mystery",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024500",
-      "title": "Riders of Destiny",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 1238,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024042",
-      "title": "The Fugitive",
-      "year": 1933,
-      "imdbRating": 6,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0132461",
-      "title": "Rainbow Ranch",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019268",
-      "title": "The Phantom City",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027499",
-      "title": "Daniel Boone",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 358,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025073",
-      "title": "The Dude Ranger",
-      "year": 1934,
-      "imdbRating": 6.1,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025269",
-      "title": "Honor of the Range",
-      "year": 1934,
-      "imdbRating": 6.4,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027384",
+    "tt0022293",
+    "tt0029012",
+    "tt0023604",
+    "tt0025939",
+    "tt0024500",
+    "tt0024042",
+    "tt0132461",
+    "tt0019268",
+    "tt0027499",
+    "tt0025073",
+    "tt0025269"
   ],
   "collections": [
     {

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-thief-1952",
+      "id": "the-thief-1952",
       "title": "The Thief (1952) Directed By Russell Rouse, Starring Ray Milland",
       "description": "The Thief is a 1952 American FILM NOlR crime film directed by Russell Rouse and starring Ray Milland. The film is noted for having no spoken dialogue; the only verbal communication present in the film is represented through close up shots of two telegrams.   The great cinematography was done by Sam Leavit and it earned him a Golden Globe nomination. The soundtrack was scored by Herschel Burke Gilbert, which earned him an Oscar nomination.   You can find out more about this movie from Wikipedia . There is also a good review of the movie from the movie blog Reviews from the Bottom of the Barrel .   ",
       "fileSize": 746253039,
-      "id": "the-thief-1952"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-thief-1952",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 2099
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "Nominated for 1 Oscar. 1 win & 7 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048421",
-      "title": "New York Confidential",
-      "year": 1955,
-      "imdbRating": 7.1,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0050526",
-      "title": "House of Numbers",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 612,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047676",
-      "title": "Wicked Woman",
-      "year": 1953,
-      "imdbRating": 6.7,
-      "imdbVotes": 1048,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043397",
-      "title": "Chained for Life",
-      "year": 1952,
-      "imdbRating": 4.3,
-      "imdbVotes": 512,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044357",
-      "title": "Angel Face",
-      "year": 1952,
-      "imdbRating": 7.2,
-      "imdbVotes": 9721,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044789",
-      "title": "Kansas City Confidential",
-      "year": 1952,
-      "imdbRating": 7.3,
-      "imdbVotes": 8652,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045124",
-      "title": "Scandal Sheet",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 3681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045161",
-      "title": "The Sniper",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 3994,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045267",
-      "title": "The Turning Point",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 1862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044417",
-      "title": "Beware, My Lovely",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 2410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044552",
-      "title": "Diplomatic Courier",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 1459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044847",
-      "title": "Loan Shark",
-      "year": 1952,
-      "imdbRating": 6.4,
-      "imdbVotes": 792,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0048421",
+    "tt0050526",
+    "tt0047676",
+    "tt0043397",
+    "tt0044357",
+    "tt0044789",
+    "tt0045124",
+    "tt0045161",
+    "tt0045267",
+    "tt0044417",
+    "tt0044552",
+    "tt0044847"
   ],
   "collections": [],
   "is_curated": true,

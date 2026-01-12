@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-last-performance-1927_202106",
+      "id": "the-last-performance-1927_202106",
       "title": "The Last Performance (1927)",
       "description": "Conrad Veidt",
       "fileSize": 1436685174,
-      "id": "the-last-performance-1927_202106"
+      "addedAt": "2026-01-07T00:12:10.591Z",
+      "thumbnail": "https://archive.org/services/img/the-last-performance-1927_202106",
+      "collection": "feature_films",
+      "downloads": 1371
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-last-performance_1929",
+      "id": "the-last-performance_1929",
       "title": "The Last Performance",
       "fileSize": 7818082329,
-      "id": "the-last-performance_1929"
+      "addedAt": "2026-01-07T00:12:10.591Z",
+      "thumbnail": "https://archive.org/services/img/the-last-performance_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 437
     }
   ],
   "metadata": {
@@ -34,117 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019109",
-      "title": "Lonesome",
-      "year": 1928,
-      "imdbRating": 7.7,
-      "imdbVotes": 2694,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019130",
-      "title": "The Man Who Laughs",
-      "year": 1928,
-      "imdbRating": 7.6,
-      "imdbVotes": 8604,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022454",
-      "title": "Svengali",
-      "year": 1931,
-      "imdbRating": 6.8,
-      "imdbVotes": 2606,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018528",
-      "title": "The Unknown",
-      "year": 1927,
-      "imdbRating": 7.7,
-      "imdbVotes": 9487,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0019725",
-      "title": "Broadway",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018854",
-      "title": "Drums of Love",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018457",
-      "title": "Surrender",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 62,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035009",
-      "title": "The Mad Monster",
-      "year": 1942,
-      "imdbRating": 3.5,
-      "imdbVotes": 1975,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055230",
-      "title": "Night Tide",
-      "year": 1961,
-      "imdbRating": 6.4,
-      "imdbVotes": 4260,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019109",
+    "tt0019130",
+    "tt0022454",
+    "tt0018528",
+    "tt0019725",
+    "tt0018854",
+    "tt0018457",
+    "tt0035009",
+    "tt0019644",
+    "tt0055230",
+    "tt0019957",
+    "tt0019979"
   ],
   "collections": [],
   "is_curated": true,

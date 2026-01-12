@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pots-and-pans-1932",
+      "id": "pots-and-pans-1932",
       "title": "Pots and Pans (1932)",
       "description": "Tom and Jerry run a diner with a strange assortment of customers. Watch on RetroFlix:  https://retroflix.org/pots-and-pans-1932/",
       "fileSize": 26982278,
-      "id": "pots-and-pans-1932"
+      "addedAt": "2026-01-07T00:10:21.538Z",
+      "thumbnail": "https://archive.org/services/img/pots-and-pans-1932",
+      "language": "eng",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 54
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022653",
-      "title": "Barnyard Bunk",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161707",
-      "title": "In the Bag",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152016",
-      "title": "Polar Pals",
-      "year": 1931,
-      "imdbRating": 4.5,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151993",
-      "title": "Plane Dumb",
-      "year": 1932,
-      "imdbRating": 4.1,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152217",
-      "title": "Rocketeers",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023595",
-      "title": "Tightrope Tricks",
-      "year": 1933,
-      "imdbRating": 5,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151161",
-      "title": "Jungle Jam",
-      "year": 1931,
-      "imdbRating": 4.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152550",
-      "title": "A Spanish Twist",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023078",
-      "title": "Jolly Fish",
-      "year": 1932,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152123",
-      "title": "Rabid Hunters",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151965",
-      "title": "Piano Tooners",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152780",
-      "title": "A Swiss Trick",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022653",
+    "tt0161707",
+    "tt0152016",
+    "tt0151993",
+    "tt0152217",
+    "tt0023595",
+    "tt0151161",
+    "tt0152550",
+    "tt0023078",
+    "tt0152123",
+    "tt0151965",
+    "tt0152780"
   ],
   "collections": [],
   "is_curated": true,

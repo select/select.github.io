@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1936-dahinten-in-der-heide-hilde-weissner-hans-stuwe-hermann-speelmanns",
+      "id": "1936-dahinten-in-der-heide-hilde-weissner-hans-stuwe-hermann-speelmanns",
       "title": "1936 Dahinten In Der Heide ( Hilde Weissner, Hans Stüwe, Hermann, Speelmanns)",
       "description": "Film aus dem deutschen dritten Reich von 1936. Dahinten in der Heide.  U.a mit Hans Stüwe und Hermann Speelmanns. ",
       "fileSize": 1003377567,
-      "id": "1936-dahinten-in-der-heide-hilde-weissner-hans-stuwe-hermann-speelmanns"
+      "addedAt": "2026-01-07T00:06:00.055Z",
+      "thumbnail": "https://archive.org/services/img/1936-dahinten-in-der-heide-hilde-weissner-hans-stuwe-hermann-speelmanns",
+      "language": "ger",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 105
     }
   ],
   "metadata": {
@@ -27,102 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028019",
-      "title": "Männer vor der Ehe",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032418",
-      "title": "Drei Väter um Anna",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0237484",
-      "title": "Eine Nacht an der Donau",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249245",
-      "title": "Wie der Hase läuft",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025246",
-      "title": "Herz ist Trumpf",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024806",
-      "title": "...heute abend bei mir",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0242670",
-      "title": "Meine Tante - deine Tante",
-      "year": 1939,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129725",
-      "title": "...und die Musik spielt dazu",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027574",
-      "title": "Engel mit kleinen Fehlern",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027195",
-      "title": "Die Werft zum Grauen Hecht",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028606",
-      "title": "Ball im Metropol",
-      "year": 1937,
-      "imdbRating": 7.1,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0028019",
+    "tt0032418",
+    "tt0237484",
+    "tt0249245",
+    "tt0025246",
+    "tt0024806",
+    "tt0242670",
+    "tt0129725",
+    "tt0136247",
+    "tt0027574",
+    "tt0027195",
+    "tt0028606"
   ],
   "collections": [],
   "is_curated": true,

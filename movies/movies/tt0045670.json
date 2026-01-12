@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dangerous-when-wet-1953",
+      "id": "dangerous-when-wet-1953",
       "title": "Dangerous When Wet (1953)",
       "description": "Dangerous When Wet (1953)",
       "fileSize": 3094857690,
-      "id": "dangerous-when-wet-1953"
+      "addedAt": "2026-01-07T00:07:51.628Z",
+      "thumbnail": "https://archive.org/services/img/dangerous-when-wet-1953",
+      "language": "eng",
+      "year": 1953,
+      "collection": "feature_films",
+      "downloads": 123
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045810",
-      "title": "Gentlemen Prefer Blondes",
-      "year": 1953,
-      "imdbRating": 7.1,
-      "imdbVotes": 46346,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044370",
-      "title": "April in Paris",
-      "year": 1952,
-      "imdbRating": 5.9,
-      "imdbVotes": 1540,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043983",
-      "title": "Royal Wedding",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 6211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043618",
-      "title": "Happy Go Lovely",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 885,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198797",
-      "title": "Más pobre que una laucha",
-      "year": 1955,
-      "imdbRating": 6.8,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198847",
-      "title": "Un novio para Laura",
-      "year": 1955,
-      "imdbRating": 6.9,
-      "imdbVotes": 29,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188971",
-      "title": "Novia para dos",
-      "year": 1956,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041509",
-      "title": "The Inspector General",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 3654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130153",
-      "title": "An Old-Fashioned Girl",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041969",
-      "title": "Top o' the Morning",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031763",
-      "title": "Opernball",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 91,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0045810",
+    "tt0043983",
+    "tt0043618",
+    "tt0198797",
+    "tt0198847",
+    "tt0188971",
+    "tt0041509",
+    "tt0130153",
+    "tt0041969",
+    "tt0031763",
+    "tt0033632",
+    "tt0033878"
   ],
   "collections": [],
   "is_curated": true,

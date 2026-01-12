@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/KidRidesAgain",
+      "id": "KidRidesAgain",
       "title": "The Kid Rides Again",
       "description": "Billy (Buster Crabbe) breaks jail in Texas and travels to Sundown at the request of his friend Fuzzy (Al St. John). There he runs into Mort Slade (I. Stanford Jolley) who is after a mortgage held by banker Ainsley (Edward Peil Sr.). Slade's men rob the bank and then incite a run on the bank knowing Ainsley does not have enough money.",
       "fileSize": 1542917159,
-      "id": "KidRidesAgain"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/KidRidesAgain",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 14581
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037728",
-      "title": "Gangster's Den",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035162",
-      "title": "Outlaws of Boulder Pass",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033393",
-      "title": "Billy the Kid's Fighting Pals",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033845",
-      "title": "The Lone Rider in Frontier Fury",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033394",
-      "title": "Billy the Kid's Range War",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035680",
-      "title": "Blazing Frontier",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036523",
-      "title": "Western Cyclone",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035723",
+    "tt0035804",
+    "tt0035908",
+    "tt0035106",
+    "tt0033391",
+    "tt0037728",
+    "tt0035162",
+    "tt0033393",
+    "tt0033845",
+    "tt0033394",
+    "tt0035680",
+    "tt0036523"
   ],
   "collections": [],
   "is_curated": true,

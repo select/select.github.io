@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FlyingFists",
+      "id": "FlyingFists",
       "title": "Flying Fists",
       "description": "A lumberjack (Bruce Bennett) knocks out a champion boxer in a brawl, gets drawn into the boxing world where he is unknowingly set up for a fixed fight.",
       "fileSize": 1622038961,
-      "id": "FlyingFists"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FlyingFists",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 71216
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=g_8Ck16njCc",
+      "id": "g_8Ck16njCc",
       "title": "Flying Fists (1937) FIGHT FILM",
       "description": "Stars: Herman Brix, Jeanne Martel, Fuzzy Knight\nDirector: Robert F. Hill\n\nA lumberjack knocks out a champion boxer in a brawl, gets drawn into the boxing world where he is unknowingly set up for a fixed fight. Stars Herman Brix, a.k.a Bruce Bennett of Tarzan fame!",
-      "id": "g_8Ck16njCc",
+      "addedAt": "2025-12-26T23:50:44.144Z",
+      "thumbnail": "https://i.ytimg.com/vi/g_8Ck16njCc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCMMawpcQPX-BFqVqdtMAeLUTuQ8Q",
+      "duration": 3486,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029701",
-      "title": "Two Minutes to Play",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028241",
-      "title": "Shadow of Chinatown",
-      "year": 1936,
-      "imdbRating": 4.5,
-      "imdbVotes": 303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028396",
-      "title": "Too Much Beef",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029119",
-      "title": "The Last Train from Madrid",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025309",
-      "title": "Inside Information",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029961",
-      "title": "Call of the Yukon",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027718",
-      "title": "Happy-Go-Lucky",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026751",
-      "title": "Mutiny Ahead",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 37,
-      "language": "French, Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031177",
-      "title": "Conspiracy",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 198,
-      "language": "English, Esperanto",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026240",
-      "title": "Courage of the North",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033060",
-      "title": "Sky Patrol",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029701",
+    "tt0028241",
+    "tt0028396",
+    "tt0029119",
+    "tt0025309",
+    "tt0029961",
+    "tt0027718",
+    "tt0026223",
+    "tt0026751",
+    "tt0031177",
+    "tt0026240",
+    "tt0033060"
   ],
   "collections": [],
   "is_curated": true,

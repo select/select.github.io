@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mary59_gmx_756",
+      "id": "mary59_gmx_756",
       "title": "756",
       "description": "756",
       "fileSize": 5257099485,
-      "id": "mary59_gmx_756"
+      "addedAt": "2026-01-07T00:09:46.428Z",
+      "thumbnail": "https://archive.org/services/img/mary59_gmx_756",
+      "collection": "feature_films",
+      "downloads": 4603
     }
   ],
   "metadata": {
@@ -26,117 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1149606",
-      "title": "Nightmare at the End of the Hall",
-      "year": 2008,
-      "imdbRating": 4.6,
-      "imdbVotes": 723,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1419606",
-      "title": "El refrigerador",
-      "year": 2008,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2049483",
-      "title": "King Lear",
-      "year": 2008,
-      "imdbRating": 7.6,
-      "imdbVotes": 694,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1199787",
-      "title": "Oceania",
-      "year": 2008,
-      "imdbRating": 6.6,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1337542",
-      "title": "Sobaka",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1260932",
-      "title": "252: Seizonsha ari",
-      "year": 2008,
-      "imdbRating": 5.4,
-      "imdbVotes": 289,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1337437",
-      "title": "313",
-      "year": 2008,
-      "imdbRating": 7.2,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0383028",
-      "title": "Synecdoche, New York",
-      "year": 2008,
-      "imdbRating": 7.5,
-      "imdbVotes": 102537,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1160018",
-      "title": "Prairie Fever",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0430770",
-      "title": "The Women",
-      "year": 2008,
-      "imdbRating": 5,
-      "imdbVotes": 23599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0887971",
-      "title": "While She Was Out",
-      "year": 2008,
-      "imdbRating": 4.8,
-      "imdbVotes": 7391,
-      "language": "English, Spanish, Chinese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0910993",
-      "title": "Beyond the Ring",
-      "year": 2008,
-      "imdbRating": 3.1,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt1149606",
+    "tt1419606",
+    "tt2049483",
+    "tt1199787",
+    "tt1337542",
+    "tt1260932",
+    "tt1337437",
+    "tt0383028",
+    "tt1160018",
+    "tt0430770",
+    "tt0887971",
+    "tt0910993"
   ],
   "collections": [],
   "is_curated": true,

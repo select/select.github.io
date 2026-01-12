@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/reno-1939-",
+      "id": "reno-1939-",
       "title": "Reno (1939)",
       "description": "Richard Dix, Gail Patrick, Paul Cavanagh",
       "fileSize": 1046783022,
-      "id": "reno-1939-"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/reno-1939-",
+      "collection": "feature_films",
+      "downloads": 799
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035735",
-      "title": "China",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 662,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031580",
-      "title": "The Little Princess",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 6909,
-      "language": "English, Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040643",
-      "title": "Night Has a Thousand Eyes",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 1836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040160",
-      "title": "The Big Clock",
-      "year": 1948,
-      "imdbRating": 7.6,
-      "imdbVotes": 10549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039235",
-      "title": "Calcutta",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031232",
-      "title": "Disbarred",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044085",
-      "title": "Submarine Command",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048593",
-      "title": "The Sea Chase",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 3669,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030981",
-      "title": "Wives Under Suspicion",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 550,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030039",
-      "title": "Dangerous to Know",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 266,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030322",
-      "title": "King of Alcatraz",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031925",
-      "title": "Silver on the Sage",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035735",
+    "tt0031580",
+    "tt0040643",
+    "tt0040160",
+    "tt0039235",
+    "tt0031232",
+    "tt0044085",
+    "tt0048593",
+    "tt0030981",
+    "tt0030039",
+    "tt0030322",
+    "tt0031925"
   ],
   "collections": [],
   "is_curated": true,

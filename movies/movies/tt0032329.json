@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chasing_trouble",
+      "id": "chasing_trouble",
       "title": "Chasing Trouble",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5024724956,
-      "id": "chasing_trouble"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/chasing_trouble",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 18672
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chasing_trouble_ipod",
+      "id": "chasing_trouble_ipod",
       "title": "Chasing Trouble",
       "description": "Taken from IMDB : A delivery boy for a flower shop, who thinks of himself as an amateur detective, finds out that his boss is mixed up with a foreign espionage ring.",
       "fileSize": 1201012444,
-      "id": "chasing_trouble_ipod"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/chasing_trouble_ipod",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 63684
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=ozTDb_YJNqQ",
+      "id": "ozTDb_YJNqQ",
       "title": "Chasing Trouble (1940) MANTAN MORELAND",
       "description": "Stars: Mantan Moreland, Frankie Darro, Marjorie Reynolds\nDirector: Howard Bretherton\n\n A delivery boy for a flower shop, who thinks of himself as an amateur detective, finds out that his boss is mixed up with a foreign espionage ring.",
-      "id": "ozTDb_YJNqQ",
+      "addedAt": "2025-12-26T23:54:28.406Z",
+      "thumbnail": "https://i.ytimg.com/vi/ozTDb_YJNqQ/maxresdefault.jpg",
+      "duration": 3581,
+      "language": "en",
+      "year": 1940,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033214",
-      "title": "Up in the Air",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 359,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031119",
-      "title": "Boys' Reformatory",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033060",
-      "title": "Sky Patrol",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033047",
-      "title": "The Showdown",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032868",
-      "title": "On the Spot",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034188",
-      "title": "Sign of the Wolf",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031975",
-      "title": "Star Reporter",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032076",
-      "title": "Undercover Agent",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031495",
-      "title": "Irish Luck",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034410",
-      "title": "You're Out of Luck",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034505",
-      "title": "Below the Border",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 129,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034785",
-      "title": "Ghost Town Law",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0033214",
+    "tt0031119",
+    "tt0033060",
+    "tt0033047",
+    "tt0032868",
+    "tt0034188",
+    "tt0031975",
+    "tt0032076",
+    "tt0031495",
+    "tt0034410",
+    "tt0034505",
+    "tt0034785"
   ],
   "collections": [],
   "is_curated": true,

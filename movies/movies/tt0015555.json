@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/alice-loses-out-1925",
+      "id": "alice-loses-out-1925",
       "title": "Alice Loses Out (1925)",
       "description": "A rich garbage magnate Ima Hawg is being driven by his chauffeur to a hotel run by Alice and her cat Julius. The hotel has seen better times, and so the two are thrilled when they see the limousine roll up. Hawg demands a barber and a manicurist, and Julius feels he's up to the job. He does his best to please the grouch, with mixed results. Watch on RetroFlix:  https://retroflix.org/alice-loses-out-1925/",
       "fileSize": 74691498,
-      "id": "alice-loses-out-1925"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/alice-loses-out-1925",
+      "language": "eng",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 62
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-alice-loses-out",
+      "id": "silent-alice-loses-out",
       "title": "Alice Loses Out",
       "fileSize": 98821463,
-      "id": "silent-alice-loses-out"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-alice-loses-out",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 556
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015552",
-      "title": "Alice Chops the Suey",
-      "year": 1925,
-      "imdbRating": 4.6,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015556",
-      "title": "Alice Picks the Champ",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016583",
-      "title": "Alice Rattled by Rats",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015561",
-      "title": "Alice the Jail Bird",
-      "year": 1925,
-      "imdbRating": 4.9,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015564",
-      "title": "Alice's Tin Pony",
-      "year": 1925,
-      "imdbRating": 4.8,
-      "imdbVotes": 244,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016582",
-      "title": "Alice Helps the Romance",
-      "year": 1926,
-      "imdbRating": 5.5,
-      "imdbVotes": 107,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016585",
-      "title": "Alice in the Wooly West",
-      "year": 1926,
-      "imdbRating": 5.3,
-      "imdbVotes": 228,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016586",
-      "title": "Alice on the Farm",
-      "year": 1926,
-      "imdbRating": 4.8,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016587",
-      "title": "Alice the Fire Fighter",
-      "year": 1926,
-      "imdbRating": 4.8,
-      "imdbVotes": 149,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016590",
-      "title": "Alice's Brown Derby",
-      "year": 1926,
-      "imdbRating": 6,
-      "imdbVotes": 53,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016591",
-      "title": "Alice's Little Parade",
-      "year": 1926,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016593",
-      "title": "Alice's Mysterious Mystery",
-      "year": 1926,
-      "imdbRating": 5.4,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015552",
+    "tt0015556",
+    "tt0016583",
+    "tt0015561",
+    "tt0015564",
+    "tt0016582",
+    "tt0016585",
+    "tt0016586",
+    "tt0016587",
+    "tt0016590",
+    "tt0016591",
+    "tt0016593"
   ],
   "collections": [
     {

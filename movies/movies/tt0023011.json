@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HisRoyalHighness",
+      "id": "HisRoyalHighness",
       "title": "His Royal Highness",
       "description": "Australia's first musical comedy featuring vaudevillian comic George Wallace the most popular Australian comedian or the era. The video and audio recordings contained in this film entered the Australian public domain in 1983. This film was ineligible for GATT/URAA restoration and remains in the US public domain.",
       "fileSize": 1896274827,
-      "id": "HisRoyalHighness"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HisRoyalHighness",
+      "collection": "feature_films",
+      "downloads": 56451
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=w_1KQlYrV2w",
+      "id": "w_1KQlYrV2w",
       "title": "His Royal Highness (1932) COMEDY",
       "description": "Stars: George Wallace, Byrl Walkley, Frank Tarrant\nDirector: F.W. Thring\n\nA stage hand is knocked out and has a dream of becoming monarch of a Graustarkian kingdom, rife with court intrigue, an assassination plot and operetta-style musical numbers.",
-      "id": "w_1KQlYrV2w",
+      "addedAt": "2025-12-26T23:50:45.521Z",
+      "thumbnail": "https://i.ytimg.com/vi/w_1KQlYrV2w/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA-IMM08jRj0AheykT6hyHVGnrsgg",
+      "duration": 4137,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023580",
-      "title": "There Goes the Bride",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022648",
-      "title": "Baby",
-      "year": 1932,
-      "imdbRating": 7.4,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022940",
-      "title": "The Girl from Calgary",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023158",
-      "title": "Love Me Tonight",
-      "year": 1932,
-      "imdbRating": 7.5,
-      "imdbVotes": 4934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022387",
-      "title": "Singapore Sue",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023019",
-      "title": "Hollywood on Parade",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0023845",
-      "title": "Britannia of Billingsgate",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227404",
-      "title": "Roman einer Nacht",
-      "year": 1933,
-      "imdbRating": 7.6,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022000",
-      "title": "Indiscreet",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 1610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022263",
-      "title": "Le petit café",
-      "year": 1931,
-      "imdbRating": 6.6,
-      "imdbVotes": 26,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023740",
-      "title": "Adorable",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024083",
-      "title": "Hallelujah I'm a Bum",
-      "year": 1933,
-      "imdbRating": 6.9,
-      "imdbVotes": 858,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023580",
+    "tt0022648",
+    "tt0022940",
+    "tt0023158",
+    "tt0022387",
+    "tt0023019",
+    "tt0023845",
+    "tt0227404",
+    "tt0022000",
+    "tt0022263",
+    "tt0023740",
+    "tt0024083"
   ],
   "collections": [],
   "is_curated": true,

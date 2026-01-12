@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/casablanca-express",
+      "id": "casablanca-express",
       "title": "Casablanca Express",
       "description": "Winston Churchill is threatened with kidnapping and he needs to be protected.",
       "fileSize": 1960887366,
-      "id": "casablanca-express"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/casablanca-express",
+      "collection": "feature_films",
+      "downloads": 2430
     }
   ],
   "metadata": {
@@ -27,123 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1161861",
-      "title": "A Lonely Place for Dying",
-      "year": 2009,
-      "imdbRating": 5.8,
-      "imdbVotes": 363,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0099978",
-      "title": "Laser Mission",
-      "year": 1989,
-      "imdbRating": 3.5,
-      "imdbVotes": 2764,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1561768",
-      "title": "Essential Killing",
-      "year": 2010,
-      "imdbRating": 6.1,
-      "imdbVotes": 8266,
-      "language": "English, Polish, Arabic",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2459244",
-      "title": "The Precipice",
-      "year": 2018,
-      "imdbRating": 3.4,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2717318",
-      "title": "I Am Soldier",
-      "year": 2014,
-      "imdbRating": 4.6,
-      "imdbVotes": 2147,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4519400",
-      "title": "Check Point",
-      "year": 2017,
-      "imdbRating": 3.2,
-      "imdbVotes": 1217,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0094844",
-      "title": "A Case of Honor",
-      "year": 1989,
-      "imdbRating": 3.9,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt5344794",
-      "title": "Sniper: Special Ops",
-      "year": 2016,
-      "imdbRating": 3,
-      "imdbVotes": 3659,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2175927",
-      "title": "American Warships",
-      "year": 2012,
-      "imdbRating": 2.7,
-      "imdbVotes": 2461,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0091166",
-      "title": "Hands of Steel",
-      "year": 1986,
-      "imdbRating": 5.3,
-      "imdbVotes": 2963,
-      "language": "Italian, Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0100232",
-      "title": "Navy Seals",
-      "year": 1990,
-      "imdbRating": 5.5,
-      "imdbVotes": 19125,
-      "language": "English, Arabic",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt1161861",
+    "tt0099978",
+    "tt1561768",
+    "tt2459244",
+    "tt2717318",
+    "tt0094844",
+    "tt5344794",
+    "tt2130142",
+    "tt2175927",
+    "tt0091166",
+    "tt0100232",
+    "tt0102062"
   ],
   "collections": [],
   "is_curated": true,

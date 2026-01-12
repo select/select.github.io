@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TrueHeartSusie",
+      "id": "TrueHeartSusie",
       "title": "\"True Heart Susie\" (1919) director D. W. Griffith starring Lillian Gish and Robert Harron",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   The film \"True Heart Susie\" is a drama, included in our program to illustrate the work of two of our stars: actor Robert Harron and cinematographer Billy Bitzer. Directed by               D. W. Griffith Produced by             D. W. Griffith Scenario by               Marian Fremont           Based on                    a screen story by Marian Fremont Starring                     Lillian Gish, Robert Harron Cinematography        Billy Bitzer Editing by                  James Smith Distributed by           Artcraft Pictures Corporation Release date               June 1, 1919 Running time             86 min Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"  ",
       "fileSize": 1109587901,
-      "id": "TrueHeartSusie"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/TrueHeartSusie",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 13873
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-true-heart-susie",
+      "id": "silent-true-heart-susie",
       "title": "True Heart Susie",
       "fileSize": 2960124264,
-      "id": "silent-true-heart-susie"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-true-heart-susie",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 742
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011841",
-      "title": "Way Down East",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 6016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010193",
-      "title": "The Greatest Question",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 745,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009150",
-      "title": "Hearts of the World",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1094,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003323",
-      "title": "The Reformers; or, the Lost Art of Minding One's Business",
-      "year": 1913,
-      "imdbRating": 6.5,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006826",
-      "title": "Hoodoo Ann",
-      "year": 1916,
-      "imdbRating": 5.9,
-      "imdbVotes": 903,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006864",
-      "title": "Intolerance",
-      "year": 1916,
-      "imdbRating": 7.7,
-      "imdbVotes": 17618,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011652",
-      "title": "The Saphead",
-      "year": 1920,
-      "imdbRating": 6.1,
-      "imdbVotes": 1804,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0009559",
+    "tt0012122",
+    "tt0009968",
+    "tt0011841",
+    "tt0012532",
+    "tt0010193",
+    "tt0009150",
+    "tt0003323",
+    "tt0006826",
+    "tt0006864",
+    "tt0011741",
+    "tt0011652"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fascinacion-1949",
+      "id": "fascinacion-1949",
       "title": "Fascinacion (1949)",
       "description": "Fascinación  es una película de  Argentina  en blanco y negro dirigida por  Carlos Schlieper  según el guion de  Carlos A. Olivari  y  Sixto Pondal Ríos  que se estrenó el 27 de septiembre de 1949 y que tuvo como protagonistas a  Arturo de Córdova ,  Elisa Christian Galvé ,  Alicia Barrié  y  Héctor Calcaño . (Wikipedia) Sinopsis Un hipnotizador duda si su mujer-partenaire está con él por amor o bajo su influjo Reparto Arturo de Córdova Elisa Christian Galvé Alicia Barrié Héctor Calcaño Profesor Fassman Rafael Frontaura Homero Cárpena Bernardo Perrone Ricardo Duggan Susana Campos Federico Mansilla Rodolfo Onetto",
       "fileSize": 1159979009,
-      "id": "fascinacion-1949"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/fascinacion-1949",
+      "language": "spa",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 55
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0121927",
-      "title": "Los árboles mueren de pie",
-      "year": 1951,
-      "imdbRating": 7.7,
-      "imdbVotes": 60,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199735",
-      "title": "Madame Bovary",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 49,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199457",
-      "title": "Detective",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 11,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199436",
-      "title": "Cuando besa mi marido",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 40,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037580",
-      "title": "La casa está vacía",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200006",
-      "title": "El retrato",
-      "year": 1947,
-      "imdbRating": 7.3,
-      "imdbVotes": 57,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199395",
-      "title": "Las campanas de Teresa",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123267",
-      "title": "Si yo fuera rica",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194010",
-      "title": "Un hombre solo no vale nada",
-      "year": 1949,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199332",
-      "title": "Arroz con leche",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 38,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199500",
-      "title": "Esposa último modelo",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 76,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199427",
-      "title": "Cosas de mujer",
-      "year": 1951,
-      "imdbRating": 5.1,
-      "imdbVotes": 39,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0121927",
+    "tt0199735",
+    "tt0199457",
+    "tt0199436",
+    "tt0037580",
+    "tt0200006",
+    "tt0199395",
+    "tt0123267",
+    "tt0194010",
+    "tt0199332",
+    "tt0199500",
+    "tt0199427"
   ],
   "collections": [],
   "is_curated": true,

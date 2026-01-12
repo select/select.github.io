@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-princess-and-the-pauper-1939",
+      "id": "the-princess-and-the-pauper-1939",
       "title": "The Princess and the Pauper (1939)",
       "description": "Slobbish magician Ali Kazam tries to win the princess' hand in marriage by producing a large quantity of jewels, but is challenged by a youth (our Hero) who only has a yo-yo, a sling shot, a few marbles, and a small pocket knife. Our hero is helped by Nicky Nome. Watch on RetroFlix:  https://retroflix.org/the-princess-and-the-pauper-1939/",
       "fileSize": 62179082,
-      "id": "the-princess-and-the-pauper-1939"
+      "addedAt": "2026-01-07T00:12:22.156Z",
+      "thumbnail": "https://archive.org/services/img/the-princess-and-the-pauper-1939",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 71
     }
   ],
   "metadata": {
@@ -27,97 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0472483",
-      "title": "Peg Leg Pedro",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150344",
-      "title": "Dizzy Ducks",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148414",
-      "title": "Little Rover",
-      "year": 1935,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0472483",
+    "tt1020989",
+    "tt0150344",
+    "tt0148531",
+    "tt16899218",
+    "tt0148414",
+    "tt12606824",
+    "tt14091630",
+    "tt12305226",
+    "tt12304756",
+    "tt0146584",
+    "tt0475080"
   ],
   "collections": [],
   "is_curated": true,

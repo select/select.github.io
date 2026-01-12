@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/goldilocks-and-the-three-bears_1928",
+      "id": "goldilocks-and-the-three-bears_1928",
       "title": "Goldilocks and the Three Bears",
       "fileSize": 336190099,
-      "id": "goldilocks-and-the-three-bears_1928"
+      "addedAt": "2026-01-07T00:08:32.018Z",
+      "thumbnail": "https://archive.org/services/img/goldilocks-and-the-three-bears_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 505
     }
   ],
   "metadata": {
@@ -25,107 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0364559",
-      "title": "The New Serpentine and Fire Dance",
-      "year": 1902,
-      "imdbRating": 5.4,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759722",
-      "title": "The Stage Hands",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251348",
-      "title": "Hollywood Models",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251702",
-      "title": "Hollywood Sand Witches",
-      "year": 1928,
-      "imdbRating": 4.7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251344",
-      "title": "Jazz Babies",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0218458",
-      "title": "Neptune's Daughters",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt3100486",
+    "tt3251338",
+    "tt1020989",
+    "tt0309243",
+    "tt0211244",
+    "tt0364559",
+    "tt0759722",
+    "tt3251348",
+    "tt3251702",
+    "tt3251344",
+    "tt0419941",
+    "tt0218458"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-king-queen-and-joker",
+      "id": "silent-king-queen-and-joker",
       "title": "King, Queen and Joker",
       "fileSize": 228662742,
-      "id": "silent-king-queen-and-joker"
+      "addedAt": "2026-01-07T00:11:07.406Z",
+      "thumbnail": "https://archive.org/services/img/silent-king-queen-and-joker",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 374
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014358",
-      "title": "The Pilgrim",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 5880,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381908",
-      "title": "A Bear, a Boy and a Dog",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012701",
-      "title": "A Small Town Idol",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011916",
-      "title": "All Dolled Up",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012224",
-      "title": "The Goat",
-      "year": 1921,
-      "imdbRating": 7.7,
-      "imdbVotes": 5206,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012253",
-      "title": "Hard Luck",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 2701,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012353",
-      "title": "Kipps",
-      "year": 1921,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012468",
-      "title": "Molly O'",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 73,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012570",
-      "title": "The Play House",
-      "year": 1921,
-      "imdbRating": 7.4,
-      "imdbVotes": 4767,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011984",
-      "title": "The Boat",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3698,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0014358",
+    "tt0381908",
+    "tt0012701",
+    "tt0011916",
+    "tt0012224",
+    "tt0012253",
+    "tt0012353",
+    "tt0012465",
+    "tt0012468",
+    "tt0012499",
+    "tt0012570",
+    "tt0011984"
   ],
   "collections": [],
   "is_curated": true,

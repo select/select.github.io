@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Three_Men_From_Texas",
+      "id": "Three_Men_From_Texas",
       "title": "Three_Men_From_Texas",
       "description": "A Hopalong Cassidy Movie. See more at... http://www.imdb.com/title/tt0033160/ Writers: Clarence E. Mulford (characters), Norton S. Parker (screenplay) Stars: William Boyd, Russell Hayden and Andy Clyde",
       "fileSize": 1123737522,
-      "id": "Three_Men_From_Texas"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/Three_Men_From_Texas",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 12531
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033546",
-      "title": "Doomed Caravan",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032592",
-      "title": "Hidden Gold",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031925",
-      "title": "Silver on the Sage",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035487",
-      "title": "Undercover Man",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 177,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032706",
-      "title": "The Light of Western Stars",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035663",
-      "title": "Bar 20",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 279,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035692",
-      "title": "Border Patrol",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031419",
-      "title": "Heritage of the Desert",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036835",
-      "title": "Forty Thieves",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037030",
-      "title": "Lumberjack",
-      "year": 1944,
-      "imdbRating": 6.6,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033047",
-      "title": "The Showdown",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035700",
-      "title": "Buckskin Frontier",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033546",
+    "tt0032592",
+    "tt0031925",
+    "tt0035487",
+    "tt0032706",
+    "tt0035663",
+    "tt0035692",
+    "tt0031419",
+    "tt0036835",
+    "tt0037030",
+    "tt0033047",
+    "tt0035700"
   ],
   "collections": [
     {

@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bellboy",
+      "id": "bellboy",
       "title": "The Bell Boy",
       "description": "Fatty Arbuckle and Buster Keaton team up as hotel bellhops. Some interesting props, including a horse-drawn elevator. Decent gags, culminating with a classic chase scene. The movie is not a classic, but it's typical Arbuckle and Keaton and a good illustration of the kind of comedy they did together. The IMDb entry is at http://www.imdb.com/title/tt0008874/",
       "fileSize": 414485192,
-      "id": "bellboy"
+      "addedAt": "2026-01-07T00:07:31.714Z",
+      "thumbnail": "https://archive.org/services/img/bellboy",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 13338
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-bell-boy",
+      "id": "silent-the-bell-boy",
       "title": "The Bell Boy",
       "fileSize": 5972919997,
-      "id": "silent-the-bell-boy"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-bell-boy",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 1077
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009389",
-      "title": "Moonshine",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 964,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008975",
-      "title": "The Cook",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1986,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009899",
-      "title": "Back Stage",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008377",
-      "title": "Oh Doctor!",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007819",
-      "title": "Coney Island",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008500",
-      "title": "A Reckless Romeo",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 244,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010221",
-      "title": "The Hayseed",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 991,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006668",
-      "title": "Fatty and Mabel Adrift",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009123",
+    "tt0009466",
+    "tt0009389",
+    "tt0008975",
+    "tt0009899",
+    "tt0007761",
+    "tt0008112",
+    "tt0008377",
+    "tt0007819",
+    "tt0008500",
+    "tt0010221",
+    "tt0006668"
   ],
   "collections": [
     {

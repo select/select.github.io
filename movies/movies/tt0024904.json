@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bombay-mail",
+      "id": "bombay-mail",
       "title": "Bombay Mail (1934)",
       "description": "Edmund Lowe",
       "fileSize": 1236058237,
-      "id": "bombay-mail"
+      "addedAt": "2026-01-07T00:07:38.719Z",
+      "thumbnail": "https://archive.org/services/img/bombay-mail",
+      "collection": "feature_films",
+      "downloads": 798
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025014",
-      "title": "The Crosby Case",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027784",
-      "title": "I'd Give My Life",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023935",
-      "title": "The Death Kiss",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1546,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024782",
-      "title": "The Woman Condemned",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 303,
-      "language": "Italian, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025452",
-      "title": "The Man Who Knew Too Much",
-      "year": 1934,
-      "imdbRating": 6.7,
-      "imdbVotes": 22708,
-      "language": "English, German, Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024210",
-      "title": "The Kennel Murder Case",
-      "year": 1933,
-      "imdbRating": 6.8,
-      "imdbVotes": 4237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026731",
-      "title": "Motive for Revenge",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024619",
-      "title": "Strange People",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027028",
-      "title": "The Spanish Cape Mystery",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024787",
-      "title": "The World Gone Mad",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 615,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025014",
+    "tt0027784",
+    "tt0023935",
+    "tt0027003",
+    "tt0024782",
+    "tt0025452",
+    "tt0024210",
+    "tt0026731",
+    "tt0024619",
+    "tt0027028",
+    "tt0024787",
+    "tt0027845"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MyMovie_20180808",
+      "id": "MyMovie_20180808",
       "title": "\"Julius Caesar\" (1914)",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation         \"Julius Caesar\" with original title \"Cajus Julius Caesar (Caius Julius Caesar)\" is an epic historical drama. This is a biopic about the life and the deeds of the great Roman general and statesman. The film has a dramatic story line, rich sets and great battle scenes.     The film was created in Italy by the renowned director Enrico Guazzoni. Before WWI European cinema was the most advanced in the world and \"Julius Caesar\" is an example of a very mature film from the early years of movie making. European film-makers were the first masters of epic historical blockbusters before those skills were acquired in the USA.     Directed by                    Enrico Guazzoni Produced by                  Cines Film Co., Rome Based on                        the play by William Shakespeare Starring                         Amleto Novelli, Irene Mattalia, Antonio Nazzari, Bruto Castellani, Ignazio Lupi, Gianna Terribili-Gonzales, Augusto Mastripietri, Lia Orlandini Release date                   October 1914 Running time                 101 minutes Country                          Italy Language                        Silent film, English intertitles     Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 117689663,
-      "id": "MyMovie_20180808"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MyMovie_20180808",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 5646
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-julius-caesar",
+      "id": "silent-julius-caesar",
       "title": "Julius Caesar",
       "fileSize": 1046262498,
-      "id": "silent-julius-caesar"
+      "addedAt": "2026-01-07T00:11:07.406Z",
+      "thumbnail": "https://archive.org/services/img/silent-julius-caesar",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 596
     }
   ],
   "metadata": {
@@ -34,112 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002445",
-      "title": "Quo Vadis?",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 408,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0171301",
-      "title": "Fabiola",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013388",
-      "title": "Messalina",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 39,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004150",
-      "title": "In the Land of the Head Hunters",
-      "year": 1914,
-      "imdbRating": 5.8,
-      "imdbVotes": 553,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162496",
-      "title": "Nobleza gaucha",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005460",
-      "title": "Hearts in Exile",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 73,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0393807",
-      "title": "Spartacus",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 91,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005149",
-      "title": "The Coward",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 338,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002445",
+    "tt0171301",
+    "tt0013388",
+    "tt0003740",
+    "tt1223220",
+    "tt0004150",
+    "tt0005719",
+    "tt0162496",
+    "tt0005460",
+    "tt0207954",
+    "tt0393807",
+    "tt0005149"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SignOfTheWolf",
+      "id": "SignOfTheWolf",
       "title": "Sign of the Wolf",
       "description": "A north woods adventure loosely based on Jack London's story, \"That Spot.\" It nominally stars Grace Bradley and Michael Whalen, but it's Mantan Moreland, Louise Beavers and Smoky the Dog who steal the show. Directed by Howard Bretherton Released in 1941 Complete print (there are a few missing frames) Free movie links for Mantan junkies: https://archive.org/post/1006776/the-mantan-moreland-list-update",
       "fileSize": 903097088,
-      "id": "SignOfTheWolf"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/SignOfTheWolf",
+      "collection": "feature_films",
+      "downloads": 8173
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=lGANB9m7gMI",
+      "id": "lGANB9m7gMI",
       "title": "Sign of the Wolf (1941) MANTAN MORELAND",
       "description": "CLASSIC MANTAN MORELAND\nStars: Mantan Moreland, Louise Beavers, Michael Whalen\nWriter: Jack London (story by)\nDirector: Howard Bretherton\n\nIn this rarely-seen JACK LONDON adaptation, a wealthy dog breeder crashes her private plane in the Canadian wilderness, along with her trusty trainer and beloved Alsatian Shepherds.",
-      "id": "lGANB9m7gMI",
+      "addedAt": "2025-12-24T01:09:21.376Z",
+      "thumbnail": "https://i.ytimg.com/vi/lGANB9m7gMI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCu0S1sJhaW4GKUhTcpab2-GOgxyg",
+      "duration": 4043,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032790",
-      "title": "Midnight Limited",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033060",
-      "title": "Sky Patrol",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031975",
-      "title": "Star Reporter",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032076",
-      "title": "Undercover Agent",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036531",
-      "title": "Whispering Footsteps",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035070",
-      "title": "Mississippi Gambler",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035124",
-      "title": "Night Monster",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031680",
-      "title": "Mr. Wong in Chinatown",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033747",
-      "title": "I'll Sell My Life",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0032790",
+    "tt0033060",
+    "tt0031975",
+    "tt0032076",
+    "tt0036531",
+    "tt0035317",
+    "tt0035070",
+    "tt0035124",
+    "tt0031505",
+    "tt0031680",
+    "tt0033747",
+    "tt0030037"
   ],
   "collections": [],
   "is_curated": true,

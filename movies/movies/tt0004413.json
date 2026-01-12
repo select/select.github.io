@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-ocean-waif",
+      "id": "silent-the-ocean-waif",
       "title": "The Ocean Waif",
       "fileSize": 608747595,
-      "id": "silent-the-ocean-waif"
+      "addedAt": "2026-01-07T00:11:24.921Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-ocean-waif",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 560
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0256909",
-      "title": "Making an American Citizen",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 395,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007507",
-      "title": "The Vagabond",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 3287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1289621",
-      "title": "Officer Henderson",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002983",
-      "title": "A House Divided",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1389556",
-      "title": "A Severe Test",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210835",
-      "title": "Matrimony's Speed Limit",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326184",
-      "title": "Somebody Lied",
-      "year": 1917,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210675",
-      "title": "Falling Leaves",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 1821,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0256909",
+    "tt0006764",
+    "tt0007507",
+    "tt1289621",
+    "tt0002983",
+    "tt1389556",
+    "tt0210835",
+    "tt0008133",
+    "tt0326184",
+    "tt0210599",
+    "tt0210675",
+    "tt0004028"
   ],
   "collections": [],
   "is_curated": true,

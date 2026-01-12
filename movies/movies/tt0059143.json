@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-early-bird_202105",
+      "id": "the-early-bird_202105",
       "title": "The Early Bird",
       "description": "Norman is the assistant helping to run a small, old fashioned dairy which is threatened by a larger, modern organization. Norman does his best to save the dairy (and his horse) and the usual chaos ensues.",
       "fileSize": 7669229295,
-      "id": "the-early-bird_202105"
+      "addedAt": "2026-01-07T00:11:57.685Z",
+      "thumbnail": "https://archive.org/services/img/the-early-bird_202105",
+      "language": "eng",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 2369
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0057530",
-      "title": "A Stitch in Time",
-      "year": 1963,
-      "imdbRating": 6.9,
-      "imdbVotes": 1304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060857",
-      "title": "Press for Time",
-      "year": 1966,
-      "imdbRating": 5.9,
-      "imdbVotes": 624,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052815",
-      "title": "Follow a Star",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056307",
-      "title": "On the Beat",
-      "year": 1962,
-      "imdbRating": 6.8,
-      "imdbVotes": 1100,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053683",
-      "title": "The Bulldog Breed",
-      "year": 1960,
-      "imdbRating": 6.1,
-      "imdbVotes": 918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178269",
-      "title": "Bicho raro",
-      "year": 1965,
-      "imdbRating": 7.1,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059014",
-      "title": "Carry on Cowboy",
-      "year": 1965,
-      "imdbRating": 6.2,
-      "imdbVotes": 3456,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0325200",
-      "title": "Cosquín, amor y folklore",
-      "year": 1965,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198420",
-      "title": "Disloque en el presidio",
-      "year": 1965,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059124",
-      "title": "Dr. Goldfoot and the Bikini Machine",
-      "year": 1965,
-      "imdbRating": 5.1,
-      "imdbVotes": 2663,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150678",
-      "title": "Gadmouse the Apprentice Good Fairy",
-      "year": 1965,
-      "imdbRating": 5.3,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179240",
-      "title": "La industria del matrimonio",
-      "year": 1965,
-      "imdbRating": 5.3,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0057530",
+    "tt0060857",
+    "tt0052815",
+    "tt0056307",
+    "tt0053683",
+    "tt0178269",
+    "tt0059014",
+    "tt0325200",
+    "tt0198420",
+    "tt0059124",
+    "tt0150678",
+    "tt0179240"
   ],
   "collections": [],
   "is_curated": true,

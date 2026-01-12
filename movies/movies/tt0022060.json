@@ -6,25 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/law-of-the-rio-grande-1931-western",
+      "id": "law-of-the-rio-grande-1931-western",
       "title": "Law Of The Rio Grande (1931)",
       "description": "An engaged woman (Betty Mack) causes a stir among outlaws (Bob Custer, Edmund Cobb).",
       "fileSize": 194725118,
-      "id": "law-of-the-rio-grande-1931-western"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/law-of-the-rio-grande-1931-western",
+      "collection": "feature_films",
+      "downloads": 79
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/law_of_the_rio_grande",
+      "id": "law_of_the_rio_grande",
       "title": "Law of the Rio Grande",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3927393715,
-      "id": "law_of_the_rio_grande"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/law_of_the_rio_grande",
+      "collection": "feature_films",
+      "downloads": 110098
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=KeOwAMPmTik",
+      "id": "KeOwAMPmTik",
       "title": "Law of the Rio Grande (1931) BOB CUSTER",
       "description": "Stars: Bob Custer, Betty Mack, Carlton S. King \nDirector: Forrest Sheldon\n\nEscaping from the Sheriff, Jim and Cookie decide to go straight. But when they meet their old cohort, The Blanco Kid, he tells their new boss they are outlaws and they are in trouble again.",
-      "id": "KeOwAMPmTik",
+      "addedAt": "2025-12-26T23:49:06.757Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/KeOwAMPmTik/maxresdefault.webp",
+      "duration": 2904,
+      "language": "en",
+      "year": 1931,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,120 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022988",
-      "title": "Hell-Fire Austin",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022848",
-      "title": "Dynamite Ranch",
-      "year": 1932,
-      "imdbRating": 6.1,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022673",
-      "title": "Between Fighting Men",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023428",
-      "title": "The Scarlet Brand",
-      "year": 1932,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027218",
-      "title": "Wilderness Mail",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022291",
-      "title": "Quick Trigger Lee",
-      "year": 1931,
-      "imdbRating": 4.1,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022413",
-      "title": "A Son of the Plains",
-      "year": 1931,
-      "imdbRating": 4.1,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021502",
-      "title": "Under Texas Skies",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023191",
-      "title": "Mark of the Spur",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021751",
-      "title": "Clearing the Range",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 154,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021683",
-      "title": "Border Law",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 107,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021861",
-      "title": "Fighting Caravans",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 744,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022988",
+    "tt0022848",
+    "tt0022673",
+    "tt0023428",
+    "tt0027218",
+    "tt0022291",
+    "tt0022413",
+    "tt0021502",
+    "tt0023191",
+    "tt0021751",
+    "tt0021683",
+    "tt0021861"
   ],
   "collections": [],
   "is_curated": true,

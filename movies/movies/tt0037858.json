@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Lady_Confesses",
+      "id": "Lady_Confesses",
       "title": "The Lady Confesses",
       "description": "Mary Beth Hughes, about to be married to Hugh Beaumont, receives a visit from his previous wife, who was presumed dead. And then the woman is found murdered. The video is interlaced in both the MPEG2 file and the Cinepack. If viewing with VLC, deinterlace with menu-path Video/Deinterlace/Blend.",
       "fileSize": 2389413893,
-      "id": "Lady_Confesses"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/Lady_Confesses",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 139798
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lady-confesses-1945-",
+      "id": "lady-confesses-1945-",
       "title": "The Lady Confesses (1945)",
       "description": "Mary Beth Hughes, Hugh Beaumont",
       "fileSize": 1106027022,
-      "id": "lady-confesses-1945-"
+      "addedAt": "2026-01-07T00:09:24.703Z",
+      "thumbnail": "https://archive.org/services/img/lady-confesses-1945-",
+      "collection": "feature_films",
+      "downloads": 1325
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=v4AHYcZtPXA",
+      "id": "v4AHYcZtPXA",
       "title": "The Lady Confesses (1945) FILM NOIR",
       "description": "Stars: Mary Beth Hughes, Hugh Beaumont, Edmund MacDonald\nDirector: Sam Newfield\n\nShortly before she is to be married, a young woman gets a visit from her fiance's wife, who had been missing for seven years and presumed dead.",
-      "id": "v4AHYcZtPXA",
+      "addedAt": "2025-12-26T23:44:40.247Z",
+      "thumbnail": "https://i.ytimg.com/vi/v4AHYcZtPXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnmJGLxi5asIposYBD6d0tpveJbg",
+      "duration": 3838,
+      "language": "en",
+      "year": 1945,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037518",
-      "title": "Apology for Murder",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040524",
-      "title": "Lady at Midnight",
-      "year": 1948,
-      "imdbRating": 6.2,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040838",
-      "title": "The Strange Mrs. Crane",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037798",
-      "title": "I Accuse My Parents",
-      "year": 1944,
-      "imdbRating": 2.6,
-      "imdbVotes": 3106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037749",
-      "title": "The Great Flamarion",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 1473,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037847",
-      "title": "The Kid Sister",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038550",
-      "title": "Gas House Kids",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037115",
-      "title": "Nabonga",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 656,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039820",
-      "title": "Shoot to Kill",
-      "year": 1947,
-      "imdbRating": 5.5,
-      "imdbVotes": 648,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039230",
-      "title": "Bury Me Dead",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039748",
-      "title": "Railroaded!",
-      "year": 1947,
-      "imdbRating": 6.6,
-      "imdbVotes": 1757,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038057",
-      "title": "Scarlet Street",
-      "year": 1945,
-      "imdbRating": 7.7,
-      "imdbVotes": 20501,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037518",
+    "tt0040524",
+    "tt0040838",
+    "tt0037798",
+    "tt0037749",
+    "tt0037847",
+    "tt0038550",
+    "tt0037115",
+    "tt0039820",
+    "tt0039230",
+    "tt0039748",
+    "tt0038057"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Strangler_1963",
+      "id": "The_Strangler_1963",
       "title": "The Strangler (1963)",
       "description": "Victor Buono portrays a serial killer. The .mkv (Matroska) file is the uploaded file. Download it if your player can handle h.265 (HEVC). Update Now there is available an alternate version of a segment near the beginning of the film. (The_Strangler--alt.ogv) Copyright status In the opening credits we see: \"COPYRIGHT MCMLXIII by ALLIED ARTISTS PICTURES CORPORATION.\" Since the date of copyright was 1963, a copyright renewal was required after 28 years.  However, there is none to be found. This film is in the public domain.",
       "fileSize": 711821683,
-      "id": "The_Strangler_1963"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/The_Strangler_1963",
+      "language": "eng",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 11623
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tsobmc5534511475",
+      "id": "tsobmc5534511475",
       "title": "The Strangler of Blackmoor Castle",
       "description": "Title: The Strangler of Blackmoor Castle Summary: A strangler is loose on a British estate, and he not only strangles his victims but brands an \"M\" onto their foreheads before he decapitates them. Directed by: Harald Reinl Actors: Karin Dor, Harry Riebauer, Rudolf Fernau Production Company: Central Cinema Company Film (CCC) Release Date: 21 June 1963 (West Germany) Aspect Ratio: 1.66 : 1 A strangler is loose on a British estate, and he not only strangles his victims but brands an \"M\" onto their foreheads before he decapitates them.",
       "fileSize": 639798466,
-      "id": "tsobmc5534511475"
+      "addedAt": "2026-01-07T00:12:55.130Z",
+      "thumbnail": "https://archive.org/services/img/tsobmc5534511475",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 16185
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0056219",
-      "title": "Maniac",
-      "year": 1963,
-      "imdbRating": 5.9,
-      "imdbVotes": 1613,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051744",
-      "title": "House on Haunted Hill",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 32673,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037024",
-      "title": "The Lodger",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 4227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039800",
-      "title": "Scared to Death",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 1834,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015202",
-      "title": "The Hands of Orlac",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 3484,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0851530",
-      "title": "The Lodger",
-      "year": 2009,
-      "imdbRating": 5.7,
-      "imdbVotes": 5441,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022663",
-      "title": "Behind the Mask",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056201",
-      "title": "Doctor of Doom",
-      "year": 1963,
-      "imdbRating": 4.9,
-      "imdbVotes": 384,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057565",
-      "title": "High and Low",
-      "year": 1963,
-      "imdbRating": 8.4,
-      "imdbVotes": 62377,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022173",
-      "title": "Murder by the Clock",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023249",
-      "title": "Murders in the Rue Morgue",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 5472,
-      "language": "English, Danish, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056216",
-      "title": "The Man Who Finally Died",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 593,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0056219",
+    "tt0051744",
+    "tt0037024",
+    "tt0039800",
+    "tt0015202",
+    "tt0851530",
+    "tt0022663",
+    "tt0056201",
+    "tt0057565",
+    "tt0022173",
+    "tt0023249",
+    "tt0056216"
   ],
   "collections": [],
   "is_curated": true,

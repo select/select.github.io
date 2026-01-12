@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-hes-in-again",
+      "id": "silent-hes-in-again",
       "title": "He's in Again",
       "fileSize": 376843340,
-      "id": "silent-hes-in-again"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-hes-in-again",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 287
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009558",
-      "title": "The Rogue",
-      "year": 1918,
-      "imdbRating": 4.4,
-      "imdbVotes": 52,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005443",
-      "title": "A Hash House Fraud",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006796",
-      "title": "The Hero",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009764",
-      "title": "The Villain",
-      "year": 1917,
-      "imdbRating": 6,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009659",
-      "title": "The Stranger",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0236553",
-      "title": "One Too Many",
-      "year": 1916,
-      "imdbRating": 4.3,
-      "imdbVotes": 179,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008844",
-      "title": "Are Crooks Dishonest?",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 372,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0268254",
-      "title": "Dunces and Dangers",
-      "year": 1918,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008907",
-      "title": "The Bond",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 1213,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007151",
-      "title": "Out of the Inkwell",
-      "year": 1918,
-      "imdbRating": 7.8,
-      "imdbVotes": 66,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009558",
+    "tt0005443",
+    "tt0006796",
+    "tt0009764",
+    "tt0009659",
+    "tt0236553",
+    "tt0008844",
+    "tt0268254",
+    "tt0008907",
+    "tt0009123",
+    "tt0007151",
+    "tt0009466"
   ],
   "collections": [],
   "is_curated": true,

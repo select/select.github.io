@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-anna-quest-ce-que-tattends",
+      "id": "silent-anna-quest-ce-que-tattends",
       "title": "Anna, qu'est-ce que t'attends?",
       "fileSize": 29422791,
-      "id": "silent-anna-quest-ce-que-tattends"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-anna-quest-ce-que-tattends",
+      "language": "French",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 695
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1649316",
-      "title": "Effets de mer",
-      "year": 1906,
-      "imdbRating": 5.1,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649365",
-      "title": "Le ballon dirigeable 'Le patrie'",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 138,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649367",
-      "title": "Le fils du garde-chasse",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139714",
-      "title": "The Birth, the Life and the Death of Christ",
-      "year": 1906,
-      "imdbRating": 6.4,
-      "imdbVotes": 602,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223340",
-      "title": "The Spring Fairy",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 53,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649427",
-      "title": "Une course d'obstacle",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 145,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649428",
-      "title": "Une histoire roulante",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3189794",
-      "title": "Robert Macaire et Bertrand",
-      "year": 1905,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649298",
-      "title": "Clown, chien et ballon",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 159,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759516",
-      "title": "Course à la saucisse",
-      "year": 1907,
-      "imdbRating": 6.1,
-      "imdbVotes": 323,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1325742",
-      "title": "Five O'Clock Tea",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 165,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1213121",
-      "title": "La polka des trottins",
-      "year": 1905,
-      "imdbRating": 5.3,
-      "imdbVotes": 153,
-      "language": "French",
-      "sourceType": "archive.org"
-    }
+    "tt1649316",
+    "tt1649365",
+    "tt1649367",
+    "tt0139714",
+    "tt0223340",
+    "tt1649427",
+    "tt1649428",
+    "tt3189794",
+    "tt1649298",
+    "tt0759516",
+    "tt1325742",
+    "tt1213121"
   ],
   "collections": [],
   "is_curated": true,

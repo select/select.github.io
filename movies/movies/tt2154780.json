@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Ziba2012",
+      "id": "Ziba2012",
       "title": "Ziba (2012)",
       "description": "Ziba (2012) A film by Bani Khoshnoudi",
       "fileSize": 12391679,
-      "id": "Ziba2012"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/Ziba2012",
+      "collection": "feature_films",
+      "downloads": 216
     }
   ],
   "metadata": {
@@ -27,110 +31,18 @@
     "Awards": "2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1881060",
-      "title": "Static",
-      "year": 2012,
-      "imdbRating": 5.3,
-      "imdbVotes": 3645,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2417530",
-      "title": "111 Girls",
-      "year": 2012,
-      "imdbRating": 7.2,
-      "imdbVotes": 112,
-      "language": "Persian, Kurdish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2299842",
-      "title": "Pieta",
-      "year": 2012,
-      "imdbRating": 7.1,
-      "imdbVotes": 16149,
-      "language": "Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2334034",
-      "title": "The Private Life of Mr. & Mrs. M",
-      "year": 2012,
-      "imdbRating": 5.5,
-      "imdbVotes": 588,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2106670",
-      "title": "The Taste of Money",
-      "year": 2012,
-      "imdbRating": 5.7,
-      "imdbVotes": 1760,
-      "language": "Korean, English, Tagalog",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2212658",
-      "title": "Abducted: The Carlina White Story",
-      "year": 2012,
-      "imdbRating": 6.6,
-      "imdbVotes": 1343,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893195",
-      "title": "A.C.A.B. - All Cops Are Bastards",
-      "year": 2012,
-      "imdbRating": 6.6,
-      "imdbVotes": 8514,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1866919",
-      "title": "Ashes",
-      "year": 2012,
-      "imdbRating": 5.5,
-      "imdbVotes": 706,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2838540",
-      "title": "Project 577",
-      "year": 2012,
-      "imdbRating": 6.3,
-      "imdbVotes": 98,
-      "language": "Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2355473",
-      "title": "612",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3122618",
-      "title": "Goodnight My Love",
-      "year": 2012,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1881060",
+    "tt2417530",
+    "tt2299842",
+    "tt2334034",
+    "tt2106670",
+    "tt2212658",
+    "tt1893195",
+    "tt1866919",
+    "tt2838540",
+    "tt2509978",
+    "tt2355473",
+    "tt3122618"
   ],
   "collections": [],
   "is_curated": true,

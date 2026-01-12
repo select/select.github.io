@@ -6,26 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1957-chicago-confidential-crimen-s.-a.-sidney-salkow-ve",
+      "id": "1957-chicago-confidential-crimen-s.-a.-sidney-salkow-ve",
       "title": "1957 - Chicago Confidential - Crimen, S.A. - Sidney Salkow - VE",
       "description": "For Academic - Educational Use Only https://derechonoir.wordpress.com/",
       "fileSize": 273474161,
-      "id": "1957-chicago-confidential-crimen-s.-a.-sidney-salkow-ve"
+      "addedAt": "2026-01-07T00:06:06.563Z",
+      "thumbnail": "https://archive.org/services/img/1957-chicago-confidential-crimen-s.-a.-sidney-salkow-ve",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 508
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1957-chicago-confidential-crimen-s.-a.-sidney-salkow-vo",
+      "id": "1957-chicago-confidential-crimen-s.-a.-sidney-salkow-vo",
       "title": "1957 - Chicago Confidential - Crimen, S.A. - Sidney Salkow - VO",
       "description": "For Academic - Educational Use Only https://derechonoir.wordpress.com/",
       "fileSize": 298900969,
-      "id": "1957-chicago-confidential-crimen-s.-a.-sidney-salkow-vo"
+      "addedAt": "2026-01-07T00:06:06.563Z",
+      "thumbnail": "https://archive.org/services/img/1957-chicago-confidential-crimen-s.-a.-sidney-salkow-vo",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 535
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chicago-confidential-1957-",
+      "id": "chicago-confidential-1957-",
       "title": "Chicago Confidential (1957)",
       "description": "Brian Keith, Beverly Garland, Dick Foran",
       "fileSize": 1511626272,
-      "id": "chicago-confidential-1957-"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/chicago-confidential-1957-",
+      "collection": "feature_films",
+      "downloads": 784
     }
   ],
   "metadata": {
@@ -43,114 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050497",
-      "title": "Hell Ship Mutiny",
-      "year": 1957,
-      "imdbRating": 4.5,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049962",
-      "title": "Blonde Bait",
-      "year": 1956,
-      "imdbRating": 5.4,
-      "imdbVotes": 181,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046927",
-      "title": "Double Jeopardy",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030798",
-      "title": "Storm Over Bengal",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048682",
-      "title": "Swamp Women",
-      "year": 1956,
-      "imdbRating": 3.4,
-      "imdbVotes": 2106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045668",
-      "title": "Dance Hall Racket",
-      "year": 1953,
-      "imdbRating": 3.4,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026772",
-      "title": "The New Adventures of Tarzan",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 450,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029952",
-      "title": "Bulldog Drummond's Peril",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173742",
-      "title": "Confessions of a Vice Baron",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031207",
-      "title": "Daredevils of the Red Circle",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2101341",
-      "title": "Dead Man Down",
-      "year": 2013,
-      "imdbRating": 6.4,
-      "imdbVotes": 71274,
-      "language": "English, French, Albanian, Spanish, Hungarian",
-      "sourceType": "archive.org"
-    }
+    "tt0050497",
+    "tt0049962",
+    "tt0046927",
+    "tt0030798",
+    "tt0048682",
+    "tt0045668",
+    "tt0026772",
+    "tt0033426",
+    "tt0029952",
+    "tt0173742",
+    "tt0031207",
+    "tt2101341"
   ],
   "collections": [],
   "is_curated": true,

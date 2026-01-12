@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-wagon-tracks",
+      "id": "silent-wagon-tracks",
       "title": "Wagon Tracks",
       "fileSize": 21025209245,
-      "id": "silent-wagon-tracks"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-wagon-tracks",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 407
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011779",
-      "title": "The Toll Gate",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009900",
-      "title": "Back to God's Country",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 967,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010726",
-      "title": "The Spiders - Episode 1: The Golden Sea",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1563,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0197903",
-      "title": "Something New",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 347,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011753",
-      "title": "Terror Island",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009701",
-      "title": "Tih Minh",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 497,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011439",
-      "title": "The Mark of Zorro",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 2866,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010446",
-      "title": "The Master Mystery",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 159,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008892",
-      "title": "'Blue Blazes' Rawden",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008571",
-      "title": "The Silent Man",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 118,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012839",
-      "title": "The Whistle",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0011779",
+    "tt0009900",
+    "tt0010726",
+    "tt0197903",
+    "tt0011753",
+    "tt0009701",
+    "tt0011439",
+    "tt0010446",
+    "tt0008892",
+    "tt0008309",
+    "tt0008571",
+    "tt0012839"
   ],
   "collections": [
     {

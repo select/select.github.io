@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-train-wreckers",
+      "id": "silent-train-wreckers",
       "title": "Train Wreckers",
       "fileSize": 288725199,
-      "id": "silent-train-wreckers"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-train-wreckers",
+      "language": "English",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 466
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000439",
-      "title": "The Great Train Robbery",
-      "year": 1903,
-      "imdbRating": 7.3,
-      "imdbVotes": 21493,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000519",
-      "title": "The Kleptomaniac",
-      "year": 1905,
-      "imdbRating": 5.7,
-      "imdbVotes": 438,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228839",
-      "title": "The Seven Ages",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000557",
-      "title": "Kathleen Mavourneen",
-      "year": 1906,
-      "imdbRating": 4.7,
-      "imdbVotes": 140,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445359",
-      "title": "The Ex-Convict",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 238,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477380",
-      "title": "Tale the Autumn Leaves Told",
-      "year": 1908,
-      "imdbRating": 4.6,
-      "imdbVotes": 105,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000904",
-      "title": "The House of Cards",
-      "year": 1909,
-      "imdbRating": 5.4,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232932",
-      "title": "What Happened in the Tunnel",
-      "year": 1903,
-      "imdbRating": 5.7,
-      "imdbVotes": 369,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233391",
-      "title": "The Burglar's Slide for Life",
-      "year": 1905,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233479",
-      "title": "Coney Island at Night",
-      "year": 1905,
-      "imdbRating": 6,
-      "imdbVotes": 379,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000565",
-      "title": "The Night Before Christmas",
-      "year": 1905,
-      "imdbRating": 6.2,
-      "imdbVotes": 629,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000439",
+    "tt0000519",
+    "tt0228839",
+    "tt0000557",
+    "tt0445359",
+    "tt0000471",
+    "tt0477380",
+    "tt0000904",
+    "tt0232932",
+    "tt0233391",
+    "tt0233479",
+    "tt0000565"
   ],
   "collections": [],
   "is_curated": true,

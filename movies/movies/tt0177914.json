@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/maestro-levita-1938",
+      "id": "maestro-levita-1938",
       "title": "Maestro Levita (1938)",
       "description": "Maestro Levita  es una película  argentina  en blanco y negro que también ha sido exhibida con el nombre de  Maestro Ciruela  dirigida por  Luis César Amadori  sobre su propio guion escrito en colaboración con  Antonio Botta  y  René Garzón  que se estrenó el 9 de febrero de 1938 y que tuvo como protagonistas a  Pepe Arias ,  Mecha Ortiz ,  Juan Carlos Thorry ,  María Santos  y  Aída Olivier . (Wikipedia) Sinopsis Un maestro rural va a la ciudad con el fin de obtener recursos para su escuelita, en el olvidado pueblo de Puentecito. Reparto Pepe Arias  ... Simón Galván Mecha Ortiz  ... Elena Acevedo de Lerena Juan Carlos Thorry  ... Roberto Casaval María Santos  ... Señorita Baigorria Aída Olivier  ... Isabel Miguel Gómez Bao  ... Dr.Ferran Alberto Bello  ... Sr. Navarro Delia Garcés  ... Felisa Semillita  ... Canillita Raúl Rossi  ... Muchacho Bernardo Perrone  ... Juez Lalo Malcolm  ... Amigo de Elena Cirilo Etulain  ... Fiscal Alfredo Fornaresio Carlos Bellucci",
       "fileSize": 4311241311,
-      "id": "maestro-levita-1938"
+      "addedAt": "2026-01-07T00:09:46.422Z",
+      "thumbnail": "https://archive.org/services/img/maestro-levita-1938",
+      "language": "spa",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 39
     }
   ],
   "metadata": {
@@ -27,101 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0178549",
-      "title": "El haragán de la familia",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178846",
-      "title": "El profesor Cero",
-      "year": 1942,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178906",
-      "title": "Son cartas de amor",
-      "year": 1945,
-      "imdbRating": 3.8,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178561",
-      "title": "Hay que educar a Niní",
-      "year": 1940,
-      "imdbRating": 7.4,
-      "imdbVotes": 80,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131414",
-      "title": "Das große Abenteuer",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028990",
-      "title": "Heiratsschwindler",
-      "year": 1938,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030211",
-      "title": "Der Hampelmann",
-      "year": 1938,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0246104",
-      "title": "Der nackte Spatz",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030913",
-      "title": "Der unmögliche Herr Pitt",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160557",
-      "title": "Die Nacht der Entscheidung",
-      "year": 1938,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030086",
-      "title": "Du und ich",
-      "year": 1938,
-      "imdbRating": 6.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248809",
-      "title": "Fracht von Baltimore",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0178549",
+    "tt0178846",
+    "tt0178906",
+    "tt0178561",
+    "tt0131414",
+    "tt0028990",
+    "tt0030211",
+    "tt0246104",
+    "tt0030913",
+    "tt0160557",
+    "tt0030086",
+    "tt0248809"
   ],
   "collections": [],
   "is_curated": true,

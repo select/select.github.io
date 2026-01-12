@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-society-sensation",
+      "id": "silent-a-society-sensation",
       "title": "A Society Sensation",
       "fileSize": 455937012,
-      "id": "silent-a-society-sensation"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-society-sensation",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 305
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009018",
-      "title": "A Dog's Life",
-      "year": 1918,
-      "imdbRating": 7.6,
-      "imdbVotes": 10161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0421867",
-      "title": "Bud's Recruit",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 113,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008822",
-      "title": "All Night",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 105,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194858",
-      "title": "Exemplo Regenerador",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 72,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326184",
-      "title": "Somebody Lied",
-      "year": 1917,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007507",
-      "title": "The Vagabond",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 3287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004413",
-      "title": "The Ocean Waif",
-      "year": 1916,
-      "imdbRating": 6.3,
-      "imdbVotes": 510,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227995",
-      "title": "The Adventure of the Wrong Santa Claus",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205957",
-      "title": "The Ballad of Fisher's Boarding House",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 198,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009018",
+    "tt0421867",
+    "tt0008822",
+    "tt0008133",
+    "tt0194858",
+    "tt0326184",
+    "tt0006764",
+    "tt0007507",
+    "tt0004413",
+    "tt0004028",
+    "tt0227995",
+    "tt0205957"
   ],
   "collections": [],
   "is_curated": true,

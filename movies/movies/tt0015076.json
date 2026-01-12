@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-lizzies-of-the-field",
+      "id": "silent-lizzies-of-the-field",
       "title": "Lizzies of the Field",
       "fileSize": 519514126,
-      "id": "silent-lizzies-of-the-field"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-lizzies-of-the-field",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 268
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0159286",
-      "title": "Black Oxfords",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015657",
-      "title": "Butter Fingers",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016375",
-      "title": "Super-Hooper-Dyne Lizzies",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 207,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015390",
-      "title": "Ten Dollars or Ten Days",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 113,
-      "language": "None, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0467029",
-      "title": "Taxi for Two",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031065",
-      "title": "The Awful Goof",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014992",
-      "title": "His New Mamma",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014903",
-      "title": "The First 100 Years",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 130,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0159286",
+    "tt0015657",
+    "tt0016375",
+    "tt0015390",
+    "tt0467029",
+    "tt0027097",
+    "tt0031065",
+    "tt0015477",
+    "tt0014664",
+    "tt0141028",
+    "tt0014992",
+    "tt0014903"
   ],
   "collections": [],
   "is_curated": true,

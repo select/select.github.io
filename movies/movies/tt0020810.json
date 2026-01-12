@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dangerous-paradise",
+      "id": "dangerous-paradise",
       "title": "Dangerous Paradise",
       "description": "Dangerous Paradise Nancy Carroll, Richard Arlen, Warner Oland Paramount 1930 Adaptation of Victory by Joseph Conrad",
       "fileSize": 1046202656,
-      "id": "dangerous-paradise"
+      "addedAt": "2026-01-07T00:07:51.628Z",
+      "thumbnail": "https://archive.org/services/img/dangerous-paradise",
+      "collection": "feature_films",
+      "downloads": 1159
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dangerous-paradise-1930",
+      "id": "dangerous-paradise-1930",
       "title": "Dangerous Paradise",
       "description": "Title: Dangerous Paradise Summary: Heyst, a hermit on his own tropical island, plays unwilling host to red-headed stowaway Alma. Danger looms... Directed by: William A. Wellman Actors: Production Company: Paramount Pictures Release Date: 13 February 1930 (USA) Aspect Ratio: 1.20 : 1 A young man named Heyst, soured on civilization, lives alone on a remote island \"somewhere east of Suez\". On one of his periodic visits to Sourabaya, he meets Alma, red-haired entertainer at Schomberg's bistro. To escape the sexual harassment of her bosses, Alma stows away on Heyst's boat and becomes his guest. Will she take the next steamer out... or become mistress of the island? Before this question is resolved, three cutthroats arrive seeking a mythical treasure...",
       "fileSize": 4101217955,
-      "id": "dangerous-paradise-1930"
+      "addedAt": "2026-01-07T00:07:51.628Z",
+      "thumbnail": "https://archive.org/services/img/dangerous-paradise-1930",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 1610
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018684",
-      "title": "Beggars of Life",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 1376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020599",
-      "title": "Woman Trap",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022979",
-      "title": "The Hatchet Man",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 914,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020217",
-      "title": "New York Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020135",
-      "title": "The Man I Love",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019096",
-      "title": "Lights of New York",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040978",
-      "title": "Yellow Sky",
-      "year": 1948,
-      "imdbRating": 7.4,
-      "imdbVotes": 5936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021133",
-      "title": "Maybe It's Love",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024416",
-      "title": "One Year Later",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019765",
+    "tt0018684",
+    "tt0020599",
+    "tt0022979",
+    "tt0020217",
+    "tt0020135",
+    "tt0019096",
+    "tt0040978",
+    "tt0021133",
+    "tt0024416",
+    "tt0021820",
+    "tt0021659"
   ],
   "collections": [],
   "is_curated": true,

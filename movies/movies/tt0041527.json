@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/johnny-allegro-1949",
+      "id": "johnny-allegro-1949",
       "title": "Johnny Allegro (1949)",
       "description": "Treasury Department officials recruit a florist (Raft) to lead them to a wanted criminal (Macready); but once he gets too close, he finds he's the hunted. Watch on RetroFlix.org:  https://retroflix.org/johnny-allegro-1949/",
       "fileSize": 827149764,
-      "id": "johnny-allegro-1949"
+      "addedAt": "2026-01-07T00:09:15.996Z",
+      "thumbnail": "https://archive.org/services/img/johnny-allegro-1949",
+      "language": "eng",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 209
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1949-johnny-allegro-ted-tetzlaff-vose",
+      "id": "1949-johnny-allegro-ted-tetzlaff-vose",
       "title": "1949 - Johnny Allegro - Ted Tetzlaff - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com t.me/agendasociocultural",
       "fileSize": 1359378248,
-      "id": "1949-johnny-allegro-ted-tetzlaff-vose"
+      "addedAt": "2026-01-07T00:06:06.561Z",
+      "thumbnail": "https://archive.org/services/img/1949-johnny-allegro-ted-tetzlaff-vose",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 1547
     }
   ],
   "metadata": {
@@ -35,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043086",
-      "title": "Under the Gun",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041555",
-      "title": "Knock on Any Door",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 4414,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042006",
-      "title": "The Undercover Man",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1454,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042046",
-      "title": "The Window",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 5025,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0040719",
-      "title": "Race Street",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 712,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037932",
-      "title": "My Name Is Julia Ross",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 3830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041503",
-      "title": "Impact",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 5035,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041268",
-      "title": "Criss Cross",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 10070,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041761",
-      "title": "Port of New York",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041269",
-      "title": "The Crooked Way",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041786",
-      "title": "The Reckless Moment",
-      "year": 1949,
-      "imdbRating": 7.1,
-      "imdbVotes": 6042,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041958",
-      "title": "Thieves' Highway",
-      "year": 1949,
-      "imdbRating": 7.5,
-      "imdbVotes": 7130,
-      "language": "English, Italian, Greek",
-      "sourceType": "archive.org"
-    }
+    "tt0043086",
+    "tt0041555",
+    "tt0042006",
+    "tt0042046",
+    "tt0040719",
+    "tt0037932",
+    "tt0041503",
+    "tt0041268",
+    "tt0041761",
+    "tt0041269",
+    "tt0041786",
+    "tt0041958"
   ],
   "collections": [],
   "is_curated": true,

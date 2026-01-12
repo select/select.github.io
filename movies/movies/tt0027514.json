@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DesertPhantom",
+      "id": "DesertPhantom",
       "title": "Desert Phantom",
       "description": "An entertaining western starring Johnny Mack Brown",
       "fileSize": 1744996982,
-      "id": "DesertPhantom"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DesertPhantom",
+      "collection": "feature_films",
+      "downloads": 17551
     }
   ],
   "metadata": {
@@ -27,120 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0132909",
-      "title": "The Crooked Trail",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028199",
-      "title": "Rogue of the Range",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028649",
-      "title": "Border Phantom",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0127656",
-      "title": "Lightning Triggers",
-      "year": 1935,
-      "imdbRating": 4.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029473",
-      "title": "The Red Rope",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026080",
-      "title": "Arizona Bad Man",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0203825",
-      "title": "Range Warfare",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029125",
-      "title": "Lawless Land",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033251",
-      "title": "West of Pinto Basin",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033181",
-      "title": "Trailing Double Trouble",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032971",
-      "title": "The Range Busters",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0034541",
-      "title": "Boot Hill Bandits",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0132909",
+    "tt0028199",
+    "tt0028649",
+    "tt0127656",
+    "tt0029473",
+    "tt0026080",
+    "tt0203825",
+    "tt0029125",
+    "tt0033251",
+    "tt0033181",
+    "tt0032971",
+    "tt0034541"
   ],
   "collections": [],
   "is_curated": true,

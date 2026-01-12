@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SaloonBar",
+      "id": "SaloonBar",
       "title": "Saloon Bar",
       "description": "“Fabulous period piece” “Tight little thriller” “Wonderful ensemble whodunit” “Simply great!” (IMDB reviews quotes). FROM IMDB: “ Against a background of Christmas and the pending arrival of another baby for the landlord, a group of pub locals lead by bookie Gordon Harker  set out to prove that former customer Eddie Graves is not guilty of the murder for which he is due to be hanged in the  morning.” IMDB rating 7.1. Directed by Walter Forde. Released in 1940 (UK only) Complete print",
       "fileSize": 1068397248,
-      "id": "SaloonBar"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/SaloonBar",
+      "collection": "feature_films",
+      "downloads": 5710
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031490",
-      "title": "Inspector Hornleigh on Holiday",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032323",
-      "title": "Charley's (Big-Hearted) Aunt",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033660",
-      "title": "The Ghost Train",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 1715,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031152",
-      "title": "Cheer Boys Cheer",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033031",
-      "title": "The Secret Four",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 196,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032277",
-      "title": "Boys of the City",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 660,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034907",
-      "title": "It's That Man Again",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 94,
-      "language": "Italian, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033856",
-      "title": "Lucky Ghost",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031489",
-      "title": "Inspector Hornleigh",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036613",
-      "title": "Arsenic and Old Lace",
-      "year": 1944,
-      "imdbRating": 7.9,
-      "imdbVotes": 77355,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027384",
-      "title": "The Border Patrolman",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031490",
+    "tt0032323",
+    "tt0033660",
+    "tt0031152",
+    "tt0033031",
+    "tt0032277",
+    "tt0034907",
+    "tt0033856",
+    "tt0031489",
+    "tt0036613",
+    "tt0027384",
+    "tt0035121"
   ],
   "collections": [],
   "is_curated": true,

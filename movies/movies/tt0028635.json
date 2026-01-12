@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlackAces",
+      "id": "BlackAces",
       "title": "Black Aces",
       "description": "A Buck Jones western new to the Archive. Filmed in Kernville, California. The print has viewable image quality. The audio could be better. Directed by Buck Jones (& Lesley Selander uncredited). Released in 1937. One minute is missing. CAST NOTE: Barney Phillips' feature film debut.",
       "fileSize": 1027761581,
-      "id": "BlackAces"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlackAces",
+      "collection": "feature_films",
+      "downloads": 2970
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028582",
-      "title": "Arizona Days",
-      "year": 1937,
-      "imdbRating": 4.4,
-      "imdbVotes": 177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028645",
-      "title": "Boothill Brigade",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 87,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028649",
-      "title": "Border Phantom",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028732",
-      "title": "Come On, Cowboys",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 93,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028890",
-      "title": "Forlorn River",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028934",
-      "title": "Git Along Little Dogies",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029005",
-      "title": "Hittin' the Trail",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029445",
-      "title": "Public Cowboy No. 1",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029462",
-      "title": "Range Defenders",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029501",
-      "title": "Round-Up Time in Texas",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029602",
-      "title": "Springtime in the Rockies",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029289",
-      "title": "The Mystery of the Hooded Horsemen",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 170,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028582",
+    "tt0028645",
+    "tt0028649",
+    "tt0028732",
+    "tt0028890",
+    "tt0028934",
+    "tt0029005",
+    "tt0029445",
+    "tt0029462",
+    "tt0029501",
+    "tt0029602",
+    "tt0029289"
   ],
   "collections": [],
   "is_curated": true,

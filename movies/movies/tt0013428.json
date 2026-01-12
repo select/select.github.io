@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-nathan-der-weise",
+      "id": "silent-nathan-der-weise",
       "title": "Nathan der Weise",
       "fileSize": 5549977824,
-      "id": "silent-nathan-der-weise"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-nathan-der-weise",
+      "language": "German",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 571
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0133848",
-      "title": "Helen of Troy",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 122,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013571",
-      "title": "Salomé",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 1123,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0013741",
-      "title": "The Loves of Pharaoh",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 688,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014532",
-      "title": "The Ten Commandments",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 2731,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014702",
-      "title": "Beau Brummel",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1452522",
-      "title": "Die Hermannschlacht",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013388",
-      "title": "Messalina",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 39,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015289",
-      "title": "Romola",
-      "year": 1924,
-      "imdbRating": 6.1,
-      "imdbVotes": 260,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0133848",
+    "tt0013571",
+    "tt0013741",
+    "tt0012532",
+    "tt0014532",
+    "tt0014672",
+    "tt0014854",
+    "tt0015022",
+    "tt0014702",
+    "tt1452522",
+    "tt0013388",
+    "tt0015289"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-girl-ranchers",
+      "id": "silent-the-girl-ranchers",
       "title": "The Girl Ranchers",
       "fileSize": 472472192,
-      "id": "silent-the-girl-ranchers"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-girl-ranchers",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 298
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0233246",
-      "title": "At Bear Track Gulch",
-      "year": 1913,
-      "imdbRating": 5.2,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003943",
-      "title": "Fatty and Minnie He-Haw",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025187",
-      "title": "Going Spanish",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248079",
-      "title": "Her Bridal Night-Mare",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 34,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006801",
-      "title": "His Bitter Pill",
-      "year": 1916,
-      "imdbRating": 5.3,
-      "imdbVotes": 192,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006913",
-      "title": "Legal Advice",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003177",
-      "title": "A Muddy Romance",
-      "year": 1913,
-      "imdbRating": 4.8,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003417",
-      "title": "A Strong Revenge",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002663",
-      "title": "Barney Oldfield's Race for a Life",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002755",
-      "title": "Cohen Saves the Flag",
-      "year": 1913,
-      "imdbRating": 4.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012543",
-      "title": "The Paleface",
-      "year": 1922,
-      "imdbRating": 6.8,
-      "imdbVotes": 3429,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0233246",
+    "tt0003943",
+    "tt0025187",
+    "tt0248079",
+    "tt0006801",
+    "tt0006913",
+    "tt0015477",
+    "tt0003177",
+    "tt0003417",
+    "tt0002663",
+    "tt0002755",
+    "tt0012543"
   ],
   "collections": [],
   "is_curated": true,

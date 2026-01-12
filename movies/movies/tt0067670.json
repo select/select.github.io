@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/return-of-charlie-chan-1973-ross-martin",
+      "id": "return-of-charlie-chan-1973-ross-martin",
       "title": "The Return of Charlie Chan",
       "description": "movie",
       "fileSize": 8562135453,
-      "id": "return-of-charlie-chan-1973-ross-martin"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/return-of-charlie-chan-1973-ross-martin",
+      "year": 1973,
+      "collection": "feature_films",
+      "downloads": 3669
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0068174",
-      "title": "Adventures of Nick Carter",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069439",
-      "title": "Murder Is a Murder",
-      "year": 1972,
-      "imdbRating": 5.8,
-      "imdbVotes": 291,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0070578",
-      "title": "The Pyx",
-      "year": 1973,
-      "imdbRating": 5.4,
-      "imdbVotes": 991,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067835",
-      "title": "A Tattered Web",
-      "year": 1971,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067045",
-      "title": "Ellery Queen: Don't Look Behind You",
-      "year": 1971,
-      "imdbRating": 5.4,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071877",
-      "title": "Murder on the Orient Express",
-      "year": 1974,
-      "imdbRating": 7.2,
-      "imdbVotes": 73264,
-      "language": "English, French, German, Turkish, Italian, Swedish, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065179",
-      "title": "Life Love Death",
-      "year": 1969,
-      "imdbRating": 7,
-      "imdbVotes": 161,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248088",
-      "title": "El hijo pródigo",
-      "year": 1969,
-      "imdbRating": 6.4,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074342",
-      "title": "Death Rage",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 935,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064448",
-      "title": "House of Cards",
-      "year": 1968,
-      "imdbRating": 6,
-      "imdbVotes": 800,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0068174",
+    "tt0069439",
+    "tt0070578",
+    "tt0067835",
+    "tt0067045",
+    "tt0071877",
+    "tt0065179",
+    "tt0248088",
+    "tt0074342",
+    "tt0064448",
+    "tt0038494",
+    "tt0028231"
   ],
   "collections": [],
   "is_curated": true,

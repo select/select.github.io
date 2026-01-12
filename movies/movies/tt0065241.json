@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-joke",
+      "id": "the-joke",
       "title": "The Joke",
       "description": "Jaromil Jireš’s brilliant adaptation of Milan Kundera’s novel tells the fragmentary tale of a man expelled from the Communist Party because of a political joke. After “rehabilitation” in the mines and a stint in prison, he hatches a revenge plot against the former friend who betrayed him. Made near the end of the Czech New Wave,  The Joke  is acknowledged as one of its greatest works.",
       "fileSize": 6617592388,
-      "id": "the-joke"
+      "addedAt": "2026-01-07T00:12:10.589Z",
+      "thumbnail": "https://archive.org/services/img/the-joke",
+      "language": "cze",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 5397
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0064268",
-      "title": "A Nest of Gentry",
-      "year": 1969,
-      "imdbRating": 6.5,
-      "imdbVotes": 354,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0065179",
-      "title": "Life Love Death",
-      "year": 1969,
-      "imdbRating": 7,
-      "imdbVotes": 161,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064965",
-      "title": "Seven in Darkness",
-      "year": 1969,
-      "imdbRating": 6.4,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064571",
-      "title": "Eagles Over London",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 845,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065602",
-      "title": "Angel, Angel, Down We Go",
-      "year": 1969,
-      "imdbRating": 4.3,
-      "imdbVotes": 539,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144119",
-      "title": "Breve cielo",
-      "year": 1969,
-      "imdbRating": 7.6,
-      "imdbVotes": 104,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064137",
-      "title": "Castle Keep",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 3578,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064217",
-      "title": "Death of a Gunfighter",
-      "year": 1969,
-      "imdbRating": 6.2,
-      "imdbVotes": 1776,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064240",
-      "title": "Django the Bastard",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 1307,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064223",
-      "title": "El dependiente",
-      "year": 1969,
-      "imdbRating": 7.6,
-      "imdbVotes": 589,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064395",
-      "title": "Guns of the Magnificent Seven",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 3327,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178359",
-      "title": "La culpa",
-      "year": 1969,
-      "imdbRating": 6.5,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0064268",
+    "tt0065179",
+    "tt0064965",
+    "tt0064571",
+    "tt0065602",
+    "tt0144119",
+    "tt0064137",
+    "tt0064217",
+    "tt0064240",
+    "tt0064223",
+    "tt0064395",
+    "tt0178359"
   ],
   "collections": [],
   "is_curated": true,

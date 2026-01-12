@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-open-all-night",
+      "id": "silent-open-all-night",
       "title": "Open All Night",
       "fileSize": 968275005,
-      "id": "silent-open-all-night"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-open-all-night",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 817
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014925",
-      "title": "Forbidden Paradise",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 80,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015577",
-      "title": "Are Parents People?",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 80,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015976",
-      "title": "The King on Main Street",
-      "year": 1925,
-      "imdbRating": 6.7,
-      "imdbVotes": 61,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016409",
-      "title": "The Swan",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 47,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014992",
-      "title": "His New Mamma",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015324",
-      "title": "Sherlock Jr.",
-      "year": 1924,
-      "imdbRating": 8.2,
-      "imdbVotes": 64220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015390",
-      "title": "Ten Dollars or Ten Days",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 113,
-      "language": "None, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014903",
-      "title": "The First 100 Years",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 130,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014967",
-      "title": "The Hansom Cabman",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 125,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0014925",
+    "tt0015577",
+    "tt0015976",
+    "tt0016409",
+    "tt0015477",
+    "tt0014664",
+    "tt0141028",
+    "tt0014992",
+    "tt0015324",
+    "tt0015390",
+    "tt0014903",
+    "tt0014967"
   ],
   "collections": [],
   "is_curated": true,

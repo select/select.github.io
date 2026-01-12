@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SallyOfTheSawdust",
+      "id": "SallyOfTheSawdust",
       "title": "Sally of the Sawdust",
       "description": "Title: Sally of the Sawdust Summary: Judge Foster throws his daughter out because she married a circus man. She leaves her baby girl with Prof. McGargle before she dies. Years later Sally is a dancer with whom Peyton, a son of... Directed by: D.W. Griffith Actors: Production Company: Paramount Pictures Release Date: 2 August 1925 (USA) Aspect Ratio: 1.33 : 1 Judge Foster throws his daughter out because she married a circus man. She leaves her baby girl with Prof. McGargle before she dies. Years later Sally is a dancer with whom Peyton, a son of Judge Foster's friend, falls in love. When Sally is arrested McGargle proves her real parentage.",
       "fileSize": 896654773,
-      "id": "SallyOfTheSawdust"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/SallyOfTheSawdust",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 3481
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-sally-of-the-sawdust",
+      "id": "silent-sally-of-the-sawdust",
       "title": "Sally of the Sawdust",
       "fileSize": 1162109419,
-      "id": "silent-sally-of-the-sawdust"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-sally-of-the-sawdust",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 647
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "3 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013458",
-      "title": "One Exciting Night",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018678",
-      "title": "The Battle of the Sexes",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 509,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014604",
-      "title": "The White Rose",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000653",
-      "title": "A Calamitous Elopement",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 225,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001062",
-      "title": "Those Awful Hats",
-      "year": 1909,
-      "imdbRating": 6.2,
-      "imdbVotes": 1256,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000641",
-      "title": "Balked at the Altar",
-      "year": 1908,
-      "imdbRating": 4.7,
-      "imdbVotes": 178,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000684",
-      "title": "Father Gets in the Game",
-      "year": 1908,
-      "imdbRating": 5.1,
-      "imdbVotes": 129,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000877",
-      "title": "Getting Even",
-      "year": 1909,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0013458",
+    "tt0012122",
+    "tt0018678",
+    "tt0014672",
+    "tt0015018",
+    "tt0014604",
+    "tt0000653",
+    "tt0001062",
+    "tt0000641",
+    "tt0000684",
+    "tt0000877",
+    "tt0001002"
   ],
   "collections": [],
   "is_curated": true,

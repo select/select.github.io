@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/img-9326_202303",
+      "id": "img-9326_202303",
       "title": "Return To Earth",
       "description": "Sci-fi movie from Macau. In 2500 Earth is almost destroyed by a big bang, humanity is forced to evacuate. 2565 Earth is back but not as it use too. Three astronauts are sent to Earths core to investigate. Starring: Johan Karlberg , Lily Ge , Angela Lao , Xie Yun Kun , Rika Kishida.",
       "fileSize": 7537560198,
-      "id": "img-9326_202303"
+      "addedAt": "2026-01-07T00:08:46.616Z",
+      "thumbnail": "https://archive.org/services/img/img-9326_202303",
+      "collection": "feature_films",
+      "downloads": 1280
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt10084944",
-      "title": "Der Stahlbaron: Hermann Röchling und die Völklinger Hütte",
-      "year": 2019,
-      "imdbRating": 6.8,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14540270",
-      "title": "The Beatles: In the Life",
-      "year": 2019,
-      "imdbRating": 6.1,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt10161390",
-      "title": "The Communist",
-      "year": 2018,
-      "imdbRating": 6.1,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt35934533",
-      "title": "Mordet på Olof Palme",
-      "year": 2020,
-      "imdbVotes": 6,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9316022",
-      "title": "Struggle: The Life and Lost Art of Szukalski",
-      "year": 2018,
-      "imdbRating": 7.9,
-      "imdbVotes": 4682,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7295854",
-      "title": "Væbnet med ord & vinger",
-      "year": 2018,
-      "imdbRating": 7.1,
-      "imdbVotes": 53,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9012126",
-      "title": "Rinse at 590",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8228460",
-      "title": "Above 592 metres",
-      "year": 2018,
-      "imdbRating": 6.6,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14556014",
-      "title": "Four Roads",
-      "year": 2020,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8291244",
-      "title": "In Search of Ozu",
-      "year": 2018,
-      "imdbRating": 7.6,
-      "imdbVotes": 75,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11905848",
-      "title": "The State of Texas vs. Melissa",
-      "year": 2020,
-      "imdbRating": 6,
-      "imdbVotes": 512,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt13525042",
-      "title": "Invasion U.S.A: American Business in the U.K",
-      "year": 2020,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt10084944",
+    "tt14540270",
+    "tt10161390",
+    "tt35934533",
+    "tt9316022",
+    "tt7295854",
+    "tt9012126",
+    "tt8228460",
+    "tt14556014",
+    "tt8291244",
+    "tt11905848",
+    "tt13525042"
   ],
   "collections": [],
   "is_curated": true,

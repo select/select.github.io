@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/spy-ship",
+      "id": "spy-ship",
       "title": "Spy Ship (1942)",
       "description": "Craig Stevens, Irene Manning",
       "fileSize": 1240803545,
-      "id": "spy-ship"
+      "addedAt": "2026-01-07T00:11:35.627Z",
+      "thumbnail": "https://archive.org/services/img/spy-ship",
+      "collection": "feature_films",
+      "downloads": 1114
     }
   ],
   "metadata": {
@@ -27,119 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036181",
-      "title": "Murder on the Waterfront",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036262",
-      "title": "The Phantom",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 471,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025262",
-      "title": "Hollywood Mystery",
-      "year": 1934,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028163",
-      "title": "Red River Valley",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041811",
-      "title": "Rimfire",
-      "year": 1949,
-      "imdbRating": 5.7,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037446",
-      "title": "Waterfront",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 291,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0034959",
-      "title": "Lady Gangster",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 846,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035009",
-      "title": "The Mad Monster",
-      "year": 1942,
-      "imdbRating": 3.5,
-      "imdbVotes": 1975,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035573",
-      "title": "A Yank in Libya",
-      "year": 1942,
-      "imdbRating": 4.3,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034428",
-      "title": "Across the Pacific",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 5563,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0036181",
+    "tt0036262",
+    "tt0025262",
+    "tt0023025",
+    "tt0028163",
+    "tt0041811",
+    "tt0037446",
+    "tt0034959",
+    "tt0035009",
+    "tt0035317",
+    "tt0035573",
+    "tt0034428"
   ],
   "collections": [],
   "is_curated": true,

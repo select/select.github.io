@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ButcherBoy1917",
+      "id": "ButcherBoy1917",
       "title": "BUTCHER BOY (1917) -- Roscoe Arbuckle, Buster Keaton, Al St. John",
       "description": "BUTCHER BOY (1917) Starring: Roscoe Arbuckle, Buster Keaton, Al St. John, Josephine Evans, Arthur Earle, Agnes Neilson, Joe Bordeaux Story by Joe Roach Directed by Arbuckle Produced by Joseph M. Schenck Comique Film Corporation Wm. Thomas Sherman, wts@gunjones.com, http://www.mn-hp.com",
       "fileSize": 799293304,
-      "id": "ButcherBoy1917"
+      "addedAt": "2026-01-07T00:06:14.040Z",
+      "thumbnail": "https://archive.org/services/img/ButcherBoy1917",
+      "collection": "feature_films",
+      "downloads": 1588
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/busterkeatonthebutcherboy",
+      "id": "busterkeatonthebutcherboy",
       "title": "The Butcher Boy",
       "description": "The Butcher Boy Fatty Arbuckle and Buster Keaton (1º movie!!!) IMDB: This Fatty Arbuckle short feature is a historical treasure in that it was the first film appearance of the great Buster Keaton, and it has some decent slapstick too. Runtime: 30 min Country: USA Language: English Color: Black and White (tinted) Sound Mix: Silent",
       "fileSize": 483909572,
-      "id": "busterkeatonthebutcherboy"
+      "addedAt": "2026-01-07T00:07:45.165Z",
+      "thumbnail": "https://archive.org/services/img/busterkeatonthebutcherboy",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 34674
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-butcher-boy",
+      "id": "silent-the-butcher-boy",
       "title": "The Butcher Boy",
       "fileSize": 5604357737,
-      "id": "silent-the-butcher-boy"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-butcher-boy",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 870
     }
   ],
   "metadata": {
@@ -42,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008377",
-      "title": "Oh Doctor!",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008874",
-      "title": "The Bell Boy",
-      "year": 1918,
-      "imdbRating": 6.7,
-      "imdbVotes": 1523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009389",
-      "title": "Moonshine",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 964,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008975",
-      "title": "The Cook",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1986,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009899",
-      "title": "Back Stage",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007819",
-      "title": "Coney Island",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008500",
-      "title": "A Reckless Romeo",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 244,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006668",
-      "title": "Fatty and Mabel Adrift",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007530",
-      "title": "The Waiters' Ball",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 218,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0008112",
+    "tt0008377",
+    "tt0009123",
+    "tt0009466",
+    "tt0008874",
+    "tt0009389",
+    "tt0008975",
+    "tt0009899",
+    "tt0007819",
+    "tt0008500",
+    "tt0006668",
+    "tt0007530"
   ],
   "collections": [
     {

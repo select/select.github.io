@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DragnetPatrol",
+      "id": "DragnetPatrol",
       "title": "Dragnet Patrol",
       "description": "A Prohibition era melodrama in which, at the instigation of his avaricious wife, an honest fisherman turns to rum running. Keep an eye out for George \"Gabby\" Hayes in the minor role of a private eye. Directed by Frank R Strayer. Released in 1931. a.k.a. \"Love Redeemed\"",
       "fileSize": 769384525,
-      "id": "DragnetPatrol"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DragnetPatrol",
+      "collection": "feature_films",
+      "downloads": 4300
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DragnetPatrol_773",
+      "id": "DragnetPatrol_773",
       "title": "Dragnet Patrol",
       "description": "Title: Dragnet Patrol Summary: A sailor falls for a gangster's moll, leaves his wife and finds himself caught up in a life of crime. Directed by: Frank R. Strayer Actors: Production Company: Ralph M. Like Productions Release Date: 15 December 1931 (USA) Aspect Ratio: 1.37 : 1 Larry White (",
       "fileSize": 403249854,
-      "id": "DragnetPatrol_773"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DragnetPatrol_773",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 1353
     }
   ],
   "metadata": {
@@ -35,116 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022957",
-      "title": "Gorilla Ship",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023187",
-      "title": "Manhattan Tower",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025921",
-      "title": "Twin Husbands",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026882",
-      "title": "Port of Lost Dreams",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020900",
-      "title": "Framed",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022990",
-      "title": "Hell's Highway",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 849,
-      "language": "American Sign , English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023117",
-      "title": "The Last Mile",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 406,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021092",
-      "title": "The Pay-Off",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023427",
-      "title": "Scarface",
-      "year": 1932,
-      "imdbRating": 7.7,
-      "imdbVotes": 32244,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136560",
-      "title": "They Never Come Back",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 98,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023309",
-      "title": "Out of Singapore",
-      "year": 1932,
-      "imdbRating": 5.1,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0022957",
+    "tt0022662",
+    "tt0023187",
+    "tt0025921",
+    "tt0026882",
+    "tt0020900",
+    "tt0022990",
+    "tt0023117",
+    "tt0021092",
+    "tt0023427",
+    "tt0136560",
+    "tt0023309"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-michigan-kid_1928",
+      "id": "the-michigan-kid_1928",
       "title": "The Michigan Kid",
       "fileSize": 3077514324,
-      "id": "the-michigan-kid_1928"
+      "addedAt": "2026-01-07T00:12:22.154Z",
+      "thumbnail": "https://archive.org/services/img/the-michigan-kid_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 162
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019152",
-      "title": "The Mating Call",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 398,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019414",
-      "title": "The Spieler",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010195",
-      "title": "The Grim Game",
-      "year": 1919,
-      "imdbRating": 6.7,
-      "imdbVotes": 313,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029174",
-      "title": "Luck of Roaring Camp",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0009915",
-      "title": "Behind the Door",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010112",
-      "title": "The False Faces",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 104,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018795",
-      "title": "The Cossacks",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019195",
-      "title": "The Mysterious Lady",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1480,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018179",
-      "title": "Mr. Wu",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 721,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020062",
-      "title": "The Kiss",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 1248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020492",
-      "title": "The Thirteenth Chair",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 745,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019152",
+    "tt0019414",
+    "tt0010195",
+    "tt0029174",
+    "tt0009915",
+    "tt0010112",
+    "tt0018795",
+    "tt0019195",
+    "tt0018179",
+    "tt0018297",
+    "tt0020062",
+    "tt0020492"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-der-fall-deruga-willy-birgel-kathe-haack-hans-leibelt-erich-fiedler-beppo-b",
+      "id": "1938-der-fall-deruga-willy-birgel-kathe-haack-hans-leibelt-erich-fiedler-beppo-b",
       "title": "1938 Der Fall Deruga ( Willy Birgel, Käthe Haack, Hans Leibelt, Erich Fiedler, Beppo Brem, Oscar Sabo, Leo Peukert, Fritz Odemar)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Der Fall Deruga.  U.a mit Willy Birgel und Käthe Haack ",
       "fileSize": 797641080,
-      "id": "1938-der-fall-deruga-willy-birgel-kathe-haack-hans-leibelt-erich-fiedler-beppo-b"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-der-fall-deruga-willy-birgel-kathe-haack-hans-leibelt-erich-fiedler-beppo-b",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 150
     }
   ],
   "metadata": {
@@ -27,108 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0136214",
-      "title": "Geheimzeichen LB 17",
-      "year": 1938,
-      "imdbRating": 7.7,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229508",
-      "title": "Der Katzensteg",
-      "year": 1937,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032074",
-      "title": "Umwege zum Glück",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031358",
-      "title": "Ein ganzer Kerl",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249362",
-      "title": "Annemarie. Die Geschichte einer jungen Liebe",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032697",
-      "title": "Das leichte Mädchen",
-      "year": 1940,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031054",
-      "title": "Arrest Bulldog Drummond",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028589",
-      "title": "Assassin of Youth",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029951",
-      "title": "Bulldog Drummond in Africa",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029952",
-      "title": "Bulldog Drummond's Peril",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259235",
-      "title": "The Case of the Frightened Lady",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0136214",
+    "tt0229508",
+    "tt0032074",
+    "tt0031358",
+    "tt0249362",
+    "tt0032697",
+    "tt0031054",
+    "tt0028589",
+    "tt0029951",
+    "tt0029952",
+    "tt0259235",
+    "tt0030037"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mad-dog-morgan",
+      "id": "mad-dog-morgan",
       "title": "Mad Dog Morgan",
       "description": "The true story of Irish outlaw Daniel Morgan; who is wanted; dead or alive; in Australia during the 1850s.",
       "fileSize": 4867972999,
-      "id": "mad-dog-morgan"
+      "addedAt": "2026-01-07T00:09:46.421Z",
+      "thumbnail": "https://archive.org/services/img/mad-dog-morgan",
+      "collection": "feature_films",
+      "downloads": 7543
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075263",
-      "title": "St. Ives",
-      "year": 1976,
-      "imdbRating": 6.2,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0073774",
-      "title": "The Swiss Conspiracy",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 539,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073396",
-      "title": "Mitchell",
-      "year": 1975,
-      "imdbRating": 2.8,
-      "imdbVotes": 4952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076024",
-      "title": "Fighting Mad",
-      "year": 1978,
-      "imdbRating": 5.4,
-      "imdbVotes": 708,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071402",
-      "title": "Death Wish",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 45235,
-      "language": "English, Italian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0333955",
-      "title": "La muerte del soplon",
-      "year": 1978,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073755",
-      "title": "The Street Fighter's Last Revenge",
-      "year": 1974,
-      "imdbRating": 6,
-      "imdbVotes": 1518,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0070930",
-      "title": "The Wrestler",
-      "year": 1974,
-      "imdbRating": 5.2,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077594",
-      "title": "Game of Death",
-      "year": 1978,
-      "imdbRating": 5.9,
-      "imdbVotes": 23634,
-      "language": "English, Mandarin, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0158714",
-      "title": "Lady Snowblood",
-      "year": 1973,
-      "imdbRating": 7.6,
-      "imdbVotes": 16923,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0143428",
-      "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
-      "year": 1973,
-      "imdbRating": 7.5,
-      "imdbVotes": 4732,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0074634",
+    "tt0075263",
+    "tt0073774",
+    "tt0073396",
+    "tt0076024",
+    "tt0071402",
+    "tt0333955",
+    "tt0073755",
+    "tt0070930",
+    "tt0077594",
+    "tt0158714",
+    "tt0143428"
   ],
   "collections": [],
   "is_curated": true,

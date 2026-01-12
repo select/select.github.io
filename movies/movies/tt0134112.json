@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-der-spieler-hilde-korber-hedwig-bleibtreu-eugen-klopfer",
+      "id": "1938-der-spieler-hilde-korber-hedwig-bleibtreu-eugen-klopfer",
       "title": "1938 Der Spieler ( Hilde Körber, Hedwig Bleibtreu, Eugen Klöpfer)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Der Spieler.  U.a mit Hilde Körber und Eugen Klöpfer ",
       "fileSize": 740517182,
-      "id": "1938-der-spieler-hilde-korber-hedwig-bleibtreu-eugen-klopfer"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-der-spieler-hilde-korber-hedwig-bleibtreu-eugen-klopfer",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 156
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026098",
-      "title": "Barcarole",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028924",
-      "title": "Die gelbe Flagge",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029178",
-      "title": "Madame Bovary",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031338",
-      "title": "Frau im Strom",
-      "year": 1939,
-      "imdbRating": 8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030296",
-      "title": "Jugend",
-      "year": 1938,
-      "imdbRating": 7.3,
-      "imdbVotes": 34,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031360",
-      "title": "Die Geliebte",
-      "year": 1939,
-      "imdbRating": 7.5,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029989",
-      "title": "Child Bride",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 1116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029850",
-      "title": "Alexander Nevsky",
-      "year": 1938,
-      "imdbRating": 7.5,
-      "imdbVotes": 12505,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0177600",
-      "title": "Callejón sin salida",
-      "year": 1938,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028589",
-      "title": "Assassin of Youth",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029939",
-      "title": "Born to Be Wild",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026098",
+    "tt0028924",
+    "tt0029178",
+    "tt0031338",
+    "tt0030296",
+    "tt0031360",
+    "tt0029989",
+    "tt0029850",
+    "tt0177600",
+    "tt0029855",
+    "tt0028589",
+    "tt0029939"
   ],
   "collections": [],
   "is_curated": true,

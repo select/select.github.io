@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-goldbrick-1943",
+      "id": "the-goldbrick-1943",
       "title": "The Goldbrick (1943)",
       "description": "The Goldbrick is a 1943 Private Snafu short directed by Frank Tashlin. Watch on RetroFlix.org:  https://retroflix.org/the-goldbrick-1943/",
       "fileSize": 10444034,
-      "id": "the-goldbrick-1943"
+      "addedAt": "2026-01-07T00:11:57.688Z",
+      "thumbnail": "https://archive.org/services/img/the-goldbrick-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 147
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036271",
-      "title": "Porky Pig's Feat",
-      "year": 1943,
-      "imdbRating": 7.7,
-      "imdbVotes": 1027,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036282",
-      "title": "Puss n' Booty",
-      "year": 1943,
-      "imdbRating": 7.2,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036334",
-      "title": "Scrap Happy Daffy",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 638,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154604",
-      "title": "The Home Front",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154300",
-      "title": "Censored",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 357,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148180",
-      "title": "The Fox and the Grapes",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030602",
-      "title": "Porky at the Crocadero",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030605",
-      "title": "Porky the Fireman",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029424",
-      "title": "Porky's Building",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029425",
-      "title": "Porky's Double Trouble",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029429",
-      "title": "Porky's Railroad",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 605,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030613",
-      "title": "Porky's Spring Planting",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036271",
+    "tt0036282",
+    "tt0036334",
+    "tt0154604",
+    "tt0154300",
+    "tt0148180",
+    "tt0030602",
+    "tt0030605",
+    "tt0029424",
+    "tt0029425",
+    "tt0029429",
+    "tt0030613"
   ],
   "collections": [],
   "is_curated": true,

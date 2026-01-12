@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/capricious-summer",
+      "id": "capricious-summer",
       "title": "Capricious Summer",
       "description": "Two years after his worldwide hit  Closely Watched Trains,  Jiří Menzel directed this amusing idyll about three middle-aged men whose mellow summer is interrupted by the arrival of a circus performer and his beautiful assistant. A meditation on aging and sex, shot in warm, sun-dappled color,  Capricious Summer  is one of the New Wave’s loveliest reveries.",
       "fileSize": 6295418456,
-      "id": "capricious-summer"
+      "addedAt": "2026-01-07T00:07:45.166Z",
+      "thumbnail": "https://archive.org/services/img/capricious-summer",
+      "language": "cze",
+      "year": 1968,
+      "collection": "feature_films",
+      "downloads": 4999
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0060802",
-      "title": "Closely Watched Trains",
-      "year": 1966,
-      "imdbRating": 7.6,
-      "imdbVotes": 14604,
-      "language": "Czech, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204202",
-      "title": "Ché OVNI",
-      "year": 1968,
-      "imdbRating": 4.9,
-      "imdbVotes": 27,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194759",
-      "title": "Coche cama alojamiento",
-      "year": 1968,
-      "imdbRating": 8.6,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062861",
-      "title": "Danger: Diabolik",
-      "year": 1968,
-      "imdbRating": 6.5,
-      "imdbVotes": 7461,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194801",
-      "title": "El derecho a la felicidad",
-      "year": 1968,
-      "imdbRating": 3,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062994",
-      "title": "Funny Girl",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 26170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063186",
-      "title": "Kill!",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 3216,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194739",
-      "title": "La casa de Madame Lulù",
-      "year": 1968,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0290100",
-      "title": "Vienna",
-      "year": 1968,
-      "imdbRating": 5.7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0062825",
-      "title": "Run, Man, Run",
-      "year": 1968,
-      "imdbRating": 6.8,
-      "imdbVotes": 2066,
-      "language": "Italian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0152097",
-      "title": "Psexoanálisis",
-      "year": 1968,
-      "imdbRating": 5.6,
-      "imdbVotes": 27,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063415",
-      "title": "The Party",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 45770,
-      "language": "English, Italian, Russian, French, Cantonese",
-      "sourceType": "archive.org"
-    }
+    "tt0060802",
+    "tt0204202",
+    "tt0194759",
+    "tt0062861",
+    "tt0194801",
+    "tt0062994",
+    "tt0063186",
+    "tt0194739",
+    "tt0290100",
+    "tt0062825",
+    "tt0152097",
+    "tt0063415"
   ],
   "collections": [],
   "is_curated": true,

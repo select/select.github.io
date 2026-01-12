@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MajorBarbara",
+      "id": "MajorBarbara",
       "title": "Major Barbara",
       "description": "Title: Major Barbara Summary: A young and idealistic woman, who has adopted the Salvation Army and whose father is an armament industrialist, will save more souls directing her father's business. A comedy with social commentary. Directed by: Gabriel Pascal, Harold French, David Lean Actors: Production Company: Gabriel Pascal Productions Release Date: 2 August 1941 (UK) Aspect Ratio: 1.37 : 1 A young and idealistic woman, who has adopted the Salvation Army and whose father is an armament industrialist, will save more souls directing her father's business. A comedy with social commentary.",
       "fileSize": 885236947,
-      "id": "MajorBarbara"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/MajorBarbara",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 2431
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033613",
-      "title": "Flying Wild",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 538,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0033871",
-      "title": "A Man Betrayed",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033323",
-      "title": "All-American Co-Ed",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 408,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033435",
-      "title": "Broadway Limited",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 389,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033510",
-      "title": "Dangerous Lady",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159435",
-      "title": "Familienanschluß",
-      "year": 1941,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033721",
-      "title": "Hochzeitsnacht",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033878",
-      "title": "Immer nur Du",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033797",
-      "title": "Krach im Vorderhaus",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033831",
-      "title": "Liebe ist zollfrei",
-      "year": 1941,
-      "imdbRating": 6.6,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0033891",
+    "tt0033613",
+    "tt0033871",
+    "tt0033323",
+    "tt0033435",
+    "tt0033510",
+    "tt0159435",
+    "tt0033632",
+    "tt0033721",
+    "tt0033878",
+    "tt0033797",
+    "tt0033831"
   ],
   "collections": [],
   "is_curated": true,

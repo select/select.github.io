@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/white-gold_1927",
+      "id": "white-gold_1927",
       "title": "White Gold",
       "fileSize": 2013507852,
-      "id": "white-gold_1927"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/white-gold_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 1240
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020543",
-      "title": "The Valiant",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 550,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018199",
-      "title": "Nevada",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 132,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018204",
-      "title": "No Man's Law",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018654",
-      "title": "Arizona Days",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020018",
-      "title": "In Old Arizona",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 1415,
-      "language": "English, Spanish, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018396",
-      "title": "Should Tall Men Marry?",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0158043",
-      "title": "The Old Oregon Trail",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019268",
-      "title": "The Phantom City",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016534",
-      "title": "Wild Horse Mesa",
-      "year": 1925,
-      "imdbRating": 6.7,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015863",
-      "title": "Go West",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 5301,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019976",
-      "title": "Hell's Heroes",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 946,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0020543",
+    "tt0018199",
+    "tt0018204",
+    "tt0017463",
+    "tt0018654",
+    "tt0020018",
+    "tt0018396",
+    "tt0158043",
+    "tt0019268",
+    "tt0016534",
+    "tt0015863",
+    "tt0019976"
   ],
   "collections": [
     {

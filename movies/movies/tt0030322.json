@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/king-of-alcatraz-1938",
+      "id": "king-of-alcatraz-1938",
       "title": "King Of Alcatraz (1938)",
       "description": "Gail Patrick, Lloyd Nolan, J. Carroll Naish, Robert Preston, Antony Quinn, Richard Denning Directed by Robert Florey",
       "fileSize": 947523764,
-      "id": "king-of-alcatraz-1938"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/king-of-alcatraz-1938",
+      "collection": "feature_films",
+      "downloads": 1410
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030039",
-      "title": "Dangerous to Know",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 266,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031232",
-      "title": "Disbarred",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030473",
-      "title": "Mr. Wong, Detective",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 1262,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030763",
-      "title": "Slander House",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033582",
-      "title": "The Face Behind the Mask",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031680",
-      "title": "Mr. Wong in Chinatown",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0128844",
-      "title": "Windjammer",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034959",
-      "title": "Lady Gangster",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 846,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0028136",
-      "title": "The Preview Murder Mystery",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0030039",
+    "tt0031232",
+    "tt0028770",
+    "tt0030037",
+    "tt0030473",
+    "tt0030763",
+    "tt0033582",
+    "tt0031505",
+    "tt0031680",
+    "tt0128844",
+    "tt0034959",
+    "tt0028136"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-sherlock-holmes",
+      "id": "silent-sherlock-holmes",
       "title": "Sherlock Holmes",
       "fileSize": 36010550708,
-      "id": "silent-sherlock-holmes"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-sherlock-holmes",
+      "language": "English",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 1598
     }
   ],
   "metadata": {
@@ -26,116 +32,25 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
+    "tt0010103",
+    "tt0011904",
+    "tt0011907",
+    "tt0293777",
+    "tt0012651",
+    "tt0012775",
+    "tt0015313",
+    "tt0026610",
+    "tt0328815",
+    "tt0018113",
+    "tt0013458",
+    "tt0026939"
+  ],
+  "collections": [
     {
-      "imdbId": "tt0010103",
-      "title": "Eyes of Youth",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011907",
-      "title": "The Adventures of Sherlock Holmes",
-      "year": 1921,
-      "imdbRating": 4.3,
-      "imdbVotes": 16,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0293777",
-      "title": "Le brasier ardent",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 353,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012651",
-      "title": "The Haunted Castle",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 2022,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012775",
-      "title": "Trailin'",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015313",
-      "title": "Secrets of the Night",
-      "year": 1924,
-      "imdbRating": 6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026610",
-      "title": "Late Extra",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328815",
-      "title": "After Dark",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018113",
-      "title": "The Love of Sunya",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 825,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013458",
-      "title": "One Exciting Night",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026939",
-      "title": "The Riverside Murder",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 350,
-      "language": "English",
-      "sourceType": "archive.org"
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
     }
   ],
-  "collections": [],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:11:15.973Z"

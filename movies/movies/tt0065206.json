@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/what-ever-happened-to-aunt-alice-1969",
+      "id": "what-ever-happened-to-aunt-alice-1969",
       "title": "What Ever Happened To Aunt Alice?( 1969)",
       "description": "An aging widow hides a deadly secret which she will do anything to keep buried.",
       "fileSize": 962484233,
-      "id": "what-ever-happened-to-aunt-alice-1969"
+      "addedAt": "2026-01-07T00:13:06.702Z",
+      "thumbnail": "https://archive.org/services/img/what-ever-happened-to-aunt-alice-1969",
+      "language": "eng",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 4351
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0067850",
-      "title": "This Stuff'll Kill Ya!",
-      "year": 1971,
-      "imdbRating": 3.8,
-      "imdbVotes": 392,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0124012",
-      "title": "Morgiana",
-      "year": 1972,
-      "imdbRating": 7.2,
-      "imdbVotes": 1659,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063522",
-      "title": "Rosemary's Baby",
-      "year": 1968,
-      "imdbRating": 8,
-      "imdbVotes": 250536,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122722",
-      "title": "So Sad About Gloria",
-      "year": 1973,
-      "imdbRating": 4.8,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070270",
-      "title": "The Killing Kind",
-      "year": 1973,
-      "imdbRating": 6.1,
-      "imdbVotes": 1334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073537",
-      "title": "Double Exposure",
-      "year": 1982,
-      "imdbRating": 4.9,
-      "imdbVotes": 830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037761",
-      "title": "Hangover Square",
-      "year": 1945,
-      "imdbRating": 7.4,
-      "imdbVotes": 4226,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033760",
-      "title": "Invisible Ghost",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 2719,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065179",
-      "title": "Life Love Death",
-      "year": 1969,
-      "imdbRating": 7,
-      "imdbVotes": 161,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023247",
-      "title": "Murder at Dawn",
-      "year": 1932,
-      "imdbRating": 4.3,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038259",
-      "title": "The Woman in Green",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 7376,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0067850",
+    "tt0124012",
+    "tt0063522",
+    "tt0122722",
+    "tt0070270",
+    "tt0073537",
+    "tt0021820",
+    "tt0037761",
+    "tt0033760",
+    "tt0065179",
+    "tt0023247",
+    "tt0038259"
   ],
   "collections": [],
   "is_curated": true,

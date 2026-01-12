@@ -6,19 +6,28 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=wv-X8o2gsg4",
+      "id": "wv-X8o2gsg4",
       "title": "Murder in Harlem (1935) OSCAR MICHEAUX",
       "description": "BLACK HISTORY MONTH\nStars: Clarence Brooks, Dorothy Van Engle, Andrew Bishop\nDirectors: Oscar Micheaux , Clarence Williams\n\nA black night watchman at a chemical factory finds the body of a murdered white woman. After he reports it, he finds himself accused of the murder.",
-      "id": "wv-X8o2gsg4",
+      "addedAt": "2025-12-26T23:47:19.595Z",
+      "thumbnail": "https://i.ytimg.com/vi/wv-X8o2gsg4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB7gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA5_NguS7tMHpIumtzly7fvVtqB3g",
+      "duration": 5684,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Murder_in_Harlem",
+      "id": "Murder_in_Harlem",
       "title": "Murder in Harlem",
       "description": "A black night watchman in a chemical factory finds the body of a young white woman in the basement. Blamed for the murder, the man is tried but the real killer is unmasked during the trial. Loosely based upon elements of the Leo Frank murder trial.",
       "fileSize": 1902993791,
-      "id": "Murder_in_Harlem"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/Murder_in_Harlem",
+      "collection": "feature_films",
+      "downloads": 31009
     }
   ],
   "metadata": {
@@ -36,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026230",
-      "title": "Condemned to Live",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026731",
-      "title": "Motive for Revenge",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026759",
-      "title": "Phantom Ship",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 1092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027053",
-      "title": "Streamline Express",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027028",
-      "title": "The Spanish Cape Mystery",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026124",
-      "title": "Black Sheep",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024989",
-      "title": "The Clairvoyant",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 1252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025699",
-      "title": "Randy Rides Alone",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025830",
-      "title": "The Star Packer",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1323,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026230",
+    "tt0026731",
+    "tt0026759",
+    "tt0027053",
+    "tt0027028",
+    "tt0026124",
+    "tt0027845",
+    "tt0024989",
+    "tt0028231",
+    "tt0025699",
+    "tt0027003",
+    "tt0025830"
   ],
   "collections": [],
   "is_curated": true,

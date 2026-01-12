@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/west-of-zanzibar",
+      "id": "west-of-zanzibar",
       "title": "West Of Zanzibar",
       "description": "The story of native tribesmen who move towards Mombasa, getting drawn info the world of ivory smuggling.",
       "fileSize": 7426669610,
-      "id": "west-of-zanzibar"
+      "addedAt": "2026-01-07T00:13:06.702Z",
+      "thumbnail": "https://archive.org/services/img/west-of-zanzibar",
+      "language": "eng",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 1888
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046672",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1954,
-      "imdbRating": 7.2,
-      "imdbVotes": 39080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047365",
-      "title": "Prince Valiant",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 3037,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046692",
-      "title": "Alaska Seas",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046719",
-      "title": "Apache",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 5298,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046808",
-      "title": "Broken Lance",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 4472,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047013",
-      "title": "Garden of Evil",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 4159,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046951",
-      "title": "Elephant Walk",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 2784,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047073",
-      "title": "Hell and High Water",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 2417,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047376",
-      "title": "The Purple Plain",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 2524,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047647",
-      "title": "Vera Cruz",
-      "year": 1954,
-      "imdbRating": 7,
-      "imdbVotes": 12340,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047213",
-      "title": "They Were So Young",
-      "year": 1954,
-      "imdbRating": 5.5,
-      "imdbVotes": 220,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0047470",
-      "title": "Serpent Island",
-      "year": 1954,
-      "imdbRating": 3.3,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0046672",
+    "tt0047365",
+    "tt0046692",
+    "tt0046719",
+    "tt0046808",
+    "tt0047013",
+    "tt0046951",
+    "tt0047073",
+    "tt0047376",
+    "tt0047647",
+    "tt0047213",
+    "tt0047470"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-lonedale-operator",
+      "id": "silent-the-lonedale-operator",
       "title": "The Lonedale Operator",
       "fileSize": 492920327,
-      "id": "silent-the-lonedale-operator"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-lonedale-operator",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 565
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001459",
-      "title": "Winning Back His Love",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002512",
-      "title": "The Sunbeam",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 412,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001499",
-      "title": "The Battle",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001741",
-      "title": "The Long Road",
-      "year": 1911,
-      "imdbRating": 4.4,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001769",
-      "title": "The Making of a Man",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001118",
-      "title": "An Arcadian Maid",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 218,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001326",
-      "title": "The Modern Prodigal",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 64,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001371",
+    "tt0002795",
+    "tt0001978",
+    "tt0001459",
+    "tt0002512",
+    "tt0001593",
+    "tt0001753",
+    "tt0001499",
+    "tt0001741",
+    "tt0001118",
+    "tt0001326",
+    "tt0001245"
   ],
   "collections": [],
   "is_curated": true,

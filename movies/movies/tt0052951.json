@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/juke-box-rhythm-1959-",
+      "id": "juke-box-rhythm-1959-",
       "title": "Juke Box Rhythm (1959)",
       "description": "movie",
       "fileSize": 1358832265,
-      "id": "juke-box-rhythm-1959-"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/juke-box-rhythm-1959-",
+      "collection": "feature_films",
+      "downloads": 970
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0130153",
-      "title": "An Old-Fashioned Girl",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038664",
-      "title": "Junior Prom",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3310598",
-      "title": "Murder in Swingtime",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035289",
-      "title": "Sarong Girl",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 68,
-      "language": "Spanish, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14432576",
-      "title": "Moto Perpetuo",
-      "year": 1959,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053640",
-      "title": "The Beatniks",
-      "year": 1958,
-      "imdbRating": 2.5,
-      "imdbVotes": 1124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198537",
-      "title": "La hermosa mentira",
-      "year": 1958,
-      "imdbRating": 6.1,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053726",
-      "title": "Black Tights",
-      "year": 1960,
-      "imdbRating": 5.9,
-      "imdbVotes": 265,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0050842",
-      "title": "The Pied Piper of Hamelin",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 572,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185878",
-      "title": "Amorina",
-      "year": 1961,
-      "imdbRating": 7.7,
-      "imdbVotes": 59,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0127366",
-      "title": "El ángel de España",
-      "year": 1957,
-      "imdbRating": 2.4,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0316847",
-      "title": "Venga a bailar el rock",
-      "year": 1957,
-      "imdbRating": 5.8,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0130153",
+    "tt0038664",
+    "tt3310598",
+    "tt0035289",
+    "tt14432576",
+    "tt0053640",
+    "tt0198537",
+    "tt0053726",
+    "tt0050842",
+    "tt0185878",
+    "tt0127366",
+    "tt0316847"
   ],
   "collections": [],
   "is_curated": true,

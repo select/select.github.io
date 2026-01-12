@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/strange-case-of-dr.-meade-1938",
+      "id": "strange-case-of-dr.-meade-1938",
       "title": "Strange Case Of Dr. Meade (1938)",
       "description": "Jack Holt",
       "fileSize": 1008366800,
-      "id": "strange-case-of-dr.-meade-1938"
+      "addedAt": "2026-01-07T00:11:35.629Z",
+      "thumbnail": "https://archive.org/services/img/strange-case-of-dr.-meade-1938",
+      "collection": "feature_films",
+      "downloads": 1473
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030005",
-      "title": "Come on, Leathernecks!",
-      "year": 1938,
-      "imdbRating": 5.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030274",
-      "title": "International Settlement",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033216",
-      "title": "Vengeance of the Deep",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030140",
-      "title": "Flight Into Nowhere",
-      "year": 1938,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031082",
-      "title": "Barricade",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 158,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029168",
-      "title": "Love Takes Flight",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0033297",
-      "title": "Zwischen Hamburg und Haiti",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032392",
-      "title": "The Devil's Pipeline",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028396",
-      "title": "Too Much Beef",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033159",
-      "title": "Three Faces West",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1001,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029961",
-      "title": "Call of the Yukon",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026083",
-      "title": "Artisten",
-      "year": 1935,
-      "imdbRating": 2.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0030005",
+    "tt0030274",
+    "tt0033216",
+    "tt0030140",
+    "tt0031082",
+    "tt0029168",
+    "tt0033297",
+    "tt0032392",
+    "tt0028396",
+    "tt0033159",
+    "tt0029961",
+    "tt0026083"
   ],
   "collections": [],
   "is_curated": true,

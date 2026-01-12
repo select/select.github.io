@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/champagne_1928",
+      "id": "champagne_1928",
       "title": "Champagne",
       "fileSize": 9438147274,
-      "id": "champagne_1928"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/champagne_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1328
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019702",
-      "title": "Blackmail",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 12379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017843",
-      "title": "Easy Virtue",
-      "year": 1927,
-      "imdbRating": 5.4,
-      "imdbVotes": 3119,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020142",
-      "title": "The Manxman",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 3461,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017075",
-      "title": "The Lodger: A Story of the London Fog",
-      "year": 1927,
-      "imdbRating": 7.3,
-      "imdbVotes": 14371,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019412",
-      "title": "Speedy",
-      "year": 1928,
-      "imdbRating": 7.6,
-      "imdbVotes": 4381,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018742",
-      "title": "The Cameraman",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 13471,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018937",
-      "title": "A Girl in Every Port",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 864,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019057",
-      "title": "A Knight in London",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018710",
-      "title": "A Blonde for a Night",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019702",
+    "tt0017843",
+    "tt0020142",
+    "tt0017075",
+    "tt0019412",
+    "tt0019421",
+    "tt0018742",
+    "tt1893190",
+    "tt0018937",
+    "tt0019057",
+    "tt0019067",
+    "tt0018710"
   ],
   "collections": [
     {

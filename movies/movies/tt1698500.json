@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/english-as-she-is-not-spoken_1928",
+      "id": "english-as-she-is-not-spoken_1928",
       "title": "English as She Is Not Spoken",
       "fileSize": 490169466,
-      "id": "english-as-she-is-not-spoken_1928"
+      "addedAt": "2026-01-07T00:08:24.392Z",
+      "thumbnail": "https://archive.org/services/img/english-as-she-is-not-spoken_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 129
     }
   ],
   "metadata": {
@@ -26,107 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1706329",
-      "title": "Cut Yourself a Piece of Cake",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1053360",
-      "title": "Gus Van and Joe Schenck",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759722",
-      "title": "The Stage Hands",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1876490",
-      "title": "The Ham What Am",
-      "year": 1928,
-      "imdbRating": 5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1144513",
-      "title": "When East Meets West",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430596",
-      "title": "At the Seashore",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367593",
-      "title": "Character Studies",
-      "year": 1927,
-      "imdbRating": 6.5,
-      "imdbVotes": 275,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3663322",
-      "title": "An Everyday Occurence",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147118",
-      "title": "One Man Dog",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1706329",
+    "tt1893190",
+    "tt1053360",
+    "tt0759722",
+    "tt1876490",
+    "tt1144513",
+    "tt0312544",
+    "tt0430596",
+    "tt0367593",
+    "tt0146584",
+    "tt3663322",
+    "tt0147118"
   ],
   "collections": [],
   "is_curated": true,

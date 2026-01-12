@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheWrongTrainOrder",
+      "id": "TheWrongTrainOrder",
       "title": "\"The Wrong Train Order\" (1915) starring Helen Gibson",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   We have included this film in our program to illustrate the work and contributions of our star Helen Gibson. Let's all give our thanks to Larry Telles for making this film available to the public. Larry authored a book on the life of Helen Gibson. \"The Wrong Train Order\" is a short action drama from a serial by the name of \"The Hazards of Helen\", featuring Helen Gibson. This is episode 58 from a total of 119 weekly one reel films produced by Kalem, showing just how popular this serial was in 1914-1917. The first 48 films starred Helen Holmes, the remaining 71 starred Helen Gibson. They both played heroines that were independent and adventurous, resolving dangerous situations with quick thinking. Their acting was very physical and they performed their often very dangerous stunts. It is believed to be the longest film series in the silent era and one of the longest ever. The film is directed by James Davis from a story by Edward T. Matlack. In this episode everything goes wrong. Helen ends up on the rear observation deck of a runaway express train with the door to the inside closed, with the air-brake of the engine damaged, the engine itself full of steam and inaccessible, and the train speeding ahead on the wrong track. Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 251039858,
-      "id": "TheWrongTrainOrder"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/TheWrongTrainOrder",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 2210
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-wrong-train-order",
+      "id": "silent-the-wrong-train-order",
       "title": "The Wrong Train Order",
       "fileSize": 238824802,
-      "id": "silent-the-wrong-train-order"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-wrong-train-order",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 336
     }
   ],
   "metadata": {
@@ -34,113 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1534533",
-      "title": "The Open Track",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1534525",
-      "title": "The Governor's Special",
-      "year": 1916,
-      "imdbRating": 6.6,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1488156",
-      "title": "The Wild Engine",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 92,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1487926",
-      "title": "In Danger's Path",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1316458",
-      "title": "The Escape on the Fast Freight",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 81,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1316468",
-      "title": "The Leap from the Water Tower",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1488145",
-      "title": "The Pay Train",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0319903",
-      "title": "The Mystery of Dead Man's Isle",
-      "year": 1915,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0437960",
-      "title": "Les dents de fer",
-      "year": 1913,
-      "imdbRating": 6.8,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002208",
-      "title": "The Girl and Her Trust",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 1279,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002553",
-      "title": "An Unseen Enemy",
-      "year": 1912,
-      "imdbRating": 6.5,
-      "imdbVotes": 1005,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005482",
-      "title": "The Hidden City",
-      "year": 1915,
-      "imdbRating": 4.8,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1534533",
+    "tt1534525",
+    "tt1488156",
+    "tt1487926",
+    "tt1316458",
+    "tt1316468",
+    "tt1488145",
+    "tt0319903",
+    "tt0437960",
+    "tt0002208",
+    "tt0002553",
+    "tt0005482"
   ],
   "collections": [],
   "is_curated": true,

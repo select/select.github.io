@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_922",
+      "id": "rog56_mail_922",
       "title": "922",
       "description": "922",
       "fileSize": 2766798107,
-      "id": "rog56_mail_922"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_922",
+      "collection": "feature_films",
+      "downloads": 1186
     }
   ],
   "metadata": {
@@ -26,116 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3457988",
-      "title": "Ein blinder Held - Die Liebe des Otto Weidt",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 75,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4327424",
-      "title": "William the Conqueror",
-      "year": 2014,
-      "imdbRating": 6.9,
-      "imdbVotes": 27,
-      "language": "French, Latin, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3457782",
-      "title": "China the Dragon Smith the Second Chance",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2205904",
-      "title": "Generation Iron",
-      "year": 2013,
-      "imdbRating": 7,
-      "imdbVotes": 8131,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt2191400",
-      "title": "Sex, Drugs & Taxation",
-      "year": 2013,
-      "imdbRating": 6.5,
-      "imdbVotes": 2436,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2387513",
-      "title": "The Liberator",
-      "year": 2013,
-      "imdbRating": 6.7,
-      "imdbVotes": 5624,
-      "language": "Spanish, English, French",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2217458",
-      "title": "Reaching for the Moon",
-      "year": 2013,
-      "imdbRating": 7,
-      "imdbVotes": 3624,
-      "language": "English, Portuguese",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt1972567",
-      "title": "217",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt2212658",
-      "title": "Abducted: The Carlina White Story",
-      "year": 2012,
-      "imdbRating": 6.6,
-      "imdbVotes": 1343,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2557276",
-      "title": "Against the Sun",
-      "year": 2014,
-      "imdbRating": 6.5,
-      "imdbVotes": 6827,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt3457988",
+    "tt4327424",
+    "tt4189440",
+    "tt3457782",
+    "tt2205904",
+    "tt2191400",
+    "tt2387513",
+    "tt2217458",
+    "tt1972567",
+    "tt1441953",
+    "tt2212658",
+    "tt2557276"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/at-the-circus-1944",
+      "id": "at-the-circus-1944",
       "title": "At the Circus (1944)",
       "description": "Some happy mice are listening to an old radio program that features their hero, Mighty Mouse! Watch on RetroFlix:  https://retroflix.org/at-the-circus-1944/",
       "fileSize": 35364496,
-      "id": "at-the-circus-1944"
+      "addedAt": "2026-01-07T00:07:31.711Z",
+      "thumbnail": "https://archive.org/services/img/at-the-circus-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 111
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150279",
-      "title": "A Day in June",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150293",
-      "title": "Dear Old Switzerland",
-      "year": 1944,
-      "imdbRating": 4.4,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037108",
-      "title": "My Boy Johnny",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150785",
-      "title": "The Green Line",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150879",
-      "title": "The Helicopter",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153363",
-      "title": "The Two Barbers",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151565",
-      "title": "Mighty Mouse and the Wolf",
-      "year": 1945,
-      "imdbRating": 6.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152406",
-      "title": "Shipyard Symphony",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147188",
-      "title": "The Port of Missing Mice",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152445",
-      "title": "The Silver Streak",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153985",
-      "title": "Yokel Ducks Makes Good",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149801",
-      "title": "Barnyard Waac",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150279",
+    "tt0150293",
+    "tt0037108",
+    "tt0150785",
+    "tt0150879",
+    "tt0153363",
+    "tt0151565",
+    "tt0152406",
+    "tt0147188",
+    "tt0152445",
+    "tt0153985",
+    "tt0149801"
   ],
   "collections": [],
   "is_curated": true,

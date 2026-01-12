@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nancy-drew-trouble-shooter",
+      "id": "nancy-drew-trouble-shooter",
       "title": "Nancy Drew Trouble Shooter",
       "description": "Bonita Granville, John Litel",
       "fileSize": 1191509912,
-      "id": "nancy-drew-trouble-shooter"
+      "addedAt": "2026-01-07T00:10:02.896Z",
+      "thumbnail": "https://archive.org/services/img/nancy-drew-trouble-shooter",
+      "collection": "feature_films",
+      "downloads": 3000
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031709",
-      "title": "Nancy Drew... Reporter",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 1492,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030491",
-      "title": "Nancy Drew: Detective",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 1174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031221",
-      "title": "Death of a Champion",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031389",
-      "title": "The Gracie Allen Murder Case",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035126",
-      "title": "Night in New Orleans",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030857",
-      "title": "There's Always a Woman",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 992,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032017",
-      "title": "There's That Woman Again",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033926",
-      "title": "Mr. and Mrs. North",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 386,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035758",
-      "title": "Cosmo Jones in the Crime Smasher",
-      "year": 1943,
-      "imdbRating": 4.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0031709",
+    "tt0030491",
+    "tt0031221",
+    "tt0031389",
+    "tt0035126",
+    "tt0030857",
+    "tt0032017",
+    "tt0027807",
+    "tt0033926",
+    "tt0035758",
+    "tt0039645",
+    "tt0037960"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FiveMinutestoLove",
+      "id": "FiveMinutestoLove",
       "title": "Five Minutes To Love",
       "description": "Ben, Edna and their baby daughter (Will Gregory, Gaye Gordon, Geraldine Leder) are headed to California when their car breaks down. Ben ventures off to the junkyard in search of a spare part to fix his car. Coincidentally, Harry (Paul Leder) the seedy junkyard owner has just been accused by the police of selling stolen auto parts, and claims that he gets his cars from someone else. Ben wanders into the junkyard just in time for Harry to frame him and use him as a scapegoat. When Ben doesn't return after quite a while, Edna goes looking for him. She is then chased around the junkyard by Harry's odd, dim-witted friend Blowhard (King Moody).",
       "fileSize": 1899668510,
-      "id": "FiveMinutestoLove"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FiveMinutestoLove",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 21900
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0155166",
-      "title": "Shell Shock",
-      "year": 1964,
-      "imdbRating": 4.5,
-      "imdbVotes": 78,
-      "language": "English, Italian, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0057415",
-      "title": "A Place to Go",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056810",
-      "title": "Act One",
-      "year": 1963,
-      "imdbRating": 6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178515",
-      "title": "Hercules and the Masked Rider",
-      "year": 1963,
-      "imdbRating": 4.3,
-      "imdbVotes": 188,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057207",
-      "title": "Judex",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 3146,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12658952",
-      "title": "Town of the Times",
-      "year": 1963,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056656",
-      "title": "The Very Edge",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056937",
-      "title": "Cleopatra",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 40253,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0315164",
-      "title": "Allá donde el viento brama",
-      "year": 1963,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184086",
-      "title": "El último montonero",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057565",
-      "title": "High and Low",
-      "year": 1963,
-      "imdbRating": 8.4,
-      "imdbVotes": 62377,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057225",
-      "title": "Kings of the Sun",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 2338,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0155166",
+    "tt0057415",
+    "tt0056810",
+    "tt0178515",
+    "tt0057207",
+    "tt12658952",
+    "tt0056656",
+    "tt0056937",
+    "tt0315164",
+    "tt0184086",
+    "tt0057565",
+    "tt0057225"
   ],
   "collections": [],
   "is_curated": true,

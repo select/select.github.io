@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-midnight-taxi_1929",
+      "id": "the-midnight-taxi_1929",
       "title": "The Midnight Taxi",
       "fileSize": 2729381698,
-      "id": "the-midnight-taxi_1929"
+      "addedAt": "2026-01-07T00:12:22.154Z",
+      "thumbnail": "https://archive.org/services/img/the-midnight-taxi_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 255
     }
   ],
   "metadata": {
@@ -26,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023537",
-      "title": "A Successful Calamity",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019096",
-      "title": "Lights of New York",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020446",
-      "title": "The Squall",
-      "year": 1929,
-      "imdbRating": 4.7,
-      "imdbVotes": 463,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019699",
-      "title": "The Black Watch",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 494,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020403",
-      "title": "Show of Shows",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 460,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018697",
-      "title": "The Big City",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018839",
-      "title": "The Docks of New York",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 5224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019043",
-      "title": "Crossroads",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 470,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018770",
-      "title": "The Fall of the House of Usher",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 4830,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018217",
-      "title": "October (Ten Days that Shook the World)",
-      "year": 1928,
-      "imdbRating": 7.4,
-      "imdbVotes": 8595,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019332",
-      "title": "The Road to Ruin",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0023537",
+    "tt0019096",
+    "tt0020446",
+    "tt0019699",
+    "tt0020403",
+    "tt0018839",
+    "tt0019043",
+    "tt0018770",
+    "tt0018972",
+    "tt0018217",
+    "tt0019332",
+    "tt0019421"
   ],
   "collections": [],
   "is_curated": true,

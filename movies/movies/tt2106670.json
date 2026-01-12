@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheTasteOfMoney2012",
+      "id": "TheTasteOfMoney2012",
       "title": "The Taste of Money (2012)",
       "description": "The Taste of Money (2012)",
       "fileSize": 29708613,
-      "id": "TheTasteOfMoney2012"
+      "addedAt": "2026-01-07T00:07:05.037Z",
+      "thumbnail": "https://archive.org/services/img/TheTasteOfMoney2012",
+      "collection": "feature_films",
+      "downloads": 13685
     }
   ],
   "metadata": {
@@ -27,120 +31,18 @@
     "Awards": "1 win & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1314652",
-      "title": "The Housemaid",
-      "year": 2010,
-      "imdbRating": 6.4,
-      "imdbVotes": 13894,
-      "language": "Korean, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2299842",
-      "title": "Pieta",
-      "year": 2012,
-      "imdbRating": 7.1,
-      "imdbVotes": 16149,
-      "language": "Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1866919",
-      "title": "Ashes",
-      "year": 2012,
-      "imdbRating": 5.5,
-      "imdbVotes": 706,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1719068",
-      "title": "Dark Tourist",
-      "year": 2012,
-      "imdbRating": 5,
-      "imdbVotes": 1212,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1935104",
-      "title": "Darkest Night",
-      "year": 2012,
-      "imdbRating": 2.9,
-      "imdbVotes": 289,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2124162",
-      "title": "Decision of Faith",
-      "year": 2012,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2062559",
-      "title": "Invader",
-      "year": 2012,
-      "imdbRating": 5.6,
-      "imdbVotes": 965,
-      "language": "Spanish, Arabic, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2124926",
-      "title": "The Aviation Cocktail",
-      "year": 2012,
-      "imdbRating": 4.6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2343761",
-      "title": "The Henchman's War",
-      "year": 2012,
-      "imdbRating": 6,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2465246",
-      "title": "Worth: The Testimony of Johnny St. James",
-      "year": 2012,
-      "imdbRating": 6.2,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2063011",
-      "title": "The Viral Factor",
-      "year": 2012,
-      "imdbRating": 5.9,
-      "imdbVotes": 2804,
-      "language": "Mandarin, Cantonese, English, Arabic, Malay",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2535950",
-      "title": "Riot",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    }
+    "tt1314652",
+    "tt2299842",
+    "tt1866919",
+    "tt1719068",
+    "tt1935104",
+    "tt2124162",
+    "tt2062559",
+    "tt2124926",
+    "tt2343761",
+    "tt2465246",
+    "tt2063011",
+    "tt2535950"
   ],
   "collections": [],
   "is_curated": true,

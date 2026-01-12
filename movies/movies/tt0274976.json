@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tony-sargs-marionettes-in-the-orient_1929",
+      "id": "tony-sargs-marionettes-in-the-orient_1929",
       "title": "Tony Sarg's Marionettes in the Orient",
       "fileSize": 703991008,
-      "id": "tony-sargs-marionettes-in-the-orient_1929"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tony-sargs-marionettes-in-the-orient_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 712
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1503085",
-      "title": "A Musicale Melange",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017896",
-      "title": "A Ziegfeld Midnight Frolic",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019701",
-      "title": "Black and Tan",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 626,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698489",
-      "title": "Carlena Diamond: Harpist Supreme",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021996",
-      "title": "In My Merry Oldsmobile",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 189,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1492912",
-      "title": "Jack White with the Montrealers",
-      "year": 1929,
-      "imdbRating": 3.7,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229549",
-      "title": "Makers of Melody",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698547",
-      "title": "Oklahoma Bob Albright and His Rodeo Do Flappers",
-      "year": 1929,
-      "imdbRating": 4.7,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894519",
-      "title": "Pack Up Your Troubles",
-      "year": 1929,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706463",
-      "title": "Pigskin Troubles",
-      "year": 1929,
-      "imdbRating": 3.7,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1503085",
+    "tt0017896",
+    "tt1706294",
+    "tt1698474",
+    "tt0019701",
+    "tt1698489",
+    "tt0021996",
+    "tt1492912",
+    "tt0229549",
+    "tt1698547",
+    "tt1894519",
+    "tt1706463"
   ],
   "collections": [],
   "is_curated": true,

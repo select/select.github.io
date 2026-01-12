@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-woman-of-affairs-1928",
+      "id": "a-woman-of-affairs-1928",
       "title": "A Woman Of Affairs (1928)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. This Greta Garbo picture was nominated for best writing at the 2nd Academy Awards, though the writing process in particular seems to have been fraught. The story of the film had been sanitized for contemporary sensibilities, removing all mentions of homosexuality, heroin use and syphilis that were present in the novel. The picture was a critical and box office success on release, so it probably felt like a wise decision to the producers in retrospect. ",
       "fileSize": 3731560907,
-      "id": "a-woman-of-affairs-1928"
+      "addedAt": "2026-01-07T00:07:18.438Z",
+      "thumbnail": "https://archive.org/services/img/a-woman-of-affairs-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 74
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-woman-of-affairs_1928",
+      "id": "a-woman-of-affairs_1928",
       "title": "A Woman of Affairs",
       "fileSize": 3797089765,
-      "id": "a-woman-of-affairs_1928"
+      "addedAt": "2026-01-07T00:07:18.438Z",
+      "thumbnail": "https://archive.org/services/img/a-woman-of-affairs_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1886
     }
   ],
   "metadata": {
@@ -34,114 +46,18 @@
     "Awards": "Nominated for 1 Oscar. 2 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019489",
-      "title": "The Trail of '98",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020210",
-      "title": "Navy Blues",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 568,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020589",
-      "title": "Wild Orchids",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 756,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015331",
-      "title": "The Signal Tower",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 120,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018836",
-      "title": "The Divine Woman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045039",
-      "title": "Plymouth Adventure",
-      "year": 1952,
-      "imdbRating": 6.2,
-      "imdbVotes": 1679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018795",
-      "title": "The Cossacks",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019195",
-      "title": "The Mysterious Lady",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1480,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031835",
-      "title": "The Rains Came",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 2404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019811",
-      "title": "Desert Nights",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020126",
-      "title": "Madame X",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018138",
-      "title": "Man, Woman and Sin",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 392,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0019489",
+    "tt0020210",
+    "tt0020589",
+    "tt0015331",
+    "tt0018836",
+    "tt0045039",
+    "tt0018795",
+    "tt0019195",
+    "tt0031835",
+    "tt0019811",
+    "tt0020126",
+    "tt0018138"
   ],
   "collections": [],
   "is_curated": true,

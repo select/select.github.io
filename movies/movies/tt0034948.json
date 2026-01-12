@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/klondike-fury",
+      "id": "klondike-fury",
       "title": "Klondike Fury (1942)",
       "description": "Edmund Lowe, Lucille Fairbanks",
       "fileSize": 1071669386,
-      "id": "klondike-fury"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/klondike-fury",
+      "collection": "feature_films",
+      "downloads": 345
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=j0ZYy5dClZ0",
+      "id": "j0ZYy5dClZ0",
       "title": "Klondike Fury (1942) EDMUND LOWE ♥ LUCILE FAIRBANKS",
       "description": "PizzaFLIX Presents CLASSIC MOVIE MONDAY\nStars: Edmund Lowe, Lucile Fairbanks, Ralph Morgan, Cyclone the Dog\nDirector: William K. Howard\nMusic Score: Edward Kay\n\nA disgraced neurosurgeon flees to Alaska, where his plane crashes in the frozen wilderness.\n\nTRIVIA: Lucile Fairbanks had a 1/2 dozen credited roles beginning in 1940 before saying goodbye to Hollywood after Klondike Fury. The actress was the daughter of Robert Payne Fairbanks, and the niece of actor Douglas Fairbanks, Sr.",
-      "id": "j0ZYy5dClZ0",
+      "addedAt": "2025-12-24T01:07:37.641Z",
+      "thumbnail": "https://i.ytimg.com/vi/j0ZYy5dClZ0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANKhZSzBvPRll3i8D-fzr_yYNeoQ",
+      "duration": 4106,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +45,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034428",
-      "title": "Across the Pacific",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 5563,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036164",
-      "title": "Miss V from Moscow",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034577",
-      "title": "Captain Midnight",
-      "year": 1942,
-      "imdbRating": 6.6,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035372",
-      "title": "Spy Smasher",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035532",
-      "title": "War Dogs",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034405",
-      "title": "A Yank in the RAF",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 1601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036046",
-      "title": "Isle of Forgotten Sins",
-      "year": 1943,
-      "imdbRating": 4.6,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036241",
-      "title": "The Outlaw",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 5139,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Public Domain Movies - Classic Old Movies"
-    },
-    {
-      "imdbId": "tt0036262",
-      "title": "The Phantom",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 471,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036400",
-      "title": "Sanshiro Sugata",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 6102,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032642",
-      "title": "Isle of Destiny",
-      "year": 1940,
-      "imdbRating": 4.7,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034428",
+    "tt0036164",
+    "tt0034572",
+    "tt0034577",
+    "tt0035372",
+    "tt0035532",
+    "tt0034405",
+    "tt0036046",
+    "tt0036241",
+    "tt0036262",
+    "tt0036400",
+    "tt0032642"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-mad-ghoul.-1943",
+      "id": "the-mad-ghoul.-1943",
       "title": "The Mad Ghoul (1943)",
       "description": "1943",
       "fileSize": 2251010434,
-      "id": "the-mad-ghoul.-1943"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-mad-ghoul.-1943",
+      "collection": "feature_films",
+      "downloads": 2491
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036999",
-      "title": "The Lady and the Monster",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034602",
-      "title": "A Close Call for Ellery Queen",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060536",
-      "title": "In the Year 2889",
-      "year": 1969,
-      "imdbRating": 2.9,
-      "imdbVotes": 1211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036307",
-      "title": "Revenge of the Zombies",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 849,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052228",
-      "title": "Space Master X-7",
-      "year": 1958,
-      "imdbRating": 5.2,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035640",
-      "title": "The Ape Man",
-      "year": 1943,
-      "imdbRating": 4.4,
-      "imdbVotes": 1572,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052846",
-      "title": "The Giant Gila Monster",
-      "year": 1959,
-      "imdbRating": 3.7,
-      "imdbVotes": 4520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036104",
-      "title": "The Leopard Man",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 6122,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080354",
-      "title": "Alligator",
-      "year": 1980,
-      "imdbRating": 6.1,
-      "imdbVotes": 17623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050210",
-      "title": "The Brain from Planet Arous",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1789724",
-      "title": "Cell Count",
-      "year": 2012,
-      "imdbRating": 3.7,
-      "imdbVotes": 764,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036999",
+    "tt0034602",
+    "tt0053337",
+    "tt0060536",
+    "tt0036307",
+    "tt0052228",
+    "tt0035640",
+    "tt0052846",
+    "tt0036104",
+    "tt0080354",
+    "tt0050210",
+    "tt1789724"
   ],
   "collections": [],
   "is_curated": true,

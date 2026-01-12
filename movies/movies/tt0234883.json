@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-three-american-beauties",
+      "id": "silent-three-american-beauties",
       "title": "Three American Beauties",
       "fileSize": 14102223,
-      "id": "silent-three-american-beauties"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-three-american-beauties",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 692
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000546",
-      "title": "Dream of a Rarebit Fiend",
-      "year": 1906,
-      "imdbRating": 6.7,
-      "imdbVotes": 2044,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235057",
-      "title": "A Winter Straw Ride",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 300,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477360",
-      "title": "Police Chasing Scorching Auto",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 128,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234865",
-      "title": "The Terrible Kids",
-      "year": 1906,
-      "imdbRating": 5.4,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234111",
-      "title": "Life of an American Policeman",
-      "year": 1905,
-      "imdbRating": 5,
-      "imdbVotes": 146,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234247",
-      "title": "The Miller's Daughter",
-      "year": 1905,
-      "imdbRating": 5.3,
-      "imdbVotes": 157,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140772",
-      "title": "The 'Teddy' Bears",
-      "year": 1907,
-      "imdbRating": 6,
-      "imdbVotes": 648,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235018",
-      "title": "The Watermelon Patch",
-      "year": 1905,
-      "imdbRating": 4.9,
-      "imdbVotes": 161,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0361120",
-      "title": "The White Caps",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0431889",
-      "title": "Logging in Maine",
-      "year": 1906,
-      "imdbRating": 4.5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3473510",
-      "title": "The Streets of London: From East London Slums to Piccadilly",
-      "year": 1906,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0000546",
+    "tt0235057",
+    "tt0477360",
+    "tt0234865",
+    "tt0234111",
+    "tt0234247",
+    "tt0140772",
+    "tt0235018",
+    "tt0361120",
+    "tt0000537",
+    "tt0431889",
+    "tt3473510"
   ],
   "collections": [],
   "is_curated": true,

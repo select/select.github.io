@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-diana-laffascinatrice",
+      "id": "silent-diana-laffascinatrice",
       "title": "Diana, l'affascinatrice",
       "fileSize": 862762958,
-      "id": "silent-diana-laffascinatrice"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-diana-laffascinatrice",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 271
     }
   ],
   "metadata": {
@@ -26,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003637",
-      "title": "Assunta Spina",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 488,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0440839",
-      "title": "Sturmzeichen - Ein Kriegsfilm",
-      "year": 1914,
-      "imdbRating": 3.6,
-      "imdbVotes": 10,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0003590",
-      "title": "A 300 éves ember",
-      "year": 1914,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2714960",
-      "title": "A Militant Suffragette",
-      "year": 1914,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007407",
-      "title": "Szulamit",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240523",
-      "title": "A föld rabjai",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0242728",
-      "title": "Az utolsó éjszaka",
-      "year": 1917,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177205",
-      "title": "Schuld und Sühne",
-      "year": 1912,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0472394",
-      "title": "Das Lied der Colombine",
-      "year": 1918,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132234",
-      "title": "Im Lebenswirbel",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 25,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194645",
-      "title": "Die Ahnfrau",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 50,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5148080",
-      "title": "Katie Fforde - Das Weihnachtswunder von New York",
-      "year": 2015,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    }
+    "tt0003637",
+    "tt0440839",
+    "tt0003590",
+    "tt2714960",
+    "tt0007407",
+    "tt0240523",
+    "tt0242728",
+    "tt0177205",
+    "tt0472394",
+    "tt0132234",
+    "tt0194645",
+    "tt5148080"
   ],
   "collections": [],
   "is_curated": true,

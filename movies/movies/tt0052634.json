@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlindDate_201605",
+      "id": "BlindDate_201605",
       "title": "Chance Meeting",
       "description": "Title: Chance Meeting Summary: In 1950s London, Dutch painter Jan-Van Rooyer has an affair with a rich married Frenchwoman who is murdered, causing Van Rooyer to become prime-suspect for the Scotland Yard. Directed by: Joseph Losey Actors: Hardy Krüger, Stanley Baker, Micheline Presle Production Company: Sydney Box Associates Release Date: 29 April 1960 (USA) Aspect Ratio: 1.66 : 1 Dutch painter Jan-Van Rooyer hurries to keep a rendezvous with Jacquleine Cousteau, an elegant, sophisticated Frenchwoman, slightly his elder, whose relationship with him had turned from art student into one of love trysts. He arrives and is confronted by Detective Police Inspector Morgan who accuses him of having murdered Jacqueline. Morgan listens sceptically to the dazed denials of Van-Rooyen as he tells the story of his relationship with the murdered woman. Morgan, after hearing the story, realizes that the mystery has deepened and it becomes more complicated when the Assistant Commissioner, Sir Brian Lewis, explains that Jacqueline was not married but was being kept by Sir Howard Fenton, a high-ranking diplomat whose names must be kept out of the case.",
       "fileSize": 757136166,
-      "id": "BlindDate_201605"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlindDate_201605",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 3087
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "Nominated for 1 BAFTA Award1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049856",
-      "title": "Time Without Pity",
-      "year": 1957,
-      "imdbRating": 6.8,
-      "imdbVotes": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052713",
-      "title": "The Crimson Kimono",
-      "year": 1959,
-      "imdbRating": 6.8,
-      "imdbVotes": 3238,
-      "language": "English, Japanese, Italian, French, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051940",
-      "title": "Model for Murder",
-      "year": 1959,
-      "imdbRating": 5.7,
-      "imdbVotes": 189,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053242",
-      "title": "Sapphire",
-      "year": 1959,
-      "imdbRating": 7.2,
-      "imdbVotes": 2503,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054084",
-      "title": "Midnight Lace",
-      "year": 1960,
-      "imdbRating": 6.8,
-      "imdbVotes": 6332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056216",
-      "title": "The Man Who Finally Died",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 593,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051201",
-      "title": "Witness for the Prosecution",
-      "year": 1957,
-      "imdbRating": 8.4,
-      "imdbVotes": 154876,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050737",
-      "title": "My Gun Is Quick",
-      "year": 1957,
-      "imdbRating": 6.1,
-      "imdbVotes": 774,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054731",
-      "title": "Cash on Demand",
-      "year": 1961,
-      "imdbRating": 7.5,
-      "imdbVotes": 3041,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050839",
-      "title": "Peyton Place",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 6762,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042669",
-      "title": "The Lawless",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 751,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049470",
-      "title": "The Man Who Knew Too Much",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 74727,
-      "language": "English, Arabic, French",
-      "sourceType": "archive.org"
-    }
+    "tt0049856",
+    "tt0052713",
+    "tt0051940",
+    "tt0053242",
+    "tt0054084",
+    "tt0056216",
+    "tt0051201",
+    "tt0050737",
+    "tt0054731",
+    "tt0050839",
+    "tt0042669",
+    "tt0049470"
   ],
   "collections": [],
   "is_curated": true,

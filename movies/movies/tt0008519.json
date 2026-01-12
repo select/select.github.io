@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ARomanceOfTheRedwoods",
+      "id": "ARomanceOfTheRedwoods",
       "title": "A Romance of the Redwoods",
       "description": "A young girl (Mary Pickford) travels west to live with her uncle during the California Gold Rush only to find that he has been killed by Indians and his identity assumed by an outlaw.",
       "fileSize": 1443573929,
-      "id": "ARomanceOfTheRedwoods"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/ARomanceOfTheRedwoods",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 91185
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RomanceOfTheRedwoods",
+      "id": "RomanceOfTheRedwoods",
       "title": "Romance Of The Redwoods",
       "description": "During the California gold rush, a young woman travels to the west coast to live with her uncle. When she arrives she discovers he has been killed by the natives and his identity and property taken by a notorious outlaw. Stars Mary Pickford Produced and Directed by Cecil B Demille An Artcraft Picture",
       "fileSize": 1865167572,
-      "id": "RomanceOfTheRedwoods"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RomanceOfTheRedwoods",
+      "language": "eng",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 27084
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-romance-of-the-redwoods",
+      "id": "silent-a-romance-of-the-redwoods",
       "title": "A Romance of the Redwoods",
       "fileSize": 3342337460,
-      "id": "silent-a-romance-of-the-redwoods"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-romance-of-the-redwoods",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 700
     }
   ],
   "metadata": {
@@ -42,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008150",
-      "title": "Joan the Woman",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 658,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011909",
-      "title": "The Affairs of Anatol",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010418",
-      "title": "Male and Female",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1956,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011865",
-      "title": "Why Change Your Wife?",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1487,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006357",
-      "title": "American Aristocracy",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010071",
-      "title": "Don't Change Your Husband",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1252,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010137",
-      "title": "For Better, for Worse",
-      "year": 1919,
-      "imdbRating": 5.9,
-      "imdbVotes": 747,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026249",
-      "title": "The Crusades",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 1332,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008443",
-      "title": "The Poor Little Rich Girl",
-      "year": 1917,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008499",
-      "title": "Rebecca of Sunnybrook Farm",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011716",
-      "title": "Something to Think About",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 661,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009326",
-      "title": "M'Liss",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0008150",
+    "tt0011909",
+    "tt0010418",
+    "tt0011865",
+    "tt0006357",
+    "tt0010071",
+    "tt0010137",
+    "tt0026249",
+    "tt0008443",
+    "tt0008499",
+    "tt0011716",
+    "tt0009326"
   ],
   "collections": [],
   "is_curated": true,

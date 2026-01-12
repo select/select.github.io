@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1941-was-geschah-in-dieser-nacht-karl-ludwig-diehl-hans-brausewetter-theo-lingen",
+      "id": "1941-was-geschah-in-dieser-nacht-karl-ludwig-diehl-hans-brausewetter-theo-lingen",
       "title": "1941 Was Geschah In Dieser Nacht ( Karl Ludwig Diehl, Hans Brausewetter, Theo Lingen, Lucie Englisch, Irene Von Meyendorff)",
       "description": "Film aus dem deutschen dritten Reich von 1941. Was geschah in dieser Nacht.  U.a mit Theo Lingen und Karl Ludwig Diehl ",
       "fileSize": 1179194031,
-      "id": "1941-was-geschah-in-dieser-nacht-karl-ludwig-diehl-hans-brausewetter-theo-lingen"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1941-was-geschah-in-dieser-nacht-karl-ludwig-diehl-hans-brausewetter-theo-lingen",
+      "language": "ger",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 188
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034975",
-      "title": "Liebeskomödie",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033248",
-      "title": "Weltrekord im Seitensprung",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034698",
-      "title": "Einmal der liebe Herrgott sein",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 87,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035350",
-      "title": "So ein Früchtchen",
-      "year": 1942,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031902",
-      "title": "Schneider Wibbel",
-      "year": 1939,
-      "imdbRating": 7.9,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036056",
-      "title": "Johann",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033613",
-      "title": "Flying Wild",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 538,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0033871",
-      "title": "A Man Betrayed",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033323",
-      "title": "All-American Co-Ed",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 408,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033435",
-      "title": "Broadway Limited",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 389,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033632",
+    "tt0034975",
+    "tt0033248",
+    "tt0034698",
+    "tt0035350",
+    "tt0031902",
+    "tt0036056",
+    "tt0033891",
+    "tt0033613",
+    "tt0033871",
+    "tt0033323",
+    "tt0033435"
   ],
   "collections": [],
   "is_curated": true,

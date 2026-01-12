@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ChateauThierry",
+      "id": "ChateauThierry",
       "title": "Chateau Thierry and Beyond",
       "description": "Title: Chateau Thierry and Beyond Summary: Directed by: REMOVE_TAG Actors: Production Company: Burton Holmes Travel Pictures Release Date: 29 June 1919 (USA) Aspect Ratio: 1.33 : 1 Add Full Plot",
       "fileSize": 271039232,
-      "id": "ChateauThierry"
+      "addedAt": "2026-01-07T00:06:19.366Z",
+      "thumbnail": "https://archive.org/services/img/ChateauThierry",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1834
     }
   ],
   "metadata": {
@@ -26,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0471648",
-      "title": "De-Light: Making an Electric Light Bulb",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182302",
-      "title": "Lights and Shadows in a City of a Million",
-      "year": 1920,
-      "imdbRating": 4.6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1495996",
-      "title": "The Reawakening",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647254",
-      "title": "Trails That Lure",
-      "year": 1920,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038175",
-      "title": "To the Shores of Iwo Jima",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477402",
-      "title": "The Wonders of Magnetism",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0471648",
+    "tt1182302",
+    "tt1495996",
+    "tt2647254",
+    "tt0988639",
+    "tt0955263",
+    "tt0038175",
+    "tt2647224",
+    "tt0938705",
+    "tt9837386",
+    "tt0477402",
+    "tt0000537"
   ],
   "collections": [],
   "is_curated": true,

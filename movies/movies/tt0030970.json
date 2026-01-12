@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhereTheWestBegins",
+      "id": "WhereTheWestBegins",
       "title": "Where The West Begins",
       "description": "See The Page at http://www.imdb.com/title/tt0030970/",
       "fileSize": 852695102,
-      "id": "WhereTheWestBegins"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhereTheWestBegins",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 4989
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhereTheWestBegins1938",
+      "id": "WhereTheWestBegins1938",
       "title": "Where The West Begins (1938)",
       "description": "Lynne Reed (Luana Walters) is in danger of being tricked out of her ranch. It's up to Jack and Fuzzy to find the truth. PD - No copyright renewal",
       "fileSize": 1259548240,
-      "id": "WhereTheWestBegins1938"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhereTheWestBegins1938",
+      "collection": "feature_films",
+      "downloads": 13016
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=fYpY0qZVSsY",
+      "id": "fYpY0qZVSsY",
       "title": "Where The West Begins (1938) JACK RANDALL",
       "description": "Stars: Jack Randall, Fuzzy Knight, Luana Walters\nDirector: J.P. McGowan\n\nA foreman tries to protect a young woman who inherits a ranch, but doesn't she want to be a ranch owner--she wants to go to New York and become an actress!",
-      "id": "fYpY0qZVSsY",
+      "addedAt": "2025-12-26T23:47:29.265Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/fYpY0qZVSsY/maxresdefault.webp",
+      "duration": 3271,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,123 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030686",
-      "title": "Roaring Six Guns",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018654",
-      "title": "Arizona Days",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021502",
-      "title": "Under Texas Skies",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022291",
-      "title": "Quick Trigger Lee",
-      "year": 1931,
-      "imdbRating": 4.1,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023428",
-      "title": "The Scarlet Brand",
-      "year": 1932,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030208",
-      "title": "Gun Packer",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021176",
-      "title": "Near the Rainbow's End",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030443",
-      "title": "The Mexicali Kid",
-      "year": 1938,
-      "imdbRating": 5.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023191",
-      "title": "Mark of the Spur",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023967",
-      "title": "Drum Taps",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024766",
-      "title": "When a Man Rides Alone",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023934",
-      "title": "Deadwood Pass",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0030686",
+    "tt0018654",
+    "tt0021502",
+    "tt0022291",
+    "tt0023428",
+    "tt0030208",
+    "tt0021176",
+    "tt0030443",
+    "tt0023191",
+    "tt0023967",
+    "tt0024766",
+    "tt0023934"
   ],
   "collections": [],
   "is_curated": true,

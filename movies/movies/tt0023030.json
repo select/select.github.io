@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HotelContinental",
+      "id": "HotelContinental",
       "title": "Hotel Continental",
       "description": "The night before the famous Hotel Continental will be torn down, a gangster returns to grab the loot that he hid there many years ago.",
       "fileSize": 1105104829,
-      "id": "HotelContinental"
+      "addedAt": "2026-01-07T00:06:30.619Z",
+      "thumbnail": "https://archive.org/services/img/HotelContinental",
+      "collection": "feature_films",
+      "downloads": 6952
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=2DyUI7N0Ve0",
+      "id": "2DyUI7N0Ve0",
       "title": "Hotel Continental (1932) PRE-CODE HOLLYWOOD",
       "description": "Stars: Peggy Shannon, Theodore von Eltz, J. Farrell \nDirector: Christy Cabanne\n\nA posh hotel is about to close its doors forever. When a paroled convict returns to the hotel to recover stolen loot he hid there years earlier, he saves a woman from suicide, unaware that she has been hired by crooks to spirit the loot away from him!",
-      "id": "2DyUI7N0Ve0",
+      "addedAt": "2025-12-26T23:46:40.420Z",
+      "thumbnail": "https://i.ytimg.com/vi/2DyUI7N0Ve0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhgIGAoYDAP&rs=AOn4CLBVoLTAIR2-VVkpq1KLBGQqAdhN6g",
+      "duration": 3830,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023384",
-      "title": "Red-Haired Alibi",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021763",
-      "title": "Convicted",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024787",
-      "title": "The World Gone Mad",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 615,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023930",
-      "title": "Daring Daughters",
-      "year": 1933,
-      "imdbRating": 5.7,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025323",
-      "title": "Jane Eyre",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022984",
-      "title": "Hearts of Humanity",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027184",
-      "title": "Waterfront Lady",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 150,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026562",
-      "title": "The Keeper of the Bees",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023384",
+    "tt0021763",
+    "tt0024787",
+    "tt0023930",
+    "tt0025178",
+    "tt0025323",
+    "tt0022662",
+    "tt0023025",
+    "tt0022984",
+    "tt0027184",
+    "tt0026562",
+    "tt0021770"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hold-em-yale-1935",
+      "id": "hold-em-yale-1935",
       "title": "Hold 'em Yale (1935)",
       "description": "Hold 'em Yale Cesar Romero, Buster Crabbe 1935",
       "fileSize": 1930217385,
-      "id": "hold-em-yale-1935"
+      "addedAt": "2026-01-07T00:08:46.612Z",
+      "thumbnail": "https://archive.org/services/img/hold-em-yale-1935",
+      "collection": "feature_films",
+      "downloads": 357
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029861",
-      "title": "Always Goodbye",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 663,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027969",
-      "title": "The Milky Way",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 1814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029764",
-      "title": "When's Your Birthday?",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178313",
-      "title": "El cañonero de Giles",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029364",
-      "title": "Over the Goal",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041902",
-      "title": "Sorrowful Jones",
-      "year": 1949,
-      "imdbRating": 6.9,
-      "imdbVotes": 843,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039982",
-      "title": "Where There's Life",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023225",
-      "title": "Million Dollar Legs",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 1469,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025755",
-      "title": "Search for Beauty",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 760,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031055",
-      "title": "The Arsenal Stadium Mystery",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 775,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0129972",
+    "tt0027097",
+    "tt0029861",
+    "tt0027969",
+    "tt0029764",
+    "tt0178313",
+    "tt0029364",
+    "tt0041902",
+    "tt0039982",
+    "tt0023225",
+    "tt0025755",
+    "tt0031055"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-le-bey-de-tunis-et-les-personnages-de-sa-suite-descendant-lescalier-du-bardo",
+      "id": "silent-le-bey-de-tunis-et-les-personnages-de-sa-suite-descendant-lescalier-du-bardo",
       "title": "Le Bey de Tunis et les personnages de sa suite descendant l'escalier du Bardo",
       "fileSize": 26436168,
-      "id": "silent-le-bey-de-tunis-et-les-personnages-de-sa-suite-descendant-lescalier-du-bardo"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-le-bey-de-tunis-et-les-personnages-de-sa-suite-descendant-lescalier-du-bardo",
+      "language": "French",
+      "year": 1904,
+      "collection": "feature_films",
+      "downloads": 451
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1982763",
-      "title": "Le char funèbre",
-      "year": 1902,
-      "imdbRating": 4.6,
-      "imdbVotes": 77,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3112348",
-      "title": "Children in the Surf at Coney Island",
-      "year": 1904,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178341",
-      "title": "Coil Winding Machines",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178492",
-      "title": "Girls Winding Armatures",
-      "year": 1904,
-      "imdbRating": 4.3,
-      "imdbVotes": 170,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178813",
-      "title": "Panorama of Machine Co. Aisle",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178812",
-      "title": "Panorama View, Street Car Motor Room",
-      "year": 1904,
-      "imdbRating": 5.7,
-      "imdbVotes": 310,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178914",
-      "title": "Steam Hammer",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1982763",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt3112348",
+    "tt0178341",
+    "tt0178492",
+    "tt0178813",
+    "tt0178812",
+    "tt0178914"
   ],
   "collections": [],
   "is_curated": true,

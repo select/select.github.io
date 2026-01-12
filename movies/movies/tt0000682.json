@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-fantasy",
+      "id": "silent-a-fantasy",
       "title": "A Fantasy",
       "fileSize": 30695357,
-      "id": "silent-a-fantasy"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-fantasy",
+      "language": "None",
+      "year": 1908,
+      "collection": "feature_films",
+      "downloads": 652
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000553",
-      "title": "The Haunted Hotel",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 557,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000554",
-      "title": "Humorous Phases of Funny Faces",
-      "year": 1906,
-      "imdbRating": 6.3,
-      "imdbVotes": 1418,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007151",
-      "title": "Out of the Inkwell",
-      "year": 1918,
-      "imdbRating": 7.8,
-      "imdbVotes": 66,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0363074",
-      "title": "Slick Sleuths",
-      "year": 1926,
-      "imdbRating": 6,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150362",
-      "title": "A Dog's Dream",
-      "year": 1941,
-      "imdbRating": 4.2,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150842",
-      "title": "A Hare-Breadth Finish",
-      "year": 1957,
-      "imdbRating": 4.7,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153627",
-      "title": "A Waif's Welcome",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0131024",
+    "tt0432623",
+    "tt0139938",
+    "tt0000553",
+    "tt0001527",
+    "tt0000554",
+    "tt0141028",
+    "tt0007151",
+    "tt0363074",
+    "tt0150362",
+    "tt0150842",
+    "tt0153627"
   ],
   "collections": [
     {

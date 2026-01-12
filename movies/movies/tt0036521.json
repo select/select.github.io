@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/west-side-kid-republic",
+      "id": "west-side-kid-republic",
       "title": "The West Side Kid",
       "description": "Title: The West Side Kid Summary: A millionaire unappreciated by his family hires a gangster to kill him but things turn out differently when the killer and the tycoon start liking each other. Directed by: George Sherman Actors: Production Company: Republic Pictures (I) Release Date: 23 August 1943 (USA) Aspect Ratio: 1.37 : 1 Millionaire Sam Winston is an unhappy man. His wife Constance lives a gay life, devoting all her time to parties; his daughter Gloria is in one scandal after another, changing husbands as often as her moods, and son Jerry spends his time getting drunk and chasing women. Sam hires gangster Johnny April to bump him off but Johnny, liking the old man, defers the killing and sets about making the family appreciate Sam.",
       "fileSize": 3747908196,
-      "id": "west-side-kid-republic"
+      "addedAt": "2026-01-07T00:13:06.702Z",
+      "thumbnail": "https://archive.org/services/img/west-side-kid-republic",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 1078
     }
   ],
   "metadata": {
@@ -27,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034988",
-      "title": "London Blackout Murders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038917",
-      "title": "The Secret of the Whistler",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 701,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041940",
-      "title": "Sword in the Desert",
-      "year": 1949,
-      "imdbRating": 6.5,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039550",
-      "title": "Larceny",
-      "year": 1948,
-      "imdbRating": 6.9,
-      "imdbVotes": 982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2461750",
-      "title": "A.P.O. 923",
-      "year": 1962,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035863",
-      "title": "False Faces",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036188",
-      "title": "Mystery Broadcast",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037245",
-      "title": "San Fernando Valley",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037296",
-      "title": "Song of Nevada",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037472",
-      "title": "The Yellow Rose of Texas",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037109",
-      "title": "My Buddy",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035249",
-      "title": "Remember Pearl Harbor",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034988",
+    "tt0038917",
+    "tt0041940",
+    "tt0039550",
+    "tt2461750",
+    "tt0035863",
+    "tt0036188",
+    "tt0037245",
+    "tt0037296",
+    "tt0037472",
+    "tt0037109",
+    "tt0035249"
   ],
   "collections": [],
   "is_curated": true,

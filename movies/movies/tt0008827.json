@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-amarilly-of-clothes-line-alley",
+      "id": "silent-amarilly-of-clothes-line-alley",
       "title": "Amarilly of Clothes-Line Alley",
       "fileSize": 1892384635,
-      "id": "silent-amarilly-of-clothes-line-alley"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-amarilly-of-clothes-line-alley",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 414
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009326",
-      "title": "M'Liss",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008499",
-      "title": "Rebecca of Sunnybrook Farm",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010040",
-      "title": "Daddy-Long-Legs",
-      "year": 1919,
-      "imdbRating": 6.6,
-      "imdbVotes": 1489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009241",
-      "title": "Johanna Enlists",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009305",
-      "title": "Little Miss Hoover",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010281",
-      "title": "I Don't Want to Be a Man",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 1683,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009652",
-      "title": "Stella Maris",
-      "year": 1918,
-      "imdbRating": 6.9,
-      "imdbVotes": 1657,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007873",
-      "title": "Down to Earth",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010219",
-      "title": "Hawthorne of the U.S.A.",
-      "year": 1919,
-      "imdbRating": 5.1,
-      "imdbVotes": 402,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009326",
+    "tt0008499",
+    "tt0010040",
+    "tt0009241",
+    "tt0011741",
+    "tt0009305",
+    "tt0010281",
+    "tt0009142",
+    "tt0009652",
+    "tt0010806",
+    "tt0007873",
+    "tt0010219"
   ],
   "collections": [],
   "is_curated": true,

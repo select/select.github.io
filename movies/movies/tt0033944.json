@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nevada_city",
+      "id": "nevada_city",
       "title": "Nevada City",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4435413146,
-      "id": "nevada_city"
+      "addedAt": "2026-01-07T00:10:02.897Z",
+      "thumbnail": "https://archive.org/services/img/nevada_city",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 54335
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nevada_city_ipod",
+      "id": "nevada_city_ipod",
       "title": "Nevada City",
       "description": "Stagecoach drivers Roy and Gabby go up against the evil Black Bart who is trying to pit the stage and train lines against each other.",
       "fileSize": 1217450800,
-      "id": "nevada_city_ipod"
+      "addedAt": "2026-01-07T00:10:02.897Z",
+      "thumbnail": "https://archive.org/services/img/nevada_city_ipod",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 120806
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=JAAvfW_TYD0",
+      "id": "JAAvfW_TYD0",
       "title": "Nevada City (1941) ROY ROGERS",
       "description": "Stars: Roy Rogers, George 'Gabby' Hayes, Sally Payne\nDirector: Joseph Kane\n\nThe conflict between a railroader and a stage line owner is being aggravated by bad guys who are sabotaging both sides. Roy and Gabby mediate the conflict and expose the bad guys.",
-      "id": "JAAvfW_TYD0",
+      "addedAt": "2025-12-26T23:51:04.993Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/JAAvfW_TYD0/maxresdefault.webp",
+      "duration": 3204,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033771",
-      "title": "Jesse James at Bay",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034088",
-      "title": "Red River Valley",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033367",
-      "title": "Bad Man of Deadwood",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034832",
-      "title": "Heart of the Golden West",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035255",
-      "title": "Ridin' Down the Canyon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035396",
-      "title": "Sunset Serenade",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033287",
-      "title": "Young Buffalo Bill",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035364",
-      "title": "South of Santa Fe",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033286",
-      "title": "Young Bill Hickok",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032274",
-      "title": "The Border Legion",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0031051",
-      "title": "The Arizona Kid",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031216",
-      "title": "Days of Jesse James",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033771",
+    "tt0034088",
+    "tt0033367",
+    "tt0034832",
+    "tt0035255",
+    "tt0035396",
+    "tt0033287",
+    "tt0035364",
+    "tt0033286",
+    "tt0032274",
+    "tt0031051",
+    "tt0031216"
   ],
   "collections": [],
   "is_curated": true,

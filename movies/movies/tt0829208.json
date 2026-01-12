@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/JuliusSizzer",
+      "id": "JuliusSizzer",
       "title": "Julius Sizzer",
       "description": "In this RKO Pathé Pictures comedy short Benny Rubin plays a dual role of \"Little Sizzer\" and his brother \"JULIUS SIZZER\" dodges gangsters trying to take him for a ride and put him on the spot. Will both brothers survive the movie, or will dreadful puns destroy their careers before the end of the movie?",
       "fileSize": 632701470,
-      "id": "JuliusSizzer"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/JuliusSizzer",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 6038
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0829184",
-      "title": "Guests Wanted",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5854638",
-      "title": "Nine Nights in a Barroom",
-      "year": 1931,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022402",
-      "title": "The Stolen Jools",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 1177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021687",
-      "title": "Bosko the Doughboy",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 348,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146799",
-      "title": "Go West, Big Boy",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021964",
-      "title": "Hittin' the Trail for Hallelujah Land",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151161",
-      "title": "Jungle Jam",
-      "year": 1931,
-      "imdbRating": 4.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022152",
-      "title": "Minding the Baby",
-      "year": 1931,
-      "imdbRating": 6.3,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147211",
-      "title": "Razzberries",
-      "year": 1931,
-      "imdbRating": 4.2,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022300",
-      "title": "Red-Headed Baby",
-      "year": 1931,
-      "imdbRating": 5.3,
-      "imdbVotes": 369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022301",
-      "title": "Red Riding Hood",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0829184",
+    "tt0228331",
+    "tt5854638",
+    "tt0022402",
+    "tt0021687",
+    "tt0146799",
+    "tt0021964",
+    "tt0151161",
+    "tt0022152",
+    "tt0147211",
+    "tt0022300",
+    "tt0022301"
   ],
   "collections": [],
   "is_curated": true,

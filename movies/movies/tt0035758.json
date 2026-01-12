@@ -6,25 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CosmoJonesCrimeSmasher",
+      "id": "CosmoJonesCrimeSmasher",
       "title": "Cosmo Jones, Crime Smasher",
       "description": "From IMDb: An amateur detective and a janitor try to find a kidnapped heiress.",
       "fileSize": 1653488226,
-      "id": "CosmoJonesCrimeSmasher"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/CosmoJonesCrimeSmasher",
+      "collection": "feature_films",
+      "downloads": 33011
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CosmoJonesCrimeSmasher_21",
+      "id": "CosmoJonesCrimeSmasher_21",
       "title": "Cosmo Jones Crime Smasher",
       "description": "film",
       "fileSize": 541416956,
-      "id": "CosmoJonesCrimeSmasher_21"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/CosmoJonesCrimeSmasher_21",
+      "collection": "feature_films",
+      "downloads": 1733
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=lVmaMPKKSLE",
+      "id": "lVmaMPKKSLE",
       "title": "Cosmo Jones, Crime Smasher (1943) MANTAN MORELAND",
       "description": "Stars: Mantan Moreland, Edgar Kennedy, Gale Storm,\nDirector: James Tinling\n\nAn amateur detective and a janitor attempt to uncover a kidnapped heiress!",
-      "id": "lVmaMPKKSLE",
+      "addedAt": "2025-12-26T23:56:08.508Z",
+      "thumbnail": "https://i.ytimg.com/vi/lVmaMPKKSLE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAuADigIMCAAQARhdIF0oXTAP&rs=AOn4CLDEooCi0YiMjMkW0pUugmQQEy6PRA",
+      "duration": 3698,
+      "language": "en",
+      "year": 1943,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,115 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036774",
-      "title": "Double Exposure",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 268,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033926",
-      "title": "Mr. and Mrs. North",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 386,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0028774",
-      "title": "The Great Hospital Mystery",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034754",
-      "title": "Freckles Comes Home",
-      "year": 1942,
-      "imdbRating": 4.9,
-      "imdbVotes": 203,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031221",
-      "title": "Death of a Champion",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031389",
-      "title": "The Gracie Allen Murder Case",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031710",
-      "title": "Nancy Drew... Trouble Shooter",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 839,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019690",
-      "title": "Big News",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036774",
+    "tt0033926",
+    "tt0037960",
+    "tt0028774",
+    "tt0038577",
+    "tt0034754",
+    "tt0039645",
+    "tt0031221",
+    "tt0031389",
+    "tt0031710",
+    "tt0019690",
+    "tt0027807"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-maytime",
+      "id": "silent-maytime",
       "title": "Maytime",
       "fileSize": 733654774,
-      "id": "silent-maytime"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-maytime",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 770
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016201",
-      "title": "Parisian Love",
-      "year": 1925,
-      "imdbRating": 6.1,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013750",
-      "title": "When Knighthood Was in Flower",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 1113,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014249",
-      "title": "The Man Without Desire",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161953",
-      "title": "Salome",
-      "year": 1923,
-      "imdbRating": 4.9,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014014",
-      "title": "The Hell Ship",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014142",
-      "title": "The Hunchback of Notre Dame",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 6381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014604",
-      "title": "The White Rose",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014721",
-      "title": "Black Oxen",
-      "year": 1923,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0016201",
+    "tt0028607",
+    "tt0015022",
+    "tt0013750",
+    "tt0016251",
+    "tt0014440",
+    "tt0014249",
+    "tt0161953",
+    "tt0014014",
+    "tt0014142",
+    "tt0014604",
+    "tt0014721"
   ],
   "collections": [],
   "is_curated": true,

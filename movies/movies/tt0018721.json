@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bright-lights-1928",
+      "id": "bright-lights-1928",
       "title": "Bright Lights (1928)",
       "description": "Oswald would like to see Mlle. Zulu the Shimmy Queen but he's short on cash. Seeing the more stately gentlemen being admitted without tickets, he tries to fool the bouncer into thinking he's important by puffing up his chest and striding in. It doesn't work, and he's forced to try a second plan, sneaking in under another patron's shadow. He gets caught and spends his time being chased by the bouncer throughout the theater. Watch on RetroFlix:  https://retroflix.org/bright-lights-1928/",
       "fileSize": 48401266,
-      "id": "bright-lights-1928"
+      "addedAt": "2026-01-07T00:07:38.721Z",
+      "thumbnail": "https://archive.org/services/img/bright-lights-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 62
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bright-lights_1928",
+      "id": "bright-lights_1928",
       "title": "Bright Lights",
       "fileSize": 416468820,
-      "id": "bright-lights_1928"
+      "addedAt": "2026-01-07T00:07:38.721Z",
+      "thumbnail": "https://archive.org/services/img/bright-lights_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 359
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019033",
-      "title": "Hungry Hoboes",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019241",
-      "title": "Ozzie of the Mounted",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 236,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019283",
-      "title": "Poor Papa",
-      "year": 1928,
-      "imdbRating": 5.6,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019328",
-      "title": "Rival Romeos",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 263,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019445",
-      "title": "Tall Timber",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 208,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018913",
-      "title": "The Fox Chase",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 210,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019231",
-      "title": "The Ol' Swimmin' Hole",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017949",
-      "title": "Great Guns",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 317,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018213",
-      "title": "Oh Teacher",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 324,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020580",
-      "title": "When the Cat's Away",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 709,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017604",
-      "title": "Alice in the Big League",
-      "year": 1927,
-      "imdbRating": 5.6,
-      "imdbVotes": 56,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017610",
-      "title": "Alice's Auto Race",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 34,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    }
+    "tt0019033",
+    "tt0019241",
+    "tt0019283",
+    "tt0019328",
+    "tt0019445",
+    "tt0018913",
+    "tt0019231",
+    "tt0017949",
+    "tt0018213",
+    "tt0020580",
+    "tt0017604",
+    "tt0017610"
   ],
   "collections": [
     {

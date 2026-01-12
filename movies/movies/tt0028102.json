@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/piccadilly-jim-1936",
+      "id": "piccadilly-jim-1936",
       "title": "Piccadilly Jim (1936)",
       "description": "Robert Montgomery Based on the novel by P. G. Wodehouse",
       "fileSize": 1754184138,
-      "id": "piccadilly-jim-1936"
+      "addedAt": "2026-01-07T00:10:12.700Z",
+      "thumbnail": "https://archive.org/services/img/piccadilly-jim-1936",
+      "collection": "feature_films",
+      "downloads": 1562
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030554",
-      "title": "Paradise for Three",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 597,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0027528",
-      "title": "Dishonour Bright",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 47,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028062",
-      "title": "One Rainy Afternoon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027293",
-      "title": "And So They Were Married",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028342",
-      "title": "Taming the Wild",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027519",
-      "title": "The Devil on Horseback",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028375",
-      "title": "Three of a Kind",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027331",
-      "title": "Banjo on My Knee",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 660,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019067",
+    "tt0030554",
+    "tt0027311",
+    "tt0027286",
+    "tt0028010",
+    "tt0027528",
+    "tt0028062",
+    "tt0027293",
+    "tt0028342",
+    "tt0027519",
+    "tt0028375",
+    "tt0027331"
   ],
   "collections": [],
   "is_curated": true,

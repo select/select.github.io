@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-be-reasonable",
+      "id": "silent-be-reasonable",
       "title": "Be Reasonable",
       "fileSize": 257355835,
-      "id": "silent-be-reasonable"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-be-reasonable",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 281
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014992",
-      "title": "His New Mamma",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381908",
-      "title": "A Bear, a Boy and a Dog",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012224",
-      "title": "The Goat",
-      "year": 1921,
-      "imdbRating": 7.7,
-      "imdbVotes": 5206,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012253",
-      "title": "Hard Luck",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 2701,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012570",
-      "title": "The Play House",
-      "year": 1921,
-      "imdbRating": 7.4,
-      "imdbVotes": 4767,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011984",
-      "title": "The Boat",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3698,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012255",
-      "title": "The Haunted House",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 3791,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012278",
-      "title": "The 'High Sign'",
-      "year": 1921,
-      "imdbRating": 7.6,
-      "imdbVotes": 3670,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011922",
-      "title": "Among Those Present",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012174",
-      "title": "Fishing",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 65,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0014992",
+    "tt0381908",
+    "tt0012224",
+    "tt0012253",
+    "tt0012499",
+    "tt0012570",
+    "tt0011984",
+    "tt0012255",
+    "tt0012278",
+    "tt0011922",
+    "tt0012174",
+    "tt0126926"
   ],
   "collections": [],
   "is_curated": true,

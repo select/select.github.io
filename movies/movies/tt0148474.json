@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mint-men-1960",
+      "id": "mint-men-1960",
       "title": "Mint Men (1960)",
       "description": "Undercover treasury agents Heckle and Jeckle are assigned to test a new security system at the United States Mint.",
       "fileSize": 38297954,
-      "id": "mint-men-1960"
+      "addedAt": "2026-01-07T00:09:54.327Z",
+      "thumbnail": "https://archive.org/services/img/mint-men-1960",
+      "language": "eng",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 46
     }
   ],
   "metadata": {
@@ -27,100 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148058",
-      "title": "Deep Sea Doodle",
-      "year": 1960,
-      "imdbRating": 4.9,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150606",
-      "title": "Foofle's Picnic",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151865",
-      "title": "Outer Space Visitor",
-      "year": 1959,
-      "imdbRating": 5.5,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148704",
-      "title": "Sappy New Year",
-      "year": 1961,
-      "imdbRating": 3.1,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148044",
-      "title": "Daniel Boone, Jr.",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153669",
-      "title": "The Wayward Hat",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153104",
-      "title": "Tin Pan Alley Cat",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153387",
-      "title": "Two-Ton Baby Sitter",
-      "year": 1960,
-      "imdbRating": 5.6,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161530",
-      "title": "Drum Roll",
-      "year": 1961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148137",
-      "title": "The First Fast Mail",
-      "year": 1961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148475",
-      "title": "The Minute and a ½ Man",
-      "year": 1959,
-      "imdbRating": 5.7,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147054",
-      "title": "Molecular Mixup",
-      "year": 1964,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148058",
+    "tt0150606",
+    "tt0151865",
+    "tt0148704",
+    "tt0148044",
+    "tt0153669",
+    "tt0153104",
+    "tt0153387",
+    "tt0161530",
+    "tt0148137",
+    "tt0148475",
+    "tt0147054"
   ],
   "collections": [],
   "is_curated": true,

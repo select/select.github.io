@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RajaHarishchandra1913",
+      "id": "RajaHarishchandra1913",
       "title": "Raja Harishchandra (1913)",
       "description": "Directed by Dhundiraj Govind Phalke and first screened on April 21, 1913 this is India's first feature-length film. The complete film is no longer available and these are portions of the first and last reels of the original 3700 feet of film. This video is a part of the India Public Domain Movie Project http://www.cuttingthechai.com/category/movies/india-public-domain-movie-project/ initiated by Cutting the Chai http://www.cuttingthechai.com and was salvaged by the National Film Archives of India, Pune.",
       "fileSize": 305789857,
-      "id": "RajaHarishchandra1913"
+      "addedAt": "2026-01-07T00:06:51.866Z",
+      "thumbnail": "https://archive.org/services/img/RajaHarishchandra1913",
+      "collection": "feature_films",
+      "downloads": 15333
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-raja-harishchandra",
+      "id": "silent-raja-harishchandra",
       "title": "Raja Harishchandra",
       "fileSize": 930917316,
-      "id": "silent-raja-harishchandra"
+      "addedAt": "2026-01-07T00:11:15.972Z",
+      "thumbnail": "https://archive.org/services/img/silent-raja-harishchandra",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 696
     }
   ],
   "metadata": {
@@ -34,112 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191402",
-      "title": "La revolución de Mayo",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 94,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001117",
-      "title": "Cleopatra",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 15,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188941",
-      "title": "Nero. Or the Fall of Rome.",
-      "year": 1909,
-      "imdbRating": 5.2,
-      "imdbVotes": 553,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0434198",
-      "title": "The Death of the Duke D'Enghien",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 32,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003177",
-      "title": "A Muddy Romance",
-      "year": 1913,
-      "imdbRating": 4.8,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003417",
-      "title": "A Strong Revenge",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002663",
-      "title": "Barney Oldfield's Race for a Life",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002755",
-      "title": "Cohen Saves the Flag",
-      "year": 1913,
-      "imdbRating": 4.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0207954",
+    "tt1223220",
+    "tt0001915",
+    "tt0191402",
+    "tt0001117",
+    "tt0001032",
+    "tt0188941",
+    "tt0434198",
+    "tt0003177",
+    "tt0003417",
+    "tt0002663",
+    "tt0002755"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FlirtingWithDanger",
+      "id": "FlirtingWithDanger",
       "title": "Flirting With Danger",
       "description": "In 1934 mixing dynamite was a bit like making a stew, every cook did it a little different. Three wild and crazy guys have no fear as they mix dynamite and the girls in dangerous combinations.",
       "fileSize": 1125808622,
-      "id": "FlirtingWithDanger"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FlirtingWithDanger",
+      "collection": "feature_films",
+      "downloads": 15696
     }
   ],
   "metadata": {
@@ -27,123 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1227774",
-      "title": "Mistaken",
-      "year": 2008,
-      "imdbRating": 5.3,
-      "imdbVotes": 429,
-      "language": "English, French, Italian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0463029",
-      "title": "Haunting Sarah",
-      "year": 2005,
-      "imdbRating": 5.5,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0371257",
-      "title": "Stay",
-      "year": 2005,
-      "imdbRating": 6.7,
-      "imdbVotes": 88738,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0913399",
-      "title": "Judicial Indiscretion",
-      "year": 2007,
-      "imdbRating": 5.5,
-      "imdbVotes": 275,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1014766",
-      "title": "The Least of These",
-      "year": 2008,
-      "imdbRating": 6.1,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0372303",
-      "title": "The Confessor",
-      "year": 2004,
-      "imdbRating": 5.2,
-      "imdbVotes": 1606,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1135085",
-      "title": "Cat City",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 370,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0971209",
-      "title": "A Perfect Getaway",
-      "year": 2009,
-      "imdbRating": 6.5,
-      "imdbVotes": 78772,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0838247",
-      "title": "After.Life",
-      "year": 2009,
-      "imdbRating": 5.9,
-      "imdbVotes": 41911,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1375790",
-      "title": "Stranger with My Face",
-      "year": 2009,
-      "imdbRating": 5.2,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt1227774",
+    "tt0463029",
+    "tt0371257",
+    "tt0913399",
+    "tt1014766",
+    "tt0372303",
+    "tt1132130",
+    "tt1135085",
+    "tt0971209",
+    "tt0838247",
+    "tt1375790",
+    "tt9214844"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-his-bitter-pill",
+      "id": "silent-his-bitter-pill",
       "title": "His Bitter Pill",
       "fileSize": 492726202,
-      "id": "silent-his-bitter-pill"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-his-bitter-pill",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 351
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006913",
-      "title": "Legal Advice",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003943",
-      "title": "Fatty and Minnie He-Haw",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009659",
-      "title": "The Stranger",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009732",
-      "title": "Two-Gun Gussie",
-      "year": 1918,
-      "imdbRating": 5.6,
-      "imdbVotes": 320,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009932",
-      "title": "Billy Blazes, Esq.",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 971,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233246",
-      "title": "At Bear Track Gulch",
-      "year": 1913,
-      "imdbRating": 5.2,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329121",
-      "title": "The Girl Ranchers",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005314",
-      "title": "Fatty's New Role",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 312,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005654",
-      "title": "Love, Speed and Thrills",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003733",
-      "title": "A Busy Day",
-      "year": 1914,
-      "imdbRating": 4.7,
-      "imdbVotes": 1288,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004108",
-      "title": "His Trysting Place",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 1010,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0006913",
+    "tt0003943",
+    "tt0009466",
+    "tt0009659",
+    "tt0009732",
+    "tt0009932",
+    "tt0233246",
+    "tt0329121",
+    "tt0005314",
+    "tt0005654",
+    "tt0003733",
+    "tt0004108"
   ],
   "collections": [],
   "is_curated": true,

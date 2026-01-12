@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/thirst-for-love",
+      "id": "thirst-for-love",
       "title": "Thirst For Love",
       "description": "Koreyoshi Kurahara adapted a novel by Yukio Mishima for  Thirst for Love  ( Ai no kawaki ), a tense psychological drama about a young woman who is widowed after marrying into a wealthy family, and becomes sexually involved with her father-in-law, while harboring a destructive obsession with the family gardener. Kurahara’s atmospheric style is a perfect match for Mishima’s brooding sensuality.",
       "fileSize": 8108905037,
-      "id": "thirst-for-love"
+      "addedAt": "2026-01-07T00:12:44.282Z",
+      "thumbnail": "https://archive.org/services/img/thirst-for-love",
+      "language": "jpn",
+      "year": 1967,
+      "collection": "feature_films",
+      "downloads": 6063
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0360839",
-      "title": "I Hate But Love",
-      "year": 1962,
-      "imdbRating": 6.7,
-      "imdbVotes": 327,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2017464",
-      "title": "Intimidation",
-      "year": 1960,
-      "imdbRating": 7.2,
-      "imdbVotes": 928,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1248984",
-      "title": "I Am Waiting",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 1022,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057238",
-      "title": "The Warped Ones",
-      "year": 1960,
-      "imdbRating": 6.9,
-      "imdbVotes": 1079,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0781599",
-      "title": "Black Sun",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 493,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060107",
-      "title": "Andrei Rublev",
-      "year": 1966,
-      "imdbRating": 8,
-      "imdbVotes": 58379,
-      "language": "Russian, Italian, Tatar",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0060827",
-      "title": "Persona",
-      "year": 1966,
-      "imdbRating": 8,
-      "imdbVotes": 138584,
-      "language": "Swedish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063371",
-      "title": "A Report on the Party and Guests",
-      "year": 1966,
-      "imdbRating": 7.1,
-      "imdbVotes": 1866,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060168",
-      "title": "Billy the Kid Versus Dracula",
-      "year": 1966,
-      "imdbRating": 3.8,
-      "imdbVotes": 2326,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309401",
-      "title": "Buenos Aires, verano 1912",
-      "year": 1966,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060218",
-      "title": "Cast a Giant Shadow",
-      "year": 1966,
-      "imdbRating": 6.3,
-      "imdbVotes": 4231,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178308",
-      "title": "Castigo al traidor",
-      "year": 1966,
-      "imdbRating": 6.8,
-      "imdbVotes": 37,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0360839",
+    "tt2017464",
+    "tt1248984",
+    "tt0057238",
+    "tt0781599",
+    "tt0060107",
+    "tt0060827",
+    "tt0063371",
+    "tt0060168",
+    "tt0309401",
+    "tt0060218",
+    "tt0178308"
   ],
   "collections": [],
   "is_curated": true,

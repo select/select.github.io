@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-alma-provinciana",
+      "id": "silent-alma-provinciana",
       "title": "Alma provinciana",
       "fileSize": 1007983029,
-      "id": "silent-alma-provinciana"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-alma-provinciana",
+      "language": "Spanish",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 700
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015693",
-      "title": "Cobra",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 793,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0016473",
-      "title": "The Unholy Three",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 2348,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0015627",
-      "title": "Black Cyclone",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016005",
-      "title": "Lady of the Night",
-      "year": 1925,
-      "imdbRating": 6.7,
-      "imdbVotes": 784,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016491",
-      "title": "Mother",
-      "year": 1925,
-      "imdbRating": 7.6,
-      "imdbVotes": 948,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016198",
-      "title": "Pampered Youth",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 36,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016201",
-      "title": "Parisian Love",
-      "year": 1925,
-      "imdbRating": 6.1,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015700",
-      "title": "The Coming of Amos",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016230",
-      "title": "The Pleasure Garden",
-      "year": 1925,
-      "imdbRating": 5.8,
-      "imdbVotes": 2977,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0015693",
+    "tt0016548",
+    "tt0016473",
+    "tt0015627",
+    "tt0016005",
+    "tt0016491",
+    "tt0016198",
+    "tt0016201",
+    "tt0016251",
+    "tt0015624",
+    "tt0015700",
+    "tt0016230"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HelpHelp1912",
+      "id": "HelpHelp1912",
       "title": "HELP HELP (1912)",
       "description": "HELP! HELP! Biograph 1/2 reel, rel. Apr. 11, 1912 dir. Mack Sennett, cam. Percy Higginson cast: Mabel Normand, Fred Mace, Eddie Dillon, Dell Henderson, Alfred Paget, W. C. Robinson, Frank Evans filmed: 2/1912 Location: CA copyright: Apr. 10, 1912",
       "fileSize": 254165035,
-      "id": "HelpHelp1912"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HelpHelp1912",
+      "collection": "feature_films",
+      "downloads": 1220
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003170",
-      "title": "The Mothering Heart",
-      "year": 1913,
-      "imdbRating": 6.4,
-      "imdbVotes": 849,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002082",
-      "title": "The Burglar's Dilemma",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 429,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002968",
-      "title": "His Mother's Son",
-      "year": 1913,
-      "imdbVotes": 13,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002054",
-      "title": "A Beast at Bay",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002342",
-      "title": "Man's Genesis",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002400",
-      "title": "The Old Actor",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002408",
-      "title": "One Is Business, the Other Crime",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 325,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002212",
-      "title": "The God Within",
-      "year": 1912,
-      "imdbRating": 5.6,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002386",
-      "title": "The Narrow Road",
-      "year": 1912,
-      "imdbRating": 5.9,
-      "imdbVotes": 162,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002478",
-      "title": "The School Teacher and the Waif",
-      "year": 1912,
-      "imdbRating": 5.6,
-      "imdbVotes": 69,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003170",
+    "tt0002381",
+    "tt0002082",
+    "tt0002795",
+    "tt0002968",
+    "tt0002054",
+    "tt0002342",
+    "tt0002400",
+    "tt0002408",
+    "tt0002212",
+    "tt0002386",
+    "tt0002478"
   ],
   "collections": [],
   "is_curated": true,

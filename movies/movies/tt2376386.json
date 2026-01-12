@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_111",
+      "id": "rog561b_netzero_111",
       "title": "111",
       "description": "111",
       "fileSize": 2537105015,
-      "id": "rog561b_netzero_111"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_111",
+      "collection": "feature_films",
+      "downloads": 2727
     }
   ],
   "metadata": {
@@ -27,104 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1780962",
-      "title": "Room 712",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4229926",
-      "title": "411",
-      "year": 2015,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2355473",
-      "title": "612",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3122618",
-      "title": "Goodnight My Love",
-      "year": 2012,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2536422",
-      "title": "Act of Faith",
-      "year": 2012,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt31478284",
-      "title": "705",
-      "year": 2012,
-      "language": "Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021387",
-      "title": "The Skull Murder Mystery",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045200",
-      "title": "The Stranger Left No Card",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2413496",
-      "title": "Shackled",
-      "year": 2012,
-      "imdbRating": 5.4,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt2889500",
+    "tt1780962",
+    "tt4229926",
+    "tt0003803",
+    "tt2509978",
+    "tt2355473",
+    "tt3122618",
+    "tt2536422",
+    "tt31478284",
+    "tt0021387",
+    "tt0045200",
+    "tt2413496"
   ],
   "collections": [],
   "is_curated": true,

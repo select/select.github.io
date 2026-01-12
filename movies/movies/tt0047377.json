@@ -6,26 +6,42 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pushover-1954",
+      "id": "pushover-1954",
       "title": "Pushover (1954)",
       "description": "A police detective falls for the bank robber's girlfriend he is supposed to be tailing. Watch on RetroFlix:  https://retroflix.org/pushover-1954/",
       "fileSize": 211652005,
-      "id": "pushover-1954"
+      "addedAt": "2026-01-07T00:10:21.540Z",
+      "thumbnail": "https://archive.org/services/img/pushover-1954",
+      "language": "eng",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 334
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pushover1954_202001",
+      "id": "pushover1954_202001",
       "title": "Pushover (1954) Kim Novak, Fred Mac Murray, Phil Carey - Film Noir",
       "description": "Pushover is a 1954 American film noir crime film directed by Richard Quine starring Fred MacMurray, Phil Carey, Dorothy Malone and Kim Novak in her first credited role. The motion picture was adapted from two novels, The Night Watch by Thomas Walsh and Rafferty by William S. Ballinger. Wikipedia: https://en.wikipedia.org/wiki/Pushover_(film) Suggested Film Noirs: http://bit.ly/2tLevkl The Internet Archive is an excellent choice for entire full length Netflix & YouTube style uploads of drama, mystery, thriller & crime noir movies from the UK & USA for free. Download complete online British & American classic black & white films from the 1940s & 1950s.",
       "fileSize": 257552702,
-      "id": "pushover1954_202001"
+      "addedAt": "2026-01-07T00:10:21.540Z",
+      "thumbnail": "https://archive.org/services/img/pushover1954_202001",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 15732
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1954-pushover-la-casa-numero-322-richard-quine-vose",
+      "id": "1954-pushover-la-casa-numero-322-richard-quine-vose",
       "title": "1954 - Pushover - La casa número 322 - Richard Quine",
       "description": "For Academic / Educational Use Only",
       "fileSize": 1079566543,
-      "id": "1954-pushover-la-casa-numero-322-richard-quine-vose"
+      "addedAt": "2026-01-07T00:06:06.563Z",
+      "thumbnail": "https://archive.org/services/img/1954-pushover-la-casa-numero-322-richard-quine-vose",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 1203
     }
   ],
   "metadata": {
@@ -43,114 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046935",
-      "title": "Drive a Crooked Road",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 2173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048077",
-      "title": "5 Against the House",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 2111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047542",
-      "title": "Suddenly",
-      "year": 1954,
-      "imdbRating": 6.8,
-      "imdbVotes": 7583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046969",
-      "title": "The Fast and the Furious",
-      "year": 1954,
-      "imdbRating": 5.3,
-      "imdbVotes": 1707,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046790",
-      "title": "Black Tuesday",
-      "year": 1954,
-      "imdbRating": 6.7,
-      "imdbVotes": 1024,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046885",
-      "title": "Cry Vengeance",
-      "year": 1954,
-      "imdbRating": 6.4,
-      "imdbVotes": 786,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047127",
-      "title": "Jail Bait",
-      "year": 1954,
-      "imdbRating": 3.7,
-      "imdbVotes": 2933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047263",
-      "title": "Naked Alibi",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 1585,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047370",
-      "title": "Private Hell 36",
-      "year": 1954,
-      "imdbRating": 6.7,
-      "imdbVotes": 1952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047479",
-      "title": "Shield for Murder",
-      "year": 1954,
-      "imdbRating": 6.8,
-      "imdbVotes": 1780,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047679",
-      "title": "Witness to Murder",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 3523,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047681",
-      "title": "World for Ransom",
-      "year": 1954,
-      "imdbRating": 5.8,
-      "imdbVotes": 654,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    }
+    "tt0046935",
+    "tt0048077",
+    "tt0047542",
+    "tt0046969",
+    "tt0046790",
+    "tt0046885",
+    "tt0047127",
+    "tt0047263",
+    "tt0047370",
+    "tt0047479",
+    "tt0047679",
+    "tt0047681"
   ],
   "collections": [
     {

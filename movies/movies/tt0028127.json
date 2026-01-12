@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/porkys-poultry-plant-1936",
+      "id": "porkys-poultry-plant-1936",
       "title": "Porky’s Poultry Plant (1936)",
       "description": "When a hawk attacks Porky's poultry, Porky leaps into his plane to fight the pesky bird.",
       "fileSize": 915758355,
-      "id": "porkys-poultry-plant-1936"
+      "addedAt": "2026-01-07T00:10:21.538Z",
+      "thumbnail": "https://archive.org/services/img/porkys-poultry-plant-1936",
+      "language": "eng",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 236
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027891",
-      "title": "Little Beau Porky",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028123",
-      "title": "Porky in the North Woods",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029424",
-      "title": "Porky's Building",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029425",
-      "title": "Porky's Double Trouble",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029429",
-      "title": "Porky's Railroad",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 605,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030602",
-      "title": "Porky at the Crocadero",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030605",
-      "title": "Porky the Fireman",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030613",
-      "title": "Porky's Spring Planting",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030975",
-      "title": "Wholly Smoke",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 401,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036282",
-      "title": "Puss n' Booty",
-      "year": 1943,
-      "imdbRating": 7.2,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029430",
-      "title": "Porky's Road Race",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 428,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029431",
-      "title": "Porky's Romance",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 443,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027891",
+    "tt0028123",
+    "tt0029424",
+    "tt0029425",
+    "tt0029429",
+    "tt0030602",
+    "tt0030605",
+    "tt0030613",
+    "tt0030975",
+    "tt0036282",
+    "tt0029430",
+    "tt0029431"
   ],
   "collections": [],
   "is_curated": true,

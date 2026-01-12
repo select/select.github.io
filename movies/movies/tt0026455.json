@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/harmony_lane",
+      "id": "harmony_lane",
       "title": "Harmony Lane",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4945650597,
-      "id": "harmony_lane"
+      "addedAt": "2026-01-07T00:08:39.344Z",
+      "thumbnail": "https://archive.org/services/img/harmony_lane",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 66890
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036344",
-      "title": "Shantytown",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027184",
-      "title": "Waterfront Lady",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 150,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025427",
-      "title": "The Loudspeaker",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026019",
-      "title": "Young and Beautiful",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086879",
-      "title": "Amadeus",
-      "year": 1984,
-      "imdbRating": 8.4,
-      "imdbVotes": 458647,
-      "language": "English, Italian, Latin, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035206",
-      "title": "The Powers Girl",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048191",
-      "title": "I'll Cry Tomorrow",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 2526,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1509130",
-      "title": "Janie Jones",
-      "year": 2010,
-      "imdbRating": 6.6,
-      "imdbVotes": 2408,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026752",
-      "title": "Mutiny on the Bounty",
-      "year": 1935,
-      "imdbRating": 7.6,
-      "imdbVotes": 25741,
-      "language": "English, Polynesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0094747",
-      "title": "Bird",
-      "year": 1988,
-      "imdbRating": 7.1,
-      "imdbVotes": 14114,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0034813",
-      "title": "The Great Mr. Handel",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036344",
+    "tt0027184",
+    "tt0025427",
+    "tt0027495",
+    "tt0026019",
+    "tt0035206",
+    "tt0048191",
+    "tt1509130",
+    "tt0026752",
+    "tt0094747",
+    "tt0034813",
+    "tt0426627"
   ],
   "collections": [],
   "is_curated": true,

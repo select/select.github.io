@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lucky-star_1929",
+      "id": "lucky-star_1929",
       "title": "Lucky Star",
       "fileSize": 5207077601,
-      "id": "lucky-star_1929"
+      "addedAt": "2026-01-07T00:09:46.420Z",
+      "thumbnail": "https://archive.org/services/img/lucky-star_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 229
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018379",
-      "title": "7th Heaven",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 4348,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019429",
-      "title": "Street Angel",
-      "year": 1928,
-      "imdbRating": 7.3,
-      "imdbVotes": 2619,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021635",
-      "title": "Bad Girl",
-      "year": 1931,
-      "imdbRating": 6.4,
-      "imdbVotes": 1676,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022879",
-      "title": "A Farewell to Arms",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 7225,
-      "language": "English, Italian, Latin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051476",
-      "title": "China Doll",
-      "year": 1958,
-      "imdbRating": 6,
-      "imdbVotes": 652,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020490",
-      "title": "They Had to See Paris",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 199,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018879",
-      "title": "Fazil",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 239,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019312",
-      "title": "The Red Dance",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018455",
-      "title": "Sunrise",
-      "year": 1927,
-      "imdbRating": 8.1,
-      "imdbVotes": 55712,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018379",
+    "tt0019429",
+    "tt0021635",
+    "tt0022879",
+    "tt0051476",
+    "tt0020490",
+    "tt0018879",
+    "tt0019312",
+    "tt0018455",
+    "tt0019644",
+    "tt0019957",
+    "tt0019979"
   ],
   "collections": [],
   "is_curated": true,

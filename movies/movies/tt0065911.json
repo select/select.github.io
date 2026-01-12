@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/JaneEyre70",
+      "id": "JaneEyre70",
       "title": "Jane Eyre",
       "description": "Made-for-TV adaptation of the Bronte classic starring Susannah York and George C.Scott",
       "fileSize": 2211300976,
-      "id": "JaneEyre70"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/JaneEyre70",
+      "year": 1970,
+      "collection": "feature_films",
+      "downloads": 75228
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "Won 1 Primetime Emmy. 1 win & 4 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0078753",
-      "title": "All Quiet on the Western Front",
-      "year": 1979,
-      "imdbRating": 7.1,
-      "imdbVotes": 11174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053750",
-      "title": "The Dark at the Top of the Stairs",
-      "year": 1960,
-      "imdbRating": 7.2,
-      "imdbVotes": 819,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055270",
-      "title": "The Outsider",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 1113,
-      "language": "English, North American Indian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068997",
-      "title": "The New Centurions",
-      "year": 1972,
-      "imdbRating": 7,
-      "imdbVotes": 3222,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066495",
-      "title": "The Twelve Chairs",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 7268,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0066344",
-      "title": "Scrooge",
-      "year": 1970,
-      "imdbRating": 7.5,
-      "imdbVotes": 13318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148692",
-      "title": "Safar",
-      "year": 1970,
-      "imdbRating": 7.2,
-      "imdbVotes": 451,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066049",
-      "title": "A Man Called Horse",
-      "year": 1970,
-      "imdbRating": 6.8,
-      "imdbVotes": 9898,
-      "language": "English, Sioux, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182701",
-      "title": "Amalio Reyes, un hombre",
-      "year": 1970,
-      "imdbRating": 5,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065451",
-      "title": "Barquero",
-      "year": 1970,
-      "imdbRating": 6.3,
-      "imdbVotes": 2131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065466",
-      "title": "Beyond the Valley of the Dolls",
-      "year": 1970,
-      "imdbRating": 6.1,
-      "imdbVotes": 12310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064093",
-      "title": "Black Water Gold",
-      "year": 1970,
-      "imdbRating": 5.8,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0078753",
+    "tt0053750",
+    "tt0055270",
+    "tt0068997",
+    "tt0066495",
+    "tt0066344",
+    "tt0148692",
+    "tt0066049",
+    "tt0182701",
+    "tt0065451",
+    "tt0065466",
+    "tt0064093"
   ],
   "collections": [],
   "is_curated": true,

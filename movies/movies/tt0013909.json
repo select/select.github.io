@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cameo-kirby",
+      "id": "silent-cameo-kirby",
       "title": "Cameo Kirby",
       "fileSize": 1136166834,
-      "id": "silent-cameo-kirby"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cameo-kirby",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 1060
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014321",
-      "title": "North of Hudson Bay",
-      "year": 1923,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015016",
-      "title": "The Iron Horse",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 2649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013735",
-      "title": "The Village Blacksmith",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 135,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011358",
-      "title": "Just Pals",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 513,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019182",
-      "title": "Mother Machree",
-      "year": 1927,
-      "imdbRating": 5.4,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018530",
-      "title": "Upstream",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046384",
-      "title": "The Sun Shines Bright",
-      "year": 1953,
-      "imdbRating": 6.9,
-      "imdbVotes": 1870,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018909",
-      "title": "Four Sons",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 923,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0014321",
+    "tt0015016",
+    "tt0013735",
+    "tt0017463",
+    "tt0011358",
+    "tt0019182",
+    "tt0018530",
+    "tt0023955",
+    "tt0018972",
+    "tt0025335",
+    "tt0046384",
+    "tt0018909"
   ],
   "collections": [],
   "is_curated": true,

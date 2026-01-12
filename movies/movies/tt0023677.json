@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Week-endMarriage",
+      "id": "Week-endMarriage",
       "title": "Week-End Marriage",
       "description": "tr",
       "fileSize": 12120691,
-      "id": "Week-endMarriage"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/Week-endMarriage",
+      "collection": "feature_films",
+      "downloads": 1145
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022943",
-      "title": "Girl of the Rio",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022268",
-      "title": "Platinum Blonde",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3687,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023537",
-      "title": "A Successful Calamity",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022628",
-      "title": "The Animal Kingdom",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 1353,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022093",
-      "title": "Love in High Gear",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023580",
-      "title": "There Goes the Bride",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022802",
-      "title": "The Dark Horse",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 1386,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023158",
-      "title": "Love Me Tonight",
-      "year": 1932,
-      "imdbRating": 7.5,
-      "imdbVotes": 4934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023202",
-      "title": "Me and My Gal",
-      "year": 1932,
-      "imdbRating": 6.6,
-      "imdbVotes": 1442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021649",
-      "title": "Behind Office Doors",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 556,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024124",
-      "title": "His Private Secretary",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 797,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022943",
+    "tt0022268",
+    "tt0023537",
+    "tt0022628",
+    "tt0022093",
+    "tt0023580",
+    "tt0022802",
+    "tt0023158",
+    "tt0023202",
+    "tt0021649",
+    "tt0023955",
+    "tt0024124"
   ],
   "collections": [],
   "is_curated": true,

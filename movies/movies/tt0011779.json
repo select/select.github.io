@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-toll-gate",
+      "id": "silent-the-toll-gate",
       "title": "The Toll Gate",
       "fileSize": 767938173,
-      "id": "silent-the-toll-gate"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-toll-gate",
+      "language": "English",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 501
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010853",
-      "title": "Wagon Tracks",
-      "year": 1919,
-      "imdbRating": 6.7,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197903",
-      "title": "Something New",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 347,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010726",
-      "title": "The Spiders - Episode 1: The Golden Sea",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1563,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0012839",
-      "title": "The Whistle",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024868",
-      "title": "Before Midnight",
-      "year": 1933,
-      "imdbRating": 5.9,
-      "imdbVotes": 315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011078",
-      "title": "The Cradle of Courage",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 85,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037009",
-      "title": "Law Men",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037165",
-      "title": "Partners of the Trail",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036421",
-      "title": "The Texas Kid",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014770",
-      "title": "The Chechahcos",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 265,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008892",
-      "title": "'Blue Blazes' Rawden",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0010853",
+    "tt0197903",
+    "tt0010726",
+    "tt0012839",
+    "tt0024868",
+    "tt0011078",
+    "tt0037009",
+    "tt0037165",
+    "tt0036421",
+    "tt0014770",
+    "tt0008892",
+    "tt0042383"
   ],
   "collections": [],
   "is_curated": true,

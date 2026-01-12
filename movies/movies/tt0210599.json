@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CannedHarmony",
+      "id": "CannedHarmony",
       "title": "Canned Harmony",
       "description": "Canned Harmony (1912) is directed by Alice Gay Blache who was the first woman director and the first persons to direct a fiction film in 1896. She also co-owned with her husband one of the first film studios, where she posted a sign reading \"ACT NATURALLY\" She also directed \"Algie the Miner\" which is found elsewhere in the Archive.",
       "fileSize": 298441081,
-      "id": "CannedHarmony"
+      "addedAt": "2026-01-07T00:06:14.041Z",
+      "thumbnail": "https://archive.org/services/img/CannedHarmony",
+      "collection": "feature_films",
+      "downloads": 3653
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-canned-harmony",
+      "id": "silent-canned-harmony",
       "title": "Canned Harmony",
       "fileSize": 342313504,
-      "id": "silent-canned-harmony"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-canned-harmony",
+      "language": "English",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 354
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0256909",
-      "title": "Making an American Citizen",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 395,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1289621",
-      "title": "Officer Henderson",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002983",
-      "title": "A House Divided",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1389556",
-      "title": "A Severe Test",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210835",
-      "title": "Matrimony's Speed Limit",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210675",
-      "title": "Falling Leaves",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 1821,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004413",
-      "title": "The Ocean Waif",
-      "year": 1916,
-      "imdbRating": 6.3,
-      "imdbVotes": 510,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003876",
-      "title": "The Egyptian Mummy",
-      "year": 1914,
-      "imdbRating": 5.8,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215495",
-      "title": "Algie, the Miner",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 568,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759516",
-      "title": "Course à la saucisse",
-      "year": 1907,
-      "imdbRating": 6.1,
-      "imdbVotes": 323,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000288",
-      "title": "La concierge",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649427",
-      "title": "Une course d'obstacle",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 145,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0256909",
+    "tt1289621",
+    "tt0002983",
+    "tt1389556",
+    "tt0210835",
+    "tt0210675",
+    "tt0004413",
+    "tt0003876",
+    "tt0215495",
+    "tt0759516",
+    "tt0000288",
+    "tt1649427"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cheer-boys-cheer",
+      "id": "cheer-boys-cheer",
       "title": "Cheer Boys Cheer",
       "description": "Ironside, an inferior brewer, enlists his son John in a ruse to acquire venerable rival Greenleaf; but a romance between John and Greenleaf’s lovely daughter intervenes.",
       "fileSize": 6708147790,
-      "id": "cheer-boys-cheer"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/cheer-boys-cheer",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 1835
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031490",
-      "title": "Inspector Hornleigh on Holiday",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032323",
-      "title": "Charley's (Big-Hearted) Aunt",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033016",
-      "title": "Saloon Bar",
-      "year": 1940,
-      "imdbRating": 6.9,
-      "imdbVotes": 273,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033660",
-      "title": "The Ghost Train",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 1715,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030569",
-      "title": "Penny Paradise",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034907",
-      "title": "It's That Man Again",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 94,
-      "language": "Italian, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033031",
-      "title": "The Secret Four",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 196,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031397",
-      "title": "Gulliver's Travels",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 5174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031322",
-      "title": "The Flying Deuces",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 6052,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031580",
-      "title": "The Little Princess",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 6909,
-      "language": "English, Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185836",
-      "title": "24 horas en libertad",
-      "year": 1939,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031124",
-      "title": "Bulldog Drummond's Bride",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 542,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0031490",
+    "tt0032323",
+    "tt0033016",
+    "tt0033660",
+    "tt0030569",
+    "tt0034907",
+    "tt0033031",
+    "tt0031397",
+    "tt0031322",
+    "tt0031580",
+    "tt0185836",
+    "tt0031124"
   ],
   "collections": [],
   "is_curated": true,

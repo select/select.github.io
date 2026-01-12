@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LantiqueTolde",
+      "id": "LantiqueTolde",
       "title": "L'antique Tolède",
       "description": "A compilation of views of Toledo showing bridges, walls and other architectural highlights that appear to date from as early as the 8th century by Segundo de Chomón.",
       "fileSize": 29790320,
-      "id": "LantiqueTolde"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/LantiqueTolde",
+      "language": "French",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 20333
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt8646230",
-      "title": "Barcelone et son parc",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 40,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454107",
-      "title": "Le cottage hanté",
-      "year": 1913,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0345583",
-      "title": "Loie Fuller",
-      "year": 1902,
-      "imdbRating": 5.4,
-      "imdbVotes": 191,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977188",
-      "title": "Aleksandar Karadjordjevic vo poseta na Bitola",
-      "year": 1912,
-      "imdbVotes": 78,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1122806",
-      "title": "Copper Mines at Bingham, Utah",
-      "year": 1912,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2194615",
-      "title": "Life on the Circle Ranch in California",
-      "year": 1912,
-      "imdbRating": 5.2,
-      "imdbVotes": 22,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977200",
-      "title": "Otvoranje na gradska kafeana vo Bitola",
-      "year": 1912,
-      "imdbRating": 4.7,
-      "imdbVotes": 91,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647246",
-      "title": "The War Bonnet Round-Up",
-      "year": 1912,
-      "imdbRating": 4.1,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449985",
-      "title": "L'iris fantastique",
-      "year": 1912,
-      "imdbRating": 4.7,
-      "imdbVotes": 81,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326373",
-      "title": "A Trip to Jupiter",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 316,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0855966",
-      "title": "Pickpock ne craint pas les entraves",
-      "year": 1909,
-      "imdbRating": 6.7,
-      "imdbVotes": 214,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt8646230",
+    "tt0454107",
+    "tt0345583",
+    "tt2977188",
+    "tt1122806",
+    "tt2194615",
+    "tt2977200",
+    "tt2647246",
+    "tt0449985",
+    "tt0326373",
+    "tt0432623",
+    "tt0855966"
   ],
   "collections": [],
   "is_curated": true,

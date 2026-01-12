@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Sinking_of_the_Lusitania",
+      "id": "Sinking_of_the_Lusitania",
       "title": "The Sinking of the Lusitania",
       "description": "The Sinking of the Lusitania, released in 1918, is an animated short film by American artist Winsor McCay. It features a short 12 minute explanation of the sinking of RMS Lusitania after it was struck by two torpedoes fired from a German U-boat. The film was one of many animated silent films published to create anti-German sentiment during World War I. McCay illustrated some 25,000 drawings for the production. The film is stylized as a documentary, informing viewers on details from the actual event, including a moment by moment recap, casualty list, and a list of prominent figures who were killed.",
       "fileSize": 169075500,
-      "id": "Sinking_of_the_Lusitania"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/Sinking_of_the_Lusitania",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 77610
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-sinking-of-the-lusitania",
+      "id": "silent-the-sinking-of-the-lusitania",
       "title": "The Sinking of the Lusitania",
       "fileSize": 599551542,
-      "id": "silent-the-sinking-of-the-lusitania"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-sinking-of-the-lusitania",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 737
     }
   ],
   "metadata": {
@@ -34,108 +45,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004008",
-      "title": "Gertie the Dinosaur",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 3733,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002260",
-      "title": "How a Mosquito Operates",
-      "year": 1912,
-      "imdbRating": 6.3,
-      "imdbVotes": 1322,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126879",
-      "title": "Dreams of the Rarebit Fiend: Bug Vaudeville",
-      "year": 1921,
-      "imdbRating": 5.7,
-      "imdbVotes": 377,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012123",
-      "title": "Dreams of the Rarebit Fiend: The Pet",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 437,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126913",
-      "title": "Flip's Circus",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009996",
-      "title": "The Centaurs",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 480,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007151",
-      "title": "Out of the Inkwell",
-      "year": 1918,
-      "imdbRating": 7.8,
-      "imdbVotes": 66,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0167760",
-      "title": "All Together",
-      "year": 1942,
-      "imdbRating": 4.9,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1092605",
-      "title": "Momotarô",
-      "year": 1918,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0004008",
+    "tt0002260",
+    "tt0126879",
+    "tt0012123",
+    "tt0126913",
+    "tt0126926",
+    "tt0009996",
+    "tt0007151",
+    "tt12305226",
+    "tt12304756",
+    "tt0167760",
+    "tt1092605"
   ],
   "collections": [],
   "is_curated": true,

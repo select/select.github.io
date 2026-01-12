@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/JohnnyYoureWanted",
+      "id": "JohnnyYoureWanted",
       "title": "Johnny You're Wanted",
       "description": "Title: Johnny You're Wanted Summary: A truck driver is accused of the murder of a hitch hiker. Directed by: Vernon Sewell Actors: John Slater, Alfred Marks, Garry Marsh Production Company: George Maynard Productions Release Date: January 1956 (UK) Aspect Ratio: 1.37 : 1 A truck driver is accused of the murder of a hitch hiker.",
       "fileSize": 485908345,
-      "id": "JohnnyYoureWanted"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/JohnnyYoureWanted",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 1773
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0047387",
-      "title": "Radio Cab Murder",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055484",
-      "title": "Strongroom",
-      "year": 1962,
-      "imdbRating": 7.2,
-      "imdbVotes": 655,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049406",
-      "title": "The Killing",
-      "year": 1956,
-      "imdbRating": 7.9,
-      "imdbVotes": 102237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049904",
-      "title": "The Unguarded Moment",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049955",
-      "title": "The Wild Party",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049854",
-      "title": "Tiger in the Smoke",
-      "year": 1956,
-      "imdbRating": 6.2,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049769",
-      "title": "Slightly Scarlet",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049636",
-      "title": "The Price of Fear",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 726,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050087",
-      "title": "5 Steps to Danger",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 1183,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050271",
-      "title": "Crime of Passion",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 3102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049621",
-      "title": "Please Murder Me!",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1693,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0047387",
+    "tt0055484",
+    "tt0049340",
+    "tt0049406",
+    "tt0049904",
+    "tt0049955",
+    "tt0049854",
+    "tt0049769",
+    "tt0049636",
+    "tt0050087",
+    "tt0050271",
+    "tt0049621"
   ],
   "collections": [],
   "is_curated": true,

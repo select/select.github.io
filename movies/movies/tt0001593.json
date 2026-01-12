@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EnochArden",
+      "id": "EnochArden",
       "title": "Enoch Arden",
       "description": "Seamen Enoch Arden (Alfred Paget) returns home after a long absence marooned on a desert island. At home he finds his wife (Lillian Gish) married to another (Wallace Reid), and though he loves her, he cannot bear to disrupt her current happiness.",
       "fileSize": 638818492,
-      "id": "EnochArden"
+      "addedAt": "2026-01-07T00:06:19.370Z",
+      "thumbnail": "https://archive.org/services/img/EnochArden",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 4604
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EnochArden_201312",
+      "id": "EnochArden_201312",
       "title": "\"Enoch Arden\" (1911) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"Enoch Arden\" is a short drama. This film illustrates the work of 3 stars of Silent Hall of Fame - actress Florence La Badie, actor Robert Harron and cinematographer Billy Bitzer. Directed by                        D.W. Griffith Produced by                       Biograph Company Based on                             the poem “Enoch Arden” by Alfred Lord Tennyson Cinematography               G.W. Bitzer Starring                              Wilfred Lucas, Linda Arvidson, Florence La Badie, Robert Harron, Frank Grandon Distributed by                     Biograph Company Release date                        June 1911 Running time                      33 min. Country                               United States Language                             Silent, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 757414047,
-      "id": "EnochArden_201312"
+      "addedAt": "2026-01-07T00:06:19.370Z",
+      "thumbnail": "https://archive.org/services/img/EnochArden_201312",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 2783
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001615",
-      "title": "Fisher Folks",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001701",
-      "title": "The Indian Brothers",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 80,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001949",
-      "title": "The Two Paths",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001913",
-      "title": "Swords and Hearts",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001789",
-      "title": "The Miser's Heart",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 309,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001680",
-      "title": "His Trust: The Faithful Devotion and Self-Sacrifice of an Old Negro Servant",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 661,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001681",
-      "title": "His Trust Fulfilled",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001740",
-      "title": "The Lonedale Operator",
-      "year": 1911,
-      "imdbRating": 6.5,
-      "imdbVotes": 1322,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001431",
-      "title": "The Unchanging Sea",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 916,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001615",
+    "tt0001987",
+    "tt0001753",
+    "tt0001701",
+    "tt0001949",
+    "tt0001913",
+    "tt0001789",
+    "tt0001680",
+    "tt0001681",
+    "tt0001740",
+    "tt0001431",
+    "tt0001371"
   ],
   "collections": [],
   "is_curated": true,

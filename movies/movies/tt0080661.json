@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DressedToKill_201508",
+      "id": "DressedToKill_201508",
       "title": "Dressed To Kill",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 2348,
-      "id": "DressedToKill_201508"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DressedToKill_201508",
+      "collection": "feature_films",
+      "downloads": 173
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dressed_to_kill_ipod",
+      "id": "dressed_to_kill_ipod",
       "title": "Dressed to Kill",
       "description": "Aka 'Sherlock Holmes in Dressed To Kill' - features Basil Rathbone as Sherlock Holmes.",
       "fileSize": 1055302065,
-      "id": "dressed_to_kill_ipod"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dressed_to_kill_ipod",
+      "collection": "feature_films",
+      "downloads": 54882
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AnotherMysteryNightAtTheBijoudoubleFeature",
+      "id": "AnotherMysteryNightAtTheBijoudoubleFeature",
       "title": "ANOTHER MYSTERY NIGHT AT THE BIJOU (double feature)",
       "description": "This is a simulated Sherlock Holmes double feature program at a second-run movie house in the 1940s. The evening's entertainment begins with coming attractions and a cartoon, followed by \"Dressed to Kill.\" The intermission featurette is the Robert Benchley short, \"A Night at the Movies.\" The second feature presentation is \"The Secret Weapon.\" NOTE: All the items in this mysterious simulation can be found in various IA collections.",
       "fileSize": 2507239375,
-      "id": "AnotherMysteryNightAtTheBijoudoubleFeature"
+      "addedAt": "2026-01-07T00:06:09.635Z",
+      "thumbnail": "https://archive.org/services/img/AnotherMysteryNightAtTheBijoudoubleFeature",
+      "collection": "feature_films",
+      "downloads": 13505
     }
   ],
   "metadata": {
@@ -43,116 +55,18 @@
     "Awards": "1 win & 10 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074342",
-      "title": "Death Rage",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 935,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204626",
-      "title": "The Watcher",
-      "year": 2000,
-      "imdbRating": 5.3,
-      "imdbVotes": 29163,
-      "language": "English, Vietnamese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3319920",
-      "title": "Regression",
-      "year": 2015,
-      "imdbRating": 5.6,
-      "imdbVotes": 44155,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0044314",
-      "title": "5 Fingers",
-      "year": 1952,
-      "imdbRating": 7.6,
-      "imdbVotes": 5573,
-      "language": "English, German, Portuguese, Turkish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047119",
-      "title": "An Inspector Calls",
-      "year": 1954,
-      "imdbRating": 7.5,
-      "imdbVotes": 5549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052634",
-      "title": "Chance Meeting",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030049",
-      "title": "Delinquent Parents",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0074342",
+    "tt0038494",
+    "tt0028231",
+    "tt0204626",
+    "tt3319920",
+    "tt0044314",
+    "tt0011904",
+    "tt0047119",
+    "tt0052634",
+    "tt0035694",
+    "tt0030049",
+    "tt0032404"
   ],
   "collections": [
     {

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ImmortalGarrison",
+      "id": "ImmortalGarrison",
       "title": "Immortal garrison",
       "description": "The film is devoted unprecedented feat of defenders of the Brest fortress.",
       "fileSize": 2333217861,
-      "id": "ImmortalGarrison"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/ImmortalGarrison",
+      "collection": "feature_films",
+      "downloads": 3422
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "1 win & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049783",
-      "title": "The Forty-First",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 1690,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0049871",
-      "title": "A Town Like Alice",
-      "year": 1956,
-      "imdbRating": 7.2,
-      "imdbVotes": 1980,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049302",
-      "title": "Hell in Korea",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048966",
-      "title": "Attack",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 6042,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049934",
-      "title": "War and Peace",
-      "year": 1956,
-      "imdbRating": 6.7,
-      "imdbVotes": 11288,
-      "language": "English, Russian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049014",
-      "title": "The Black Tent",
-      "year": 1956,
-      "imdbRating": 5.5,
-      "imdbVotes": 491,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049672",
-      "title": "The Revolt of Mamie Stover",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 1062,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049012",
-      "title": "The Burmese Harp",
-      "year": 1956,
-      "imdbRating": 8,
-      "imdbVotes": 7071,
-      "language": "Japanese, English, Burmese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050634",
-      "title": "The Cranes Are Flying",
-      "year": 1957,
-      "imdbRating": 8.3,
-      "imdbVotes": 21499,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0048413",
-      "title": "Napoleon",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 615,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050803",
-      "title": "The One That Got Away",
-      "year": 1957,
-      "imdbRating": 7.1,
-      "imdbVotes": 2573,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048818",
-      "title": "Yellowneck",
-      "year": 1955,
-      "imdbRating": 4.4,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049783",
+    "tt0049871",
+    "tt0049302",
+    "tt0048966",
+    "tt0049934",
+    "tt0049014",
+    "tt0049672",
+    "tt0049012",
+    "tt0050634",
+    "tt0048413",
+    "tt0050803",
+    "tt0048818"
   ],
   "collections": [],
   "is_curated": true,

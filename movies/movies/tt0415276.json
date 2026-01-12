@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_510",
+      "id": "rog561b_netzero_510",
       "title": "510",
       "description": "510",
       "fileSize": 2287975791,
-      "id": "rog561b_netzero_510"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_510",
+      "collection": "feature_films",
+      "downloads": 1133
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_510",
+      "id": "rog56_mail_510",
       "title": "510",
       "description": "510",
       "fileSize": 2614104677,
-      "id": "rog56_mail_510"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_510",
+      "collection": "feature_films",
+      "downloads": 2149
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_510_201606",
+      "id": "rog56_mail_510_201606",
       "title": "510",
       "description": "510",
       "fileSize": 4429325245,
-      "id": "rog56_mail_510_201606"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_510_201606",
+      "collection": "feature_films",
+      "downloads": 2634
     }
   ],
   "metadata": {
@@ -43,108 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt14022272",
-      "title": "Emma Goldman: The Anarchist Guest",
-      "year": 2000,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0460978",
-      "title": "Velkommen hjem - Leila",
-      "year": 1996,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322208",
-      "title": "Painting",
-      "year": 1996,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0441146",
-      "title": "Chiapas: La guerra y la paz, 1994-2004",
-      "year": 2004,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0398785",
-      "title": "The Blood Tide",
-      "year": 1998,
-      "imdbRating": 5.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt14022272",
+    "tt0460978",
+    "tt7322208",
+    "tt0441146",
+    "tt0398785",
+    "tt6564690",
+    "tt3155794",
+    "tt0021576",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486"
   ],
   "collections": [],
   "is_curated": true,

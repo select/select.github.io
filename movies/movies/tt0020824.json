@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/die-vom-rummelplatz-1930",
+      "id": "die-vom-rummelplatz-1930",
       "title": "Die vom Rummelplatz",
       "description": "https://web.archive.org/web/20230319140646/https://en.wikipedia.org/wiki/Fairground_People",
       "fileSize": 627784090,
-      "id": "die-vom-rummelplatz-1930"
+      "addedAt": "2026-01-07T00:08:07.355Z",
+      "thumbnail": "https://archive.org/services/img/die-vom-rummelplatz-1930",
+      "language": "ger",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 1017
     }
   ],
   "metadata": {
@@ -27,108 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022648",
-      "title": "Baby",
-      "year": 1932,
-      "imdbRating": 7.4,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018869",
-      "title": "Evas Töchter",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 28,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255179",
-      "title": "Fräulein Hoffmanns Erzählungen",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025944",
-      "title": "Die vertauschte Braut",
-      "year": 1934,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234759",
-      "title": "So ein Theater!",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026516",
-      "title": "Ich liebe alle Frauen",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 31,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0241030",
-      "title": "Das verliebte Hotel",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025661",
-      "title": "Polenblut",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020703",
-      "title": "Borrowed Wives",
-      "year": 1930,
-      "imdbRating": 5.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022648",
+    "tt0018869",
+    "tt0255179",
+    "tt0025944",
+    "tt0129972",
+    "tt0028018",
+    "tt0234759",
+    "tt0026516",
+    "tt0241030",
+    "tt0025661",
+    "tt0021576",
+    "tt0020703"
   ],
   "collections": [],
   "is_curated": true,

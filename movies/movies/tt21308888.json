@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SinnersInParadise_287",
+      "id": "SinnersInParadise_287",
       "title": "Sinners In Paradise",
       "description": "A group of people are stranded on a desert island",
       "fileSize": 618431672,
-      "id": "SinnersInParadise_287"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/SinnersInParadise_287",
+      "collection": "feature_films",
+      "downloads": 12719
     }
   ],
   "metadata": {
@@ -27,125 +31,18 @@
     "Awards": "3 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt27440937",
-      "title": "Weapon",
-      "year": 2024,
-      "imdbRating": 5.8,
-      "imdbVotes": 5462,
-      "language": "Tamil",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6876854",
-      "title": "Edge of Extinction",
-      "year": 2020,
-      "imdbRating": 4.9,
-      "imdbVotes": 1823,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt12942958",
-      "title": "Monster Hunters",
-      "year": 2020,
-      "imdbRating": 2.3,
-      "imdbVotes": 874,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6456326",
-      "title": "Monsters of Man",
-      "year": 2020,
-      "imdbRating": 5.4,
-      "imdbVotes": 8794,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt8664988",
-      "title": "The Blackout",
-      "year": 2019,
-      "imdbRating": 6,
-      "imdbVotes": 11741,
-      "language": "Russian, Russian Sign , English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt10309088",
-      "title": "San Andreas Mega Quake",
-      "year": 2019,
-      "imdbRating": 2.4,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1094162",
-      "title": "AVH: Alien vs. Hunter",
-      "year": 2007,
-      "imdbRating": 1.5,
-      "imdbVotes": 3548,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2175184",
-      "title": "Total Retribution",
-      "year": 2011,
-      "imdbRating": 2.2,
-      "imdbVotes": 369,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2275499",
-      "title": "Alien Dawn",
-      "year": 2012,
-      "imdbRating": 2.3,
-      "imdbVotes": 963,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0143127",
-      "title": "Batman & Mr. Freeze: SubZero",
-      "year": 1998,
-      "imdbRating": 7.2,
-      "imdbVotes": 14445,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0221905",
-      "title": "Octopus",
-      "year": 2000,
-      "imdbRating": 3,
-      "imdbVotes": 1864,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1564369",
-      "title": "Scavengers",
-      "year": 2013,
-      "imdbRating": 2.8,
-      "imdbVotes": 1085,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt27440937",
+    "tt6876854",
+    "tt12942958",
+    "tt6456326",
+    "tt8664988",
+    "tt10309088",
+    "tt1094162",
+    "tt2175184",
+    "tt2275499",
+    "tt0143127",
+    "tt0221905",
+    "tt1564369"
   ],
   "collections": [],
   "is_curated": true,

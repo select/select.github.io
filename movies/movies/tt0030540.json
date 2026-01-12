@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OutsideOfParadise_513",
+      "id": "OutsideOfParadise_513",
       "title": "Outside of Paradise",
       "description": "When a New York City singer inherits a castle in Ireland his cabaret band goes with him to claim his inheritance. Unfortunately there is a young girl living in the castle that owns half of it, and they do not see eye to eye about anything.",
       "fileSize": 1254804234,
-      "id": "OutsideOfParadise_513"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OutsideOfParadise_513",
+      "collection": "feature_films",
+      "downloads": 1361
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Outsideofparadise",
+      "id": "Outsideofparadise",
       "title": "Outsideofparadise",
       "description": "film",
       "fileSize": 684075756,
-      "id": "Outsideofparadise"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/Outsideofparadise",
+      "collection": "feature_films",
+      "downloads": 1008
     }
   ],
   "metadata": {
@@ -35,116 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029482",
-      "title": "Rhythm in the Clouds",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029885",
-      "title": "Artists and Models Abroad",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 139,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031763",
-      "title": "Opernball",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 91,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031278",
-      "title": "Escape to Paradise",
-      "year": 1939,
-      "imdbRating": 4.7,
-      "imdbVotes": 84,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031716",
-      "title": "Never Say Die",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 658,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028931",
-      "title": "The Girl Said No",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029193",
-      "title": "Make a Wish",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028062",
-      "title": "One Rainy Afternoon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027519",
-      "title": "The Devil on Horseback",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032624",
-      "title": "If I Had My Way",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033029",
-      "title": "Second Chorus",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 1798,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0029482",
+    "tt0029885",
+    "tt0031763",
+    "tt0031278",
+    "tt0031716",
+    "tt0028931",
+    "tt0029193",
+    "tt0028062",
+    "tt0027519",
+    "tt0032624",
+    "tt0033029",
+    "tt0033632"
   ],
   "collections": [],
   "is_curated": true,

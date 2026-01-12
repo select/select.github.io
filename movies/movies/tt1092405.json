@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/popelka_1929",
+      "id": "popelka_1929",
       "title": "Popelka",
       "fileSize": 8319401041,
-      "id": "popelka_1929"
+      "addedAt": "2026-01-07T00:10:21.537Z",
+      "thumbnail": "https://archive.org/services/img/popelka_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 71
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019688",
-      "title": "Big Business",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 3445,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019714",
-      "title": "Bosko the Talk-Ink Kid",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 617,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019715",
-      "title": "Bouncing Babies",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019716",
-      "title": "Boxing Gloves",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233415",
-      "title": "Cat, Dog & Co.",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 66,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020484",
-      "title": "El terrible toreador",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020049",
-      "title": "Jungle Rhythm",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 452,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020161",
-      "title": "Men O'War",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 1430,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020168",
-      "title": "Mickey's Follies",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020179",
-      "title": "Moan & Groan, Inc.",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234347",
-      "title": "Noisy Noises",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020307",
-      "title": "Railroadin'",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019688",
+    "tt0019714",
+    "tt0019715",
+    "tt0019716",
+    "tt0233415",
+    "tt0020484",
+    "tt0020049",
+    "tt0020161",
+    "tt0020168",
+    "tt0020179",
+    "tt0234347",
+    "tt0020307"
   ],
   "collections": [],
   "is_curated": true,

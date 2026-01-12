@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-sweet-sound-of-death-la-llamada",
+      "id": "the-sweet-sound-of-death-la-llamada",
       "title": "The Sweet Sound Of Death",
       "description": "Pablo is in love with Dominique, whom he wants to marry. The girl leads them to a cemetery, where she convinces Pablo that should either of them die, the other will return and help them prepare for the afterlife. She leaves Madrid on a vacation in Bretagna, and dies en route. Pablo receives a call the next day. It is Dominique.",
       "fileSize": 206452797,
-      "id": "the-sweet-sound-of-death-la-llamada"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-sweet-sound-of-death-la-llamada",
+      "collection": "feature_films",
+      "downloads": 115
     }
   ],
   "metadata": {
@@ -26,111 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9459600",
-      "title": "Silent Traces: Discovering Early Hollywood Through the Films of Charlie Chaplin",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422758",
-      "title": "Steal This Film II",
-      "year": 2007,
-      "imdbRating": 7.3,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422757",
-      "title": "Steal This Film",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 489,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0479676",
-      "title": "Harold Lloyd Comedy Collection: Harold's Hollywood - Then and Now",
-      "year": 2005,
-      "imdbRating": 6.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0856228",
-      "title": "King of the Lost World: Behind the Scenes",
-      "year": 2005,
-      "imdbRating": 1.8,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt9459600",
+    "tt1422758",
+    "tt1422757",
+    "tt0479676",
+    "tt0856228",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt1515754"
   ],
   "collections": [],
   "is_curated": true,

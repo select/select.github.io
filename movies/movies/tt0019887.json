@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/theflyingfool",
+      "id": "theflyingfool",
       "title": "The Flying Fool",
       "description": "“Not recommended for ‘Hoppy’ fans” (IMDB review quote). Pre-Hopalong-Cassidy William Boyd stars in this primitive early talky that's cornier than an Iowa silo in September. Other than some spectacular stunt flying (see NOTE) all it has going for it is its curiosity value. IMDB rating 5.4. Directed by Tay Garnett. Released in 1929. Complete pint (minus a few missing frames). NOTE: The pilot of Boyd’s biplane was pioneer female aviator Pancho Barnes.",
       "fileSize": 979675571,
-      "id": "theflyingfool"
+      "addedAt": "2026-01-07T00:12:44.281Z",
+      "thumbnail": "https://archive.org/services/img/theflyingfool",
+      "collection": "feature_films",
+      "downloads": 3597
     }
   ],
   "metadata": {
@@ -27,119 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021198",
-      "title": "Officer O'Brien",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020234",
-      "title": "Oh, Yeah?",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031282",
-      "title": "Eternally Yours",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033062",
-      "title": "Slightly Honorable",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033038",
-      "title": "Seven Sinners",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 1850,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0023293",
-      "title": "The Old Dark House",
-      "year": 1932,
-      "imdbRating": 7,
-      "imdbVotes": 13736,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0019414",
-      "title": "The Spieler",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019339",
-      "title": "The Rush Hour",
-      "year": 1927,
-      "imdbRating": 7.9,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4364194",
-      "title": "The Peanut Butter Falcon",
-      "year": 2019,
-      "imdbRating": 7.6,
-      "imdbVotes": 117031,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1582465",
-      "title": "A Birder's Guide to Everything",
-      "year": 2013,
-      "imdbRating": 6.2,
-      "imdbVotes": 2422,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0021198",
+    "tt0020234",
+    "tt0019987",
+    "tt0031282",
+    "tt0033062",
+    "tt0033038",
+    "tt0023293",
+    "tt0019414",
+    "tt0019339",
+    "tt0020030",
+    "tt4364194",
+    "tt1582465"
   ],
   "collections": [],
   "is_curated": true,

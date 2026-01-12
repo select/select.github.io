@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Flak_",
+      "id": "Flak_",
       "title": "FLAK",
       "description": "FlaK the german short term for Fl ug a bwehr k anone (Antiaircraft gun) This once-classified U.S. Air Force training film depicts evasive maneuvers used by bomber pilots to avoid being hit by enemy antiaircraft fire. The film includes animated illustrations by Disney studios and captured footage of enemy antiaircraft batteries in action",
       "fileSize": 460838398,
-      "id": "Flak_"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/Flak_",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 6586
     }
   ],
   "metadata": {
@@ -27,100 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2152805",
-      "title": "Panzer im Angriff",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1966357",
-      "title": "Basic Typing, Part I: Methods",
-      "year": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6240486",
-      "title": "Voting for Service Men Overseas",
-      "year": 1944,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038175",
-      "title": "To the Shores of Iwo Jima",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15527684",
-      "title": "What Price Iwo?",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183205",
-      "title": "How to Fly the P-47: Ground Handling, Take Off, Normal Flight",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1615446",
-      "title": "Don't Kill Your Friends",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184967",
-      "title": "Troop Train",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt2152805",
+    "tt1966357",
+    "tt6240486",
+    "tt0896825",
+    "tt12816892",
+    "tt0038175",
+    "tt15527684",
+    "tt0183205",
+    "tt12606824",
+    "tt1615446",
+    "tt0184967",
+    "tt16899218"
   ],
   "collections": [],
   "is_curated": true,

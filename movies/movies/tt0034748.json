@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/foreign-agent-1942",
+      "id": "foreign-agent-1942",
       "title": "Foreign Agent (1942)",
       "description": "Gale Storm",
       "fileSize": 1357690442,
-      "id": "foreign-agent-1942"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/foreign-agent-1942",
+      "collection": "feature_films",
+      "downloads": 1114
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035057",
-      "title": "Men of San Quentin",
-      "year": 1942,
-      "imdbRating": 4.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0306057",
-      "title": "Second Chance",
-      "year": 1950,
-      "imdbRating": 5.7,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033399",
-      "title": "Blonde Comet",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 112,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033595",
-      "title": "Federal Fugitives",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035089",
-      "title": "Mr. Celebrity",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035640",
-      "title": "The Ape Man",
-      "year": 1943,
-      "imdbRating": 4.4,
-      "imdbVotes": 1572,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036382",
-      "title": "Spotlight Scandals",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037441",
-      "title": "Voodoo Man",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 1282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034891",
-      "title": "In Which We Serve",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 6880,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035057",
+    "tt0306057",
+    "tt0033399",
+    "tt0033526",
+    "tt0033595",
+    "tt0035089",
+    "tt0035640",
+    "tt0036382",
+    "tt0037441",
+    "tt0136209",
+    "tt0159476",
+    "tt0034891"
   ],
   "collections": [],
   "is_curated": true,

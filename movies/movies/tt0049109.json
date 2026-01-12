@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cruel-tower-1956",
+      "id": "cruel-tower-1956",
       "title": "The Cruel Tower (1956)",
       "description": "John Ericson, Mari Blanchard, Charles McGraw",
       "fileSize": 1620244479,
-      "id": "cruel-tower-1956"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/cruel-tower-1956",
+      "collection": "feature_films",
+      "downloads": 667
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044466",
-      "title": "California Conquest",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034831",
-      "title": "Harvard, Here I Come!",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050208",
-      "title": "Boy on a Dolphin",
-      "year": 1957,
-      "imdbRating": 6.2,
-      "imdbVotes": 1994,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048121",
-      "title": "Hill 24 Doesn't Answer",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 637,
-      "language": "English, Hebrew, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048767",
-      "title": "Untamed",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044371",
-      "title": "Arctic Flight",
-      "year": 1952,
-      "imdbRating": 5.4,
-      "imdbVotes": 162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047675",
-      "title": "The White Orchid",
-      "year": 1954,
-      "imdbRating": 4.3,
-      "imdbVotes": 213,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041100",
-      "title": "Air Hostess",
-      "year": 1949,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031177",
-      "title": "Conspiracy",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 198,
-      "language": "English, Esperanto",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025940",
-      "title": "The Vanishing Shadow",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0044466",
+    "tt0034831",
+    "tt0050208",
+    "tt0048121",
+    "tt0048767",
+    "tt0044371",
+    "tt0047675",
+    "tt0042383",
+    "tt0041100",
+    "tt0034572",
+    "tt0031177",
+    "tt0025940"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/clacinonl_lumberjack",
+      "id": "clacinonl_lumberjack",
       "title": "Lumberjack",
       "fileSize": 1713280834,
-      "id": "clacinonl_lumberjack"
+      "addedAt": "2026-01-07T00:07:51.623Z",
+      "thumbnail": "https://archive.org/services/img/clacinonl_lumberjack",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 7305
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lumberjack1944",
+      "id": "lumberjack1944",
       "title": "Lumberjack",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3756960196,
-      "id": "lumberjack1944"
+      "addedAt": "2026-01-07T00:09:46.420Z",
+      "thumbnail": "https://archive.org/services/img/lumberjack1944",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 94846
     }
   ],
   "metadata": {
@@ -34,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036835",
-      "title": "Forty Thieves",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035663",
-      "title": "Bar 20",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 279,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035692",
-      "title": "Border Patrol",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035487",
-      "title": "Undercover Man",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 177,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033546",
-      "title": "Doomed Caravan",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033160",
-      "title": "Three Men from Texas",
-      "year": 1940,
-      "imdbRating": 6.8,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035700",
-      "title": "Buckskin Frontier",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032592",
-      "title": "Hidden Gold",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031925",
-      "title": "Silver on the Sage",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032706",
-      "title": "The Light of Western Stars",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033996",
-      "title": "Panhandle",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 360,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031419",
-      "title": "Heritage of the Desert",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036835",
+    "tt0035663",
+    "tt0035692",
+    "tt0035487",
+    "tt0033546",
+    "tt0033160",
+    "tt0035700",
+    "tt0032592",
+    "tt0031925",
+    "tt0032706",
+    "tt0033996",
+    "tt0031419"
   ],
   "collections": [
     {

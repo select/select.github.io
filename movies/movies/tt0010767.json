@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-die-teufelskirche",
+      "id": "silent-die-teufelskirche",
       "title": "Die Teufelskirche",
       "fileSize": 998373830,
-      "id": "silent-die-teufelskirche"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-die-teufelskirche",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 347
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010559",
-      "title": "Pest in Florenz",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 254,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010821",
-      "title": "Eerie Tales",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 676,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010307",
-      "title": "J'accuse!",
-      "year": 1919,
-      "imdbRating": 7.7,
-      "imdbVotes": 2140,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011130",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 6415,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011237",
-      "title": "The Golem",
-      "year": 1920,
-      "imdbRating": 7.2,
-      "imdbVotes": 8788,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011565",
-      "title": "The Penalty",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 2769,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011263",
-      "title": "Haunted Spooks",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1455,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010323",
-      "title": "The Cabinet of Dr. Caligari",
-      "year": 1920,
-      "imdbRating": 8,
-      "imdbVotes": 74697,
-      "language": "None, German",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0011221",
-      "title": "Genuine: The Tragedy of a Vampire",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 1171,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011607",
-      "title": "The Parson's Widow",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 1556,
-      "language": "None, Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012255",
-      "title": "The Haunted House",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 3791,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012364",
-      "title": "The Phantom Carriage",
-      "year": 1921,
-      "imdbRating": 8,
-      "imdbVotes": 15311,
-      "language": "None, Swedish",
-      "sourceType": "archive.org"
-    }
+    "tt0010559",
+    "tt0010821",
+    "tt0010307",
+    "tt0011130",
+    "tt0011237",
+    "tt0011565",
+    "tt0011263",
+    "tt0010323",
+    "tt0011221",
+    "tt0011607",
+    "tt0012255",
+    "tt0012364"
   ],
   "collections": [
     {

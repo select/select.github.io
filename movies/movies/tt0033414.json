@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/body-disappears-1941",
+      "id": "body-disappears-1941",
       "title": "The Body Disappears (1941)",
       "description": "Jeffrey Lynn, Jane Wyman, Edward Everett Horton",
       "fileSize": 1642955472,
-      "id": "body-disappears-1941"
+      "addedAt": "2026-01-07T00:07:38.719Z",
+      "thumbnail": "https://archive.org/services/img/body-disappears-1941",
+      "collection": "feature_films",
+      "downloads": 2040
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033712",
-      "title": "Here Comes Mr. Jordan",
-      "year": 1941,
-      "imdbRating": 7.5,
-      "imdbVotes": 7543,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034881",
-      "title": "I Married a Witch",
-      "year": 1942,
-      "imdbRating": 7.1,
-      "imdbVotes": 10422,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036962",
-      "title": "It Happened Tomorrow",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 3276,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032043",
-      "title": "Topper Takes a Trip",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 1544,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0029682",
-      "title": "Topper",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 8583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033435",
-      "title": "Broadway Limited",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 389,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033878",
-      "title": "Immer nur Du",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034265",
-      "title": "Tanz mit dem Kaiser",
-      "year": 1941,
-      "imdbRating": 6.7,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034730",
-      "title": "Fiesta",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 150,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034831",
-      "title": "Harvard, Here I Come!",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033712",
+    "tt0034881",
+    "tt0036962",
+    "tt0032043",
+    "tt0029682",
+    "tt0033891",
+    "tt0033435",
+    "tt0033632",
+    "tt0033878",
+    "tt0034265",
+    "tt0034730",
+    "tt0034831"
   ],
   "collections": [],
   "is_curated": true,

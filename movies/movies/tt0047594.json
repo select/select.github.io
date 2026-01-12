@@ -6,8 +6,13 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=0Z2bScHfSHE",
-      "title": "The Invisible Avenger",
       "id": "0Z2bScHfSHE",
+      "title": "The Invisible Avenger",
+      "addedAt": "2025-12-21T22:02:17.857Z",
+      "thumbnail": "https://i.ytimg.com/vi/0Z2bScHfSHE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCdHOpNfSX7dV1l675RaEvW_TJjYw",
+      "duration": 3403,
+      "language": "en",
+      "year": 1958,
       "channelName": "Timeless Classic Movies",
       "channelId": "UCOg0aMAXmF3o5m243PxhE5g",
       "regionRestriction": {
@@ -20,10 +25,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_invisible_avenger_theShadow_1958",
+      "id": "The_invisible_avenger_theShadow_1958",
       "title": "The_Invisible_Avenger_(The Shadow)_1958",
       "description": "This film has Lamont Cranston, aka The Shadow, and was the only one that showed him with the power to cloud men's minds, to make himself unseen. It has the look of a TV show, and is reported to have been conceived as a series pilot. The makers decided to release it as a movie, to be shown in theaters, instead. None of the characters from the radio show, other than Lamont Cranston, appear in this story. It's most fun when he uses his mind clouding ability to vanish.",
       "fileSize": 1402555951,
-      "id": "The_invisible_avenger_theShadow_1958"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/The_invisible_avenger_theShadow_1958",
+      "collection": "feature_films",
+      "downloads": 8128
     }
   ],
   "metadata": {
@@ -41,114 +50,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0047119",
-      "title": "An Inspector Calls",
-      "year": 1954,
-      "imdbRating": 7.5,
-      "imdbVotes": 5549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047434",
-      "title": "The Runaway Bus",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 784,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070723",
-      "title": "Soylent Green",
-      "year": 1973,
-      "imdbRating": 7,
-      "imdbVotes": 73901,
-      "language": "English, Spanish, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059678",
-      "title": "The Satan Bug",
-      "year": 1965,
-      "imdbRating": 6.1,
-      "imdbVotes": 3331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047149",
-      "title": "Killers from Space",
-      "year": 1954,
-      "imdbRating": 3.5,
-      "imdbVotes": 2632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048301",
-      "title": "A Life in the Balance",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048507",
-      "title": "Postmark for Danger",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 640,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047849",
-      "title": "Bad Day at Black Rock",
-      "year": 1955,
-      "imdbRating": 7.7,
-      "imdbVotes": 25740,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0243152",
-      "title": "Black Orchid",
-      "year": 1953,
-      "imdbRating": 6,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054930",
-      "title": "Girl on the Run",
-      "year": 1953,
-      "imdbRating": 5.1,
-      "imdbVotes": 253,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048426",
-      "title": "No Man's Woman",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047299",
-      "title": "One Jump Ahead",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0047119",
+    "tt0047434",
+    "tt0070723",
+    "tt0059678",
+    "tt0047149",
+    "tt0048301",
+    "tt0048507",
+    "tt0047849",
+    "tt0243152",
+    "tt0054930",
+    "tt0048426",
+    "tt0047299"
   ],
   "collections": [],
   "is_curated": true,

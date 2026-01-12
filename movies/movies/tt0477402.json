@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-wonders-of-magnetism",
+      "id": "silent-the-wonders-of-magnetism",
       "title": "The Wonders of Magnetism",
       "fileSize": 144218897,
-      "id": "silent-the-wonders-of-magnetism"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-wonders-of-magnetism",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 408
     }
   ],
   "metadata": {
@@ -26,105 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0885116",
-      "title": "Seven Ages of an Alligator",
-      "year": 1913,
-      "imdbRating": 5.8,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647246",
-      "title": "The War Bonnet Round-Up",
-      "year": 1912,
-      "imdbRating": 4.1,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647252",
-      "title": "Seeing Yosemite with David A. Curry",
-      "year": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1187321",
-      "title": "Picturesque Colorado",
-      "year": 1911,
-      "imdbVotes": 8,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1410251",
-      "title": "On to Washington",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 51,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt9837386",
+    "tt1283535",
+    "tt2647224",
+    "tt0938705",
+    "tt0955263",
+    "tt0885116",
+    "tt2647246",
+    "tt2160081",
+    "tt2647252",
+    "tt1515754",
+    "tt1187321",
+    "tt1410251"
   ],
   "collections": [],
   "is_curated": true,

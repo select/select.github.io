@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BobbyBumpsInTheirMastersVoice",
+      "id": "BobbyBumpsInTheirMastersVoice",
       "title": "Bobby Bumps in Their Master's Voice",
       "description": "This one was one of the rarest films in my collection.",
       "fileSize": 64729163,
-      "id": "BobbyBumpsInTheirMastersVoice"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BobbyBumpsInTheirMastersVoice",
+      "collection": "feature_films",
+      "downloads": 4697
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008899",
-      "title": "Bobby Bumps Puts a Beanery on the Bum",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007726",
-      "title": "Bobby Bumps' Tank",
-      "year": 1917,
-      "imdbRating": 5.5,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006449",
-      "title": "Bobby Bumps Starts a Lodge",
-      "year": 1916,
-      "imdbRating": 5.5,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012620",
-      "title": "Rhythmus 21",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 1485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126879",
-      "title": "Dreams of the Rarebit Fiend: Bug Vaudeville",
-      "year": 1921,
-      "imdbRating": 5.7,
-      "imdbVotes": 377,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012123",
-      "title": "Dreams of the Rarebit Fiend: The Pet",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 437,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126913",
-      "title": "Flip's Circus",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140434",
-      "title": "Lichtspiel Opus 1.",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 991,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0403386",
-      "title": "Opus II",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 419,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140524",
-      "title": "Running a Cinema",
-      "year": 1921,
-      "imdbRating": 5.2,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009996",
-      "title": "The Centaurs",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 480,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0008899",
+    "tt0007726",
+    "tt0006449",
+    "tt0012620",
+    "tt0126879",
+    "tt0012123",
+    "tt0126913",
+    "tt0126926",
+    "tt0140434",
+    "tt0403386",
+    "tt0140524",
+    "tt0009996"
   ],
   "collections": [],
   "is_curated": true,

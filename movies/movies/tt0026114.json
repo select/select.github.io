@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BigCalibre",
+      "id": "BigCalibre",
       "title": "Big Calibre",
       "description": "A Bob Steele western with elements of mad science and horror. The climactic chase scene is not to be missed. Filmed in Lone Pine, California. Directed by Robert N Bradbury (as R N Bradbury). Released in 1935. Complete print. TRIVIA: First telecast 11 July 1949 on KNBH Channel 4, Los Angeles.",
       "fileSize": 819735995,
-      "id": "BigCalibre"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BigCalibre",
+      "collection": "feature_films",
+      "downloads": 5297
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=f9KXUoTtAMc",
+      "id": "f9KXUoTtAMc",
       "title": "Big Calibre (1936) BOB STEELE",
       "description": "BOB STEELE vs MAD SCIENTIST\nStars: Bob Steele, Peggy Campbell, Forrest Taylor\nDirector: Robert N. Bradbury\n\nIn this Mystery-Horror Western, a cowboy intent on avenging his father's murder must face a mad scientist with deadly gas capsules, a getaway car, and a trunk full of amateur theatre disguises.",
-      "id": "f9KXUoTtAMc",
+      "addedAt": "2025-12-24T01:09:51.909Z",
+      "thumbnail": "https://i.ytimg.com/vi/f9KXUoTtAMc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFXLHSi-3CBuWIceT9JS0jETSfvQ",
+      "duration": 3516,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027128",
-      "title": "Trail of Terror",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026052",
-      "title": "Alias John Law",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026785",
-      "title": "No Man's Range",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026929",
-      "title": "The Rider of the Law",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028324",
-      "title": "Sundown Saunders",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027015",
-      "title": "Smokey Smith",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027120",
-      "title": "Tombstone Terror",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027393",
-      "title": "Brand of the Outlaws",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027436",
-      "title": "Cavalry",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028968",
-      "title": "The Gun Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027870",
-      "title": "Last of the Warrens",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027842",
-      "title": "The Kid Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027128",
+    "tt0026052",
+    "tt0026785",
+    "tt0026929",
+    "tt0028324",
+    "tt0027015",
+    "tt0027120",
+    "tt0027393",
+    "tt0027436",
+    "tt0028968",
+    "tt0027870",
+    "tt0027842"
   ],
   "collections": [],
   "is_curated": true,

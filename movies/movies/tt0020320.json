@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/redskin_1929",
+      "id": "redskin_1929",
       "title": "Redskin",
       "fileSize": 5943086955,
-      "id": "redskin_1929"
+      "addedAt": "2026-01-07T00:10:30.753Z",
+      "thumbnail": "https://archive.org/services/img/redskin_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 218
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020577",
-      "title": "The Wheel of Life",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022569",
-      "title": "The Woman Between",
-      "year": 1931,
-      "imdbRating": 5.4,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032111",
-      "title": "Wasser für Canitoga",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 123,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032959",
-      "title": "Queen of the Yukon",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197903",
-      "title": "Something New",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 347,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066049",
-      "title": "A Man Called Horse",
-      "year": 1970,
-      "imdbRating": 6.8,
-      "imdbVotes": 9898,
-      "language": "English, Sioux, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046808",
-      "title": "Broken Lance",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 4472,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065988",
-      "title": "Little Big Man",
-      "year": 1970,
-      "imdbRating": 7.5,
-      "imdbVotes": 39376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1160018",
-      "title": "Prairie Fever",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0031971",
-      "title": "Stagecoach",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 57694,
-      "language": "English, Spanish, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0014770",
-      "title": "The Chechahcos",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 265,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0020577",
+    "tt0022569",
+    "tt0042383",
+    "tt0032111",
+    "tt0032959",
+    "tt0197903",
+    "tt0066049",
+    "tt0046808",
+    "tt0065988",
+    "tt1160018",
+    "tt0031971",
+    "tt0014770"
   ],
   "collections": [
     {

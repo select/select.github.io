@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-schneider-wibbel-eric-ponto-fita-benkhoff",
+      "id": "1939-schneider-wibbel-eric-ponto-fita-benkhoff",
       "title": "1939 Schneider Wibbel ( Eric Ponto, Fita Benkhoff)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Schneider Wibbel.  U.a mit Erich Ponto und Fita Benkhoff ",
       "fileSize": 1103982289,
-      "id": "1939-schneider-wibbel-eric-ponto-fita-benkhoff"
+      "addedAt": "2026-01-07T00:06:02.057Z",
+      "thumbnail": "https://archive.org/services/img/1939-schneider-wibbel-eric-ponto-fita-benkhoff",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 188
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031763",
-      "title": "Opernball",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 91,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032626",
-      "title": "Ihr Privatsekretär",
-      "year": 1940,
-      "imdbRating": 7.3,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036056",
-      "title": "Johann",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033878",
-      "title": "Immer nur Du",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034373",
-      "title": "Was geschah in dieser Nacht",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130357",
-      "title": "Was will Brigitte?",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031397",
-      "title": "Gulliver's Travels",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 5174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031322",
-      "title": "The Flying Deuces",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 6052,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031580",
-      "title": "The Little Princess",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 6909,
-      "language": "English, Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185836",
-      "title": "24 horas en libertad",
-      "year": 1939,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031124",
-      "title": "Bulldog Drummond's Bride",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 542,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0033632",
+    "tt0031763",
+    "tt0032626",
+    "tt0036056",
+    "tt0033878",
+    "tt0034373",
+    "tt0130357",
+    "tt0031397",
+    "tt0031322",
+    "tt0031580",
+    "tt0185836",
+    "tt0031124"
   ],
   "collections": [],
   "is_curated": true,

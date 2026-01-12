@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/salt-water-taffy-1930",
+      "id": "salt-water-taffy-1930",
       "title": "Salt Water Taffy (1930)",
       "description": "Salt Water Taffy is a Terrytoons cartoon directed by Frank Moser, Paul Terry. Watch on RetroFlix:  https://retroflix.org/salt-water-taffy-1930/",
       "fileSize": 39284158,
-      "id": "salt-water-taffy-1930"
+      "addedAt": "2026-01-07T00:10:40.952Z",
+      "thumbnail": "https://archive.org/services/img/salt-water-taffy-1930",
+      "language": "eng",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 61
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0146975",
-      "title": "Land o' Cotton",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147193",
-      "title": "Presto-Chango",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151428",
-      "title": "A Mad House",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150930",
-      "title": "Holland Days",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150964",
-      "title": "Hot Sands",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151078",
-      "title": "Irish Sweepstakes",
-      "year": 1934,
-      "imdbRating": 2.5,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151092",
-      "title": "Jack's Shack",
-      "year": 1934,
-      "imdbRating": 4.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151094",
-      "title": "Jail Birds",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151141",
-      "title": "Joe's Lunch Wagon",
-      "year": 1934,
-      "imdbRating": 3.6,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151166",
-      "title": "Just a Clown",
-      "year": 1934,
-      "imdbRating": 3.1,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151552",
-      "title": "Mice in Council",
-      "year": 1934,
-      "imdbRating": 4.5,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151688",
-      "title": "My Lady's Garden",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0146975",
+    "tt0147193",
+    "tt0151428",
+    "tt0150930",
+    "tt0150964",
+    "tt0151078",
+    "tt0151092",
+    "tt0151094",
+    "tt0151141",
+    "tt0151166",
+    "tt0151552",
+    "tt0151688"
   ],
   "collections": [],
   "is_curated": true,

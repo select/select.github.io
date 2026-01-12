@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tell-it-to-the-marines_1927",
+      "id": "tell-it-to-the-marines_1927",
       "title": "Tell It to the Marines",
       "fileSize": 2292803975,
-      "id": "tell-it-to-the-marines_1927"
+      "addedAt": "2026-01-07T00:11:46.530Z",
+      "thumbnail": "https://archive.org/services/img/tell-it-to-the-marines_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 2400
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "3 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014497",
-      "title": "Souls for Sale",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 1133,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019886",
-      "title": "The Flying Fleet",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019109",
-      "title": "Lonesome",
-      "year": 1928,
-      "imdbRating": 7.7,
-      "imdbVotes": 2694,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023896",
-      "title": "Clear All Wires!",
-      "year": 1933,
-      "imdbRating": 6,
-      "imdbVotes": 185,
-      "language": "French, Russian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016690",
-      "title": "Brown of Harvard",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 1540,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0020425",
-      "title": "So This Is College",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139686",
-      "title": "Une femme a passé",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 91,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0016251",
+    "tt0014497",
+    "tt0019886",
+    "tt0016548",
+    "tt0018297",
+    "tt0019067",
+    "tt0019109",
+    "tt0019258",
+    "tt0023896",
+    "tt0016690",
+    "tt0020425",
+    "tt0139686"
   ],
   "collections": [],
   "is_curated": true,

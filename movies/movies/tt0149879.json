@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-billy-goats-whiskers-1937",
+      "id": "the-billy-goats-whiskers-1937",
       "title": "The Billy Goat's Whiskers (1937)",
       "description": "A goat annoys Farmer Al Falfa and Puddy the Pup. He's always butting in. They fix the billy goat by putting roller skates on him. Watch on RetroFlix:  https://retroflix.org/the-billy-goats-whiskers-1937/",
       "fileSize": 38176973,
-      "id": "the-billy-goats-whiskers-1937"
+      "addedAt": "2026-01-07T00:11:46.533Z",
+      "thumbnail": "https://archive.org/services/img/the-billy-goats-whiskers-1937",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 31
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150266",
-      "title": "The Dancing Bear",
-      "year": 1937,
-      "imdbRating": 4.1,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161496",
-      "title": "Devil of the Deep",
-      "year": 1938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152207",
-      "title": "Robinson Crusoe's Broadcast",
-      "year": 1938,
-      "imdbRating": 4.1,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148226",
-      "title": "The Goose Flies High",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148203",
-      "title": "Gandy the Goose",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152613",
-      "title": "String Bean Jack",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146851",
-      "title": "Happy Polo",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147206",
-      "title": "Radio Racket",
-      "year": 1931,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150152",
-      "title": "A Close Shave",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0443314",
-      "title": "A Coach for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149799",
-      "title": "Barnyard Boss",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150266",
+    "tt0161496",
+    "tt0152207",
+    "tt0148226",
+    "tt0148203",
+    "tt0152613",
+    "tt0146851",
+    "tt0147206",
+    "tt0150152",
+    "tt0443314",
+    "tt1020989",
+    "tt0149799"
   ],
   "collections": [],
   "is_curated": true,

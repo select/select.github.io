@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-daylight-burglary",
+      "id": "silent-daylight-burglary",
       "title": "Daylight Burglary",
       "fileSize": 178487002,
-      "id": "silent-daylight-burglary"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-daylight-burglary",
+      "year": 1903,
+      "collection": "feature_films",
+      "downloads": 247
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0445338",
-      "title": "The Dude and the Burglars",
-      "year": 1903,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233823",
-      "title": "The Great Jewel Mystery",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0265272",
-      "title": "Krunisanje Kralja Petra I Karadjordjevica",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000498",
-      "title": "Rescued by Rover",
-      "year": 1905,
-      "imdbRating": 6.6,
-      "imdbVotes": 1295,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000519",
-      "title": "The Kleptomaniac",
-      "year": 1905,
-      "imdbRating": 5.7,
-      "imdbVotes": 438,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419034",
-      "title": "Passion Play: Christ Calling Zaccheus from the Tree",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000416",
-      "title": "Alcohol and Its Victims",
-      "year": 1902,
-      "imdbRating": 5.4,
-      "imdbVotes": 205,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257676",
-      "title": "A Fire in a Burlesque Theatre",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 268,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000497",
-      "title": "A Railway Tragedy",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445359",
-      "title": "The Ex-Convict",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 238,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0445338",
+    "tt0233823",
+    "tt0265272",
+    "tt0000498",
+    "tt0000519",
+    "tt0419034",
+    "tt0000471",
+    "tt0231716",
+    "tt0000416",
+    "tt0257676",
+    "tt0000497",
+    "tt0445359"
   ],
   "collections": [],
   "is_curated": true,

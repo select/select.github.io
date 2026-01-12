@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/midshipman-easy",
+      "id": "midshipman-easy",
       "title": "Midshipman Easy",
       "description": "A young man who runs away from home, joins the navy and goes to sea in the 1790s. He rescues a captive woman from a Spanish ship and battles pirates and smugglers.",
       "fileSize": 6047254963,
-      "id": "midshipman-easy"
+      "addedAt": "2026-01-07T00:09:54.327Z",
+      "thumbnail": "https://archive.org/services/img/midshipman-easy",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 2205
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045002",
-      "title": "Outcast of the Islands",
-      "year": 1951,
-      "imdbRating": 6.9,
-      "imdbVotes": 1318,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027859",
-      "title": "Laburnum Grove",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026772",
-      "title": "The New Adventures of Tarzan",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 450,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026164",
-      "title": "Call of the Wild",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 2715,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0026195",
-      "title": "Chandu on the Magic Island",
-      "year": 1935,
-      "imdbRating": 4.5,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026083",
-      "title": "Artisten",
-      "year": 1935,
-      "imdbRating": 2.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026751",
-      "title": "Mutiny Ahead",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 37,
-      "language": "French, Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026756",
-      "title": "The Mystery Man",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027007",
-      "title": "Skull and Crown",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026216",
-      "title": "The Lost City",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 326,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027201",
-      "title": "What Price Crime",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0045002",
+    "tt0027859",
+    "tt0026772",
+    "tt0026164",
+    "tt0026195",
+    "tt0026223",
+    "tt0026083",
+    "tt0026751",
+    "tt0026756",
+    "tt0027007",
+    "tt0026216",
+    "tt0027201"
   ],
   "collections": [],
   "is_curated": true,

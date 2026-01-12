@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-marathon",
+      "id": "silent-the-marathon",
       "title": "The Marathon",
       "fileSize": 703430304,
-      "id": "silent-the-marathon"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-marathon",
+      "language": "None",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 736
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-marathon-1919-directed-by-alfred-j.-goulding",
+      "id": "the-marathon-1919-directed-by-alfred-j.-goulding",
       "title": "The Marathon (1919) Directed By Alfred J. Goulding",
       "description": "The Marathon Theatrical poster to The Marathon Directed by Alfred J. Goulding Produced by Hal Roach Starring Harold Lloyd Release date May 25, 1919 Running time 10 minutes Country United States Language Silent (English intertitles ) The Marathon is a 1919 American short comedy film starring Harold Lloyd . A print of the film survives in the film archive at George Eastman House . [ 1 ] Plot Bebe is besieged by suitors who want to take her to watch a local marathon. Bebe's father, a former heavyweight boxer, scares off all the suitors but Snub who wins him over by offering him a cigar. Not long afterward, Harold arrives to woo Bebe too. He gets into a scuffle with both Snub and Bebe's father. The police are summoned. Harold flees Bebe's house in a hurry and becomes entangled among the marathon runners who also angrily pursue him. Cast Harold Lloyd Snub Pollard Bebe Daniels Sammy Brooks Lew Harvey Wallace Howe Gus Leonard Gaylord Lloyd Marie Mosquini Fred C. Newmeyer William Petterson Dorothea Wolbert Noah Young See also Harold Lloyd filmography References \"Progressive Silent Film List: The Marathon \" . Silent Era . Retrieved July 17, 2010 .",
       "fileSize": 152885482,
-      "id": "the-marathon-1919-directed-by-alfred-j.-goulding"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-marathon-1919-directed-by-alfred-j.-goulding",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 64
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010023",
-      "title": "Count Your Change",
-      "year": 1919,
-      "imdbRating": 5.4,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010516",
-      "title": "Off the Trolley",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010632",
-      "title": "Ring Up the Curtain",
-      "year": 1919,
-      "imdbRating": 5.3,
-      "imdbVotes": 256,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009099",
-      "title": "A Gasoline Wedding",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 246,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009071",
-      "title": "Fireman Save My Child",
-      "year": 1918,
-      "imdbRating": 5.5,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009082",
-      "title": "Follow the Crowd",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009171",
-      "title": "Hey There",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 182,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009316",
-      "title": "Look Pleasant, Please",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 240,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009678",
-      "title": "Take a Chance",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 615,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009631",
-      "title": "Somewhere in Turkey",
-      "year": 1918,
-      "imdbRating": 4.2,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009732",
-      "title": "Two-Gun Gussie",
-      "year": 1918,
-      "imdbRating": 5.6,
-      "imdbVotes": 320,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007709",
-      "title": "Bliss",
-      "year": 1917,
-      "imdbRating": 5.4,
-      "imdbVotes": 162,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0010023",
+    "tt0010516",
+    "tt0010632",
+    "tt0009099",
+    "tt0009071",
+    "tt0009082",
+    "tt0009171",
+    "tt0009316",
+    "tt0009678",
+    "tt0009631",
+    "tt0009732",
+    "tt0007709"
   ],
   "collections": [],
   "is_curated": true,

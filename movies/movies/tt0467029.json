@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/taxi-for-two_1928",
+      "id": "taxi-for-two_1928",
       "title": "Taxi for Two",
       "fileSize": 2299431151,
-      "id": "taxi-for-two_1928"
+      "addedAt": "2026-01-07T00:11:46.528Z",
+      "thumbnail": "https://archive.org/services/img/taxi-for-two_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 150
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015657",
-      "title": "Butter Fingers",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016375",
-      "title": "Super-Hooper-Dyne Lizzies",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 207,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015390",
-      "title": "Ten Dollars or Ten Days",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 113,
-      "language": "None, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159286",
-      "title": "Black Oxfords",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015076",
-      "title": "Lizzies of the Field",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 187,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031065",
-      "title": "The Awful Goof",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019676",
-      "title": "Barnum Was Right",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015657",
+    "tt0016375",
+    "tt0015390",
+    "tt0159286",
+    "tt0015076",
+    "tt0027097",
+    "tt0031065",
+    "tt0019676",
+    "tt1893190",
+    "tt0018628",
+    "tt0018721",
+    "tt1131583"
   ],
   "collections": [],
   "is_curated": true,

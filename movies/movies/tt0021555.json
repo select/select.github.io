@@ -6,19 +6,29 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=5AIFbqMvTtI",
+      "id": "5AIFbqMvTtI",
       "title": "Wings of Adventure (1930) REX LEASE",
       "description": "Stars: Rex Lease, Armida, Clyde Cook\nDirector: Richard Thorpe\n\nAn American aviator and his mechanic are forced to make an emergency landing in Mexico. They fall into the hands of a bandit who wants to overthrow the government and become the ruler of a new republic.",
-      "id": "5AIFbqMvTtI",
+      "addedAt": "2025-12-24T01:07:17.568Z",
+      "thumbnail": "https://i.ytimg.com/vi/5AIFbqMvTtI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTEkLACMzbVY__2jtGQgSZapeozA",
+      "duration": 3138,
+      "language": "en",
+      "year": 1930,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WingsOfAdventure1930RexLeaseArmidaClydeCookFredMalatesta",
+      "id": "WingsOfAdventure1930RexLeaseArmidaClydeCookFredMalatesta",
       "title": "Wings Of Adventure 1930 Rex Lease, Armida, Clyde Cook, Fred Malatesta",
       "description": "Wings Of Adventure 1930 Rex Lease, Armida, Clyde Cook, Fred Malatesta",
       "fileSize": 1385587332,
-      "id": "WingsOfAdventure1930RexLeaseArmidaClydeCookFredMalatesta"
+      "addedAt": "2026-01-07T00:07:18.436Z",
+      "thumbnail": "https://archive.org/services/img/WingsOfAdventure1930RexLeaseArmidaClydeCookFredMalatesta",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 3020
     }
   ],
   "metadata": {
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021509",
-      "title": "The Utah Kid",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022028",
-      "title": "King of the Wild",
-      "year": 1931,
-      "imdbRating": 6,
-      "imdbVotes": 141,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022399",
-      "title": "The Sky Spider",
-      "year": 1931,
-      "imdbRating": 2.4,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020500",
-      "title": "Thundering Thompson",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019711",
-      "title": "Border Romance",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 51,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0282813",
-      "title": "The Oil Raider",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029847",
-      "title": "Air Devils",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058589",
-      "title": "Simbad contro i sette saraceni",
-      "year": 1964,
-      "imdbRating": 4.2,
-      "imdbVotes": 163,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056207",
-      "title": "Colossus and the Headhunters",
-      "year": 1963,
-      "imdbRating": 2.2,
-      "imdbVotes": 804,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029130",
-      "title": "The Legion of Missing Men",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027007",
-      "title": "Skull and Crown",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021509",
+    "tt0022028",
+    "tt0022399",
+    "tt0020500",
+    "tt0019711",
+    "tt0019884",
+    "tt0282813",
+    "tt0029847",
+    "tt0058589",
+    "tt0056207",
+    "tt0029130",
+    "tt0027007"
   ],
   "collections": [],
   "is_curated": true,

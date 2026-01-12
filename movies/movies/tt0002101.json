@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Cleopatra_1912",
+      "id": "Cleopatra_1912",
       "title": "Cleopatra",
       "description": "Cleopatra is a silent film created in 1912 by Helen Gardner and the Helen Gardner Picture Players. The film, in which Gardner stars in the title role, was based on a play written by Victorien Sardou. In a series of elaborately staged tableaux, it depicts Cleopatra (Gardner) and her love affairs, first with handsome fisherman-slave Pharon, then with Marc Antony. The film features lavish sets and costumes and at just over an hour, it was considered fairly lengthy.",
       "fileSize": 1097555685,
-      "id": "Cleopatra_1912"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/Cleopatra_1912",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 98970
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266688",
-      "title": "Karadjordje",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 226,
-      "language": "None, Serbian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002445",
-      "title": "Quo Vadis?",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 408,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0393807",
-      "title": "Spartacus",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 91,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004022",
-      "title": "Julius Caesar",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191402",
-      "title": "La revolución de Mayo",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 94,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001117",
-      "title": "Cleopatra",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 15,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004150",
-      "title": "In the Land of the Head Hunters",
-      "year": 1914,
-      "imdbRating": 5.8,
-      "imdbVotes": 553,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001915",
+    "tt0266688",
+    "tt0207954",
+    "tt0002445",
+    "tt0393807",
+    "tt0003740",
+    "tt0004022",
+    "tt0191402",
+    "tt1223220",
+    "tt0001117",
+    "tt0004150",
+    "tt0001032"
   ],
   "collections": [],
   "is_curated": true,

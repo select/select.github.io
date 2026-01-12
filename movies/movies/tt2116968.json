@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/traffic-in-kings-road-chelsea-1890",
+      "id": "traffic-in-kings-road-chelsea-1890",
       "title": "Traffic In King's Road, Chelsea (1890)",
       "description": "Traffic in King's Road, Chelsea is a silent movie directed by William Friese-Greene. Watch on RetroFlix.org: https://retroflix.org/traffic-in-kings-road-chelsea-1890/",
       "fileSize": 708564,
-      "id": "traffic-in-kings-road-chelsea-1890"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/traffic-in-kings-road-chelsea-1890",
+      "collection": "feature_films",
+      "downloads": 295
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2116898",
-      "title": "Hyde Park Corner",
-      "year": 1889,
-      "imdbRating": 5.7,
-      "imdbVotes": 292,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0466876",
-      "title": "Leisurely Pedestrians, Open Topped Buses and Hansom Cabs with Trotting Horses",
-      "year": 1889,
-      "imdbRating": 5.2,
-      "imdbVotes": 471,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5285442",
-      "title": "Mosquinha",
-      "year": 1890,
-      "imdbRating": 6.5,
-      "imdbVotes": 717,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0343112",
-      "title": "Traffic Crossing Leeds Bridge",
-      "year": 1888,
-      "imdbRating": 6.6,
-      "imdbVotes": 3353,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0361921",
-      "title": "Monkeyshines, No. 1",
-      "year": 1890,
-      "imdbRating": 4.9,
-      "imdbVotes": 1689,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326158",
-      "title": "Sioux Ghost Dance",
-      "year": 1894,
-      "imdbRating": 5.2,
-      "imdbVotes": 841,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1758563",
-      "title": "Accordion Player",
-      "year": 1888,
-      "imdbRating": 5.5,
-      "imdbVotes": 1501,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0387927",
-      "title": "The Child Molester",
-      "year": 1964,
-      "imdbRating": 5.4,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt2116898",
+    "tt0466876",
+    "tt5285442",
+    "tt0343112",
+    "tt0361921",
+    "tt0326158",
+    "tt1758563",
+    "tt0387927",
+    "tt6564690",
+    "tt3155794",
+    "tt0308284",
+    "tt3110548"
   ],
   "collections": [],
   "is_curated": true,

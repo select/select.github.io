@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/paranoiac_202107",
+      "id": "paranoiac_202107",
       "title": "Paranoiac",
       "description": "A wealthy psychotic is is coddled by his aunt in their mansion outside of London. One day, his long lost brother mysteriously arrives at the house to claim his share of the inheritance.",
       "fileSize": 6549711503,
-      "id": "paranoiac_202107"
+      "addedAt": "2026-01-07T00:10:12.696Z",
+      "thumbnail": "https://archive.org/services/img/paranoiac_202107",
+      "language": "eng",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 5174
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0061557",
-      "title": "The Deadly Bees",
-      "year": 1966,
-      "imdbRating": 4.2,
-      "imdbVotes": 2304,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0069341",
-      "title": "Tales from the Crypt",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 13808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055304",
-      "title": "The Pit and the Pendulum",
-      "year": 1961,
-      "imdbRating": 7,
-      "imdbVotes": 17260,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054017",
-      "title": "Last Woman on Earth",
-      "year": 1960,
-      "imdbRating": 4.8,
-      "imdbVotes": 2220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054116",
-      "title": "Never Take Candy from A Stranger",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 2110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054215",
-      "title": "Psycho",
-      "year": 1960,
-      "imdbRating": 8.5,
-      "imdbVotes": 765542,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058073",
-      "title": "The Evil of Frankenstein",
-      "year": 1964,
-      "imdbRating": 6,
-      "imdbVotes": 4896,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058405",
-      "title": "Nightmare",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 2654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3778010",
-      "title": "Dead Awake",
-      "year": 2016,
-      "imdbRating": 4.6,
-      "imdbVotes": 3652,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1881060",
-      "title": "Static",
-      "year": 2012,
-      "imdbRating": 5.3,
-      "imdbVotes": 3645,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026230",
-      "title": "Condemned to Live",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0061557",
+    "tt0069341",
+    "tt0055304",
+    "tt0054017",
+    "tt0054116",
+    "tt0058073",
+    "tt0058405",
+    "tt3778010",
+    "tt1881060",
+    "tt0032406",
+    "tt0026230",
+    "tt0037711"
   ],
   "collections": [
     {

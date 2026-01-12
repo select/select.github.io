@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-girl-revue-first-edition_1928",
+      "id": "a-girl-revue-first-edition_1928",
       "title": "A Girl Revue: First Edition",
       "fileSize": 374779914,
-      "id": "a-girl-revue-first-edition_1928"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/a-girl-revue-first-edition_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 2411
     }
   ],
   "metadata": {
@@ -25,105 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759722",
-      "title": "The Stage Hands",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251348",
-      "title": "Hollywood Models",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251702",
-      "title": "Hollywood Sand Witches",
-      "year": 1928,
-      "imdbRating": 4.7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251344",
-      "title": "Jazz Babies",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251696",
-      "title": "Sirens of the Sea",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309770",
-      "title": "The Keystone 'Patrician'",
-      "year": 1928,
-      "imdbRating": 5.1,
-      "imdbVotes": 70,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019547",
-      "title": "The Wandering Toy",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0309243",
+    "tt0211244",
+    "tt4135826",
+    "tt0759722",
+    "tt3251348",
+    "tt3251702",
+    "tt3251344",
+    "tt0419941",
+    "tt3251696",
+    "tt0309770",
+    "tt0019547",
+    "tt5503754"
   ],
   "collections": [],
   "is_curated": true,

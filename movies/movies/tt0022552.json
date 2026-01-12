@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1931-Der-Weisse-Rausch",
+      "id": "1931-Der-Weisse-Rausch",
       "title": "1931 - Der Weisse Rausch (1h 16m, 320x240)",
       "description": "1931 - Der Weisse Rausch (1h 16m, 320x240)",
       "fileSize": 435025294,
-      "id": "1931-Der-Weisse-Rausch"
+      "addedAt": "2026-01-07T00:06:00.052Z",
+      "thumbnail": "https://archive.org/services/img/1931-Der-Weisse-Rausch",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 24482
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021649",
-      "title": "Behind Office Doors",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 556,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022326",
-      "title": "The Royal Bed",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 251,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022000",
-      "title": "Indiscreet",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 1610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0829208",
-      "title": "Julius Sizzer",
-      "year": 1931,
-      "imdbRating": 3.6,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022086",
-      "title": "Lonely Wives",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022254",
-      "title": "Parlor, Bedroom and Bath",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 1041,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5854638",
-      "title": "Nine Nights in a Barroom",
-      "year": 1931,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021890",
-      "title": "The Front Page",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022263",
-      "title": "Le petit café",
-      "year": 1931,
-      "imdbRating": 6.6,
-      "imdbVotes": 26,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022402",
-      "title": "The Stolen Jools",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 1177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021606",
-      "title": "Ambassador Bill",
-      "year": 1931,
-      "imdbRating": 6,
-      "imdbVotes": 187,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021649",
+    "tt0022326",
+    "tt0228331",
+    "tt0022000",
+    "tt0829208",
+    "tt0022086",
+    "tt0022254",
+    "tt5854638",
+    "tt0021890",
+    "tt0022263",
+    "tt0022402",
+    "tt0021606"
   ],
   "collections": [],
   "is_curated": true,

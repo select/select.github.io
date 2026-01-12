@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/niagara-1953-torrentes-de-paixao",
+      "id": "niagara-1953-torrentes-de-paixao",
       "title": "Niagara (1953) Torrentes de Paixão",
       "description": "Durante a visita de dois casais às cataratas do Niagara, fortes tensões surgem entre Rose e seu marido, George. A situação se agrava quando o segundo casal acaba se envolvendo na história.",
       "fileSize": 1596591297,
-      "id": "niagara-1953-torrentes-de-paixao"
+      "addedAt": "2026-01-07T00:10:02.897Z",
+      "thumbnail": "https://archive.org/services/img/niagara-1953-torrentes-de-paixao",
+      "language": "eng",
+      "year": 1953,
+      "collection": "feature_films",
+      "downloads": 11775
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1953niagarahhathaway",
+      "id": "1953niagarahhathaway",
       "title": "1953 - Niagara - Henry Hathaway",
       "description": "1953 - Niagara - Henry Hathaway",
       "fileSize": 1195033968,
-      "id": "1953niagarahhathaway"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1953niagarahhathaway",
+      "year": 1953,
+      "collection": "feature_films",
+      "downloads": 24964
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043560",
-      "title": "Fourteen Hours",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 3240,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044552",
-      "title": "Diplomatic Courier",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 1459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045566",
-      "title": "A Blueprint for Murder",
-      "year": 1953,
-      "imdbRating": 6.7,
-      "imdbVotes": 1883,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048919",
-      "title": "23 Paces to Baker Street",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 3020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045205",
-      "title": "Sudden Fear",
-      "year": 1952,
-      "imdbRating": 7.5,
-      "imdbVotes": 7830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047205",
-      "title": "Make Haste to Live",
-      "year": 1954,
-      "imdbRating": 5.9,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045309",
-      "title": "Walk East on Beacon!",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 584,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043938",
-      "title": "The Prowler",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 4414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043340",
-      "title": "The Big Night",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 1101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043998",
-      "title": "The Scarf",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 671,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043503",
-      "title": "The Enforcer",
-      "year": 1951,
-      "imdbRating": 7.3,
-      "imdbVotes": 5749,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121515",
-      "title": "The Man with My Face",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0043560",
+    "tt0044552",
+    "tt0045566",
+    "tt0048919",
+    "tt0045205",
+    "tt0047205",
+    "tt0045309",
+    "tt0043938",
+    "tt0043340",
+    "tt0043998",
+    "tt0043503",
+    "tt0121515"
   ],
   "collections": [
     {

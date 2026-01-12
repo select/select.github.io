@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HardKnox_201903",
+      "id": "HardKnox_201903",
       "title": "Hard Knox (1984) comedy",
       "description": "A retired fighter pilot becomes the head of his alma matter military high school for two weeks with hilarious consequences. He shapes up the school and raises morale so that they are able to win the \"brass-axe\" competition versus another local military academy.",
       "fileSize": 728380187,
-      "id": "HardKnox_201903"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HardKnox_201903",
+      "collection": "feature_films",
+      "downloads": 2926
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hard-knox-1984",
+      "id": "hard-knox-1984",
       "title": "Hard Knox (1984)",
       "description": "A retired fighter pilot becomes the head of his alma matter military high school for two weeks with hilarious consequences. He shapes up the school and raises morale so that they are able to win the \"brass-axe\" competition versus another local military academy. Watch on RetroFlix:  https://retroflix.org/hard-knox-1984/",
       "fileSize": 303844486,
-      "id": "hard-knox-1984"
+      "addedAt": "2026-01-07T00:08:39.344Z",
+      "thumbnail": "https://archive.org/services/img/hard-knox-1984",
+      "language": "eng",
+      "year": 1984,
+      "collection": "feature_films",
+      "downloads": 576
     }
   ],
   "metadata": {
@@ -35,121 +45,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1071780",
-      "title": "The Circuit",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 673,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0087821",
-      "title": "Full Moon in Paris",
-      "year": 1984,
-      "imdbRating": 7.3,
-      "imdbVotes": 5564,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0169328",
-      "title": "Todo o nada",
-      "year": 1984,
-      "imdbRating": 5.4,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0084873",
-      "title": "A Railway Station for Two",
-      "year": 1983,
-      "imdbRating": 7.8,
-      "imdbVotes": 3743,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0084044",
-      "title": "Hajji Washington",
-      "year": 1983,
-      "imdbRating": 7.1,
-      "imdbVotes": 785,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0289352",
-      "title": "Las musiqueras",
-      "year": 1983,
-      "imdbRating": 3.8,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087187",
-      "title": "Los días de junio",
-      "year": 1985,
-      "imdbRating": 6.2,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0085244",
-      "title": "The Big Chill",
-      "year": 1983,
-      "imdbRating": 7.1,
-      "imdbVotes": 43913,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0086242",
-      "title": "The Makioka Sisters",
-      "year": 1983,
-      "imdbRating": 7.2,
-      "imdbVotes": 1795,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0090311",
-      "title": "What Comes Around",
-      "year": 1985,
-      "imdbRating": 4.9,
-      "imdbVotes": 154,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0087650",
-      "title": "Love and Doves",
-      "year": 1985,
-      "imdbRating": 7.9,
-      "imdbVotes": 6194,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0091364",
-      "title": "Courier",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 6488,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt1071780",
+    "tt0087821",
+    "tt0169328",
+    "tt0084873",
+    "tt0084044",
+    "tt0289352",
+    "tt0087187",
+    "tt0085244",
+    "tt0086242",
+    "tt0090311",
+    "tt0087650",
+    "tt0091364"
   ],
   "collections": [],
   "is_curated": true,

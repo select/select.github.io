@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-ambassadors-daughter",
+      "id": "silent-the-ambassadors-daughter",
       "title": "The Ambassador's Daughter",
       "fileSize": 284570345,
-      "id": "silent-the-ambassadors-daughter"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-ambassadors-daughter",
+      "language": "English",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 417
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0132221",
-      "title": "Hope, a Red Cross Seal Story",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 69,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234953",
-      "title": "An Unsullied Shield",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0405424",
-      "title": "The Usurer's Grip",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 75,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002421",
-      "title": "The Passer-by",
-      "year": 1912,
-      "imdbRating": 6.1,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002098",
-      "title": "Children Who Labor",
-      "year": 1912,
-      "imdbRating": 5.9,
-      "imdbVotes": 152,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123245",
-      "title": "Romeo and Juliet",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 46,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005955",
-      "title": "The Raven",
-      "year": 1915,
-      "imdbRating": 5.4,
-      "imdbVotes": 120,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002910",
-      "title": "Granddad",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003075",
-      "title": "The Little Tease",
-      "year": 1913,
-      "imdbRating": 5.7,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003497",
-      "title": "The Unwelcome Guest",
-      "year": 1913,
-      "imdbRating": 6.6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0132221",
+    "tt0234953",
+    "tt0405424",
+    "tt0002421",
+    "tt0002098",
+    "tt0123245",
+    "tt0005955",
+    "tt0002784",
+    "tt0002795",
+    "tt0002910",
+    "tt0003075",
+    "tt0003497"
   ],
   "collections": [],
   "is_curated": true,

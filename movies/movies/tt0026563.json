@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kentucky_blue_streak1935",
+      "id": "kentucky_blue_streak1935",
       "title": "Kentucky Blue Streak",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3812154266,
-      "id": "kentucky_blue_streak1935"
+      "addedAt": "2026-01-07T00:09:16.000Z",
+      "thumbnail": "https://archive.org/services/img/kentucky_blue_streak1935",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 66200
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=1J7h0RAWbz8",
+      "id": "1J7h0RAWbz8",
       "title": "Kentucky Blue Streak (1935) HORSE RACE DRAMA",
       "description": "Stars: Edward J. Nugent, Frank Coghlan Jr., Patricia Scott\n Director: Bernard B. Ray\n\n In this crime drama, a jockey, wrongfully imprisoned for riding at an \"illegal\" racetrack, escapes from prison just prior to his parole so he can ride Blue Streak in the Kentucky Derby.",
-      "id": "1J7h0RAWbz8",
+      "addedAt": "2025-12-26T23:50:11.759Z",
+      "thumbnail": "https://i.ytimg.com/vi/1J7h0RAWbz8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB7gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBL5GFZG_Loyu3XBRXyzq7QMhkNxg",
+      "duration": 3553,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027008",
-      "title": "Skybound",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029596",
-      "title": "Special Agent K-7",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182242",
-      "title": "I'll Name the Murderer",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026458",
-      "title": "The Headline Woman",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026206",
-      "title": "Chinatown Squad",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 70,
-      "language": "Cantonese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026259",
-      "title": "Danger Ahead",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029544",
-      "title": "Shadows of the Orient",
-      "year": 1935,
-      "imdbRating": 4.6,
-      "imdbVotes": 141,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026937",
-      "title": "Rip Roaring Riley",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027354",
-      "title": "Beware of Ladies",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030164",
-      "title": "Fury Below",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027008",
+    "tt0033822",
+    "tt0027057",
+    "tt0029596",
+    "tt0182242",
+    "tt0026458",
+    "tt0026206",
+    "tt0026259",
+    "tt0029544",
+    "tt0026937",
+    "tt0027354",
+    "tt0027406"
   ],
   "collections": [],
   "is_curated": true,

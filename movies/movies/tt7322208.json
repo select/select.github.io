@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Painting_ShortVersion",
+      "id": "Painting_ShortVersion",
       "title": "1996 Painting",
       "description": "A digitized mountain stream.",
       "fileSize": 1015737033,
-      "id": "Painting_ShortVersion"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/Painting_ShortVersion",
+      "language": "international",
+      "year": 1996,
+      "collection": "feature_films",
+      "downloads": 7304
     }
   ],
   "metadata": {
@@ -26,101 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt7322114",
-      "title": "Teenage Art",
-      "year": 1969,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322102",
-      "title": "Mietersolidarität",
-      "year": 1970,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7320904",
-      "title": "Eddie and Lutz",
-      "year": 1979,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0460978",
-      "title": "Velkommen hjem - Leila",
-      "year": 1996,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322088",
-      "title": "Haircut",
-      "year": 1974,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322334",
-      "title": "Nichts",
-      "year": 2011,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322294",
-      "title": "Schwarz/Weiß",
-      "year": 2010,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130445",
-      "title": "Alaska: Spirit of the Wild",
-      "year": 1997,
-      "imdbRating": 7.1,
-      "imdbVotes": 592,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0415276",
-      "title": "Skrydis per Lietuva arba 510 sekundziu tylos",
-      "year": 2000,
-      "imdbRating": 8.2,
-      "imdbVotes": 394,
-      "language": "Lithuanian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0398785",
-      "title": "The Blood Tide",
-      "year": 1998,
-      "imdbRating": 5.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt7322114",
+    "tt7322102",
+    "tt7320904",
+    "tt0460978",
+    "tt7322088",
+    "tt7322334",
+    "tt7322294",
+    "tt0130445",
+    "tt0415276",
+    "tt0398785",
+    "tt6564690",
+    "tt3155794"
   ],
   "collections": [],
   "is_curated": true,

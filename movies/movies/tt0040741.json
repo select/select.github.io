@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/robin-hoodlum-1948",
+      "id": "robin-hoodlum-1948",
       "title": "Robin Hoodlum ( 1948)",
       "description": "A slight role reversal for the Fox and Crow in this one, as the Crow was usually the smart one who ended up with the winning hand. Fox is Robin Hoodlum and the Crow is the Sheriff pursuing R. Hoodlum and his merry band. He escapes one trap after another until he is lured into an archery contest at the Palace---everybody plays the Palace sooner or later---and caught. He escapes, through the efforts of his faithful followers, and they kidnap the Sheriff and the King to act as their servants.",
       "fileSize": 86526656,
-      "id": "robin-hoodlum-1948"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/robin-hoodlum-1948",
+      "collection": "feature_films",
+      "downloads": 610
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/robin-hoodlum-1948_202501",
+      "id": "robin-hoodlum-1948_202501",
       "title": "Robin Hoodlum (1948)",
       "description": "Fox is Robin Hoodlum and the Crow is the Sheriff pursuing R. Hoodlum and his merry band. He escapes one trap after another until he is lured into an archery contest at the Palace---everybody plays the Palace sooner or later---and gets caught. Watch on RetroFlix:  https://retroflix.org/robin-hoodlum-1948/",
       "fileSize": 62976150,
-      "id": "robin-hoodlum-1948_202501"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/robin-hoodlum-1948_202501",
+      "language": "eng",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 119
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0141760",
-      "title": "Ragtime Bear",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041618",
-      "title": "The Magic Fluke",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148644",
-      "title": "Punchy de Leon",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149792",
-      "title": "Barefaced Flatfoot",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141110",
-      "title": "Fuddy Duddy Buddy",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043980",
-      "title": "Rooty Toot Toot",
-      "year": 1951,
-      "imdbRating": 6.8,
-      "imdbVotes": 933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053080",
-      "title": "Moonbird",
-      "year": 1959,
-      "imdbRating": 5.2,
-      "imdbVotes": 775,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056075",
-      "title": "The Hole",
-      "year": 1962,
-      "imdbRating": 6.2,
-      "imdbVotes": 597,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148929",
-      "title": "A Sleepless Night",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150532",
-      "title": "Felix the Fox",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148160",
-      "title": "Flora",
-      "year": 1948,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148184",
-      "title": "Free Enterprise",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0141760",
+    "tt0041618",
+    "tt0148644",
+    "tt0149792",
+    "tt0141110",
+    "tt0043980",
+    "tt0053080",
+    "tt0056075",
+    "tt0148929",
+    "tt0150532",
+    "tt0148160",
+    "tt0148184"
   ],
   "collections": [],
   "is_curated": true,

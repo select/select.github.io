@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-mysteries-of-a-hairdressers-shop",
+      "id": "silent-the-mysteries-of-a-hairdressers-shop",
       "title": "The Mysteries of a Hairdresser's Shop",
       "fileSize": 693285586,
-      "id": "silent-the-mysteries-of-a-hairdressers-shop"
+      "addedAt": "2026-01-07T00:11:15.978Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-mysteries-of-a-hairdressers-shop",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 612
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013823",
-      "title": "Alice's Wonderland",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013992",
-      "title": "Glumov's Diary",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014218",
-      "title": "The Love Nest",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 2625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013858",
-      "title": "The Balloonatic",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 3297,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0336434",
-      "title": "Daredevil of the Movies",
-      "year": 1923,
-      "imdbRating": 5.4,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011722",
-      "title": "The Soilers",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141026",
-      "title": "Felix Goes A-Hunting",
-      "year": 1923,
-      "imdbRating": 5.4,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014886",
-      "title": "A Few Moments with Eddie Cantor, Star of 'Kid Boots'",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013865",
-      "title": "Bed Time",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013982",
-      "title": "Derby Day",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 120,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015799",
-      "title": "Felix Win's Out",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014081",
-      "title": "Giants vs. Yanks",
-      "year": 1923,
-      "imdbRating": 6,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0013823",
+    "tt0013992",
+    "tt0014218",
+    "tt0013858",
+    "tt0336434",
+    "tt0011722",
+    "tt0141026",
+    "tt0014886",
+    "tt0013865",
+    "tt0013982",
+    "tt0015799",
+    "tt0014081"
   ],
   "collections": [],
   "is_curated": true,

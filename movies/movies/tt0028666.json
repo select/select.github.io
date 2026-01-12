@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BrothersoftheWest",
+      "id": "BrothersoftheWest",
       "title": "Brothers of the West",
       "description": "Tyler is a range detective whose brother stands accused of robbing a bank and murdering the bank president. To prove him innocent, Tyler must decipher his only clue, an unusual set of tire tracks.",
       "fileSize": 1315997078,
-      "id": "BrothersoftheWest"
+      "addedAt": "2026-01-07T00:06:14.040Z",
+      "thumbnail": "https://archive.org/services/img/BrothersoftheWest",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 12069
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=apAByCY22Qw",
+      "id": "apAByCY22Qw",
       "title": "Brothers of the West (1937) TOM TYLER",
       "description": "Stars: Tom Tyler, Lois Wilde, Dorothy Short\n Director: Sam Katzman\n\n Tyler is a range detective whose brother stands accused of robbing a bank and murdering the bank president. To prove him innocent, Tyler must decipher his only clue, an unusual set of tire tracks.",
-      "id": "apAByCY22Qw",
+      "addedAt": "2025-12-26T23:54:32.574Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/apAByCY22Qw/maxresdefault.webp",
+      "duration": 3329,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029163",
-      "title": "Lost Ranch",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029354",
-      "title": "Orphan of the Pecos",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0028760",
-      "title": "Danger Valley",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028712",
-      "title": "Cheyenne Rides Again",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028865",
-      "title": "The Feud of the Trail",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140551",
-      "title": "Sky Racket",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028192",
-      "title": "Roamin' Wild",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028218",
-      "title": "Santa Fe Bound",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030969",
-      "title": "Where the Buffalo Roam",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027425",
-      "title": "Caryl of the Mountains",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028101",
-      "title": "The Phantom of the Range",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 77,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0029163",
+    "tt0029354",
+    "tt0028760",
+    "tt0028712",
+    "tt0028865",
+    "tt0028574",
+    "tt0140551",
+    "tt0028192",
+    "tt0028218",
+    "tt0030969",
+    "tt0027425",
+    "tt0028101"
   ],
   "collections": [],
   "is_curated": true,

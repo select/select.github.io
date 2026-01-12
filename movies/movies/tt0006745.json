@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-gretchen-the-greenhorn",
+      "id": "silent-gretchen-the-greenhorn",
       "title": "Gretchen the Greenhorn",
       "fileSize": 1156353393,
-      "id": "silent-gretchen-the-greenhorn"
+      "addedAt": "2026-01-07T00:10:59.118Z",
+      "thumbnail": "https://archive.org/services/img/silent-gretchen-the-greenhorn",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 357
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006509",
-      "title": "The Children in the House",
-      "year": 1916,
-      "imdbRating": 6.6,
-      "imdbVotes": 597,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0442148",
-      "title": "The Doll-House Mystery",
-      "year": 1915,
-      "imdbRating": 5.4,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038342",
-      "title": "Bedelia",
-      "year": 1946,
-      "imdbRating": 6.6,
-      "imdbVotes": 397,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043830",
-      "title": "My True Story",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051987",
-      "title": "Never Love a Stranger",
-      "year": 1958,
-      "imdbRating": 5.4,
-      "imdbVotes": 458,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027568",
-      "title": "Ellis Island",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 89,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026436",
-      "title": "Great God Gold",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0006509",
+    "tt0442148",
+    "tt0032179",
+    "tt0038342",
+    "tt0022662",
+    "tt0033526",
+    "tt0021770",
+    "tt0039694",
+    "tt0043830",
+    "tt0051987",
+    "tt0027568",
+    "tt0026436"
   ],
   "collections": [],
   "is_curated": true,

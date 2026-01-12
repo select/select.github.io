@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/calendar_201611",
+      "id": "calendar_201611",
       "title": "The Calendar",
       "description": "Title: The Calendar Summary: The favourite for the big race is nobbled and suspicion falls on the owner. His secret admirer proves it wasn't him. Directed by: Arthur Crabtree Actors: Greta Gynt, John McCallum, Raymond Lovell Production Company: Gainsborough Pictures Release Date: 5 July 1948 (UK) Aspect Ratio: 1.37 : 1 The favourite for the big race is nobbled and suspicion falls on the owner. His secret admirer proves it wasn't him.",
       "fileSize": 588050589,
-      "id": "calendar_201611"
+      "addedAt": "2026-01-07T00:07:45.166Z",
+      "thumbnail": "https://archive.org/services/img/calendar_201611",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 1084
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039306",
-      "title": "Dear Murderer",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 1154,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037578",
-      "title": "Caravan",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038161",
-      "title": "They Were Sisters",
-      "year": 1945,
-      "imdbRating": 6.8,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040615",
-      "title": "Mr. Perrin and Mr. Traill",
-      "year": 1948,
-      "imdbRating": 6.8,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039883",
-      "title": "Take My Life",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040481",
-      "title": "It Always Rains on Sunday",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 2505,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039587",
-      "title": "The Loves of Joanna Godden",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040779",
-      "title": "Shed No Tears",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 473,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039220",
-      "title": "Brighton Rock",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 7156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040797",
-      "title": "16 Fathoms Deep",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040740",
-      "title": "Road House",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 3271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040762",
-      "title": "Scudda Hoo! Scudda Hay!",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 416,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039306",
+    "tt0037578",
+    "tt0038161",
+    "tt0040615",
+    "tt0039883",
+    "tt0040481",
+    "tt0039587",
+    "tt0040779",
+    "tt0039220",
+    "tt0040797",
+    "tt0040740",
+    "tt0040762"
   ],
   "collections": [],
   "is_curated": true,

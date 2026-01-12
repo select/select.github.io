@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-riders-of-the-purple-sage",
+      "id": "silent-riders-of-the-purple-sage",
       "title": "Riders of the Purple Sage",
       "fileSize": 1024599032,
-      "id": "silent-riders-of-the-purple-sage"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-riders-of-the-purple-sage",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2965
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013607",
-      "title": "Sky High",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012775",
-      "title": "Trailin'",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014321",
-      "title": "North of Hudson Bay",
-      "year": 1923,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061709",
-      "title": "Day of Anger",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 6249,
-      "language": "Italian, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132960",
-      "title": "Flaming Waters",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026846",
-      "title": "Paradise Canyon",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1086,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060315",
-      "title": "Django",
-      "year": 1966,
-      "imdbRating": 7.2,
-      "imdbVotes": 33156,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215842",
-      "title": "El hijo de Gabino Barrera",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070091",
-      "title": "The Gatling Gun",
-      "year": 1971,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064395",
-      "title": "Guns of the Magnificent Seven",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 3327,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061846",
-      "title": "Johnny Yuma",
-      "year": 1966,
-      "imdbRating": 6.1,
-      "imdbVotes": 481,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0013607",
+    "tt0012775",
+    "tt0014321",
+    "tt0061709",
+    "tt0132960",
+    "tt0026846",
+    "tt0016641",
+    "tt0060315",
+    "tt0215842",
+    "tt0070091",
+    "tt0064395",
+    "tt0061846"
   ],
   "collections": [],
   "is_curated": true,

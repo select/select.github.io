@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/giddyap-1950",
+      "id": "giddyap-1950",
       "title": "Giddyap (1950)",
       "description": "A family's horse-drawn ice delivery business is threatened by a more modern automobile-using company. Watch on RetroFlix:  https://retroflix.org/giddyap-1950/",
       "fileSize": 54589304,
-      "id": "giddyap-1950"
+      "addedAt": "2026-01-07T00:08:32.018Z",
+      "thumbnail": "https://archive.org/services/img/giddyap-1950",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 75
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150501",
-      "title": "The Family Circus",
-      "year": 1951,
-      "imdbRating": 5.8,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152028",
-      "title": "The Popcorn Story",
-      "year": 1950,
-      "imdbRating": 5.9,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148014",
-      "title": "Coo-Coo Bird Dog",
-      "year": 1949,
-      "imdbRating": 6.3,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150710",
-      "title": "Georgie and the Dragon",
-      "year": 1951,
-      "imdbRating": 7.4,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153908",
-      "title": "The Wonder Gloves",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151467",
-      "title": "Make Mine Freedom",
-      "year": 1948,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151951",
-      "title": "Pete Hothead",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148603",
-      "title": "Pickled Puss",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045209",
-      "title": "Susie the Little Blue Coupe",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 593,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045258",
-      "title": "Tree for Two",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153850",
-      "title": "Willie the Kid",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150501",
+    "tt0152028",
+    "tt0148014",
+    "tt0150710",
+    "tt0153908",
+    "tt0151467",
+    "tt0151951",
+    "tt0148603",
+    "tt0045209",
+    "tt0045258",
+    "tt0153850",
+    "tt14091630"
   ],
   "collections": [],
   "is_curated": true,

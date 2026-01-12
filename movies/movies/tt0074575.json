@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Gods_Gun.avi",
+      "id": "Gods_Gun.avi",
       "title": "God's Gun",
       "description": "Israeli-Italian western starring Jack Palance, Lee Van Cleef, Sybil Danning, and teen idol, Leif Garrett. A priest turns gunfighter to avenge his brother's death.",
       "fileSize": 2173792670,
-      "id": "Gods_Gun.avi"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/Gods_Gun.avi",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 51171
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/gods-gun-1976",
+      "id": "gods-gun-1976",
       "title": "God's Gun (1976)",
       "description": "Priest turned vigilante Father John hunts down a gang of criminals, led by Sam Clayton, who killed a man in a local bar. On the gang's return to the town, they kill the priest, leaving a young parishioner Johnny behind. He now seeks revenge for the death of the holy man. Watch on RetroFlix:  https://retroflix.org/gods-gun-1976/",
       "fileSize": 604166290,
-      "id": "gods-gun-1976"
+      "addedAt": "2026-01-07T00:08:32.018Z",
+      "thumbnail": "https://archive.org/services/img/gods-gun-1976",
+      "language": "eng",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 110
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/godsgun1976",
+      "id": "godsgun1976",
       "title": "God's Gun",
       "description": "Priest turned vigilante Father John (Van Cleef) hunts down a gang of criminals, led by Sam Clayton (Palance), who killed a man in a local bar. On the gang's return to the town, they kill the priest, leaving a young parishioner Johnny behind. He now seeks revenge for the death of the holy man. You can find out more about this movie on its IMDB page .",
       "fileSize": 2460592286,
-      "id": "godsgun1976"
+      "addedAt": "2026-01-07T00:08:32.018Z",
+      "thumbnail": "https://archive.org/services/img/godsgun1976",
+      "collection": "feature_films",
+      "downloads": 49118
     }
   ],
   "metadata": {
@@ -43,115 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0076261",
-      "title": "Vengeance",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 671,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074719",
-      "title": "Joshua",
-      "year": 1976,
-      "imdbRating": 4.6,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0295018",
-      "title": "The Wackiest Wagon Train in the West",
-      "year": 1976,
-      "imdbRating": 3.6,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0078240",
-      "title": "The Shadow of Chikara",
-      "year": 1977,
-      "imdbRating": 5.4,
-      "imdbVotes": 452,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0360007",
-      "title": "White Fang and the Gold Diggers",
-      "year": 1975,
-      "imdbRating": 4.8,
-      "imdbVotes": 62,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0068539",
-      "title": "It Can Be Done Amigo",
-      "year": 1972,
-      "imdbRating": 5.7,
-      "imdbVotes": 1837,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066907",
-      "title": "Chato's Land",
-      "year": 1972,
-      "imdbRating": 6.6,
-      "imdbVotes": 6867,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071589",
-      "title": "The Gun and the Pulpit",
-      "year": 1974,
-      "imdbRating": 5.7,
-      "imdbVotes": 345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073059",
-      "title": "Gone with the West",
-      "year": 1974,
-      "imdbRating": 3.1,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071593",
-      "title": "The Hanged Man",
-      "year": 1974,
-      "imdbRating": 5.6,
-      "imdbVotes": 404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077327",
-      "title": "China 9, Liberty 37",
-      "year": 1978,
-      "imdbRating": 6.1,
-      "imdbVotes": 1584,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061709",
-      "title": "Day of Anger",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 6249,
-      "language": "Italian, English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0076261",
+    "tt0074719",
+    "tt0295018",
+    "tt0078240",
+    "tt0360007",
+    "tt0068539",
+    "tt0066907",
+    "tt0071589",
+    "tt0073059",
+    "tt0071593",
+    "tt0077327",
+    "tt0061709"
   ],
   "collections": [],
   "is_curated": true,

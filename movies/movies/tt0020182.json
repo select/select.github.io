@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/monte-cristo_1929",
+      "id": "monte-cristo_1929",
       "title": "Monte Cristo",
       "fileSize": 11708420488,
-      "id": "monte-cristo_1929"
+      "addedAt": "2026-01-07T00:09:54.330Z",
+      "thumbnail": "https://archive.org/services/img/monte-cristo_1929",
+      "language": "French",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 673
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020109",
-      "title": "The Lost Zeppelin",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020461",
-      "title": "The Studio Murder Mystery",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020500",
-      "title": "Thundering Thompson",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019639",
-      "title": "Andreas Hofer",
-      "year": 1929,
-      "imdbRating": 3.6,
-      "imdbVotes": 18,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019684",
-      "title": "Behind That Curtain",
-      "year": 1929,
-      "imdbRating": 4.8,
-      "imdbVotes": 601,
-      "language": "Hindi, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018908",
-      "title": "The Four Feathers",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 352,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019699",
-      "title": "The Black Watch",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 494,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020320",
-      "title": "Redskin",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020481",
-      "title": "Tarzan the Tiger",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020030",
+    "tt0020109",
+    "tt0020461",
+    "tt0020500",
+    "tt0019639",
+    "tt0019684",
+    "tt0019884",
+    "tt0019987",
+    "tt0018908",
+    "tt0019699",
+    "tt0020320",
+    "tt0020481"
   ],
   "collections": [],
   "is_curated": true,

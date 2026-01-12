@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/13th-man-1937-",
+      "id": "13th-man-1937-",
       "title": "13th Man (1937)",
       "description": "Weldon Heyburn, Inez Courtney, Milburn Stone",
       "fileSize": 1313332111,
-      "id": "13th-man-1937-"
+      "addedAt": "2026-01-07T00:06:00.051Z",
+      "thumbnail": "https://archive.org/services/img/13th-man-1937-",
+      "collection": "feature_films",
+      "downloads": 7543
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/13th_Man_1937",
+      "id": "13th_Man_1937",
       "title": "The 13th Man",
       "description": "The murder of a district attorney is investigated by two reporters, one of whom is played by Milburn Stone (Doc Adams in \"Gunsmoke\").",
       "fileSize": 1348598217,
-      "id": "13th_Man_1937"
+      "addedAt": "2026-01-07T00:06:00.051Z",
+      "thumbnail": "https://archive.org/services/img/13th_Man_1937",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 30282
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=6pPc8AhwVek",
+      "id": "6pPc8AhwVek",
       "title": "The 13th Man (1937) MYSTERY",
       "description": "Stars: Weldon Heyburn, Inez Courtney, Selmer Jackson\n Director: William Nigh\n\n A tough district attorney has been cleaning up the town, and has already imprisoned twelve dangerous criminals. As he is about to name the target for his next investigation, he is murdered in the midst of a crowd. The police have many suspects and hardly any clues, so two reporters decide to investigate for themselves.",
-      "id": "6pPc8AhwVek",
+      "addedAt": "2025-12-26T23:53:40.134Z",
+      "thumbnail": "https://i.ytimg.com/vi/6pPc8AhwVek/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLAlZDXU_OMyff982hm4j9pJ5TgU-Q",
+      "duration": 4150,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028788",
-      "title": "Dinner at the Ritz",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025514",
-      "title": "Monte Carlo Nights",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032457",
-      "title": "The Fatal Hour",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 1328,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031125",
-      "title": "Bulldog Drummond's Secret Police",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 672,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026177",
-      "title": "Captured in Chinatown",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029941",
-      "title": "Boy of the Streets",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028662",
-      "title": "A Bride for Henry",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025530",
-      "title": "Murder in the Clouds",
-      "year": 1934,
-      "imdbRating": 5.9,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028788",
+    "tt0032404",
+    "tt0025514",
+    "tt0032457",
+    "tt0031125",
+    "tt0026177",
+    "tt0029941",
+    "tt0018618",
+    "tt0028592",
+    "tt0028634",
+    "tt0028662",
+    "tt0025530"
   ],
   "collections": [],
   "is_curated": true,

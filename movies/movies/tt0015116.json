@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-manhandled",
+      "id": "silent-manhandled",
       "title": "Manhandled",
       "fileSize": 18541167252,
-      "id": "silent-manhandled"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-manhandled",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 877
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014636",
-      "title": "Zaza",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040474",
-      "title": "The Inside Story",
-      "year": 1948,
-      "imdbRating": 6.6,
-      "imdbVotes": 318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044735",
-      "title": "I Dream of Jeanie",
-      "year": 1952,
-      "imdbRating": 5.9,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0016241",
-      "title": "Pretty Ladies",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 273,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015232",
-      "title": "Pierrot, Pierrette",
-      "year": 1924,
-      "imdbRating": 6.9,
-      "imdbVotes": 45,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015313",
-      "title": "Secrets of the Night",
-      "year": 1924,
-      "imdbRating": 6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015500",
-      "title": "Wine of Youth",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 411,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011909",
-      "title": "The Affairs of Anatol",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017841",
-      "title": "East Side, West Side",
-      "year": 1927,
-      "imdbRating": 7.1,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0014636",
+    "tt0040474",
+    "tt0044735",
+    "tt0016241",
+    "tt0014646",
+    "tt0015232",
+    "tt0015313",
+    "tt0015500",
+    "tt0011909",
+    "tt0017841",
+    "tt0016028",
+    "tt0016548"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AChristmasCarol",
+      "id": "AChristmasCarol",
       "title": "A Christmas Carol",
       "description": "Originally released Christmas 1910, this Edison production features Charles Ogle (Frankenstein) as Bob Cratchet. Remastered, retitled, tinted and new soundtrack added in 2010.",
       "fileSize": 303825779,
-      "id": "AChristmasCarol"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/AChristmasCarol",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 119368
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AChristmasCarol1910",
+      "id": "AChristmasCarol1910",
       "title": "A Christmas Carol (1910)",
       "description": "Marc McDermott stars as Ebenezer Scrooge in this silent film version of Dickens' classic ghost story, A Christmas Carol. You can find out more about the film at A Passion For Horror .",
       "fileSize": 98318522,
-      "id": "AChristmasCarol1910"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/AChristmasCarol1910",
+      "collection": "feature_films",
+      "downloads": 120824
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-christmas-carol",
+      "id": "silent-a-christmas-carol",
       "title": "A Christmas Carol",
       "fileSize": 143347130,
-      "id": "silent-a-christmas-carol"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-christmas-carol",
+      "language": "English",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 844
     }
   ],
   "metadata": {
@@ -42,114 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0191358",
-      "title": "Pikovaya dama",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 202,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233728",
-      "title": "Fireside Reminiscences",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000488",
-      "title": "The Land Beyond the Sunset",
-      "year": 1912,
-      "imdbRating": 6.9,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298570",
-      "title": "The Tempest",
-      "year": 1908,
-      "imdbRating": 5.8,
-      "imdbVotes": 279,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001223",
-      "title": "Frankenstein",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 5022,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003516",
-      "title": "The Wanderer",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164493",
-      "title": "Cinderella",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 100,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000904",
-      "title": "The House of Cards",
-      "year": 1909,
-      "imdbRating": 5.4,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223340",
-      "title": "The Spring Fairy",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 53,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002421",
-      "title": "The Passer-by",
-      "year": 1912,
-      "imdbRating": 6.1,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0191358",
+    "tt0417062",
+    "tt0233728",
+    "tt0000488",
+    "tt0298570",
+    "tt0001223",
+    "tt0003516",
+    "tt0164493",
+    "tt0000904",
+    "tt0223340",
+    "tt0002421",
+    "tt0001265"
   ],
   "collections": [],
   "is_curated": true,

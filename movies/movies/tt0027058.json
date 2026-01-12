@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sunset_range",
+      "id": "sunset_range",
       "title": "Sunset Range",
       "description": "Grant hides stolen money in the luggage of Bonnie Shea who is moving west. Later when he and his men arrive to retrieve the money, they also kidnap Bonnie. This sends Reasonin' Bates and his cowhands on their horses after the gangsters in their cars. You can find more information regarding this film on its IMDb page .",
       "fileSize": 3704906625,
-      "id": "sunset_range"
+      "addedAt": "2026-01-07T00:11:35.633Z",
+      "thumbnail": "https://archive.org/services/img/sunset_range",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 55739
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=l0r1sMS8ENY",
+      "id": "l0r1sMS8ENY",
       "title": "Sunset Range (1935) HOOT GIBSON",
       "description": "Stars: Hoot Gibson, Mary Doran, James Eagles\n Director: Ray McCarey\n\n Grant hides stolen money in the luggage of Bonnie Shea who is moving west. Later when he and his men arrive to retrieve the money, they also kidnap Bonnie. This sends Reasonin' Bates and his cowhands on their horses after the gangsters in their cars.",
-      "id": "l0r1sMS8ENY",
+      "addedAt": "2025-12-26T23:51:48.369Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/l0r1sMS8ENY/maxresdefault.webp",
+      "duration": 3141,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026909",
-      "title": "Rainbow's End",
-      "year": 1935,
-      "imdbRating": 5.2,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027647",
-      "title": "Frontier Justice",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026756",
-      "title": "The Mystery Man",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027917",
-      "title": "Lucky Terror",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027434",
-      "title": "Cavalcade of the West",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025177",
-      "title": "Girl O' My Dreams",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023970",
-      "title": "The Dude Bandit",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029367",
-      "title": "The Painted Stallion",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023059",
-      "title": "In the Dough",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026052",
-      "title": "Alias John Law",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026081",
-      "title": "Arizona Trails",
-      "year": 1935,
-      "imdbRating": 4.7,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026909",
+    "tt0027647",
+    "tt0026756",
+    "tt0027917",
+    "tt0027434",
+    "tt0025177",
+    "tt0023970",
+    "tt0029367",
+    "tt0023059",
+    "tt0027087",
+    "tt0026052",
+    "tt0026081"
   ],
   "collections": [],
   "is_curated": true,

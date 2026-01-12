@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Number_Please",
+      "id": "Number_Please",
       "title": "Number, Please?",
       "description": "From IMDb : While at an amusement park, trying vainly to forget the girl he has lost, a young man sees the girl with her new boyfriend. When her dog gets loose in the park, both suitors have to help her catch it. Then, the girl's uncle, a balloonist, gives her a pass for two in his balloon, provided that her mother approves. She then offers to take along the first of her admirers who is able to get her mother's consent. Stars: Harold Lloyd, Mildred Davis, and Roy Brooks",
       "fileSize": 408787634,
-      "id": "Number_Please"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/Number_Please",
+      "language": "English",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 13900
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-number-please",
+      "id": "silent-number-please",
       "title": "Number, Please?",
       "fileSize": 420651110,
-      "id": "silent-number-please"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-number-please",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 323
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011293",
-      "title": "High and Dizzy",
-      "year": 1920,
-      "imdbRating": 6.8,
-      "imdbVotes": 1494,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011508",
-      "title": "Neighbors",
-      "year": 1920,
-      "imdbRating": 7.6,
-      "imdbVotes": 4771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011263",
-      "title": "Haunted Spooks",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1455,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010258",
-      "title": "His Royal Slyness",
-      "year": 1920,
-      "imdbRating": 6.2,
-      "imdbVotes": 819,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011144",
-      "title": "An Eastern Westerner",
-      "year": 1920,
-      "imdbRating": 6.8,
-      "imdbVotes": 1759,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011223",
-      "title": "Get Out and Get Under",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1071,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010146",
-      "title": "From Hand to Mouth",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011922",
-      "title": "Among Those Present",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012303",
-      "title": "I Do",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 833,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012512",
-      "title": "Now or Never",
-      "year": 1921,
-      "imdbRating": 6.7,
-      "imdbVotes": 899,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013075",
-      "title": "Dr. Jack",
-      "year": 1922,
-      "imdbRating": 7.1,
-      "imdbVotes": 1707,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0011293",
+    "tt0012499",
+    "tt0011508",
+    "tt0011263",
+    "tt0010258",
+    "tt0011144",
+    "tt0011223",
+    "tt0010146",
+    "tt0011922",
+    "tt0012303",
+    "tt0012512",
+    "tt0013075"
   ],
   "collections": [],
   "is_curated": true,

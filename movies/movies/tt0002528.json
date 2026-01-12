@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TomboyBessie1912",
+      "id": "TomboyBessie1912",
       "title": "TOMBOY BESSIE (1912)",
       "description": "TOMBOY BESSIE Biograph Company, 521 ft., rel. June 3, 1912 dir. Mack Sennett, auth. William E. Wing, cam. Percy Higginson cast: Mabel Normand, Mack Sennett, Kate Toncray, William J. Butler, W. C. Robinson, Frank Opperman, Charles Gorman? filmed: 4/1912 Location: CA copyright: June 8, 1912",
       "fileSize": 268372854,
-      "id": "TomboyBessie1912"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/TomboyBessie1912",
+      "collection": "feature_films",
+      "downloads": 1208
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-tomboy-bessie",
+      "id": "silent-tomboy-bessie",
       "title": "Tomboy Bessie",
       "fileSize": 164257603,
-      "id": "silent-tomboy-bessie"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-tomboy-bessie",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 226
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002501",
-      "title": "A Spanish Dilemma",
-      "year": 1912,
-      "imdbRating": 4.2,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002280",
-      "title": "An Interrupted Elopement",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002255",
-      "title": "Hot Stuff",
-      "year": 1912,
-      "imdbRating": 4.5,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002533",
-      "title": "The Tourists",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002569",
-      "title": "The Water Nymph",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002576",
-      "title": "What the Doctor Ordered",
-      "year": 1912,
-      "imdbRating": 4.7,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002070",
-      "title": "The Brave Hunter",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003417",
-      "title": "A Strong Revenge",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002663",
-      "title": "Barney Oldfield's Race for a Life",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003104",
-      "title": "Mabel's Dramatic Career",
-      "year": 1913,
-      "imdbRating": 5.7,
-      "imdbVotes": 323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003934",
-      "title": "The Fatal Mallet",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 1115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002501",
+    "tt0002280",
+    "tt0002255",
+    "tt0002533",
+    "tt0002569",
+    "tt0002576",
+    "tt0002070",
+    "tt0003417",
+    "tt0002663",
+    "tt0003104",
+    "tt0003934",
+    "tt0002133"
   ],
   "collections": [],
   "is_curated": true,

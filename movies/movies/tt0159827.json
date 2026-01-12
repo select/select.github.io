@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-weisse-wasche",
+      "id": "1942-weisse-wasche",
       "title": "1942 Weisse Wäsche",
       "description": "Film aus dem deutschen dritten Reich von 1942. Weisse Wäsche ",
       "fileSize": 273127179,
-      "id": "1942-weisse-wasche"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-weisse-wasche",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 216
     }
   ],
   "metadata": {
@@ -26,100 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0240578",
-      "title": "Himmel, wir erben ein Schloß",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033797",
-      "title": "Krach im Vorderhaus",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032982",
-      "title": "Der rettende Engel",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036843",
-      "title": "Ein fröhliches Haus",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122730",
-      "title": "Spiel mit der Liebe",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032775",
-      "title": "Mein Mann darf es nicht wissen",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131004",
-      "title": "Sein Sohn",
-      "year": 1942,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0158932",
-      "title": "Der Seniorchef",
-      "year": 1942,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130384",
-      "title": "Ein Zug fährt ab",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034773",
-      "title": "Geliebte Welt",
-      "year": 1942,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034823",
-      "title": "Hab mich lieb",
-      "year": 1942,
-      "imdbRating": 7.6,
-      "imdbVotes": 55,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034860",
-      "title": "Hochzeit auf Bärenhof",
-      "year": 1942,
-      "imdbRating": 8.2,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0240578",
+    "tt0033797",
+    "tt0032982",
+    "tt0036843",
+    "tt0122730",
+    "tt0032775",
+    "tt0131004",
+    "tt0158932",
+    "tt0130384",
+    "tt0034773",
+    "tt0034823",
+    "tt0034860"
   ],
   "collections": [],
   "is_curated": true,

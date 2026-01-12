@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AChristmasCarol_933",
+      "id": "AChristmasCarol_933",
       "title": "A Christmas Carol",
       "description": "These are the old versions. One of my practical joker friends in the film restoration project put a Little Lulu cartoon soundtrack in one of them",
       "fileSize": 552143238,
-      "id": "AChristmasCarol_933"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/AChristmasCarol_933",
+      "collection": "feature_films",
+      "downloads": 2898
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AChristmasCarol_201508",
+      "id": "AChristmasCarol_201508",
       "title": "AChristmas Carol",
       "description": "This is the 1910 version of, \"A Christmas Carol\" and has fallen into the Public Domain.",
       "fileSize": 278102262,
-      "id": "AChristmasCarol_201508"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/AChristmasCarol_201508",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 1892
     }
   ],
   "metadata": {
@@ -35,121 +44,18 @@
     "Awards": "3 wins & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1356395",
-      "title": "The Dog Who Saved Christmas",
-      "year": 2009,
-      "imdbRating": 4.1,
-      "imdbVotes": 1047,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1620449",
-      "title": "Animals United",
-      "year": 2010,
-      "imdbRating": 4.9,
-      "imdbVotes": 7254,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1272051",
-      "title": "Space Dogs",
-      "year": 2010,
-      "imdbRating": 5,
-      "imdbVotes": 1595,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0907678",
-      "title": "Edison & Leo",
-      "year": 2008,
-      "imdbRating": 5.5,
-      "imdbVotes": 257,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0461770",
-      "title": "Enchanted",
-      "year": 2007,
-      "imdbRating": 7.1,
-      "imdbVotes": 225315,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1068997",
-      "title": "Noah's Ark",
-      "year": 2007,
-      "imdbRating": 5.1,
-      "imdbVotes": 569,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0952640",
-      "title": "Alvin and the Chipmunks",
-      "year": 2007,
-      "imdbRating": 5.3,
-      "imdbVotes": 101785,
-      "language": "English, French, Spanish, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2179678",
-      "title": "Soledad y Larguirucho",
-      "year": 2012,
-      "imdbRating": 3.8,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1487931",
-      "title": "Khumba",
-      "year": 2013,
-      "imdbRating": 5.6,
-      "imdbVotes": 6709,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0031397",
-      "title": "Gulliver's Travels",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 5174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0104740",
-      "title": "Little Nemo: Adventures in Slumberland",
-      "year": 1989,
-      "imdbRating": 7,
-      "imdbVotes": 8713,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1782440",
-      "title": "Firebreather",
-      "year": 2009,
-      "imdbRating": 6,
-      "imdbVotes": 2105,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1356395",
+    "tt1620449",
+    "tt1272051",
+    "tt0907678",
+    "tt1068997",
+    "tt0952640",
+    "tt2179678",
+    "tt1487931",
+    "tt0031397",
+    "tt0104740",
+    "tt1782440",
+    "tt8354218"
   ],
   "collections": [
     {

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-war-bonnet-round-up",
+      "id": "silent-the-war-bonnet-round-up",
       "title": "The War Bonnet Round-Up",
       "fileSize": 78285478,
-      "id": "silent-the-war-bonnet-round-up"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-war-bonnet-round-up",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 253
     }
   ],
   "metadata": {
@@ -26,107 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1187321",
-      "title": "Picturesque Colorado",
-      "year": 1911,
-      "imdbVotes": 8,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0885116",
-      "title": "Seven Ages of an Alligator",
-      "year": 1913,
-      "imdbRating": 5.8,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5328220",
-      "title": "Marvellous Melbourne",
-      "year": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257522",
-      "title": "A Day in the Life of a Coal Miner",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 288,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2194533",
-      "title": "Comment les pauvres mangent à Paris",
-      "year": 1910,
-      "imdbRating": 6.5,
-      "imdbVotes": 18,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477346",
-      "title": "New York of Today",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4745838",
-      "title": "The Seine Flood",
-      "year": 1910,
-      "imdbVotes": 23,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477402",
-      "title": "The Wonders of Magnetism",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1187030",
-      "title": "Manhattan Trade School for Girls",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1410251",
-      "title": "On to Washington",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 51,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1187321",
+    "tt0885116",
+    "tt5328220",
+    "tt1283535",
+    "tt0257522",
+    "tt2194533",
+    "tt0477346",
+    "tt4745838",
+    "tt9837386",
+    "tt0477402",
+    "tt1187030",
+    "tt1410251"
   ],
   "collections": [],
   "is_curated": true,

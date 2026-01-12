@@ -6,19 +6,29 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=9PYUi-xaF8s",
+      "id": "9PYUi-xaF8s",
       "title": "Rogue of the Rio Grande (1930) MYRNA LOY",
       "description": "Stars: Myrna Loy, Walter Miller, Carmelita Geraghty\nDirector: Spencer Gordon Bennet\n\nA notorious Robin Hood-like bandito falls for an Argentine singer despite his belief that women bring much bad luck!",
-      "id": "9PYUi-xaF8s",
+      "addedAt": "2025-12-26T23:46:41.390Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/9PYUi-xaF8s/maxresdefault.webp",
+      "duration": 3115,
+      "language": "en",
+      "year": 1930,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RogueOfTheRioGrande1930JosBohrMyrnaLoyRaymondHatton",
+      "id": "RogueOfTheRioGrande1930JosBohrMyrnaLoyRaymondHatton",
       "title": "Rogue Of The Rio Grande 1930 Jose Bohr, Myrna Loy, Raymond Hatton",
       "description": "Rogue Of The Rio Grande 1930 Jose Bohr, Myrna Loy, Raymond Hatton",
       "fileSize": 1272203250,
-      "id": "RogueOfTheRioGrande1930JosBohrMyrnaLoyRaymondHatton"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RogueOfTheRioGrande1930JosBohrMyrnaLoyRaymondHatton",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 1246
     }
   ],
   "metadata": {
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033351",
-      "title": "Arizona Bound",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032364",
-      "title": "The Cowboy from Sundown",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031748",
-      "title": "Oklahoma Terror",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031860",
-      "title": "Riders of the Frontier",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021083",
-      "title": "The Lone Defender",
-      "year": 1930,
-      "imdbRating": 4.8,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031018",
-      "title": "Across the Plains",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033683",
-      "title": "The Gunman from Bodie",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019945",
-      "title": "The Great Divide",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023221",
-      "title": "The Midnight Warning",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020809",
-      "title": "Dangerous Nan McGrew",
-      "year": 1930,
-      "imdbRating": 4.7,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020884",
-      "title": "Fighting Thru; or, California in 1878",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021046",
-      "title": "The Land of Missing Men",
-      "year": 1930,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033351",
+    "tt0032364",
+    "tt0031748",
+    "tt0031860",
+    "tt0021083",
+    "tt0031018",
+    "tt0033683",
+    "tt0019945",
+    "tt0023221",
+    "tt0020809",
+    "tt0020884",
+    "tt0021046"
   ],
   "collections": [],
   "is_curated": true,

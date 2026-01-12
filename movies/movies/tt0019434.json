@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/submarine_1928",
+      "id": "submarine_1928",
       "title": "Submarine",
       "fileSize": 5721257336,
-      "id": "submarine_1928"
+      "addedAt": "2026-01-07T00:11:35.630Z",
+      "thumbnail": "https://archive.org/services/img/submarine_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1371
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019489",
-      "title": "The Trail of '98",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022399",
-      "title": "The Sky Spider",
-      "year": 1931,
-      "imdbRating": 2.4,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019886",
-      "title": "The Flying Fleet",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022957",
-      "title": "Gorilla Ship",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0377062",
-      "title": "Flight of the Phoenix",
-      "year": 2004,
-      "imdbRating": 6.1,
-      "imdbVotes": 58208,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0072231",
-      "title": "At Home Among Strangers, a Stranger Among His Own",
-      "year": 1974,
-      "imdbRating": 7.4,
-      "imdbVotes": 3763,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0034428",
-      "title": "Across the Pacific",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 5563,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052604",
-      "title": "The Giant of Marathon",
-      "year": 1959,
-      "imdbRating": 5.1,
-      "imdbVotes": 1112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023938",
-      "title": "Deluge",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 746,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019489",
+    "tt0019884",
+    "tt0016641",
+    "tt0022399",
+    "tt0019886",
+    "tt0022957",
+    "tt0377062",
+    "tt0072231",
+    "tt0034428",
+    "tt0052604",
+    "tt0026223",
+    "tt0023938"
   ],
   "collections": [],
   "is_curated": true,

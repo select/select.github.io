@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-president",
+      "id": "silent-the-president",
       "title": "The President",
       "fileSize": 2064353239,
-      "id": "silent-the-president"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-president",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 556
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011000",
-      "title": "Leaves From Satan's Book",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1390,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011607",
-      "title": "The Parson's Widow",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 1556,
-      "language": "None, Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013169",
-      "title": "Die Gezeichneten",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 542,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036506",
-      "title": "Day of Wrath",
-      "year": 1943,
-      "imdbRating": 8.1,
-      "imdbVotes": 11439,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015768",
-      "title": "Master of the House",
-      "year": 1925,
-      "imdbRating": 7,
-      "imdbVotes": 2506,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010103",
-      "title": "Eyes of Youth",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010137",
-      "title": "For Better, for Worse",
-      "year": 1919,
-      "imdbRating": 5.9,
-      "imdbVotes": 747,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010208",
-      "title": "Harakiri",
-      "year": 1919,
-      "imdbRating": 5.6,
-      "imdbVotes": 801,
-      "language": "None, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010316",
-      "title": "Jubilo",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010402",
-      "title": "Love's Prisoner",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0011000",
+    "tt0011607",
+    "tt0013169",
+    "tt0036506",
+    "tt0015768",
+    "tt0009559",
+    "tt0009968",
+    "tt0010103",
+    "tt0010137",
+    "tt0010208",
+    "tt0010316",
+    "tt0010402"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/te-amo-1986",
+      "id": "te-amo-1986",
       "title": "Te Amo (1986)",
       "description": "Te amo  es una película  argentina  filmada en  Eastmancolor  estrenada el 2 de mayo del año 1986. Dirigida por  Eduardo Calcagno . Escrita por  Eduardo Calcagno  y  Nelly Fernández Tiscornia . Protagonizada por  Ulises Dumont  y  Betiana Blum . Coprotagonizada por  Ricardo Darín ,  Gogó Andreu ,  Germán Palacios ,  Georgina Barbarrosa ,  Eleonora Wexler  y  Mónica Galán . También, contó con las actuaciones especiales de  Perla Santalla ,  Víctor Laplace  y  Pepe Soriano . Y la presentación de  Valentina Fernández de Rosa .(Wikipedia) Sinopsis Una adolescente soltera embarazada va a vivir con su tío, un mediocre animador en un cabaré de mala muerte. [ 1 ] ​ Reparto Actor Personaje Ulises Dumont Roberto París Betiana Blum Coca Valentina Fernández de Rosa Valeria Ricardo Darín Germán Pepe Soriano Mago Gogó Andreu Patrón del boliche Germán Palacios Miguel Ángel Víctor Laplace Padre de Valeria Perla Santalla Rosita Lemos Georgina Barbarossa Flora Eleonora Wexler Mariela Guillermo Rico Cantor en la estación de tren Juan Carlos Rotter Plomero Mónica Galán Doctora Francisco Cocuzza Lombriz Marlene Anderson Mimí Gustavo Tieffenberg Javier Willy Lemos Transformista Juan Carlos Pérez Sarre Escribano Ezequiel Eskenazi Almacenero Vladimiro Povalek Violinista Sabrina Alexander Nena del final Viuda e Hijas de Roque Enroll Ellas mismas Cristina Banegas Madre de Valeria",
       "fileSize": 1310202165,
-      "id": "te-amo-1986"
+      "addedAt": "2026-01-07T00:11:46.528Z",
+      "thumbnail": "https://archive.org/services/img/te-amo-1986",
+      "language": "spa",
+      "year": 1986,
+      "collection": "feature_films",
+      "downloads": 411
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0089721",
-      "title": "The Detached Mission",
-      "year": 1986,
-      "imdbRating": 5.3,
-      "imdbVotes": 278,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0092688",
-      "title": "Boris Godunov",
-      "year": 1986,
-      "imdbRating": 6.6,
-      "imdbVotes": 296,
-      "language": "Russian, French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0091364",
-      "title": "Courier",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 6488,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0090197",
-      "title": "In a Glass Cage",
-      "year": 1986,
-      "imdbRating": 6.7,
-      "imdbVotes": 5376,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6189898",
-      "title": "Apenas Reflejos",
-      "year": 1986,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092850",
-      "title": "Deadtime Stories",
-      "year": 1986,
-      "imdbRating": 4.7,
-      "imdbVotes": 2761,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091134",
-      "title": "Gombrowicz, o la seducción (Representado por sus discípulos)",
-      "year": 1986,
-      "imdbRating": 7.5,
-      "imdbVotes": 11,
-      "language": "Spanish, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091166",
-      "title": "Hands of Steel",
-      "year": 1986,
-      "imdbRating": 5.3,
-      "imdbVotes": 2963,
-      "language": "Italian, Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091269",
-      "title": "Los insomnes",
-      "year": 1986,
-      "imdbRating": 7.4,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0089599",
-      "title": "Mirch Masala",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 1574,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091528",
-      "title": "Miss Mary",
-      "year": 1986,
-      "imdbRating": 6.5,
-      "imdbVotes": 358,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092530",
-      "title": "Alien Predator",
-      "year": 1986,
-      "imdbRating": 3.8,
-      "imdbVotes": 1386,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0089721",
+    "tt0092688",
+    "tt0091364",
+    "tt0090197",
+    "tt6189898",
+    "tt0092850",
+    "tt0091134",
+    "tt0091166",
+    "tt0091269",
+    "tt0089599",
+    "tt0091528",
+    "tt0092530"
   ],
   "collections": [],
   "is_curated": true,

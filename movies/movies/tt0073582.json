@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DeepRed1975",
+      "id": "DeepRed1975",
       "title": "Deep Red",
       "description": "A musician witnesses the murder of a famous psychic, and then teams up with a fiesty reporter to find the killer while evading attempts on their lives by the unseen killer bent on keeping a dark secret buried. - Description from IMDB",
       "fileSize": 2382482993,
-      "id": "DeepRed1975"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/DeepRed1975",
+      "year": 1975,
+      "collection": "feature_films",
+      "downloads": 239771
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deep-red-1975-david-hemmings",
+      "id": "deep-red-1975-david-hemmings",
       "title": "Deep Red (1975)",
       "description": "A musician witnesses a murder and then teams up with a reporter to find the killer.",
       "fileSize": 1871874274,
-      "id": "deep-red-1975-david-hemmings"
+      "addedAt": "2026-01-07T00:07:59.606Z",
+      "thumbnail": "https://archive.org/services/img/deep-red-1975-david-hemmings",
+      "collection": "feature_films",
+      "downloads": 11480
     }
   ],
   "metadata": {
@@ -35,117 +44,18 @@
     "Awards": "1 win & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0070917",
-      "title": "The Wicker Man",
-      "year": 1973,
-      "imdbRating": 7.5,
-      "imdbVotes": 102098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076068",
-      "title": "Watch Me When I Kill",
-      "year": 1977,
-      "imdbRating": 5.9,
-      "imdbVotes": 1552,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0065143",
-      "title": "The Bird with the Crystal Plumage",
-      "year": 1970,
-      "imdbRating": 7.1,
-      "imdbVotes": 25801,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070698",
-      "title": "Sisters",
-      "year": 1972,
-      "imdbRating": 6.9,
-      "imdbVotes": 22356,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068394",
-      "title": "Knife of Ice",
-      "year": 1972,
-      "imdbRating": 6,
-      "imdbVotes": 1448,
-      "language": "Italian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0067656",
-      "title": "A Bay of Blood",
-      "year": 1971,
-      "imdbRating": 6.5,
-      "imdbVotes": 13638,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0076786",
-      "title": "Suspiria",
-      "year": 1977,
-      "imdbRating": 7.3,
-      "imdbVotes": 112468,
-      "language": "Italian, Russian, English, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024625",
-      "title": "A Study in Scarlet",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185371",
-      "title": "House on Haunted Hill",
-      "year": 1999,
-      "imdbRating": 5.6,
-      "imdbVotes": 62582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053719",
-      "title": "The City of the Dead",
-      "year": 1960,
-      "imdbRating": 6.7,
-      "imdbVotes": 8856,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2364774",
-      "title": "Kill or Be Killed",
-      "year": 2015,
-      "imdbRating": 4.2,
-      "imdbVotes": 1148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0070917",
+    "tt0076068",
+    "tt0065143",
+    "tt0070698",
+    "tt0068394",
+    "tt0067656",
+    "tt0076786",
+    "tt0024625",
+    "tt0185371",
+    "tt0053719",
+    "tt2364774",
+    "tt0034985"
   ],
   "collections": [
     {

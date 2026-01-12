@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dragnet-1947-",
+      "id": "dragnet-1947-",
       "title": "Dragnet (1947)",
       "description": "Henry Wilcoxon, Mary Brian",
       "fileSize": 1719817334,
-      "id": "dragnet-1947-"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dragnet-1947-",
+      "collection": "feature_films",
+      "downloads": 901
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039075",
-      "title": "Vacation in Reno",
-      "year": 1946,
-      "imdbRating": 5.3,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039133",
-      "title": "Adventure Island",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039231",
-      "title": "Bush Christmas",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040208",
-      "title": "Campus Sleuth",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039707",
-      "title": "The Pilgrim Lady",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027517",
-      "title": "The Devil Diamond",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029787",
-      "title": "With Love and Kisses",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0041971",
-      "title": "The Torch",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 235,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036879",
-      "title": "The Great Mike",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037735",
-      "title": "Genius at Work",
-      "year": 1946,
-      "imdbRating": 5.1,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036161",
-      "title": "Minesweeper",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 432,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039075",
+    "tt0039133",
+    "tt0039231",
+    "tt0039580",
+    "tt0040208",
+    "tt0039707",
+    "tt0041098",
+    "tt0027517",
+    "tt0029787",
+    "tt0041971",
+    "tt0036879",
+    "tt0037735"
   ],
   "collections": [],
   "is_curated": true,

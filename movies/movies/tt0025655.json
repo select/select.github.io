@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-pipin-der-kurze",
+      "id": "1934-pipin-der-kurze",
       "title": "1934 Pipin Der Kurze",
       "description": "Film aus dem deutschen dritten Reich von 1934..mit Heinz Rühmann in der Hauptrolle.. Pipin der Kurze",
       "fileSize": 2619402830,
-      "id": "1934-pipin-der-kurze"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1934-pipin-der-kurze",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 272
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025230",
-      "title": "Heinz im Mond",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 91,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023989",
-      "title": "Es gibt nur eine Liebe",
-      "year": 1933,
-      "imdbRating": 6.9,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227736",
-      "title": "Verlieb Dich nicht am Bodensee",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027549",
-      "title": "Drei tolle Tage",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024984",
-      "title": "City Limits",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024967",
-      "title": "Charleys Tante",
-      "year": 1934,
-      "imdbRating": 6.1,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248745",
-      "title": "Da stimmt was nicht",
-      "year": 1934,
-      "imdbRating": 6.7,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231591",
-      "title": "Der Firmling",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 186,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025927",
-      "title": "Die Töchter ihrer Exzellenz",
-      "year": 1934,
-      "imdbRating": 4.5,
-      "imdbVotes": 39,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025944",
-      "title": "Die vertauschte Braut",
-      "year": 1934,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0025230",
+    "tt0023989",
+    "tt0227736",
+    "tt0027549",
+    "tt0024808",
+    "tt0024985",
+    "tt0024984",
+    "tt0024967",
+    "tt0248745",
+    "tt0231591",
+    "tt0025927",
+    "tt0025944"
   ],
   "collections": [],
   "is_curated": true,

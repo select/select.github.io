@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-parisian-love",
+      "id": "silent-parisian-love",
       "title": "Parisian Love",
       "fileSize": 1096542785,
-      "id": "silent-parisian-love"
+      "addedAt": "2026-01-07T00:11:15.971Z",
+      "thumbnail": "https://archive.org/services/img/silent-parisian-love",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2634
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014264",
-      "title": "Maytime",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016473",
-      "title": "The Unholy Three",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 2348,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0028346",
-      "title": "Reefer Madness",
-      "year": 1936,
-      "imdbRating": 3.7,
-      "imdbVotes": 9511,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021359",
-      "title": "Shadow of the Law",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017457",
-      "title": "That Model from Paris",
-      "year": 1926,
-      "imdbRating": 7.4,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020560",
-      "title": "The Voice of the City",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018362",
-      "title": "The Scar of Shame",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 454,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018578",
-      "title": "Wings",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 15487,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    }
+    "tt0028607",
+    "tt0014264",
+    "tt0016473",
+    "tt0028346",
+    "tt0021359",
+    "tt0018618",
+    "tt0017457",
+    "tt0019979",
+    "tt0020560",
+    "tt0018362",
+    "tt0018578",
+    "tt0032179"
   ],
   "collections": [],
   "is_curated": true,

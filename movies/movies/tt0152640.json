@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-sultans-birthday-1944",
+      "id": "the-sultans-birthday-1944",
       "title": "The Sultan's Birthday (1944)",
       "description": "Mighty Mouse rescues a Sultan and all his palace residents from an attack by evil cats on flying carpets. Watch on RetroFlix:  https://retroflix.org/the-sultans-birthday-1944/",
       "fileSize": 36970522,
-      "id": "the-sultans-birthday-1944"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-sultans-birthday-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 92
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150279",
-      "title": "A Day in June",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149726",
-      "title": "At the Circus",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150293",
-      "title": "Dear Old Switzerland",
-      "year": 1944,
-      "imdbRating": 4.4,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037108",
-      "title": "My Boy Johnny",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6056976",
-      "title": "Camouflage",
-      "year": 1944,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150059",
-      "title": "The Cat Came Back",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150088",
-      "title": "The Champion of Justice",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150785",
-      "title": "The Green Line",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150879",
-      "title": "The Helicopter",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153363",
-      "title": "The Two Barbers",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153944",
-      "title": "The Wreck of the Hesperus",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150279",
+    "tt0149726",
+    "tt0150293",
+    "tt0037108",
+    "tt6056976",
+    "tt0150059",
+    "tt0150088",
+    "tt0150785",
+    "tt0150879",
+    "tt0153363",
+    "tt0153944",
+    "tt12305226"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ashes-2012-dvdrip-r",
+      "id": "ashes-2012-dvdrip-r",
       "title": "Ashes (2012)",
       "description": "Stricken with Alzheimer's, Frank is confined to a residential home. One day, James appears, wanting to re-connect with a father who no longer knows him.",
       "fileSize": 1316829191,
-      "id": "ashes-2012-dvdrip-r"
+      "addedAt": "2026-01-07T00:07:25.000Z",
+      "thumbnail": "https://archive.org/services/img/ashes-2012-dvdrip-r",
+      "language": "eng",
+      "year": 2012,
+      "collection": "feature_films",
+      "downloads": 39
     }
   ],
   "metadata": {
@@ -27,121 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1883121",
-      "title": "404: Error Not Found",
-      "year": 2011,
-      "imdbRating": 7.3,
-      "imdbVotes": 3433,
-      "language": "Hindi, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1874707",
-      "title": "Secrets from Her Past",
-      "year": 2011,
-      "imdbRating": 4.3,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1582271",
-      "title": "The Good Doctor",
-      "year": 2011,
-      "imdbRating": 5.5,
-      "imdbVotes": 7483,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt1401236",
-      "title": "The Fields",
-      "year": 2011,
-      "imdbRating": 4.3,
-      "imdbVotes": 1958,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3108158",
-      "title": "The World of Kanako",
-      "year": 2014,
-      "imdbRating": 6.5,
-      "imdbVotes": 6075,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3525764",
-      "title": "Status: Unknown",
-      "year": 2014,
-      "imdbRating": 4.6,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3274704",
-      "title": "Patient Killer",
-      "year": 2014,
-      "imdbRating": 4.2,
-      "imdbVotes": 492,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1486192",
-      "title": "The Raven",
-      "year": 2012,
-      "imdbRating": 6.4,
-      "imdbVotes": 89409,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0971209",
-      "title": "A Perfect Getaway",
-      "year": 2009,
-      "imdbRating": 6.5,
-      "imdbVotes": 78772,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0838247",
-      "title": "After.Life",
-      "year": 2009,
-      "imdbRating": 5.9,
-      "imdbVotes": 41911,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1375790",
-      "title": "Stranger with My Face",
-      "year": 2009,
-      "imdbRating": 5.2,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2435970",
-      "title": "Primrose Lane",
-      "year": 2015,
-      "imdbRating": 3.1,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt1883121",
+    "tt1874707",
+    "tt1582271",
+    "tt1401236",
+    "tt3108158",
+    "tt3525764",
+    "tt3274704",
+    "tt1486192",
+    "tt0971209",
+    "tt0838247",
+    "tt1375790",
+    "tt2435970"
   ],
   "collections": [],
   "is_curated": true,

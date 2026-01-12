@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/walt-roesner-and-the-capitolians_1928",
+      "id": "walt-roesner-and-the-capitolians_1928",
       "title": "Walt Roesner and the Capitolians",
       "fileSize": 1347159036,
-      "id": "walt-roesner-and-the-capitolians_1928"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/walt-roesner-and-the-capitolians_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 446
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1706329",
-      "title": "Cut Yourself a Piece of Cake",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430019",
-      "title": "Dick Rich and His Melodious Monarchs",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192101",
-      "title": "Gus Arnheim and His Ambassadors",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1053360",
-      "title": "Gus Van and Joe Schenck",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2527618",
-      "title": "Joseph Regan: Irish American Tenor",
-      "year": 1928,
-      "imdbRating": 4.4,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706486",
-      "title": "Marion Harris: Songbird of Jazz",
-      "year": 1928,
-      "imdbRating": 5.4,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893340",
-      "title": "Song Impressions",
-      "year": 1928,
-      "imdbRating": 3.7,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177778",
-      "title": "The Five Locust Sisters",
-      "year": 1928,
-      "imdbRating": 4.6,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1876490",
-      "title": "The Ham What Am",
-      "year": 1928,
-      "imdbRating": 5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1144513",
-      "title": "When East Meets West",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0468845",
-      "title": "Rhythms",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229761",
-      "title": "Tal Henry and His North Carolinians",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1706329",
+    "tt0430019",
+    "tt0192101",
+    "tt1053360",
+    "tt2527618",
+    "tt1706486",
+    "tt1893340",
+    "tt0177778",
+    "tt1876490",
+    "tt1144513",
+    "tt0468845",
+    "tt0229761"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RoarinGuns",
+      "id": "RoarinGuns",
       "title": "Roarin' Guns",
       "description": "Evans (Karl Hackett) and Walton (Wheeler Oakman) have started a range war causing rancher Morgan (John Elliott) to send for the reputed killer Tim Corwin (Tim McCoy). Walton then frames Tim for the murder of Morgan. When Tim escapes the Sheriff (Ed Cassidy), Evans and Walton set Tim up to be murdered. But Morgan's son Buddy (Tommy Bupp) overhears their plans and rides to warn Tim.",
       "fileSize": 1385251987,
-      "id": "RoarinGuns"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RoarinGuns",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 14489
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=29YH756OYps",
+      "id": "29YH756OYps",
       "title": "Roarin' Guns (1936) TIM MCCOY",
       "description": "Stars: Tim McCoy, Rosalinda Price, Wheeler Oakman \n Director: Sam Newfield\n\n Evans and Walton have started a range war causing rancher Morgan to send for the reputed killer Tim Corwin. Walton then frames Tim for the murder of Morgan. When Tim escapes the Sheriff, Evans and Walton set Tim up to be murdered. But Morgan's son Buddy overhears their plans and rides to warn Tim.",
-      "id": "29YH756OYps",
+      "addedAt": "2025-12-26T23:51:23.367Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/29YH756OYps/maxresdefault.webp",
+      "duration": 4080,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027669",
-      "title": "Ghost Patrol",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 243,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028404",
-      "title": "The Traitor",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031164",
-      "title": "Code of the Cactus",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031769",
-      "title": "Outlaws' Paradise",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028645",
-      "title": "Boothill Brigade",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 87,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026133",
-      "title": "Branded a Coward",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028969",
-      "title": "Guns in the Dark",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029147",
-      "title": "Lightnin' Crandall",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030159",
-      "title": "Frontier Scout",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133763",
-      "title": "The Feud Maker",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030870",
-      "title": "Thunder in the Desert",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030556",
-      "title": "Paroled - To Die",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027669",
+    "tt0028404",
+    "tt0031164",
+    "tt0031769",
+    "tt0028645",
+    "tt0026133",
+    "tt0028969",
+    "tt0029147",
+    "tt0030159",
+    "tt0133763",
+    "tt0030870",
+    "tt0030556"
   ],
   "collections": [],
   "is_curated": true,

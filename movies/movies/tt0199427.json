@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cosas-de-mujer-1951",
+      "id": "cosas-de-mujer-1951",
       "title": "Cosas De Mujer (1951)",
       "description": "Cosas de mujer  es una película  argentina  del género de  comedia  filmada en blanco y negro dirigida por  Carlos Schlieper  según su propio guion escrito en colaboración con  Ariel Cortazzo  sobre la obra teatral  El abogado Balbec y su marido  de  Louis Verneuil  que se estrenó el 6 de julio de 1951 y que tuvo como protagonistas a  Nélida Romero ,  Esteban Serrador ,  Ángel Magaña  y  Zully Moreno . (Wikipedia) Sinopsis Una mujer descuida la atención de su esposo y de su hogar por su dedicación al ejercicio de su profesión de abogada. Reparto Manuel Alcón Francisco Audenino Fina Basser  ... Marga Rafael Diserio Carlos Enríquez  ... Enrique (mayordomo) Severo Fernández  ... Cliente de Cecilia Valdez Aurelia Ferrer  ...Victorina (cocinera) Pancho Flores Diana Miriam Jones Graciela Lezica Ángel Magaña  ...Edmundo Cáceres Zully Moreno  ...Dr Cecilia Valdez Héctor Méndez  ... Octavio Santiago Rebull Hilda Rey Nélida Romero  ... Estela Gómez Esteban Serrador  ...Valentín Daniel Tedeschi",
       "fileSize": 1258941040,
-      "id": "cosas-de-mujer-1951"
+      "addedAt": "2026-01-07T00:07:51.625Z",
+      "thumbnail": "https://archive.org/services/img/cosas-de-mujer-1951",
+      "language": "spa",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 45
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0199332",
-      "title": "Arroz con leche",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 38,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199500",
-      "title": "Esposa último modelo",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 76,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121927",
-      "title": "Los árboles mueren de pie",
-      "year": 1951,
-      "imdbRating": 7.7,
-      "imdbVotes": 60,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199894",
-      "title": "Los ojos llenos de amor",
-      "year": 1954,
-      "imdbRating": 6.8,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199436",
-      "title": "Cuando besa mi marido",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 40,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200006",
-      "title": "El retrato",
-      "year": 1947,
-      "imdbRating": 7.3,
-      "imdbVotes": 57,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199383",
-      "title": "Bruma en el Riachuelo",
-      "year": 1942,
-      "imdbRating": 7.7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200137",
-      "title": "El sillón y la gran duquesa",
-      "year": 1943,
-      "imdbRating": 7.9,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199395",
-      "title": "Las campanas de Teresa",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200004",
-      "title": "Requiebro",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183720",
-      "title": "Romeo y Julita",
-      "year": 1953,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185043",
-      "title": "Un ángel sin pudor",
-      "year": 1953,
-      "imdbRating": 7.3,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0199332",
+    "tt0199500",
+    "tt0121927",
+    "tt0199894",
+    "tt0199436",
+    "tt0200006",
+    "tt0199383",
+    "tt0200137",
+    "tt0199395",
+    "tt0200004",
+    "tt0183720",
+    "tt0185043"
   ],
   "collections": [],
   "is_curated": true,

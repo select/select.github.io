@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cheer-up",
+      "id": "cheer-up",
       "title": "Cheer Up!",
       "description": "A couple of out of work songwriters try to persuade a wealthy stockbroker to back them. But he turns out to be broke as they are. A series of mistaken identities, misunderstandings and general confusion as our heroes attempt to make a living as songwriters in 1930s Britain. ",
       "fileSize": 5636736631,
-      "id": "cheer-up"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/cheer-up",
+      "language": "eng",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 944
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026488",
-      "title": "Honeymoon for Three",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 53,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129887",
-      "title": "Donaumelodien",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028062",
-      "title": "One Rainy Afternoon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027629",
-      "title": "Follow Your Heart",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027519",
-      "title": "The Devil on Horseback",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027882",
-      "title": "Let's Sing Again",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027347",
-      "title": "The Beloved Vagabond",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027810",
-      "title": "It's Love Again",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 344,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0028629",
-      "title": "Big Fella",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 217,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251192",
-      "title": "Mach' mich glücklich",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028918",
-      "title": "Gangway",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026775",
-      "title": "The Night Is Young",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026488",
+    "tt0129887",
+    "tt0028062",
+    "tt0027629",
+    "tt0027519",
+    "tt0027882",
+    "tt0027347",
+    "tt0027810",
+    "tt0028629",
+    "tt0251192",
+    "tt0028918",
+    "tt0026775"
   ],
   "collections": [],
   "is_curated": true,

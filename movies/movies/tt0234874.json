@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-der-theaterbesuch-joe-stockel-karl-valentin-liesl-karlstadt",
+      "id": "1934-der-theaterbesuch-joe-stockel-karl-valentin-liesl-karlstadt",
       "title": "1934 Der Theaterbesuch ( Joe Stöckel, Karl Valentin, Liesl Karlstadt)",
       "description": "Film(Kurzfilm) aus dem deutschen dritten Reich 1934. Der Theaterbesuch.  U.a mit Karl Valentin und Liesl Karlstadt ",
       "fileSize": 261107986,
-      "id": "1934-der-theaterbesuch-joe-stockel-karl-valentin-liesl-karlstadt"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1934-der-theaterbesuch-joe-stockel-karl-valentin-liesl-karlstadt",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 121
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0233228",
-      "title": "Der Antennendraht",
-      "year": 1937,
-      "imdbRating": 7.9,
-      "imdbVotes": 35,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231591",
-      "title": "Der Firmling",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 186,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233661",
-      "title": "Es knallt",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234759",
-      "title": "So ein Theater!",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027577",
-      "title": "Die Erbschaft",
-      "year": 1936,
-      "imdbRating": 7.8,
-      "imdbVotes": 60,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234981",
-      "title": "Ein verhängnisvolles Geigensolo",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025187",
-      "title": "Going Spanish",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179963",
-      "title": "Managed Money",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174106",
-      "title": "Pardon My Pups",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 251,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025786",
-      "title": "Shrimps for a Day",
-      "year": 1934,
-      "imdbRating": 7.4,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15529086",
-      "title": "The Menace of Guatemala",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025071",
-      "title": "A Dream Walking",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 491,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0233228",
+    "tt0231591",
+    "tt0233661",
+    "tt0234759",
+    "tt0027577",
+    "tt0234981",
+    "tt0025187",
+    "tt0179963",
+    "tt0174106",
+    "tt0025786",
+    "tt15529086",
+    "tt0025071"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Mysterious_Retort",
+      "id": "The_Mysterious_Retort",
       "title": "The Mysterious Retort",
       "description": "The original French title of the colored and shortened print is Alchimiste Parafaragaramus ou la cornue infernale . IMDb Page",
       "fileSize": 49916310,
-      "id": "The_Mysterious_Retort"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Mysterious_Retort",
+      "language": "English",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 2541
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Mysterious_Retort_BW",
+      "id": "The_Mysterious_Retort_BW",
       "title": "The Mysterious Retort",
       "description": "The original French title is L'alchimiste Parafaragaramus ou la cornue infernale . IMDb Page A color fragment of this can be found here .",
       "fileSize": 80757368,
-      "id": "The_Mysterious_Retort_BW"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Mysterious_Retort_BW",
+      "language": "English",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 1677
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135122",
-      "title": "The Hilarious Posters",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 1176,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215749",
-      "title": "The Enchanted Sedan Chair",
-      "year": 1905,
-      "imdbRating": 5.4,
-      "imdbVotes": 524,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000575",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1907,
-      "imdbRating": 5.7,
-      "imdbVotes": 636,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222731",
-      "title": "The Fugitive Apparitions",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 183,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215992",
-      "title": "The Mermaid",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1349,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135631",
-      "title": "The Untamable Whiskers",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1200,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216419",
-      "title": "The Wonderful Living Fan",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 689,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228696",
-      "title": "Le papillon fantastique",
-      "year": 1909,
-      "imdbRating": 6.1,
-      "imdbVotes": 481,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223755",
-      "title": "The Monster",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 1382,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0135122",
+    "tt0215575",
+    "tt0215749",
+    "tt0000575",
+    "tt0222731",
+    "tt0215664",
+    "tt0215992",
+    "tt0135631",
+    "tt0216419",
+    "tt0228696",
+    "tt0223755",
+    "tt0223291"
   ],
   "collections": [],
   "is_curated": true,

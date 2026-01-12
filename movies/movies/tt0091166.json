@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hands-of-steel",
+      "id": "hands-of-steel",
       "title": "HANDS OF STEEL",
       "description": "A cyborg is programmed to kill a scientist who holds the fate of mankind in his hands. He fails and hides in a diner in a desert run by a woman who likes him. The people who sent him are after him and so is the local arm wrestling champ.",
       "fileSize": 997220240,
-      "id": "hands-of-steel"
+      "addedAt": "2026-01-07T00:08:39.344Z",
+      "thumbnail": "https://archive.org/services/img/hands-of-steel",
+      "collection": "feature_films",
+      "downloads": 831
     }
   ],
   "metadata": {
@@ -27,121 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0101264",
-      "title": "Abraxas, Guardian of the Universe",
-      "year": 1990,
-      "imdbRating": 2.9,
-      "imdbVotes": 2470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0089721",
-      "title": "The Detached Mission",
-      "year": 1986,
-      "imdbRating": 5.3,
-      "imdbVotes": 278,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt8948208",
-      "title": "Foxtrot Six",
-      "year": 2019,
-      "imdbRating": 5.4,
-      "imdbVotes": 1629,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0091328",
-      "title": "Karma",
-      "year": 1986,
-      "imdbRating": 7.2,
-      "imdbVotes": 2466,
-      "language": "Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0433035",
-      "title": "Real Steel",
-      "year": 2011,
-      "imdbRating": 7.1,
-      "imdbVotes": 374872,
-      "language": "English, Ukrainian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0143127",
-      "title": "Batman & Mr. Freeze: SubZero",
-      "year": 1998,
-      "imdbRating": 7.2,
-      "imdbVotes": 14445,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0016049",
-      "title": "Luch smerti",
-      "year": 1925,
-      "imdbRating": 6,
-      "imdbVotes": 128,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6724510",
-      "title": "Classic Sci-Fi TV: 150 Episodes",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1971325",
-      "title": "Automata",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 61206,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0491764",
-      "title": "Earthstorm",
-      "year": 2006,
-      "imdbRating": 3.6,
-      "imdbVotes": 2218,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3417334",
-      "title": "Airplane vs. Volcano",
-      "year": 2014,
-      "imdbRating": 2.5,
-      "imdbVotes": 1931,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10309088",
-      "title": "San Andreas Mega Quake",
-      "year": 2019,
-      "imdbRating": 2.4,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0101264",
+    "tt0089721",
+    "tt8948208",
+    "tt0091328",
+    "tt0143127",
+    "tt0016049",
+    "tt6724510",
+    "tt1971325",
+    "tt0491764",
+    "tt3417334",
+    "tt10309088",
+    "tt0958824"
   ],
   "collections": [],
   "is_curated": true,

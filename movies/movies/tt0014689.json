@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheAverageWomanForYT",
+      "id": "TheAverageWomanForYT",
       "title": "\"The Average Woman\" (1924) starring Pauline Garon, Harrison Ford",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"The Average Woman\" is a comedy-drama. This film lets us enjoy one of very few surviving performances of Pauline Garon, a French Canadian actress who made a successful career in Hollywood.   Directed by               Christy Cabanne Produced by             C.C. Burr Productions Inc. Scenario                      Raymond S. Harris from the short story “The Average Woman” by Dorothy De Jagers Starring                     Pauline Garon, David Powell, Harrison Ford, Burr McIntosh Cinematography        John W. Brown, Neil Sullivan Distributed by           Paramount Pictures Release date               March 1, 1924 Running time             48 min. Country                      United States Language                    Silent film, English intertitles   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 65085780,
-      "id": "TheAverageWomanForYT"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheAverageWomanForYT",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 2942
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-average-woman",
+      "id": "silent-the-average-woman",
       "title": "The Average Woman",
       "fileSize": 934848866,
-      "id": "silent-the-average-woman"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-average-woman",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 469
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022984",
-      "title": "Hearts of Humanity",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005246",
-      "title": "Enoch Arden",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 127,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025323",
-      "title": "Jane Eyre",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026562",
-      "title": "The Keeper of the Bees",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037893",
-      "title": "The Man Who Walked Alone",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 258,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025513",
-      "title": "Money Means Nothing",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023384",
-      "title": "Red-Haired Alibi",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024787",
-      "title": "The World Gone Mad",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 615,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022984",
+    "tt0025178",
+    "tt0005246",
+    "tt0023030",
+    "tt0025323",
+    "tt0026562",
+    "tt0037893",
+    "tt0025513",
+    "tt0015022",
+    "tt0023384",
+    "tt0005719",
+    "tt0024787"
   ],
   "collections": [],
   "is_curated": true,

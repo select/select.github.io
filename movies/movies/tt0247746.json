@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SupersonicSaucer1956",
+      "id": "SupersonicSaucer1956",
       "title": "Supersonic Saucer",
       "description": "Title: Supersonic Saucer Summary: A group of schoolchildren come upon an alien from Venus, and help him against a gang of criminals who are trying to kidnap him. Directed by: Guy Fergusson Actors: Marcia Manolescue, Gillian Harrison, Fella Edmonds Production Company: Children's Film Foundation (CFF) Release Date: March 1956 (UK) Aspect Ratio: 1.37 : 1 A group of schoolchildren come upon an alien from Venus, and help him against a gang of criminals who are trying to kidnap him.",
       "fileSize": 391182331,
-      "id": "SupersonicSaucer1956"
+      "addedAt": "2026-01-07T00:06:58.270Z",
+      "thumbnail": "https://archive.org/services/img/SupersonicSaucer1956",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 5032
     }
   ],
   "metadata": {
@@ -27,120 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046065",
-      "title": "Menace from Outer Space",
-      "year": 1956,
-      "imdbRating": 3.8,
-      "imdbVotes": 386,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0045553",
-      "title": "Beyond the Moon",
-      "year": 1954,
-      "imdbRating": 4.5,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045655",
-      "title": "Crash of Moons",
-      "year": 1954,
-      "imdbRating": 3.2,
-      "imdbVotes": 940,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047590",
-      "title": "Tobor the Great",
-      "year": 1954,
-      "imdbRating": 5.2,
-      "imdbVotes": 973,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046316",
-      "title": "Silver Needle in the Sky",
-      "year": 1954,
-      "imdbRating": 4.6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt3776510",
-      "title": "The Gypsy Moon",
-      "year": 1954,
-      "imdbRating": 4.2,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0049223",
-      "title": "Forbidden Planet",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 55938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2825854",
-      "title": "Labyrinthus",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 504,
-      "language": "Dutch",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0048960",
-      "title": "Around the World in 80 Days",
-      "year": 1956,
-      "imdbRating": 6.7,
-      "imdbVotes": 31304,
-      "language": "English, Spanish, French, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028444",
-      "title": "Undersea Kingdom",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0050084",
-      "title": "20 Million Miles to Earth",
-      "year": 1957,
-      "imdbRating": 6.3,
-      "imdbVotes": 8727,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048256",
-      "title": "King Dinosaur",
-      "year": 1955,
-      "imdbRating": 2.2,
-      "imdbVotes": 1686,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0046065",
+    "tt0045553",
+    "tt0045655",
+    "tt0047590",
+    "tt0046316",
+    "tt3776510",
+    "tt0049223",
+    "tt2825854",
+    "tt0048960",
+    "tt0028444",
+    "tt0050084",
+    "tt0048256"
   ],
   "collections": [],
   "is_curated": true,

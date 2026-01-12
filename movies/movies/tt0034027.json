@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PimpernelSmith",
+      "id": "PimpernelSmith",
       "title": "Pimpernel Smith",
       "description": "Leslie Howard again has the title role in this seriocomic world war 2 updating of the classic adventure yarn of the napoleonic wars, \"The Scarlet Pimpernel.\" Directed by Leslie Howard UK release 1941 US release 1942 a.k.a. \"The Fighting Pimpernel\" & \"Mr V\" (US) Complete print NOTE: \"The Scarlet Pimpernel\" and its direct sequel, \"Return of the Scarlet Pimpernel,\" are also available here at IA in the Feature Films Collection.",
       "fileSize": 946324314,
-      "id": "PimpernelSmith"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PimpernelSmith",
+      "collection": "feature_films",
+      "downloads": 18714
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pimpernel-smith-1941",
+      "id": "pimpernel-smith-1941",
       "title": "'Pimpernel' Smith (1941)",
       "description": "Eccentric Cambridge archaeologist Horatio Smith takes a group of British and American archaeology students to pre-war Nazi Germany to help in his excavations. His research is supported by the Nazis, since he professes to be looking for evidence of the Aryan origins of German civilisation. However, he has a secret agenda: to free inmates of the concentration camps. Watch on RetroFlix:  https://retroflix.org/pimpernel-smith-1941/",
       "fileSize": 1071303819,
-      "id": "pimpernel-smith-1941"
+      "addedAt": "2026-01-07T00:10:12.700Z",
+      "thumbnail": "https://archive.org/services/img/pimpernel-smith-1941",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 91
     }
   ],
   "metadata": {
@@ -35,117 +45,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034538",
-      "title": "Bombs Over Burma",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034857",
-      "title": "Hitler--Dead or Alive",
-      "year": 1942,
-      "imdbRating": 4.8,
-      "imdbVotes": 359,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033031",
-      "title": "The Secret Four",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 196,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034056",
-      "title": "Power Dive",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034188",
-      "title": "Sign of the Wolf",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034405",
-      "title": "A Yank in the RAF",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 1601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044827",
-      "title": "Last Train from Bombay",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033930",
-      "title": "Mutiny in the Arctic",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2232578",
-      "title": "Canopy",
-      "year": 2013,
-      "imdbRating": 4.9,
-      "imdbVotes": 1169,
-      "language": "English, Japanese, Hokkien, Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0164085",
-      "title": "Limbo",
-      "year": 1999,
-      "imdbRating": 7,
-      "imdbVotes": 6522,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0057115",
-      "title": "The Great Escape",
-      "year": 1963,
-      "imdbRating": 8.2,
-      "imdbVotes": 271596,
-      "language": "English, German, French, Russian, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034337",
-      "title": "Underground",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 598,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0034538",
+    "tt0034857",
+    "tt0033031",
+    "tt0034056",
+    "tt0034188",
+    "tt0034405",
+    "tt0044827",
+    "tt0033930",
+    "tt2232578",
+    "tt0164085",
+    "tt0057115",
+    "tt0034337"
   ],
   "collections": [],
   "is_curated": true,

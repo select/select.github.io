@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SeaPowerinthtePacific",
+      "id": "SeaPowerinthtePacific",
       "title": "Sea Power in the Pacific",
       "description": "Traced in this documentary are the history and role of American sea power in the Pacific during World War II",
       "fileSize": 624925140,
-      "id": "SeaPowerinthtePacific"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/SeaPowerinthtePacific",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 7477
     }
   ],
   "metadata": {
@@ -26,98 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0276867",
-      "title": "Health for the Americas: Cleanliness Brings Health",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6045006",
-      "title": "Just Imagine!",
-      "year": 1947,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2152805",
-      "title": "Panzer im Angriff",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1966357",
-      "title": "Basic Typing, Part I: Methods",
-      "year": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6056976",
-      "title": "Camouflage",
-      "year": 1944,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0190806",
-      "title": "The Story of Menstruation",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 548,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812201",
-      "title": "Asse zur See",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183205",
-      "title": "How to Fly the P-47: Ground Handling, Take Off, Normal Flight",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0276867",
+    "tt6045006",
+    "tt2152805",
+    "tt1966357",
+    "tt6056976",
+    "tt0190806",
+    "tt0812201",
+    "tt13364232",
+    "tt0896825",
+    "tt12816892",
+    "tt0183205",
+    "tt12606824"
   ],
   "collections": [],
   "is_curated": true,

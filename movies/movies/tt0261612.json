@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cikni",
+      "id": "silent-cikni",
       "title": "Cikáni",
       "fileSize": 1688757470,
-      "id": "silent-cikni"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cikni",
+      "language": "Czech",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 389
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034816",
-      "title": "Die große Nummer",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013134",
-      "title": "Flesh and Blood",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013253",
-      "title": "Human Hearts",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013372",
-      "title": "Manslaughter",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 496,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013402",
-      "title": "Monte Cristo",
-      "year": 1922,
-      "imdbRating": 6.8,
-      "imdbVotes": 434,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0289127",
-      "title": "Cocaine",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 35,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013607",
-      "title": "Sky High",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013662",
-      "title": "Tess of the Storm Country",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 517,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013688",
-      "title": "The Toll of the Sea",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 913,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013704",
-      "title": "The Trap",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013719",
-      "title": "Under Two Flags",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0034816",
+    "tt0013134",
+    "tt0013253",
+    "tt0013372",
+    "tt0012928",
+    "tt0013402",
+    "tt0289127",
+    "tt0013607",
+    "tt0013662",
+    "tt0013688",
+    "tt0013704",
+    "tt0013719"
   ],
   "collections": [],
   "is_curated": true,

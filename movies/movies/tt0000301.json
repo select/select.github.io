@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FaustAndMarguerite",
+      "id": "FaustAndMarguerite",
       "title": "Faust and Marguerite",
       "description": "From Edison films catalog: Marguerite is seated before the fireplace, Faust standing by her side. Mephistopheles enters and offers his sword to Faust, commanding him to behead the fair Marguerite. Faust refuses, whereupon Mephistopheles draws the sword across the throat of the lady and she suddenly disappears and Faust is seated in her place.",
       "fileSize": 18192335,
-      "id": "FaustAndMarguerite"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/FaustAndMarguerite",
+      "collection": "feature_films",
+      "downloads": 3150
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000321",
-      "title": "The Mystic Swing",
-      "year": 1900,
-      "imdbRating": 4.9,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000340",
-      "title": "Uncle Josh in a Spooky Hotel",
-      "year": 1900,
-      "imdbRating": 4.9,
-      "imdbVotes": 326,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000341",
-      "title": "Uncle Josh's Nightmare",
-      "year": 1900,
-      "imdbRating": 4.9,
-      "imdbVotes": 405,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231523",
-      "title": "Electrocuting an Elephant",
-      "year": 1903,
-      "imdbRating": 2.7,
-      "imdbVotes": 1999,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0316226",
-      "title": "The Martyred Presidents",
-      "year": 1901,
-      "imdbRating": 3.8,
-      "imdbVotes": 202,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000346",
-      "title": "Another Job for the Undertaker",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 250,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232263",
-      "title": "Pan-American Exposition by Night",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 570,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0348794",
-      "title": "Why Mr. Nation Wants a Divorce",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 115,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366268",
-      "title": "Burning of Durland's Riding Academy",
-      "year": 1902,
-      "imdbRating": 5.1,
-      "imdbVotes": 181,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245125",
-      "title": "Fun in a Bakery Shop",
-      "year": 1902,
-      "imdbRating": 5.9,
-      "imdbVotes": 430,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0218458",
-      "title": "Neptune's Daughters",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0285265",
-      "title": "The Kiss",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 477,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000321",
+    "tt0000340",
+    "tt0000341",
+    "tt0231523",
+    "tt0316226",
+    "tt0000346",
+    "tt0232263",
+    "tt0348794",
+    "tt0366268",
+    "tt0245125",
+    "tt0218458",
+    "tt0285265"
   ],
   "collections": [],
   "is_curated": true,

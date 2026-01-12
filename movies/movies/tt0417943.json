@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/manticore-dvdrip",
+      "id": "manticore-dvdrip",
       "title": "Manticore (2005)",
       "description": "In war-torn Iraq, rugged Army soldiers learn that the battles they face every day have only been a warm-up to the unspeakable terror awaiting them.",
       "fileSize": 1213255402,
-      "id": "manticore-dvdrip"
+      "addedAt": "2026-01-07T00:09:46.427Z",
+      "thumbnail": "https://archive.org/services/img/manticore-dvdrip",
+      "language": "eng",
+      "year": 2005,
+      "collection": "feature_films",
+      "downloads": 200
     }
   ],
   "metadata": {
@@ -27,121 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0383574",
-      "title": "Pirates of the Caribbean: Dead Man's Chest",
-      "year": 2006,
-      "imdbRating": 7.4,
-      "imdbVotes": 812753,
-      "language": "English, Turkish, Greek, Mandarin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0494206",
-      "title": "Attack of the Gryphon",
-      "year": 2007,
-      "imdbRating": 3.3,
-      "imdbVotes": 1246,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1104123",
-      "title": "The Scorpion King 2: Rise of a Warrior",
-      "year": 2008,
-      "imdbRating": 3.8,
-      "imdbVotes": 13125,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1294699",
-      "title": "Merlin and the War of the Dragons",
-      "year": 2008,
-      "imdbRating": 3.6,
-      "imdbVotes": 1263,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1079372",
-      "title": "Midnight Chronicles",
-      "year": 2009,
-      "imdbRating": 3.6,
-      "imdbVotes": 1076,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1353997",
-      "title": "Dragonquest",
-      "year": 2009,
-      "imdbRating": 3,
-      "imdbVotes": 1118,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0057547",
-      "title": "Sword of Lancelot",
-      "year": 1963,
-      "imdbRating": 5.7,
-      "imdbVotes": 605,
-      "language": "Latin, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039198",
-      "title": "Blonde Savage",
-      "year": 1947,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1386697",
-      "title": "Suicide Squad",
-      "year": 2016,
-      "imdbRating": 5.9,
-      "imdbVotes": 749653,
-      "language": "English, Japanese, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1594917",
-      "title": "Age of the Dragons",
-      "year": 2011,
-      "imdbRating": 3.4,
-      "imdbVotes": 4567,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0843873",
+    "tt0494206",
+    "tt1104123",
+    "tt1132130",
+    "tt1294699",
+    "tt1079372",
+    "tt1353997",
+    "tt0057547",
+    "tt0039198",
+    "tt1594917",
+    "tt2784134",
+    "tt1636629"
   ],
   "collections": [],
   "is_curated": true,

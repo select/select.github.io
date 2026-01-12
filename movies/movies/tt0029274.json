@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/murder-in-greenwich-village-1937",
+      "id": "murder-in-greenwich-village-1937",
       "title": "Murder In Greenwich Village (1937) ,",
       "description": "Richard Arlen, Fay Wray",
       "fileSize": 1073432395,
-      "id": "murder-in-greenwich-village-1937"
+      "addedAt": "2026-01-07T00:09:54.332Z",
+      "thumbnail": "https://archive.org/services/img/murder-in-greenwich-village-1937",
+      "collection": "feature_films",
+      "downloads": 1030
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033397",
-      "title": "The Black Cat",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 2374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026047",
-      "title": "Air Hawks",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029488",
-      "title": "Riding on Air",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028785",
-      "title": "Dick Tracy",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 662,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029373",
-      "title": "Paradise Express",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029757",
-      "title": "The Westland Case",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0029806",
-      "title": "You Can't Have Everything",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 279,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029622",
-      "title": "Super-Sleuth",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 387,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    }
+    "tt0026085",
+    "tt0033397",
+    "tt0028525",
+    "tt0026047",
+    "tt0028574",
+    "tt0029488",
+    "tt0028785",
+    "tt0029373",
+    "tt0029757",
+    "tt2130142",
+    "tt0029806",
+    "tt0029622"
   ],
   "collections": [],
   "is_curated": true,

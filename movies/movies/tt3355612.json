@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/caveof-1",
+      "id": "caveof-1",
       "title": "Cave of the Silken Web (1927)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. This partially lost picture is based on a segment of Journey to the West.  It follows a monk who is lured by spider women in an attempt to tempt him into marrying one of them. The entirety of the film was thought lost until 2011 when a majority of it was found in a Norwegian archive. This version has both the original Chinese, the Norwegian translation, and English translations of both. Sourced from \"Modern Chinese Cultural Studies\": https://www.youtube.com/watch?v=9IyxoaYyEc0  ",
       "fileSize": 1892159945,
-      "id": "caveof-1"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/caveof-1",
+      "language": "eng",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 105
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3498036",
-      "title": "Xu Pan Si Dong",
-      "year": 1930,
-      "language": "None, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018770",
-      "title": "The Fall of the House of Usher",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 4830,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132076",
-      "title": "Danses espagnoles",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016847",
-      "title": "Faust",
-      "year": 1926,
-      "imdbRating": 8.1,
-      "imdbVotes": 17097,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230324",
-      "title": "Impatience",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019267",
-      "title": "The Little Match Girl",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 1600,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017103",
-      "title": "The Magician",
-      "year": 1926,
-      "imdbRating": 6.7,
-      "imdbVotes": 797,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019611",
-      "title": "Zvenigora",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 1138,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016039",
-      "title": "The Lost World",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 6175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017033",
-      "title": "A Kiss for Cinderella",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt3498036",
+    "tt0018770",
+    "tt0132076",
+    "tt0016847",
+    "tt4135826",
+    "tt0230324",
+    "tt0017775",
+    "tt0019267",
+    "tt0017103",
+    "tt0019611",
+    "tt0016039",
+    "tt0017033"
   ],
   "collections": [],
   "is_curated": true,

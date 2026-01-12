@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-musicale-melange_1929",
+      "id": "a-musicale-melange_1929",
       "title": "A Musicale Melange",
       "fileSize": 670887427,
-      "id": "a-musicale-melange_1929"
+      "addedAt": "2026-01-07T00:07:18.438Z",
+      "thumbnail": "https://archive.org/services/img/a-musicale-melange_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 117
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698489",
-      "title": "Carlena Diamond: Harpist Supreme",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698547",
-      "title": "Oklahoma Bob Albright and His Rodeo Do Flappers",
-      "year": 1929,
-      "imdbRating": 4.7,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894519",
-      "title": "Pack Up Your Troubles",
-      "year": 1929,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1245760",
-      "title": "Red Nichols and His Five Pennies",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894540",
-      "title": "Satires",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894427",
-      "title": "Charles C. Peterson: Billiard Champion of Fancy Shots",
-      "year": 1929,
-      "imdbRating": 3.6,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225681",
-      "title": "Faint Heart",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122580",
-      "title": "Lambchops",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 533,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3706434",
-      "title": "Molly Picon",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1876519",
-      "title": "Two Good Boys Gone Wrong",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017896",
-      "title": "A Ziegfeld Midnight Frolic",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1698474",
+    "tt1698489",
+    "tt1698547",
+    "tt1894519",
+    "tt1245760",
+    "tt1894540",
+    "tt1894427",
+    "tt0225681",
+    "tt0122580",
+    "tt3706434",
+    "tt1876519",
+    "tt0017896"
   ],
   "collections": [],
   "is_curated": true,

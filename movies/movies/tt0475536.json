@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1353462844158",
+      "id": "1353462844158",
       "title": "La cicatriz",
       "description": "Cine Negro clásico ",
       "fileSize": 1243080067,
-      "id": "1353462844158"
+      "addedAt": "2026-01-07T00:06:00.051Z",
+      "thumbnail": "https://archive.org/services/img/1353462844158",
+      "collection": "feature_films",
+      "downloads": 13
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0436091",
-      "title": "Backstage",
-      "year": 2005,
-      "imdbRating": 5.9,
-      "imdbVotes": 682,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0856775",
-      "title": "Cafuné",
-      "year": 2005,
-      "imdbRating": 6.2,
-      "imdbVotes": 60,
-      "language": "Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449061",
-      "title": "London",
-      "year": 2005,
-      "imdbRating": 6.3,
-      "imdbVotes": 25119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5506590",
-      "title": "202",
-      "year": 2005,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0492868",
-      "title": "208",
-      "year": 2005,
-      "imdbRating": 8,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0436012",
-      "title": "212",
-      "year": 2005,
-      "imdbRating": 7.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0451094",
-      "title": "Lady Vengeance",
-      "year": 2005,
-      "imdbRating": 7.5,
-      "imdbVotes": 90136,
-      "language": "Korean, English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463029",
-      "title": "Haunting Sarah",
-      "year": 2005,
-      "imdbRating": 5.5,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0457477",
-      "title": "Silver Bells",
-      "year": 2005,
-      "imdbRating": 6.4,
-      "imdbVotes": 1380,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0416471",
-      "title": "American Gun",
-      "year": 2005,
-      "imdbRating": 6.1,
-      "imdbVotes": 3219,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0371257",
-      "title": "Stay",
-      "year": 2005,
-      "imdbRating": 6.7,
-      "imdbVotes": 88738,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0411270",
-      "title": "The Beat That My Heart Skipped",
-      "year": 2005,
-      "imdbRating": 7.2,
-      "imdbVotes": 20729,
-      "language": "French, English, Russian, Vietnamese, Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0436091",
+    "tt0856775",
+    "tt0449061",
+    "tt5506590",
+    "tt0492868",
+    "tt0436012",
+    "tt0451094",
+    "tt0463029",
+    "tt0457477",
+    "tt0416471",
+    "tt0371257",
+    "tt0411270"
   ],
   "collections": [],
   "is_curated": true,

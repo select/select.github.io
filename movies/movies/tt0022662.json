@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Behind_Stone_Walls_1932",
+      "id": "Behind_Stone_Walls_1932",
       "title": "Behind Stone Walls",
       "description": "For some reason, I found this early talkie interesting despite the stilted dialog, poor acting, and lack of retakes.",
       "fileSize": 1094495758,
-      "id": "Behind_Stone_Walls_1932"
+      "addedAt": "2026-01-07T00:06:14.038Z",
+      "thumbnail": "https://archive.org/services/img/Behind_Stone_Walls_1932",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 9880
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=my8sYi00Ung",
+      "id": "my8sYi00Ung",
       "title": "Behind Stone Walls (1932) PRE-CODE HOLLYWOOD",
       "description": "Stars: Edward J. Nugent, Priscilla Dean, Ann Christy\nDirector: Frank R. Strayer\n\nAn adulterous wife kills her lover. Her loyal stepson, confesses to the crime and is carted off to prison, but eventually the real murderer's conscious gets the better of her.",
-      "id": "my8sYi00Ung",
+      "addedAt": "2025-12-26T23:48:53.851Z",
+      "thumbnail": "https://i.ytimg.com/vi/my8sYi00Ung/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBUOdloWkqsDlHDIT7ABRqh54xyTQ",
+      "duration": 3459,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026882",
-      "title": "Port of Lost Dreams",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023187",
-      "title": "Manhattan Tower",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022836",
-      "title": "Dragnet Patrol",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025921",
-      "title": "Twin Husbands",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025306",
-      "title": "In the Money",
-      "year": 1933,
-      "imdbRating": 4.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0025016",
-      "title": "Cross Streets",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025302",
-      "title": "In Love with Life",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024628",
-      "title": "Sucker Money",
-      "year": 1933,
-      "imdbRating": 4.7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026882",
+    "tt0023025",
+    "tt0023187",
+    "tt0022836",
+    "tt0025921",
+    "tt0025306",
+    "tt0025016",
+    "tt0025302",
+    "tt0023030",
+    "tt0021770",
+    "tt0024151",
+    "tt0024628"
   ],
   "collections": [],
   "is_curated": true,

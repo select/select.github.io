@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SpecialAgent",
+      "id": "SpecialAgent",
       "title": "Special Agent",
       "description": "Johnny Douglas (William Eythe) investigates a train robbery, committed by brothers Paul (George Reeves) and Edmond Devereaux (Paul Valentine), in which Lucille Peters (Kasey Rogers) father (Walter Baldwin) was killed.",
       "fileSize": 1760594607,
-      "id": "SpecialAgent"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/SpecialAgent",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 76291
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=JQQRoE7Cujk",
+      "id": "JQQRoE7Cujk",
       "title": "Special Agent (1949) CRIME THRILLER",
       "description": "Stars: William Eythe, Kasey Rogers, Paul Valentine\n Director: William C. Thomas\n\n Johnny Douglas investigates a train robbery, committed by brothers Paul and Edmond Devereaux, in which Lucille Peters' father was killed.",
-      "id": "JQQRoE7Cujk",
+      "addedAt": "2025-12-26T23:53:15.626Z",
+      "thumbnail": "https://i.ytimg.com/vi/JQQRoE7Cujk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA7xaL4YTIs4K6ikW3Ru7NYQdQB5g",
+      "duration": 4113,
+      "language": "en",
+      "year": 1949,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039187",
-      "title": "Big Town After Dark",
-      "year": 1947,
-      "imdbRating": 5.5,
-      "imdbVotes": 299,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039023",
-      "title": "They Made Me a Killer",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 367,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039186",
-      "title": "Big Town",
-      "year": 1946,
-      "imdbRating": 5.1,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044418",
-      "title": "Big Jim McLain",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 2405,
-      "language": "English, Japanese, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042366",
-      "title": "Customs Agent",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 50,
-      "language": "Chinese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041503",
-      "title": "Impact",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 5035,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0094683",
-      "title": "Assa",
-      "year": 1987,
-      "imdbRating": 7.6,
-      "imdbVotes": 3287,
-      "language": "Russian, French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0041109",
-      "title": "Alimony",
-      "year": 1949,
-      "imdbRating": 5.3,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051492",
-      "title": "Count Five and Die",
-      "year": 1957,
-      "imdbRating": 6.5,
-      "imdbVotes": 232,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041268",
-      "title": "Criss Cross",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 10070,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041555",
-      "title": "Knock on Any Door",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 4414,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041761",
-      "title": "Port of New York",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039187",
+    "tt0039023",
+    "tt0039186",
+    "tt0044418",
+    "tt0042366",
+    "tt0041503",
+    "tt0094683",
+    "tt0041109",
+    "tt0051492",
+    "tt0041268",
+    "tt0041555",
+    "tt0041761"
   ],
   "collections": [],
   "is_curated": true,

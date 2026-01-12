@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-leech-woman",
+      "id": "the-leech-woman",
       "title": "The Leech Woman",
       "description": "An endocrinologist in a dysfunctional marriage with an aging, alcoholic wife journeys to Africa seeking a drug that will restore youth.",
       "fileSize": 6324098363,
-      "id": "the-leech-woman"
+      "addedAt": "2026-01-07T00:12:10.591Z",
+      "thumbnail": "https://archive.org/services/img/the-leech-woman",
+      "language": "eng",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 3555
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051631",
-      "title": "Frankenstein's Daughter",
-      "year": 1958,
-      "imdbRating": 4.3,
-      "imdbVotes": 1303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054285",
-      "title": "Atom Age Vampire",
-      "year": 1960,
-      "imdbRating": 3.9,
-      "imdbVotes": 1759,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053593",
-      "title": "The Amazing Transparent Man",
-      "year": 1960,
-      "imdbRating": 4.1,
-      "imdbVotes": 2798,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026663",
-      "title": "Mad Love",
-      "year": 1935,
-      "imdbRating": 7.2,
-      "imdbVotes": 6040,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054099",
-      "title": "Mill of the Stone Women",
-      "year": 1960,
-      "imdbRating": 6.5,
-      "imdbVotes": 2187,
-      "language": "Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053651",
-      "title": "Beyond the Time Barrier",
-      "year": 1960,
-      "imdbRating": 5.3,
-      "imdbVotes": 2086,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054387",
-      "title": "The Time Machine",
-      "year": 1960,
-      "imdbRating": 7.5,
-      "imdbVotes": 47044,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050720",
-      "title": "The Monolith Monsters",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 4168,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050539",
-      "title": "The Incredible Shrinking Man",
-      "year": 1957,
-      "imdbRating": 7.6,
-      "imdbVotes": 20967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053611",
-      "title": "Attack of the Giant Leeches",
-      "year": 1959,
-      "imdbRating": 3.7,
-      "imdbVotes": 5018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054950",
-      "title": "Battle of the Worlds",
-      "year": 1961,
-      "imdbRating": 4.3,
-      "imdbVotes": 1020,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0051631",
+    "tt0054285",
+    "tt0053593",
+    "tt0026663",
+    "tt0054099",
+    "tt0053651",
+    "tt0054387",
+    "tt0050720",
+    "tt0053337",
+    "tt0054950",
+    "tt0054673",
+    "tt0052667"
   ],
   "collections": [],
   "is_curated": true,

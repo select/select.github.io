@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ghost-diver",
+      "id": "ghost-diver",
       "title": "Ghost Diver",
       "description": "Ghost Diver James Craig, Audrey Totter 1957",
       "fileSize": 971837626,
-      "id": "ghost-diver"
+      "addedAt": "2026-01-07T00:08:32.017Z",
+      "thumbnail": "https://archive.org/services/img/ghost-diver",
+      "collection": "feature_films",
+      "downloads": 675
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ghost-diver-1957",
+      "id": "ghost-diver-1957",
       "title": "Ghost Diver (1957)",
       "description": "James Craig, Audrey Totter",
       "fileSize": 1342267941,
-      "id": "ghost-diver-1957"
+      "addedAt": "2026-01-07T00:08:32.018Z",
+      "thumbnail": "https://archive.org/services/img/ghost-diver-1957",
+      "collection": "feature_films",
+      "downloads": 1086
     }
   ],
   "metadata": {
@@ -35,115 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050903",
-      "title": "The River's Edge",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 1402,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048682",
-      "title": "Swamp Women",
-      "year": 1956,
-      "imdbRating": 3.4,
-      "imdbVotes": 2106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049446",
-      "title": "Lisbon",
-      "year": 1956,
-      "imdbRating": 5.9,
-      "imdbVotes": 737,
-      "language": "English, Portuguese, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047872",
-      "title": "Bengazi",
-      "year": 1955,
-      "imdbRating": 5,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047917",
-      "title": "Canyon Crossroads",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048640",
-      "title": "Soldier of Fortune",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 1777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046692",
-      "title": "Alaska Seas",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047213",
-      "title": "They Were So Young",
-      "year": 1954,
-      "imdbRating": 5.5,
-      "imdbVotes": 220,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0047904",
-      "title": "A Bullet for Joey",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 1322,
-      "language": "English, Spanish, Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040797",
-      "title": "16 Fathoms Deep",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050903",
+    "tt0048682",
+    "tt0049446",
+    "tt0047872",
+    "tt0047917",
+    "tt0048640",
+    "tt0046692",
+    "tt0047213",
+    "tt0047904",
+    "tt0035317",
+    "tt0040797",
+    "tt0030037"
   ],
   "collections": [],
   "is_curated": true,

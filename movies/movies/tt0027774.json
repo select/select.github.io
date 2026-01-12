@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/IConquerTheSea",
+      "id": "IConquerTheSea",
       "title": "I Conquer the Sea",
       "description": "1936 was a different world in Newfoundland - the bigotry and the unexpected ending will give you plenty to talk about and think about in this forgotten masterpiece of human drama.",
       "fileSize": 1172475910,
-      "id": "IConquerTheSea"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/IConquerTheSea",
+      "collection": "feature_films",
+      "downloads": 13497
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=lgvJtB_fBSQ",
+      "id": "lgvJtB_fBSQ",
       "title": "I Conquer the Sea! (1936) ADVENTURE",
       "description": "Stars: Steffi Duna, Dennis Morgan, Douglas Walton\n Director: Victor Halperin\n\n In a Newfoundland whaling village, a love triangle develops among two brothers and a woman.",
-      "id": "lgvJtB_fBSQ",
+      "addedAt": "2025-12-26T23:52:08.920Z",
+      "thumbnail": "https://i.ytimg.com/vi/lgvJtB_fBSQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhmIGYoZjAP&rs=AOn4CLBSKLqUKDLYVPRkTFti8AYyBvZvyw",
+      "duration": 4017,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030648",
-      "title": "Racing Blood",
-      "year": 1936,
-      "imdbRating": 4.7,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031126",
-      "title": "Buried Alive",
-      "year": 1939,
-      "imdbRating": 4.6,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028174",
-      "title": "Revolt of the Zombies",
-      "year": 1936,
-      "imdbRating": 3.4,
-      "imdbVotes": 1925,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029745",
-      "title": "Wallaby Jim of the Islands",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028754",
-      "title": "Damaged Goods",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027697",
-      "title": "Great Guy",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027361",
-      "title": "The Big Show",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027893",
-      "title": "Little Lord Fauntleroy",
-      "year": 1936,
-      "imdbRating": 7.3,
-      "imdbVotes": 2696,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0030648",
+    "tt0031126",
+    "tt0021239",
+    "tt0028174",
+    "tt0029745",
+    "tt0028754",
+    "tt0027311",
+    "tt0027286",
+    "tt0028231",
+    "tt0027697",
+    "tt0027361",
+    "tt0027893"
   ],
   "collections": [],
   "is_curated": true,

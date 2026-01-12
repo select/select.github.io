@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-dir-zuliebe-hans-holt-paul-kemp-richard-haussler-erika-von-thellmann",
+      "id": "1944-dir-zuliebe-hans-holt-paul-kemp-richard-haussler-erika-von-thellmann",
       "title": "1944 Dir Zuliebe ( Hans Holt, Paul Kemp, Richard Häussler, Erika Von Thellmann)",
       "description": "Film aus dem deutschen dritten Reich von 1944. Dir zuliebe.  U.a mit Paul Kemp und Erika von Thellmann ",
       "fileSize": 2711081840,
-      "id": "1944-dir-zuliebe-hans-holt-paul-kemp-richard-haussler-erika-von-thellmann"
+      "addedAt": "2026-01-07T00:06:03.997Z",
+      "thumbnail": "https://archive.org/services/img/1944-dir-zuliebe-hans-holt-paul-kemp-richard-haussler-erika-von-thellmann",
+      "language": "ger",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 110
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0169409",
-      "title": "Der zweite Schuß",
-      "year": 1943,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240712",
-      "title": "Ein Mann für meine Frau",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036072",
-      "title": "Die keusche Sünderin",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240883",
-      "title": "Ein schöner Tag",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036620",
-      "title": "Aufruhr der Herzen",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036885",
-      "title": "Der grüne Salon",
-      "year": 1944,
-      "imdbRating": 8,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036843",
-      "title": "Ein fröhliches Haus",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037063",
-      "title": "Meine vier Jungens",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122730",
-      "title": "Spiel mit der Liebe",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188556",
-      "title": "Delirio",
-      "year": 1944,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199455",
-      "title": "El deseo",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 26,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0169409",
+    "tt0240712",
+    "tt0036072",
+    "tt0240883",
+    "tt0036620",
+    "tt0136247",
+    "tt0036885",
+    "tt0036843",
+    "tt0037063",
+    "tt0122730",
+    "tt0188556",
+    "tt0199455"
   ],
   "collections": [],
   "is_curated": true,

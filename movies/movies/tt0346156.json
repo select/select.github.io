@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tomorrowtheworld",
+      "id": "tomorrowtheworld",
       "title": "Tomorrow, the World!",
       "description": "“Thoughtful film with strong performances” “’The Bad Seed’ Nazi style” “Fredrick March provides the heart” (IMDB reviews quotes). A WW2 home front drama in which an American family takes in a young German refugee, not knowing he’s a brainwashed member of the Hitler Youth. Fredrick March and Betty Field costar at the head of a compact cast of credited actors. Adequate production values. IMDB rating 6.6. Directed by Leslie Fenton. Released in 1944 Complete print (UK edition). CAST NOTE: Skip Homeier’s feature film debut.",
       "fileSize": 1039461112,
-      "id": "tomorrowtheworld"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tomorrowtheworld",
+      "collection": "feature_films",
+      "downloads": 4842
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "8 wins & 19 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0398913",
-      "title": "DOA: Dead or Alive",
-      "year": 2006,
-      "imdbRating": 4.8,
-      "imdbVotes": 46758,
-      "language": "English, German, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0810817",
-      "title": "The Da Vinci Treasure",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 1075,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0377062",
-      "title": "Flight of the Phoenix",
-      "year": 2004,
-      "imdbRating": 6.1,
-      "imdbVotes": 58208,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0988045",
-      "title": "Sherlock Holmes",
-      "year": 2009,
-      "imdbRating": 7.5,
-      "imdbVotes": 700190,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0112715",
-      "title": "Congo",
-      "year": 1995,
-      "imdbRating": 5.3,
-      "imdbVotes": 51470,
-      "language": "English, American Sign ",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0028776",
-      "title": "Pilot X",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011753",
-      "title": "Terror Island",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036439",
-      "title": "Tiger Fangs",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0441263",
-      "title": "The White Dragon",
-      "year": 2004,
-      "imdbRating": 5.5,
-      "imdbVotes": 1168,
-      "language": "Cantonese, Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5361488",
-      "title": "Magellan",
-      "year": 2017,
-      "imdbRating": 5.2,
-      "imdbVotes": 1939,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0098179",
-      "title": "Huo feng huang",
-      "year": 1978,
-      "imdbRating": 6.4,
-      "imdbVotes": 54,
-      "language": "Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0398913",
+    "tt0810817",
+    "tt0377062",
+    "tt0988045",
+    "tt1132130",
+    "tt0112715",
+    "tt0028776",
+    "tt0011753",
+    "tt0036439",
+    "tt0441263",
+    "tt5361488",
+    "tt0098179"
   ],
   "collections": [],
   "is_curated": true,

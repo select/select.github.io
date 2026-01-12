@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FarFrontier",
+      "id": "FarFrontier",
       "title": "The Far Frontier",
       "description": "Title: The Far Frontier Summary: Willis Newcomb and Bart Carroll head a gang engaged in smuggling wanted-American criminals back into the United States from Mexico. Operating from Sharperville, an oil town on the American ... Directed by: William Witney Actors: Roy Rogers, Trigger, Gail Davis Production Company: Republic Pictures (I) Release Date: 29 December 1948 (USA) Aspect Ratio: 1.37 : 1 Willis Newcomb and Bart Carroll head a gang engaged in smuggling wanted-American criminals back into the United States from Mexico. Operating from Sharperville, an oil town on the American side of the border, they transport their human cargo in oil drums loaded on trucks. Border Patrolman Tom Sharper intercepts one of the trucks but is overpowered and left for dead. Carroll, having already been paid for the job and not wanting any evidence to walk around, get caught and lead back to him, backs the human-cargo trucks to the edge of a cliff and sends the drums crashing to the boulder far below. Judge Cookie Bullfincher and Border Patrolman Roy Rogers conduct a search for the missing Tom, but the crooks have gone back for him and find him in a state of amnesia. They rob the bank and pin it on Tom. It is now up to Roy to clear his friend and also put an end to Carroll's human-smuggling racket.",
       "fileSize": 612324036,
-      "id": "FarFrontier"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/FarFrontier",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 1460
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=89-KvC7iJBc",
+      "id": "89-KvC7iJBc",
       "title": "The Far Frontier (1948) ROY ROGERS",
       "description": "Stars: Roy Rogers, Trigger, Gail Davis\nDirector: William Witney\n\nCriminals are being smuggled back into the United States hidden in what appear to be oil barrels. After taking their money, the criminals' barrels are tossed down a hill into the water behind a dam. Roy discovers the operation and brings the bad guys to justice.",
-      "id": "89-KvC7iJBc",
+      "addedAt": "2025-12-26T23:50:56.927Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/89-KvC7iJBc/maxresdefault.webp",
+      "duration": 4003,
+      "language": "en",
+      "year": 1948,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040333",
-      "title": "Eyes of Texas",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040644",
-      "title": "Nighttime in Nevada",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040399",
-      "title": "Grand Canyon Trail",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0040385",
-      "title": "The Gay Ranchero",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0039157",
-      "title": "Apache Rose",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039861",
-      "title": "Springtime in the Sierras",
-      "year": 1947,
-      "imdbRating": 6,
-      "imdbVotes": 238,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039180",
-      "title": "Bells of San Angelo",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 415,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038593",
-      "title": "Heldorado",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 187,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038611",
-      "title": "Home in Oklahoma",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043626",
-      "title": "Heart of the Rockies",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0044506",
-      "title": "Colorado Sundown",
-      "year": 1952,
-      "imdbRating": 6.2,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038968",
-      "title": "Song of Arizona",
-      "year": 1946,
-      "imdbRating": 5.5,
-      "imdbVotes": 185,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0040333",
+    "tt0040644",
+    "tt0040399",
+    "tt0040385",
+    "tt0039157",
+    "tt0039861",
+    "tt0039180",
+    "tt0038593",
+    "tt0038611",
+    "tt0043626",
+    "tt0044506",
+    "tt0038968"
   ],
   "collections": [],
   "is_curated": true,

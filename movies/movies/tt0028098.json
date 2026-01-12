@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/phantom-patrol",
+      "id": "phantom-patrol",
       "title": "Phantom Patrol",
       "description": "A deranged killer escapes into the Canadian woods. He tries to fool the locals by pretending he is a well known mystery writer, but the local Mountie starts to get suspicious.",
       "fileSize": 868854857,
-      "id": "phantom-patrol"
+      "addedAt": "2026-01-07T00:10:12.699Z",
+      "thumbnail": "https://archive.org/services/img/phantom-patrol",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 2526
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/phantom_patrol",
+      "id": "phantom_patrol",
       "title": "Phantom Patrol",
       "description": "Kermit Maynard, Joan Barclay You can find more information regarding this film on its IMDb page .",
       "fileSize": 4147925290,
-      "id": "phantom_patrol"
+      "addedAt": "2026-01-07T00:10:12.699Z",
+      "thumbnail": "https://archive.org/services/img/phantom_patrol",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 109212
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=0sLwT1ndaTo",
+      "id": "0sLwT1ndaTo",
       "title": "Phantom Patrol (1936) KERMIT MAYNARD",
       "description": "Stars: Kermit Maynard, Joan Barclay, Harry Worth\nDirector: Charles Hutchison\n\nA deranged killer escapes into the Canadian woods. He tries to fool the locals by pretending he is a well known mystery writer, but the local Mountie starts to get suspicious.",
-      "id": "0sLwT1ndaTo",
+      "addedAt": "2025-12-26T23:50:11.424Z",
+      "thumbnail": "https://i.ytimg.com/vi/0sLwT1ndaTo/maxresdefault.jpg",
+      "duration": 3239,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0165402",
-      "title": "Night Cargo",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026916",
-      "title": "The Red Blood of Courage",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029696",
-      "title": "The Trusted Outlaw",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0137193",
-      "title": "Riddle Ranch",
-      "year": 1935,
-      "imdbRating": 4.4,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025114",
-      "title": "The Fighting Trooper",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027361",
-      "title": "The Big Show",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028163",
-      "title": "Red River Valley",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028195",
-      "title": "Roarin' Guns",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028194",
-      "title": "Roarin' Lead",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 98,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028306",
-      "title": "Stampede",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028968",
-      "title": "The Gun Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028054",
-      "title": "The Old Corral",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0165402",
+    "tt0026916",
+    "tt0029696",
+    "tt0137193",
+    "tt0025114",
+    "tt0027361",
+    "tt0028163",
+    "tt0028195",
+    "tt0028194",
+    "tt0028306",
+    "tt0028968",
+    "tt0028054"
   ],
   "collections": [],
   "is_curated": true,

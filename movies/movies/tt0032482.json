@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/flying-squad-1940-",
+      "id": "flying-squad-1940-",
       "title": "The Flying Squad (1940)",
       "description": "Sebastian Shaw, Phyllis Brooks, Jack Hawkins Based on a book by Edgar Wallace",
       "fileSize": 1598913916,
-      "id": "flying-squad-1940-"
+      "addedAt": "2026-01-07T00:08:24.396Z",
+      "thumbnail": "https://archive.org/services/img/flying-squad-1940-",
+      "collection": "feature_films",
+      "downloads": 1248
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135739",
-      "title": "Die drei Codonas",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032508",
-      "title": "Gang War",
-      "year": 1940,
-      "imdbRating": 5,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032641",
-      "title": "Island of Doomed Men",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032183",
-      "title": "Adventure in Diamonds",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032257",
-      "title": "Black Diamonds",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032258",
-      "title": "Black Friday",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 3077,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032509",
-      "title": "Gangs of Chicago",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032528",
-      "title": "Girl in 313",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032609",
-      "title": "The House Across the Bay",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0032343",
+    "tt0032179",
+    "tt0032404",
+    "tt0135739",
+    "tt0032508",
+    "tt0032641",
+    "tt0032183",
+    "tt0032257",
+    "tt0032258",
+    "tt0032509",
+    "tt0032528",
+    "tt0032609"
   ],
   "collections": [],
   "is_curated": true,

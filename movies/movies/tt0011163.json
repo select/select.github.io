@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-excuse-my-dust",
+      "id": "silent-excuse-my-dust",
       "title": "Excuse My Dust",
       "fileSize": 928223144,
-      "id": "silent-excuse-my-dust"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-excuse-my-dust",
+      "language": "English",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 330
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010635",
-      "title": "The Roaring Road",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 653,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038592",
-      "title": "Heartbeat",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020425",
-      "title": "So This Is College",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012563",
-      "title": "Peck's Bad Boy",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011909",
-      "title": "The Affairs of Anatol",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012938",
-      "title": "Beyond the Rocks",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 2409,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011267",
-      "title": "Headin' Home",
-      "year": 1920,
-      "imdbRating": 5.1,
-      "imdbVotes": 318,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011588",
-      "title": "Pollyanna",
-      "year": 1920,
-      "imdbRating": 6.4,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011865",
-      "title": "Why Change Your Wife?",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1487,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011313",
-      "title": "Huckleberry Finn",
-      "year": 1920,
-      "imdbRating": 6.5,
-      "imdbVotes": 111,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011070",
-      "title": "Conrad in Quest of His Youth",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0010635",
+    "tt0038592",
+    "tt0020425",
+    "tt0012563",
+    "tt0011909",
+    "tt0012938",
+    "tt0011267",
+    "tt0011588",
+    "tt0011741",
+    "tt0011865",
+    "tt0011313",
+    "tt0011070"
   ],
   "collections": [],
   "is_curated": true,

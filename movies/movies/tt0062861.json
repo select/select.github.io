@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/diabolik_202509",
+      "id": "diabolik_202509",
       "title": "Diabolik",
       "description": "Italy , 1968",
       "fileSize": 1304934236,
-      "id": "diabolik_202509"
+      "addedAt": "2026-01-07T00:08:07.354Z",
+      "thumbnail": "https://archive.org/services/img/diabolik_202509",
+      "language": "ita",
+      "year": 1968,
+      "collection": "feature_films",
+      "downloads": 275
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt10165952",
-      "title": "Young Lion of the West",
-      "year": 2024,
-      "imdbRating": 9,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0028359",
-      "title": "13 Hours by Air",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233142",
-      "title": "3000 Miles to Graceland",
-      "year": 2001,
-      "imdbRating": 6,
-      "imdbVotes": 50389,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033510",
-      "title": "Dangerous Lady",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031245",
-      "title": "Double Deal",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034754",
-      "title": "Freckles Comes Home",
-      "year": 1942,
-      "imdbRating": 4.9,
-      "imdbVotes": 203,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082516",
-      "title": "High Risk",
-      "year": 1981,
-      "imdbRating": 5.6,
-      "imdbVotes": 1304,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024573",
-      "title": "Skyway",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041108",
-      "title": "Alias the Champ",
-      "year": 1949,
-      "imdbRating": 5.8,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032246",
-      "title": "Behind the News",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 99,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036690",
-      "title": "Call of the South Seas",
-      "year": 1944,
-      "imdbRating": 5.1,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt10165952",
+    "tt0028359",
+    "tt0233142",
+    "tt0028574",
+    "tt0033510",
+    "tt0031245",
+    "tt0034754",
+    "tt0082516",
+    "tt0024573",
+    "tt0041108",
+    "tt0032246",
+    "tt0036690"
   ],
   "collections": [],
   "is_curated": true,

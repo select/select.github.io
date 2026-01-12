@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fit_for_a_king",
+      "id": "fit_for_a_king",
       "title": "Fit for a King",
       "description": "Newspaper go-fer Joe E. Brown gets mixed up with assassins and a princess. With Helen Mack.",
       "fileSize": 3802979939,
-      "id": "fit_for_a_king"
+      "addedAt": "2026-01-07T00:08:24.396Z",
+      "thumbnail": "https://archive.org/services/img/fit_for_a_king",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 59469
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fitforaking",
+      "id": "fitforaking",
       "title": "Fit for a King",
       "description": "Joe E. Brown play Virgil Ambrose Jeremiah Christopher 'Scoop' Jones a budding newspaper man who gets into trouble with assassins and royalty.",
       "fileSize": 1355096840,
-      "id": "fitforaking"
+      "addedAt": "2026-01-07T00:08:24.396Z",
+      "thumbnail": "https://archive.org/services/img/fitforaking",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 39351
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=4PS2gEMZTKU",
+      "id": "4PS2gEMZTKU",
       "title": "Fit for a King (1937) JOE E. BROWN",
       "description": "Stars: Joe E. Brown, Helen Mack and Paul Kelly \nDirector: Edward Sedgwick\n\nAn aspiring journalist falls in love with a crown princess (Helen Mack) and exposes a plot to kill her.",
-      "id": "4PS2gEMZTKU",
+      "addedAt": "2025-12-26T23:51:08.700Z",
+      "thumbnail": "https://i.ytimg.com/vi/4PS2gEMZTKU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBMxpFgR9K0InAXwX2VSIf8QwcgHQ",
+      "duration": 4335,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,112 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029488",
-      "title": "Riding on Air",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020838",
-      "title": "Doughboys",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 525,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029521",
-      "title": "Der Schimmelkrieg in der Holledau",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029165",
-      "title": "Love Is News",
-      "year": 1937,
-      "imdbRating": 6.9,
-      "imdbVotes": 928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029580",
-      "title": "Small Town Boy",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029611",
-      "title": "Storm in a Teacup",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 1158,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029605",
-      "title": "Stand-In",
-      "year": 1937,
-      "imdbRating": 6.7,
-      "imdbVotes": 1345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028575",
-      "title": "Angel",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 3607,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028662",
-      "title": "A Bride for Henry",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029488",
+    "tt0020838",
+    "tt0233667",
+    "tt0029521",
+    "tt0028999",
+    "tt0029165",
+    "tt0029580",
+    "tt0029611",
+    "tt0029605",
+    "tt0028557",
+    "tt0028575",
+    "tt0028662"
   ],
   "collections": [],
   "is_curated": true,

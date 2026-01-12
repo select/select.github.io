@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-die-pest-in-florenz",
+      "id": "silent-die-pest-in-florenz",
       "title": "Die Pest in Florenz",
       "fileSize": 24244013009,
-      "id": "silent-die-pest-in-florenz"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-die-pest-in-florenz",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1337
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt10873438",
-      "title": "The Barcelona Vampiress",
-      "year": 2020,
-      "imdbRating": 5.8,
-      "imdbVotes": 597,
-      "language": "Catalan, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0010307",
-      "title": "J'accuse!",
-      "year": 1919,
-      "imdbRating": 7.7,
-      "imdbVotes": 2140,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010247",
-      "title": "Sir Arne's Treasure",
-      "year": 1919,
-      "imdbRating": 7.1,
-      "imdbVotes": 1591,
-      "language": "None, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056606",
-      "title": "Tower of London",
-      "year": 1962,
-      "imdbRating": 6.3,
-      "imdbVotes": 2748,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0113281",
-      "title": "Men Behind the Sun 4",
-      "year": 1995,
-      "imdbRating": 6.2,
-      "imdbVotes": 985,
-      "language": "Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006820",
-      "title": "Homunculus, 1. Teil",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 125,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011130",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 6415,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011565",
-      "title": "The Penalty",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 2769,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0171301",
-      "title": "Fabiola",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160467",
-      "title": "The Life Story of David Lloyd George",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 102,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011607",
-      "title": "The Parson's Widow",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 1556,
-      "language": "None, Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007801",
-      "title": "Cleopatra",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 413,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt10873438",
+    "tt0010307",
+    "tt0010247",
+    "tt0056606",
+    "tt0113281",
+    "tt0006820",
+    "tt0011130",
+    "tt0011565",
+    "tt0171301",
+    "tt0160467",
+    "tt0011607",
+    "tt0007801"
   ],
   "collections": [],
   "is_curated": true,

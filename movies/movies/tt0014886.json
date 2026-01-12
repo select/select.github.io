@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-few-moments-with-eddie-cantor-star-of-kid-boots",
+      "id": "silent-a-few-moments-with-eddie-cantor-star-of-kid-boots",
       "title": "A Few Moments with Eddie Cantor, Star of 'Kid Boots'",
       "fileSize": 114508852,
-      "id": "silent-a-few-moments-with-eddie-cantor-star-of-kid-boots"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-few-moments-with-eddie-cantor-star-of-kid-boots",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 416
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0490834",
-      "title": "Casey at the Bat",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475127",
-      "title": "President Coolidge, Taken on the White House Grounds",
-      "year": 1924,
-      "imdbRating": 5,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013823",
-      "title": "Alice's Wonderland",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279784",
-      "title": "Dora's Dunking Doughnuts",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013992",
-      "title": "Glumov's Diary",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014218",
-      "title": "The Love Nest",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 2625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135630",
-      "title": "Rock 'n' Roll Revue",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013858",
-      "title": "The Balloonatic",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 3297,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0336434",
-      "title": "Daredevil of the Movies",
-      "year": 1923,
-      "imdbRating": 5.4,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011722",
-      "title": "The Soilers",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0490834",
+    "tt0475127",
+    "tt0013823",
+    "tt0279784",
+    "tt0013992",
+    "tt0014218",
+    "tt0135630",
+    "tt0013858",
+    "tt0336434",
+    "tt0011722",
+    "tt1706294",
+    "tt1698474"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-runt-1935",
+      "id": "the-runt-1935",
       "title": "The Runt (1935)",
       "description": "The Runt is a Terrytoons cartoon directed by Frank Moser. Watch on RetroFlix:  https://retroflix.org/the-runt-1935/",
       "fileSize": 35836009,
-      "id": "the-runt-1935"
+      "addedAt": "2026-01-07T00:12:22.158Z",
+      "thumbnail": "https://archive.org/services/img/the-runt-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 51
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150605",
-      "title": "Foiled Again",
-      "year": 1935,
-      "imdbRating": 4.2,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162048",
-      "title": "A Wolf in Cheap Clothing",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161337",
-      "title": "Busted Blossoms",
-      "year": 1934,
-      "imdbRating": 4.3,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161284",
-      "title": "The Black Sheep",
-      "year": 1934,
-      "imdbRating": 4.2,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150804",
-      "title": "A Gypsy Fiddler",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149817",
-      "title": "Beanstalk Jack",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150130",
-      "title": "Cinderella",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150382",
-      "title": "Down on the Levee",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150504",
-      "title": "Fanny in the Lion's Den",
-      "year": 1933,
-      "imdbRating": 5.1,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146721",
-      "title": "Fanny's Wedding Day",
-      "year": 1933,
-      "imdbRating": 4.4,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150774",
-      "title": "Grand Uproar",
-      "year": 1933,
-      "imdbRating": 3.7,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150820",
-      "title": "Hansel and Gretel",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150605",
+    "tt0162048",
+    "tt0161337",
+    "tt0161284",
+    "tt0150804",
+    "tt0149817",
+    "tt0150130",
+    "tt0150382",
+    "tt0150504",
+    "tt0146721",
+    "tt0150774",
+    "tt0150820"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-leading-lizzie-astray",
+      "id": "silent-leading-lizzie-astray",
       "title": "Leading Lizzie Astray",
       "fileSize": 214473183,
-      "id": "silent-leading-lizzie-astray"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-leading-lizzie-astray",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 293
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003943",
-      "title": "Fatty and Minnie He-Haw",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003949",
-      "title": "Fatty's Magic Pants",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 194,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005313",
-      "title": "Fatty's Faithful Fido",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005316",
-      "title": "Fatty's Reckless Fling",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 98,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004691",
-      "title": "Those Country Kids",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005309",
-      "title": "Fatty and Mabel at the San Diego Exposition",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005310",
-      "title": "Mabel and Fatty's Married Life",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 312,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005676",
-      "title": "Fatty and Mabel's Simple Life",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005679",
-      "title": "Mabel, Fatty and the Law",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005677",
-      "title": "Mabel and Fatty's Wash Day",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006145",
-      "title": "That Little Band of Gold",
-      "year": 1915,
-      "imdbRating": 5.2,
-      "imdbVotes": 271,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006296",
-      "title": "Wished on Mabel",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003943",
+    "tt0003949",
+    "tt0005313",
+    "tt0005316",
+    "tt0004691",
+    "tt0005309",
+    "tt0005310",
+    "tt0005676",
+    "tt0005679",
+    "tt0005677",
+    "tt0006145",
+    "tt0006296"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-tale-of-two-worlds",
+      "id": "silent-a-tale-of-two-worlds",
       "title": "A Tale of Two Worlds",
       "fileSize": 1030787057,
-      "id": "silent-a-tale-of-two-worlds"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-tale-of-two-worlds",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 512
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013841",
-      "title": "Ashes of Vengeance",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013450",
-      "title": "Oliver Twist",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 956,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0010920",
-      "title": "The World and Its Woman",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014721",
-      "title": "Black Oxen",
-      "year": 1923,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015310",
-      "title": "The Sea Hawk",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037547",
-      "title": "Blood on the Sun",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2330,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024139",
-      "title": "Hoopla",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023323",
-      "title": "A Passport to Hell",
-      "year": 1932,
-      "imdbRating": 6.6,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026752",
-      "title": "Mutiny on the Bounty",
-      "year": 1935,
-      "imdbRating": 7.6,
-      "imdbVotes": 25741,
-      "language": "English, Polynesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019557",
-      "title": "Weary River",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 527,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019824",
-      "title": "The Divine Lady",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 957,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0013841",
+    "tt0013450",
+    "tt0010920",
+    "tt0014721",
+    "tt0015310",
+    "tt0037547",
+    "tt0011904",
+    "tt0024139",
+    "tt0023323",
+    "tt0026752",
+    "tt0019557",
+    "tt0019824"
   ],
   "collections": [],
   "is_curated": true,

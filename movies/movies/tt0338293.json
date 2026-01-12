@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-notch-number-one",
+      "id": "silent-notch-number-one",
       "title": "Notch Number One",
       "fileSize": 16057800,
-      "id": "silent-notch-number-one"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-notch-number-one",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 286
     }
   ],
   "metadata": {
@@ -26,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015202",
-      "title": "The Hands of Orlac",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 3484,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042313",
-      "title": "The Capture",
-      "year": 1950,
-      "imdbRating": 5.9,
-      "imdbVotes": 680,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027157",
-      "title": "Undercover Men",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12974634",
-      "title": "Mexican Moon",
-      "year": 2021,
-      "imdbRating": 5.5,
-      "imdbVotes": 2192,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt8009578",
-      "title": "Texas Cotton",
-      "year": 2018,
-      "imdbRating": 5.2,
-      "imdbVotes": 330,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0054292",
-      "title": "Sergeant Rutledge",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 5666,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470050",
-      "title": "From Leadville to Aspen: A Hold-Up in the Rockies",
-      "year": 1906,
-      "imdbRating": 5.9,
-      "imdbVotes": 174,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138507",
-      "title": "I Have Killed",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 13,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004555",
-      "title": "Salomy Jane",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040978",
-      "title": "Yellow Sky",
-      "year": 1948,
-      "imdbRating": 7.4,
-      "imdbVotes": 5936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060084",
-      "title": "A Few Dollars for Django",
-      "year": 1966,
-      "imdbRating": 5.5,
-      "imdbVotes": 514,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015202",
+    "tt0042313",
+    "tt0027157",
+    "tt12974634",
+    "tt8009578",
+    "tt0054292",
+    "tt0470050",
+    "tt0138507",
+    "tt0004555",
+    "tt0040978",
+    "tt0060084",
+    "tt0015477"
   ],
   "collections": [],
   "is_curated": true,

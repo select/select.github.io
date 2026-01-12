@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sherlock-holmes-1916",
+      "id": "sherlock-holmes-1916",
       "title": "Sherlock Holmes (1916)",
       "description": "William Gillette",
       "fileSize": 1535511121,
-      "id": "sherlock-holmes-1916"
+      "addedAt": "2026-01-07T00:10:50.366Z",
+      "thumbnail": "https://archive.org/services/img/sherlock-holmes-1916",
+      "collection": "feature_films",
+      "downloads": 795
     }
   ],
   "metadata": {
@@ -27,121 +31,25 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
+    "tt0173837",
+    "tt0003165",
+    "tt0051744",
+    "tt0038494",
+    "tt0039645",
+    "tt0028231",
+    "tt0204626",
+    "tt0037960",
+    "tt0034711",
+    "tt3319920",
+    "tt0047594",
+    "tt0038577"
+  ],
+  "collections": [
     {
-      "imdbId": "tt0173837",
-      "title": "Filibus",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 431,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003165",
-      "title": "Fantômas: The Dead Man Who Killed",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 1306,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051744",
-      "title": "House on Haunted Hill",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 32673,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204626",
-      "title": "The Watcher",
-      "year": 2000,
-      "imdbRating": 5.3,
-      "imdbVotes": 29163,
-      "language": "English, Vietnamese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0034711",
-      "title": "Eyes in the Night",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 2030,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt3319920",
-      "title": "Regression",
-      "year": 2015,
-      "imdbRating": 5.6,
-      "imdbVotes": 44155,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0047594",
-      "title": "The Invisible Avenger",
-      "year": 1954,
-      "imdbRating": 5.8,
-      "imdbVotes": 161,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
     }
   ],
-  "collections": [],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:10:50.366Z"

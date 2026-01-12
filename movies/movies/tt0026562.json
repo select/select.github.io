@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Keeper_of_the_Bees_1935",
+      "id": "Keeper_of_the_Bees_1935",
       "title": "Keeper of the Bees",
       "description": "Neil Hamilton (Commissioner Gordon in the Batman television series) thinks he has only six months to live.",
       "fileSize": 1784391054,
-      "id": "Keeper_of_the_Bees_1935"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/Keeper_of_the_Bees_1935",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 56226
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=ALIouXZIhQo",
+      "id": "ALIouXZIhQo",
       "title": "The Keeper of Bees (1935) WWI DRAMA",
       "description": "Stars: Neil Hamilton, Betty Furness, Emma Dunn\n Director: Christy Cabanne\n\n A severely traumatized World War I veteran, believing that he's living on borrowed time, comes upon a peaceful little village and meets an old man called Bee Master and his protégé, Little Scout, who try to convince him that he has more to live for than he thinks he does.",
-      "id": "ALIouXZIhQo",
+      "addedAt": "2025-12-26T23:50:46.343Z",
+      "thumbnail": "https://i.ytimg.com/vi/ALIouXZIhQo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBngSAApADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDthSoMveIpTWEh8WihofCLqFfeOg",
+      "duration": 4526,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025323",
-      "title": "Jane Eyre",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023930",
-      "title": "Daring Daughters",
-      "year": 1933,
-      "imdbRating": 5.7,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026104",
-      "title": "Becky Sharp",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 1302,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023742",
-      "title": "After Tonight",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 426,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024787",
-      "title": "The World Gone Mad",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 615,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032392",
-      "title": "The Devil's Pipeline",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022879",
-      "title": "A Farewell to Arms",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 7225,
-      "language": "English, Italian, Latin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025513",
-      "title": "Money Means Nothing",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031381",
-      "title": "Gone with the Wind",
-      "year": 1939,
-      "imdbRating": 8.2,
-      "imdbVotes": 350271,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025178",
+    "tt0025323",
+    "tt0023930",
+    "tt0026104",
+    "tt0023030",
+    "tt0023742",
+    "tt0024787",
+    "tt0005719",
+    "tt0032392",
+    "tt0022879",
+    "tt0025513",
+    "tt0021800"
   ],
   "collections": [],
   "is_curated": true,

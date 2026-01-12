@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Phantom_1931",
+      "id": "The_Phantom_1931",
       "title": "The Phantom",
       "description": "The Phantom escapes from prison and menaces the residents of an old, dark house.",
       "fileSize": 3248616005,
-      "id": "The_Phantom_1931"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Phantom_1931",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 34445
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=EnhbGCmZr-A",
+      "id": "EnhbGCmZr-A",
       "title": "The Phantom (1931) PRE-CODE HOLLYWOOD",
       "description": "Stars: Guinn 'Big Boy' Williams, Allene Ray, Niles Welch\n Director: Alan James\n\n A masked killer is stalking a group of people in an old mansion!",
-      "id": "EnhbGCmZr-A",
+      "addedAt": "2025-12-26T23:50:46.692Z",
+      "thumbnail": "https://i.ytimg.com/vi/EnhbGCmZr-A/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB-gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCbdAqigrV-PwWxW3CZ57yJrMk1JA",
+      "duration": 3646,
+      "language": "en",
+      "year": 1931,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3652942",
-      "title": "Speed",
-      "year": 1927,
-      "imdbRating": 3.7,
-      "imdbVotes": 7,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024625",
-      "title": "A Study in Scarlet",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024382",
-      "title": "Night of Terror",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024368",
-      "title": "Mystery of the Wax Museum",
-      "year": 1933,
-      "imdbRating": 6.8,
-      "imdbVotes": 7365,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020534",
-      "title": "The Unholy Night",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 413,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024631",
-      "title": "Supernatural",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 1023,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020080",
-      "title": "The Last Warning",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023604",
-      "title": "Tombstone Canyon",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018097",
-      "title": "London After Midnight",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 1495,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024267",
-      "title": "The Lone Avenger",
-      "year": 1933,
-      "imdbRating": 6.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024444",
-      "title": "Phantom Thunderbolt",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt3652942",
+    "tt0024625",
+    "tt0024382",
+    "tt0024368",
+    "tt0020534",
+    "tt0024631",
+    "tt0020080",
+    "tt0023604",
+    "tt0018097",
+    "tt0024267",
+    "tt0024444",
+    "tt0053337"
   ],
   "collections": [],
   "is_curated": true,

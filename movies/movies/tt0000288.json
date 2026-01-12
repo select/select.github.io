@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-la-concierge",
+      "id": "silent-la-concierge",
       "title": "La concierge",
       "fileSize": 24212835,
-      "id": "silent-la-concierge"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-la-concierge",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 517
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000284",
-      "title": "Chez le photographe",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 250,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1612541",
-      "title": "Au bal de Flore",
-      "year": 1900,
-      "imdbRating": 5.4,
-      "imdbVotes": 201,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759516",
-      "title": "Course à la saucisse",
-      "year": 1907,
-      "imdbRating": 6.1,
-      "imdbVotes": 323,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223109",
-      "title": "Danse des saisons",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649427",
-      "title": "Une course d'obstacle",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 145,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649428",
-      "title": "Une histoire roulante",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0351108",
-      "title": "Intervention malencontreuse",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 169,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1289621",
-      "title": "Officer Henderson",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002983",
-      "title": "A House Divided",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1389556",
-      "title": "A Severe Test",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328661",
-      "title": "A Wringing Good Joke",
-      "year": 1900,
-      "imdbRating": 6.2,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000284",
+    "tt1612541",
+    "tt0759516",
+    "tt0223109",
+    "tt1649427",
+    "tt1649428",
+    "tt0351108",
+    "tt0210599",
+    "tt1289621",
+    "tt0002983",
+    "tt1389556",
+    "tt0328661"
   ],
   "collections": [],
   "is_curated": true,

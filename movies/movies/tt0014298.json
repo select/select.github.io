@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-mulheres-da-beira",
+      "id": "silent-mulheres-da-beira",
       "title": "Mulheres da Beira",
       "fileSize": 902658283,
-      "id": "silent-mulheres-da-beira"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-mulheres-da-beira",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 250
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014249",
-      "title": "The Man Without Desire",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161953",
-      "title": "Salome",
-      "year": 1923,
-      "imdbRating": 4.9,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014014",
-      "title": "The Hell Ship",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014142",
-      "title": "The Hunchback of Notre Dame",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 6381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014604",
-      "title": "The White Rose",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014721",
-      "title": "Black Oxen",
-      "year": 1923,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013886",
-      "title": "Brass",
-      "year": 1923,
-      "imdbRating": 5.8,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014264",
-      "title": "Maytime",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014496",
-      "title": "Soul of the Beast",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014497",
-      "title": "Souls for Sale",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 1133,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013933",
-      "title": "The Faithful Heart",
-      "year": 1923,
-      "imdbRating": 7.4,
-      "imdbVotes": 1467,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0014440",
+    "tt0014249",
+    "tt0161953",
+    "tt0014014",
+    "tt0014142",
+    "tt0014604",
+    "tt0014721",
+    "tt0013886",
+    "tt0014264",
+    "tt0014496",
+    "tt0014497",
+    "tt0013933"
   ],
   "collections": [],
   "is_curated": true,

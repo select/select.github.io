@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mary59_gmx_754",
+      "id": "mary59_gmx_754",
       "title": "754",
       "description": "754",
       "fileSize": 8069588453,
-      "id": "mary59_gmx_754"
+      "addedAt": "2026-01-07T00:09:46.428Z",
+      "thumbnail": "https://archive.org/services/img/mary59_gmx_754",
+      "collection": "feature_films",
+      "downloads": 3175
     }
   ],
   "metadata": {
@@ -26,91 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1765953",
-      "title": "O Brasil A D. Pedro II",
-      "year": 1939,
-      "language": "Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1765738",
-      "title": "Cadetes de San Martin no Rio",
-      "year": 1939,
-      "language": "Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2080409",
-      "title": "Unsere Jungen - Ein Film der nationalpolitschen Erziehungsanstalten",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1248947",
-      "title": "Sulle orme di Giacomo Leopardi",
-      "year": 1941,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1315413",
-      "title": "Sprung in den Feind",
-      "year": 1942,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt33400258",
-      "title": "The Story of Norton I, Emperor of the United States",
-      "year": 1936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1846498",
-      "title": "Bremen",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0408098",
-      "title": "El petroleo nacional",
-      "year": 1940,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812201",
-      "title": "Asse zur See",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt1765953",
+    "tt1765738",
+    "tt2080409",
+    "tt1248947",
+    "tt1315413",
+    "tt16899218",
+    "tt33400258",
+    "tt1846498",
+    "tt0408098",
+    "tt0812201",
+    "tt13364232",
+    "tt0896825"
   ],
   "collections": [],
   "is_curated": true,

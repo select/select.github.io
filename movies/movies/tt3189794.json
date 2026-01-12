@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RobertMacaireEtBertrand",
+      "id": "RobertMacaireEtBertrand",
       "title": "Robert Macaire et Bertrand",
       "description": "Robert Macaire et Bertrand aka Robert Macaire and Bertrand USA/UK aka Robert Macaire és Bertrand Hungary aka Robert Macaire et Bertrand, les Rois des Cambrioleurs France, proper Directed by Georges Melies Country: France 1906 Country: USA 1907 What it is: Comic slapstick chase movie Two thieves rob a bank and lead the police on a merry chase. Many of the Melies films I've covered are so full of fantastic content that I have no problem justifying my coverage of them. This one is the most problematic in that regard. There are only two touches that throw it into the realm of the fantastic; the first has an explosion launching the thieves on a long journey into the air, and the second is a balloon ascent which, based on the background, shows them being taken into outer space. Both of these elements are pretty slight as far as the content goes, though. This is not to say there isn't a fair amount of special effects; the trains are obviously not real, and the depiction of an earthquake certainly adds to the special effects content. Mostly, it's slapstick comedy; it's sporadically effective, but far from Melies's best work. - by Dave Sindelar",
       "fileSize": 128176357,
-      "id": "RobertMacaireEtBertrand"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RobertMacaireEtBertrand",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 3035
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1649298",
-      "title": "Clown, chien et ballon",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 159,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649361",
-      "title": "La statue",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6668862",
-      "title": "Le Cake-walk du Nouveau Cirque",
-      "year": 1905,
-      "imdbRating": 4.4,
-      "imdbVotes": 46,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649369",
-      "title": "Le tango",
-      "year": 1905,
-      "imdbRating": 5.1,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649316",
-      "title": "Effets de mer",
-      "year": 1906,
-      "imdbRating": 5.1,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649365",
-      "title": "Le ballon dirigeable 'Le patrie'",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 138,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649367",
-      "title": "Le fils du garde-chasse",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139714",
-      "title": "The Birth, the Life and the Death of Christ",
-      "year": 1906,
-      "imdbRating": 6.4,
-      "imdbVotes": 602,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223340",
-      "title": "The Spring Fairy",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 53,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649427",
-      "title": "Une course d'obstacle",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 145,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649428",
-      "title": "Une histoire roulante",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000450",
-      "title": "La main du professeur Hamilton ou le roi des dollars",
-      "year": 1903,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1649298",
+    "tt1649361",
+    "tt6668862",
+    "tt1649369",
+    "tt1649316",
+    "tt1649365",
+    "tt1649367",
+    "tt0139714",
+    "tt0223340",
+    "tt1649427",
+    "tt1649428",
+    "tt0000450"
   ],
   "collections": [],
   "is_curated": true,

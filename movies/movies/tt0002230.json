@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-heart-of-an-indian",
+      "id": "silent-the-heart-of-an-indian",
       "title": "The Heart of an Indian",
       "fileSize": 666801341,
-      "id": "silent-the-heart-of-an-indian"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-heart-of-an-indian",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 297
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002816",
-      "title": "The Drummer of the 8th",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 128,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002281",
-      "title": "The Invaders",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 338,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002521",
-      "title": "A Temporary Truce",
-      "year": 1912,
-      "imdbRating": 5.2,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002282",
-      "title": "Iola's Promise",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002585",
-      "title": "With the Enemy's Help",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002176",
-      "title": "The Female of the Species",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 337,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0373736",
-      "title": "Broncho Billy and the Schoolmistress",
-      "year": 1912,
-      "imdbRating": 5.4,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002197",
-      "title": "Friends",
-      "year": 1912,
-      "imdbRating": 5.5,
-      "imdbVotes": 328,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0412344",
-      "title": "Man's Calling",
-      "year": 1912,
-      "imdbRating": 5.5,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229309",
-      "title": "The Confederate Ironclad",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 232,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002755",
-      "title": "Cohen Saves the Flag",
-      "year": 1913,
-      "imdbRating": 4.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001613",
-      "title": "Fighting Blood",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 172,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002816",
+    "tt0002281",
+    "tt0002521",
+    "tt0002282",
+    "tt0002585",
+    "tt0002176",
+    "tt0373736",
+    "tt0002197",
+    "tt0412344",
+    "tt0229309",
+    "tt0002755",
+    "tt0001613"
   ],
   "collections": [],
   "is_curated": true,

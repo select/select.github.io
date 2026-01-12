@@ -6,25 +6,42 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EyesOfYouth",
+      "id": "EyesOfYouth",
       "title": "Eyes of Youth",
       "description": "A young woman, confronted by four options for proceeding in her life, is granted the ability to see what results would come from her choice of of the options. After she sees her future along three of the roads, she makes her choice. This film is often credited for giving Valentino the role that led to him being cast in The Four Horseman of the Apocalypse (1921). Stars: Clara Kimball Young, Gareth Hughes and Pauline Starke Features: Rudolph Valentino Runtime: 78 min Sound Mix: Silent Color: Black and White",
       "fileSize": 778088276,
-      "id": "EyesOfYouth"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/EyesOfYouth",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 3059
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EyesOfYouthPd19",
+      "id": "EyesOfYouthPd19",
       "title": "Eyes of Youth",
       "description": "Title: Eyes of Youth Summary: A young woman at a crossroads is shown what her future would be like for each choice. Directed by: Albert Parker Actors: Clara Kimball Young, Gareth Hughes, Pauline Starke Production Company: Harry Garson Productions Release Date: 30 November 1919 (USA) Aspect Ratio: 1.33 : 1 A young woman, confronted by four options for proceeding in her life, is granted the ability to see what results would come from her choice of of the options. After she sees her future along three of the roads, she makes her choice.",
       "fileSize": 1095686354,
-      "id": "EyesOfYouthPd19"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/EyesOfYouthPd19",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 768
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-eyes-of-youth",
+      "id": "silent-eyes-of-youth",
       "title": "Eyes of Youth",
       "fileSize": 2135232972,
-      "id": "silent-eyes-of-youth"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-eyes-of-youth",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 499
     }
   ],
   "metadata": {
@@ -42,114 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013597",
-      "title": "Sherlock Holmes",
-      "year": 1922,
-      "imdbRating": 5.7,
-      "imdbVotes": 754,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026610",
-      "title": "Late Extra",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328815",
-      "title": "After Dark",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018113",
-      "title": "The Love of Sunya",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 825,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010137",
-      "title": "For Better, for Worse",
-      "year": 1919,
-      "imdbRating": 5.9,
-      "imdbVotes": 747,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010208",
-      "title": "Harakiri",
-      "year": 1919,
-      "imdbRating": 5.6,
-      "imdbVotes": 801,
-      "language": "None, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010316",
-      "title": "Jubilo",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010402",
-      "title": "Love's Prisoner",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010418",
-      "title": "Male and Female",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1956,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010890",
-      "title": "The Wicked Darling",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 474,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0013597",
+    "tt0026610",
+    "tt0328815",
+    "tt0018113",
+    "tt0009559",
+    "tt0009968",
+    "tt0010137",
+    "tt0010208",
+    "tt0010316",
+    "tt0010402",
+    "tt0010418",
+    "tt0010890"
   ],
   "collections": [],
   "is_curated": true,

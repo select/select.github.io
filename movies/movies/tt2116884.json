@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Mommartz_Focus_1987",
+      "id": "Mommartz_Focus_1987",
       "title": "1987 Fokus (Focus)",
       "description": "The film is a simulation of the alternating blinking of the eye by moving the lens of the camera from the right to the left and back.",
       "fileSize": 247479638,
-      "id": "Mommartz_Focus_1987"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/Mommartz_Focus_1987",
+      "language": "international",
+      "year": 1986,
+      "collection": "feature_films",
+      "downloads": 8246
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0800129",
-      "title": "Marvin Gaye",
-      "year": 1987,
-      "imdbRating": 7.6,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185893",
-      "title": "Attack! Battle of New Britain",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276783",
-      "title": "Attack in the Pacific",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3112348",
-      "title": "Children in the Surf at Coney Island",
-      "year": 1904,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178341",
-      "title": "Coil Winding Machines",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0800129",
+    "tt0000537",
+    "tt0178247",
+    "tt0185893",
+    "tt0276783",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt1515754",
+    "tt3112348",
+    "tt0178341"
   ],
   "collections": [],
   "is_curated": true,

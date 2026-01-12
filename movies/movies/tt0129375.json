@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-eine-siebzehnjahrige-alfred-abel-max-gulstorff",
+      "id": "1934-eine-siebzehnjahrige-alfred-abel-max-gulstorff",
       "title": "1934 Eine Siebzehnjährige ( Alfred Abel, Max Gülstorff)",
       "description": "Film aus dem deutschen dritten Reich von 1934. Eine Siebzehnjährige.  U.a mit Alfred Abel und Max Gülstorff ",
       "fileSize": 1453948042,
-      "id": "1934-eine-siebzehnjahrige-alfred-abel-max-gulstorff"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1934-eine-siebzehnjahrige-alfred-abel-max-gulstorff",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 170
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029249",
-      "title": "Millionenerbschaft",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249712",
-      "title": "Die Liebe des Maharadscha",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025960",
-      "title": "Was bin ich ohne Dich",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251646",
-      "title": "Csibi, der Fratz",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025245",
-      "title": "Der Herr ohne Wohnung",
-      "year": 1934,
-      "imdbRating": 7.2,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025336",
-      "title": "Der junge Baron Neuhaus",
-      "year": 1934,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0252927",
-      "title": "Die Bande vom Hoheneck",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129200",
-      "title": "Die Liebe siegt",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025548",
-      "title": "Ein Mädchen mit Prokura",
-      "year": 1934,
-      "imdbRating": 7.8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025549",
-      "title": "Ein Mädel wirbelt durch die Welt",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025246",
-      "title": "Herz ist Trumpf",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024806",
-      "title": "...heute abend bei mir",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0029249",
+    "tt0249712",
+    "tt0025960",
+    "tt0251646",
+    "tt0025245",
+    "tt0025336",
+    "tt0252927",
+    "tt0129200",
+    "tt0025548",
+    "tt0025549",
+    "tt0025246",
+    "tt0024806"
   ],
   "collections": [],
   "is_curated": true,

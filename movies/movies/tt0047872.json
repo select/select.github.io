@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bengazi-1955",
+      "id": "bengazi-1955",
       "title": "Bengazi (1955)",
       "description": "Richard Conte, Victor McLaglen, Richard Carlson",
       "fileSize": 1172168505,
-      "id": "bengazi-1955"
+      "addedAt": "2026-01-07T00:07:31.714Z",
+      "thumbnail": "https://archive.org/services/img/bengazi-1955",
+      "collection": "feature_films",
+      "downloads": 1293
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0047917",
-      "title": "Canyon Crossroads",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048640",
-      "title": "Soldier of Fortune",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 1777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031863",
-      "title": "Rio",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 198,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048682",
-      "title": "Swamp Women",
-      "year": 1956,
-      "imdbRating": 3.4,
-      "imdbVotes": 2106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046692",
-      "title": "Alaska Seas",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049446",
-      "title": "Lisbon",
-      "year": 1956,
-      "imdbRating": 5.9,
-      "imdbVotes": 737,
-      "language": "English, Portuguese, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047213",
-      "title": "They Were So Young",
-      "year": 1954,
-      "imdbRating": 5.5,
-      "imdbVotes": 220,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0050431",
-      "title": "Ghost Diver",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 31,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050903",
-      "title": "The River's Edge",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 1402,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047878",
-      "title": "The Big Combo",
-      "year": 1955,
-      "imdbRating": 7.3,
-      "imdbVotes": 9203,
-      "language": "English, Swedish, Latin, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037761",
-      "title": "Hangover Square",
-      "year": 1945,
-      "imdbRating": 7.4,
-      "imdbVotes": 4226,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039217",
-      "title": "The Brasher Doubloon",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 1420,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0047917",
+    "tt0048640",
+    "tt0031863",
+    "tt0048682",
+    "tt0046692",
+    "tt0049446",
+    "tt0047213",
+    "tt0050431",
+    "tt0050903",
+    "tt0047878",
+    "tt0037761",
+    "tt0039217"
   ],
   "collections": [],
   "is_curated": true,

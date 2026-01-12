@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RidersoftheSage",
+      "id": "RidersoftheSage",
       "title": "Riders of the Sage",
       "description": "In an effort to get Jim Martin (Frank LaRue) to sell his ranch, the Halsey brothers have kidnapped his son Tom (Dave O'Brien). When Bob Burke (Bob Steele) goes after him alone, he gets help from the gang known as the Riders of the Sage.",
       "fileSize": 1272340962,
-      "id": "RidersoftheSage"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RidersoftheSage",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 16548
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=trBbTMZTV94",
+      "id": "trBbTMZTV94",
       "title": "Riders of the Sage (1939) BOB STEELE",
       "description": "Stars: Bob Steele, Claire Rochelle, Ralph Hoopes\n Director: Harry S. Webb\n\n In an effort to get Jim Martin to sell his ranch, the Halsey brothers have kidnapped his son Tom. When Bob Burke goes after him alone, he gets help from the gang known as the Riders of the Sage.",
-      "id": "trBbTMZTV94",
+      "addedAt": "2025-12-26T23:52:05.956Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/trBbTMZTV94/maxresdefault.webp",
+      "duration": 3111,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031301",
-      "title": "Feud of the Range",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031051",
-      "title": "The Arizona Kid",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031216",
-      "title": "Days of Jesse James",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031247",
-      "title": "Down the Wyoming Trail",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031857",
-      "title": "Ride 'em, Cowgirl",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031860",
-      "title": "Riders of the Frontier",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031859",
-      "title": "Riders of Black River",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031406",
-      "title": "Harlem Rides the Range",
-      "year": 1939,
-      "imdbRating": 5,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031889",
-      "title": "Saga of Death Valley",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031929",
-      "title": "Six-Gun Rhythm",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032107",
-      "title": "Wall Street Cowboy",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031267",
-      "title": "El Diablo Rides",
-      "year": 1939,
-      "imdbRating": 3,
-      "imdbVotes": 40,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0031301",
+    "tt0031051",
+    "tt0031216",
+    "tt0031247",
+    "tt0031857",
+    "tt0031860",
+    "tt0031859",
+    "tt0031406",
+    "tt0031889",
+    "tt0031929",
+    "tt0032107",
+    "tt0031267"
   ],
   "collections": [],
   "is_curated": true,

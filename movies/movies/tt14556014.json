@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/four-roads",
+      "id": "four-roads",
       "title": "Four Roads (2021)",
       "description": "During the COVID-19 pandemic, filmmaker Alice Rohrwacher gets in touch with her neighborhoods through her photographic lenses.",
       "fileSize": 351204783,
-      "id": "four-roads"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/four-roads",
+      "language": "ita",
+      "year": 2021,
+      "collection": "feature_films",
+      "downloads": 6366
     }
   ],
   "metadata": {
@@ -27,109 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9012126",
-      "title": "Rinse at 590",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8228460",
-      "title": "Above 592 metres",
-      "year": 2018,
-      "imdbRating": 6.6,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12287582",
-      "title": "Red Letter Media Behind the Scenes: Space Cop",
-      "year": 2020,
-      "imdbRating": 8.3,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt14161232",
-      "title": "Thomas Kinkade",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt12618064",
-      "title": "Buck Southworth: U.S. Air Force Flight Crew",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt17493304",
-      "title": "The PragerU Story - Full Documentary",
-      "year": 2021,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt13622434",
-      "title": "Week 4: Chicago",
-      "year": 2024,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9064686",
-      "title": "A Past Life",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt9012126",
+    "tt8228460",
+    "tt12287582",
+    "tt14161232",
+    "tt12618064",
+    "tt17493304",
+    "tt13622434",
+    "tt9064686",
+    "tt6564690",
+    "tt3155794",
+    "tt0021576",
+    "tt0000537"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-lamorino",
+      "id": "silent-lamorino",
       "title": "L'amorino",
       "fileSize": 127152963,
-      "id": "silent-lamorino"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-lamorino",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 323
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0258254",
-      "title": "A Tin-Type Romance",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001235",
-      "title": "A Gold Necklace",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 55,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001333",
-      "title": "Muggsy's First Sweetheart",
-      "year": 1910,
-      "imdbRating": 5.6,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0125564",
-      "title": "Twelfth Night",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 286,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001458",
-      "title": "Wilful Peggy",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477316",
-      "title": "How Bumptious Papered the Parlor",
-      "year": 1910,
-      "imdbRating": 5.1,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001062",
-      "title": "Those Awful Hats",
-      "year": 1909,
-      "imdbRating": 6.2,
-      "imdbVotes": 1256,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000840",
-      "title": "The Curtain Pole",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 351,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000877",
-      "title": "Getting Even",
-      "year": 1909,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0258254",
+    "tt0001235",
+    "tt0001333",
+    "tt0131024",
+    "tt0125564",
+    "tt0001458",
+    "tt0477316",
+    "tt0139938",
+    "tt0001062",
+    "tt0000840",
+    "tt0000877",
+    "tt0001002"
   ],
   "collections": [],
   "is_curated": true,

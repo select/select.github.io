@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/disraeli_1929",
+      "id": "disraeli_1929",
       "title": "Disraeli",
       "fileSize": 3237857341,
-      "id": "disraeli_1929"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/disraeli_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 1270
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/disraeli_1929_202506",
+      "id": "disraeli_1929_202506",
       "title": "Disraeli (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. George Arliss was the first British actor to win an Academy Award for his role in this historical drama. The film also received two other nominations for best writing and best picture. For the most part Disraeli was a picture designed around Arliss's performance, and that is what is most effective in the film.",
       "fileSize": 3175242675,
-      "id": "disraeli_1929_202506"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/disraeli_1929_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 97
     }
   ],
   "metadata": {
@@ -34,117 +46,18 @@
     "Awards": "Won 1 Oscar. 4 wins & 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042609",
-      "title": "The Jackie Robinson Story",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 1494,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025272",
-      "title": "The House of Rothschild",
-      "year": 1934,
-      "imdbRating": 6.5,
-      "imdbVotes": 1343,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024473",
-      "title": "The Private Life of Henry VIII",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 5137,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023888",
-      "title": "Der Choral von Leuthen",
-      "year": 1933,
-      "imdbRating": 7.3,
-      "imdbVotes": 75,
-      "language": "Hungarian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0045473",
-      "title": "Admiral Ushakov",
-      "year": 1953,
-      "imdbRating": 7.3,
-      "imdbVotes": 224,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0060107",
-      "title": "Andrei Rublev",
-      "year": 1966,
-      "imdbRating": 8,
-      "imdbVotes": 58379,
-      "language": "Russian, Italian, Tatar",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0086891",
-      "title": "Anatomy of an Illness",
-      "year": 1984,
-      "imdbRating": 6.4,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024966",
-      "title": "Chapaev",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 1461,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266425",
-      "title": "Conspiracy",
-      "year": 2001,
-      "imdbRating": 7.6,
-      "imdbVotes": 28545,
-      "language": "English, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033451",
-      "title": "Carl Peters",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9071322",
-      "title": "Dark Waters",
-      "year": 2019,
-      "imdbRating": 7.6,
-      "imdbVotes": 118173,
-      "language": "English, Korean",
-      "sourceType": "archive.org"
-    }
+    "tt0042609",
+    "tt0025272",
+    "tt0024473",
+    "tt0023888",
+    "tt1441953",
+    "tt0045473",
+    "tt0060107",
+    "tt0086891",
+    "tt0024966",
+    "tt0266425",
+    "tt0033451",
+    "tt9071322"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-haunted-castle",
+      "id": "silent-the-haunted-castle",
       "title": "The Haunted Castle",
       "fileSize": 1329159078,
-      "id": "silent-the-haunted-castle"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-haunted-castle",
+      "language": "German",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 8435
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-haunted.-castle.-1921",
+      "id": "the.-haunted.-castle.-1921",
       "title": "The Haunted Castle (1921)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. One of the earliest surviving films by acclaimed director F.W. Murnau, The Haunted Castle is a much more basic film that what he would later create. Still, this mystery motion picture has atmosphere and beautiful sets. The name definitely feels like a misnomer, as it is not a horror film, but instead a mystery. ",
       "fileSize": 1950567920,
-      "id": "the.-haunted.-castle.-1921"
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-haunted.-castle.-1921",
+      "language": "eng",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 112
     }
   ],
   "metadata": {
@@ -34,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013373",
-      "title": "Marizza",
-      "year": 1922,
-      "imdbRating": 6.3,
-      "imdbVotes": 115,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013496",
-      "title": "Phantom",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 1978,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012973",
-      "title": "The Burning Soil",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 790,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204626",
-      "title": "The Watcher",
-      "year": 2000,
-      "imdbRating": 5.3,
-      "imdbVotes": 29163,
-      "language": "English, Vietnamese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3319920",
-      "title": "Regression",
-      "year": 2015,
-      "imdbRating": 5.6,
-      "imdbVotes": 44155,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0044314",
-      "title": "5 Fingers",
-      "year": 1952,
-      "imdbRating": 7.6,
-      "imdbVotes": 5573,
-      "language": "English, German, Portuguese, Turkish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047119",
-      "title": "An Inspector Calls",
-      "year": 1954,
-      "imdbRating": 7.5,
-      "imdbVotes": 5549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052634",
-      "title": "Chance Meeting",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0011904",
+    "tt0013373",
+    "tt0013496",
+    "tt0012973",
+    "tt0038494",
+    "tt0028231",
+    "tt0204626",
+    "tt3319920",
+    "tt0044314",
+    "tt0047119",
+    "tt0052634",
+    "tt0035694"
   ],
   "collections": [],
   "is_curated": true,

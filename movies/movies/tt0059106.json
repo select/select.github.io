@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/die-die-my-darling",
+      "id": "die-die-my-darling",
       "title": "Die! Die! My Darling",
       "description": "A young woman is terrorized by her deceased fiancé's demented mother who blames her for her son's death.",
       "fileSize": 7906060290,
-      "id": "die-die-my-darling"
+      "addedAt": "2026-01-07T00:08:07.355Z",
+      "thumbnail": "https://archive.org/services/img/die-die-my-darling",
+      "language": "eng",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 6516
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/die-die-my-darling-1965",
+      "id": "die-die-my-darling-1965",
       "title": "Die! Die! My Darling 1965",
       "description": "A young woman is held captive and terrorized by her deceased fiancés demented mother who blames her for her son's death.",
       "fileSize": 833484438,
-      "id": "die-die-my-darling-1965"
+      "addedAt": "2026-01-07T00:08:07.355Z",
+      "thumbnail": "https://archive.org/services/img/die-die-my-darling-1965",
+      "language": "eng",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 514
     }
   ],
   "metadata": {
@@ -35,115 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059646",
-      "title": "Repulsion",
-      "year": 1965,
-      "imdbRating": 7.6,
-      "imdbVotes": 59958,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061005",
-      "title": "She Beast",
-      "year": 1966,
-      "imdbRating": 4.7,
-      "imdbVotes": 1525,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058283",
-      "title": "Lady in a Cage",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 3936,
-      "language": "English, French, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058430",
-      "title": "Onibaba",
-      "year": 1964,
-      "imdbRating": 7.9,
-      "imdbVotes": 23085,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058620",
-      "title": "Strait-Jacket",
-      "year": 1964,
-      "imdbRating": 6.8,
-      "imdbVotes": 6892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059821",
-      "title": "The Tomb of Ligeia",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 7190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057465",
-      "title": "The Sadist",
-      "year": 1963,
-      "imdbRating": 6.6,
-      "imdbVotes": 3155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057569",
-      "title": "The Terror",
-      "year": 1963,
-      "imdbRating": 5,
-      "imdbVotes": 8714,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056983",
-      "title": "Dementia 13",
-      "year": 1963,
-      "imdbRating": 5.7,
-      "imdbVotes": 9661,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0488433",
-      "title": "Wolhaui gongdongmyoji",
-      "year": 1967,
-      "imdbRating": 6.1,
-      "imdbVotes": 93,
-      "language": "Korean",
-      "sourceType": "youtube",
-      "channelName": "Korean Classic Film"
-    },
-    {
-      "imdbId": "tt0056056",
-      "title": "Hands of a Stranger",
-      "year": 1962,
-      "imdbRating": 5.2,
-      "imdbVotes": 1019,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063350",
-      "title": "Night of the Living Dead",
-      "year": 1968,
-      "imdbRating": 7.8,
-      "imdbVotes": 148892,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0059646",
+    "tt0061005",
+    "tt0058283",
+    "tt0058430",
+    "tt0058620",
+    "tt0059821",
+    "tt0057465",
+    "tt0057569",
+    "tt0056983",
+    "tt0488433",
+    "tt0056056",
+    "tt0063350"
   ],
   "collections": [],
   "is_curated": true,

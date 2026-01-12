@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/top-of-the-town-1937-",
+      "id": "top-of-the-town-1937-",
       "title": "Top Of The Town (1937)",
       "description": "Sam White, Doris Nolan, George Murphy",
       "fileSize": 1364512430,
-      "id": "top-of-the-town-1937-"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/top-of-the-town-1937-",
+      "collection": "feature_films",
+      "downloads": 366
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029209",
-      "title": "Manhattan Merry-Go-Round",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 177,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029482",
-      "title": "Rhythm in the Clouds",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029806",
-      "title": "You Can't Have Everything",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 279,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029223",
-      "title": "Meet the Boy Friend",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028260",
-      "title": "Sitting on the Moon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027496",
-      "title": "Dancing Pirate",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 398,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027720",
-      "title": "Hats Off",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029266",
-      "title": "Mr. Boggs Steps Out",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030820",
-      "title": "Swing Your Lady",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030853",
-      "title": "Thanks for the Memory",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 345,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028999",
+    "tt0029209",
+    "tt0029482",
+    "tt0029806",
+    "tt0029223",
+    "tt0027495",
+    "tt0028260",
+    "tt0027496",
+    "tt0027720",
+    "tt0029266",
+    "tt0030820",
+    "tt0030853"
   ],
   "collections": [],
   "is_curated": true,

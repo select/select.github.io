@@ -6,26 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/KingArthurWasAGentleman1942",
+      "id": "KingArthurWasAGentleman1942",
       "title": "King Arthur Was a Gentleman (1942)",
       "description": "Arthur (Arthur Askey) joins the army to prove himself to his girlfriend Susan (Evelyn Dall). His mates trick him into believing a sword that he found is Excalibur. Armed with the sword he heads out to take on the German army. PD In UK At GATT Date. Not Eligible For GATT Mystic Nights Videos",
       "fileSize": 2128192031,
-      "id": "KingArthurWasAGentleman1942"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/KingArthurWasAGentleman1942",
+      "collection": "feature_films",
+      "downloads": 9310
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/KingArthurWasaGentleman",
+      "id": "KingArthurWasaGentleman",
       "title": "King Arthur Was a Gentleman",
       "description": "World War II, the plot involves the diminutive Arthur (Arthur Askey) joining the army to prove himself to his girlfriend Susan (Evelyn Dall), who is in the same unit as him. Here, his idealistic notions about King Arthur prompt his messmates to trick him into believing that a sword they have dug up is the fabled Excaliber. Armed with this talisman Arthur strides forth to deal with the German Army.",
       "fileSize": 2195513429,
-      "id": "KingArthurWasaGentleman"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/KingArthurWasaGentleman",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 49747
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/king_arthur_was_a_gentleman_1942",
+      "id": "king_arthur_was_a_gentleman_1942",
       "title": "King Arthur Was a Gentleman",
       "description": "Taken from wikipedia : Set during World War II, the diminutive Arthur joining the army to prove himself to his girlfriend Susan (Evelyn Dall), who is in the same unit as him. Here, his idealistic notions about King Arthur prompt his messmates to trick him into believing that a sword they have dug up is the fabled Excaliber. Armed with this talisman Arthur strides forth to deal with the Wehrmacht.",
       "fileSize": 1941919722,
-      "id": "king_arthur_was_a_gentleman_1942"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/king_arthur_was_a_gentleman_1942",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 21332
     }
   ],
   "metadata": {
@@ -43,114 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033739",
-      "title": "I Thank You",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031077",
-      "title": "Band Waggon",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035095",
-      "title": "Much Too Shy",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032511",
-      "title": "Gasbags",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 182,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036163",
-      "title": "Miss London Ltd.",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035670",
-      "title": "Bell-Bottom George",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 232,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032125",
-      "title": "Where's That Fire?",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031058",
-      "title": "Ask a Policeman",
-      "year": 1939,
-      "imdbRating": 7.4,
-      "imdbVotes": 1010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029853",
-      "title": "Alf's Button Afloat",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030518",
-      "title": "Old Bones of the River",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036635",
-      "title": "Bees in Paradise",
-      "year": 1944,
-      "imdbRating": 4.9,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034488",
-      "title": "Back-Room Boy",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 323,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    }
+    "tt0033739",
+    "tt0031077",
+    "tt0035095",
+    "tt0032511",
+    "tt0036163",
+    "tt0035670",
+    "tt0032125",
+    "tt0031058",
+    "tt0029853",
+    "tt0030518",
+    "tt0036635",
+    "tt0034488"
   ],
   "collections": [],
   "is_curated": true,

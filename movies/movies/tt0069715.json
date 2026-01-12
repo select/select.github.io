@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/amicus-and-now-the-screaming-starts",
+      "id": "amicus-and-now-the-screaming-starts",
       "title": "Now The Screaming Starts",
       "description": "England 1795: the young Catherine just married Charles Fengriffen and moves into his castle. She becomes victim of an old curse that lays on the family. On her wedding night she's raped by a ghost and gets pregnant.",
       "fileSize": 1075149515,
-      "id": "amicus-and-now-the-screaming-starts"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/amicus-and-now-the-screaming-starts",
+      "collection": "feature_films",
+      "downloads": 1102
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+      "id": "and-now-the-screaming-starts-1973_202409",
       "title": "And Now The Screaming Starts 1973",
       "description": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
       "fileSize": 841728258,
-      "id": "and-now-the-screaming-starts-1973_202409"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
+      "year": 1973,
+      "collection": "feature_films",
+      "downloads": 556
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0067713",
-      "title": "Scars of Dracula",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 6934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062168",
-      "title": "Quatermass and the Pit",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 11904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070634",
-      "title": "The Satanic Rites of Dracula",
-      "year": 1973,
-      "imdbRating": 5.5,
-      "imdbVotes": 7218,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068713",
-      "title": "Horror Express",
-      "year": 1972,
-      "imdbRating": 6.5,
-      "imdbVotes": 13285,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070078",
-      "title": "From Beyond the Grave",
-      "year": 1974,
-      "imdbRating": 6.6,
-      "imdbVotes": 5561,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069341",
-      "title": "Tales from the Crypt",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 13808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070222",
-      "title": "Invasion of the Bee Girls",
-      "year": 1973,
-      "imdbRating": 4.9,
-      "imdbVotes": 3464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069838",
-      "title": "Bell from Hell",
-      "year": 1973,
-      "imdbRating": 5.6,
-      "imdbVotes": 1577,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069933",
-      "title": "Crypt of the Living Dead",
-      "year": 1973,
-      "imdbRating": 4.6,
-      "imdbVotes": 1044,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069994",
-      "title": "Don't Look in the Basement",
-      "year": 1973,
-      "imdbRating": 4.9,
-      "imdbVotes": 3609,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070654",
-      "title": "Scream Bloody Murder",
-      "year": 1973,
-      "imdbRating": 4.7,
-      "imdbVotes": 1223,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070673",
-      "title": "The Severed Arm",
-      "year": 1973,
-      "imdbRating": 4.9,
-      "imdbVotes": 1150,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0067713",
+    "tt0062168",
+    "tt0070634",
+    "tt0068713",
+    "tt0070078",
+    "tt0069341",
+    "tt0070222",
+    "tt0069838",
+    "tt0069933",
+    "tt0069994",
+    "tt0070654",
+    "tt0070673"
   ],
   "collections": [],
   "is_curated": true,

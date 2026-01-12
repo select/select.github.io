@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-prussian-culture",
+      "id": "silent-prussian-culture",
       "title": "Prussian Culture",
       "fileSize": 71104522,
-      "id": "silent-prussian-culture"
+      "addedAt": "2026-01-07T00:11:15.972Z",
+      "thumbnail": "https://archive.org/services/img/silent-prussian-culture",
+      "language": "Polish",
+      "year": 1908,
+      "collection": "feature_films",
+      "downloads": 434
     }
   ],
   "metadata": {
@@ -26,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1840952",
-      "title": "The Last Cartridge, an Incident of the Sepoy Rebellion in India",
-      "year": 1908,
-      "imdbRating": 4.7,
-      "imdbVotes": 102,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0427674",
-      "title": "The Garibaldi Boy",
-      "year": 1909,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257676",
-      "title": "A Fire in a Burlesque Theatre",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 268,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234435",
-      "title": "The Paymaster",
-      "year": 1906,
-      "imdbRating": 4.8,
-      "imdbVotes": 43,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0344506",
-      "title": "The Two Roses",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3765110",
-      "title": "Les oeufs de Paques d'un orphelin",
-      "year": 1908,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419034",
-      "title": "Passion Play: Christ Calling Zaccheus from the Tree",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1840952",
+    "tt1207008",
+    "tt1113818",
+    "tt0427674",
+    "tt0231716",
+    "tt0257676",
+    "tt0234435",
+    "tt0344506",
+    "tt3765110",
+    "tt1090274",
+    "tt1223220",
+    "tt0419034"
   ],
   "collections": [],
   "is_curated": true,

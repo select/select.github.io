@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cleopatra",
+      "id": "silent-cleopatra",
       "title": "Cleopatra",
       "fileSize": 1364977190,
-      "id": "silent-cleopatra"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cleopatra",
+      "language": "French",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 1865
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0191402",
-      "title": "La revolución de Mayo",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 94,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188941",
-      "title": "Nero. Or the Fall of Rome.",
-      "year": 1909,
-      "imdbRating": 5.2,
-      "imdbVotes": 553,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0434198",
-      "title": "The Death of the Duke D'Enghien",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 32,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000776",
-      "title": "The Last Days of Pompeii",
-      "year": 1908,
-      "imdbRating": 5.6,
-      "imdbVotes": 137,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0461304",
-      "title": "Le pain des petits oiseaux",
-      "year": 1911,
-      "imdbRating": 5.8,
-      "imdbVotes": 30,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432624",
-      "title": "Anne Boleyn",
-      "year": 1912,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001431",
-      "title": "The Unchanging Sea",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 916,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0191402",
+    "tt0001032",
+    "tt0001915",
+    "tt0188941",
+    "tt0434198",
+    "tt0000776",
+    "tt0207954",
+    "tt0461304",
+    "tt1223220",
+    "tt0432624",
+    "tt0001265",
+    "tt0001431"
   ],
   "collections": [],
   "is_curated": true,

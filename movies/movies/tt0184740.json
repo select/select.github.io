@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mis-cinco-hijos-1948",
+      "id": "mis-cinco-hijos-1948",
       "title": "Mis Cinco Hijos (1948)",
       "description": "Mis cinco hijos  es una película en blanco y negro de  Argentina  dirigida por  Orestes Caviglia  y  Bernardo Spoliansky  sobre el guion de  Nathan Pinzón  que se estrenó el 2 de septiembre de 1948 y que tuvo como protagonistas a  Tito Alonso ,  Pola Alonso ,  Iris Alonso ,  Domingo Sapelli  e  Ilde Pirovano . Es el único filme en el que trabajaron juntos los cinco hermanos Alonso. (Wikipedia) Sinopsis Los problemas de una familia humilde, una hija con el lujo, otra con vicisitudes sentimentales y un hijo con un asunto policial. Reparto Tito Alonso Pola Alonso Iris Alonso Mario Alonso Héctor Alonso Ilde Pirovano Horacio Priani Mario Giusti Dora del Río Roberto Durán Juan Ramón Alberti Pablo Cumo Juan Carrara Roberto Chanel Rafael Chumbito Rodolfo Crespi Carlos Escobares Rubén Hernández Alberto Morán Pedro Pompillo Osvaldo Pugliese Domingo Sapelli Ricardo Trigo",
       "fileSize": 1198582812,
-      "id": "mis-cinco-hijos-1948"
+      "addedAt": "2026-01-07T00:09:54.328Z",
+      "thumbnail": "https://archive.org/services/img/mis-cinco-hijos-1948",
+      "language": "spa",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 49
     }
   ],
   "metadata": {
@@ -27,96 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041284",
-      "title": "De hombre a hombre",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0264698",
-      "title": "Hoy cumple años mamá",
-      "year": 1948,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183750",
-      "title": "Los secretos del buzón",
-      "year": 1948,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040576",
-      "title": "María de los Ángeles",
-      "year": 1948,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194203",
-      "title": "Novio, marido y amante",
-      "year": 1948,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182383",
-      "title": "Recuerdos de un ángel",
-      "year": 1948,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184230",
-      "title": "Una atrevida aventurita",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt27914463",
-      "title": "Woman in Brown",
-      "year": 1948,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198721",
-      "title": "María Celeste",
-      "year": 1945,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191755",
-      "title": "30 segundos de amor",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198395",
-      "title": "Cumbres de hidalguía",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194839",
-      "title": "Edición extra",
-      "year": 1949,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0041284",
+    "tt0264698",
+    "tt0183750",
+    "tt0040576",
+    "tt0194203",
+    "tt0182383",
+    "tt0184230",
+    "tt27914463",
+    "tt0198721",
+    "tt0191755",
+    "tt0198395",
+    "tt0194839"
   ],
   "collections": [],
   "is_curated": true,

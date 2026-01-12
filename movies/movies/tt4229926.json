@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_4111",
+      "id": "dipwad2_zoho_4111",
       "title": "411",
       "description": "411 ",
       "fileSize": 3839987798,
-      "id": "dipwad2_zoho_4111"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_4111",
+      "collection": "feature_films",
+      "downloads": 985
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_411",
+      "id": "rog561b_netzero_411",
       "title": "411",
       "description": "411",
       "fileSize": 1952901550,
-      "id": "rog561b_netzero_411"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_411",
+      "collection": "feature_films",
+      "downloads": 676
     }
   ],
   "metadata": {
@@ -34,109 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2376386",
-      "title": "111",
-      "year": 2012,
-      "imdbRating": 7.7,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4331620",
-      "title": "samuel-613",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 66,
-      "language": "Yiddish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4759544",
-      "title": "Caleb",
-      "year": 2015,
-      "imdbRating": 6.5,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5792646",
-      "title": "Parallels",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7619542",
-      "title": "Petals on the wind",
-      "year": 2015,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1780962",
-      "title": "Room 712",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021387",
-      "title": "The Skull Murder Mystery",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045200",
-      "title": "The Stranger Left No Card",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3319920",
-      "title": "Regression",
-      "year": 2015,
-      "imdbRating": 5.6,
-      "imdbVotes": 44155,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt3450900",
-      "title": "The Sea of Trees",
-      "year": 2015,
-      "imdbRating": 6.1,
-      "imdbVotes": 19365,
-      "language": "English, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt2889500",
+    "tt2376386",
+    "tt0003803",
+    "tt4331620",
+    "tt4759544",
+    "tt5792646",
+    "tt7619542",
+    "tt1780962",
+    "tt0021387",
+    "tt0045200",
+    "tt3319920",
+    "tt3450900"
   ],
   "collections": [],
   "is_curated": true,

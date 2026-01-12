@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-saphead",
+      "id": "silent-the-saphead",
       "title": "The Saphead",
       "fileSize": 8266153792,
-      "id": "silent-the-saphead"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-saphead",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 330
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/yorkmba99_hotmail_Vids",
+      "id": "yorkmba99_hotmail_Vids",
       "title": "\"The Saphead\" (1920) starring Buster Keaton",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"The Saphead\" is a comedy starring Buster Keaton. This was his first starring role in a full-length feature film. Buster Keaton is said to have been recommended for the role by Douglas Fairbanks, who had played the character on stage. \"The Saphead\" was a stepping stone on Buster Keaton's way to stardom. To enjoy fully \"The Saphead\" and avoid disappointment the viewers should know that the typical Buster Keaton that we know appears in the last 15 minutes of the film, when we can see him as the master of physical comedy in a series of amazing stunts. Directed by               Herbert Blaché Produced by             Metro Pictures Corporation Scenario by                June Mathis         Based on                    The Henrietta by Bronson Howard, The New Henrietta by Winchell Smith and Victor Mapes Starring                     Buster Keaton, Ernest Torrence, Marion Byron, Tom McGuire, Tom Lewis Cinematography        Harold Wenstrom Distributed by           Metro Pictures Corporation Release date               October 18, 1920 Running time             74 min. Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 1632421213,
-      "id": "yorkmba99_hotmail_Vids"
+      "addedAt": "2026-01-07T00:13:17.038Z",
+      "thumbnail": "https://archive.org/services/img/yorkmba99_hotmail_Vids",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 12710
     }
   ],
   "metadata": {
@@ -34,115 +44,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011960",
-      "title": "The Wildcat",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1336,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014497",
-      "title": "Souls for Sale",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 1133,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006826",
-      "title": "Hoodoo Ann",
-      "year": 1916,
-      "imdbRating": 5.9,
-      "imdbVotes": 903,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3101386",
-      "title": "The Christmas Spirit",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0011741",
+    "tt0010806",
+    "tt0011960",
+    "tt0012122",
+    "tt0012928",
+    "tt0014497",
+    "tt0006826",
+    "tt0032599",
+    "tt0027311",
+    "tt0033891",
+    "tt0027286",
+    "tt3101386"
   ],
   "collections": [],
   "is_curated": true,

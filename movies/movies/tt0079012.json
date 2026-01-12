@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Crossbar",
+      "id": "Crossbar",
       "title": "Crossbar",
       "description": "The story of an Olympic high jumper, played by Brent Carver, who loses his leg and yet doggedly persists in his pursuit of athletic glory.",
       "fileSize": 594049805,
-      "id": "Crossbar"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/Crossbar",
+      "collection": "feature_films",
+      "downloads": 11183
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/crossbar-1979",
+      "id": "crossbar-1979",
       "title": "Crossbar (1979)",
       "description": "The story of an Olympic high jumper, played by Brent Carver, who loses his leg and yet doggedly persists in his pursuit of athletic glory. Released a year before Terry Fox's Marathon of Hope, this made-for-Canadian-TV movie, which also stars Sex and the City's Kim Cattrall, has been described as a tear-jerker. Watch on RetroFlix:  https://retroflix.org/crossbar-1979/",
       "fileSize": 233845518,
-      "id": "crossbar-1979"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/crossbar-1979",
+      "language": "eng",
+      "year": 1979,
+      "collection": "feature_films",
+      "downloads": 614
     }
   ],
   "metadata": {
@@ -35,119 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0081434",
-      "title": "Rodeo Girl",
-      "year": 1980,
-      "imdbRating": 6.1,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0073092",
-      "title": "Hard Times",
-      "year": 1975,
-      "imdbRating": 7.2,
-      "imdbVotes": 13226,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0073758",
-      "title": "Strike Force",
-      "year": 1975,
-      "imdbRating": 4.2,
-      "imdbVotes": 251,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079999",
-      "title": "The Theme",
-      "year": 1979,
-      "imdbRating": 7.3,
-      "imdbVotes": 601,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0079944",
-      "title": "Stalker",
-      "year": 1979,
-      "imdbRating": 8,
-      "imdbVotes": 153633,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0079020",
-      "title": "Que Viva Mexico",
-      "year": 1979,
-      "imdbRating": 7.4,
-      "imdbVotes": 1912,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0039204",
-      "title": "Body and Soul",
-      "year": 1947,
-      "imdbRating": 7.6,
-      "imdbVotes": 5514,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt19800090",
-      "title": "Breaking the Ice",
-      "year": 2022,
-      "imdbRating": 6,
-      "imdbVotes": 377,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041239",
-      "title": "Champion",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 4948,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079082",
-      "title": "The Driller Killer",
-      "year": 1979,
-      "imdbRating": 5.2,
-      "imdbVotes": 8774,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033681",
-      "title": "Das große Spiel",
-      "year": 1942,
-      "imdbRating": 5.5,
-      "imdbVotes": 56,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042005",
-      "title": "Under My Skin",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 393,
-      "language": "English, Italian, French",
-      "sourceType": "archive.org"
-    }
+    "tt0081434",
+    "tt0073092",
+    "tt0073758",
+    "tt0079999",
+    "tt0079944",
+    "tt0079020",
+    "tt0039204",
+    "tt19800090",
+    "tt0041239",
+    "tt0079082",
+    "tt0033681",
+    "tt0042005"
   ],
   "collections": [],
   "is_curated": true,

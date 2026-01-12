@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Honey-final",
+      "id": "Honey-final",
       "title": "Honey",
       "description": "Final (quicktime) version of Honey, a film by David Ball. For details, please see the Honey homepage .",
       "fileSize": 2266783993,
-      "id": "Honey-final"
+      "addedAt": "2026-01-07T00:06:30.619Z",
+      "thumbnail": "https://archive.org/services/img/Honey-final",
+      "year": 2004,
+      "collection": "feature_films",
+      "downloads": 66558
     }
   ],
   "metadata": {
@@ -27,123 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0350146",
-      "title": "SpiderBabe",
-      "year": 2003,
-      "imdbRating": 4.3,
-      "imdbVotes": 812,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0441263",
-      "title": "The White Dragon",
-      "year": 2004,
-      "imdbRating": 5.5,
-      "imdbVotes": 1168,
-      "language": "Cantonese, Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0346811",
-      "title": "The Curse of the Komodo",
-      "year": 2004,
-      "imdbRating": 3,
-      "imdbVotes": 1758,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6032364",
-      "title": "MEAD",
-      "year": 2022,
-      "imdbRating": 3.3,
-      "imdbVotes": 297,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1705773",
-      "title": "Mega Shark vs. Crocosaurus",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 5081,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0346525",
-      "title": "Arizona Summer",
-      "year": 2004,
-      "imdbRating": 4.6,
-      "imdbVotes": 290,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0070233",
-      "title": "Ivan Vasilyevich Changes His Profession",
-      "year": 1973,
-      "imdbRating": 8.2,
-      "imdbVotes": 19477,
-      "language": "Russian, German",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0393136",
-      "title": "Cerebral Print: File #0604",
-      "year": 2003,
-      "imdbRating": 8.5,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0404756",
-      "title": "Alien Apocalypse",
-      "year": 2005,
-      "imdbRating": 4.4,
-      "imdbVotes": 4447,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0457489",
-      "title": "Star Wars: Revelations",
-      "year": 2005,
-      "imdbRating": 5,
-      "imdbVotes": 1134,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0350146",
+    "tt0843873",
+    "tt0441263",
+    "tt0346811",
+    "tt6032364",
+    "tt2130142",
+    "tt1705773",
+    "tt0346525",
+    "tt0070233",
+    "tt0393136",
+    "tt0404756",
+    "tt0457489"
   ],
   "collections": [],
   "is_curated": true,

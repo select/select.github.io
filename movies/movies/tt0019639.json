@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/andreas-hofer_1929",
+      "id": "andreas-hofer_1929",
       "title": "Andreas Hofer",
       "fileSize": 5757812523,
-      "id": "andreas-hofer_1929"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/andreas-hofer_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 82
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174450",
-      "title": "Africa Speaks!",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 143,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0250464",
-      "title": "Kastus Kalinovskiy",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019532",
-      "title": "The Viking",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 468,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017667",
-      "title": "The Beloved Rogue",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044466",
-      "title": "California Conquest",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044936",
-      "title": "Mutiny",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 538,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055867",
-      "title": "Constantine and the Cross",
-      "year": 1961,
-      "imdbRating": 5.8,
-      "imdbVotes": 585,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058605",
-      "title": "Spartacus and the Ten Gladiators",
-      "year": 1964,
-      "imdbRating": 4.3,
-      "imdbVotes": 271,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013182",
-      "title": "The Glorious Adventure",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020109",
-      "title": "The Lost Zeppelin",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020030",
+    "tt0174450",
+    "tt0250464",
+    "tt0019532",
+    "tt0017667",
+    "tt0003740",
+    "tt0044466",
+    "tt0044936",
+    "tt0055867",
+    "tt0058605",
+    "tt0013182",
+    "tt0020109"
   ],
   "collections": [],
   "is_curated": true,

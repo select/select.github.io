@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1940-unser-fraulein-doktor-jenny-jugo-heinz-salfner-albert-matterstock-hans-richter",
+      "id": "1940-unser-fraulein-doktor-jenny-jugo-heinz-salfner-albert-matterstock-hans-richter",
       "title": "1940 Unser Fräulein Doktor ( Jenny Jugo, Heinz Salfner, Albert Matterstock, Hans Richter)",
       "description": "Film aus dem deutschen dritten Reich von 1940. Unser Fräulein Doktor.  U.a mit Jenny Jugo und Albert Matterstock ",
       "fileSize": 947127021,
-      "id": "1940-unser-fraulein-doktor-jenny-jugo-heinz-salfner-albert-matterstock-hans-richter"
+      "addedAt": "2026-01-07T00:06:02.058Z",
+      "thumbnail": "https://archive.org/services/img/1940-unser-fraulein-doktor-jenny-jugo-heinz-salfner-albert-matterstock-hans-richter",
+      "language": "ger",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 161
     }
   ],
   "metadata": {
@@ -27,108 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035518",
-      "title": "Viel Lärm um Nixi",
-      "year": 1942,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030425",
-      "title": "Der Maulkorb",
-      "year": 1938,
-      "imdbRating": 7.1,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141753",
-      "title": "Pygmalion",
-      "year": 1935,
-      "imdbRating": 7.2,
-      "imdbVotes": 28,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035628",
-      "title": "Altes Herz wird wieder jung",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036797",
-      "title": "Es lebe die Liebe",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028922",
-      "title": "Gefährliches Spiel",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132621",
-      "title": "Wer küßt Madeleine?",
-      "year": 1939,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130357",
-      "title": "Was will Brigitte?",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031446",
-      "title": "Hotel Sacher",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 69,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030172",
-      "title": "Gastspiel im Paradies",
-      "year": 1938,
-      "imdbRating": 7.1,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030445",
-      "title": "Unsere kleine Frau",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 10,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0035518",
+    "tt0030425",
+    "tt0141753",
+    "tt0035628",
+    "tt0036797",
+    "tt0028922",
+    "tt0132621",
+    "tt0130357",
+    "tt0031446",
+    "tt0030172",
+    "tt0030445",
+    "tt0032599"
   ],
   "collections": [],
   "is_curated": true,

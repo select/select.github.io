@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/City_Limits_1934",
+      "id": "City_Limits_1934",
       "title": "City Limits",
       "description": "After falling from a train, a railroad magnate spends time as a hobo.",
       "fileSize": 1428460962,
-      "id": "City_Limits_1934"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/City_Limits_1934",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 7280
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=M_XHi7eP_Ok",
+      "id": "M_XHi7eP_Ok",
       "title": "City Limits (1934) COMEDY",
       "description": "Stars: Frank Craven, Ray Walker, Sally Blane\nDirector: William Nigh\n\nThe wealthy president of a big railroad, meets up with a pair of hobos from whom he starts to learn how to really enjoy life in ways he never knew were possible.",
-      "id": "M_XHi7eP_Ok",
+      "addedAt": "2025-12-26T23:46:53.823Z",
+      "thumbnail": "https://i.ytimg.com/vi/M_XHi7eP_Ok/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDWpYKV8Gq6jyXLcMVnthFpqwfrGA",
+      "duration": 3904,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027063",
-      "title": "Sweepstake Annie",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028662",
-      "title": "A Bride for Henry",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025355",
-      "title": "Krach um Jolanthe",
-      "year": 1934,
-      "imdbRating": 7.4,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025094",
-      "title": "Evergreen",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025349",
-      "title": "King Kelly of the U.S.A.",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025463",
-      "title": "Manhattan Love Song",
-      "year": 1934,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025809",
-      "title": "Something Always Happens",
-      "year": 1934,
-      "imdbRating": 6.4,
-      "imdbVotes": 289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025681",
-      "title": "The Private Life of Don Juan",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 752,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026019",
-      "title": "Young and Beautiful",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025316",
-      "title": "It Happened One Night",
-      "year": 1934,
-      "imdbRating": 8.1,
-      "imdbVotes": 116995,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027063",
+    "tt0028662",
+    "tt0024808",
+    "tt0025355",
+    "tt0025094",
+    "tt0025335",
+    "tt0025349",
+    "tt0025463",
+    "tt0025809",
+    "tt0025681",
+    "tt0026019",
+    "tt0025316"
   ],
   "collections": [],
   "is_curated": true,

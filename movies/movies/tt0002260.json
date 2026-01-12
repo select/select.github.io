@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-how-a-mosquito-operates",
+      "id": "silent-how-a-mosquito-operates",
       "title": "How a Mosquito Operates",
       "fileSize": 123442927,
-      "id": "silent-how-a-mosquito-operates"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-how-a-mosquito-operates",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 817
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004008",
-      "title": "Gertie the Dinosaur",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 3733,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009620",
-      "title": "The Sinking of the 'Lusitania'",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 1323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003784",
-      "title": "Colonel Heeza Liar's African Hunt",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126879",
-      "title": "Dreams of the Rarebit Fiend: Bug Vaudeville",
-      "year": 1921,
-      "imdbRating": 5.7,
-      "imdbVotes": 377,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012123",
-      "title": "Dreams of the Rarebit Fiend: The Pet",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 437,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126913",
-      "title": "Flip's Circus",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009996",
-      "title": "The Centaurs",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 480,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0004008",
+    "tt0126926",
+    "tt0009620",
+    "tt0001527",
+    "tt0131024",
+    "tt0003784",
+    "tt0139938",
+    "tt0126879",
+    "tt0012123",
+    "tt0126913",
+    "tt0009996",
+    "tt0432623"
   ],
   "collections": [
     {

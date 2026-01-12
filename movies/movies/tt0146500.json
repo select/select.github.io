@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-bomb-idea",
+      "id": "silent-the-bomb-idea",
       "title": "The Bomb Idea",
       "fileSize": 156957361,
-      "id": "silent-the-bomb-idea"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-bomb-idea",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 478
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011129",
-      "title": "Down the Mississippi",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 42,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011192",
-      "title": "Flapjacks",
-      "year": 1920,
-      "imdbVotes": 11,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147583",
-      "title": "The Tale of a Wag",
-      "year": 1920,
-      "imdbRating": 5.2,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147731",
-      "title": "The Wrong Track",
-      "year": 1920,
-      "imdbRating": 7.8,
-      "imdbVotes": 25,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10359784",
-      "title": "Bobby Bumps in Their Master's Voice",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012620",
-      "title": "Rhythmus 21",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 1485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126879",
-      "title": "Dreams of the Rarebit Fiend: Bug Vaudeville",
-      "year": 1921,
-      "imdbRating": 5.7,
-      "imdbVotes": 377,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012123",
-      "title": "Dreams of the Rarebit Fiend: The Pet",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 437,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141008",
-      "title": "Feline Follies",
-      "year": 1919,
-      "imdbRating": 6.1,
-      "imdbVotes": 468,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126913",
-      "title": "Flip's Circus",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140434",
-      "title": "Lichtspiel Opus 1.",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 991,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0011129",
+    "tt0011192",
+    "tt0147583",
+    "tt0147731",
+    "tt10359784",
+    "tt0012620",
+    "tt0126879",
+    "tt0012123",
+    "tt0141008",
+    "tt0126913",
+    "tt0126926",
+    "tt0140434"
   ],
   "collections": [],
   "is_curated": true,

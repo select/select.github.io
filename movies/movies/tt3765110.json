@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LesOeufsDePaques",
+      "id": "LesOeufsDePaques",
       "title": "Les Oeufs de Paques",
       "description": "Easter Eggs by Segundo de Chomón",
       "fileSize": 40166280,
-      "id": "LesOeufsDePaques"
+      "addedAt": "2026-01-07T00:06:38.750Z",
+      "thumbnail": "https://archive.org/services/img/LesOeufsDePaques",
+      "language": "French",
+      "year": 1907,
+      "collection": "feature_films",
+      "downloads": 26123
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1059291",
-      "title": "Prussian Culture",
-      "year": 1908,
-      "imdbRating": 5.3,
-      "imdbVotes": 245,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1168660",
-      "title": "Whaling Afloat and Ashore",
-      "year": 1908,
-      "imdbRating": 6.3,
-      "imdbVotes": 96,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234922",
-      "title": "Trial Marriages",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3658844",
-      "title": "Tôkyô ozumo katsudô shashin",
-      "year": 1907,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249454",
-      "title": "A Race for a Monkey",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1845834",
-      "title": "Medium Wanted as Son-in-Law",
-      "year": 1909,
-      "imdbRating": 4.7,
-      "imdbVotes": 8,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5328220",
-      "title": "Marvellous Melbourne",
-      "year": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3473502",
-      "title": "Marines Drilling on an American Cruiser",
-      "year": 1906,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0257522",
-      "title": "A Day in the Life of a Coal Miner",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 288,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205480",
-      "title": "A Trip Down Market Street Before the Fire",
-      "year": 1906,
-      "imdbRating": 6.9,
-      "imdbVotes": 664,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1059291",
+    "tt1168660",
+    "tt3110548",
+    "tt0234922",
+    "tt3658844",
+    "tt0249454",
+    "tt1845834",
+    "tt0000537",
+    "tt5328220",
+    "tt3473502",
+    "tt0257522",
+    "tt0205480"
   ],
   "collections": [],
   "is_curated": true,

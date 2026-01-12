@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-nice-sa-majest-carnaval-et-le-char-des-limonadiers",
+      "id": "silent-nice-sa-majest-carnaval-et-le-char-des-limonadiers",
       "title": "Nice: Sa Majesté Carnaval et le char des Limonadiers",
       "fileSize": 28482666,
-      "id": "silent-nice-sa-majest-carnaval-et-le-char-des-limonadiers"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-nice-sa-majest-carnaval-et-le-char-des-limonadiers",
+      "language": "French",
+      "year": 1901,
+      "collection": "feature_films",
+      "downloads": 232
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1982752",
-      "title": "La Plage et la Mer",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 92,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982813",
-      "title": "Pau: La Terrasse",
-      "year": 1901,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982644",
-      "title": "Cirque de Gavarni: Caravane",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 81,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982795",
-      "title": "Nice: Panorama sur la ligne de Baulieu à Monaco",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471071",
-      "title": "Alfred Butterworth and Sons, Glebe Mills, Hollinwood",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0360454",
-      "title": "Captain Nissen Going Through Whirlpool Rapids, Niagara Falls",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 187,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982637",
-      "title": "Chamonix: Arrivée en voitures des breaks d'excursion",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 222,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982638",
-      "title": "Chamonix: Le Mauvais Pas",
-      "year": 1901,
-      "imdbRating": 5.3,
-      "imdbVotes": 236,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471134",
-      "title": "Cunard Vessel at Liverpool",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000410",
-      "title": "Demolishing and Building Up the Star Theatre",
-      "year": 1901,
-      "imdbRating": 6.7,
-      "imdbVotes": 1123,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0359274",
-      "title": "Fireman Rescuing Men and Women",
-      "year": 1901,
-      "imdbRating": 5.1,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477309",
-      "title": "High Diving Scene",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 156,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1982752",
+    "tt1982813",
+    "tt1982644",
+    "tt1982795",
+    "tt0471071",
+    "tt0360454",
+    "tt1982637",
+    "tt1982638",
+    "tt0471134",
+    "tt0000410",
+    "tt0359274",
+    "tt0477309"
   ],
   "collections": [],
   "is_curated": true,

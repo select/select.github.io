@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-labors-reward",
+      "id": "silent-labors-reward",
       "title": "Labor's Reward",
       "fileSize": 227908295,
-      "id": "silent-labors-reward"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-labors-reward",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 302
     }
   ],
   "metadata": {
@@ -26,106 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5773760",
-      "title": "Kyra",
-      "year": 2017,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0257676",
-      "title": "A Fire in a Burlesque Theatre",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 268,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1059291",
-      "title": "Prussian Culture",
-      "year": 1908,
-      "imdbRating": 5.3,
-      "imdbVotes": 245,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419034",
-      "title": "Passion Play: Christ Calling Zaccheus from the Tree",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6724510",
-      "title": "Classic Sci-Fi TV: 150 Episodes",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4247640",
-      "title": "Jazzmen",
-      "year": 2016,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0419883",
-      "title": "Kinken chochiku Shiobara Tasuke",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt1207008",
+    "tt0231716",
+    "tt5773760",
+    "tt0257676",
+    "tt1090274",
+    "tt1223220",
+    "tt1059291",
+    "tt1113818",
+    "tt0419034",
+    "tt6724510",
+    "tt4247640",
+    "tt0419883"
   ],
   "collections": [],
   "is_curated": true,

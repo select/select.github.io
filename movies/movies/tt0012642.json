@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-sailor-made-man",
+      "id": "silent-a-sailor-made-man",
       "title": "A Sailor-Made Man",
       "fileSize": 1265844635,
-      "id": "silent-a-sailor-made-man"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-sailor-made-man",
+      "language": "English",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 765
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011922",
-      "title": "Among Those Present",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013201",
-      "title": "Grandma's Boy",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 1999,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013674",
-      "title": "The Three Must-Get-Theres",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 645,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010146",
-      "title": "From Hand to Mouth",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014429",
-      "title": "Safety Last!",
-      "year": 1923,
-      "imdbRating": 8.1,
-      "imdbVotes": 23503,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012303",
-      "title": "I Do",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 833,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015163",
-      "title": "The Navigator",
-      "year": 1924,
-      "imdbRating": 7.5,
-      "imdbVotes": 11273,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011144",
-      "title": "An Eastern Westerner",
-      "year": 1920,
-      "imdbRating": 6.8,
-      "imdbVotes": 1759,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015772",
-      "title": "The Eagle",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 2212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014611",
-      "title": "Why Worry?",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 2102,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0012499",
+    "tt0011922",
+    "tt0013201",
+    "tt0013674",
+    "tt0010146",
+    "tt0014429",
+    "tt0012303",
+    "tt0015163",
+    "tt0011144",
+    "tt0015772",
+    "tt0014611",
+    "tt0023243"
   ],
   "collections": [],
   "is_curated": true,

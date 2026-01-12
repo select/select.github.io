@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Prison_Train_1938",
+      "id": "Prison_Train_1938",
       "title": "Prison Train",
       "description": "He's in so much danger from murderous thugs that Alcatraz seems inviting.",
       "fileSize": 1395863554,
-      "id": "Prison_Train_1938"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/Prison_Train_1938",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 10012
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=CIgXH6ypEss",
+      "id": "CIgXH6ypEss",
       "title": "Prison Train (1938) CRIME DRAMA",
       "description": "Stars: Fred Keating, Linda Winters, Clarence Muse\nDirector: Gordon Wiles\n\nThis 1930's gangland drama stars Dorothy Comingore, using the alias Linda Winters. The first time Comingore was billed under her real name was when she played Orson Welles' wife in CITIZEN KANE.",
-      "id": "CIgXH6ypEss",
+      "addedAt": "2025-12-26T23:47:41.593Z",
+      "thumbnail": "https://i.ytimg.com/vi/CIgXH6ypEss/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAApADigIMCAAQARhjIGMoYzAP&rs=AOn4CLDiQfdXK-9EbAF3ZiW_QGcGHeLJaw",
+      "duration": 3782,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039410",
-      "title": "The Gangster",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 1090,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028589",
-      "title": "Assassin of Youth",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259235",
-      "title": "The Case of the Frightened Lady",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030049",
-      "title": "Delinquent Parents",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030169",
-      "title": "Gangs of New York",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030353",
-      "title": "Law of the Underworld",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030378",
-      "title": "Little Tough Guy",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031678",
-      "title": "Mr. Moto's Last Warning",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 1464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030473",
-      "title": "Mr. Wong, Detective",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 1262,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    }
+    "tt0039410",
+    "tt0028589",
+    "tt0259235",
+    "tt0030037",
+    "tt0030049",
+    "tt0030168",
+    "tt0030169",
+    "tt0030323",
+    "tt0030353",
+    "tt0030378",
+    "tt0031678",
+    "tt0030473"
   ],
   "collections": [],
   "is_curated": true,

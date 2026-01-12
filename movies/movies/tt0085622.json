@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-grey-fox-1982",
+      "id": "the-grey-fox-1982",
       "title": "The Grey Fox (1982)",
       "description": "The Grey Fox is a Canadian film released in 1982 , directed by Philip Borsos . Based on the true story of Bill Miner , a skilled stagecoach robber, it explores his life after a lengthy incarceration and his attempts to adapt to a rapidly changing world.The film begins in 1901 , after Miner (played by Richard Farnsworth ) is released from prison after serving 33 years . He initially struggles to adjust to the modern world, which is vastly different from the Wild West he once knew. Determined to return to his old ways, he successfully executes a railway heist and goes on the run in British Columbia . During his flight, he develops a romantic relationship with Katherine Flynn (played by Jackie Burroughs ), a progressive photographer.",
       "fileSize": 1631532289,
-      "id": "the-grey-fox-1982"
+      "addedAt": "2026-01-07T00:12:10.587Z",
+      "thumbnail": "https://archive.org/services/img/the-grey-fox-1982",
+      "language": "eng",
+      "year": 1982,
+      "collection": "feature_films",
+      "downloads": 198
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "12 wins & 9 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0086891",
-      "title": "Anatomy of an Illness",
-      "year": 1984,
-      "imdbRating": 6.4,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087553",
-      "title": "The Killing Fields",
-      "year": 1984,
-      "imdbRating": 7.8,
-      "imdbVotes": 61830,
-      "language": "English, French, Central Khmer, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0045473",
-      "title": "Admiral Ushakov",
-      "year": 1953,
-      "imdbRating": 7.3,
-      "imdbVotes": 224,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0060107",
-      "title": "Andrei Rublev",
-      "year": 1966,
-      "imdbRating": 8,
-      "imdbVotes": 58379,
-      "language": "Russian, Italian, Tatar",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0024966",
-      "title": "Chapaev",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 1461,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266425",
-      "title": "Conspiracy",
-      "year": 2001,
-      "imdbRating": 7.6,
-      "imdbVotes": 28545,
-      "language": "English, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033451",
-      "title": "Carl Peters",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9071322",
-      "title": "Dark Waters",
-      "year": 2019,
-      "imdbRating": 7.6,
-      "imdbVotes": 118173,
-      "language": "English, Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007801",
-      "title": "Cleopatra",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 413,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053800",
-      "title": "Esther and the King",
-      "year": 1960,
-      "imdbRating": 5.5,
-      "imdbVotes": 883,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041437",
-      "title": "Guilty of Treason",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0086891",
+    "tt0087553",
+    "tt1441953",
+    "tt0045473",
+    "tt0060107",
+    "tt0024966",
+    "tt0266425",
+    "tt0033451",
+    "tt9071322",
+    "tt0007801",
+    "tt0053800",
+    "tt0041437"
   ],
   "collections": [],
   "is_curated": true,

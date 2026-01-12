@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-last-escape-1970",
+      "id": "the-last-escape-1970",
       "title": "The Last Escape (1970) Stuart Whitman, John Collin",
       "description": "During the final days of World War II, an Allied commando team races toward a German rocket base to abduct a German scientist before the quickly advancing Soviet troops can reach him.",
       "fileSize": 1377327257,
-      "id": "the-last-escape-1970"
+      "addedAt": "2026-01-07T00:12:10.590Z",
+      "thumbnail": "https://archive.org/services/img/the-last-escape-1970",
+      "language": "eng",
+      "year": 1970,
+      "collection": "feature_films",
+      "downloads": 175
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0064571",
-      "title": "Eagles Over London",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 845,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064110",
-      "title": "The Bridge at Remagen",
-      "year": 1969,
-      "imdbRating": 6.7,
-      "imdbVotes": 10987,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062688",
-      "title": "Attack on the Iron Coast",
-      "year": 1968,
-      "imdbRating": 5.5,
-      "imdbVotes": 803,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062819",
-      "title": "Commandos",
-      "year": 1968,
-      "imdbRating": 5.4,
-      "imdbVotes": 1083,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062886",
-      "title": "The Devil's Brigade",
-      "year": 1968,
-      "imdbRating": 6.7,
-      "imdbVotes": 6603,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057811",
-      "title": "633 Squadron",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4879,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067551",
-      "title": "Paper Man",
-      "year": 1971,
-      "imdbRating": 5.9,
-      "imdbVotes": 498,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067847",
-      "title": "They Call It Murder",
-      "year": 1971,
-      "imdbRating": 5.5,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025011",
-      "title": "Crimson Romance",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 181,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036516",
-      "title": "We Dive at Dawn",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 1709,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048966",
-      "title": "Attack",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 6042,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050252",
-      "title": "China Gate",
-      "year": 1957,
-      "imdbRating": 6.2,
-      "imdbVotes": 967,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0064571",
+    "tt0064110",
+    "tt0062688",
+    "tt0062819",
+    "tt0062886",
+    "tt0057811",
+    "tt0067551",
+    "tt0067847",
+    "tt0025011",
+    "tt0036516",
+    "tt0048966",
+    "tt0050252"
   ],
   "collections": [],
   "is_curated": true,

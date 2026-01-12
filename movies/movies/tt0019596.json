@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WonInTheClouds",
+      "id": "WonInTheClouds",
       "title": "Won In The Clouds",
       "description": "Early aviation barnstormer Al Wilson became an acttion star in silent movies with films like this, using a simple adventure story about stolen diamonds in Africa to support loads of bi-plane action.",
       "fileSize": 6231045431,
-      "id": "WonInTheClouds"
+      "addedAt": "2026-01-07T00:07:18.436Z",
+      "thumbnail": "https://archive.org/services/img/WonInTheClouds",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 68113
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/won-in-the-clouds-1928",
+      "id": "won-in-the-clouds-1928",
       "title": "Won in the Clouds (1928)",
       "description": "A Swahili village is affected by disease. The nearby diamond mine is using this as an excuse not to ship diamonds back to HQ in South Africa. The mine president has sent a doctor, his beautiful daughter and her caregiver to find out what is going on and to cure the natives. They are travelling on foot. To speed things up the president sends his ace flyer up... Watch on RetroFlix:  https://retroflix.org/won-in-the-clouds-1928/",
       "fileSize": 326398764,
-      "id": "won-in-the-clouds-1928"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/won-in-the-clouds-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 53
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0129928",
-      "title": "The Flying Ace",
-      "year": 1926,
-      "imdbRating": 6.1,
-      "imdbVotes": 296,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021792",
-      "title": "Defenders of the Law",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0214714",
-      "title": "Get That Girl",
-      "year": 1932,
-      "imdbRating": 4.7,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026772",
-      "title": "The New Adventures of Tarzan",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 450,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049962",
-      "title": "Blonde Bait",
-      "year": 1956,
-      "imdbRating": 5.4,
-      "imdbVotes": 181,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029952",
-      "title": "Bulldog Drummond's Peril",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173742",
-      "title": "Confessions of a Vice Baron",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045668",
-      "title": "Dance Hall Racket",
-      "year": 1953,
-      "imdbRating": 3.4,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031207",
-      "title": "Daredevils of the Red Circle",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2101341",
-      "title": "Dead Man Down",
-      "year": 2013,
-      "imdbRating": 6.4,
-      "imdbVotes": 71274,
-      "language": "English, French, Albanian, Spanish, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050249",
-      "title": "Chicago Confidential",
-      "year": 1957,
-      "imdbRating": 6.1,
-      "imdbVotes": 597,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0129928",
+    "tt0021792",
+    "tt0214714",
+    "tt0026772",
+    "tt0049962",
+    "tt0033426",
+    "tt0029952",
+    "tt0173742",
+    "tt0045668",
+    "tt0031207",
+    "tt2101341",
+    "tt0050249"
   ],
   "collections": [],
   "is_curated": true,

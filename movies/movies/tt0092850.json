@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deadtime-stories-1986",
+      "id": "deadtime-stories-1986",
       "title": "Deadtime Stories",
       "description": "A babysitting uncle tells his charges three horror stories - about a killer witch, Little Red Riding Hood and a werewolf, and \"Goldi Lox\" and the three bears.",
       "fileSize": 1743534812,
-      "id": "deadtime-stories-1986"
+      "addedAt": "2026-01-07T00:07:59.605Z",
+      "thumbnail": "https://archive.org/services/img/deadtime-stories-1986",
+      "collection": "feature_films",
+      "downloads": 6184
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deadtime-stories-1986_202401",
+      "id": "deadtime-stories-1986_202401",
       "title": "Deadtime Stories (1986)",
       "description": "A babysitting uncle tells his charges three horror stories: about a killer witch; Little Red Riding Hood and a werewolf; and Goldi Lox and the three bears. Watch on RetroFlix:  https://retroflix.org/deadtime-stories-1986/",
       "fileSize": 1743421155,
-      "id": "deadtime-stories-1986_202401"
+      "addedAt": "2026-01-07T00:07:59.605Z",
+      "thumbnail": "https://archive.org/services/img/deadtime-stories-1986_202401",
+      "language": "eng",
+      "year": 1986,
+      "collection": "feature_films",
+      "downloads": 1784
     }
   ],
   "metadata": {
@@ -35,117 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0091364",
-      "title": "Courier",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 6488,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0262883",
-      "title": "Le voyage dans la lune",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 343,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029322",
-      "title": "Nothing Sacred",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 7569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035938",
-      "title": "The Ghost and the Guest",
-      "year": 1943,
-      "imdbRating": 4.5,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026854",
-      "title": "The Passing of the Third Floor Back",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042472",
-      "title": "For Heaven's Sake",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091269",
-      "title": "Los insomnes",
-      "year": 1986,
-      "imdbRating": 7.4,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071867",
-      "title": "Mr. Sycamore",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 192,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066181",
-      "title": "On a Clear Day You Can See Forever",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 4505,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14717832",
-      "title": "Franky Five Star",
-      "year": 2023,
-      "imdbVotes": 71,
-      "language": "German, Finnish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2547172",
-      "title": "Larry Gaye: Renegade Male Flight Attendant",
-      "year": 2015,
-      "imdbRating": 4.5,
-      "imdbVotes": 1583,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0042546",
-      "title": "Harvey",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 60260,
-      "language": "English, Spanish, Latin",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0091364",
+    "tt0262883",
+    "tt0029322",
+    "tt0035938",
+    "tt0026854",
+    "tt0042472",
+    "tt0091269",
+    "tt0071867",
+    "tt0066181",
+    "tt14717832",
+    "tt2547172",
+    "tt0042546"
   ],
   "collections": [],
   "is_curated": true,

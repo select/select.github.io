@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/security-risk-1954",
+      "id": "security-risk-1954",
       "title": "Security Risk (1954)",
       "description": "John Ireland, Dorothy Malone, Keith Larsen",
       "fileSize": 1121904871,
-      "id": "security-risk-1954"
+      "addedAt": "2026-01-07T00:10:40.955Z",
+      "thumbnail": "https://archive.org/services/img/security-risk-1954",
+      "collection": "feature_films",
+      "downloads": 606
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044796",
-      "title": "Kid Monk Baroni",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045463",
-      "title": "The 49th Man",
-      "year": 1953,
-      "imdbRating": 5.9,
-      "imdbVotes": 208,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048072",
-      "title": "Finger Man",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047365",
-      "title": "Prince Valiant",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 3037,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046719",
-      "title": "Apache",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 5298,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047013",
-      "title": "Garden of Evil",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 4159,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047073",
-      "title": "Hell and High Water",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 2417,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047475",
-      "title": "The Shanghai Story",
-      "year": 1954,
-      "imdbRating": 5.8,
-      "imdbVotes": 225,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0171344",
-      "title": "Girl Gang",
-      "year": 1954,
-      "imdbRating": 4.6,
-      "imdbVotes": 367,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0046969",
-      "title": "The Fast and the Furious",
-      "year": 1954,
-      "imdbRating": 5.3,
-      "imdbVotes": 1707,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045465",
-      "title": "99 River Street",
-      "year": 1953,
-      "imdbRating": 7.4,
-      "imdbVotes": 3579,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045563",
-      "title": "Blowing Wild",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 1291,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0044796",
+    "tt0045463",
+    "tt0048072",
+    "tt0047365",
+    "tt0046719",
+    "tt0047013",
+    "tt0047073",
+    "tt0047475",
+    "tt0171344",
+    "tt0046969",
+    "tt0045465",
+    "tt0045563"
   ],
   "collections": [],
   "is_curated": true,

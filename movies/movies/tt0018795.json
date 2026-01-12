@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-cossacks_1928",
+      "id": "the-cossacks_1928",
       "title": "The Cossacks",
       "fileSize": 2527524288,
-      "id": "the-cossacks_1928"
+      "addedAt": "2026-01-07T00:11:57.683Z",
+      "thumbnail": "https://archive.org/services/img/the-cossacks_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 308
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018750",
-      "title": "Carry on, Sergeant!",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018862",
-      "title": "Caucasian Love",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 182,
-      "language": "None, Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018909",
-      "title": "Four Sons",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 923,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019098",
-      "title": "Lilac Time",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020223",
-      "title": "Noah's Ark",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 1019,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019286",
-      "title": "Storm Over Asia",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2356,
-      "language": "Russian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019071",
-      "title": "The Last Command",
-      "year": 1928,
-      "imdbRating": 7.9,
-      "imdbVotes": 4676,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017623",
-      "title": "Am Rande der Welt",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 76,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019649",
-      "title": "Arsenal",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 2374,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0015624",
+    "tt0018750",
+    "tt0018862",
+    "tt0018909",
+    "tt0018990",
+    "tt0019098",
+    "tt0020223",
+    "tt0019286",
+    "tt0019071",
+    "tt0020602",
+    "tt0017623",
+    "tt0019649"
   ],
   "collections": [],
   "is_curated": true,

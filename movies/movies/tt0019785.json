@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/condemned-1929-",
+      "id": "condemned-1929-",
       "title": "Condemned! (1929)",
       "description": "Ronald Colman, Ann Harding",
       "fileSize": 1229826973,
-      "id": "condemned-1929-"
+      "addedAt": "2026-01-07T00:07:51.624Z",
+      "thumbnail": "https://archive.org/services/img/condemned-1929-",
+      "collection": "feature_films",
+      "downloads": 1599
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/condemned-1929_202506",
+      "id": "condemned-1929_202506",
       "title": "Condemned (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. A film that likely would have annoyed censors at the time, Condemned follows a thief at a penal colony who manages to attract romantic attention from the warden's wife. While reviews for the picture were solid, the box office was mediocre, and the film was soon forgotten as anything but a solid role for Oscar nominee Ronald Colman. ",
       "fileSize": 1270870230,
-      "id": "condemned-1929_202506"
+      "addedAt": "2026-01-07T00:07:51.624Z",
+      "thumbnail": "https://archive.org/services/img/condemned-1929_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 72
     }
   ],
   "metadata": {
@@ -35,116 +45,18 @@
     "Awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020458",
-      "title": "Street Girl",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 487,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019735",
-      "title": "Bulldog Drummond",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 1369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020258",
-      "title": "Paris Bound",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020806",
-      "title": "Danger Lights",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021374",
-      "title": "The Silver Horde",
-      "year": 1930,
-      "imdbRating": 5.8,
-      "imdbVotes": 610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020629",
-      "title": "All Quiet on the Western Front",
-      "year": 1930,
-      "imdbRating": 8.1,
-      "imdbVotes": 70816,
-      "language": "English, French, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019451",
-      "title": "Tempest",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 545,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021281",
-      "title": "Raffles",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 1169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019304",
-      "title": "The Racket",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 1515,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022523",
-      "title": "The Unholy Garden",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0311138",
-      "title": "Flashing Oars",
-      "year": 1927,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020458",
+    "tt0019979",
+    "tt0019735",
+    "tt0020258",
+    "tt0020806",
+    "tt0021374",
+    "tt0020629",
+    "tt0019451",
+    "tt0021281",
+    "tt0019304",
+    "tt0022523",
+    "tt0311138"
   ],
   "collections": [],
   "is_curated": true,

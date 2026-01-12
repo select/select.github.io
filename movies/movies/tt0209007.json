@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-gustave-est-mdium",
+      "id": "silent-gustave-est-mdium",
       "title": "Gustave est médium",
       "fileSize": 356778514,
-      "id": "silent-gustave-est-mdium"
+      "addedAt": "2026-01-07T00:10:59.118Z",
+      "thumbnail": "https://archive.org/services/img/silent-gustave-est-mdium",
+      "language": "French",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 380
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0209091",
-      "title": "Lagourdette, gentleman cambrioleur",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759500",
-      "title": "Le bonnet à poil",
-      "year": 1907,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381908",
-      "title": "A Bear, a Boy and a Dog",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012224",
-      "title": "The Goat",
-      "year": 1921,
-      "imdbRating": 7.7,
-      "imdbVotes": 5206,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012253",
-      "title": "Hard Luck",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 2701,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012570",
-      "title": "The Play House",
-      "year": 1921,
-      "imdbRating": 7.4,
-      "imdbVotes": 4767,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011984",
-      "title": "The Boat",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3698,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012255",
-      "title": "The Haunted House",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 3791,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012278",
-      "title": "The 'High Sign'",
-      "year": 1921,
-      "imdbRating": 7.6,
-      "imdbVotes": 3670,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011922",
-      "title": "Among Those Present",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011949",
-      "title": "Be Reasonable",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0209091",
+    "tt0759500",
+    "tt0381908",
+    "tt0012224",
+    "tt0012253",
+    "tt0012499",
+    "tt0012570",
+    "tt0011984",
+    "tt0012255",
+    "tt0012278",
+    "tt0011922",
+    "tt0011949"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_contender",
+      "id": "the_contender",
       "title": "Contender, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4853071672,
-      "id": "the_contender"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_contender",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 6942
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_contender_ipod",
+      "id": "the_contender_ipod",
       "title": "The Contender",
       "description": "Widower Gary Farrell can't afford, on his $45-weekly salary as a truck driver, to send his young son, Mickey, to a high-priced military school and decides to enter heavyweight-boxing tournament in an effort to win the $500 prize money.",
       "fileSize": 1219883404,
-      "id": "the_contender_ipod"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_contender_ipod",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 99669
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=dQiw1a6ej5Q",
+      "id": "dQiw1a6ej5Q",
       "title": "The Contender (1944) FIGHT FILM",
       "description": "Stars: Buster Crabbe, Arline Judge, Julie Gibson\nDirector: Sam Newfield\n\nA widower-truck driver enters heavyweight-boxing match to win prize money to send his young son a high-priced military school.",
-      "id": "dQiw1a6ej5Q",
+      "addedAt": "2025-12-26T23:58:03.231Z",
+      "thumbnail": "https://i.ytimg.com/vi/dQiw1a6ej5Q/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhdIF0oXTAP&rs=AOn4CLAh_fy35lRbblZP0RbkYXpHQTSI0A",
+      "duration": 3736,
+      "language": "en",
+      "year": 1944,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035231",
-      "title": "Queen of Broadway",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037115",
-      "title": "Nabonga",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 656,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037728",
-      "title": "Gangster's Den",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037798",
-      "title": "I Accuse My Parents",
-      "year": 1944,
-      "imdbRating": 2.6,
-      "imdbVotes": 3106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035784",
-      "title": "Dead Men Walk",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 1713,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037847",
-      "title": "The Kid Sister",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035231",
+    "tt0037115",
+    "tt0035723",
+    "tt0035804",
+    "tt0035908",
+    "tt0037728",
+    "tt0036074",
+    "tt0035106",
+    "tt0037798",
+    "tt0033391",
+    "tt0035784",
+    "tt0037847"
   ],
   "collections": [],
   "is_curated": true,

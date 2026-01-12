@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-scarlet-lady-1928",
+      "id": "the-scarlet-lady-1928",
       "title": "The Scarlet Lady (1928)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. this once-lost film is the first synchronized sound film ever released by Columbia Pictures. It follows a Russian revolutionary who works for a Russian prince. Her and the prince eventually fall in love, however, just as the Russian Civil War is reaching its climax. This was star Lya De Putti's final American film before her death.",
       "fileSize": 27564601106,
-      "id": "the-scarlet-lady-1928"
+      "addedAt": "2026-01-07T00:12:22.158Z",
+      "thumbnail": "https://archive.org/services/img/the-scarlet-lady-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 88
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018037",
-      "title": "The Jazz Singer",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 11586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017667",
-      "title": "The Beloved Rogue",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018218",
-      "title": "Old San Francisco",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018566",
-      "title": "When a Man Loves",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 422,
-      "language": "English, German, French",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0016804",
-      "title": "Don Juan",
-      "year": 1926,
-      "imdbRating": 7,
-      "imdbVotes": 1007,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018854",
-      "title": "Drums of Love",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026438",
-      "title": "The Great Impersonation",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009737",
-      "title": "The Unbeliever",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 144,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021147",
-      "title": "The Mighty",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020025",
-      "title": "The Informer",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018118",
-      "title": "The Loves of Carmen",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018037",
+    "tt0017667",
+    "tt0018218",
+    "tt0018566",
+    "tt0016804",
+    "tt0018854",
+    "tt0026438",
+    "tt0009737",
+    "tt0019765",
+    "tt0021147",
+    "tt0020025",
+    "tt0018118"
   ],
   "collections": [],
   "is_curated": true,

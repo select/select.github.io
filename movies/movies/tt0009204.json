@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-house-of-hate",
+      "id": "silent-the-house-of-hate",
       "title": "The House of Hate",
       "fileSize": 1153877609,
-      "id": "silent-the-house-of-hate"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-house-of-hate",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 656
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004465",
-      "title": "The Perils of Pauline",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 1106,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011387",
-      "title": "The Last of the Mohicans",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1472,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020806",
-      "title": "Danger Lights",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022826",
-      "title": "Docks of San Francisco",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032670",
-      "title": "Kit Carson",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 694,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022206",
-      "title": "Night Beat",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013607",
-      "title": "Sky High",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004635",
-      "title": "The Squaw Man",
-      "year": 1914,
-      "imdbRating": 5.7,
-      "imdbVotes": 1035,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003734",
-      "title": "By the Sun's Rays",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 281,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024055",
-      "title": "The Ghoul",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 3369,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0004465",
+    "tt0011387",
+    "tt0020806",
+    "tt0022826",
+    "tt0021820",
+    "tt0032670",
+    "tt0022206",
+    "tt0027845",
+    "tt0013607",
+    "tt0004635",
+    "tt0003734",
+    "tt0024055"
   ],
   "collections": [],
   "is_curated": true,

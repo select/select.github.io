@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-wizard-of-oz_1927",
+      "id": "the-wizard-of-oz_1927",
       "title": "The Wizard of Oz",
       "fileSize": 3289927272,
-      "id": "the-wizard-of-oz_1927"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-wizard-of-oz_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 1777
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OliverHardyTheWizardOfOz1925",
+      "id": "OliverHardyTheWizardOfOz1925",
       "title": "The Wizard Of Oz 1925 with Oliver Hardy",
       "description": "1925 remastered version with blue tint staring oliver hardy with sound Young Dorothy (Dorothy Dwan), a farm girl from Kansas, discovers that she's actually Princess Dorothea, the royal heir to a faraway kingdom called Oz. Suddenly, a powerful tornado whisks Dorothy, her uncle Henry (Frank Alexander) and three farmhands to the magical kingdom. There Dorothy is hailed as the queen of the land by all except authoritarian Prime Minister Kruel (Joseph Swickard), who casts a curse on Dorothy in an attempt maintain his dictatorial reign.",
       "fileSize": 1614179836,
-      "id": "OliverHardyTheWizardOfOz1925"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OliverHardyTheWizardOfOz1925",
+      "language": "eng",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 40234
     }
   ],
   "metadata": {
@@ -34,116 +45,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0268266",
-      "title": "The Dome Doctor",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024852",
-      "title": "March of the Wooden Soldiers",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 7666,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0440877",
-      "title": "Tischlein deck dich, Eselein streck dich, Knüppel aus dem Sack",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 50,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036696",
-      "title": "The Canterville Ghost",
-      "year": 1944,
-      "imdbRating": 6.9,
-      "imdbVotes": 3442,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0044762",
-      "title": "Jack and the Beanstalk",
-      "year": 1952,
-      "imdbRating": 5.8,
-      "imdbVotes": 3741,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029201",
-      "title": "The Man Who Could Work Miracles",
-      "year": 1936,
-      "imdbRating": 6.9,
-      "imdbVotes": 1563,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040068",
-      "title": "Abbott and Costello Meet Frankenstein",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 20804,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015559",
-      "title": "Alice Wins the Derby",
-      "year": 1925,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015563",
-      "title": "Alice's Egg Plant",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043562",
-      "title": "Francis Goes to the Races",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 580,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046995",
-      "title": "Francis Joins the WACS",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015841",
-      "title": "The Freshman",
-      "year": 1925,
-      "imdbRating": 7.5,
-      "imdbVotes": 6373,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0268266",
+    "tt0024852",
+    "tt0440877",
+    "tt0036696",
+    "tt0044762",
+    "tt0029201",
+    "tt0040068",
+    "tt0015559",
+    "tt0015563",
+    "tt0043562",
+    "tt0046995",
+    "tt0015841"
   ],
   "collections": [],
   "is_curated": true,

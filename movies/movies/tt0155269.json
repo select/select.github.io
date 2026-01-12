@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/three-brothers-1944",
+      "id": "three-brothers-1944",
       "title": "Three Brothers (1944)",
       "description": "Three Brothers is part of the Private Snafu series of animated shorts produced by Warner Bros. during World War II. Screened for troops in September 1944, the cartoon was directed by Friz Freleng and features the familiar voice of Mel Blanc. Watch on RetroFlix.org:  https://retroflix.org/three-brothers-1944/",
       "fileSize": 14547518,
-      "id": "three-brothers-1944"
+      "addedAt": "2026-01-07T00:12:44.284Z",
+      "thumbnail": "https://archive.org/services/img/three-brothers-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 137
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036874",
-      "title": "Goldilocks and the Jivin' Bears",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155186",
-      "title": "Snafuperman",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154549",
-      "title": "Gripes",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154616",
-      "title": "Hot Spot",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154979",
-      "title": "Operation Snafu",
-      "year": 1945,
-      "imdbRating": 5.5,
-      "imdbVotes": 122,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036264",
-      "title": "Pigs in a Polka",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 1094,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155126",
-      "title": "Rumors",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035872",
-      "title": "The Fifth-Column Mouse",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 423,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036546",
-      "title": "Yankee Doodle Daffy",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 1412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034654",
-      "title": "Ding Dog Daddy",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034744",
-      "title": "Foney Fables",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 507,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034756",
-      "title": "Fresh Hare",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 839,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036874",
+    "tt0155186",
+    "tt0154549",
+    "tt0154616",
+    "tt0154979",
+    "tt0036264",
+    "tt0155126",
+    "tt0035872",
+    "tt0036546",
+    "tt0034654",
+    "tt0034744",
+    "tt0034756"
   ],
   "collections": [],
   "is_curated": true,

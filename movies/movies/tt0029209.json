@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ManhattanMerryGoRound",
+      "id": "ManhattanMerryGoRound",
       "title": "Manhattan Merry-Go-Round",
       "description": "Leo Carrillo turns in a hilarious performance as mob boss Tony Gordoni, who takes over a New York record company and proceeds to strong-arm singing stars into signing with the label.",
       "fileSize": 1632038363,
-      "id": "ManhattanMerryGoRound"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/ManhattanMerryGoRound",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 10635
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032132",
-      "title": "Winter Carnival",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028260",
-      "title": "Sitting on the Moon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022789",
-      "title": "Crooner",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016643",
-      "title": "The Better 'Ole",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 311,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025513",
-      "title": "Money Means Nothing",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025678",
-      "title": "Alexandra",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031313",
-      "title": "Fisherman's Wharf",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 113,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt3480060",
-      "title": "Cold Iron Is a Titanic Comedy",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020828",
-      "title": "Dixiana",
-      "year": 1930,
-      "imdbRating": 5.2,
-      "imdbVotes": 440,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029225",
-      "title": "Mein Sohn, der Herr Minister",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071112",
-      "title": "El albañil",
-      "year": 1975,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168801",
-      "title": "For Valour",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 33,
-      "language": "Afrikaans, English",
-      "sourceType": "archive.org"
-    }
+    "tt0032132",
+    "tt0028260",
+    "tt0022789",
+    "tt0016643",
+    "tt0025513",
+    "tt0025678",
+    "tt0031313",
+    "tt3480060",
+    "tt0020828",
+    "tt0029225",
+    "tt0071112",
+    "tt0168801"
   ],
   "collections": [],
   "is_curated": true,

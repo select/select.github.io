@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PreviewTheOathAndTheMan",
+      "id": "PreviewTheOathAndTheMan",
       "title": "\"The Oath And The Man\" (1910) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"The Oath and the Man\" is a short drama directed by D.W. Griffith.  The film is included in our program to illustrate the work of cinematographer Billy Bitzer, a star of Silent Hall of Fame. Just before the French Revolution a common man loses his wife when she leaves him for a nobleman. When the mobs take charge the man has a chance for revenge. Directed by                       D.W. Griffith Cinematography by         Billy Bitzer Starring                             Henry B. Walthall, Florence Barker, W. Chrystie Miller, Francis J. Grandon Distributed by                   Biograph Company Release date                      September 22, 1910 Country                             United States Running time                    11 m.   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 13267279,
-      "id": "PreviewTheOathAndTheMan"
+      "addedAt": "2026-01-07T00:06:45.467Z",
+      "thumbnail": "https://archive.org/services/img/PreviewTheOathAndTheMan",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 862
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheOathAndTheMan",
+      "id": "TheOathAndTheMan",
       "title": "The Oath and the Man",
       "description": "The Oath and the Man was directed by D W Griffith in 1910. Griffith is often out of his depth when he goes far back in history. Herein he trivializes the French revolution. Before you criticize him, though, remember he was making two or three of these a week. If you get a few laughs, you will be laughing at it not with it",
       "fileSize": 256669091,
-      "id": "TheOathAndTheMan"
+      "addedAt": "2026-01-07T00:07:05.034Z",
+      "thumbnail": "https://archive.org/services/img/TheOathAndTheMan",
+      "collection": "feature_films",
+      "downloads": 3958
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001207",
-      "title": "Faithful",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 137,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001245",
-      "title": "Her Terrible Ordeal",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001262",
-      "title": "In Life's Cycle",
-      "year": 1910,
-      "imdbRating": 5.2,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001401",
-      "title": "The Sorrows of the Unfaithful",
-      "year": 1910,
-      "imdbRating": 6.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001388",
-      "title": "Rose o' Salem Town",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001284",
-      "title": "The Lesson",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 53,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001407",
-      "title": "Sunshine Sue",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001351",
-      "title": "Over Silent Paths",
-      "year": 1910,
-      "imdbRating": 6,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001256",
-      "title": "The House with Closed Shutters",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 590,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001050",
-      "title": "A Strange Meeting",
-      "year": 1909,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001207",
+    "tt0001245",
+    "tt0001262",
+    "tt0001401",
+    "tt0001371",
+    "tt0001388",
+    "tt0001284",
+    "tt0001407",
+    "tt0001351",
+    "tt0001256",
+    "tt0001032",
+    "tt0001050"
   ],
   "collections": [],
   "is_curated": true,

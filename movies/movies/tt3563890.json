@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_6061_201701",
+      "id": "dipwad2_zoho_6061_201701",
       "title": "606",
       "description": "606 ",
       "fileSize": 2521674403,
-      "id": "dipwad2_zoho_6061_201701"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_6061_201701",
+      "collection": "feature_films",
+      "downloads": 1580
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_6062",
+      "id": "dipwad2_zoho_6062",
       "title": "606",
       "description": "606 ",
       "fileSize": 2126137709,
-      "id": "dipwad2_zoho_6062"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_6062",
+      "collection": "feature_films",
+      "downloads": 1191
     }
   ],
   "metadata": {
@@ -34,105 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2413496",
-      "title": "Shackled",
-      "year": 2012,
-      "imdbRating": 5.4,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3560948",
-      "title": "8, 366, 615 (New York)",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4290988",
-      "title": "Blood Brothers",
-      "year": 2014,
-      "imdbRating": 5.4,
-      "imdbVotes": 29,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6387680",
-      "title": "417",
-      "year": 2016,
-      "language": "Thai",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt31478284",
-      "title": "705",
-      "year": 2012,
-      "language": "Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002208",
-      "title": "The Girl and Her Trust",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 1279,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3593922",
-      "title": "Room 618",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0437960",
-      "title": "Les dents de fer",
-      "year": 1913,
-      "imdbRating": 6.8,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4295286",
-      "title": "The Hybrid",
-      "year": 2014,
-      "imdbRating": 3.7,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4007092",
-      "title": "Thru Traffic",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3496970",
-      "title": "Our Bed",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt2413496",
+    "tt3560948",
+    "tt4290988",
+    "tt1763178",
+    "tt6387680",
+    "tt31478284",
+    "tt0002208",
+    "tt3593922",
+    "tt0437960",
+    "tt4295286",
+    "tt4007092",
+    "tt3496970"
   ],
   "collections": [],
   "is_curated": true,

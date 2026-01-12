@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-chechahcos",
+      "id": "silent-the-chechahcos",
       "title": "The Chechahcos",
       "fileSize": 1962457207,
-      "id": "silent-the-chechahcos"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-chechahcos",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 364
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0197903",
-      "title": "Something New",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 347,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011779",
-      "title": "The Toll Gate",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010726",
-      "title": "The Spiders - Episode 1: The Golden Sea",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1563,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032111",
-      "title": "Wasser für Canitoga",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 123,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014112",
-      "title": "Haldane of the Secret Service",
-      "year": 1923,
-      "imdbRating": 5.2,
-      "imdbVotes": 160,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032959",
-      "title": "Queen of the Yukon",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133813",
-      "title": "The Grub Stake",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066049",
-      "title": "A Man Called Horse",
-      "year": 1970,
-      "imdbRating": 6.8,
-      "imdbVotes": 9898,
-      "language": "English, Sioux, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046808",
-      "title": "Broken Lance",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 4472,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065988",
-      "title": "Little Big Man",
-      "year": 1970,
-      "imdbRating": 7.5,
-      "imdbVotes": 39376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1160018",
-      "title": "Prairie Fever",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0197903",
+    "tt0011779",
+    "tt0010726",
+    "tt0042383",
+    "tt0032111",
+    "tt0014112",
+    "tt0032959",
+    "tt0133813",
+    "tt0066049",
+    "tt0046808",
+    "tt0065988",
+    "tt1160018"
   ],
   "collections": [
     {

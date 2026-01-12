@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/all-this-and-rabbit-stew-1941",
+      "id": "all-this-and-rabbit-stew-1941",
       "title": "All This and Rabbit Stew (1941)",
       "description": "All This and Rabbit Stew is a 1941 Merrie Melodies cartoon directed by Tex Avery. The cartoon was released on September 13, 1941, and features Bugs Bunny. Watch on RetroFlix.org:  https://retroflix.org/all-this-and-rabbit-stew-1941/",
       "fileSize": 21546845,
-      "id": "all-this-and-rabbit-stew-1941"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/all-this-and-rabbit-stew-1941",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 1214
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031213",
-      "title": "A Day at the Zoo",
-      "year": 1939,
-      "imdbRating": 6.9,
-      "imdbVotes": 536,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031401",
-      "title": "Hamateur Night",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 411,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034050",
-      "title": "Porky's Preview",
-      "year": 1941,
-      "imdbRating": 6.7,
-      "imdbVotes": 527,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033693",
-      "title": "The Haunted Mouse",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 247,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032426",
-      "title": "The Early Worm Gets the Bird",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037831",
-      "title": "Jerky Turkey",
-      "year": 1945,
-      "imdbRating": 6.8,
-      "imdbVotes": 659,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031552",
-      "title": "Land of the Midnight Fun",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030606",
-      "title": "Porky the Gob",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 182,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030280",
-      "title": "The Isle of Pingo Pongo",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035414",
-      "title": "A Tale of Two Kitties",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034675",
-      "title": "The Dover Boys at Pimento University or The Rivals of Roquefort Hall",
-      "year": 1942,
-      "imdbRating": 7.1,
-      "imdbVotes": 1888,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035527",
-      "title": "The Wabbit Who Came to Supper",
-      "year": 1942,
-      "imdbRating": 7.1,
-      "imdbVotes": 1178,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031213",
+    "tt0031401",
+    "tt0034050",
+    "tt0033693",
+    "tt0032426",
+    "tt0037831",
+    "tt0031552",
+    "tt0030606",
+    "tt0030280",
+    "tt0035414",
+    "tt0034675",
+    "tt0035527"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/apache-1954",
+      "id": "apache-1954",
       "title": "Apache (1954) Burt Lancaster · Jean Peters",
       "description": "A Western about the last Apache warrior (1886), who becomes a peaceful farmer after a tragic battle against the whites. At the heart of this quiet, meticulously directed Western is an interesting character study. The happy ending was imposed on Aldrich by the producer.",
       "fileSize": 3477189962,
-      "id": "apache-1954"
+      "addedAt": "2026-01-07T00:07:25.000Z",
+      "thumbnail": "https://archive.org/services/img/apache-1954",
+      "language": "eng",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 294
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0047647",
-      "title": "Vera Cruz",
-      "year": 1954,
-      "imdbRating": 7,
-      "imdbVotes": 12340,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070030",
-      "title": "Emperor of the North",
-      "year": 1973,
-      "imdbRating": 7.2,
-      "imdbVotes": 7444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048966",
-      "title": "Attack",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 6042,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047365",
-      "title": "Prince Valiant",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 3037,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047013",
-      "title": "Garden of Evil",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 4159,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047073",
-      "title": "Hell and High Water",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 2417,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045563",
-      "title": "Blowing Wild",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 1291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045783",
-      "title": "Fort Algiers",
-      "year": 1953,
-      "imdbRating": 5.4,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046286",
-      "title": "Sea Devils",
-      "year": 1953,
-      "imdbRating": 5.6,
-      "imdbVotes": 809,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046368",
-      "title": "The Steel Lady",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 365,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044333",
-      "title": "Against All Flags",
-      "year": 1952,
-      "imdbRating": 6.5,
-      "imdbVotes": 3038,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044371",
-      "title": "Arctic Flight",
-      "year": 1952,
-      "imdbRating": 5.4,
-      "imdbVotes": 162,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0047647",
+    "tt0070030",
+    "tt0048966",
+    "tt0047365",
+    "tt0047013",
+    "tt0047073",
+    "tt0045563",
+    "tt0045783",
+    "tt0046286",
+    "tt0046368",
+    "tt0044333",
+    "tt0044371"
   ],
   "collections": [],
   "is_curated": true,

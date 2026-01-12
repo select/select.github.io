@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-fruhlingsluft-magda-schneider-wolf-albach-retty-fritz-odemar-hilde-von-stolz-rudolf-platte",
+      "id": "1938-fruhlingsluft-magda-schneider-wolf-albach-retty-fritz-odemar-hilde-von-stolz-rudolf-platte",
       "title": "1938 Frühlingsluft ( Magda Schneider, Wolf Albach Retty, Fritz Odemar, Hilde Von Stolz, Rudolf Platte)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Frühlingsluft.  U.a mit Magda Schneider und Wolf Albach Retty ",
       "fileSize": 877280945,
-      "id": "1938-fruhlingsluft-magda-schneider-wolf-albach-retty-fritz-odemar-hilde-von-stolz-rudolf-platte"
+      "addedAt": "2026-01-07T00:06:02.056Z",
+      "thumbnail": "https://archive.org/services/img/1938-fruhlingsluft-magda-schneider-wolf-albach-retty-fritz-odemar-hilde-von-stolz-rudolf-platte",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 122
     }
   ],
   "metadata": {
@@ -26,101 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029110",
-      "title": "Die Landstreicher",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129948",
-      "title": "Pat und Patachon im Paradies",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138182",
-      "title": "Vor Liebe wird gewarnt",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0241030",
-      "title": "Das verliebte Hotel",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030211",
-      "title": "Der Hampelmann",
-      "year": 1938,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029142",
-      "title": "Liebling der Matrosen",
-      "year": 1937,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031375",
-      "title": "Das Glück wohnt nebenan",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249712",
-      "title": "Die Liebe des Maharadscha",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033258",
-      "title": "Wie konntest Du, Veronika!",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131414",
-      "title": "Das große Abenteuer",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0029110",
+    "tt0129948",
+    "tt0138182",
+    "tt0241030",
+    "tt0030211",
+    "tt0129972",
+    "tt0029142",
+    "tt0031375",
+    "tt0028018",
+    "tt0249712",
+    "tt0033258",
+    "tt0131414"
   ],
   "collections": [],
   "is_curated": true,

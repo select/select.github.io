@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-roaring-rails",
+      "id": "silent-roaring-rails",
       "title": "Roaring Rails",
       "fileSize": 1120567094,
-      "id": "silent-roaring-rails"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-roaring-rails",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 427
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013592",
-      "title": "Shadows",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015331",
-      "title": "The Signal Tower",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 120,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013134",
-      "title": "Flesh and Blood",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015312",
-      "title": "Secrets",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014689",
-      "title": "The Average Woman",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014869",
-      "title": "The Enchanted Cottage",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 698,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014972",
-      "title": "He Who Gets Slapped",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 4606,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0013592",
+    "tt0015331",
+    "tt0013134",
+    "tt0014672",
+    "tt0015018",
+    "tt0014854",
+    "tt0015022",
+    "tt0015312",
+    "tt0014689",
+    "tt0014869",
+    "tt0014646",
+    "tt0014972"
   ],
   "collections": [],
   "is_curated": true,

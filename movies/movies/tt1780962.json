@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_712",
+      "id": "rog561b_netzero_712",
       "title": "712",
       "description": "712",
       "fileSize": 2895096473,
-      "id": "rog561b_netzero_712"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_712",
+      "collection": "feature_films",
+      "downloads": 540
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_712",
+      "id": "rog56_mail_712",
       "title": "712",
       "description": "712",
       "fileSize": 7590178647,
-      "id": "rog56_mail_712"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_712",
+      "collection": "feature_films",
+      "downloads": 4582
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_712_201605",
+      "id": "rog56_mail_712_201605",
       "title": "712",
       "description": "712",
       "fileSize": 2222070028,
-      "id": "rog56_mail_712_201605"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_712_201605",
+      "collection": "feature_films",
+      "downloads": 914
     }
   ],
   "metadata": {
@@ -42,108 +54,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2376386",
-      "title": "111",
-      "year": 2012,
-      "imdbRating": 7.7,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1779491",
-      "title": "The Accordion",
-      "year": 2010,
-      "imdbRating": 6.8,
-      "imdbVotes": 311,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2378045",
-      "title": "204",
-      "year": 2010,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1512093",
-      "title": "306",
-      "year": 2010,
-      "imdbRating": 6,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4229926",
-      "title": "411",
-      "year": 2015,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1699674",
-      "title": "My Happiness",
-      "year": 2010,
-      "imdbRating": 8.2,
-      "imdbVotes": 9,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1581787",
-      "title": "307",
-      "year": 2010,
-      "imdbRating": 8.6,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021387",
-      "title": "The Skull Murder Mystery",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045200",
-      "title": "The Stranger Left No Card",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt2376386",
+    "tt2889500",
+    "tt0003803",
+    "tt1779491",
+    "tt2378045",
+    "tt1512093",
+    "tt1763178",
+    "tt4229926",
+    "tt1699674",
+    "tt1581787",
+    "tt0021387",
+    "tt0045200"
   ],
   "collections": [],
   "is_curated": true,

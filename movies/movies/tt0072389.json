@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/warhead-1977_20240204",
+      "id": "warhead-1977_20240204",
       "title": "Warhead (1977)",
       "description": "A weapons expert is reluctantly sent on a mission to a middle-east warzone to locate a lost nuclear warhead and dismantle it before it falls into the wrong hands. But before he can complete his work, he is taken prisoner and thrust into the conflict, and finds himself looking out for more than just the warhead Watch on RetroFlix:  https://retroflix.org/warhead-1977/",
       "fileSize": 990592104,
-      "id": "warhead-1977_20240204"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/warhead-1977_20240204",
+      "language": "eng",
+      "year": 1977,
+      "collection": "feature_films",
+      "downloads": 319
     }
   ],
   "metadata": {
@@ -27,119 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0056085",
-      "title": "How the West Was Won",
-      "year": 1962,
-      "imdbRating": 7.1,
-      "imdbVotes": 24722,
-      "language": "English, Arapaho",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074166",
-      "title": "La aventura explosiva",
-      "year": 1977,
-      "imdbRating": 4.4,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035611",
-      "title": "The Adventures of Smilin' Jack",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 370,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0061578",
-      "title": "The Dirty Dozen",
-      "year": 1967,
-      "imdbRating": 7.7,
-      "imdbVotes": 82152,
-      "language": "English, German, French, Spanish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076294",
-      "title": "The Last Dinosaur",
-      "year": 1977,
-      "imdbRating": 5.3,
-      "imdbVotes": 993,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065207",
-      "title": "Where Eagles Dare",
-      "year": 1968,
-      "imdbRating": 7.6,
-      "imdbVotes": 66156,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076300",
-      "title": "Last of the Mohicans",
-      "year": 1977,
-      "imdbRating": 6.1,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034930",
-      "title": "Junior G-Men of the Air",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0062807",
-      "title": "Five for Hell",
-      "year": 1969,
-      "imdbRating": 5,
-      "imdbVotes": 688,
-      "language": "Italian, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt20114908",
-      "title": "WWII: Operation Phoenix",
-      "year": 2024,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2175927",
-      "title": "American Warships",
-      "year": 2012,
-      "imdbRating": 2.7,
-      "imdbVotes": 2461,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0056085",
+    "tt0074166",
+    "tt0035611",
+    "tt0061578",
+    "tt0076294",
+    "tt0065207",
+    "tt0076300",
+    "tt0034930",
+    "tt0062807",
+    "tt20114908",
+    "tt2130142",
+    "tt2175927"
   ],
   "collections": [],
   "is_curated": true,

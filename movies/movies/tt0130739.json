@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1943-die-goldene-spinne-otto-gebuhr-josef-sieber-rolf-weih-harald-paulsen",
+      "id": "1943-die-goldene-spinne-otto-gebuhr-josef-sieber-rolf-weih-harald-paulsen",
       "title": "1943 Die Goldene Spinne ( Otto Gebühr, Josef Sieber, Rolf Weih, Harald Paulsen)",
       "description": "Film aus dem deutschen dritten Reich von 1943. Die goldene Spinne.  U.a mit Josef Sieber,Otto Gebühr und Harald Paulsen ",
       "fileSize": 1242123307,
-      "id": "1943-die-goldene-spinne-otto-gebuhr-josef-sieber-rolf-weih-harald-paulsen"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1943-die-goldene-spinne-otto-gebuhr-josef-sieber-rolf-weih-harald-paulsen",
+      "language": "ger",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 199
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1943-Die-goldene-Spinne",
+      "id": "1943-Die-goldene-Spinne",
       "title": "1943 - Die goldene Spinne (1h 21m, 640x480)",
       "description": "1943 - Die goldene Spinne (1h 21m, 640x480)",
       "fileSize": 1477349804,
-      "id": "1943-Die-goldene-Spinne"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1943-Die-goldene-Spinne",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 25945
     }
   ],
   "metadata": {
@@ -35,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035608",
-      "title": "Action in the North Atlantic",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 4833,
-      "language": "English, German, Russian, Norwegian, French, Spanish, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035958",
-      "title": "'Gung Ho!': The Story of Carlson's Makin Island Raiders",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 1691,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036392",
-      "title": "The Flemish Farm",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036217",
-      "title": "The North Star",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 1832,
-      "language": "English, German, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036516",
-      "title": "We Dive at Dawn",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 1709,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035735",
-      "title": "China",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 662,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036037",
-      "title": "Immortal Sergeant",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 1046,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036323",
-      "title": "Sahara",
-      "year": 1943,
-      "imdbRating": 7.5,
-      "imdbVotes": 10173,
-      "language": "English, German, Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036170",
-      "title": "The Moon Is Down",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036474",
-      "title": "The Underdog",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0035608",
+    "tt0035958",
+    "tt0036392",
+    "tt0036217",
+    "tt0036516",
+    "tt0035735",
+    "tt0036037",
+    "tt0036323",
+    "tt0036170",
+    "tt0036474",
+    "tt0136209",
+    "tt0159476"
   ],
   "collections": [],
   "is_curated": true,

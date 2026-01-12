@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_716",
+      "id": "rog561b_netzero_716",
       "title": "716",
       "description": "716",
       "fileSize": 6064286704,
-      "id": "rog561b_netzero_716"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_716",
+      "collection": "feature_films",
+      "downloads": 1844
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_716",
+      "id": "rog56_mail_716",
       "title": "716",
       "description": "716",
       "fileSize": 2531007943,
-      "id": "rog56_mail_716"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_716",
+      "collection": "feature_films",
+      "downloads": 865
     }
   ],
   "metadata": {
@@ -34,97 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt12618064",
-      "title": "Buck Southworth: U.S. Air Force Flight Crew",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt14176766",
-      "title": "Marham",
-      "year": 2021,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12942442",
-      "title": "218",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt17493304",
-      "title": "The PragerU Story - Full Documentary",
-      "year": 2021,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt15401974",
-      "title": "Night Breakers",
-      "year": 2021,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt13845890",
-      "title": "Santa Con: The War on Christmas",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15749938",
-      "title": "Deadly Crossing",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt22244548",
-      "title": "Leer",
-      "year": 2022,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt18380900",
-      "title": "157",
-      "year": 2022,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12681346",
-      "title": "207",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9012126",
-      "title": "Rinse at 590",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16492800",
-      "title": "665",
-      "year": 2022,
-      "imdbVotes": 40,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt12618064",
+    "tt14176766",
+    "tt12942442",
+    "tt17493304",
+    "tt15401974",
+    "tt13845890",
+    "tt15749938",
+    "tt22244548",
+    "tt18380900",
+    "tt12681346",
+    "tt9012126",
+    "tt16492800"
   ],
   "collections": [],
   "is_curated": true,

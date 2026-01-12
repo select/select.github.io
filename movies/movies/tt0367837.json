@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Hemp_for_victory_1942",
+      "id": "Hemp_for_victory_1942",
       "title": "Hemp for Victory",
       "description": "US government propaganda film made during WWII touting the virtues of hemp. The film was aimed at farmers at a time when the miltary was facing a shortage of hemp, it shows how hemp is grown and processed into rope and other products. You can find more information regarding this film on its IMDb page .",
       "fileSize": 954474925,
-      "id": "Hemp_for_victory_1942"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/Hemp_for_victory_1942",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 200918
     }
   ],
   "metadata": {
@@ -27,105 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0812201",
-      "title": "Asse zur See",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184773",
-      "title": "The Nazis Strike",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 991,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183205",
-      "title": "How to Fly the P-47: Ground Handling, Take Off, Normal Flight",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1615446",
-      "title": "Don't Kill Your Friends",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155026",
-      "title": "Point Rationing of Foods",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0278820",
-      "title": "The Winged Scourge",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184967",
-      "title": "Troop Train",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0812201",
+    "tt13364232",
+    "tt0896825",
+    "tt12816892",
+    "tt0184773",
+    "tt0183205",
+    "tt12606824",
+    "tt1615446",
+    "tt0155026",
+    "tt0278820",
+    "tt0184967",
+    "tt0034498"
   ],
   "collections": [],
   "is_curated": true,

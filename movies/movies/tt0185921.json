@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bettina-1964",
+      "id": "bettina-1964",
       "title": "Bettina(1964)",
       "description": "Bettina  es una película en blanco y negro de  Argentina  dirigida por  Rubén W. Cavallotti  sobre el guion de  Joe Makia  y  Diego Santillán , según la obra de teatro de Joe Makia, que se estrenó el 27 de febrero de 1964 y tuvo como protagonistas a  Nora Cárpena ,  Enzo Viena ,  Sabina Olmos  y  Santiago Gómez Cou . Algunas escenas fueron filmadas en el desaparecido  Pasaje Seaver . (Wikipedia) Sinopsis La hija de una familia burguesa es seducida, embarazada y arrastrada a un sórdido ambiente Reparto Nora Cárpena Enzo Viena Sabina Olmos Santiago Gómez Cou Marty Cosens Orestes Soriani",
       "fileSize": 1038182780,
-      "id": "bettina-1964"
+      "addedAt": "2026-01-07T00:07:38.716Z",
+      "thumbnail": "https://archive.org/services/img/bettina-1964",
+      "language": "spa",
+      "year": 1964,
+      "collection": "feature_films",
+      "downloads": 77
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0186376",
-      "title": "Mujeres perdidas",
-      "year": 1964,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185958",
-      "title": "El bruto",
-      "year": 1962,
-      "imdbRating": 6.5,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186500",
-      "title": "El romance de un gaucho",
-      "year": 1961,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184342",
-      "title": "Cinco gallinas y el cielo",
-      "year": 1957,
-      "imdbRating": 7.5,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186179",
-      "title": "Gringalet",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186465",
-      "title": "Procesado 1040",
-      "year": 1958,
-      "imdbRating": 7.3,
-      "imdbVotes": 37,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0190807",
-      "title": "Subí que te llevo",
-      "year": 1980,
-      "imdbRating": 5.2,
-      "imdbVotes": 58,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186003",
-      "title": "Convención de vagabundos",
-      "year": 1965,
-      "imdbRating": 6,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0190426",
-      "title": "La gorda",
-      "year": 1966,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058604",
-      "title": "I Am Cuba",
-      "year": 1964,
-      "imdbRating": 8.2,
-      "imdbVotes": 11828,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0057811",
-      "title": "633 Squadron",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4879,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228438",
-      "title": "Iron Angel",
-      "year": 1964,
-      "imdbRating": 3.6,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0186376",
+    "tt0185958",
+    "tt0186500",
+    "tt0184342",
+    "tt0186179",
+    "tt0186465",
+    "tt0190807",
+    "tt0186003",
+    "tt0190426",
+    "tt0058604",
+    "tt0057811",
+    "tt0228438"
   ],
   "collections": [],
   "is_curated": true,

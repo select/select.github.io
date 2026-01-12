@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MoleMenAgainstTheSonofHercules",
+      "id": "MoleMenAgainstTheSonofHercules",
       "title": "Mole Men Against The Son of Hercules",
       "description": "One of the 14 Sons of Hercules movies. If someone has an MPEGII of this movie please upload it.",
       "fileSize": 2178127127,
-      "id": "MoleMenAgainstTheSonofHercules"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/MoleMenAgainstTheSonofHercules",
+      "collection": "feature_films",
+      "downloads": 75435
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0056211",
-      "title": "The Magic Sword",
-      "year": 1962,
-      "imdbRating": 4.8,
-      "imdbVotes": 2767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055867",
-      "title": "Constantine and the Cross",
-      "year": 1961,
-      "imdbRating": 5.8,
-      "imdbVotes": 585,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054924",
-      "title": "The Giant of Metropolis",
-      "year": 1961,
-      "imdbRating": 4.7,
-      "imdbVotes": 467,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061549",
-      "title": "Yongary, Monster from the Deep",
-      "year": 1967,
-      "imdbRating": 3.8,
-      "imdbVotes": 1746,
-      "language": "Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054851",
-      "title": "Hercules and the Captive Women",
-      "year": 1961,
-      "imdbRating": 4.4,
-      "imdbVotes": 1652,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054953",
-      "title": "The Guns of Navarone",
-      "year": 1961,
-      "imdbRating": 7.5,
-      "imdbVotes": 57924,
-      "language": "English, Greek, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054850",
-      "title": "Hercules in the Haunted World",
-      "year": 1961,
-      "imdbRating": 6.2,
-      "imdbVotes": 2478,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029162",
-      "title": "Lost Horizon",
-      "year": 1937,
-      "imdbRating": 7.6,
-      "imdbVotes": 14766,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4404296",
-      "title": "The Gatehouse",
-      "year": 2016,
-      "imdbRating": 4.8,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3159412",
-      "title": "Prairie Dog",
-      "year": 2015,
-      "imdbRating": 4,
-      "imdbVotes": 566,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0002130",
-      "title": "Dante's Inferno",
-      "year": 1911,
-      "imdbRating": 7,
-      "imdbVotes": 3638,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015174",
-      "title": "Die Nibelungen: Kriemhild's Revenge",
-      "year": 1924,
-      "imdbRating": 7.9,
-      "imdbVotes": 5147,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0056211",
+    "tt0055867",
+    "tt0054924",
+    "tt0061549",
+    "tt0054851",
+    "tt0054953",
+    "tt0054850",
+    "tt0029162",
+    "tt4404296",
+    "tt3159412",
+    "tt0002130",
+    "tt0015174"
   ],
   "collections": [],
   "is_curated": true,

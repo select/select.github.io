@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-alkali-ikes-auto",
+      "id": "silent-alkali-ikes-auto",
       "title": "Alkali Ike's Auto",
       "fileSize": 218212395,
-      "id": "silent-alkali-ikes-auto"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-alkali-ikes-auto",
+      "language": "English",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 283
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0373736",
-      "title": "Broncho Billy and the Schoolmistress",
-      "year": 1912,
-      "imdbRating": 5.4,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013494",
-      "title": "The Pest",
-      "year": 1922,
-      "imdbRating": 6.3,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1247273",
-      "title": "Princess Charming",
-      "year": 1911,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001660",
-      "title": "Her Crowning Glory",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 219,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0493625",
-      "title": "La doctoresse",
-      "year": 1911,
-      "imdbRating": 5,
-      "imdbVotes": 22,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0460831",
-      "title": "L'intrigante",
-      "year": 1911,
-      "imdbRating": 5.2,
-      "imdbVotes": 39,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001762",
-      "title": "Mrs. Pussy Loves Animals",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 82,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233368",
-      "title": "The Borrowed Flat",
-      "year": 1911,
-      "imdbRating": 4,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232811",
-      "title": "Tilly and the Fire Engines",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001941",
-      "title": "Troublesome Secretaries",
-      "year": 1911,
-      "imdbRating": 5,
-      "imdbVotes": 91,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0004028",
+    "tt0373736",
+    "tt0013494",
+    "tt1247273",
+    "tt0001660",
+    "tt0493625",
+    "tt0460831",
+    "tt0001762",
+    "tt0233368",
+    "tt0232811",
+    "tt0001941",
+    "tt0002133"
   ],
   "collections": [],
   "is_curated": true,

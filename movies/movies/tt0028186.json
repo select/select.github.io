@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RingAroundTheMoon",
+      "id": "RingAroundTheMoon",
       "title": "Ring Around the Moon",
       "description": "“A superior movie” “Donald Cook showcase” (IMDB reviews quotes). A compact Depression era romantic drama with a strong cast, sharp dialog, crisp direction and good production values for type. A lot of plot from two story lines is skillfully shoehorned into less than 70 minutes. Good print too. So what’s not to like? IMDB rating 6.4. Directed by Charles Lamont. Released in 1936. Complete print.",
       "fileSize": 1025127059,
-      "id": "RingAroundTheMoon"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RingAroundTheMoon",
+      "collection": "feature_films",
+      "downloads": 6210
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=PwDMB6oolao",
+      "id": "PwDMB6oolao",
       "title": "Ring Around the Moon (1936) ROMANCE",
       "description": "Stars: Donald Cook, Erin O'Brien-Moore, Ann Doran\nDirector: Charles Lamont\n\nA romantically confused news reporter is caught between the contrasting love affairs of a wealthy debutante and a working-class girl. Co-stars Ann Doran, best remembered as James Dean's mother in Rebel Without a Cause.",
-      "id": "PwDMB6oolao",
+      "addedAt": "2025-12-26T23:44:01.028Z",
+      "thumbnail": "https://i.ytimg.com/vi/PwDMB6oolao/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDorpVI-PD_R_3H5BVQX6hcV44CDA",
+      "duration": 4174,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027316",
-      "title": "August Weekend",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027896",
-      "title": "The Little Red Schoolhouse",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027501",
-      "title": "The Dark Hour",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027348",
-      "title": "Below the Deadline",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027863",
-      "title": "Lady Luck",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026213",
-      "title": "Circumstantial Evidence",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 112,
-      "language": "Latin, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029745",
-      "title": "Wallaby Jim of the Islands",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026412",
-      "title": "The Girl Who Came Back",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 80,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030273",
-      "title": "International Crime",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 503,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027026",
-      "title": "Sons of Steel",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025024",
-      "title": "The Curtain Falls",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027316",
+    "tt0027406",
+    "tt0027896",
+    "tt0027501",
+    "tt0027348",
+    "tt0027863",
+    "tt0026213",
+    "tt0029745",
+    "tt0026412",
+    "tt0030273",
+    "tt0027026",
+    "tt0025024"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/french-key-1946",
+      "id": "french-key-1946",
       "title": "French Key (1946)",
       "description": "Frank Gruber",
       "fileSize": 1065779640,
-      "id": "french-key-1946"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/french-key-1946",
+      "collection": "feature_films",
+      "downloads": 366
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038360",
-      "title": "Black Angel",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 4147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039496",
-      "title": "Intrigue",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 205,
-      "language": "Chinese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040797",
-      "title": "16 Fathoms Deep",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038529",
-      "title": "Flight to Nowhere",
-      "year": 1946,
-      "imdbRating": 4.3,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039730",
-      "title": "The Pretender",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 392,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037811",
-      "title": "Identity Unknown",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 387,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035070",
-      "title": "Mississippi Gambler",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035124",
-      "title": "Night Monster",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041904",
-      "title": "South Sea Sinner",
-      "year": 1950,
-      "imdbRating": 5.6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038574",
-      "title": "Great Expectations",
-      "year": 1946,
-      "imdbRating": 7.8,
-      "imdbVotes": 26805,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038360",
+    "tt0039496",
+    "tt0040797",
+    "tt0038529",
+    "tt0039730",
+    "tt0037811",
+    "tt0035317",
+    "tt0035070",
+    "tt0035124",
+    "tt0041904",
+    "tt0038574",
+    "tt0030037"
   ],
   "collections": [],
   "is_curated": true,

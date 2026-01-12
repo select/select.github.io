@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/accuracy-first_1928",
+      "id": "accuracy-first_1928",
       "title": "Accuracy First",
       "fileSize": 355217587,
-      "id": "accuracy-first_1928"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/accuracy-first_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 332
     }
   ],
   "metadata": {
@@ -26,109 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0309770",
-      "title": "The Keystone 'Patrician'",
-      "year": 1928,
-      "imdbRating": 5.1,
-      "imdbVotes": 70,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3112348",
-      "title": "Children in the Surf at Coney Island",
-      "year": 1904,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178341",
-      "title": "Coil Winding Machines",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0309770",
+    "tt5503754",
+    "tt0475080",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt1515754",
+    "tt3112348",
+    "tt0178341"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MutinyAhead",
+      "id": "MutinyAhead",
       "title": "Mutiny Ahead",
       "description": "Neil Hamilton plays a wealthy man-about-town who gets mixed up with gangsters and a search for hidden treasure.",
       "fileSize": 1237215205,
-      "id": "MutinyAhead"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MutinyAhead",
+      "collection": "feature_films",
+      "downloads": 4842
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026240",
-      "title": "Courage of the North",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025420",
-      "title": "The Lost Jungle",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025440",
-      "title": "The Lucky Texan",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 1429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025004",
-      "title": "The Count of Monte Cristo",
-      "year": 1934,
-      "imdbRating": 7.4,
-      "imdbVotes": 3376,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025969",
-      "title": "West of the Divide",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1095,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027718",
-      "title": "Happy-Go-Lucky",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023938",
-      "title": "Deluge",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 746,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030143",
-      "title": "Flying Fists",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029119",
-      "title": "The Last Train from Madrid",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024245",
-      "title": "Laughing at Life",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 116,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024663",
-      "title": "The Three Musketeers",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 485,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0026223",
+    "tt0026240",
+    "tt0025420",
+    "tt0025440",
+    "tt0025004",
+    "tt0025969",
+    "tt0027718",
+    "tt0023938",
+    "tt0030143",
+    "tt0029119",
+    "tt0024245",
+    "tt0024663"
   ],
   "collections": [],
   "is_curated": true,

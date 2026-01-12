@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1948-the-dark-past-cerco-de-odio-rudolph-mate-vose",
+      "id": "1948-the-dark-past-cerco-de-odio-rudolph-mate-vose",
       "title": "1948 - The Dark Past - Cerco de odio - Rudolph Maté - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 305347351,
-      "id": "1948-the-dark-past-cerco-de-odio-rudolph-mate-vose"
+      "addedAt": "2026-01-07T00:06:03.999Z",
+      "thumbnail": "https://archive.org/services/img/1948-the-dark-past-cerco-de-odio-rudolph-mate-vose",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 1741
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-dark-past-1948",
+      "id": "the-dark-past-1948",
       "title": "The Dark Past (1948)",
       "description": "A gang hold a family hostage in their own home. The leader of the escaped cons is bothered by a recurring dream that the doctor of the house may be able to analyze. Watch on RetroFlix.org: https://retroflix.org/the-dark-past-1948/",
       "fileSize": 500026665,
-      "id": "the-dark-past-1948"
+      "addedAt": "2026-01-07T00:11:57.683Z",
+      "thumbnail": "https://archive.org/services/img/the-dark-past-1948",
+      "language": "eng",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 223
     }
   ],
   "metadata": {
@@ -35,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043090",
-      "title": "Union Station",
-      "year": 1950,
-      "imdbRating": 6.8,
-      "imdbVotes": 2819,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042369",
-      "title": "D.O.A.",
-      "year": 1949,
-      "imdbRating": 7.2,
-      "imdbVotes": 13762,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040427",
-      "title": "He Walked by Night",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 6948,
-      "language": "English, Spanish, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0040887",
-      "title": "To the Ends of the Earth",
-      "year": 1948,
-      "imdbRating": 6.9,
-      "imdbVotes": 886,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040695",
-      "title": "Pitfall",
-      "year": 1948,
-      "imdbRating": 7.1,
-      "imdbVotes": 4707,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041733",
-      "title": "Parole, Inc.",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 421,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0041460",
-      "title": "The Hidden Room",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 3067,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042648",
-      "title": "Kiss Tomorrow Goodbye",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 2537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045780",
-      "title": "Forbidden",
-      "year": 1953,
-      "imdbRating": 6.3,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043503",
-      "title": "The Enforcer",
-      "year": 1951,
-      "imdbRating": 7.3,
-      "imdbVotes": 5749,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121515",
-      "title": "The Man with My Face",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039515",
-      "title": "Johnny O'Clock",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 2969,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0043090",
+    "tt0042369",
+    "tt0040427",
+    "tt0040887",
+    "tt0040695",
+    "tt0041733",
+    "tt0041460",
+    "tt0042648",
+    "tt0045780",
+    "tt0043503",
+    "tt0121515",
+    "tt0039515"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheHighCommand",
+      "id": "TheHighCommand",
       "title": "The High Command",
       "description": "A general (Lionel Atwill) of the old school, who believes strongly in his own honour and sense of duty, must come to terms with a crime he commited years earlier, during the Irish Rebellion in 1921.",
       "fileSize": 2015715307,
-      "id": "TheHighCommand"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheHighCommand",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 62278
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheHighCommand1937",
+      "id": "TheHighCommand1937",
       "title": "The High Command",
       "description": "Title: The High Command Summary: A general of the old school, who believes strongly in his own honour and sense of duty, must come to terms with a crime he commited years earlier, during the Irish War for Independence in 1921. Directed by: Thorold Dickinson Actors: Lionel Atwill, Lucie Mannheim, Steven Geray Production Company: Gordon Wellesley Productions Release Date: 15 July 1938 (USA) Aspect Ratio: 1.37 : 1 A general of the old school, who believes strongly in his own honour and sense of duty, must come to terms with a crime he commited years earlier, during the Irish War for Independence in 1921.",
       "fileSize": 619421021,
-      "id": "TheHighCommand1937"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheHighCommand1937",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 1301
     }
   ],
   "metadata": {
@@ -35,111 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029799",
-      "title": "The Wrong Road",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033531",
-      "title": "The Devil Pays Off",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 85,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031055",
-      "title": "The Arsenal Stadium Mystery",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 775,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029941",
-      "title": "Boy of the Streets",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028719",
-      "title": "Circus Girl",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028560",
-      "title": "Alarm in Peking",
-      "year": 1937,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029095",
-      "title": "Die Kronzeugin",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029112",
-      "title": "Larceny on the Air",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029528",
-      "title": "Sea Racketeers",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028943",
-      "title": "The Gold Racket",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029670",
-      "title": "Thunder in the City",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 436,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029811",
-      "title": "Young and Innocent",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 11597,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    }
+    "tt0029799",
+    "tt0033531",
+    "tt0031055",
+    "tt0029941",
+    "tt0028719",
+    "tt0028560",
+    "tt0029095",
+    "tt0029112",
+    "tt0029528",
+    "tt0028943",
+    "tt0029670",
+    "tt0029811"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Snowbeast_436",
+      "id": "Snowbeast_436",
       "title": "Snowbeast",
       "description": "A Colorado ski resort is besieged by a sub-human beast that commits brutal murders on the slopes. - IMDB Description",
       "fileSize": 2121309051,
-      "id": "Snowbeast_436"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/Snowbeast_436",
+      "year": 1977,
+      "collection": "feature_films",
+      "downloads": 248667
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/snowbeast-1977",
+      "id": "snowbeast-1977",
       "title": "Snowbeast (1977)",
       "description": "A skier and his wife visit a friend's ski resort during a man beast's rampage, and must hide from the impending danger. Watch on RetroFlix:  https://retroflix.org/snowbeast-1977/",
       "fileSize": 2622748148,
-      "id": "snowbeast-1977"
+      "addedAt": "2026-01-07T00:11:24.929Z",
+      "thumbnail": "https://archive.org/services/img/snowbeast-1977",
+      "language": "eng",
+      "year": 1977,
+      "collection": "feature_films",
+      "downloads": 622
     }
   ],
   "metadata": {
@@ -35,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0075820",
-      "title": "Cathy's Curse",
-      "year": 1977,
-      "imdbRating": 4.5,
-      "imdbVotes": 1367,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075990",
-      "title": "End of the World",
-      "year": 1977,
-      "imdbRating": 3.1,
-      "imdbVotes": 1255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080990",
-      "title": "Keep My Grave Open",
-      "year": 1977,
-      "imdbRating": 4.3,
-      "imdbVotes": 466,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076271",
-      "title": "Kingdom of the Spiders",
-      "year": 1977,
-      "imdbRating": 5.7,
-      "imdbVotes": 6411,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076630",
-      "title": "Rituals",
-      "year": 1977,
-      "imdbRating": 6.2,
-      "imdbVotes": 2997,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074486",
-      "title": "Eraserhead",
-      "year": 1977,
-      "imdbRating": 7.2,
-      "imdbVotes": 141140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076162",
-      "title": "House",
-      "year": 1977,
-      "imdbRating": 7.2,
-      "imdbVotes": 36764,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076786",
-      "title": "Suspiria",
-      "year": 1977,
-      "imdbRating": 7.3,
-      "imdbVotes": 112468,
-      "language": "Italian, Russian, English, German, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0078240",
-      "title": "The Shadow of Chikara",
-      "year": 1977,
-      "imdbRating": 5.4,
-      "imdbVotes": 452,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076665",
-      "title": "Satan's Cheerleaders",
-      "year": 1977,
-      "imdbRating": 4.1,
-      "imdbVotes": 1316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076068",
-      "title": "Watch Me When I Kill",
-      "year": 1977,
-      "imdbRating": 5.9,
-      "imdbVotes": 1552,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0076094",
-      "title": "Good Against Evil",
-      "year": 1977,
-      "imdbRating": 3.8,
-      "imdbVotes": 582,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0075820",
+    "tt0075990",
+    "tt0080990",
+    "tt0076271",
+    "tt0076630",
+    "tt0074486",
+    "tt0076162",
+    "tt0076786",
+    "tt0078240",
+    "tt0076665",
+    "tt0076068",
+    "tt0076094"
   ],
   "collections": [],
   "is_curated": true,

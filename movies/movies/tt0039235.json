@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/calcutta-1946",
+      "id": "calcutta-1946",
       "title": "Calcutta (1946)",
       "description": "Alan Ladd, Gail Russell, William Bendix",
       "fileSize": 5443320857,
-      "id": "calcutta-1946"
+      "addedAt": "2026-01-07T00:07:45.166Z",
+      "thumbnail": "https://archive.org/services/img/calcutta-1946",
+      "collection": "feature_films",
+      "downloads": 3543
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040643",
-      "title": "Night Has a Thousand Eyes",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 1836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040160",
-      "title": "The Big Clock",
-      "year": 1948,
-      "imdbRating": 7.6,
-      "imdbVotes": 10549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038369",
-      "title": "The Blue Dahlia",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 10171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035735",
-      "title": "China",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 662,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039320",
-      "title": "Dick Tracy Meets Gruesome",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 1995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039787",
-      "title": "Roses Are Red",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 267,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039321",
-      "title": "Dick Tracy's Dilemma",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 1140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037038",
-      "title": "Main Street After Dark",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038071",
-      "title": "Sensation Hunters",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 260,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0040843",
-      "title": "The Street with No Name",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 3431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040196",
-      "title": "Caged Fury",
-      "year": 1948,
-      "imdbRating": 5.6,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040210",
-      "title": "Canon City",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040643",
+    "tt0040160",
+    "tt0038369",
+    "tt0035735",
+    "tt0039320",
+    "tt0039787",
+    "tt0039321",
+    "tt0037038",
+    "tt0038071",
+    "tt0040843",
+    "tt0040196",
+    "tt0040210"
   ],
   "collections": [],
   "is_curated": true,

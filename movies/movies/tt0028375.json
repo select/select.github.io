@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Three_of_a_Kind",
+      "id": "Three_of_a_Kind",
       "title": "Three_of_a_Kind",
       "description": "From IMDB http://www.imdb.com/title/tt0028375/ Barbara \"Babs\" Penfield is trying to convince her father, laundry-magnate F. Thorndyke Penfield, to invest money in a proposition from her sweetheart Rodney Randall. Her father refuses as he knows Randall is a fortune hunter, as did any 30's audience once Bradley Page appeared on the scene. While Penfield hurries out to award the Penfield Prize for Service at his laundry, Babs, finding her allowance has been stopped by her father, tries to sell her car to raise cash to give to Randall. Writers: Arthur T. Horman (original story), Arthur T. Horman (screenplay) Stars: Chick Chandler, Evalyn Knapp and Berton Churchill",
       "fileSize": 1142170619,
-      "id": "Three_of_a_Kind"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/Three_of_a_Kind",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 7200
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=qiQdItPYLYY",
+      "id": "qiQdItPYLYY",
       "title": "Three of a Kind (1936) COMEDY",
       "description": "Stars: Evalyn Knapp, Chick Chandler, Berton Churchill\nDirector: Phil Rosen\n\nThree con men, each think that the other two are wealthy, and spend most of their time trying to swindle one another. Eventually, one pulls out of the game when he falls in love.. This film should appeal to fans of such latter-day confidence game pics as The Sting.",
-      "id": "qiQdItPYLYY",
+      "addedAt": "2025-12-26T23:48:42.605Z",
+      "thumbnail": "https://i.ytimg.com/vi/qiQdItPYLYY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhcIFwoXDAP&rs=AOn4CLAk2ex12YF9IIRAVBuc-7wvhdVqyA",
+      "duration": 4391,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027568",
-      "title": "Ellis Island",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 89,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027564",
-      "title": "Easy Money",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027399",
-      "title": "Brilliant Marriage",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029812",
-      "title": "Youth on Parole",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0027528",
-      "title": "Dishonour Bright",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 47,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028062",
-      "title": "One Rainy Afternoon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027293",
-      "title": "And So They Were Married",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028342",
-      "title": "Taming the Wild",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027807",
+    "tt0027568",
+    "tt0027564",
+    "tt0027399",
+    "tt0029812",
+    "tt0027311",
+    "tt0027286",
+    "tt0028010",
+    "tt0027528",
+    "tt0028062",
+    "tt0027293",
+    "tt0028342"
   ],
   "collections": [],
   "is_curated": true,

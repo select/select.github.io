@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/porkys-railroad-1937",
+      "id": "porkys-railroad-1937",
       "title": "Porky's Railroad (1937)",
       "description": "Porky’s Railroad is a Warner Bros. Looney Tunes cartoon directed by Frank Tashlin. The short was released on August 7, 1937, and stars Porky Pig. Watch on RetroFlix.org:  https://retroflix.org/porkys-railroad-1937/",
       "fileSize": 844946151,
-      "id": "porkys-railroad-1937"
+      "addedAt": "2026-01-07T00:10:21.538Z",
+      "thumbnail": "https://archive.org/services/img/porkys-railroad-1937",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 1153
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/porkys-railroad-1937_202409",
+      "id": "porkys-railroad-1937_202409",
       "title": "Porky's Railroad (1937)",
       "description": "Porky is advised by the superintendent of the railroad that his services and the services of his old-fashioned engine are no longer required as the company will be using a new streamlined train.",
       "fileSize": 859417134,
-      "id": "porkys-railroad-1937_202409"
+      "addedAt": "2026-01-07T00:10:21.538Z",
+      "thumbnail": "https://archive.org/services/img/porkys-railroad-1937_202409",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 355
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029424",
-      "title": "Porky's Building",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029425",
-      "title": "Porky's Double Trouble",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027891",
-      "title": "Little Beau Porky",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030602",
-      "title": "Porky at the Crocadero",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028123",
-      "title": "Porky in the North Woods",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030605",
-      "title": "Porky the Fireman",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030613",
-      "title": "Porky's Spring Planting",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030975",
-      "title": "Wholly Smoke",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 401,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029431",
-      "title": "Porky's Romance",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 443,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028696",
-      "title": "The Case of the Stuttering Pig",
-      "year": 1937,
-      "imdbRating": 7,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028127",
-      "title": "Porky's Poultry Plant",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 447,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028925",
-      "title": "Get Rich Quick Porky",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029424",
+    "tt0029425",
+    "tt0027891",
+    "tt0030602",
+    "tt0028123",
+    "tt0030605",
+    "tt0030613",
+    "tt0030975",
+    "tt0029431",
+    "tt0028696",
+    "tt0028127",
+    "tt0028925"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-mummys-ghost",
+      "id": "the-mummys-ghost",
       "title": "The Mummy's Ghost (1944)",
       "description": "An Egyptian high priest travels to America to reclaim the bodies of ancient Egyptian princess Ananka and her living guardian mummy Kharis. Learning that Ananka's spirit has been reincarnated into another body, he kidnaps a young woman of Egyptian descent with a mysterious resemblance to the princess. However, the high priest's greedy desires cause him to loose control of the mummy.",
       "fileSize": 4973038748,
-      "id": "the-mummys-ghost"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-mummys-ghost",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 14388
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035096",
-      "title": "The Mummy's Tomb",
-      "year": 1942,
-      "imdbRating": 5.5,
-      "imdbVotes": 4249,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037415",
-      "title": "The Uninvited",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 13199,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037635",
-      "title": "Dead of Night",
-      "year": 1945,
-      "imdbRating": 7.5,
-      "imdbVotes": 15012,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038270",
-      "title": "Zombies on Broadway",
-      "year": 1945,
-      "imdbRating": 5.2,
-      "imdbVotes": 969,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036307",
-      "title": "Revenge of the Zombies",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 849,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054807",
-      "title": "The Devil's Messenger",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059920",
-      "title": "The Wizard of Mars",
-      "year": 1965,
-      "imdbRating": 3.4,
-      "imdbVotes": 631,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037098",
-      "title": "The Mummy's Curse",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 3745,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036653",
-      "title": "Bluebeard",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 2188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037441",
-      "title": "Voodoo Man",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 1282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056993",
-      "title": "Diary of a Madman",
-      "year": 1963,
-      "imdbRating": 6.3,
-      "imdbVotes": 3289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037722",
-      "title": "The Frozen Ghost",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 1213,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035096",
+    "tt0037415",
+    "tt0037635",
+    "tt0038270",
+    "tt0036307",
+    "tt0054807",
+    "tt0059920",
+    "tt0037098",
+    "tt0036653",
+    "tt0037441",
+    "tt0056993",
+    "tt0037722"
   ],
   "collections": [],
   "is_curated": true,

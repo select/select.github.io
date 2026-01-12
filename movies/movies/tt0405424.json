@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-usurers-grip",
+      "id": "silent-the-usurers-grip",
       "title": "The Usurer's Grip",
       "fileSize": 239313951,
-      "id": "silent-the-usurers-grip"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-usurers-grip",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 175
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0132221",
-      "title": "Hope, a Red Cross Seal Story",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 69,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234953",
-      "title": "An Unsullied Shield",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002621",
-      "title": "The Ambassador's Daughter",
-      "year": 1913,
-      "imdbRating": 5.3,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002415",
-      "title": "The Painted Lady",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 659,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001789",
-      "title": "The Miser's Heart",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 309,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000488",
-      "title": "The Land Beyond the Sunset",
-      "year": 1912,
-      "imdbRating": 6.9,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000832",
-      "title": "A Corner in Wheat",
-      "year": 1909,
-      "imdbRating": 6.6,
-      "imdbVotes": 2796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000942",
-      "title": "The Lonely Villa",
-      "year": 1909,
-      "imdbRating": 6.1,
-      "imdbVotes": 1054,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000831",
-      "title": "The Cord of Life",
-      "year": 1909,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000728",
-      "title": "Money Mad",
-      "year": 1908,
-      "imdbRating": 5.9,
-      "imdbVotes": 131,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002054",
-      "title": "A Beast at Bay",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0132221",
+    "tt0234953",
+    "tt0002621",
+    "tt0002381",
+    "tt0002415",
+    "tt0001789",
+    "tt0000488",
+    "tt0000832",
+    "tt0000942",
+    "tt0000831",
+    "tt0000728",
+    "tt0002054"
   ],
   "collections": [],
   "is_curated": true,

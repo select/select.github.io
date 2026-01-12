@@ -6,16 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/life_20241123",
+      "id": "life_20241123",
       "title": "Life",
       "description": "A global view of the specialized strategies and extreme behavior that living things have developed in order to survive; what Charles Darwin termed \"the struggle for existence.\"",
       "fileSize": 10910034885,
-      "id": "life_20241123"
+      "addedAt": "2026-01-07T00:09:38.890Z",
+      "thumbnail": "https://archive.org/services/img/life_20241123",
+      "language": "eng",
+      "year": 2009,
+      "collection": "feature_films",
+      "downloads": 34
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=LmrOozL3laI",
-      "title": "After.Life (MYSTERY THRILLER with LIAM NEESON, thriller film in German, mystery films for free)",
       "id": "LmrOozL3laI",
+      "title": "After.Life (MYSTERY THRILLER with LIAM NEESON, thriller film in German, mystery films for free)",
+      "addedAt": "2025-12-23T23:50:06.303Z",
+      "thumbnail": "https://i.ytimg.com/vi/LmrOozL3laI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZpCKfyzdfiF8ymcPJIwCKqR1Z2Q",
+      "duration": 6120,
+      "language": "de",
       "channelName": "Netzkino",
       "channelId": "UCGkHFrwE8KEuOHPVsIOskAg",
       "regionRestriction": {
@@ -44,121 +54,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0971209",
-      "title": "A Perfect Getaway",
-      "year": 2009,
-      "imdbRating": 6.5,
-      "imdbVotes": 78772,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1375790",
-      "title": "Stranger with My Face",
-      "year": 2009,
-      "imdbRating": 5.2,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1014766",
-      "title": "The Least of These",
-      "year": 2008,
-      "imdbRating": 6.1,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1135085",
-      "title": "Cat City",
-      "year": 2008,
-      "imdbRating": 5.1,
-      "imdbVotes": 370,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0913399",
-      "title": "Judicial Indiscretion",
-      "year": 2007,
-      "imdbRating": 5.5,
-      "imdbVotes": 275,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1883121",
-      "title": "404: Error Not Found",
-      "year": 2011,
-      "imdbRating": 7.3,
-      "imdbVotes": 3433,
-      "language": "Hindi, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1874707",
-      "title": "Secrets from Her Past",
-      "year": 2011,
-      "imdbRating": 4.3,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1582271",
-      "title": "The Good Doctor",
-      "year": 2011,
-      "imdbRating": 5.5,
-      "imdbVotes": 7483,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt1401236",
-      "title": "The Fields",
-      "year": 2011,
-      "imdbRating": 4.3,
-      "imdbVotes": 1958,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0478832",
-      "title": "Flirting with Danger",
-      "year": 2006,
-      "imdbRating": 4.6,
-      "imdbVotes": 560,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1866919",
-      "title": "Ashes",
-      "year": 2012,
-      "imdbRating": 5.5,
-      "imdbVotes": 706,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0971209",
+    "tt1375790",
+    "tt1014766",
+    "tt1132130",
+    "tt1135085",
+    "tt0913399",
+    "tt1883121",
+    "tt1874707",
+    "tt1582271",
+    "tt1401236",
+    "tt0478832",
+    "tt1866919"
   ],
   "collections": [],
   "is_curated": true,

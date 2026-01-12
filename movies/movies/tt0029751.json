@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/wee-willie-winkie-1937_202508",
+      "id": "wee-willie-winkie-1937_202508",
       "title": "Wee Willie Winkie (1937)",
       "description": "In 1897, little Priscilla Williams, along with her widowed mother, goes to live with her army colonel paternal grandfather on the British outpost he commands in northern India. Watch on RetroFlix:  https://retroflix.org/wee-willie-winkie-1937/",
       "fileSize": 1602347950,
-      "id": "wee-willie-winkie-1937_202508"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/wee-willie-winkie-1937_202508",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 114
     }
   ],
   "metadata": {
@@ -27,119 +33,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031971",
-      "title": "Stagecoach",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 57694,
-      "language": "English, Spanish, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0028827",
-      "title": "Elephant Boy",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 856,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0029081",
-      "title": "King Solomon's Mines",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 1484,
-      "language": "Spanish, English, Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019699",
-      "title": "The Black Watch",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 494,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030833",
-      "title": "Tarzan's Revenge",
-      "year": 1938,
-      "imdbRating": 4.7,
-      "imdbVotes": 739,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030832",
-      "title": "Tarzan and the Green Goddess",
-      "year": 1938,
-      "imdbRating": 4.4,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029844",
-      "title": "The Adventures of Tom Sawyer",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 2371,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028444",
-      "title": "Undersea Kingdom",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027623",
-      "title": "Flash Gordon",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 2758,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030138",
-      "title": "Flash Gordon's Trip to Mars",
-      "year": 1938,
-      "imdbRating": 6.9,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033729",
-      "title": "How Green Was My Valley",
-      "year": 1941,
-      "imdbRating": 7.7,
-      "imdbVotes": 28253,
-      "language": "English, Welsh",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026164",
-      "title": "Call of the Wild",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 2715,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0031971",
+    "tt0028827",
+    "tt0029081",
+    "tt0019699",
+    "tt0030833",
+    "tt0030832",
+    "tt0029844",
+    "tt0028444",
+    "tt0027623",
+    "tt0030138",
+    "tt0033729",
+    "tt0026164"
   ],
   "collections": [],
   "is_curated": true,

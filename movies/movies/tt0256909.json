@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-making-an-american-citizen",
+      "id": "silent-making-an-american-citizen",
       "title": "Making an American Citizen",
       "fileSize": 305368737,
-      "id": "silent-making-an-american-citizen"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-making-an-american-citizen",
+      "language": "English",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 592
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210675",
-      "title": "Falling Leaves",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 1821,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004413",
-      "title": "The Ocean Waif",
-      "year": 1916,
-      "imdbRating": 6.3,
-      "imdbVotes": 510,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1289621",
-      "title": "Officer Henderson",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002983",
-      "title": "A House Divided",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1389556",
-      "title": "A Severe Test",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210835",
-      "title": "Matrimony's Speed Limit",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002478",
-      "title": "The School Teacher and the Waif",
-      "year": 1912,
-      "imdbRating": 5.6,
-      "imdbVotes": 69,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003323",
-      "title": "The Reformers; or, the Lost Art of Minding One's Business",
-      "year": 1913,
-      "imdbRating": 6.5,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0460831",
-      "title": "L'intrigante",
-      "year": 1911,
-      "imdbRating": 5.2,
-      "imdbVotes": 39,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0258254",
-      "title": "A Tin-Type Romance",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0210599",
+    "tt0210675",
+    "tt0004413",
+    "tt1289621",
+    "tt0002983",
+    "tt1389556",
+    "tt0210835",
+    "tt0002478",
+    "tt0003323",
+    "tt0460831",
+    "tt0258254",
+    "tt0004028"
   ],
   "collections": [],
   "is_curated": true,

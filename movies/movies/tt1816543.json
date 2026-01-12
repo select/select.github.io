@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HereIGrewUp",
+      "id": "HereIGrewUp",
       "title": "Here, I Grew Up",
       "description": "Senator Everett McKinley Dirksen talks about the places where Abraham Lincoln lived during his formative years.",
       "fileSize": 477119171,
-      "id": "HereIGrewUp"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HereIGrewUp",
+      "collection": "feature_films",
+      "downloads": 2955
     }
   ],
   "metadata": {
@@ -26,107 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0290100",
-      "title": "Vienna",
-      "year": 1968,
-      "imdbRating": 5.7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7322114",
-      "title": "Teenage Art",
-      "year": 1969,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0466003",
-      "title": "Fuelle querido",
-      "year": 1967,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0930760",
-      "title": "The Night It Rained",
-      "year": 1967,
-      "imdbRating": 7.4,
-      "imdbVotes": 461,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322102",
-      "title": "Mietersolidarität",
-      "year": 1970,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt31829742",
-      "title": "Eyes of the North",
-      "year": 1966,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt12618064",
-      "title": "Buck Southworth: U.S. Air Force Flight Crew",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0290100",
+    "tt7322114",
+    "tt0466003",
+    "tt0930760",
+    "tt7322102",
+    "tt31829742",
+    "tt6564690",
+    "tt12618064",
+    "tt3155794",
+    "tt0021576",
+    "tt0000537",
+    "tt0178247"
   ],
   "collections": [],
   "is_curated": true,

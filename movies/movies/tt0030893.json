@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/trigger-pals-1939",
+      "id": "trigger-pals-1939",
       "title": "Trigger Pals (1939)",
       "description": "Kent wants the Allen ranch. So he has Steve and his men rustle their cattle using Pete as an informant. When the Trigger Pals Lucky, Stormy, and Fuzzy fight back, Kent frames Stormy for the rustling. Watch on RetroFlix:  https://retroflix.org/trigger-pals-1939/",
       "fileSize": 336060443,
-      "id": "trigger-pals-1939"
+      "addedAt": "2026-01-07T00:12:55.129Z",
+      "thumbnail": "https://archive.org/services/img/trigger-pals-1939",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 42
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/trigger_pals",
+      "id": "trigger_pals",
       "title": "Trigger Pals",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4552410332,
-      "id": "trigger_pals"
+      "addedAt": "2026-01-07T00:12:55.129Z",
+      "thumbnail": "https://archive.org/services/img/trigger_pals",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 8263
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=IM68h36W8kc",
+      "id": "IM68h36W8kc",
       "title": "Trigger Pals (1939)  WESTERN",
       "description": "Stars: Arthur Jarrett, Lee Powell, Al St. John\n Director: Sam Newfield\n\n Kent wants the Allen ranch. So he has Steve and his men rustle their cattle using Pete as an informant. When the Trigger Pals Lucky, Stormy, and Fuzzy fight back, Kent frames Stormy for the rustling.",
-      "id": "IM68h36W8kc",
+      "addedAt": "2025-12-26T23:52:54.397Z",
+      "thumbnail": "https://i.ytimg.com/vi/IM68h36W8kc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLD5KCXHPX1dSOQ7LeKBLnZ8ebFnpQ",
+      "duration": 3220,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,115 +60,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030159",
-      "title": "Frontier Scout",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135805",
-      "title": "Billy the Kid's Gun Justice",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033393",
-      "title": "Billy the Kid's Fighting Pals",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033392",
-      "title": "Billy the Kid in Santa Fe",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033845",
-      "title": "The Lone Rider in Frontier Fury",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028870",
-      "title": "The Fighting Deputy",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033394",
-      "title": "Billy the Kid's Range War",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032387",
-      "title": "Death Rides the Range",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033104",
-      "title": "Straight Shooter",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031164",
-      "title": "Code of the Cactus",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031306",
-      "title": "The Fighting Renegade",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030159",
+    "tt0135805",
+    "tt0033393",
+    "tt0033391",
+    "tt0033392",
+    "tt0033845",
+    "tt0028870",
+    "tt0033394",
+    "tt0032387",
+    "tt0033104",
+    "tt0031164",
+    "tt0031306"
   ],
   "collections": [],
   "is_curated": true,

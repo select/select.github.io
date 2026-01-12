@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-polenblut-anny-ondra-hilde-hildebrand-hans-moser-ivan-petrovich",
+      "id": "1934-polenblut-anny-ondra-hilde-hildebrand-hans-moser-ivan-petrovich",
       "title": "1934 Polenblut ( Anny Ondra, Hilde Hildebrand, Hans Moser, Ivan Petrovich)",
       "description": "Film aus dem deutschen dritten Reich von 1934. Polenblut.  U.a mit Hans Moser und Ivan Petrovich ",
       "fileSize": 741862415,
-      "id": "1934-polenblut-anny-ondra-hilde-hildebrand-hans-moser-ivan-petrovich"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1934-polenblut-anny-ondra-hilde-hildebrand-hans-moser-ivan-petrovich",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 169
     }
   ],
   "metadata": {
@@ -27,105 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022648",
-      "title": "Baby",
-      "year": 1932,
-      "imdbRating": 7.4,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025944",
-      "title": "Die vertauschte Braut",
-      "year": 1934,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0241030",
-      "title": "Das verliebte Hotel",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255179",
-      "title": "Fräulein Hoffmanns Erzählungen",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025097",
-      "title": "Der Fall Brenken",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234759",
-      "title": "So ein Theater!",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138182",
-      "title": "Vor Liebe wird gewarnt",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026516",
-      "title": "Ich liebe alle Frauen",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 31,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020824",
-      "title": "Die vom Rummelplatz",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 26,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0327689",
-      "title": "Ende schlecht, alles gut",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0022648",
+    "tt0025944",
+    "tt0241030",
+    "tt0255179",
+    "tt0129972",
+    "tt0025097",
+    "tt0234759",
+    "tt0028018",
+    "tt0138182",
+    "tt0026516",
+    "tt0020824",
+    "tt0327689"
   ],
   "collections": [],
   "is_curated": true,

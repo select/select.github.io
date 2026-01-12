@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/misc-1129-diary-of-a-sergeant-1945",
+      "id": "misc-1129-diary-of-a-sergeant-1945",
       "title": "Diary Of A Sergeant (1945)",
       "description": "This film on the rehabilitation of an injured soldier who lost his hands in action stars Harold Russell, the Academy Award-winning lead actor in \"Best Years of Our Lives.\" In this film, Harold Russell plays an American soldier who lost his hands in a training accident and goes on to tell the story of his medical rehabilitation at Walter Reed Army Medical Center in Washington D.C. The scenes show how he and his fellow amputees at the hospital at first despaired, and then found new hope in the prostheses and training available to amputees through the Army's medical corps. Russell learned to wear and to operate the hooks which replaced his hands, and became competent to perform many tasks he had once thought no longer possible.",
       "fileSize": 241482893,
-      "id": "misc-1129-diary-of-a-sergeant-1945"
+      "addedAt": "2026-01-07T00:09:54.328Z",
+      "thumbnail": "https://archive.org/services/img/misc-1129-diary-of-a-sergeant-1945",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 42
     }
   ],
   "metadata": {
@@ -27,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038264",
-      "title": "Your Job in Germany",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038175",
-      "title": "To the Shores of Iwo Jima",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15527684",
-      "title": "What Price Iwo?",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276867",
-      "title": "Health for the Americas: Cleanliness Brings Health",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8835616",
-      "title": "Primary Flight Training: Keep It Flying, Part 1",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036630",
-      "title": "San Pietro",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 2514,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2152805",
-      "title": "Panzer im Angriff",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6710554",
-      "title": "Flak",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1523561",
-      "title": "Sunset in the Pacific",
-      "year": 1946,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1966357",
-      "title": "Basic Typing, Part I: Methods",
-      "year": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139491",
-      "title": "The Negro Soldier",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6056976",
-      "title": "Camouflage",
-      "year": 1944,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038264",
+    "tt0038175",
+    "tt15527684",
+    "tt0276867",
+    "tt8835616",
+    "tt0036630",
+    "tt2152805",
+    "tt6710554",
+    "tt1523561",
+    "tt1966357",
+    "tt0139491",
+    "tt6056976"
   ],
   "collections": [],
   "is_curated": true,

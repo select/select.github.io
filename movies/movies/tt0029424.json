@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/porkys-building-1937",
+      "id": "porkys-building-1937",
       "title": "Porky's Building (1937)",
       "description": "Porky is out to get the building contract for a new city hall but has to outwit Dirty Diggs, his rival, to do so.",
       "fileSize": 938041362,
-      "id": "porkys-building-1937"
+      "addedAt": "2026-01-07T00:10:21.538Z",
+      "thumbnail": "https://archive.org/services/img/porkys-building-1937",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 358
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029429",
-      "title": "Porky's Railroad",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 605,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030613",
-      "title": "Porky's Spring Planting",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029425",
-      "title": "Porky's Double Trouble",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027891",
-      "title": "Little Beau Porky",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030602",
-      "title": "Porky at the Crocadero",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028123",
-      "title": "Porky in the North Woods",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030605",
-      "title": "Porky the Fireman",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030975",
-      "title": "Wholly Smoke",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 401,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029431",
-      "title": "Porky's Romance",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 443,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028696",
-      "title": "The Case of the Stuttering Pig",
-      "year": 1937,
-      "imdbRating": 7,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028127",
-      "title": "Porky's Poultry Plant",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 447,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028925",
-      "title": "Get Rich Quick Porky",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029429",
+    "tt0030613",
+    "tt0029425",
+    "tt0027891",
+    "tt0030602",
+    "tt0028123",
+    "tt0030605",
+    "tt0030975",
+    "tt0029431",
+    "tt0028696",
+    "tt0028127",
+    "tt0028925"
   ],
   "collections": [],
   "is_curated": true,

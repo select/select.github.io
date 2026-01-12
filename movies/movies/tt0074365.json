@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CurseOfBigfoot_MPEG",
+      "id": "CurseOfBigfoot_MPEG",
       "title": "Curse Of Bigfoot",
       "description": "Originally the movie Teenagers Battle the Thing (1958), this 1975 version is colorized and features additional footage. Generally about a group of students who go on an archaeological dig and uncover a monster. Find out more about this movie on its IMDB page .",
       "fileSize": 3072215029,
-      "id": "CurseOfBigfoot_MPEG"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/CurseOfBigfoot_MPEG",
+      "language": "eng",
+      "year": 1975,
+      "collection": "feature_films",
+      "downloads": 50239
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt4945978",
-      "title": "Teenagers Battle the Thing",
-      "year": 1958,
-      "imdbRating": 2.4,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073582",
-      "title": "Deep Red",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 45677,
-      "language": "Italian, German, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072831",
-      "title": "Criminally Insane",
-      "year": 1975,
-      "imdbRating": 5.3,
-      "imdbVotes": 1267,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071395",
-      "title": "The Dead Don't Die",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173990",
-      "title": "Lord Shango",
-      "year": 1975,
-      "imdbRating": 5.3,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131449",
-      "title": "Kiss of the Tarantula",
-      "year": 1975,
-      "imdbRating": 4.4,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0072179",
-      "title": "Sunburst",
-      "year": 1975,
-      "imdbRating": 3,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071120",
-      "title": "All the Kind Strangers",
-      "year": 1974,
-      "imdbRating": 5.6,
-      "imdbVotes": 984,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074920",
-      "title": "Bloodlust",
-      "year": 1976,
-      "imdbRating": 5.5,
-      "imdbVotes": 625,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076127",
-      "title": "Haunts",
-      "year": 1976,
-      "imdbRating": 4.7,
-      "imdbVotes": 689,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071396",
-      "title": "Messiah of Evil",
-      "year": 1974,
-      "imdbRating": 6.3,
-      "imdbVotes": 6501,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073609",
-      "title": "Rattlers",
-      "year": 1976,
-      "imdbRating": 4.1,
-      "imdbVotes": 1059,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt4945978",
+    "tt0073582",
+    "tt0072831",
+    "tt0071395",
+    "tt0173990",
+    "tt0131449",
+    "tt0072179",
+    "tt0071120",
+    "tt0074920",
+    "tt0076127",
+    "tt0071396",
+    "tt0073609"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-sawdust-ring",
+      "id": "silent-the-sawdust-ring",
       "title": "The Sawdust Ring",
       "fileSize": 395013437,
-      "id": "silent-the-sawdust-ring"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-sawdust-ring",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 410
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010227",
-      "title": "Heart o' the Hills",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 571,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008663",
-      "title": "A Man There Was",
-      "year": 1917,
-      "imdbRating": 7.3,
-      "imdbVotes": 2389,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007801",
-      "title": "Cleopatra",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 413,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008662",
-      "title": "Tepeyac",
-      "year": 1917,
-      "imdbRating": 5.7,
-      "imdbVotes": 54,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008188",
-      "title": "The Little American",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008259",
-      "title": "The Man Without a Country",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008443",
-      "title": "The Poor Little Rich Girl",
-      "year": 1917,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007711",
-      "title": "Blue Jeans",
-      "year": 1917,
-      "imdbRating": 7,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007958",
-      "title": "Flor de durazno",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 31,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007903",
-      "title": "An Even Break",
-      "year": 1917,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0010227",
+    "tt0008663",
+    "tt0008519",
+    "tt0008133",
+    "tt0007801",
+    "tt0008662",
+    "tt0008188",
+    "tt0008259",
+    "tt0008443",
+    "tt0007711",
+    "tt0007958",
+    "tt0007903"
   ],
   "collections": [],
   "is_curated": true,

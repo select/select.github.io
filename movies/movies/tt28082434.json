@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/YaldaNight",
+      "id": "YaldaNight",
       "title": "Yalda Night",
       "description": "Synopsis Hamed is a happily married man, deeply in love with his love Mahnaz. When Mahanaz and their daughter Naazee leave Iran in search of a better future in Germany, doubt set in Hamed begins a dark journey into the recesses of the past.",
       "fileSize": 33542575,
-      "id": "YaldaNight"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/YaldaNight",
+      "collection": "feature_films",
+      "downloads": 135
     }
   ],
   "metadata": {
@@ -26,122 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0388182",
-      "title": "King of California",
-      "year": 2007,
-      "imdbRating": 6.6,
-      "imdbVotes": 23980,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0466839",
-      "title": "I Could Never Be Your Woman",
-      "year": 2007,
-      "imdbRating": 5.9,
-      "imdbVotes": 20568,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0795439",
-      "title": "Numb",
-      "year": 2007,
-      "imdbRating": 6.5,
-      "imdbVotes": 8945,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0430770",
-      "title": "The Women",
-      "year": 2008,
-      "imdbRating": 5,
-      "imdbVotes": 23599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0483726",
-      "title": "Man of the Year",
-      "year": 2006,
-      "imdbRating": 6.2,
-      "imdbVotes": 36553,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0944958",
-      "title": "Love and Other Crimes",
-      "year": 2008,
-      "imdbRating": 6.2,
-      "imdbVotes": 721,
-      "language": "Serbian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0841109",
-      "title": "Late Bloomers",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 1135,
-      "language": "Swiss German, German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0425253",
-      "title": "Mini's First Time",
-      "year": 2006,
-      "imdbRating": 5.8,
-      "imdbVotes": 8685,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0425326",
-      "title": "Outsourced",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 12386,
-      "language": "English, Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1424450",
-      "title": "501",
-      "year": 2008,
-      "imdbRating": 5.5,
-      "imdbVotes": 20,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0862846",
-      "title": "Sunshine Cleaning",
-      "year": 2008,
-      "imdbRating": 6.8,
-      "imdbVotes": 75752,
-      "language": "English, Spanish, Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0827503",
-      "title": "The Magician",
-      "year": 2006,
-      "imdbRating": 7.4,
-      "imdbVotes": 35206,
-      "language": "Turkish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0388182",
+    "tt0466839",
+    "tt0430770",
+    "tt0483726",
+    "tt0944958",
+    "tt0841109",
+    "tt0425253",
+    "tt0425326",
+    "tt1424450",
+    "tt0862846",
+    "tt0827503",
+    "tt0363780"
   ],
   "collections": [],
   "is_curated": true,

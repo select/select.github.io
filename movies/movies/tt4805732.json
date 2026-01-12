@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AwesomePower",
+      "id": "AwesomePower",
       "title": "Awesome Power",
       "description": "documentary on flooding",
       "fileSize": 328375731,
-      "id": "AwesomePower"
+      "addedAt": "2026-01-07T00:06:14.038Z",
+      "thumbnail": "https://archive.org/services/img/AwesomePower",
+      "collection": "feature_films",
+      "downloads": 4307
     }
   ],
   "metadata": {
@@ -27,110 +31,18 @@
     "Awards": "5 wins & 5 nominations."
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2733100",
-      "title": "To Wong with Kung Fu: Thanks for Everything, a 6 Year Old and an 8 Year Old",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4738744",
-      "title": "The Last Woman on Earth",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038590",
-      "title": "The Hat Box Mystery",
-      "year": 1947,
-      "imdbRating": 5,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012278",
-      "title": "The 'High Sign'",
-      "year": 1921,
-      "imdbRating": 7.6,
-      "imdbVotes": 3670,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1120912",
-      "title": "Room 602",
-      "year": 2007,
-      "imdbRating": 4.8,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4331620",
-      "title": "samuel-613",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 66,
-      "language": "Yiddish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010146",
-      "title": "From Hand to Mouth",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056066",
-      "title": "Happy Anniversary",
-      "year": 1962,
-      "imdbRating": 7.2,
-      "imdbVotes": 829,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020094",
-      "title": "Liberty",
-      "year": 1929,
-      "imdbRating": 7.5,
-      "imdbVotes": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020237",
-      "title": "The Old Barn",
-      "year": 1929,
-      "imdbRating": 4.2,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7158656",
-      "title": "Urban Vengeance",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt2733100",
+    "tt0312544",
+    "tt4738744",
+    "tt0038590",
+    "tt0012278",
+    "tt1120912",
+    "tt4331620",
+    "tt0010146",
+    "tt0056066",
+    "tt0020094",
+    "tt0020237",
+    "tt7158656"
   ],
   "collections": [],
   "is_curated": true,

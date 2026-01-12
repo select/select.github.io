@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/loco-lobo-1947",
+      "id": "loco-lobo-1947",
       "title": "Loco Lobo (1947)",
       "description": "Out in the desert, a dopey wolf tries to catch an obnoxious rabbit. Watch on RetroFlix:  https://retroflix.org/loco-lobo-1947/",
       "fileSize": 185205224,
-      "id": "loco-lobo-1947"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/loco-lobo-1947",
+      "language": "eng",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 129
     }
   ],
   "metadata": {
@@ -27,109 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0149273",
-      "title": "Tooth or Consequences",
-      "year": 1947,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151321",
-      "title": "Leave Us Chase It",
-      "year": 1947,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148603",
-      "title": "Pickled Puss",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148310",
-      "title": "Hot Foot Lights",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148072",
-      "title": "The Disillusioned Bluebird",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147949",
-      "title": "Cagey Bird",
-      "year": 1946,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148627",
-      "title": "Polar Playmates",
-      "year": 1946,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149316",
-      "title": "Unsure Runts",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147957",
-      "title": "Carnival Courage",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036764",
-      "title": "Dog, Cat, and Canary",
-      "year": 1945,
-      "imdbRating": 5.6,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149288",
-      "title": "Treasure Jest",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162424",
-      "title": "Kitty Caddy",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0149273",
+    "tt0151321",
+    "tt0148603",
+    "tt0148310",
+    "tt0148072",
+    "tt0147949",
+    "tt0148627",
+    "tt0149316",
+    "tt0147957",
+    "tt0036764",
+    "tt0149288",
+    "tt0162424"
   ],
   "collections": [],
   "is_curated": true,

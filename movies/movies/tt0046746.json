@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bamboo-prison-1954",
+      "id": "bamboo-prison-1954",
       "title": "Bamboo Prison (1954)",
       "description": "Robert Francis, Dianne Foster, Brian Keith",
       "fileSize": 1208316979,
-      "id": "bamboo-prison-1954"
+      "addedAt": "2026-01-07T00:07:31.713Z",
+      "thumbnail": "https://archive.org/services/img/bamboo-prison-1954",
+      "collection": "feature_films",
+      "downloads": 792
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044106",
-      "title": "The Tanks Are Coming",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 350,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048811",
-      "title": "Women's Prison",
-      "year": 1955,
-      "imdbRating": 6.5,
-      "imdbVotes": 1187,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045332",
-      "title": "The Winning Team",
-      "year": 1952,
-      "imdbRating": 6.5,
-      "imdbVotes": 1152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049587",
-      "title": "Over-Exposed",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 841,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047463",
-      "title": "The Sea Shall Not Have Them",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 763,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047230",
-      "title": "Men of the Fighting Lady",
-      "year": 1954,
-      "imdbRating": 6.3,
-      "imdbVotes": 769,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046816",
-      "title": "The Caine Mutiny",
-      "year": 1954,
-      "imdbRating": 7.7,
-      "imdbVotes": 31131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047376",
-      "title": "The Purple Plain",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 2524,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045844",
-      "title": "Guerrilla Girl",
-      "year": 1953,
-      "imdbRating": 4.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046029",
-      "title": "Malta Story",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 1982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048413",
-      "title": "Napoleon",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 615,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046478",
-      "title": "Ugetsu",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 27766,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0044106",
+    "tt0048811",
+    "tt0045332",
+    "tt0049587",
+    "tt0047463",
+    "tt0047230",
+    "tt0046816",
+    "tt0047376",
+    "tt0045844",
+    "tt0046029",
+    "tt0048413",
+    "tt0046478"
   ],
   "collections": [],
   "is_curated": true,

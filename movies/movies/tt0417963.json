@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-metall-des-himmels-filmdokument-zur-stahlindustrie",
+      "id": "1935-metall-des-himmels-filmdokument-zur-stahlindustrie",
       "title": "1935 Metall Des Himmels ( Filmdokument Zur Stahlindustrie)",
       "description": "Film(Filmdokument) aus dem deutschen dritten Reich von 1935. Metall des Himmels ",
       "fileSize": 394514335,
-      "id": "1935-metall-des-himmels-filmdokument-zur-stahlindustrie"
+      "addedAt": "2026-01-07T00:06:00.055Z",
+      "thumbnail": "https://archive.org/services/img/1935-metall-des-himmels-filmdokument-zur-stahlindustrie",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 111
     }
   ],
   "metadata": {
@@ -27,102 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0247304",
-      "title": "Dr. Todt - Berufung und Werk",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027073",
-      "title": "Tag der Freiheit - Unsere Wehrmacht",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 1870,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15529086",
-      "title": "The Menace of Guatemala",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt33400258",
-      "title": "The Story of Norton I, Emperor of the United States",
-      "year": 1936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247794",
-      "title": "Unser Führer - Des Reiches Wiedergeburt",
-      "year": 1934,
-      "imdbRating": 2.7,
-      "imdbVotes": 21,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2292978",
-      "title": "Ewige Wache",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247443",
-      "title": "Jugend der Welt. Der Film von den IV. Olympischen Winterspielen in Garmisch-Partenkirchen",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 160,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1177174",
-      "title": "Reichsparteitag der Ehre",
-      "year": 1936,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1846498",
-      "title": "Bremen",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310340",
-      "title": "We Work Again",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178112",
-      "title": "Das Wunder",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 212,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140434",
-      "title": "Lichtspiel Opus 1.",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 991,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0247304",
+    "tt0027073",
+    "tt15529086",
+    "tt33400258",
+    "tt0247794",
+    "tt2292978",
+    "tt0247443",
+    "tt1177174",
+    "tt1846498",
+    "tt0310340",
+    "tt0178112",
+    "tt0140434"
   ],
   "collections": [],
   "is_curated": true,

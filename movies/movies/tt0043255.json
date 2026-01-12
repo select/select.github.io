@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AbbottCostelloMeetTheInvisibleMan",
+      "id": "AbbottCostelloMeetTheInvisibleMan",
       "title": "ABBOTT & COSTELLO MEET THE INVISIBLE MAN",
       "description": "Two bumbling private eyes help a man wrongly accused of murder who has become invisible to help clear his name.....Boxer Tommy Nelson is accused of killing his manager. While detectives Bud and Lou investigate they come across an invisibility formula with which Tommy injects himself rather than face the police. This sparks an idea for trapping gangster Morgan by having Lou fight champ Rocky Hanlon, with Tommy's invisible help.STARRING... Bud Abbott, Lou Costello, Nancy Guild.",
       "fileSize": 730317391,
-      "id": "AbbottCostelloMeetTheInvisibleMan"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/AbbottCostelloMeetTheInvisibleMan",
+      "collection": "feature_films",
+      "downloads": 52890
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/abbott-and-costello-meet-the-invisible-man",
+      "id": "abbott-and-costello-meet-the-invisible-man",
       "title": "Abbott and Costello Meet the Invisible Man",
       "description": "Two bumbling private eyes help a man wrongly accused of murder who has become invisible to help clear his name.",
       "fileSize": 6763944592,
-      "id": "abbott-and-costello-meet-the-invisible-man"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/abbott-and-costello-meet-the-invisible-man",
+      "language": "eng",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 10066
     }
   ],
   "metadata": {
@@ -35,117 +45,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042179",
-      "title": "Abbott and Costello in the Foreign Legion",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 3195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044762",
-      "title": "Jack and the Beanstalk",
-      "year": 1952,
-      "imdbRating": 5.8,
-      "imdbVotes": 3741,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047794",
-      "title": "Abbott and Costello Meet the Keystone Kops",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 2457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047795",
-      "title": "Abbott and Costello Meet the Mummy",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 6600,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041085",
-      "title": "Bud Abbott Lou Costello Meet the Killer Boris Karloff",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 4292,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0023669",
-      "title": "War Babies",
-      "year": 1932,
-      "imdbRating": 4.7,
-      "imdbVotes": 481,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049229",
-      "title": "Francis in the Haunted House",
-      "year": 1956,
-      "imdbRating": 5.6,
-      "imdbVotes": 445,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0040068",
-      "title": "Abbott and Costello Meet Frankenstein",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 20804,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043562",
-      "title": "Francis Goes to the Races",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 580,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0254554",
-      "title": "Los matamonstruos en la mansión del terror",
-      "year": 1987,
-      "imdbRating": 5.4,
-      "imdbVotes": 193,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044925",
-      "title": "Vampire Over London",
-      "year": 1952,
-      "imdbRating": 3.8,
-      "imdbVotes": 1012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0044406",
-      "title": "Bela Lugosi Meets a Brooklyn Gorilla",
-      "year": 1952,
-      "imdbRating": 3.7,
-      "imdbVotes": 2596,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042179",
+    "tt0044762",
+    "tt0047794",
+    "tt0047795",
+    "tt0041085",
+    "tt0023669",
+    "tt0049229",
+    "tt0040068",
+    "tt0043562",
+    "tt0254554",
+    "tt0044925",
+    "tt0044406"
   ],
   "collections": [
     {

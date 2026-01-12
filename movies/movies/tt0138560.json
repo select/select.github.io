@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/korkein-voitto_1929",
+      "id": "korkein-voitto_1929",
       "title": "Korkein voitto",
       "fileSize": 4606058434,
-      "id": "korkein-voitto_1929"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/korkein-voitto_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 47
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020581",
-      "title": "Where East Is East",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 710,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019585",
-      "title": "The Wind",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 7309,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037547",
-      "title": "Blood on the Sun",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2330,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16156352",
-      "title": "Vladivostok",
-      "year": 2021,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0035612",
-      "title": "The Adventures of Tartu",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 1095,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038990",
-      "title": "The Strange Woman",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 2520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025472",
-      "title": "Marie Galante",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 398,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032842",
-      "title": "Night Train to Munich",
-      "year": 1940,
-      "imdbRating": 7.2,
-      "imdbVotes": 5888,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    }
+    "tt0020581",
+    "tt0018972",
+    "tt0019585",
+    "tt0037547",
+    "tt16156352",
+    "tt0035612",
+    "tt0019644",
+    "tt0038990",
+    "tt0019957",
+    "tt0019979",
+    "tt0025472",
+    "tt0032842"
   ],
   "collections": [],
   "is_curated": true,

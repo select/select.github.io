@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-mechanical-cow-1937",
+      "id": "the-mechanical-cow-1937",
       "title": "The Mechanical Cow (1937)",
       "description": "The Mechanical Cow is a Terrytoons cartoon directed by Paul Terry, Jack Zander. Watch on RetroFlix:  https://retroflix.org/the-mechanical-cow-1937/",
       "fileSize": 32959155,
-      "id": "the-mechanical-cow-1937"
+      "addedAt": "2026-01-07T00:12:22.154Z",
+      "thumbnail": "https://archive.org/services/img/the-mechanical-cow-1937",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 59
     }
   ],
   "metadata": {
@@ -27,108 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150152",
-      "title": "A Close Shave",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0443314",
-      "title": "A Coach for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149799",
-      "title": "Barnyard Boss",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149974",
-      "title": "Bug Carnival",
-      "year": 1937,
-      "imdbRating": 4.1,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150031",
-      "title": "Canine Capers",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150344",
-      "title": "Dizzy Ducks",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150602",
-      "title": "Flying South",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151011",
-      "title": "I Want to Be an Actress",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151876",
-      "title": "Ozzie Ostritch Comes to Town",
-      "year": 1937,
-      "imdbRating": 3.9,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151980",
-      "title": "Pink Elephants",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152157",
-      "title": "Red Hot Music",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150152",
+    "tt0443314",
+    "tt1020989",
+    "tt0149799",
+    "tt0149974",
+    "tt0150031",
+    "tt0150344",
+    "tt0150602",
+    "tt0151011",
+    "tt0151876",
+    "tt0151980",
+    "tt0152157"
   ],
   "collections": [],
   "is_curated": true,

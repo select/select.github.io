@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/flying-elephants_1928",
+      "id": "flying-elephants_1928",
       "title": "Flying Elephants",
       "fileSize": 1686225291,
-      "id": "flying-elephants_1928"
+      "addedAt": "2026-01-07T00:08:24.396Z",
+      "thumbnail": "https://archive.org/services/img/flying-elephants_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 385
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018890",
-      "title": "The Finishing Touch",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1374,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018860",
-      "title": "Early to Bed",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 762,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018083",
-      "title": "From Soup to Nuts",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 1173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018970",
-      "title": "Habeas Corpus",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 893,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019376",
-      "title": "Should Married Men Go Home?",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 784,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019465",
-      "title": "Their Purple Moment",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019504",
-      "title": "Two Tars",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1666,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019556",
-      "title": "We Faw Down",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 1139,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019607",
-      "title": "You're Darn Tootin'",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 1339,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019640",
-      "title": "Angora Love",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019670",
-      "title": "Bacon Grabbers",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 786,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019688",
-      "title": "Big Business",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 3445,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0018890",
+    "tt0018860",
+    "tt0018083",
+    "tt0018970",
+    "tt0019376",
+    "tt0019465",
+    "tt0019504",
+    "tt0019556",
+    "tt0019607",
+    "tt0019640",
+    "tt0019670",
+    "tt0019688"
   ],
   "collections": [],
   "is_curated": true,

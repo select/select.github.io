@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-santa-claus",
+      "id": "silent-santa-claus",
       "title": "Santa Claus",
       "fileSize": 498764020,
-      "id": "silent-santa-claus"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-santa-claus",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 131017
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000420",
-      "title": "Alice in Wonderland",
-      "year": 1903,
-      "imdbRating": 6.2,
-      "imdbVotes": 2833,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015558",
-      "title": "Alice Solves the Puzzle",
-      "year": 1925,
-      "imdbRating": 5.2,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014584",
-      "title": "La voix du rossignol",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 413,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016096",
-      "title": "Mary, Queen of Tots",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017033",
-      "title": "A Kiss for Cinderella",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016544",
-      "title": "The Wizard of Oz",
-      "year": 1925,
-      "imdbRating": 4.9,
-      "imdbVotes": 1902,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014658",
-      "title": "Alice the Piper",
-      "year": 1924,
-      "imdbRating": 6.5,
-      "imdbVotes": 68,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015400",
-      "title": "The Thief of Bagdad",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 7374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015224",
-      "title": "Peter Pan",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 1317,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126879",
-      "title": "Dreams of the Rarebit Fiend: Bug Vaudeville",
-      "year": 1921,
-      "imdbRating": 5.7,
-      "imdbVotes": 377,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000420",
+    "tt0015558",
+    "tt0014584",
+    "tt0016096",
+    "tt0017033",
+    "tt0016544",
+    "tt0013014",
+    "tt4135826",
+    "tt0014658",
+    "tt0015400",
+    "tt0015224",
+    "tt0126879"
   ],
   "collections": [],
   "is_curated": true,

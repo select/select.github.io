@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/meet-king-joe-1949_202501",
+      "id": "meet-king-joe-1949_202501",
       "title": "Meet King Joe (1949)",
       "description": "Cold War propaganda movie showcasing the benefits of capitalism through the eyes of an average worker named Joe.",
       "fileSize": 59606158,
-      "id": "meet-king-joe-1949_202501"
+      "addedAt": "2026-01-07T00:09:46.429Z",
+      "thumbnail": "https://archive.org/services/img/meet-king-joe-1949_202501",
+      "language": "eng",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 14
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/meet-king-joe-1949_20250105",
+      "id": "meet-king-joe-1949_20250105",
       "title": "Meet King Joe (1949)",
       "description": "Cold War propaganda movie showcasing the benefits of capitalism through the eyes of an average worker named Joe. Watch on RetroFlix:  https://retroflix.org/meet-king-joe-1949/",
       "fileSize": 59561544,
-      "id": "meet-king-joe-1949_20250105"
+      "addedAt": "2026-01-07T00:09:46.429Z",
+      "thumbnail": "https://archive.org/services/img/meet-king-joe-1949_20250105",
+      "language": "eng",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 52
     }
   ],
   "metadata": {
@@ -35,99 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150344",
-      "title": "Dizzy Ducks",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419883",
-      "title": "Kinken chochiku Shiobara Tasuke",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148414",
-      "title": "Little Rover",
-      "year": 1935,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt14091630",
+    "tt12305226",
+    "tt12304756",
+    "tt0148531",
+    "tt1020989",
+    "tt0146584",
+    "tt0150344",
+    "tt0475080",
+    "tt0419883",
+    "tt0148414",
+    "tt0419941",
+    "tt12606824"
   ],
   "collections": [],
   "is_curated": true,

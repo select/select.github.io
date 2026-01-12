@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/01-l-ami-felon",
+      "id": "01-l-ami-felon",
       "title": "The House of Mystery (1923)",
       "description": "I've been researching newly public domain films from 1929 and earlier, along with other pictures of the era that I find interesting, so I'm uploading the best possible copies that I can find. This French film-serial was actually written and directed by Russian-born Alexandre Volkoff and was a critical and financial success upon release. It is a mystery series in which a man is betrayed by his friend and sent to prison for a murder he did not commit. While in prison, his betrayer makes moves to steal his wife as well. Modern viewers marvel at the scope and grandiosity of the picture, while praising the acting as well.  An English subtitle track is included with the downloaded serial. ",
       "fileSize": 17299986732,
-      "id": "01-l-ami-felon"
+      "addedAt": "2026-01-07T00:06:00.049Z",
+      "thumbnail": "https://archive.org/services/img/01-l-ami-felon",
+      "language": "fre",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 176
     }
   ],
   "metadata": {
@@ -26,104 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4456236",
-      "title": "Narikin",
-      "year": 1921,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159700",
-      "title": "Ride on a Runaway Train",
-      "year": 1921,
-      "imdbRating": 6.7,
-      "imdbVotes": 99,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140524",
-      "title": "Running a Cinema",
-      "year": 1921,
-      "imdbRating": 5.2,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0166609",
-      "title": "The First Circus",
-      "year": 1921,
-      "imdbRating": 5.4,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3610098",
-      "title": "The Ghost of the Canyon",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1598572",
-      "title": "Leap Year",
-      "year": 1920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3610118",
-      "title": "The Broken Brake",
-      "year": 1920,
-      "language": "None, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3610606",
-      "title": "Winning the Franchise",
-      "year": 1920,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229789",
-      "title": "A Trip to Paramountown",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471648",
-      "title": "De-Light: Making an Electric Light Bulb",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182302",
-      "title": "Lights and Shadows in a City of a Million",
-      "year": 1920,
-      "imdbRating": 4.6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0988639",
+    "tt4456236",
+    "tt0159700",
+    "tt0140524",
+    "tt0166609",
+    "tt3610098",
+    "tt1598572",
+    "tt3610118",
+    "tt3610606",
+    "tt0229789",
+    "tt0471648",
+    "tt1182302"
   ],
   "collections": [],
   "is_curated": true,

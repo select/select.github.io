@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SpiritofYouth",
+      "id": "SpiritofYouth",
       "title": "Spirit of Youth",
       "description": "Based (loosely) on the life of Joe Louis. Except that Louis never lost a professional fight (until after this movie was made, at least). Head of the Production Code office Joseph Breen warned that the film might not get played in the South because it depicted a black man (Joe Louis) defeating several white men in boxing matches.",
       "fileSize": 904280335,
-      "id": "SpiritofYouth"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/SpiritofYouth",
+      "language": "English",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 8536
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/spirit-of-youth-1938-",
+      "id": "spirit-of-youth-1938-",
       "title": "Spirit Of Youth (1938)",
       "description": "Joe Louis, Clarence Muse, Mantan Moreland",
       "fileSize": 968424252,
-      "id": "spirit-of-youth-1938-"
+      "addedAt": "2026-01-07T00:11:35.627Z",
+      "thumbnail": "https://archive.org/services/img/spirit-of-youth-1938-",
+      "collection": "feature_films",
+      "downloads": 514
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=pCNNwKI5e1M",
+      "id": "pCNNwKI5e1M",
       "title": "Spirit of Youth (1938) JOE LOUIS FIGHT FILM",
       "description": "BLACK HISTORY MONTH\nStars: Joe Louis, Clarence Muse and Mantan Moreland\nDirector: Harry L. Fraser\n\nThe story of the rise of boxer Joe Thomas, which paralleled the life of Joe Louis.",
-      "id": "pCNNwKI5e1M",
+      "addedAt": "2025-12-26T23:55:42.020Z",
+      "thumbnail": "https://i.ytimg.com/vi/pCNNwKI5e1M/maxresdefault.jpg",
+      "duration": 3947,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,120 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030164",
-      "title": "Fury Below",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033144",
-      "title": "That Gang of Mine",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 567,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028507",
-      "title": "Wildcat Saunders",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029850",
-      "title": "Alexander Nevsky",
-      "year": 1938,
-      "imdbRating": 7.5,
-      "imdbVotes": 12505,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0042609",
-      "title": "The Jackie Robinson Story",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 1494,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045656",
-      "title": "Crazylegs",
-      "year": 1953,
-      "imdbRating": 5.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0117527",
-      "title": "Run for the Dream: The Gail Devers Story",
-      "year": 1996,
-      "imdbRating": 6.2,
-      "imdbVotes": 122,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt4169250",
-      "title": "M.S. Dhoni: The Untold Story",
-      "year": 2016,
-      "imdbRating": 8,
-      "imdbVotes": 71851,
-      "language": "Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0030684",
-      "title": "Road Demon",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031737",
-      "title": "Nurse Edith Cavell",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 416,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031953",
-      "title": "Sons of Liberty",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 403,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0024805",
-      "title": "'Neath the Arizona Skies",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 1179,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030164",
+    "tt0033144",
+    "tt0028507",
+    "tt0029850",
+    "tt0042609",
+    "tt0045656",
+    "tt0117527",
+    "tt4169250",
+    "tt0030684",
+    "tt0031737",
+    "tt0031953",
+    "tt0024805"
   ],
   "collections": [],
   "is_curated": true,

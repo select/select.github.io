@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MAMAR",
+      "id": "MAMAR",
       "title": "MAMAR",
       "description": "MAMAR",
       "fileSize": 1560953049,
-      "id": "MAMAR"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/MAMAR",
+      "collection": "feature_films",
+      "downloads": 3420
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0171661",
-      "title": "Prishyol soldat s fronta",
-      "year": 1972,
-      "imdbRating": 7.7,
-      "imdbVotes": 55,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0065969",
-      "title": "The Last Valley",
-      "year": 1971,
-      "imdbRating": 7,
-      "imdbVotes": 3718,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064135",
-      "title": "Carter's Army",
-      "year": 1970,
-      "imdbRating": 5.1,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065825",
-      "title": "Hell Boats",
-      "year": 1970,
-      "imdbRating": 5.5,
-      "imdbVotes": 550,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065966",
-      "title": "The Last Escape",
-      "year": 1970,
-      "imdbRating": 5.1,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064571",
-      "title": "Eagles Over London",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 845,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064699",
-      "title": "Mosquito Squadron",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 1703,
-      "language": "French, English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064110",
-      "title": "The Bridge at Remagen",
-      "year": 1969,
-      "imdbRating": 6.7,
-      "imdbVotes": 10987,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073488",
-      "title": "They Fought for Their Country",
-      "year": 1975,
-      "imdbRating": 7.7,
-      "imdbVotes": 3298,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0062673",
-      "title": "Anzio",
-      "year": 1968,
-      "imdbRating": 6,
-      "imdbVotes": 4100,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062688",
-      "title": "Attack on the Iron Coast",
-      "year": 1968,
-      "imdbRating": 5.5,
-      "imdbVotes": 803,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062819",
-      "title": "Commandos",
-      "year": 1968,
-      "imdbRating": 5.4,
-      "imdbVotes": 1083,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0171661",
+    "tt0065969",
+    "tt0064135",
+    "tt0065825",
+    "tt0065966",
+    "tt0064571",
+    "tt0064699",
+    "tt0064110",
+    "tt0073488",
+    "tt0062673",
+    "tt0062688",
+    "tt0062819"
   ],
   "collections": [],
   "is_curated": true,

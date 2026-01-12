@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheMistressOfAtlantis",
+      "id": "TheMistressOfAtlantis",
       "title": "The Mistress of Atlantis",
       "description": "A surreal fantasy adventure adapted from Pierre Benot's novel, \"L'Atlantide,\" which has a superficial resemblance to H Rider Haggard's \"She.\" Directed by George Wilhelm Pabst UK release 1932 US release 1939 a.k.a. \"The Lost Atlantis\" (US) and \"L'Atlantide\" (FR) 5 minutes are missing. PRODUCTION NOTE: The English dialog for this version was written by Miles Mander, who became a noted character actor in British and American films. He is here at IA in \"Shadows on the Stairs.\"",
       "fileSize": 1143270037,
-      "id": "TheMistressOfAtlantis"
+      "addedAt": "2026-01-07T00:07:05.034Z",
+      "thumbnail": "https://archive.org/services/img/TheMistressOfAtlantis",
+      "collection": "feature_films",
+      "downloads": 19462
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018615",
-      "title": "The Devious Path",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 444,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021542",
-      "title": "Westfront 1918",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 2664,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018087",
-      "title": "The Love of Jeanne Ney",
-      "year": 1927,
-      "imdbRating": 7.2,
-      "imdbVotes": 899,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024282",
-      "title": "Der Läufer von Marathon",
-      "year": 1933,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022879",
-      "title": "A Farewell to Arms",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 7225,
-      "language": "English, Italian, Latin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023537",
-      "title": "A Successful Calamity",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022628",
-      "title": "The Animal Kingdom",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 1353,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022689",
-      "title": "Bird of Paradise",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1646,
-      "language": "English, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022989",
-      "title": "Hell's Headquarters",
-      "year": 1932,
-      "imdbRating": 4.6,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018615",
+    "tt0021542",
+    "tt0018087",
+    "tt0024282",
+    "tt0022879",
+    "tt0023537",
+    "tt0022628",
+    "tt0022662",
+    "tt0022689",
+    "tt0022989",
+    "tt0023025",
+    "tt0023030"
   ],
   "collections": [],
   "is_curated": true,

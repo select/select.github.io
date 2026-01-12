@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Danssalongen",
+      "id": "Danssalongen",
       "title": "Danssalongen",
       "description": "SW`s siste svenske film",
       "fileSize": 1927662025,
-      "id": "Danssalongen"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/Danssalongen",
+      "language": "swe",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 379
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048191",
-      "title": "I'll Cry Tomorrow",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 2526,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048657",
-      "title": "Stella",
-      "year": 1955,
-      "imdbRating": 7.9,
-      "imdbVotes": 2980,
-      "language": "Greek",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0049683",
-      "title": "Rock, Pretty Baby!",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049012",
-      "title": "The Burmese Harp",
-      "year": 1956,
-      "imdbRating": 8,
-      "imdbVotes": 7071,
-      "language": "Japanese, English, Burmese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050906",
-      "title": "Rock All Night",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044506",
-      "title": "Colorado Sundown",
-      "year": 1952,
-      "imdbRating": 6.2,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185288",
-      "title": "Donde comienzan los pantanos",
-      "year": 1952,
-      "imdbRating": 6.7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179799",
-      "title": "Ésta es mi vida",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053270",
-      "title": "Shadows",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 12859,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0045199",
-      "title": "Strange Fascination",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052850",
-      "title": "Girls Town",
-      "year": 1959,
-      "imdbRating": 3.8,
-      "imdbVotes": 1062,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051815",
-      "title": "Kermesse",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0048191",
+    "tt0048657",
+    "tt0049683",
+    "tt0049012",
+    "tt0050906",
+    "tt0044506",
+    "tt0185288",
+    "tt0179799",
+    "tt0053270",
+    "tt0045199",
+    "tt0052850",
+    "tt0051815"
   ],
   "collections": [],
   "is_curated": true,

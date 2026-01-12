@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-little-match-girl_1928",
+      "id": "the-little-match-girl_1928",
       "title": "The Little Match Girl",
       "fileSize": 3424592384,
-      "id": "the-little-match-girl_1928"
+      "addedAt": "2026-01-07T00:12:10.591Z",
+      "thumbnail": "https://archive.org/services/img/the-little-match-girl_1928",
+      "language": "French",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1555
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-little.-match.-girl.-1928",
+      "id": "the.-little.-match.-girl.-1928",
       "title": "The Little Match Girl (1928)",
       "description": "The Little Match Girl is a 1928 French drama featurette film directed by Jean Renoir and starring Catherine Hessling.  It follows  a poor girl struggling to sell matches on New Year's Eve but is ignored by passersby. As she tries to keep warm by lighting her matches, she experiences vivid hallucinations of warmth and comfort, ultimately leading to her tragic death in the cold, where she is found smiling in the snow.",
       "fileSize": 695714914,
-      "id": "the.-little.-match.-girl.-1928"
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-little.-match.-girl.-1928",
+      "language": "fre (English cc)",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 160
     }
   ],
   "metadata": {
@@ -34,111 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001544",
-      "title": "A Christmas Carol",
-      "year": 1910,
-      "imdbRating": 6,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003516",
-      "title": "The Wanderer",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000370",
-      "title": "Scrooge; or Marley's Ghost",
-      "year": 1901,
-      "imdbRating": 5.6,
-      "imdbVotes": 604,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132076",
-      "title": "Danses espagnoles",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230324",
-      "title": "Impatience",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019099",
-      "title": "Lingerie",
-      "year": 1928,
-      "imdbVotes": 10,
-      "language": "French, None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184737",
-      "title": "Los milagros de la Divina Pastora",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2536422",
-      "title": "Act of Faith",
-      "year": 2012,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0017775",
+    "tt0001544",
+    "tt0003516",
+    "tt0000370",
+    "tt0417062",
+    "tt0132076",
+    "tt2509978",
+    "tt4135826",
+    "tt0230324",
+    "tt0019099",
+    "tt0184737",
+    "tt2536422"
   ],
   "collections": [],
   "is_curated": true,

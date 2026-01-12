@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-secret-game-1917",
+      "id": "the-secret-game-1917",
       "title": "The Secret Game (1917)",
       "description": "I've been researching newly public domain films from 1929 and earlier, along with other pictures of the era that I find interesting, so I'm uploading the best possible copies that I can find. In this spy drama, Sessue Hayakawa stars as a Japanese spy working for American interests against a German spy, played by Florence Vidor, and her cohorts. Reviews were generally solid, though box office numbers don't seem to have been recorded. Modern viewers like the cast and plot, but feel that the ending hurts the film.  This version of the picture does have some film damage, but it doesn't prevent understanding of the story, and for the most part looks quite nice.",
       "fileSize": 664803843,
-      "id": "the-secret-game-1917"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-secret-game-1917",
+      "language": "eng",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 83
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011070",
-      "title": "Conrad in Quest of His Youth",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008188",
-      "title": "The Little American",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184572",
-      "title": "His Birthright",
-      "year": 1918,
-      "imdbRating": 5.5,
-      "imdbVotes": 35,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005078",
-      "title": "The Cheat",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 2713,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010844",
-      "title": "Victory",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 473,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191263",
-      "title": "The Man Beneath",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 53,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150388",
-      "title": "The Dragon Painter",
-      "year": 1919,
-      "imdbRating": 6.6,
-      "imdbVotes": 659,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0010534",
-      "title": "The Other Half",
-      "year": 1919,
-      "imdbRating": 5.3,
-      "imdbVotes": 57,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010791",
-      "title": "The Tong Man",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008663",
-      "title": "A Man There Was",
-      "year": 1917,
-      "imdbRating": 7.3,
-      "imdbVotes": 2389,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0011070",
+    "tt0012465",
+    "tt0008188",
+    "tt0184572",
+    "tt0005078",
+    "tt0010844",
+    "tt0191263",
+    "tt0150388",
+    "tt0010534",
+    "tt0010791",
+    "tt0008663",
+    "tt0008519"
   ],
   "collections": [],
   "is_curated": true,

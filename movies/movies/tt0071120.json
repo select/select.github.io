@@ -6,26 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AlltheKindStrangers",
+      "id": "AlltheKindStrangers",
       "title": "All the Kind Strangers",
       "description": "A couple traveling through a backwoods area are held by a a group of orphans who want them to become their parents. Unfortunately, the kids have a habit of killing adults who refuse that particular honor.",
       "fileSize": 1882490407,
-      "id": "AlltheKindStrangers"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AlltheKindStrangers",
+      "year": 1974,
+      "collection": "feature_films",
+      "downloads": 97383
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/all-the-kind-strangers-1974-tv",
+      "id": "all-the-kind-strangers-1974-tv",
       "title": "All The Kind Strangers (1974)",
       "description": "Seven backwoods orphans with dogs want an innocent couple (Stacy Keach, Samantha Eggar) to become their foster parents or else.",
       "fileSize": 524052687,
-      "id": "all-the-kind-strangers-1974-tv"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/all-the-kind-strangers-1974-tv",
+      "collection": "feature_films",
+      "downloads": 403
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AlltheKindStrangers_201511",
+      "id": "AlltheKindStrangers_201511",
       "title": "All the Kind Strangers",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1524118186,
-      "id": "AlltheKindStrangers_201511"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AlltheKindStrangers_201511",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 15494
     }
   ],
   "metadata": {
@@ -43,115 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0069838",
-      "title": "Bell from Hell",
-      "year": 1973,
-      "imdbRating": 5.6,
-      "imdbVotes": 1577,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073582",
-      "title": "Deep Red",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 45677,
-      "language": "Italian, German, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069994",
-      "title": "Don't Look in the Basement",
-      "year": 1973,
-      "imdbRating": 4.9,
-      "imdbVotes": 3609,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072831",
-      "title": "Criminally Insane",
-      "year": 1975,
-      "imdbRating": 5.3,
-      "imdbVotes": 1267,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071395",
-      "title": "The Dead Don't Die",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072179",
-      "title": "Sunburst",
-      "year": 1975,
-      "imdbRating": 3,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070917",
-      "title": "The Wicker Man",
-      "year": 1973,
-      "imdbRating": 7.5,
-      "imdbVotes": 102098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068967",
-      "title": "Moon of the Wolf",
-      "year": 1972,
-      "imdbRating": 5.1,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211971",
-      "title": "Born for Hell",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 1026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074875",
-      "title": "Massacre at Central High",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 2967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070698",
-      "title": "Sisters",
-      "year": 1972,
-      "imdbRating": 6.9,
-      "imdbVotes": 22356,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068394",
-      "title": "Knife of Ice",
-      "year": 1972,
-      "imdbRating": 6,
-      "imdbVotes": 1448,
-      "language": "Italian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0069838",
+    "tt0073582",
+    "tt0069994",
+    "tt0072831",
+    "tt0071395",
+    "tt0072179",
+    "tt0070917",
+    "tt0068967",
+    "tt0211971",
+    "tt0074875",
+    "tt0070698",
+    "tt0068394"
   ],
   "collections": [],
   "is_curated": true,

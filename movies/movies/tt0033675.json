@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/great_commandment",
+      "id": "great_commandment",
       "title": "Great Commandment, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5042954168,
-      "id": "great_commandment"
+      "addedAt": "2026-01-07T00:08:39.342Z",
+      "thumbnail": "https://archive.org/services/img/great_commandment",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 134716
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=TEZrspsvLDo",
+      "id": "TEZrspsvLDo",
       "title": "The Great Commandment (1939) DRAMA",
       "description": "Stars: John Beal, Maurice Moscovitch, Albert Dekker \nDirector: Irving Pichel\n\nPortrays the conversion to Christianity of a young Zealot and a Roman soldier through the teachings of Jesus in his Parable of the Good Samaritan.",
-      "id": "TEZrspsvLDo",
+      "addedAt": "2025-12-26T23:45:30.850Z",
+      "thumbnail": "https://i.ytimg.com/vi/TEZrspsvLDo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA9pXwGw9w4F3LQW0qJowTLNHNjKA",
+      "duration": 4812,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,113 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034976",
-      "title": "Life Begins at Eight-Thirty",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033038",
-      "title": "Seven Sinners",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 1850,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0029112",
-      "title": "Larceny on the Air",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164600",
-      "title": "Fräulein",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032165",
-      "title": "Zwischen Strom und Steppe",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031282",
-      "title": "Eternally Yours",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031288",
-      "title": "Exile Express",
-      "year": 1939,
-      "imdbRating": 5.1,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031593",
-      "title": "Love Affair",
-      "year": 1939,
-      "imdbRating": 7.3,
-      "imdbVotes": 6880,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031381",
-      "title": "Gone with the Wind",
-      "year": 1939,
-      "imdbRating": 8.2,
-      "imdbVotes": 350271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032159",
-      "title": "The Zero Hour",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031082",
-      "title": "Barricade",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 158,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031602",
-      "title": "Made for Each Other",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 4172,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034976",
+    "tt0033038",
+    "tt0029112",
+    "tt0164600",
+    "tt0032165",
+    "tt0031282",
+    "tt0031288",
+    "tt0031593",
+    "tt0032159",
+    "tt0031082",
+    "tt0031602",
+    "tt0031863"
   ],
   "collections": [],
   "is_curated": true,

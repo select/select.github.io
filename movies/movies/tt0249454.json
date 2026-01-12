@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-race-for-a-monkey",
+      "id": "silent-a-race-for-a-monkey",
       "title": "A Race for a Monkey",
       "fileSize": 111995616,
-      "id": "silent-a-race-for-a-monkey"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-race-for-a-monkey",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 284
     }
   ],
   "metadata": {
@@ -26,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1845834",
-      "title": "Medium Wanted as Son-in-Law",
-      "year": 1909,
-      "imdbRating": 4.7,
-      "imdbVotes": 8,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1247273",
-      "title": "Princess Charming",
-      "year": 1911,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234922",
-      "title": "Trial Marriages",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249618",
-      "title": "Fetch the Bread!",
-      "year": 1906,
-      "imdbRating": 5.6,
-      "imdbVotes": 51,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257379",
-      "title": "Airy Fairy Lillian Tries on Her New Corsets",
-      "year": 1905,
-      "imdbRating": 4.6,
-      "imdbVotes": 276,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1168658",
-      "title": "The Unfortunate Policeman",
-      "year": 1905,
-      "imdbRating": 5.8,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200500",
-      "title": "The Boy, the Bust and the Bath",
-      "year": 1907,
-      "imdbRating": 5.3,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233368",
-      "title": "The Borrowed Flat",
-      "year": 1911,
-      "imdbRating": 4,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1845834",
+    "tt3110548",
+    "tt1247273",
+    "tt0234922",
+    "tt0249618",
+    "tt0257379",
+    "tt1168658",
+    "tt0200500",
+    "tt0233368",
+    "tt0308284",
+    "tt2585250",
+    "tt0146584"
   ],
   "collections": [],
   "is_curated": true,

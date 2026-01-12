@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Crime_Inc_1945",
+      "id": "Crime_Inc_1945",
       "title": "Crime, Inc.",
       "description": "Tom Neal, Lionel Atwill, and Leo Carrillo in a PRC film.",
       "fileSize": 2758726493,
-      "id": "Crime_Inc_1945"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/Crime_Inc_1945",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 28820
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/crime-inc.-1945-",
+      "id": "crime-inc.-1945-",
       "title": "Crime, Inc. (1945)",
       "description": "Leo Carillio, Tom Neal, Martha Tilton, Lionel Atwill, Sheldon Leonard",
       "fileSize": 1206925294,
-      "id": "crime-inc.-1945-"
+      "addedAt": "2026-01-07T00:07:51.625Z",
+      "thumbnail": "https://archive.org/services/img/crime-inc.-1945-",
+      "collection": "feature_films",
+      "downloads": 770
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=pFF33rww_Zo",
+      "id": "pFF33rww_Zo",
       "title": "Crime, Inc. (1945) TOM NEAL",
       "description": "Stars: Tom Neal, Leo Carrillo, Sheldon Leonard, Lionel Atwill\nDirector: Lew Landers\n\nA crusading reporte is caught in the\nmiddle of a bloody war between a notorious\nmobster and a vicious syndicate when he investigates a brutal double murder!",
-      "id": "pFF33rww_Zo",
+      "addedAt": "2025-12-26T23:57:15.727Z",
+      "thumbnail": "https://i.ytimg.com/vi/pFF33rww_Zo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gSAAuADigIMCAAQARhiIGIoYjAP&rs=AOn4CLAgHeenGis6qCzAt3aUrxi8Z0Xg7Q",
+      "duration": 4391,
+      "language": "en",
+      "year": 1945,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037638",
-      "title": "Detour",
-      "year": 1945,
-      "imdbRating": 7.3,
-      "imdbVotes": 20553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046036",
-      "title": "Man in the Dark",
-      "year": 1953,
-      "imdbRating": 6.2,
-      "imdbVotes": 830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038418",
-      "title": "A Close Call for Boston Blackie",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 409,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038057",
-      "title": "Scarlet Street",
-      "year": 1945,
-      "imdbRating": 7.7,
-      "imdbVotes": 20501,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037932",
-      "title": "My Name Is Julia Ross",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 3830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038126",
-      "title": "Strange Illusion",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 1189,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037749",
-      "title": "The Great Flamarion",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 1473,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037858",
-      "title": "The Lady Confesses",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037505",
-      "title": "Allotment Wives",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 559,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037518",
-      "title": "Apology for Murder",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037598",
-      "title": "Circumstantial Evidence",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037633",
-      "title": "Dangerous Intruder",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037638",
+    "tt0046036",
+    "tt0038418",
+    "tt0038057",
+    "tt0037932",
+    "tt0038126",
+    "tt0037749",
+    "tt0037858",
+    "tt0037505",
+    "tt0037518",
+    "tt0037598",
+    "tt0037633"
   ],
   "collections": [],
   "is_curated": true,

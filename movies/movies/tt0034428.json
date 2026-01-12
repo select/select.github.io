@@ -6,26 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AcrossThePacific_449",
+      "id": "AcrossThePacific_449",
       "title": "Across The Pacific",
       "description": "trailer",
       "fileSize": 26816206,
-      "id": "AcrossThePacific_449"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AcrossThePacific_449",
+      "collection": "feature_films",
+      "downloads": 5739
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/danger-in-the-pacific-1942",
+      "id": "danger-in-the-pacific-1942",
       "title": "Danger In The Pacific (1942)",
       "description": "Leo Carrillo, Andy Devine, Don Terry, Louise Allbritton, Turhan Bey",
       "fileSize": 1040975586,
-      "id": "danger-in-the-pacific-1942"
+      "addedAt": "2026-01-07T00:07:51.628Z",
+      "thumbnail": "https://archive.org/services/img/danger-in-the-pacific-1942",
+      "collection": "feature_films",
+      "downloads": 1226
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/across-the-pacific-1942_202408",
+      "id": "across-the-pacific-1942_202408",
       "title": "Across The Pacific BOGART 1942",
       "description": "Humphrey Bogart plays a counter agent for the Army.",
       "fileSize": 81311231,
-      "id": "across-the-pacific-1942_202408"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/across-the-pacific-1942_202408",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 1038
     }
   ],
   "metadata": {
@@ -43,117 +56,18 @@
     "Awards": "1 win & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036164",
-      "title": "Miss V from Moscow",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034948",
-      "title": "Klondike Fury",
-      "year": 1942,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034577",
-      "title": "Captain Midnight",
-      "year": 1942,
-      "imdbRating": 6.6,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035372",
-      "title": "Spy Smasher",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035532",
-      "title": "War Dogs",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034405",
-      "title": "A Yank in the RAF",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 1601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036046",
-      "title": "Isle of Forgotten Sins",
-      "year": 1943,
-      "imdbRating": 4.6,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036241",
-      "title": "The Outlaw",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 5139,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Public Domain Movies - Classic Old Movies"
-    },
-    {
-      "imdbId": "tt0036262",
-      "title": "The Phantom",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 471,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036400",
-      "title": "Sanshiro Sugata",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 6102,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032642",
-      "title": "Isle of Destiny",
-      "year": 1940,
-      "imdbRating": 4.7,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036164",
+    "tt0034572",
+    "tt0034948",
+    "tt0034577",
+    "tt0035372",
+    "tt0035532",
+    "tt0034405",
+    "tt0036046",
+    "tt0036241",
+    "tt0036262",
+    "tt0036400",
+    "tt0032642"
   ],
   "collections": [],
   "is_curated": true,

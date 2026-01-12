@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Earthworm_Tractors_movie",
+      "id": "Earthworm_Tractors_movie",
       "title": "Earthworm Tractors",
       "description": "A better copy than the one already on this site. Joe E. Brown in an old-fashioned comedy. You can load the mpeg2 file into DVDAuthorGUI (a free program) and create a DVD to watch on your television.",
       "fileSize": 2079455963,
-      "id": "Earthworm_Tractors_movie"
+      "addedAt": "2026-01-07T00:06:19.370Z",
+      "thumbnail": "https://archive.org/services/img/Earthworm_Tractors_movie",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 32079
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/earthworm_tractors",
+      "id": "earthworm_tractors",
       "title": "Earthworm Tractors",
       "description": "Joe E. Brown as Andrew H. Botts, wreaks havok on a small town after coning his way into a salesman position for the Earthworm Tractor company.",
       "fileSize": 4566201941,
-      "id": "earthworm_tractors"
+      "addedAt": "2026-01-07T00:08:15.376Z",
+      "thumbnail": "https://archive.org/services/img/earthworm_tractors",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 54127
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=zk12-PZKtg0",
+      "id": "zk12-PZKtg0",
       "title": "Earthworm Tractors (1936) JOE E. BROWN",
       "description": "Stars: Joe E. Brown, June Travis, Guy Kibbee\nDirector: Ray Enright\n\nA self-described natural born salesman and master mechanic, schemes to make a big sale of Earthworm tractors to grouchy lumberman.",
-      "id": "zk12-PZKtg0",
+      "addedAt": "2025-12-26T23:57:58.271Z",
+      "thumbnail": "https://i.ytimg.com/vi/zk12-PZKtg0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCqrnBtKeiM-3_okQN-4K3lgGJInA",
+      "duration": 4125,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,112 +59,18 @@
     "Awards": "2 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027204",
-      "title": "While the Patient Slept",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 447,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030820",
-      "title": "Swing Your Lady",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024679",
-      "title": "Tomorrow at Seven",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 393,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029488",
-      "title": "Riding on Air",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032207",
-      "title": "An Angel from Texas",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020454",
-      "title": "Stolen Kisses",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028845",
-      "title": "Exiled to Shanghai",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029764",
-      "title": "When's Your Birthday?",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028876",
-      "title": "Fit for a King",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 136,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029364",
-      "title": "Over the Goal",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0027204",
+    "tt0030820",
+    "tt0024679",
+    "tt0029488",
+    "tt0032207",
+    "tt0020454",
+    "tt0028845",
+    "tt0029764",
+    "tt0028876",
+    "tt0029364",
+    "tt0027311",
+    "tt0027286"
   ],
   "collections": [],
   "is_curated": true,

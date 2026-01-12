@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-le-brasier-ardent",
+      "id": "silent-le-brasier-ardent",
       "title": "Le brasier ardent",
       "fileSize": 1829142753,
-      "id": "silent-le-brasier-ardent"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-le-brasier-ardent",
+      "language": "French",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 805
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015313",
-      "title": "Secrets of the Night",
-      "year": 1924,
-      "imdbRating": 6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010729",
-      "title": "A Sporting Chance",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036695",
-      "title": "A Canterbury Tale",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 6808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045620",
-      "title": "Charade",
-      "year": 1954,
-      "imdbRating": 6.4,
-      "imdbVotes": 324,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031831",
-      "title": "Clouds Over Europe",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 1148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030359",
-      "title": "Letter of Introduction",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 449,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037267",
-      "title": "Shake Hands with Murder",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027053",
-      "title": "Streamline Express",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032608",
-      "title": "Hot Steel",
-      "year": 1940,
-      "imdbRating": 4.1,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt33578667",
-      "title": "The True Beauty of Being Bitten by a Tick",
-      "year": 2025,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0014137",
-      "title": "Hollywood",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 86,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0301658",
-      "title": "Nedbrudte nerver",
-      "year": 1923,
-      "imdbRating": 6.5,
-      "imdbVotes": 61,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0015313",
+    "tt0010729",
+    "tt0036695",
+    "tt0045620",
+    "tt0031831",
+    "tt0030359",
+    "tt0037267",
+    "tt0027053",
+    "tt0032608",
+    "tt33578667",
+    "tt0014137",
+    "tt0301658"
   ],
   "collections": [],
   "is_curated": true,

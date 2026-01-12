@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1933-schusse-an-der-grenze-peter-voss-fritz-kampers-oscar-sabo",
+      "id": "1933-schusse-an-der-grenze-peter-voss-fritz-kampers-oscar-sabo",
       "title": "1933 Schüsse An Der Grenze ( Peter Voss, Fritz Kampers, Oscar Sabo)",
       "description": "Film aus dem deutschen dritten Reich von 1933. Schüsse an der Grenze  u.a mit Peter Voss und Fritz Kampers ",
       "fileSize": 879048476,
-      "id": "1933-schusse-an-der-grenze-peter-voss-fritz-kampers-oscar-sabo"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1933-schusse-an-der-grenze-peter-voss-fritz-kampers-oscar-sabo",
+      "language": "ger",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 132
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0228081",
-      "title": "Blutsbrüder",
-      "year": 1935,
-      "imdbRating": 9,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0241030",
-      "title": "Das verliebte Hotel",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026695",
-      "title": "Mein Leben für Maria Isabell",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0253214",
-      "title": "Das Lied der Sonne",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023968",
-      "title": "Du sollst nicht begehren...",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133782",
-      "title": "Frühlingsstimmen",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123090",
-      "title": "Glück im Schloß",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183083",
-      "title": "The Fighting President",
-      "year": 1933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181982",
-      "title": "Die blonde Christl",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228215",
-      "title": "Die vom Niederrhein",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251646",
-      "title": "Csibi, der Fratz",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025245",
-      "title": "Der Herr ohne Wohnung",
-      "year": 1934,
-      "imdbRating": 7.2,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0228081",
+    "tt0241030",
+    "tt0026695",
+    "tt0253214",
+    "tt0023968",
+    "tt0133782",
+    "tt0123090",
+    "tt0183083",
+    "tt0181982",
+    "tt0228215",
+    "tt0251646",
+    "tt0025245"
   ],
   "collections": [],
   "is_curated": true,

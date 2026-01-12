@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-felix-in-hollywood",
+      "id": "silent-felix-in-hollywood",
       "title": "Felix in Hollywood",
       "fileSize": 148545917,
-      "id": "silent-felix-in-hollywood"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-felix-in-hollywood",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 403
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010635",
-      "title": "The Roaring Road",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 653,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016497",
-      "title": "Waking Up the Town",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016235",
-      "title": "The Pony Express",
-      "year": 1925,
-      "imdbRating": 6,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0293777",
-      "title": "Le brasier ardent",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 353,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014497",
-      "title": "Souls for Sale",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 1133,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017226",
-      "title": "Old Ironsides",
-      "year": 1926,
-      "imdbRating": 6.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015116",
-      "title": "Manhandled",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 1121,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015232",
-      "title": "Pierrot, Pierrette",
-      "year": 1924,
-      "imdbRating": 6.9,
-      "imdbVotes": 45,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015313",
-      "title": "Secrets of the Night",
-      "year": 1924,
-      "imdbRating": 6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205957",
-      "title": "The Ballad of Fisher's Boarding House",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 198,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0010635",
+    "tt0016497",
+    "tt0016235",
+    "tt0293777",
+    "tt0014497",
+    "tt0017226",
+    "tt0012928",
+    "tt0014646",
+    "tt0015116",
+    "tt0015232",
+    "tt0015313",
+    "tt0205957"
   ],
   "collections": [],
   "is_curated": true,

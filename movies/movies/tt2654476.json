@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_3041",
+      "id": "dipwad2_zoho_3041",
       "title": "304",
       "description": "304 ",
       "fileSize": 9163351739,
-      "id": "dipwad2_zoho_3041"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_3041",
+      "collection": "feature_films",
+      "downloads": 1610
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_304",
+      "id": "rog56_mail_304",
       "title": "304",
       "description": "304",
       "fileSize": 14034769593,
-      "id": "rog56_mail_304"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_304",
+      "collection": "feature_films",
+      "downloads": 5831
     }
   ],
   "metadata": {
@@ -34,100 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1695350",
-      "title": "Theory NTSC",
-      "year": 2008,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8106846",
-      "title": "Haxan",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1144469",
-      "title": "The Adventure of the Speckled Band",
-      "year": 1949,
-      "imdbRating": 5.9,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216016",
-      "title": "The Mysterious Retort",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 720,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3153706",
-      "title": "314",
-      "year": 2013,
-      "language": "Norwegian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4229926",
-      "title": "411",
-      "year": 2015,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1737581",
-      "title": "654 Gravely Street",
-      "year": 2008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3464938",
-      "title": "803",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt32909121",
-      "title": "The Cold Dish",
-      "year": 2016,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0003803",
+    "tt1695350",
+    "tt0228331",
+    "tt8106846",
+    "tt1144469",
+    "tt0216016",
+    "tt2889500",
+    "tt3153706",
+    "tt4229926",
+    "tt1737581",
+    "tt3464938",
+    "tt32909121"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WithinOurGates",
+      "id": "WithinOurGates",
       "title": "Within Our Gates",
       "description": "Within Our Gates was produced and directed by Oscar Micheaux in 1919. He is considered to be the first African-American director of feature films and this is the first such film still in existence. I found the plot difficult to follow, and he does not give full play to the \"money\" scenes at the conclusion but it is certainly of historic interest.",
       "fileSize": 1800612275,
-      "id": "WithinOurGates"
+      "addedAt": "2026-01-07T00:07:18.436Z",
+      "thumbnail": "https://archive.org/services/img/WithinOurGates",
+      "collection": "feature_films",
+      "downloads": 33777
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-within-our-gates",
+      "id": "silent-within-our-gates",
       "title": "Within Our Gates",
       "fileSize": 1552661168,
-      "id": "silent-within-our-gates"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-within-our-gates",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 2922
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/within-our-gates-1920",
+      "id": "within-our-gates-1920",
       "title": "Within Our Gates (1920)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. The oldest surviving film from an African-American director, Within Our Gates follows a young woman as she learns about her family history and what it means to be a black woman in 1920's America. The picture was thought of as a minor hit on release, and modern reviews have especially found much to praise from the film. ",
       "fileSize": 2814911454,
-      "id": "within-our-gates-1920"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/within-our-gates-1920",
+      "language": "eng",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 64
     }
   ],
   "metadata": {
@@ -42,114 +57,18 @@
     "Awards": "2 wins & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0139632",
-      "title": "The Symbol of the Unconquered",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 596,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021844",
-      "title": "The Exile",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011841",
-      "title": "Way Down East",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 6016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197917",
-      "title": "Stolen Moments",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 232,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011652",
-      "title": "The Saphead",
-      "year": 1920,
-      "imdbRating": 6.1,
-      "imdbVotes": 1804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188237",
-      "title": "The Tiger's Coat",
-      "year": 1920,
-      "imdbRating": 5.3,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012027",
-      "title": "Camille",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 1081,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012190",
-      "title": "The Four Horsemen of the Apocalypse",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0139632",
+    "tt0021844",
+    "tt0011741",
+    "tt0011841",
+    "tt0197917",
+    "tt0011652",
+    "tt0188237",
+    "tt0009559",
+    "tt0009968",
+    "tt0012027",
+    "tt0012190",
+    "tt0012532"
   ],
   "collections": [],
   "is_curated": true,

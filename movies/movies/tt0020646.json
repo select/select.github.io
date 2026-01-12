@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheApacheKidsEscape",
+      "id": "TheApacheKidsEscape",
       "title": "The Apache Kid's Escape",
       "description": "A hilariously inept poverty row western starring Jack Perrin. The plot and dialog are worse than comic-book juvenile. The acting wouldn't pass muster for the cast of a middle school play. The fistfights are more like friendly wrestling matches. This one is a real laugher, but to be fair some of the continunity gaffs might be the result of the botched TV edit. Written and directed by Robert J Horner. Released in 1930. Complete print (1949 TV edit)",
       "fileSize": 631528772,
-      "id": "TheApacheKidsEscape"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheApacheKidsEscape",
+      "collection": "feature_films",
+      "downloads": 26899
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=lbM4VphGp7Q",
+      "id": "lbM4VphGp7Q",
       "title": "The Apache Kid's Escape (1930) JACK PERRIN",
       "description": "Stars: Jack Perrin, Fred Church, Josephine Hill\n Director: Robert J. Horner\n\n Staying one step ahead of the law, the Apache Kid helps out a cowboy in trouble.",
-      "id": "lbM4VphGp7Q",
+      "addedAt": "2025-12-26T23:49:29.471Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/lbM4VphGp7Q/maxresdefault.webp",
+      "duration": 2840,
+      "language": "en",
+      "year": 1930,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021358",
-      "title": "Shadow Ranch",
-      "year": 1930,
-      "imdbRating": 6.9,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021202",
-      "title": "The Oklahoma Cyclone",
-      "year": 1930,
-      "imdbRating": 3.9,
-      "imdbVotes": 185,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021176",
-      "title": "Near the Rainbow's End",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022243",
-      "title": "The Painted Desert",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 876,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022293",
-      "title": "The Range Feud",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 499,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020320",
-      "title": "Redskin",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023344",
-      "title": "The Pocatello Kid",
-      "year": 1931,
-      "imdbRating": 6.4,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023183",
-      "title": "The Man from Hell's Edges",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022921",
-      "title": "Broadway to Cheyenne",
-      "year": 1932,
-      "imdbRating": 4.8,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022951",
-      "title": "Gold",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023270",
-      "title": "The Night Rider",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022988",
-      "title": "Hell-Fire Austin",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021358",
+    "tt0021202",
+    "tt0021176",
+    "tt0022243",
+    "tt0022293",
+    "tt0020320",
+    "tt0023344",
+    "tt0023183",
+    "tt0022921",
+    "tt0022951",
+    "tt0023270",
+    "tt0022988"
   ],
   "collections": [],
   "is_curated": true,

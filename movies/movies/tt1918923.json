@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Love_Honor_and_Obey_the_Law",
+      "id": "Love_Honor_and_Obey_the_Law",
       "title": "Love, Honor and Obey (the Law!)",
       "description": "This is an industrial film produced for B. F. Goodrich Co. Stars: Harry Langdon and Monte Collins",
       "fileSize": 489118960,
-      "id": "Love_Honor_and_Obey_the_Law"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/Love_Honor_and_Obey_the_Law",
+      "language": "English",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 11179
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135175",
-      "title": "Bubbling Over",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204800",
-      "title": "Alibi Bye Bye",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026640",
-      "title": "A Little Soap and Water",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026037",
-      "title": "Adventures of Popeye",
-      "year": 1935,
-      "imdbRating": 6.4,
-      "imdbVotes": 373,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026102",
-      "title": "Be Kind to 'Aminals'",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 354,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026109",
-      "title": "Betty Boop and Grampy",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026111",
-      "title": "Beware of Barnacle Bill",
-      "year": 1935,
-      "imdbRating": 7.2,
-      "imdbVotes": 284,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149884",
-      "title": "Bird Man",
-      "year": 1935,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026210",
-      "title": "Choose Your 'Weppins'",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150133",
-      "title": "Circus Days",
-      "year": 1935,
-      "imdbRating": 4.6,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026257",
-      "title": "Dancing on the Moon",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0135175",
+    "tt0204800",
+    "tt0027097",
+    "tt0026640",
+    "tt0026037",
+    "tt0026102",
+    "tt0026109",
+    "tt0026111",
+    "tt0149884",
+    "tt0026210",
+    "tt0150133",
+    "tt0026257"
   ],
   "collections": [],
   "is_curated": true,

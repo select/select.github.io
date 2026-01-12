@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/video_20251105_1614",
+      "id": "video_20251105_1614",
       "title": "El cuarto hombre",
       "description": "Cine Negro clásico ",
       "fileSize": 840066971,
-      "id": "video_20251105_1614"
+      "addedAt": "2026-01-07T00:12:55.133Z",
+      "thumbnail": "https://archive.org/services/img/video_20251105_1614",
+      "collection": "feature_films",
+      "downloads": 24
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0377062",
-      "title": "Flight of the Phoenix",
-      "year": 2004,
-      "imdbRating": 6.1,
-      "imdbVotes": 58208,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0428725",
-      "title": "Born to Fight",
-      "year": 2004,
-      "imdbRating": 6.1,
-      "imdbVotes": 3138,
-      "language": "Thai, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0433371",
-      "title": "False Pretenses",
-      "year": 2004,
-      "imdbRating": 5.5,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328993",
-      "title": "Face of Terror",
-      "year": 2004,
-      "imdbRating": 4.3,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0408664",
-      "title": "Nobody Knows",
-      "year": 2004,
-      "imdbRating": 8,
-      "imdbVotes": 34133,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0372824",
-      "title": "The Chorus",
-      "year": 2004,
-      "imdbRating": 7.8,
-      "imdbVotes": 70509,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0467003",
-      "title": "Challenge",
-      "year": 2004,
-      "imdbRating": 7.4,
-      "imdbVotes": 2685,
-      "language": "Telugu",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0426394",
-      "title": "Agatha Christie: A Life in Pictures",
-      "year": 2004,
-      "imdbRating": 6.5,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0287733",
-      "title": "Straight Into Darkness",
-      "year": 2004,
-      "imdbRating": 4.9,
-      "imdbVotes": 1432,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0377935",
-      "title": "Beyond the Front Line",
-      "year": 2004,
-      "imdbRating": 6.5,
-      "imdbVotes": 1674,
-      "language": "Swedish, Finnish, Russian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0390221",
-      "title": "Maria Full of Grace",
-      "year": 2004,
-      "imdbRating": 7.4,
-      "imdbVotes": 36908,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0342717",
-      "title": "Joy Road",
-      "year": 2004,
-      "imdbRating": 6.4,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0377062",
+    "tt0428725",
+    "tt0433371",
+    "tt0328993",
+    "tt0408664",
+    "tt0372824",
+    "tt0467003",
+    "tt0426394",
+    "tt0287733",
+    "tt0377935",
+    "tt0390221",
+    "tt0342717"
   ],
   "collections": [],
   "is_curated": true,

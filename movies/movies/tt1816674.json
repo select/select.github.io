@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheHighSchoolHoofer",
+      "id": "TheHighSchoolHoofer",
       "title": "The High School Hoofer",
       "description": "Title: The High School Hoofer Summary: Directed by: Roy Mack Actors: Hal Le Roy, Eleanore King, Johnny Downs. Production Company: Warner Bros. Release Date: December 1931 (USA) Aspect Ratio: 1.37 : 1 Add Full Plot",
       "fileSize": 96743546,
-      "id": "TheHighSchoolHoofer"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheHighSchoolHoofer",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 1647
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0147620",
-      "title": "A Toytown Tale",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022000",
-      "title": "Indiscreet",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 1610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022263",
-      "title": "Le petit café",
-      "year": 1931,
-      "imdbRating": 6.6,
-      "imdbVotes": 26,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021496",
-      "title": "Two Plus Fours",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022387",
-      "title": "Singapore Sue",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023019",
-      "title": "Hollywood on Parade",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0023580",
-      "title": "There Goes the Bride",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021057",
-      "title": "Leathernecking",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023158",
-      "title": "Love Me Tonight",
-      "year": 1932,
-      "imdbRating": 7.5,
-      "imdbVotes": 4934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021334",
-      "title": "The Sap from Syracuse",
-      "year": 1930,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122388",
-      "title": "Baby Rose Marie the Child Wonder",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122580",
-      "title": "Lambchops",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 533,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0147620",
+    "tt0022000",
+    "tt0022263",
+    "tt0021496",
+    "tt0022387",
+    "tt0023019",
+    "tt0023580",
+    "tt0021057",
+    "tt0023158",
+    "tt0021334",
+    "tt0122388",
+    "tt0122580"
   ],
   "collections": [],
   "is_curated": true,

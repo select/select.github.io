@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-aberdeen-university-quarter-centenary-celebrations",
+      "id": "silent-aberdeen-university-quarter-centenary-celebrations",
       "title": "Aberdeen University Quarter Centenary Celebrations",
       "fileSize": 591124401,
-      "id": "silent-aberdeen-university-quarter-centenary-celebrations"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-aberdeen-university-quarter-centenary-celebrations",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 333
     }
   ],
   "metadata": {
@@ -26,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1422654",
-      "title": "Hammerfest",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 89,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0826831",
-      "title": "Tetherball, or Do-Do",
-      "year": 1898,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0431889",
-      "title": "Logging in Maine",
-      "year": 1906,
-      "imdbRating": 4.5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3473510",
-      "title": "The Streets of London: From East London Slums to Piccadilly",
-      "year": 1906,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3473502",
-      "title": "Marines Drilling on an American Cruiser",
-      "year": 1906,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0205480",
-      "title": "A Trip Down Market Street Before the Fire",
-      "year": 1906,
-      "imdbRating": 6.9,
-      "imdbVotes": 664,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0258293",
-      "title": "A Visit to Peek Frean and Co.'s Biscuit Works",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 312,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1880182",
-      "title": "Earthquake Ruins, New Majestic Theatre and City Hall",
-      "year": 1906,
-      "imdbRating": 4.6,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649365",
-      "title": "Le ballon dirigeable 'Le patrie'",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 138,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257088",
-      "title": "San Francisco: Aftermath of Earthquake",
-      "year": 1906,
-      "imdbRating": 6.4,
-      "imdbVotes": 591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234883",
-      "title": "Three American Beauties",
-      "year": 1906,
-      "imdbRating": 5.7,
-      "imdbVotes": 410,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1422654",
+    "tt0826831",
+    "tt0000537",
+    "tt0431889",
+    "tt3473510",
+    "tt3473502",
+    "tt0205480",
+    "tt0258293",
+    "tt1880182",
+    "tt1649365",
+    "tt0257088",
+    "tt0234883"
   ],
   "collections": [],
   "is_curated": true,

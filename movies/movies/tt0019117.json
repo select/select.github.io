@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/love-in-black-and-white_1928",
+      "id": "love-in-black-and-white_1928",
       "title": "Love in Black and White",
       "fileSize": 805352216,
-      "id": "love-in-black-and-white_1928"
+      "addedAt": "2026-01-07T00:09:38.894Z",
+      "thumbnail": "https://archive.org/services/img/love-in-black-and-white_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 257
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002056",
-      "title": "Prekrasnaya Lyukanida",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 198,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014063",
-      "title": "The Frogs Who Wanted a King",
-      "year": 1922,
-      "imdbRating": 7.1,
-      "imdbVotes": 631,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014584",
-      "title": "La voix du rossignol",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 413,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146484",
-      "title": "Big Game",
-      "year": 1928,
-      "imdbVotes": 12,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140909",
-      "title": "Comicalamities",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0418640",
-      "title": "Dobutsu olympic taikai",
-      "year": 1928,
-      "imdbRating": 5.6,
-      "imdbVotes": 21,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0001527",
+    "tt0002056",
+    "tt0014063",
+    "tt0014584",
+    "tt3251338",
+    "tt0309243",
+    "tt0018628",
+    "tt0211244",
+    "tt0146484",
+    "tt0018721",
+    "tt0140909",
+    "tt0418640"
   ],
   "collections": [],
   "is_curated": true,

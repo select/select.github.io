@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/IAMACAMERA1955",
+      "id": "IAMACAMERA1955",
       "title": "I Am a Camera",
       "description": "Title: I Am a Camera Summary: In Weimar-era Berlin, an aspiring writer strikes up a friendship with a vivacious, penniless singer. Directed by: Henry Cornelius Actors: Julie Harris, Laurence Harvey, Shelley Winters Production Company: Romulus Films Release Date: 21 July 1955 (UK) Aspect Ratio: 1.37 : 1 In Weimar-era Berlin, an aspiring writer strikes up a friendship with a vivacious, penniless singer.",
       "fileSize": 694910145,
-      "id": "IAMACAMERA1955"
+      "addedAt": "2026-01-07T00:06:30.619Z",
+      "thumbnail": "https://archive.org/services/img/IAMACAMERA1955",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 5890
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "Nominated for 1 BAFTA Award1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045808",
-      "title": "Genevieve",
-      "year": 1953,
-      "imdbRating": 7.1,
-      "imdbVotes": 3552,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4887484",
-      "title": "Sailor Beware!",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047900",
-      "title": "Broadway Jungle",
-      "year": 1955,
-      "imdbRating": 2.6,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048370",
-      "title": "Mercado de abasto",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 126,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048380",
-      "title": "Mister Roberts",
-      "year": 1955,
-      "imdbRating": 7.6,
-      "imdbVotes": 19133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048037",
-      "title": "The Criminal Life of Archibaldo de la Cruz",
-      "year": 1955,
-      "imdbRating": 7.6,
-      "imdbVotes": 6037,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048312",
-      "title": "The Long Gray Line",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 3392,
-      "language": "English, Irish Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0046799",
-      "title": "Boot Polish",
-      "year": 1954,
-      "imdbRating": 7.9,
-      "imdbVotes": 879,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045620",
-      "title": "Charade",
-      "year": 1954,
-      "imdbRating": 6.4,
-      "imdbVotes": 324,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049683",
-      "title": "Rock, Pretty Baby!",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047437",
-      "title": "Sabrina",
-      "year": 1954,
-      "imdbRating": 7.6,
-      "imdbVotes": 73444,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0045808",
+    "tt4887484",
+    "tt0047900",
+    "tt0048370",
+    "tt0048380",
+    "tt0048037",
+    "tt0048312",
+    "tt0049397",
+    "tt0046799",
+    "tt0045620",
+    "tt0049683",
+    "tt0047437"
   ],
   "collections": [],
   "is_curated": true,

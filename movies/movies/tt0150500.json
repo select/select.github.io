@@ -6,18 +6,26 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=RNhrBGZZ_Tc",
-      "title": "Fallout",
       "id": "RNhrBGZZ_Tc",
+      "title": "Fallout",
+      "addedAt": "2025-12-21T22:01:52.652Z",
+      "thumbnail": "https://i.ytimg.com/vi/RNhrBGZZ_Tc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAp7pk_3KXlsAEybcQWCPk67-8rxg",
+      "duration": 5695,
+      "language": "en",
       "channelName": "Popcornflix",
       "channelId": "UCVFYikepF-avelvuIaQ_lHA"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Fallout_582",
+      "id": "Fallout_582",
       "title": "Fallout",
       "description": "Animated Nuclear Preparation film",
       "fileSize": 252696200,
-      "id": "Fallout_582"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/Fallout_582",
+      "collection": "feature_films",
+      "downloads": 22203
     }
   ],
   "metadata": {
@@ -35,123 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0221309",
-      "title": "Judgment Day",
-      "year": 1999,
-      "imdbRating": 4.5,
-      "imdbVotes": 1042,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0120591",
-      "title": "Armageddon",
-      "year": 1998,
-      "imdbRating": 6.7,
-      "imdbVotes": 472385,
-      "language": "English, Russian, Indonesian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0143127",
-      "title": "Batman & Mr. Freeze: SubZero",
-      "year": 1998,
-      "imdbRating": 7.2,
-      "imdbVotes": 14445,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0221905",
-      "title": "Octopus",
-      "year": 2000,
-      "imdbRating": 3,
-      "imdbVotes": 1864,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0157079",
-      "title": "The Survivor",
-      "year": 1998,
-      "imdbRating": 3.6,
-      "imdbVotes": 268,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1260515",
-      "title": "Ultraman Cosmos: The Blue Planet",
-      "year": 2002,
-      "imdbRating": 6,
-      "imdbVotes": 107,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0118912",
-      "title": "DNA",
-      "year": 1996,
-      "imdbRating": 3.5,
-      "imdbVotes": 1965,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0117915",
-      "title": "Timelock",
-      "year": 1996,
-      "imdbRating": 3.2,
-      "imdbVotes": 553,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0206826",
-      "title": "In Pursuit",
-      "year": 2000,
-      "imdbRating": 3.7,
-      "imdbVotes": 255,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0006333",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 2172,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0101831",
-      "title": "Eve of Destruction",
-      "year": 1991,
-      "imdbRating": 5,
-      "imdbVotes": 2633,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0472566",
-      "title": "Star Wreck: In the Pirkinning",
-      "year": 2005,
-      "imdbRating": 6.6,
-      "imdbVotes": 5878,
-      "language": "Finnish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0221309",
+    "tt0143127",
+    "tt0221905",
+    "tt0157079",
+    "tt1260515",
+    "tt0118912",
+    "tt0117915",
+    "tt0206826",
+    "tt0006333",
+    "tt0101831",
+    "tt0472566",
+    "tt0197521"
   ],
   "collections": [],
   "is_curated": true,

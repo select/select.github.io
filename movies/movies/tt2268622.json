@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_8081",
+      "id": "dipwad2_zoho_8081",
       "title": "808",
       "description": "808 ",
       "fileSize": 6915757208,
-      "id": "dipwad2_zoho_8081"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_8081",
+      "collection": "feature_films",
+      "downloads": 4282
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_808",
+      "id": "rog56_mail_808",
       "title": "808",
       "description": "808",
       "fileSize": 1700284528,
-      "id": "rog56_mail_808"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_808",
+      "collection": "feature_films",
+      "downloads": 3396
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2870648",
-      "title": "Amy",
-      "year": 2015,
-      "imdbRating": 7.8,
-      "imdbVotes": 56532,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4382650",
-      "title": "NWA & Eazy-E: Kings of Compton",
-      "year": 2016,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4519562",
-      "title": "Original Motion Picture Soundtrack",
-      "year": 2017,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3457782",
-      "title": "China the Dragon Smith the Second Chance",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0770802",
-      "title": "Samsara",
-      "year": 2011,
-      "imdbRating": 8.4,
-      "imdbVotes": 39134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14540270",
-      "title": "The Beatles: In the Life",
-      "year": 2019,
-      "imdbRating": 6.1,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1885205",
-      "title": "Biebermania!",
-      "year": 2011,
-      "imdbRating": 1,
-      "imdbVotes": 2072,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt1127851",
-      "title": "Marc Bolan: The Final Word",
-      "year": 2007,
-      "imdbRating": 7.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1765782",
-      "title": "Depeche Mode: Tour of the Universe - Barcelona 20/21.11.09",
-      "year": 2010,
-      "imdbRating": 8.3,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038654",
-      "title": "Jivin' in Be-Bop",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt2870648",
+    "tt4382650",
+    "tt4189440",
+    "tt4519562",
+    "tt3457782",
+    "tt0770802",
+    "tt14540270",
+    "tt1885205",
+    "tt6564690",
+    "tt1127851",
+    "tt1765782",
+    "tt0038654"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/desert-nights_1929",
+      "id": "desert-nights_1929",
       "title": "Desert Nights",
       "fileSize": 5544858370,
-      "id": "desert-nights_1929"
+      "addedAt": "2026-01-07T00:07:59.607Z",
+      "thumbnail": "https://archive.org/services/img/desert-nights_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 365
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018179",
-      "title": "Mr. Wu",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 721,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022705",
-      "title": "Border Devils",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018795",
-      "title": "The Cossacks",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018513",
-      "title": "Twelve Miles Out",
-      "year": 1927,
-      "imdbRating": 5.1,
-      "imdbVotes": 666,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029941",
-      "title": "Boy of the Streets",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035755",
-      "title": "Corregidor",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 326,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030126",
-      "title": "Female Fugitive",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030170",
-      "title": "Gangster's Boy",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018618",
+    "tt0018179",
+    "tt0022705",
+    "tt0018795",
+    "tt0018513",
+    "tt0028592",
+    "tt0028634",
+    "tt0029941",
+    "tt0035755",
+    "tt0032404",
+    "tt0030126",
+    "tt0030170"
   ],
   "collections": [],
   "is_curated": true,

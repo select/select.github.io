@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-trip-to-mars",
+      "id": "silent-a-trip-to-mars",
       "title": "A Trip to Mars",
       "fileSize": 1881293106,
-      "id": "silent-a-trip-to-mars"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-trip-to-mars",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 1413
     }
   ],
   "metadata": {
@@ -26,120 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051638",
-      "title": "From the Earth to the Moon",
-      "year": 1958,
-      "imdbRating": 5.1,
-      "imdbVotes": 1875,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4296026",
-      "title": "Avengers Grimm",
-      "year": 2015,
-      "imdbRating": 2.7,
-      "imdbVotes": 2280,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0016338",
-      "title": "She",
-      "year": 1925,
-      "imdbRating": 5.5,
-      "imdbVotes": 180,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050622",
-      "title": "The Land Unknown",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 2092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3460068",
-      "title": "Aladdin 3477- I: The Jinn of Wisdom",
-      "year": 2025,
-      "imdbRating": 6.5,
-      "imdbVotes": 39,
-      "language": "English, German, Cantonese, Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0338470",
-      "title": "Sumuru",
-      "year": 2003,
-      "imdbRating": 3.6,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1353997",
-      "title": "Dragonquest",
-      "year": 2009,
-      "imdbRating": 3,
-      "imdbVotes": 1118,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0010600",
-      "title": "The Doll",
-      "year": 1919,
-      "imdbRating": 7.4,
-      "imdbVotes": 2558,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006333",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 2172,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004873",
-      "title": "Alice in Wonderland",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 795,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0051638",
+    "tt4296026",
+    "tt0016338",
+    "tt0050622",
+    "tt3460068",
+    "tt0338470",
+    "tt0843873",
+    "tt1353997",
+    "tt1132130",
+    "tt0010600",
+    "tt0006333",
+    "tt0004873"
   ],
   "collections": [],
   "is_curated": true,

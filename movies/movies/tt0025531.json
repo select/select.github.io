@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Murder_in_the_Museum",
+      "id": "Murder_in_the_Museum",
       "title": "Murder in the Museum",
       "description": "You asked for it.",
       "fileSize": 1413027063,
-      "id": "Murder_in_the_Museum"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/Murder_in_the_Museum",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 22538
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=12jGFmGMPh8",
+      "id": "12jGFmGMPh8",
       "title": "The Murder in the Museum (1934) MYSTERY",
       "description": "tars: Henry B. Walthall, John Harron, Phyllis Barrington\nDirector: Melville Shyer\n\nWhen a city councilman is murdered while investigating allegations of drug dealing, the daughter of the chief suspect teams with a newspaper reporter to find the real killer!",
-      "id": "12jGFmGMPh8",
+      "addedAt": "2025-12-26T23:47:38.665Z",
+      "thumbnail": "https://i.ytimg.com/vi/12jGFmGMPh8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhmIGYoZjAP&rs=AOn4CLC3yB-atsBRoRX55LeLwu5N0hmbiQ",
+      "duration": 3905,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025564",
-      "title": "The Murder Party",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024625",
-      "title": "A Study in Scarlet",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027504",
-      "title": "Death from a Distance",
-      "year": 1935,
-      "imdbRating": 5.2,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026740",
-      "title": "Murder by Television",
-      "year": 1935,
-      "imdbRating": 4.2,
-      "imdbVotes": 759,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024382",
-      "title": "Night of Terror",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027136",
-      "title": "The Triumph of Sherlock Holmes",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024368",
-      "title": "Mystery of the Wax Museum",
-      "year": 1933,
-      "imdbRating": 6.8,
-      "imdbVotes": 7365,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026975",
-      "title": "Secrets of Chinatown",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024559",
-      "title": "The Silk Express",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024631",
-      "title": "Supernatural",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 1023,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026029",
-      "title": "The 39 Steps",
-      "year": 1935,
-      "imdbRating": 7.6,
-      "imdbVotes": 65037,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026868",
-      "title": "The Phantom Light",
-      "year": 1935,
-      "imdbRating": 6.2,
-      "imdbVotes": 634,
-      "language": "English, Welsh",
-      "sourceType": "archive.org"
-    }
+    "tt0025564",
+    "tt0024625",
+    "tt0027504",
+    "tt0026740",
+    "tt0024382",
+    "tt0027136",
+    "tt0024368",
+    "tt0026975",
+    "tt0024559",
+    "tt0024631",
+    "tt0026029",
+    "tt0026868"
   ],
   "collections": [],
   "is_curated": true,

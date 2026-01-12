@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1936-stjenka-rasin",
+      "id": "1936-stjenka-rasin",
       "title": "1936 Stjenka Rasin",
       "description": "Film aus dem deutschen dritten Reich von 1936. Stjenka Rasin. U.a mit Heinrich George und Hans Adalbert von Schletow als Stjenka Rasin ",
       "fileSize": 530949846,
-      "id": "1936-stjenka-rasin"
+      "addedAt": "2026-01-07T00:06:02.054Z",
+      "thumbnail": "https://archive.org/services/img/1936-stjenka-rasin",
+      "language": "ger",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 222
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027941",
-      "title": "Man spricht über Jacqueline",
-      "year": 1937,
-      "imdbRating": 6.9,
-      "imdbVotes": 29,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026489",
-      "title": "Hong Kong Nights",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026438",
-      "title": "The Great Impersonation",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026764",
-      "title": "Nacht der Verwandlung",
-      "year": 1935,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025152",
-      "title": "Fugitive Road",
-      "year": 1934,
-      "imdbRating": 5.9,
-      "imdbVotes": 68,
-      "language": "English, German, Italian",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027697",
-      "title": "Great Guy",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027361",
-      "title": "The Big Show",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027893",
-      "title": "Little Lord Fauntleroy",
-      "year": 1936,
-      "imdbRating": 7.3,
-      "imdbVotes": 2696,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0027941",
+    "tt0026489",
+    "tt0026438",
+    "tt0026764",
+    "tt0025152",
+    "tt0027311",
+    "tt0027286",
+    "tt0028231",
+    "tt0027697",
+    "tt0027361",
+    "tt0027893",
+    "tt0027727"
   ],
   "collections": [],
   "is_curated": true,

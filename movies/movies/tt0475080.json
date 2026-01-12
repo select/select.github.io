@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/exhibition-reel-of-two-color-film_1929",
+      "id": "exhibition-reel-of-two-color-film_1929",
       "title": "Exhibition Reel of Two Color Film",
       "description": "A demonstration of the Brewster Color subtractive two-color process.",
       "fileSize": 333704500,
-      "id": "exhibition-reel-of-two-color-film_1929"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/exhibition-reel-of-two-color-film_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 293
     }
   ],
   "metadata": {
@@ -27,104 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309770",
-      "title": "The Keystone 'Patrician'",
-      "year": 1928,
-      "imdbRating": 5.1,
-      "imdbVotes": 70,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019547",
-      "title": "The Wandering Toy",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147118",
-      "title": "One Man Dog",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6240486",
-      "title": "Voting for Service Men Overseas",
-      "year": 1944,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147714",
-      "title": "The Wind Jammers",
-      "year": 1926,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt14091630",
+    "tt12606824",
+    "tt16899218",
+    "tt0309243",
+    "tt0309770",
+    "tt0419941",
+    "tt0019547",
+    "tt5503754",
+    "tt0146584",
+    "tt0147118",
+    "tt6240486",
+    "tt0147714"
   ],
   "collections": [],
   "is_curated": true,

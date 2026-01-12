@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-she",
+      "id": "silent-she",
       "title": "She",
       "fileSize": 1397667406,
-      "id": "silent-she"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-she",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 889
     }
   ],
   "metadata": {
@@ -26,120 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016039",
-      "title": "The Lost World",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 6175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051638",
-      "title": "From the Earth to the Moon",
-      "year": 1958,
-      "imdbRating": 5.1,
-      "imdbVotes": 1875,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4296026",
-      "title": "Avengers Grimm",
-      "year": 2015,
-      "imdbRating": 2.7,
-      "imdbVotes": 2280,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0008100",
-      "title": "A Trip to Mars",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 761,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050622",
-      "title": "The Land Unknown",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 2092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3460068",
-      "title": "Aladdin 3477- I: The Jinn of Wisdom",
-      "year": 2025,
-      "imdbRating": 6.5,
-      "imdbVotes": 39,
-      "language": "English, German, Cantonese, Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0338470",
-      "title": "Sumuru",
-      "year": 2003,
-      "imdbRating": 3.6,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1353997",
-      "title": "Dragonquest",
-      "year": 2009,
-      "imdbRating": 3,
-      "imdbVotes": 1118,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0015400",
-      "title": "The Thief of Bagdad",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 7374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015174",
-      "title": "Die Nibelungen: Kriemhild's Revenge",
-      "year": 1924,
-      "imdbRating": 7.9,
-      "imdbVotes": 5147,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0016039",
+    "tt0051638",
+    "tt4296026",
+    "tt0008100",
+    "tt0050622",
+    "tt3460068",
+    "tt0338470",
+    "tt0843873",
+    "tt1353997",
+    "tt1132130",
+    "tt0015400",
+    "tt0015174"
   ],
   "collections": [],
   "is_curated": true,

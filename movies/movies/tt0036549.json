@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/yc54654633",
+      "id": "yc54654633",
       "title": "Yellow Canary",
       "description": "Title: Yellow Canary Summary: A woman wrongfully accused of being a Nazi sympathizer is forced to move to Halifax, a city in the Canadian province of Nova Scotia. Directed by: Herbert Wilcox Actors: Anna Neagle, Richard Greene, Nova Pilbeam Production Company: Herbert Wilcox Productions Release Date: 13 December 1943 (UK) Aspect Ratio: 1.37 : 1 In 1940 Sally Maitland is forced to leave England, ostracised as a Nazi sympathiser by everyone including her well-to-do family. On the ship to Halifax, Canada, she is courted by Polish aristocrat Jan Orloch and by awkward British navel intelligence officer Jimmy Garrick. She shows herself somewhat more amenable to Orloch's advances, and agrees to meet his mother in Halifax. Once there however, it becomes clear no-one is really who they say they are.",
       "fileSize": 704966877,
-      "id": "yc54654633"
+      "addedAt": "2026-01-07T00:13:17.038Z",
+      "thumbnail": "https://archive.org/services/img/yc54654633",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 1509
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/YellowCanary",
+      "id": "YellowCanary",
       "title": "Yellow Canary",
       "description": "“Intriguing conspiracies” “Enjoyable spy thriller” “Watchable long after the end of the war” “Anna Neagle’s finest role” (IMDB reviews quotes). A wartime transatlantic suspense drama co-starring Richard Greene and Anna Neagle with comedy relief supplied by the indomitable Margaret Rutherford. Superior production values for type. IMDB rating 6.4. Produced and directed by Herbert Wilcox. UK release 1943. US release 1944. Complete print.",
       "fileSize": 1364148032,
-      "id": "YellowCanary"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/YellowCanary",
+      "collection": "feature_films",
+      "downloads": 10616
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032847",
-      "title": "No, No, Nanette",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031737",
-      "title": "Nurse Edith Cavell",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 416,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039281",
-      "title": "Katy's Love Affair",
-      "year": 1947,
-      "imdbRating": 6.6,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034636",
-      "title": "The Dark Tower",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035612",
-      "title": "The Adventures of Tartu",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 1095,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035966",
-      "title": "Hangmen Also Die!",
-      "year": 1943,
-      "imdbRating": 7.4,
-      "imdbVotes": 7016,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036307",
-      "title": "Revenge of the Zombies",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 849,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035937",
-      "title": "The Ghost Ship",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 3833,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034538",
-      "title": "Bombs Over Burma",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037330",
-      "title": "The Suspect",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 3684,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035301",
-      "title": "Secret Mission",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 436,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    }
+    "tt0032847",
+    "tt0035121",
+    "tt0031737",
+    "tt0039281",
+    "tt0034636",
+    "tt0035612",
+    "tt0035966",
+    "tt0036307",
+    "tt0035937",
+    "tt0034538",
+    "tt0037330",
+    "tt0035301"
   ],
   "collections": [],
   "is_curated": true,

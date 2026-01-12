@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MabelsBlunder1914",
+      "id": "MabelsBlunder1914",
       "title": "MABEL'S BLUNDER (1914)",
       "description": "MABEL'S BLUNDER Keystone-Mutual 1 reel, rel. Sept. 12, 1914 (The False Chauffeur) dir. Mabel Normand, auth. Mabel Normand cast: Mabel Normand, Harry McCoy, Charles Bennett, Charles Parrott (Charley Chase) finished: 8/24/1914 William Thomas Sherman, wts@gunjones.com, http://www.angelfire.com/mn/hp/",
       "fileSize": 1236131745,
-      "id": "MabelsBlunder1914"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/MabelsBlunder1914",
+      "collection": "feature_films",
+      "downloads": 1475
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-mabels-blunder",
+      "id": "silent-mabels-blunder",
       "title": "Mabel's Blunder",
       "fileSize": 421900513,
-      "id": "silent-mabels-blunder"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-mabels-blunder",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 306
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003758",
-      "title": "Caught in a Cabaret",
-      "year": 1914,
-      "imdbRating": 5.7,
-      "imdbVotes": 1537,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004284",
-      "title": "Mabel's Strange Predicament",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 2038,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004277",
-      "title": "Mabel at the Wheel",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 1085,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005677",
-      "title": "Mabel and Fatty's Wash Day",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003934",
-      "title": "The Fatal Mallet",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 1115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004280",
-      "title": "Mabel's Busy Day",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 1081,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004108",
-      "title": "His Trysting Place",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 1010,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003949",
-      "title": "Fatty's Magic Pants",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 194,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004064",
-      "title": "Hello, Mabel",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004101",
-      "title": "His New Profession",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 1417,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004282",
-      "title": "Mabel's Married Life",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 1466,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004691",
-      "title": "Those Country Kids",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003758",
+    "tt0004284",
+    "tt0004277",
+    "tt0005677",
+    "tt0003934",
+    "tt0004280",
+    "tt0004108",
+    "tt0003949",
+    "tt0004064",
+    "tt0004101",
+    "tt0004282",
+    "tt0004691"
   ],
   "collections": [],
   "is_curated": true,

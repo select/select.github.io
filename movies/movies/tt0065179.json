@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LifeLoveDeath",
+      "id": "LifeLoveDeath",
       "title": "Life Love Death",
       "description": "Life Love Death",
       "fileSize": 28916030,
-      "id": "LifeLoveDeath"
+      "addedAt": "2026-01-07T00:06:38.750Z",
+      "thumbnail": "https://archive.org/services/img/LifeLoveDeath",
+      "collection": "feature_films",
+      "downloads": 1510
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0248088",
-      "title": "El hijo pródigo",
-      "year": 1969,
-      "imdbRating": 6.4,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064448",
-      "title": "House of Cards",
-      "year": 1968,
-      "imdbRating": 6,
-      "imdbVotes": 800,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067835",
-      "title": "A Tattered Web",
-      "year": 1971,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067045",
-      "title": "Ellery Queen: Don't Look Behind You",
-      "year": 1971,
-      "imdbRating": 5.4,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062038",
-      "title": "The Night of the Generals",
-      "year": 1967,
-      "imdbRating": 7.2,
-      "imdbVotes": 9237,
-      "language": "English, Italian, Spanish, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0283883",
-      "title": "And Now Ladies & Gentlemen",
-      "year": 2002,
-      "imdbRating": 6.1,
-      "imdbVotes": 2412,
-      "language": "French, English, Arabic, Italian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0068174",
-      "title": "Adventures of Nick Carter",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067670",
-      "title": "The Return of Charlie Chan",
-      "year": 1972,
-      "imdbRating": 5.7,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069439",
-      "title": "Murder Is a Murder",
-      "year": 1972,
-      "imdbRating": 5.8,
-      "imdbVotes": 291,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0070578",
-      "title": "The Pyx",
-      "year": 1973,
-      "imdbRating": 5.4,
-      "imdbVotes": 991,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059909",
-      "title": "Who Killed Teddy Bear",
-      "year": 1965,
-      "imdbRating": 6.6,
-      "imdbVotes": 1071,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0248088",
+    "tt0064448",
+    "tt0067835",
+    "tt0067045",
+    "tt0062038",
+    "tt0068174",
+    "tt0067670",
+    "tt0069439",
+    "tt0070578",
+    "tt0059909",
+    "tt0038494",
+    "tt0028231"
   ],
   "collections": [],
   "is_curated": true,

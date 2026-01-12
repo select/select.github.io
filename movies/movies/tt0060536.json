@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/InTheYear28891967",
+      "id": "InTheYear28891967",
       "title": "In the Year 2889 (1967)",
       "description": "Survivors of post nuclear war struggle against mutants and radioactive fallout. Mystic Nights Videos",
       "fileSize": 2205790797,
-      "id": "InTheYear28891967"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/InTheYear28891967",
+      "collection": "feature_films",
+      "downloads": 55385
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/InTheYear28891967_201508",
+      "id": "InTheYear28891967_201508",
       "title": "In The Year 2889 (1967)",
       "description": "This made for TV movie has fallen into the Public Domain.",
       "fileSize": 1848324530,
-      "id": "InTheYear28891967_201508"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/InTheYear28891967_201508",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 2932
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/In_The_Year_2889",
+      "id": "In_The_Year_2889",
       "title": "In The Year 2889",
       "description": "IN THE YEAR 2889 Starring: PAUL PETERSON AND QUINN O'HARE A group of post A-war survivors gathered together in a valley, are menaced by cannibalistic human mutants with telepathic powers.",
       "fileSize": 1464923977,
-      "id": "In_The_Year_2889"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/In_The_Year_2889",
+      "language": "English",
+      "year": 1967,
+      "collection": "feature_films",
+      "downloads": 298095
     }
   ],
   "metadata": {
@@ -43,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0063145",
-      "title": "It's Alive!",
-      "year": 1969,
-      "imdbRating": 2.7,
-      "imdbVotes": 1002,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061529",
-      "title": "Creature of Destruction",
-      "year": 1968,
-      "imdbRating": 3.2,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060270",
-      "title": "Curse of the Swamp Creature",
-      "year": 1968,
-      "imdbRating": 2.5,
-      "imdbVotes": 822,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059161",
-      "title": "Attack of the Eye Creatures",
-      "year": 1967,
-      "imdbRating": 2.3,
-      "imdbVotes": 1477,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061217",
-      "title": "Zontar: The Thing from Venus",
-      "year": 1967,
-      "imdbRating": 3.2,
-      "imdbVotes": 1147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052228",
-      "title": "Space Master X-7",
-      "year": 1958,
-      "imdbRating": 5.2,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052846",
-      "title": "The Giant Gila Monster",
-      "year": 1959,
-      "imdbRating": 3.7,
-      "imdbVotes": 4520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080354",
-      "title": "Alligator",
-      "year": 1980,
-      "imdbRating": 6.1,
-      "imdbVotes": 17623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050210",
-      "title": "The Brain from Planet Arous",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1789724",
-      "title": "Cell Count",
-      "year": 2012,
-      "imdbRating": 3.7,
-      "imdbVotes": 764,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1386583",
-      "title": "Infection: The Invasion Begins",
-      "year": 2011,
-      "imdbRating": 2.5,
-      "imdbVotes": 539,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0063145",
+    "tt0061529",
+    "tt0060270",
+    "tt0059161",
+    "tt0061217",
+    "tt0053337",
+    "tt0052228",
+    "tt0052846",
+    "tt0080354",
+    "tt0050210",
+    "tt1789724",
+    "tt1386583"
   ],
   "collections": [],
   "is_curated": true,

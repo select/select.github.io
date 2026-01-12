@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PrivateDetective62",
+      "id": "PrivateDetective62",
       "title": "Private Detective 62",
       "description": "tr",
       "fileSize": 19088069,
-      "id": "PrivateDetective62"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/PrivateDetective62",
+      "collection": "feature_films",
+      "downloads": 4030
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0024210",
-      "title": "The Kennel Murder Case",
-      "year": 1933,
-      "imdbRating": 6.8,
-      "imdbVotes": 4237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049718",
-      "title": "The Scarlet Hour",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 778,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024724",
-      "title": "Ein Unsichtbarer geht durch die Stadt",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 71,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023984",
-      "title": "Emergency Call",
-      "year": 1933,
-      "imdbRating": 5.9,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024199",
-      "title": "Jungle Bride",
-      "year": 1933,
-      "imdbRating": 5,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024394",
-      "title": "Notorious But Nice",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0187371",
-      "title": "On Your Guard",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024416",
-      "title": "One Year Later",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024619",
-      "title": "Strange People",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024628",
-      "title": "Sucker Money",
-      "year": 1933,
-      "imdbRating": 4.7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025658",
-      "title": "The Pointing Finger",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0024210",
+    "tt0049718",
+    "tt0024724",
+    "tt0023984",
+    "tt0024151",
+    "tt0024199",
+    "tt0024394",
+    "tt0187371",
+    "tt0024416",
+    "tt0024619",
+    "tt0024628",
+    "tt0025658"
   ],
   "collections": [],
   "is_curated": true,

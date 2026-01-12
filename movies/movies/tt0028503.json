@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhiteLegion",
+      "id": "WhiteLegion",
       "title": "White Legion",
       "description": "As the Panama Canal is being built, yellow fever is decimating the folks building it, and a cure must be found!",
       "fileSize": 1443850908,
-      "id": "WhiteLegion"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhiteLegion",
+      "collection": "feature_films",
+      "downloads": 7045
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030614",
-      "title": "Port of Missing Girls",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030911",
-      "title": "Under the Big Top",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018446",
-      "title": "Stark Love",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 168,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026047",
-      "title": "Air Hawks",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026249",
-      "title": "The Crusades",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 1332,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029898",
-      "title": "Barefoot Boy",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027697",
-      "title": "Great Guy",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027361",
-      "title": "The Big Show",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030614",
+    "tt0030911",
+    "tt0018446",
+    "tt0026047",
+    "tt0026249",
+    "tt0027003",
+    "tt0029898",
+    "tt0027311",
+    "tt0027286",
+    "tt0028231",
+    "tt0027697",
+    "tt0027361"
   ],
   "collections": [],
   "is_curated": true,

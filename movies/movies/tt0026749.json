@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/musical-memories-1935",
+      "id": "musical-memories-1935",
       "title": "Musical Memories (1935)",
       "description": "An elderly couple reminisce about their youth and courtship while looking through their collection of stereoscopic photographs. Watch on RetroFlix:  https://retroflix.org/musical-memories-1935/",
       "fileSize": 52077821,
-      "id": "musical-memories-1935"
+      "addedAt": "2026-01-07T00:09:54.333Z",
+      "thumbnail": "https://archive.org/services/img/musical-memories-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 56
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027025",
-      "title": "The Song of the Birds",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025382",
-      "title": "Let's Sing with Popeye",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 241,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026257",
-      "title": "Dancing on the Moon",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026374",
-      "title": "For Better or Worser",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 301,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028277",
-      "title": "Somewhere in Dreamland",
-      "year": 1935,
-      "imdbRating": 7.5,
-      "imdbVotes": 794,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026503",
-      "title": "The 'Hyp-Nut-Tist'",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026569",
-      "title": "The Kids in the Shoe",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027031",
-      "title": "The Spinach Overture",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 298,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027109",
-      "title": "Time for Love",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027448",
-      "title": "A Clean Shaven Man",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025071",
-      "title": "A Dream Walking",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026310",
-      "title": "An Elephant Never Forgets",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027025",
+    "tt0025382",
+    "tt0026257",
+    "tt0026374",
+    "tt0028277",
+    "tt0026503",
+    "tt0026569",
+    "tt0027031",
+    "tt0027109",
+    "tt0027448",
+    "tt0025071",
+    "tt0026310"
   ],
   "collections": [
     {

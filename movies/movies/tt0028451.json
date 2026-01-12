@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1936-unter-heissem-himmel",
+      "id": "1936-unter-heissem-himmel",
       "title": "1936 Unter Heissem Himmel",
       "description": "Film aus dem deutschen dritten Reich von 1936.. Unter heissem Himmel.  U.a mit Hans Albers,Rene Deltgen und Aribert Wäscher ",
       "fileSize": 1213027534,
-      "id": "1936-unter-heissem-himmel"
+      "addedAt": "2026-01-07T00:06:02.054Z",
+      "thumbnail": "https://archive.org/services/img/1936-unter-heissem-himmel",
+      "language": "ger",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 281
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028220",
-      "title": "Savoy-Hotel 217",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 67,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030730",
-      "title": "Sergeant Berry",
-      "year": 1938,
-      "imdbRating": 4.2,
-      "imdbVotes": 33,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025336",
-      "title": "Der junge Baron Neuhaus",
-      "year": 1934,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030154",
-      "title": "Frau Sixta",
-      "year": 1938,
-      "imdbRating": 7.5,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028776",
-      "title": "Pilot X",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028174",
-      "title": "Revolt of the Zombies",
-      "year": 1936,
-      "imdbRating": 3.4,
-      "imdbVotes": 1925,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028241",
-      "title": "Shadow of Chinatown",
-      "year": 1936,
-      "imdbRating": 4.5,
-      "imdbVotes": 303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329531",
-      "title": "The Reckless Way",
-      "year": 1936,
-      "imdbRating": 4.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028380",
-      "title": "Ticket to Paradise",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028170",
-      "title": "We're in the Legion Now",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027420",
-      "title": "Captain Calamity",
-      "year": 1936,
-      "imdbRating": 4.3,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027496",
-      "title": "Dancing Pirate",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 398,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0028220",
+    "tt0030730",
+    "tt0025336",
+    "tt0030154",
+    "tt0028776",
+    "tt0028174",
+    "tt0028241",
+    "tt0329531",
+    "tt0028380",
+    "tt0028170",
+    "tt0027420",
+    "tt0027496"
   ],
   "collections": [],
   "is_curated": true,

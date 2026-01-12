@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheKidStakes",
+      "id": "TheKidStakes",
       "title": "The Kid Stakes",
       "description": "Australian Silent film based on the Fatty Finn comic strips. This was the last silent film made in Australia. It was shot in the Sydney streets in 1927. The suburb where it is set is Wooloomoloo, which is an inner city suburb between the CBD and Potts Point. At the time this was film was made, it was a poor area. It is now an expensive, trendy suburb. The billy goat race had to be filmed in Queensland as the New South Wales government had banned such races a year before this film was made. The projection speed has been corrected so the film runs a little longer than other versions. The soundtrack included here is a collection of popular style recordings from the time approximating the original musical accompanyment. This film has been in the Australian public domain since 1978. It was published in the USA without the necessary copyright formalities and its copyright was not restored by GATT due to its public domain status in Australia.",
       "fileSize": 1919611720,
-      "id": "TheKidStakes"
+      "addedAt": "2026-01-07T00:07:05.033Z",
+      "thumbnail": "https://archive.org/services/img/TheKidStakes",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 18975
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018379",
-      "title": "7th Heaven",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 4348,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017667",
-      "title": "The Beloved Rogue",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017765",
-      "title": "College",
-      "year": 1927,
-      "imdbRating": 6.9,
-      "imdbVotes": 5578,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018295",
-      "title": "El puño de hierro",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 57,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017899",
-      "title": "For the Term of His Natural Life",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019339",
-      "title": "The Rush Hour",
-      "year": 1927,
-      "imdbRating": 7.9,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0167756",
-      "title": "Addio giovinezza!",
-      "year": 1927,
-      "imdbRating": 5.8,
-      "imdbVotes": 23,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017623",
-      "title": "Am Rande der Welt",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 76,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017632",
-      "title": "Annie Laurie",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 534,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017735",
-      "title": "Captain Salvation",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017743",
-      "title": "Chang: A Drama of the Wilderness",
-      "year": 1927,
-      "imdbRating": 6.9,
-      "imdbVotes": 1152,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    }
+    "tt0018379",
+    "tt0017667",
+    "tt0017765",
+    "tt0018295",
+    "tt0017899",
+    "tt0019339",
+    "tt0167756",
+    "tt0017623",
+    "tt0017632",
+    "tt0017662",
+    "tt0017735",
+    "tt0017743"
   ],
   "collections": [],
   "is_curated": true,

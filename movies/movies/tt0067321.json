@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LadyFrankenstein_201511",
+      "id": "LadyFrankenstein_201511",
       "title": "Lady Frankenstein",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 657841,
-      "id": "LadyFrankenstein_201511"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/LadyFrankenstein_201511",
+      "collection": "feature_films",
+      "downloads": 904
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0066740",
-      "title": "The Abominable Dr. Phibes",
-      "year": 1971,
-      "imdbRating": 7,
-      "imdbVotes": 17232,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066847",
-      "title": "Blood Thirst",
-      "year": 1971,
-      "imdbRating": 4.5,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067229",
-      "title": "I Drink Your Blood",
-      "year": 1971,
-      "imdbRating": 5.9,
-      "imdbVotes": 4271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054724",
-      "title": "I Eat Your Skin",
-      "year": 1971,
-      "imdbRating": 3.6,
-      "imdbVotes": 1706,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067341",
-      "title": "Let's Scare Jessica to Death",
-      "year": 1971,
-      "imdbRating": 6.4,
-      "imdbVotes": 9632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063142",
-      "title": "Isle of the Snake People",
-      "year": 1971,
-      "imdbRating": 3.4,
-      "imdbVotes": 1082,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067690",
-      "title": "Daughters of Darkness",
-      "year": 1971,
-      "imdbRating": 6.5,
-      "imdbVotes": 7351,
-      "language": "English, French, Dutch, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066991",
-      "title": "The Devil and Miss Sarah",
-      "year": 1971,
-      "imdbRating": 6,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067119",
-      "title": "Fright",
-      "year": 1971,
-      "imdbRating": 5.8,
-      "imdbVotes": 2141,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067850",
-      "title": "This Stuff'll Kill Ya!",
-      "year": 1971,
-      "imdbRating": 3.8,
-      "imdbVotes": 392,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065854",
-      "title": "The House That Dripped Blood",
-      "year": 1971,
-      "imdbRating": 6.5,
-      "imdbVotes": 7791,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0067017",
-      "title": "Dracula vs. Frankenstein",
-      "year": 1971,
-      "imdbRating": 3.5,
-      "imdbVotes": 2290,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Films"
-    }
+    "tt0066740",
+    "tt0066847",
+    "tt0054724",
+    "tt0067341",
+    "tt0063142",
+    "tt0067690",
+    "tt0066991",
+    "tt0067119",
+    "tt0067850",
+    "tt0065854",
+    "tt0067017",
+    "tt0066816"
   ],
   "collections": [],
   "is_curated": true,

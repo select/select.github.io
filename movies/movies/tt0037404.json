@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tunisian-victory-1944",
+      "id": "tunisian-victory-1944",
       "title": "Tunisian Victory (1944)",
       "description": "Documentary made by the U.S. Army Signal Corps after the North African campaign. Watch on RetroFlix:  https://retroflix.org/tunisian-victory-1944/",
       "fileSize": 475080459,
-      "id": "tunisian-victory-1944"
+      "addedAt": "2026-01-07T00:12:55.130Z",
+      "thumbnail": "https://archive.org/services/img/tunisian-victory-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 83
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TunisianVictoryRestoted",
+      "id": "TunisianVictoryRestoted",
       "title": "TUNISIAN VICTORY restored",
       "description": "This print is much sharper than the previously available version and it's in the correct aspect ratio. A well regarded WW2 documentary on the western ally's victorious campaign in French North Africa. Co-produced by the governments of the UK and the US. Directed by Frank Capra & Hugh Stewart (both uncredited). Internationally released in 1944. Complete print. a.k.a. \"Tunisian Victory, An Official Record\". TRIVIA: John Huston directed a few replacement scenes after some of the original footage was lost.",
       "fileSize": 1021379970,
-      "id": "TunisianVictoryRestoted"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/TunisianVictoryRestoted",
+      "collection": "feature_films",
+      "downloads": 4344
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0185893",
-      "title": "Attack! Battle of New Britain",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276783",
-      "title": "Attack in the Pacific",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036152",
-      "title": "The Memphis Belle: A Story of a Flying Fortress",
-      "year": 1944,
-      "imdbRating": 7.4,
-      "imdbVotes": 1926,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0214483",
-      "title": "Appointment in Tokyo",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035745",
-      "title": "Combat America",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035796",
-      "title": "Desert Victory",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 405,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038264",
-      "title": "Your Job in Germany",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185405",
-      "title": "Know Your Enemy - Japan",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247569",
-      "title": "The Nazi Plan",
-      "year": 1945,
-      "imdbRating": 6.8,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0246953",
-      "title": "The Stilwell Road",
-      "year": 1945,
-      "imdbRating": 6.4,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038175",
-      "title": "To the Shores of Iwo Jima",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038192",
-      "title": "The True Glory",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 677,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0185893",
+    "tt0276783",
+    "tt0036152",
+    "tt0214483",
+    "tt0035745",
+    "tt0035796",
+    "tt0038264",
+    "tt0185405",
+    "tt0247569",
+    "tt0246953",
+    "tt0038175",
+    "tt0038192"
   ],
   "collections": [],
   "is_curated": true,

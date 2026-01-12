@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Maniac_201510",
+      "id": "Maniac_201510",
       "title": "Maniac",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 2000591449,
-      "id": "Maniac_201510"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/Maniac_201510",
+      "collection": "feature_films",
+      "downloads": 17261
     }
   ],
   "metadata": {
@@ -27,120 +31,18 @@
     "Awards": "4 wins & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2082276",
-      "title": "Fractional",
-      "year": 2011,
-      "imdbRating": 5,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3869392",
-      "title": "Abandoned Dead",
-      "year": 2015,
-      "imdbRating": 2.8,
-      "imdbVotes": 1861,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0052609",
-      "title": "Beast from Haunted Cave",
-      "year": 1959,
-      "imdbRating": 4.3,
-      "imdbVotes": 2290,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088828",
-      "title": "Bloody Wednesday",
-      "year": 1987,
-      "imdbRating": 3.9,
-      "imdbVotes": 559,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036653",
-      "title": "Bluebeard",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 2188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2299842",
-      "title": "Pieta",
-      "year": 2012,
-      "imdbRating": 7.1,
-      "imdbVotes": 16149,
-      "language": "Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1308729",
-      "title": "Bullet to the Head",
-      "year": 2012,
-      "imdbRating": 5.7,
-      "imdbVotes": 53382,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0995033",
-      "title": "Chicago Massacre: Richard Speck",
-      "year": 2007,
-      "imdbRating": 3.9,
-      "imdbVotes": 790,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1675161",
-      "title": "Guns, Girls and Gambling",
-      "year": 2012,
-      "imdbRating": 5.5,
-      "imdbVotes": 4837,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1329232",
-      "title": "St George's Day",
-      "year": 2012,
-      "imdbRating": 5.2,
-      "imdbVotes": 2235,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0489318",
-      "title": "The Perfect Witness",
-      "year": 2007,
-      "imdbRating": 5.4,
-      "imdbVotes": 1443,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5679554",
-      "title": "Coffin 2",
-      "year": 2017,
-      "imdbRating": 3.2,
-      "imdbVotes": 3599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt2082276",
+    "tt3869392",
+    "tt0052609",
+    "tt0088828",
+    "tt0036653",
+    "tt2299842",
+    "tt1308729",
+    "tt0995033",
+    "tt1675161",
+    "tt1329232",
+    "tt0489318",
+    "tt5679554"
   ],
   "collections": [],
   "is_curated": true,

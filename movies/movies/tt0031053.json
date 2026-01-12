@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-der-arme-millionar-ursula-grabley-kurt-vespermann-fritz-odemar-beppo-brem",
+      "id": "1939-der-arme-millionar-ursula-grabley-kurt-vespermann-fritz-odemar-beppo-brem",
       "title": "1939 Der Arme Millionär ( Ursula Grabley, Kurt Vespermann, Fritz Odemar, Beppo Brem)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Der arme Millionär.  U.a mit Weiss Ferdl,Georg Alexander und Ursula Grabley. ",
       "fileSize": 1484046594,
-      "id": "1939-der-arme-millionar-ursula-grabley-kurt-vespermann-fritz-odemar-beppo-brem"
+      "addedAt": "2026-01-07T00:06:02.056Z",
+      "thumbnail": "https://archive.org/services/img/1939-der-arme-millionar-ursula-grabley-kurt-vespermann-fritz-odemar-beppo-brem",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 183
     }
   ],
   "metadata": {
@@ -27,108 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033129",
-      "title": "Das sündige Dorf",
-      "year": 1940,
-      "imdbRating": 7.4,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035508",
-      "title": "Der verkaufte Großvater",
-      "year": 1942,
-      "imdbRating": 8.1,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036812",
-      "title": "Die falsche Braut",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030579",
-      "title": "Die Pfingstorgel",
-      "year": 1938,
-      "imdbRating": 2.8,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140398",
-      "title": "Musketier Meier III",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248086",
-      "title": "Herz geht vor Anker",
-      "year": 1940,
-      "imdbRating": 4.8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029101",
-      "title": "Der Lachdoktor",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233228",
-      "title": "Der Antennendraht",
-      "year": 1937,
-      "imdbRating": 7.9,
-      "imdbVotes": 35,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249240",
-      "title": "Wenn du eine Schwiegermutter hast",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031397",
-      "title": "Gulliver's Travels",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 5174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031322",
-      "title": "The Flying Deuces",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 6052,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0033129",
+    "tt0233667",
+    "tt0035508",
+    "tt0036812",
+    "tt0030579",
+    "tt0140398",
+    "tt0248086",
+    "tt0029101",
+    "tt0233228",
+    "tt0249240",
+    "tt0031397",
+    "tt0031322"
   ],
   "collections": [],
   "is_curated": true,

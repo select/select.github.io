@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TeenageThunder",
+      "id": "TeenageThunder",
       "title": "Teenage Thunder",
       "description": "A teenage gas station attendant (Chuck Courtney) is obsessed with hot rods and racing. His Dad (Tyler McVey) objects to hot rod racing and thinks his son is a \"crazy teenager!\"",
       "fileSize": 1940378816,
-      "id": "TeenageThunder"
+      "addedAt": "2026-01-07T00:06:58.271Z",
+      "thumbnail": "https://archive.org/services/img/TeenageThunder",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 48882
     }
   ],
   "metadata": {
@@ -27,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0054385",
-      "title": "Thunder in Carolina",
-      "year": 1960,
-      "imdbRating": 4.5,
-      "imdbVotes": 447,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0050782",
-      "title": "White Nights",
-      "year": 1957,
-      "imdbRating": 7.8,
-      "imdbVotes": 9351,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0050634",
-      "title": "The Cranes Are Flying",
-      "year": 1957,
-      "imdbRating": 8.3,
-      "imdbVotes": 21499,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0050241",
-      "title": "Chain of Evidence",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050083",
-      "title": "12 Angry Men",
-      "year": 1957,
-      "imdbRating": 9,
-      "imdbVotes": 957726,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050097",
-      "title": "Across the Bridge",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 961,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051492",
-      "title": "Count Five and Die",
-      "year": 1957,
-      "imdbRating": 6.5,
-      "imdbVotes": 232,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050155",
-      "title": "Baby Face Nelson",
-      "year": 1957,
-      "imdbRating": 6.3,
-      "imdbVotes": 814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051713",
-      "title": "Hell Drivers",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 4255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050526",
-      "title": "House of Numbers",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 612,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050719",
-      "title": "Monkey on My Back",
-      "year": 1957,
-      "imdbRating": 6.9,
-      "imdbVotes": 398,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050847",
-      "title": "Plunder Road",
-      "year": 1957,
-      "imdbRating": 6.9,
-      "imdbVotes": 1353,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    }
+    "tt0054385",
+    "tt0050782",
+    "tt0050634",
+    "tt0050241",
+    "tt0050083",
+    "tt0050097",
+    "tt0051492",
+    "tt0050155",
+    "tt0051713",
+    "tt0050526",
+    "tt0050719",
+    "tt0050847"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_3081",
+      "id": "dipwad2_zoho_3081",
       "title": "308",
       "description": "308 ",
       "fileSize": 6612628921,
-      "id": "dipwad2_zoho_3081"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_3081",
+      "collection": "feature_films",
+      "downloads": 5332
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_308",
+      "id": "rog561b_netzero_308",
       "title": "308",
       "description": "308",
       "fileSize": 1342143159,
-      "id": "rog561b_netzero_308"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_308",
+      "collection": "feature_films",
+      "downloads": 2721
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_308",
+      "id": "rog56_mail_308",
       "title": "308",
       "description": "308",
       "fileSize": 2795479777,
-      "id": "rog56_mail_308"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_308",
+      "collection": "feature_films",
+      "downloads": 689
     }
   ],
   "metadata": {
@@ -43,122 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2348394",
-      "title": "Home Sweet Home",
-      "year": 2013,
-      "imdbRating": 4.7,
-      "imdbVotes": 1943,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1984116",
-      "title": "Backwater",
-      "year": 2013,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1861279",
-      "title": "Barricade",
-      "year": 2012,
-      "imdbRating": 4.4,
-      "imdbVotes": 3062,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1740725",
-      "title": "Bigfoot: The Lost Coast Tapes",
-      "year": 2012,
-      "imdbRating": 4.5,
-      "imdbVotes": 3008,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2297108",
-      "title": "100 Ghost Street: The Return of Richard Speck",
-      "year": 2012,
-      "imdbRating": 3.8,
-      "imdbVotes": 1276,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2290709",
-      "title": "The Appearing",
-      "year": 2014,
-      "imdbRating": 3,
-      "imdbVotes": 1501,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2364774",
-      "title": "Kill or Be Killed",
-      "year": 2015,
-      "imdbRating": 4.2,
-      "imdbVotes": 1148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1869470",
-      "title": "Hollow",
-      "year": 2011,
-      "imdbRating": 4.7,
-      "imdbVotes": 6702,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2622672",
-      "title": "Scream at the Devil",
-      "year": 2015,
-      "imdbRating": 2.6,
-      "imdbVotes": 625,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1259521",
-      "title": "The Cabin in the Woods",
-      "year": 2011,
-      "imdbRating": 7,
-      "imdbVotes": 483603,
-      "language": "English, Japanese",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1480285",
-      "title": "Abattoir",
-      "year": 2016,
-      "imdbRating": 4.5,
-      "imdbVotes": 4560,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt2348394",
+    "tt1984116",
+    "tt1861279",
+    "tt1740725",
+    "tt2297108",
+    "tt2290709",
+    "tt2130142",
+    "tt2364774",
+    "tt1869470",
+    "tt2622672",
+    "tt3743042",
+    "tt5937770"
   ],
   "collections": [],
   "is_curated": true,

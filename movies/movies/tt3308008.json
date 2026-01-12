@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-looney-lens-tenth-avenue-nyc",
+      "id": "silent-looney-lens-tenth-avenue-nyc",
       "title": "Looney Lens: Tenth Avenue, NYC",
       "fileSize": 33931830,
-      "id": "silent-looney-lens-tenth-avenue-nyc"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-looney-lens-tenth-avenue-nyc",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 265
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3308046",
-      "title": "Looney Lens: Pas de deux",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 33,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308002",
-      "title": "Looney Lens: Split Skyscrapers",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4151804",
-      "title": "Looney Lens: Anamorphic People",
-      "year": 1927,
-      "imdbRating": 4.5,
-      "imdbVotes": 39,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340186",
-      "title": "Film 13",
-      "year": 1925,
-      "imdbRating": 5,
-      "imdbVotes": 52,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953460",
-      "title": "Kino-pravda no. 15",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 119,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13166260",
-      "title": "Fiestas de Centenario 1822 - 1922 Cima de la Libertad",
-      "year": 1922,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953454",
-      "title": "Kino-pravda no. 1",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 213,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953458",
-      "title": "Kino-Pravda No. 13: Yesterday, Today, Tomorrow. A Film Poem Dedicated to the October Revolution",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 107,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953464",
-      "title": "Kino-pravda no. 2",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 148,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953465",
-      "title": "Kino-pravda no. 3",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 144,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953466",
-      "title": "Kino-pravda no. 4",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 136,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953467",
-      "title": "Kino-pravda no. 5",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 136,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    }
+    "tt3308046",
+    "tt3308002",
+    "tt4151804",
+    "tt6340186",
+    "tt0953460",
+    "tt13166260",
+    "tt0953454",
+    "tt0953458",
+    "tt0953464",
+    "tt0953465",
+    "tt0953466",
+    "tt0953467"
   ],
   "collections": [],
   "is_curated": true,

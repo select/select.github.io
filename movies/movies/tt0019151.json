@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-matinee-idol_1928",
+      "id": "the-matinee-idol_1928",
       "title": "The Matinee Idol",
       "fileSize": 5191540877,
-      "id": "the-matinee-idol_1928"
+      "addedAt": "2026-01-07T00:12:22.154Z",
+      "thumbnail": "https://archive.org/services/img/the-matinee-idol_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1056
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022268",
-      "title": "Platinum Blonde",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3687,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025316",
-      "title": "It Happened One Night",
-      "year": 1934,
-      "imdbRating": 8.1,
-      "imdbVotes": 116995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027996",
-      "title": "Mr. Deeds Goes to Town",
-      "year": 1936,
-      "imdbRating": 7.8,
-      "imdbVotes": 23599,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018102",
-      "title": "Long Pants",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 577,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020613",
-      "title": "The Younger Generation",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 330,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018882",
-      "title": "Feel My Pulse",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 241,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019109",
-      "title": "Lonesome",
-      "year": 1928,
-      "imdbRating": 7.7,
-      "imdbVotes": 2694,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019400",
-      "title": "The Smart Set",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 1059,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0022268",
+    "tt0033891",
+    "tt0025316",
+    "tt0027996",
+    "tt0018102",
+    "tt0019884",
+    "tt0020613",
+    "tt0019067",
+    "tt0018882",
+    "tt0019109",
+    "tt0019258",
+    "tt0019400"
   ],
   "collections": [],
   "is_curated": true,

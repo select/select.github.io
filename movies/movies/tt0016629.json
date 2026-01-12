@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheBat1926",
+      "id": "TheBat1926",
       "title": "The Bat (1926)",
       "description": "A Silent film based upon the Broadway play by Mary Roberts Rinehart and Avery Hopwood, this Silent Gem was directed by Roland West in 1926, later being Remade as the Bat Whispers in 1930 (by Roland West) and again in 1958 in the Bat starring Vincent Price, also available at the Archive. Oh, and when I say silent, I mean silent - this was transferred from a 16mm print and was probably meant to be played with live musical accompaniment. SYNOPSIS: The Bat, a masked criminal, terrorises a mansion filled with the guests of a mystery writer, a mansion in which a robber has hidden $20,000 of Stolen money. The House guests along with a detective search for Clues - them being the location of the money and the identity of the Bat. N.B - As many Batfans will know, this film is where Bob Kane got the Inspiration for the comic book superhero \"Batman\" - if you look, you'll notice the Bat-signal, here used to frighten the guests before the Bat attacks. Sound: Silent - No Music, No Vocal Track - Live Accompaniment preffered Colour: B&W Genre: Horror/Mystery Release Date: 1926 Director: Roland West",
       "fileSize": 663114451,
-      "id": "TheBat1926"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheBat1926",
+      "collection": "feature_films",
+      "downloads": 25754
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheBat1926WithSoundtrack",
+      "id": "TheBat1926WithSoundtrack",
       "title": "The Bat (1926) with soundtrack",
       "description": "1926 directed by Roland West starring George Beranger, Charles Herzinger and Emily Fitzroy. Sets designed by William Cameron Menzies. A criminal who dresses like a bat, intent on finding hidden money, scares the guests at an old, dark house rented by a mystery writer.",
       "fileSize": 1291226555,
-      "id": "TheBat1926WithSoundtrack"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheBat1926WithSoundtrack",
+      "year": 1926,
+      "collection": "feature_films",
+      "downloads": 20369
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016123",
-      "title": "The Monster",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 1334,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018097",
-      "title": "London After Midnight",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 1495,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020080",
-      "title": "The Last Warning",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020103",
-      "title": "The Locked Door",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020534",
-      "title": "The Unholy Night",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 413,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020388",
-      "title": "Seven Keys to Baldpate",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 451,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019757",
-      "title": "The Charlatan",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013086",
-      "title": "Dr. Mabuse, the Gambler",
-      "year": 1922,
-      "imdbRating": 7.8,
-      "imdbVotes": 9645,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020679",
-      "title": "The Benson Murder Case",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 587,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048919",
-      "title": "23 Paces to Baker Street",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 3020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037179",
-      "title": "A Place of One's Own",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0016123",
+    "tt0018097",
+    "tt0020080",
+    "tt0020103",
+    "tt0020534",
+    "tt0020388",
+    "tt0019757",
+    "tt0013086",
+    "tt0020679",
+    "tt9214844",
+    "tt0048919",
+    "tt0037179"
   ],
   "collections": [],
   "is_curated": true,

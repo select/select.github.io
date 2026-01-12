@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/we-work-again-1937_202506",
+      "id": "we-work-again-1937_202506",
       "title": "We Work Again (1937)",
       "description": "The role of African Americans in the recovery years of the Great Depression is the subject of this informational short, which offers an idealized depiction of life in a segregated society. The highlight, by far, is rare footage of Orson Welles’s “Voodoo Macbeth,” produced in 1935 for the New York Negro Unit of the WPA’s Federal Theatre Project.",
       "fileSize": 95062636,
-      "id": "we-work-again-1937_202506"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/we-work-again-1937_202506",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 50
     }
   ],
   "metadata": {
@@ -27,104 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2292978",
-      "title": "Ewige Wache",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1177174",
-      "title": "Reichsparteitag der Ehre",
-      "year": 1936,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247304",
-      "title": "Dr. Todt - Berufung und Werk",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15529086",
-      "title": "The Menace of Guatemala",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247794",
-      "title": "Unser Führer - Des Reiches Wiedergeburt",
-      "year": 1934,
-      "imdbRating": 2.7,
-      "imdbVotes": 21,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt2292978",
+    "tt1177174",
+    "tt0247304",
+    "tt15529086",
+    "tt0247794",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt1515754"
   ],
   "collections": [],
   "is_curated": true,

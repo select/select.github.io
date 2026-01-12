@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/television-spy-1939",
+      "id": "television-spy-1939",
       "title": "Television Spy (1939)",
       "description": "William Henry, Judith Barrett, Anthony Quinn Directed by Edward Dmytryk",
       "fileSize": 1053554744,
-      "id": "television-spy-1939"
+      "addedAt": "2026-01-07T00:11:46.530Z",
+      "thumbnail": "https://archive.org/services/img/television-spy-1939",
+      "collection": "feature_films",
+      "downloads": 756
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032784",
-      "title": "Mercy Plane",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031534",
-      "title": "King of Chinatown",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031987",
-      "title": "Streets of New York",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032021",
-      "title": "They Made Her a Spy",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028523",
-      "title": "Yellowstone",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030251",
-      "title": "Hunted Men",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030794",
-      "title": "State Police",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030342",
-      "title": "The Lady in the Morgue",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028719",
-      "title": "Circus Girl",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033747",
-      "title": "I'll Sell My Life",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033822",
+    "tt0032784",
+    "tt0031534",
+    "tt0031987",
+    "tt0032021",
+    "tt0028523",
+    "tt0030168",
+    "tt0030251",
+    "tt0030794",
+    "tt0030342",
+    "tt0028719",
+    "tt0033747"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Rawhide_",
+      "id": "Rawhide_",
       "title": "Rawhide",
       "description": "Baseball superstar Gehrig (Lou Gehrig) is one of several ranchers being coerced by a bunch of bandits. His sister (Evalyn Knapp) and her lawyer/lover (Smith Ballew) organize the ranchers.",
       "fileSize": 1350243180,
-      "id": "Rawhide_"
+      "addedAt": "2026-01-07T00:06:51.866Z",
+      "thumbnail": "https://archive.org/services/img/Rawhide_",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 45797
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=jMGk76dK8L8",
+      "id": "jMGk76dK8L8",
       "title": "Rawhide (1938) LOU GEHRIG WESTERN",
       "description": "Stars: Smith Ballew, Lou Gehrig, Evalyn Knapp\n Director: Ray Taylor\n\n Baseball superstar Gehrig is one of several ranchers being coerced by a bunch of bandits. His sister and her lawyer/lover organize the ranchers.",
-      "id": "jMGk76dK8L8",
+      "addedAt": "2025-12-26T23:49:23.141Z",
+      "thumbnail": "https://i.ytimg.com/vi/jMGk76dK8L8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDzszK5WaPY_k-3vDkTV6Ty5X5ibA",
+      "duration": 3497,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029289",
-      "title": "The Mystery of the Hooded Horsemen",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030849",
-      "title": "Tex Rides with the Boy Scouts",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025114",
-      "title": "The Fighting Trooper",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179209",
-      "title": "The Hawk of Powder River",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028372",
-      "title": "The Three Mesquiteers",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030006",
-      "title": "Come on, Rangers!",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030159",
-      "title": "Frontier Scout",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030409",
-      "title": "Man from Music Mountain",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030689",
-      "title": "Rollin' Plains",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030969",
-      "title": "Where the Buffalo Roam",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133763",
-      "title": "The Feud Maker",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030208",
-      "title": "Gun Packer",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0029289",
+    "tt0030849",
+    "tt0025114",
+    "tt0179209",
+    "tt0028372",
+    "tt0030006",
+    "tt0030159",
+    "tt0030409",
+    "tt0030689",
+    "tt0030969",
+    "tt0133763",
+    "tt0030208"
   ],
   "collections": [],
   "is_curated": true,

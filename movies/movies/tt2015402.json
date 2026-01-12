@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mn-3428e-navy-insomnia-1945",
+      "id": "mn-3428e-navy-insomnia-1945",
       "title": "Insomnia (1945)",
       "description": "MN3428e Navy // Sailors are shown watching a comedic animated film clip featuring a sleepless Donald Duck. Most of them chuckle, but one young sailor doesn't find it funny. He suffers from insomnia brought on by stress and worry, and lies awake most nights. The film explains that insomnia is indeed the result of worries, often minor, and of being overly excited or intense. The narrator describes a method of relaxing the body while lying on one's back in bed, one limb or body part at a time, with concentration and regulated breathing, until one falls asleep.",
       "fileSize": 198742418,
-      "id": "mn-3428e-navy-insomnia-1945"
+      "addedAt": "2026-01-07T00:09:54.328Z",
+      "thumbnail": "https://archive.org/services/img/mn-3428e-navy-insomnia-1945",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 25
     }
   ],
   "metadata": {
@@ -26,104 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234435",
-      "title": "The Paymaster",
-      "year": 1906,
-      "imdbRating": 4.8,
-      "imdbVotes": 43,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470339",
-      "title": "The Haunted Bedroom",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0330942",
-      "title": "The Struggle",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038175",
-      "title": "To the Shores of Iwo Jima",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12658952",
-      "title": "Town of the Times",
-      "year": 1963,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15527684",
-      "title": "What Price Iwo?",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1207008",
+    "tt0231716",
+    "tt0234435",
+    "tt0470339",
+    "tt0463594",
+    "tt0417062",
+    "tt0330942",
+    "tt0038175",
+    "tt12658952",
+    "tt15527684",
+    "tt12305226",
+    "tt12304756"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MoonlightSonata_627",
+      "id": "MoonlightSonata_627",
       "title": "Moonlight Sonata",
       "description": "From Imdb; In this romantic tale Paderewski, the famed pianist, and two other plane crash survivors are guests of a Swedish baroness. Interwoven throughout this gentle and charming story are exquisite piano solos performed superbly by the elderly pianist, Paderewski.",
       "fileSize": 1323908935,
-      "id": "MoonlightSonata_627"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/MoonlightSonata_627",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 13859
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020146",
-      "title": "The Marriage Playground",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 100,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029606",
-      "title": "A Star Is Born",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 11515,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029376",
-      "title": "Park Avenue Logger",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030675",
-      "title": "The Return of the Scarlet Pimpernel",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 354,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140551",
-      "title": "Sky Racket",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030839",
-      "title": "Telephone Operator",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028575",
-      "title": "Angel",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 3607,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    }
+    "tt0020146",
+    "tt0029606",
+    "tt0028592",
+    "tt0028634",
+    "tt0029376",
+    "tt0030675",
+    "tt0140551",
+    "tt0030839",
+    "tt0028557",
+    "tt0028575",
+    "tt0028607",
+    "tt0028770"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-geysers-of-the-yellowstone",
+      "id": "silent-geysers-of-the-yellowstone",
       "title": "Geysers of the Yellowstone",
       "fileSize": 83923917,
-      "id": "silent-geysers-of-the-yellowstone"
+      "addedAt": "2026-01-07T00:10:59.118Z",
+      "thumbnail": "https://archive.org/services/img/silent-geysers-of-the-yellowstone",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 281
     }
   ],
   "metadata": {
@@ -26,102 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477402",
-      "title": "The Wonders of Magnetism",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471648",
-      "title": "De-Light: Making an Electric Light Bulb",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182302",
-      "title": "Lights and Shadows in a City of a Million",
-      "year": 1920,
-      "imdbRating": 4.6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1495996",
-      "title": "The Reawakening",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647254",
-      "title": "Trails That Lure",
-      "year": 1920,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647252",
-      "title": "Seeing Yosemite with David A. Curry",
-      "year": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt2647224",
+    "tt0938705",
+    "tt1515754",
+    "tt9837386",
+    "tt0477402",
+    "tt1283535",
+    "tt0471648",
+    "tt1182302",
+    "tt1495996",
+    "tt2647254",
+    "tt2647252",
+    "tt0988639"
   ],
   "collections": [],
   "is_curated": true,

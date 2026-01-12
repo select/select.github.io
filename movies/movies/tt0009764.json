@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-villain",
+      "id": "silent-the-villain",
       "title": "The Villain",
       "fileSize": 530832733,
-      "id": "silent-the-villain"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-villain",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 757
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006796",
-      "title": "The Hero",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009558",
-      "title": "The Rogue",
-      "year": 1918,
-      "imdbRating": 4.4,
-      "imdbVotes": 52,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009659",
-      "title": "The Stranger",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251116",
-      "title": "He's in Again",
-      "year": 1918,
-      "imdbRating": 5.7,
-      "imdbVotes": 102,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0236553",
-      "title": "One Too Many",
-      "year": 1916,
-      "imdbRating": 4.3,
-      "imdbVotes": 179,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007802",
-      "title": "A Clever Dummy",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 207,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007819",
-      "title": "Coney Island",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007613",
-      "title": "The Adventurer",
-      "year": 1917,
-      "imdbRating": 7.3,
-      "imdbVotes": 4613,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007832",
-      "title": "The Cure",
-      "year": 1917,
-      "imdbRating": 7.1,
-      "imdbVotes": 3960,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007880",
-      "title": "Easy Street",
-      "year": 1917,
-      "imdbRating": 7.4,
-      "imdbVotes": 5934,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0006796",
+    "tt0009558",
+    "tt0009659",
+    "tt0251116",
+    "tt0236553",
+    "tt0007802",
+    "tt0007761",
+    "tt0007819",
+    "tt0008133",
+    "tt0007613",
+    "tt0007832",
+    "tt0007880"
   ],
   "collections": [],
   "is_curated": true,

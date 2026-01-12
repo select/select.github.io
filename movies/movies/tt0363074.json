@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SlickSleuths",
+      "id": "SlickSleuths",
       "title": "Slick Sleuths",
       "description": "Mutt and Jeff play Sherlock Holmes style detectives on the trail of the mysterious \"Phantom\". Originally release in 1926, this film was hand coloured in the early 1930s and re-released.",
       "fileSize": 135121298,
-      "id": "SlickSleuths"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/SlickSleuths",
+      "year": 1926,
+      "collection": "feature_films",
+      "downloads": 26044
     }
   ],
   "metadata": {
@@ -27,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0147714",
-      "title": "The Wind Jammers",
-      "year": 1926,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017847",
-      "title": "Empty Socks",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 52,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017868",
-      "title": "Felix the Cat Dines and Pines",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017949",
-      "title": "Great Guns",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 317,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018213",
-      "title": "Oh Teacher",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 324,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147118",
-      "title": "One Man Dog",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141010",
-      "title": "Felix All Puzzled",
-      "year": 1925,
-      "imdbRating": 6.1,
-      "imdbVotes": 142,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018212",
-      "title": "The Ocean Hop",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 264,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0147714",
+    "tt0017618",
+    "tt0146584",
+    "tt0017847",
+    "tt0017868",
+    "tt0017949",
+    "tt0018213",
+    "tt0147118",
+    "tt0141010",
+    "tt0018212",
+    "tt0141028",
+    "tt0018628"
   ],
   "collections": [
     {

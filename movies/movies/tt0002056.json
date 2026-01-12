@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-prekrasnaya-lyukanida",
+      "id": "silent-prekrasnaya-lyukanida",
       "title": "Prekrasnaya Lyukanida",
       "fileSize": 212067633,
-      "id": "silent-prekrasnaya-lyukanida"
+      "addedAt": "2026-01-07T00:11:15.972Z",
+      "thumbnail": "https://archive.org/services/img/silent-prekrasnaya-lyukanida",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 293
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014063",
-      "title": "The Frogs Who Wanted a King",
-      "year": 1922,
-      "imdbRating": 7.1,
-      "imdbVotes": 631,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005622",
-      "title": "Liliya Belgii",
-      "year": 1915,
-      "imdbRating": 6.9,
-      "imdbVotes": 196,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014584",
-      "title": "La voix du rossignol",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 413,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191786",
-      "title": "Animated Putty",
-      "year": 1911,
-      "imdbRating": 6.4,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003784",
-      "title": "Colonel Heeza Liar's African Hunt",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002260",
-      "title": "How a Mosquito Operates",
-      "year": 1912,
-      "imdbRating": 6.3,
-      "imdbVotes": 1322,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019117",
-      "title": "Love in Black and White",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 72,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139935",
-      "title": "The Man in the Moon",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 173,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0001527",
+    "tt0014063",
+    "tt0005622",
+    "tt0014584",
+    "tt0191786",
+    "tt0131024",
+    "tt0003784",
+    "tt0139938",
+    "tt0002260",
+    "tt0019117",
+    "tt0432623",
+    "tt0139935"
   ],
   "collections": [],
   "is_curated": true,

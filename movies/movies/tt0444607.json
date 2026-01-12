@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-die-benefiz-vorstellung-der-vier-teufel",
+      "id": "silent-die-benefiz-vorstellung-der-vier-teufel",
       "title": "Die Benefiz-Vorstellung der vier Teufel",
       "fileSize": 780483777,
-      "id": "silent-die-benefiz-vorstellung-der-vier-teufel"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-die-benefiz-vorstellung-der-vier-teufel",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 382
     }
   ],
   "metadata": {
@@ -25,108 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011656",
-      "title": "The Scarecrow",
-      "year": 1920,
-      "imdbRating": 7.8,
-      "imdbVotes": 4866,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011071",
-      "title": "Convict 13",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 3668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3610098",
-      "title": "The Ghost of the Canyon",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367898",
-      "title": "J-U-N-K",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1598572",
-      "title": "Leap Year",
-      "year": 1920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011508",
-      "title": "Neighbors",
-      "year": 1920,
-      "imdbRating": 7.6,
-      "imdbVotes": 4771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011521",
-      "title": "Number, Please?",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 1263,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011541",
-      "title": "One Week",
-      "year": 1920,
-      "imdbRating": 8.1,
-      "imdbVotes": 9535,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3610118",
-      "title": "The Broken Brake",
-      "year": 1920,
-      "language": "None, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3610606",
-      "title": "Winning the Franchise",
-      "year": 1920,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011263",
-      "title": "Haunted Spooks",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1455,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011293",
-      "title": "High and Dizzy",
-      "year": 1920,
-      "imdbRating": 6.8,
-      "imdbVotes": 1494,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0011656",
+    "tt0011071",
+    "tt3610098",
+    "tt0367898",
+    "tt1598572",
+    "tt0011508",
+    "tt0011521",
+    "tt0011541",
+    "tt3610118",
+    "tt3610606",
+    "tt0011263",
+    "tt0011293"
   ],
   "collections": [],
   "is_curated": true,

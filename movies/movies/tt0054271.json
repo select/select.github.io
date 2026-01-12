@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/holiday-in-spain-1960",
+      "id": "holiday-in-spain-1960",
       "title": "Holiday in Spain (1960)",
       "description": "An Englishman and a cabby try to save an heiress from murder in Spain. Watch on RetroFlix:  https://retroflix.org/scent-of-mystery-1960/",
       "fileSize": 2125871735,
-      "id": "holiday-in-spain-1960"
+      "addedAt": "2026-01-07T00:08:46.612Z",
+      "thumbnail": "https://archive.org/services/img/holiday-in-spain-1960",
+      "language": "eng",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 117
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0052623",
-      "title": "Web of Evidence",
-      "year": 1959,
-      "imdbRating": 6.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0254577",
-      "title": "El misterio de la cobra (Carlos Lacroix en la India)",
-      "year": 1960,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031054",
-      "title": "Arrest Bulldog Drummond",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028667",
-      "title": "Bulldog Drummond Comes Back",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029951",
-      "title": "Bulldog Drummond in Africa",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025514",
-      "title": "Monte Carlo Nights",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024605",
-      "title": "The Sphinx",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 523,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020461",
-      "title": "The Studio Murder Mystery",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019684",
-      "title": "Behind That Curtain",
-      "year": 1929,
-      "imdbRating": 4.8,
-      "imdbVotes": 601,
-      "language": "Hindi, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1800671",
-      "title": "Beyond",
-      "year": 2012,
-      "imdbRating": 4.8,
-      "imdbVotes": 1365,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028715",
-      "title": "China Passage",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 154,
-      "language": "Chinese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033574",
-      "title": "Ellery Queen's Penthouse Mystery",
-      "year": 1941,
-      "imdbRating": 5.6,
-      "imdbVotes": 217,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0052623",
+    "tt0254577",
+    "tt0031054",
+    "tt0028667",
+    "tt0029951",
+    "tt0025514",
+    "tt0024605",
+    "tt0020461",
+    "tt0019684",
+    "tt1800671",
+    "tt0028715",
+    "tt0033574"
   ],
   "collections": [],
   "is_curated": true,

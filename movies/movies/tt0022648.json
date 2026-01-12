@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/baby-1932",
+      "id": "baby-1932",
       "title": "Baby",
       "description": "https://web.archive.org/web/20230318022959/https://www.imdb.com/title/tt0022648/",
       "fileSize": 715650168,
-      "id": "baby-1932"
+      "addedAt": "2026-01-07T00:07:31.712Z",
+      "thumbnail": "https://archive.org/services/img/baby-1932",
+      "language": "ger",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 2593
     }
   ],
   "metadata": {
@@ -27,109 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025944",
-      "title": "Die vertauschte Braut",
-      "year": 1934,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255179",
-      "title": "Fräulein Hoffmanns Erzählungen",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020824",
-      "title": "Die vom Rummelplatz",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 26,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025661",
-      "title": "Polenblut",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018869",
-      "title": "Evas Töchter",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 28,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234759",
-      "title": "So ein Theater!",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023011",
-      "title": "His Royal Highness",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023580",
-      "title": "There Goes the Bride",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022940",
-      "title": "The Girl from Calgary",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023158",
-      "title": "Love Me Tonight",
-      "year": 1932,
-      "imdbRating": 7.5,
-      "imdbVotes": 4934,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025944",
+    "tt0255179",
+    "tt0020824",
+    "tt0025661",
+    "tt0129972",
+    "tt0018869",
+    "tt0234759",
+    "tt0028018",
+    "tt0023011",
+    "tt0023580",
+    "tt0022940",
+    "tt0023158"
   ],
   "collections": [],
   "is_curated": true,

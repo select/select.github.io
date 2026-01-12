@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1945-der-zweite-schuss-ernst-von-klipstein-gustav-waldau-fritz-kampers",
+      "id": "1945-der-zweite-schuss-ernst-von-klipstein-gustav-waldau-fritz-kampers",
       "title": "1945 Der Zweite Schuss ( Ernst Von Klipstein, Gustav Waldau, Fritz Kampers)",
       "description": "Film aus dem deutschen dritten Reich von 1945. Der zweite Schuss.  U.a mit Ernst von Klipstein und Gustav Waldau ",
       "fileSize": 1199044814,
-      "id": "1945-der-zweite-schuss-ernst-von-klipstein-gustav-waldau-fritz-kampers"
+      "addedAt": "2026-01-07T00:06:03.997Z",
+      "thumbnail": "https://archive.org/services/img/1945-der-zweite-schuss-ernst-von-klipstein-gustav-waldau-fritz-kampers",
+      "language": "ger",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 170
     }
   ],
   "metadata": {
@@ -26,104 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0168664",
-      "title": "Dir zuliebe",
-      "year": 1944,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240712",
-      "title": "Ein Mann für meine Frau",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036511",
-      "title": "Ein Walzer mit dir",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240578",
-      "title": "Himmel, wir erben ein Schloß",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240682",
-      "title": "Liebe, Leidenschaft und Leid",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129725",
-      "title": "...und die Musik spielt dazu",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036520",
-      "title": "Wenn der junge Wein blüht",
-      "year": 1943,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220853",
-      "title": "Wenn die Sonne wieder scheint",
-      "year": 1943,
-      "imdbRating": 7.3,
-      "imdbVotes": 28,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197446",
-      "title": "El fabricante de estrellas",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204330",
-      "title": "Fuego en la montaña",
-      "year": 1943,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181620",
-      "title": "La juventud manda",
-      "year": 1943,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192481",
-      "title": "Punto negro",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0168664",
+    "tt0240712",
+    "tt0036511",
+    "tt0240578",
+    "tt0240682",
+    "tt0129725",
+    "tt0036520",
+    "tt0220853",
+    "tt0197446",
+    "tt0204330",
+    "tt0181620",
+    "tt0192481"
   ],
   "collections": [],
   "is_curated": true,

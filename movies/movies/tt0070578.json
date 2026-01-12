@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ThePyx",
+      "id": "ThePyx",
       "title": "The Pyx",
       "description": "From IMDB : A detective investigating the death of a heroin-addicted prostitute uncovers evidence pointing to the existence of a murderous devil cult. This MPEG2 was ripped from Mill Creek's Gore and More 10 Movie box set, this version is sort of widescreen (letterboxed) but it was apparently cropped on both sides to make it a more matted widescreen (why?) I just wanted to let you know that I didn't do this, it was probably whoever was in charge of releasing this film on home media originally. The AVI provided has the black spaced cropped off and it is deinterlaced.",
       "fileSize": 5408680807,
-      "id": "ThePyx"
+      "addedAt": "2026-01-07T00:07:05.035Z",
+      "thumbnail": "https://archive.org/services/img/ThePyx",
+      "year": 1973,
+      "collection": "feature_films",
+      "downloads": 92586
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-pyx-1973",
+      "id": "the-pyx-1973",
       "title": "The Pyx (1973)",
       "description": "A cult is thought to be involved in the death of a drug addicted prostitute.",
       "fileSize": 731472738,
-      "id": "the-pyx-1973"
+      "addedAt": "2026-01-07T00:12:22.157Z",
+      "thumbnail": "https://archive.org/services/img/the-pyx-1973",
+      "collection": "feature_films",
+      "downloads": 3843
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0068174",
-      "title": "Adventures of Nick Carter",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071877",
-      "title": "Murder on the Orient Express",
-      "year": 1974,
-      "imdbRating": 7.2,
-      "imdbVotes": 73264,
-      "language": "English, French, German, Turkish, Italian, Swedish, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067670",
-      "title": "The Return of Charlie Chan",
-      "year": 1972,
-      "imdbRating": 5.7,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069439",
-      "title": "Murder Is a Murder",
-      "year": 1972,
-      "imdbRating": 5.8,
-      "imdbVotes": 291,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0067835",
-      "title": "A Tattered Web",
-      "year": 1971,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067045",
-      "title": "Ellery Queen: Don't Look Behind You",
-      "year": 1971,
-      "imdbRating": 5.4,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074342",
-      "title": "Death Rage",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 935,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065179",
-      "title": "Life Love Death",
-      "year": 1969,
-      "imdbRating": 7,
-      "imdbVotes": 161,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248088",
-      "title": "El hijo pródigo",
-      "year": 1969,
-      "imdbRating": 6.4,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066856",
-      "title": "Born to Win",
-      "year": 1971,
-      "imdbRating": 5.8,
-      "imdbVotes": 2197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0068174",
+    "tt0071877",
+    "tt0067670",
+    "tt0069439",
+    "tt0067835",
+    "tt0067045",
+    "tt0074342",
+    "tt0065179",
+    "tt0248088",
+    "tt0066856",
+    "tt0038494",
+    "tt0028231"
   ],
   "collections": [],
   "is_curated": true,

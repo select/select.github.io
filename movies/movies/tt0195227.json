@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/salitre-1959",
+      "id": "salitre-1959",
       "title": "Salitre (1959)",
       "description": "Salitre  es una película en blanco y negro de  Argentina  dirigida por  Carlos Rinaldi  sobre el guion de  Hugo Moser  según la novela de  Diego Newbery  que se estrenó el 16 de abril de 1959 y que tuvo como protagonistas a  Enzo Viena ,  Edda Vermond ,  Corrado Corradi ,  Susana Mayo  y  Mario Savino . (Wikipedia) Sinopsis Una pareja joven cumple su sueño de instalarse en el Alto Valle de Río Negro para levantar una plantación y allí lucharán contra la dureza del clima y del suelo Reparto Enzo Viena Edda Vermond Corrado Corradi Susana Mayo Mario Savino",
       "fileSize": 2316561551,
-      "id": "salitre-1959"
+      "addedAt": "2026-01-07T00:10:40.951Z",
+      "thumbnail": "https://archive.org/services/img/salitre-1959",
+      "language": "spa",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 35
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0194797",
-      "title": "Del otro lado del puente",
-      "year": 1953,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0195390",
-      "title": "Vigilantes y ladrones",
-      "year": 1952,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0195424",
-      "title": "Yo quiero vivir contigo",
-      "year": 1960,
-      "imdbRating": 2.5,
-      "imdbVotes": 11,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201507",
-      "title": "Campo virgen",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201567",
-      "title": "El dinero de Dios",
-      "year": 1959,
-      "imdbRating": 6.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189510",
-      "title": "Evangelina",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182689",
-      "title": "Álamos talados",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051526",
-      "title": "Del cuplé al tango",
-      "year": 1958,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050310",
-      "title": "Detrás de un largo muro",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144177",
-      "title": "Dos basuras",
-      "year": 1958,
-      "imdbRating": 5.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186324",
-      "title": "Luna Park",
-      "year": 1960,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181767",
-      "title": "Pobres habrá siempre",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0194797",
+    "tt0195390",
+    "tt0195424",
+    "tt0201507",
+    "tt0201567",
+    "tt0189510",
+    "tt0182689",
+    "tt0051526",
+    "tt0050310",
+    "tt0144177",
+    "tt0186324",
+    "tt0181767"
   ],
   "collections": [],
   "is_curated": true,

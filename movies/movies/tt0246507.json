@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-dancing-pig",
+      "id": "silent-the-dancing-pig",
       "title": "The Dancing Pig",
       "fileSize": 83794225,
-      "id": "silent-the-dancing-pig"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-dancing-pig",
+      "language": "French",
+      "year": 1907,
+      "collection": "feature_films",
+      "downloads": 3591
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215817",
-      "title": "Good Glue Sticks",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 640,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223702",
-      "title": "How Bridget's Lover Escaped",
-      "year": 1907,
-      "imdbRating": 5.2,
-      "imdbVotes": 137,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227396",
-      "title": "Robert Macaire and Bertrand",
-      "year": 1907,
-      "imdbRating": 5.8,
-      "imdbVotes": 148,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012255",
-      "title": "The Haunted House",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 3791,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234922",
-      "title": "Trial Marriages",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011263",
-      "title": "Haunted Spooks",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1455,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059466",
-      "title": "Monsters Crash the Pajama Party",
-      "year": 1965,
-      "imdbRating": 4.6,
-      "imdbVotes": 397,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0119552",
-      "title": "Little Red Riding Hood",
-      "year": 1997,
-      "imdbRating": 6.8,
-      "imdbVotes": 659,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1794866",
-      "title": "Meet the Cleavers",
-      "year": 2012,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0000553",
-      "title": "The Haunted Hotel",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 557,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt3110548",
+    "tt0215817",
+    "tt0223702",
+    "tt0227396",
+    "tt0012255",
+    "tt0234922",
+    "tt0011263",
+    "tt0059466",
+    "tt0119552",
+    "tt1794866",
+    "tt0000553",
+    "tt0212884"
   ],
   "collections": [],
   "is_curated": true,

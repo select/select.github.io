@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/monster-on-campus",
+      "id": "monster-on-campus",
       "title": "Monster On Campus",
       "description": "The blood of a primitive fish exposed to gamma rays causes a benign research professor to regress to an ape-like, bloodthirsty prehistoric hominid.",
       "fileSize": 6258295047,
-      "id": "monster-on-campus"
+      "addedAt": "2026-01-07T00:09:54.329Z",
+      "thumbnail": "https://archive.org/services/img/monster-on-campus",
+      "language": "eng",
+      "year": 1958,
+      "collection": "feature_films",
+      "downloads": 4550
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050539",
-      "title": "The Incredible Shrinking Man",
-      "year": 1957,
-      "imdbRating": 7.6,
-      "imdbVotes": 20967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048554",
-      "title": "Revenge of the Creature",
-      "year": 1955,
-      "imdbRating": 5.6,
-      "imdbVotes": 7271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048696",
-      "title": "Tarantula",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 11470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046876",
-      "title": "Creature from the Black Lagoon",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 37202,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045920",
-      "title": "It Came from Outer Space",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 12306,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051618",
-      "title": "The Flame Barrier",
-      "year": 1958,
-      "imdbRating": 4.7,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052227",
-      "title": "The Space Children",
-      "year": 1958,
-      "imdbRating": 4.3,
-      "imdbVotes": 1457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050393",
-      "title": "Fiend Without a Face",
-      "year": 1958,
-      "imdbRating": 6.1,
-      "imdbVotes": 4972,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051993",
-      "title": "Night of the Blood Beast",
-      "year": 1958,
-      "imdbRating": 3.6,
-      "imdbVotes": 2568,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052187",
-      "title": "She Demons",
-      "year": 1958,
-      "imdbRating": 4.5,
-      "imdbVotes": 872,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052228",
-      "title": "Space Master X-7",
-      "year": 1958,
-      "imdbRating": 5.2,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051432",
-      "title": "The Brain Eaters",
-      "year": 1958,
-      "imdbRating": 4.4,
-      "imdbVotes": 1831,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0048554",
+    "tt0048696",
+    "tt0046876",
+    "tt0045920",
+    "tt0051618",
+    "tt0052227",
+    "tt0050393",
+    "tt0051993",
+    "tt0052187",
+    "tt0052228",
+    "tt0051432",
+    "tt0051020"
   ],
   "collections": [],
   "is_curated": true,

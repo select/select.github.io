@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-judex",
+      "id": "silent-judex",
       "title": "Judex",
       "fileSize": 1146367054,
-      "id": "silent-judex"
+      "addedAt": "2026-01-07T00:11:07.406Z",
+      "thumbnail": "https://archive.org/services/img/silent-judex",
+      "language": "French",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 1322
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009701",
-      "title": "Tih Minh",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 497,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009757",
-      "title": "Vendémiaire",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 65,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010089",
-      "title": "L'engrenage",
-      "year": 1919,
-      "imdbRating": 7.8,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209091",
-      "title": "Lagourdette, gentleman cambrioleur",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009905",
-      "title": "Barrabas",
-      "year": 1919,
-      "imdbRating": 7.3,
-      "imdbVotes": 107,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008489",
-      "title": "Raffles, the Amateur Cracksman",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 181,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008498",
-      "title": "Reaching for the Moon",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 111,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003952",
-      "title": "Fantômas: The False Magistrate",
-      "year": 1914,
-      "imdbRating": 6.7,
-      "imdbVotes": 1231,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006333",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 2172,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0009701",
+    "tt0006206",
+    "tt0009757",
+    "tt0010089",
+    "tt0209091",
+    "tt0009905",
+    "tt0008519",
+    "tt0008489",
+    "tt0008309",
+    "tt0008498",
+    "tt0003952",
+    "tt0006333"
   ],
   "collections": [],
   "is_curated": true,

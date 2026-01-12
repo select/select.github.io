@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/when-willie-comes-marching-home-1950_202507",
+      "id": "when-willie-comes-marching-home-1950_202507",
       "title": "When Willie Comes Marching Home (1950)",
       "description": "When Willie leaves home to join the war effort he is all ready to become a hero, but he is only frustrated when his posting ends up to be in his home town, and he is recruited into training, keeping him from the action. However, when he finds himself accidently behind enemy lines he unexpectedly becomes a hero after all. Watch on RetroFlix:  https://retroflix.org/when-willie-comes-marching-home-1950/",
       "fileSize": 721870584,
-      "id": "when-willie-comes-marching-home-1950_202507"
+      "addedAt": "2026-01-07T00:13:06.703Z",
+      "thumbnail": "https://archive.org/services/img/when-willie-comes-marching-home-1950_202507",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 75
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhenWillieComesMarchingHome",
+      "id": "WhenWillieComesMarchingHome",
       "title": "WhenWillieComesMarchingHome",
       "description": "tr",
       "fileSize": 32998520,
-      "id": "WhenWillieComesMarchingHome"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhenWillieComesMarchingHome",
+      "collection": "feature_films",
+      "downloads": 512
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042209",
-      "title": "At War with the Army",
-      "year": 1950,
-      "imdbRating": 5.5,
-      "imdbVotes": 2798,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046384",
-      "title": "The Sun Shines Bright",
-      "year": 1953,
-      "imdbRating": 6.9,
-      "imdbVotes": 1870,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041498",
-      "title": "I Was a Male War Bride",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 9345,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057007",
-      "title": "Donovan's Reef",
-      "year": 1963,
-      "imdbRating": 6.7,
-      "imdbVotes": 10024,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019325",
-      "title": "Riley the Cop",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 241,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0011358",
-      "title": "Just Pals",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 513,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048312",
-      "title": "The Long Gray Line",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 3392,
-      "language": "English, Irish Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027214",
-      "title": "The Whole Town's Talking",
-      "year": 1935,
-      "imdbRating": 7.3,
-      "imdbVotes": 3405,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034297",
-      "title": "Tobacco Road",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 2586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018530",
-      "title": "Upstream",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042209",
+    "tt0046384",
+    "tt0041498",
+    "tt0023955",
+    "tt0025335",
+    "tt0057007",
+    "tt0019325",
+    "tt0011358",
+    "tt0048312",
+    "tt0027214",
+    "tt0034297",
+    "tt0018530"
   ],
   "collections": [],
   "is_curated": true,

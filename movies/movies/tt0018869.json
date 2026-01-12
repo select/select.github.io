@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/evas-tochter_1928",
+      "id": "evas-tochter_1928",
       "title": "Evas Töchter",
       "fileSize": 4985694329,
-      "id": "evas-tochter_1928"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/evas-tochter_1928",
+      "language": "German",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 292
     }
   ],
   "metadata": {
@@ -26,109 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0165865",
-      "title": "Lucerna",
-      "year": 1925,
-      "imdbRating": 5.8,
-      "imdbVotes": 13,
-      "language": "None, Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020824",
-      "title": "Die vom Rummelplatz",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 26,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022648",
-      "title": "Baby",
-      "year": 1932,
-      "imdbRating": 7.4,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0255179",
-      "title": "Fräulein Hoffmanns Erzählungen",
-      "year": 1933,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025944",
-      "title": "Die vertauschte Braut",
-      "year": 1934,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018742",
-      "title": "The Cameraman",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 13471,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019057",
-      "title": "A Knight in London",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018673",
-      "title": "Bare Knees",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0165865",
+    "tt0020824",
+    "tt0022648",
+    "tt0255179",
+    "tt0025944",
+    "tt0129972",
+    "tt0028018",
+    "tt0019421",
+    "tt0018742",
+    "tt0019057",
+    "tt0019067",
+    "tt0018673"
   ],
   "collections": [],
   "is_curated": true,

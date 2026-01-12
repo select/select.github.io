@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_504",
+      "id": "rog561b_netzero_504",
       "title": "504",
       "description": "504",
       "fileSize": 6901934482,
-      "id": "rog561b_netzero_504"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_504",
+      "collection": "feature_films",
+      "downloads": 2369
     }
   ],
   "metadata": {
@@ -26,109 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0178933",
-      "title": "Testing a Rotary",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10960716",
-      "title": "518",
-      "year": 2013,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471163",
-      "title": "Electric Tram Rides from Forster Square, Bradford",
-      "year": 1902,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471294",
-      "title": "Panoramic View of the Morecambe Sea Front",
-      "year": 1901,
-      "imdbRating": 6.1,
-      "imdbVotes": 216,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257088",
-      "title": "San Francisco: Aftermath of Earthquake",
-      "year": 1906,
-      "imdbRating": 6.4,
-      "imdbVotes": 591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471384",
-      "title": "Sheffield United v Bury",
-      "year": 1902,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4206510",
-      "title": "The Maze Runner: Finding the Gang",
-      "year": 2014,
-      "imdbRating": 7.7,
-      "imdbVotes": 15954,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4290988",
-      "title": "Blood Brothers",
-      "year": 2014,
-      "imdbRating": 5.4,
-      "imdbVotes": 29,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2162808",
-      "title": "The Bucking Bronco at the Stickhorse Rodeo",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt5794194",
-      "title": "Other Losses",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1816593",
-      "title": "Mr. Lincoln's Springfield",
-      "year": 1977,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0178933",
+    "tt10960716",
+    "tt0471163",
+    "tt0471294",
+    "tt0257088",
+    "tt0471384",
+    "tt4206510",
+    "tt4290988",
+    "tt2162808",
+    "tt6564690",
+    "tt5794194",
+    "tt1816593"
   ],
   "collections": [],
   "is_curated": true,

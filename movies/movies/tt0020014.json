@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-idle-rich_1929",
+      "id": "the-idle-rich_1929",
       "title": "The Idle Rich",
       "fileSize": 5481184485,
-      "id": "the-idle-rich_1929"
+      "addedAt": "2026-01-07T00:12:10.588Z",
+      "thumbnail": "https://archive.org/services/img/the-idle-rich_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 460
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011070",
-      "title": "Conrad in Quest of His Youth",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019993",
-      "title": "The Hollywood Revue of 1929",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 2288,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020785",
-      "title": "Conspiracy",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019151",
-      "title": "The Matinee Idol",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 640,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018350",
-      "title": "Rubber Tires",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 102,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019690",
-      "title": "Big News",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0314115",
-      "title": "Good Night Nurse",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020227",
-      "title": "Nothing But the Truth",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146563",
-      "title": "A Close Call",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0012465",
+    "tt0011070",
+    "tt0019993",
+    "tt0020785",
+    "tt0019151",
+    "tt0018350",
+    "tt0018297",
+    "tt0019690",
+    "tt0019933",
+    "tt0314115",
+    "tt0020227",
+    "tt0146563"
   ],
   "collections": [],
   "is_curated": true,

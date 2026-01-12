@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-movie_202008",
+      "id": "my-movie_202008",
       "title": "\"The Arab\" (1924) starring Ramon Novarro",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"The Arab\" is a drama starring Ramon Novarro. When a Turkish governor plots to massacre a group of Christian children, the son of a Bedouin sheikh has the opportunity to save the day and win his American girlfriend. Directed by                    Rex Ingram Produced by                  Metro-Goldwyn Pictures Corporation Starring                          Ramon Novarro, Alice Terry, Max Maxudian, Jean de Limur, Paul Vermoyal, Adelqui Migliar, Florica Alexandresco, Jerrold Robertshaw, Justa Uribe Release date                   July 21, 1924 Running time                 58 minutes Country                          USA Language                        Silent film, English intertitles   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"",
       "fileSize": 76080491,
-      "id": "my-movie_202008"
+      "addedAt": "2026-01-07T00:09:54.333Z",
+      "thumbnail": "https://archive.org/services/img/my-movie_202008",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 3127
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012190",
-      "title": "The Four Horsemen of the Apocalypse",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017103",
-      "title": "The Magician",
-      "year": 1926,
-      "imdbRating": 6.7,
-      "imdbVotes": 797,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012068",
-      "title": "The Conquering Power",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019469",
-      "title": "The Three Passions",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1452522",
-      "title": "Die Hermannschlacht",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016643",
-      "title": "The Better 'Ole",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 311,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0017540",
-      "title": "What Price Glory",
-      "year": 1926,
-      "imdbRating": 6.9,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013515",
-      "title": "The Prisoner of Zenda",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 544,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138507",
-      "title": "I Have Killed",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 13,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0012190",
+    "tt0014440",
+    "tt0017103",
+    "tt0012068",
+    "tt0019469",
+    "tt0014672",
+    "tt1452522",
+    "tt0015624",
+    "tt0016643",
+    "tt0017540",
+    "tt0013515",
+    "tt0138507"
   ],
   "collections": [],
   "is_curated": true,

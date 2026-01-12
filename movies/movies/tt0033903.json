@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/men-of-the-timberland-1941",
+      "id": "men-of-the-timberland-1941",
       "title": "Men Of The Timberland (1941)",
       "description": "Richard Arlen, Andy Devine",
       "fileSize": 1080033125,
-      "id": "men-of-the-timberland-1941"
+      "addedAt": "2026-01-07T00:09:46.433Z",
+      "thumbnail": "https://archive.org/services/img/men-of-the-timberland-1941",
+      "collection": "feature_films",
+      "downloads": 396
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034081",
-      "title": "Raiders of the Desert",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033509",
-      "title": "A Dangerous Game",
-      "year": 1941,
-      "imdbRating": 4.5,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033930",
-      "title": "Mutiny in the Arctic",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035070",
-      "title": "Mississippi Gambler",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033547",
-      "title": "Double Cross",
-      "year": 1941,
-      "imdbRating": 5.1,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034161",
-      "title": "Sea Raiders",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029847",
-      "title": "Air Devils",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030794",
-      "title": "State Police",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030455",
-      "title": "The Missing Guest",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032790",
-      "title": "Midnight Limited",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033082",
-      "title": "South of Pago Pago",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034081",
+    "tt0033509",
+    "tt0033930",
+    "tt0035070",
+    "tt0033426",
+    "tt0033547",
+    "tt0034161",
+    "tt0029847",
+    "tt0030794",
+    "tt0030455",
+    "tt0032790",
+    "tt0033082"
   ],
   "collections": [],
   "is_curated": true,

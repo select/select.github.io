@@ -6,34 +6,50 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_511",
+      "id": "dipwad2_zoho_511",
       "title": "511",
       "description": "511",
       "fileSize": 1043966937,
-      "id": "dipwad2_zoho_511"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_511",
+      "collection": "feature_films",
+      "downloads": 1040
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_511",
+      "id": "rog561b_netzero_511",
       "title": "511",
       "description": "511",
       "fileSize": 2627985366,
-      "id": "rog561b_netzero_511"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_511",
+      "collection": "feature_films",
+      "downloads": 2763
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_511",
+      "id": "rog56_mail_511",
       "title": "511",
       "description": "511",
       "fileSize": 2232553837,
-      "id": "rog56_mail_511"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_511",
+      "collection": "feature_films",
+      "downloads": 1266
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_511_201606",
+      "id": "rog56_mail_511_201606",
       "title": "511",
       "description": "511",
       "fileSize": 3996955096,
-      "id": "rog56_mail_511_201606"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_511_201606",
+      "collection": "feature_films",
+      "downloads": 3754
     }
   ],
   "metadata": {
@@ -51,116 +67,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt13649700",
-      "title": "Crack: Cocaine, Corruption & Conspiracy",
-      "year": 2021,
-      "imdbRating": 6.7,
-      "imdbVotes": 4000,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14552076",
-      "title": "MLK: The Conspiracies",
-      "year": 2021,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt14583726",
-      "title": "Catching a Serial Killer: Bruce McArthur",
-      "year": 2021,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7685784",
-      "title": "The 2017 World Series",
-      "year": 2017,
-      "imdbRating": 7.1,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7188868",
-      "title": "Diana: In Her Own Words",
-      "year": 2017,
-      "imdbRating": 7.8,
-      "imdbVotes": 4008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4519562",
-      "title": "Original Motion Picture Soundtrack",
-      "year": 2017,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1935826",
-      "title": "Into the Fire",
-      "year": 2011,
-      "imdbRating": 7.8,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0157894",
-      "title": "The Killing of America",
-      "year": 1981,
-      "imdbRating": 7.5,
-      "imdbVotes": 2716,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6400614",
-      "title": "Unacknowledged",
-      "year": 2017,
-      "imdbRating": 7,
-      "imdbVotes": 8918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt32308418",
-      "title": "How to Rob a Bank",
-      "year": 2024,
-      "imdbRating": 6.6,
-      "imdbVotes": 4432,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt5838396",
-      "title": "Kim Jong Un: The Unauthorized Biography",
-      "year": 2017,
-      "imdbRating": 6.7,
-      "imdbVotes": 244,
-      "language": "French, German, Korean, English, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt7676544",
-      "title": "200 MPH Club",
-      "year": 2017,
-      "imdbRating": 7,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt13649700",
+    "tt14552076",
+    "tt14583726",
+    "tt7685784",
+    "tt7188868",
+    "tt4519562",
+    "tt1935826",
+    "tt0157894",
+    "tt6400614",
+    "tt32308418",
+    "tt5838396",
+    "tt7676544"
   ],
   "collections": [],
   "is_curated": true,

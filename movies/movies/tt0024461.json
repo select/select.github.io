@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/popeye-the-sailor-1933",
+      "id": "popeye-the-sailor-1933",
       "title": "Popeye the Sailor (1933)",
       "description": "Popeye and Bluto fight for the love of Olive Oyl in their debut short, featuring Betty Boop. Watch on RetroFlix:  https://retroflix.org/popeye-the-sailor-1933/",
       "fileSize": 29275344,
-      "id": "popeye-the-sailor-1933"
+      "addedAt": "2026-01-07T00:10:21.537Z",
+      "thumbnail": "https://archive.org/services/img/popeye-the-sailor-1933",
+      "language": "eng",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 1632
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/popeye-the-sailor-1933_202405",
+      "id": "popeye-the-sailor-1933_202405",
       "title": "Popeye the Sailor (1933)",
       "description": "Popeye and Bluto fight for the love of Olive Oyl in their debut short, featuring Betty Boop. Watch on RetroFlix:  https://retroflix.org/popeye-the-sailor-1933-2/",
       "fileSize": 43371876,
-      "id": "popeye-the-sailor-1933_202405"
+      "addedAt": "2026-01-07T00:10:21.537Z",
+      "thumbnail": "https://archive.org/services/img/popeye-the-sailor-1933_202405",
+      "language": "eng",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 364
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0024534",
-      "title": "Seasin's Greetinks!",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 349,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025071",
-      "title": "A Dream Walking",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025665",
-      "title": "Poor Cinderella",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 802,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025842",
-      "title": "Strong to the Finich",
-      "year": 1934,
-      "imdbRating": 6.5,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026503",
-      "title": "The 'Hyp-Nut-Tist'",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023801",
-      "title": "Betty Boop's Ker-Choo",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 354,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026310",
-      "title": "An Elephant Never Forgets",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025807",
-      "title": "Sock-a-Bye, Baby",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 290,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026374",
-      "title": "For Better or Worser",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 301,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024152",
-      "title": "I Eats My Spinach",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024162",
-      "title": "I Yam What I Yam",
-      "year": 1933,
-      "imdbRating": 6.9,
-      "imdbVotes": 332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024850",
-      "title": "Axe Me Another",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 267,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0024534",
+    "tt0025071",
+    "tt0025665",
+    "tt0025842",
+    "tt0026503",
+    "tt0023801",
+    "tt0026310",
+    "tt0025807",
+    "tt0026374",
+    "tt0024152",
+    "tt0024162",
+    "tt0024850"
   ],
   "collections": [
     {

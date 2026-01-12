@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-tempest",
+      "id": "silent-the-tempest",
       "title": "The Tempest",
       "fileSize": 133466746,
-      "id": "silent-the-tempest"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-tempest",
+      "year": 1908,
+      "collection": "feature_films",
+      "downloads": 506
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0223340",
-      "title": "The Spring Fairy",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 53,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233728",
-      "title": "Fireside Reminiscences",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164493",
-      "title": "Cinderella",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 100,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001544",
-      "title": "A Christmas Carol",
-      "year": 1910,
-      "imdbRating": 6,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191358",
-      "title": "Pikovaya dama",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 202,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257889",
-      "title": "Magic Bricks",
-      "year": 1908,
-      "imdbRating": 5.7,
-      "imdbVotes": 379,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1059291",
-      "title": "Prussian Culture",
-      "year": 1908,
-      "imdbRating": 5.3,
-      "imdbVotes": 245,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0317427",
-      "title": "L'enfant de la barricade",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 377,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0450089",
-      "title": "Tom Thumb",
-      "year": 1909,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000488",
-      "title": "The Land Beyond the Sunset",
-      "year": 1912,
-      "imdbRating": 6.9,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0258103",
-      "title": "Revolution in Russia",
-      "year": 1906,
-      "imdbRating": 5.7,
-      "imdbVotes": 352,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0223340",
+    "tt0233728",
+    "tt0164493",
+    "tt0001544",
+    "tt0191358",
+    "tt0257889",
+    "tt1059291",
+    "tt0317427",
+    "tt0450089",
+    "tt0417062",
+    "tt0000488",
+    "tt0258103"
   ],
   "collections": [],
   "is_curated": true,

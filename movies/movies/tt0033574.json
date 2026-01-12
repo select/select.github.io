@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ellery-queens-penthouse-mystery-1941",
+      "id": "ellery-queens-penthouse-mystery-1941",
       "title": "Ellery Queen's Penthouse Mystery (1941)",
       "description": "Ralph Bellamy, Margaret Lindsay, Anna May Wong, Eduardo Cianelli, Charles Lane, Mantan Moreland",
       "fileSize": 998942290,
-      "id": "ellery-queens-penthouse-mystery-1941"
+      "addedAt": "2026-01-07T00:08:15.379Z",
+      "thumbnail": "https://archive.org/services/img/ellery-queens-penthouse-mystery-1941",
+      "collection": "feature_films",
+      "downloads": 1948
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/VariousClassicFilmNoir-CrimeDramaMysteryComedyRomance",
+      "id": "VariousClassicFilmNoir-CrimeDramaMysteryComedyRomance",
       "title": "VARIOUS Classic Film Noir - Crime, Drama, Mystery, Comedy, Romance",
       "description": "** ALL B/W FILMS - ALL PUBLIC DOMAIN ** (1941) Ellery Queen's Penthouse Mystery (Drama Crime Romance) COLUMBIA PICTURES CORP. (1945) Midnight Manhunt (Comedy Crime Mystery Romance) METROPOLIS PRODUCTIONS (1945) Treasure of Fear (Comedy Murder Mystery Romance) PARAMOUNT PICTURES (1947) Killer Dill (Comedy Crime Mystery Romance) SCREEN GUILD PRODUCTIONS - Nivel Pictures Corporation - Max M. King Production (1948) Secret Beyond the Door (Thriller Mystery Drama Romance - this is a most enjoyable thriller, but sadly, it is .. partially .. out of sync.) UNIVERSAL INTERNATIONAL (1951) Behave Yourself! (Comedy Crime Mystery Romance) RKO RADIO PICTURES ** I OWN NO RIGHTS TO ANY PART OF any one of these wonderful, relaxing Film Noir. I receive NO FINANCIAL GAIN, NOR GAIN IN ANY FORM, for this upload, nor for any other item I upload to archive.org. I upload for educational purposes, and for the enjoyment of all generations (present & future). I do so with the belief that the item is now in the Public Domain. If anything I upload is found to not be in the Public Domain, I do understand that it (sadly) may be pulled from this educational and priceless website. ** Should you have any problems with downloading, please inform this volunteer up-loader (DEF GP or DEF GP ddh), by posting message below. **Public Domain**",
       "fileSize": 3364907634,
-      "id": "VariousClassicFilmNoir-CrimeDramaMysteryComedyRomance"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/VariousClassicFilmNoir-CrimeDramaMysteryComedyRomance",
+      "collection": "feature_films",
+      "downloads": 27799
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034602",
-      "title": "A Close Call for Ellery Queen",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033573",
-      "title": "Ellery Queen and the Perfect Crime",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 179,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031054",
-      "title": "Arrest Bulldog Drummond",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031125",
-      "title": "Bulldog Drummond's Secret Police",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 672,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029952",
-      "title": "Bulldog Drummond's Peril",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032958",
-      "title": "Queen of the Mob",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028668",
-      "title": "Bulldog Drummond Escapes",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 1020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036207",
-      "title": "No Place for a Lady",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034056",
-      "title": "Power Dive",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029951",
-      "title": "Bulldog Drummond in Africa",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030485",
-      "title": "Mystery House",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 576,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028667",
-      "title": "Bulldog Drummond Comes Back",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034602",
+    "tt0033573",
+    "tt0031054",
+    "tt0031125",
+    "tt0029952",
+    "tt0032958",
+    "tt0028668",
+    "tt0036207",
+    "tt0034056",
+    "tt0029951",
+    "tt0030485",
+    "tt0028667"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/salamander_1928",
+      "id": "salamander_1928",
       "title": "Salamander",
       "fileSize": 2888116527,
-      "id": "salamander_1928"
+      "addedAt": "2026-01-07T00:10:40.951Z",
+      "thumbnail": "https://archive.org/services/img/salamander_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 1919
     }
   ],
   "metadata": {
@@ -26,119 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0116374",
-      "title": "Fugitive Rage",
-      "year": 1996,
-      "imdbRating": 4.4,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0489070",
-      "title": "Hard Luck",
-      "year": 2006,
-      "imdbRating": 5.2,
-      "imdbVotes": 2942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4976192",
-      "title": "211",
-      "year": 2018,
-      "imdbRating": 4.4,
-      "imdbVotes": 10264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13818610",
-      "title": "AURORA 663",
-      "year": 2022,
-      "imdbRating": 4.1,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079056",
-      "title": "Disaster on the Coastliner",
-      "year": 1979,
-      "imdbRating": 5.8,
-      "imdbVotes": 664,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019110",
-      "title": "Looping the Loop",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 49,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088359",
-      "title": "White Fire",
-      "year": 1984,
-      "imdbRating": 4.7,
-      "imdbVotes": 1045,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5781146",
-      "title": "Klippers",
-      "year": 2018,
-      "imdbRating": 3.4,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0153854",
-      "title": "A Wing and a Prayer",
-      "year": 1998,
-      "imdbRating": 5,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0110256",
-      "title": "The Redemption: Kickboxer 5",
-      "year": 1995,
-      "imdbRating": 4,
-      "imdbVotes": 1425,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt10323676",
-      "title": "The Contractor",
-      "year": 2022,
-      "imdbRating": 5.8,
-      "imdbVotes": 34042,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0116374",
+    "tt0489070",
+    "tt0019421",
+    "tt4976192",
+    "tt13818610",
+    "tt0079056",
+    "tt0019110",
+    "tt0088359",
+    "tt5781146",
+    "tt0153854",
+    "tt0110256",
+    "tt10323676"
   ],
   "collections": [],
   "is_curated": true,

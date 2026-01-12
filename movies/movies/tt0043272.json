@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/al-jennings-of-oklahoma",
+      "id": "al-jennings-of-oklahoma",
       "title": "Al Jennings Of Oklahoma",
       "description": "WESTERN",
       "fileSize": 196491388,
-      "id": "al-jennings-of-oklahoma"
+      "addedAt": "2026-01-07T00:07:24.994Z",
+      "thumbnail": "https://archive.org/services/img/al-jennings-of-oklahoma",
+      "collection": "feature_films",
+      "downloads": 58
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045954",
-      "title": "Kansas Pacific",
-      "year": 1953,
-      "imdbRating": 5.8,
-      "imdbVotes": 826,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048734",
-      "title": "Top Gun",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 743,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043403",
-      "title": "China Corsair",
-      "year": 1951,
-      "imdbRating": 5.7,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043543",
-      "title": "Flame of Stamboul",
-      "year": 1951,
-      "imdbRating": 5.6,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043137",
-      "title": "Winchester '73",
-      "year": 1950,
-      "imdbRating": 7.6,
-      "imdbVotes": 23424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041289",
-      "title": "Deputy Marshal",
-      "year": 1949,
-      "imdbRating": 5.8,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0045539",
-      "title": "Bandits of Corsica",
-      "year": 1953,
-      "imdbRating": 5.5,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066759",
-      "title": "The American West of John Ford",
-      "year": 1971,
-      "imdbRating": 7.1,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043885",
-      "title": "Only the Valiant",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 1891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043482",
-      "title": "Drums in the Deep South",
-      "year": 1951,
-      "imdbRating": 5.8,
-      "imdbVotes": 457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043579",
-      "title": "Gene Autry and the Mounties",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043829",
-      "title": "My Outlaw Brother",
-      "year": 1951,
-      "imdbRating": 5.2,
-      "imdbVotes": 340,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0045954",
+    "tt0048734",
+    "tt0043403",
+    "tt0043543",
+    "tt0043137",
+    "tt0041289",
+    "tt0045539",
+    "tt0066759",
+    "tt0043885",
+    "tt0043482",
+    "tt0043579",
+    "tt0043829"
   ],
   "collections": [],
   "is_curated": true,

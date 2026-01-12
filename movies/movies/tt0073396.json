@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mitchell-1975_202208",
+      "id": "mitchell-1975_202208",
       "title": "Mitchell ( 1975)",
       "description": "PLOT: A tough, slobby, honest cop tries to simultaneously take down heroin dealers and a corrupt businessman who murdered a burglar, even if it costs him his life.",
       "fileSize": 1815082369,
-      "id": "mitchell-1975_202208"
+      "addedAt": "2026-01-07T00:09:54.328Z",
+      "thumbnail": "https://archive.org/services/img/mitchell-1975_202208",
+      "language": "eng",
+      "year": 1975,
+      "collection": "feature_films",
+      "downloads": 9152
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071402",
-      "title": "Death Wish",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 45235,
-      "language": "English, Italian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074836",
-      "title": "Mad Dog Morgan",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073755",
-      "title": "The Street Fighter's Last Revenge",
-      "year": 1974,
-      "imdbRating": 6,
-      "imdbVotes": 1518,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0075263",
-      "title": "St. Ives",
-      "year": 1976,
-      "imdbRating": 6.2,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0073774",
-      "title": "The Swiss Conspiracy",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 539,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070930",
-      "title": "The Wrestler",
-      "year": 1974,
-      "imdbRating": 5.2,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0158714",
-      "title": "Lady Snowblood",
-      "year": 1973,
-      "imdbRating": 7.6,
-      "imdbVotes": 16923,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0143428",
-      "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
-      "year": 1973,
-      "imdbRating": 7.5,
-      "imdbVotes": 4732,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087258",
-      "title": "Final Justice",
-      "year": 1984,
-      "imdbRating": 2.3,
-      "imdbVotes": 3524,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063060",
-      "title": "Hellfighters",
-      "year": 1968,
-      "imdbRating": 6.5,
-      "imdbVotes": 6773,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062886",
-      "title": "The Devil's Brigade",
-      "year": 1968,
-      "imdbRating": 6.7,
-      "imdbVotes": 6603,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    }
+    "tt0074634",
+    "tt0071402",
+    "tt0074836",
+    "tt0073755",
+    "tt0075263",
+    "tt0073774",
+    "tt0070930",
+    "tt0158714",
+    "tt0143428",
+    "tt0087258",
+    "tt0063060",
+    "tt0062886"
   ],
   "collections": [],
   "is_curated": true,

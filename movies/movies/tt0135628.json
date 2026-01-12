@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rhythm_blues_review",
+      "id": "rhythm_blues_review",
       "title": "Rhythm and Blues Revue",
       "description": "Musical variety show filmed at the Apollo Theatre in Harlem, New York City featuring a cast of popular African-American performers: Willie Bryant, Freddie Robinson, Lionel Hampton, Count Basie, Faye Adams, Bill Bailey, Herb Jeffries, Amos Milburn, Sarah Vaughan, Nipsey Russell, Big Joe Turner, Martha Davis, Little Buck, Nat 'King' Cole, Mantan Moreland, Cab Calloway and Ruth Brown. You can find more information regarding this film on its IMDb page .",
       "fileSize": 4628691774,
-      "id": "rhythm_blues_review"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/rhythm_blues_review",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 205451
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rhythm_blues_review_ipod",
+      "id": "rhythm_blues_review_ipod",
       "title": "Rhythm and Blues Revue",
       "description": "Musical variety show filmed at the Apollo Theatre in Harlem, New York City featuring a cast of popular African-American performers: Willie Bryant, Freddie Robinson, Lionel Hampton, Count Basie, Faye Adams, Bill Bailey, Herb Jeffries, Amos Milburn, Sarah Vaughan, Nipsey Russell, Big Joe Turner, Martha Davis, Little Buck, Nat 'King' Cole, Mantan Moreland, Cab Calloway and Ruth Brown.",
       "fileSize": 984233994,
-      "id": "rhythm_blues_review_ipod"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/rhythm_blues_review_ipod",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 105935
     }
   ],
   "metadata": {
@@ -35,110 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135630",
-      "title": "Rock 'n' Roll Revue",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1127851",
-      "title": "Marc Bolan: The Final Word",
-      "year": 2007,
-      "imdbRating": 7.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1765782",
-      "title": "Depeche Mode: Tour of the Universe - Barcelona 20/21.11.09",
-      "year": 2010,
-      "imdbRating": 8.3,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038654",
-      "title": "Jivin' in Be-Bop",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4519562",
-      "title": "Original Motion Picture Soundtrack",
-      "year": 2017,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0770802",
-      "title": "Samsara",
-      "year": 2011,
-      "imdbRating": 8.4,
-      "imdbVotes": 39134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0790769",
-      "title": "Kurt Cobain About a Son",
-      "year": 2006,
-      "imdbRating": 7.2,
-      "imdbVotes": 3877,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266242",
-      "title": "An All-Star Tribute to Johnny Cash",
-      "year": 1999,
-      "imdbRating": 7.2,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3457782",
-      "title": "China the Dragon Smith the Second Chance",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2268622",
-      "title": "808",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 727,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205255",
-      "title": "Mercedes Sosa: como un pájaro libre",
-      "year": 1983,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4382650",
-      "title": "NWA & Eazy-E: Kings of Compton",
-      "year": 2016,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0135630",
+    "tt1127851",
+    "tt1765782",
+    "tt0038654",
+    "tt4519562",
+    "tt0770802",
+    "tt0790769",
+    "tt0266242",
+    "tt3457782",
+    "tt2268622",
+    "tt0205255",
+    "tt4382650"
   ],
   "collections": [],
   "is_curated": true,

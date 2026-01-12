@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-phantom-light-1935",
+      "id": "the-phantom-light-1935",
       "title": "The Phantom Light (1935)",
       "description": "movie",
       "fileSize": 1093893775,
-      "id": "the-phantom-light-1935"
+      "addedAt": "2026-01-07T00:12:22.156Z",
+      "thumbnail": "https://archive.org/services/img/the-phantom-light-1935",
+      "collection": "feature_films",
+      "downloads": 1123
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tpl55565",
+      "id": "tpl55565",
       "title": "The Phantom Light",
       "description": "Title: The Phantom Light Summary: A lighthouse keeper has been murdered in mysterious circumstances and, during the ensuing investigation a Phantom Light keeps appearing at the scene of his death. Directed by: Michael Powell Actors: Binnie Hale, Gordon Harker, Donald Calthrop Production Company: Gainsborough Pictures Release Date: 5 August 1935 (UK) Aspect Ratio: 1.37 : 1 A lighthouse keeper has been murdered in mysterious circumstances and, during the ensuing investigation a Phantom Light keeps appearing at the scene of his death.",
       "fileSize": 526143238,
-      "id": "tpl55565"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tpl55565",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 2323
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025564",
-      "title": "The Murder Party",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027136",
-      "title": "The Triumph of Sherlock Holmes",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026975",
-      "title": "Secrets of Chinatown",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026029",
-      "title": "The 39 Steps",
-      "year": 1935,
-      "imdbRating": 7.6,
-      "imdbVotes": 65037,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023563",
-      "title": "The Testament of Dr. Mabuse",
-      "year": 1933,
-      "imdbRating": 7.9,
-      "imdbVotes": 13851,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030734",
-      "title": "Sexton Blake and the Hooded Terror",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031022",
-      "title": "The Adventures of Sherlock Holmes",
-      "year": 1939,
-      "imdbRating": 7.2,
-      "imdbVotes": 7702,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031448",
-      "title": "The Hound of the Baskervilles",
-      "year": 1939,
-      "imdbRating": 7.4,
-      "imdbVotes": 12505,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048919",
-      "title": "23 Paces to Baker Street",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 3020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026177",
-      "title": "Captured in Chinatown",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048301",
-      "title": "A Life in the Balance",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026731",
-      "title": "Motive for Revenge",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025564",
+    "tt0027136",
+    "tt0026975",
+    "tt0026029",
+    "tt0026971",
+    "tt0023563",
+    "tt0030734",
+    "tt0031022",
+    "tt0031448",
+    "tt0048919",
+    "tt0026177",
+    "tt0048301"
   ],
   "collections": [],
   "is_curated": true,

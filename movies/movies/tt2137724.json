@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-deschutes-driftwood",
+      "id": "silent-deschutes-driftwood",
       "title": "Deschutes Driftwood",
       "fileSize": 230353370,
-      "id": "silent-deschutes-driftwood"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-deschutes-driftwood",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 227
     }
   ],
   "metadata": {
@@ -26,104 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0940590",
-      "title": "Civilization of the Far East",
-      "year": 1916,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477402",
-      "title": "The Wonders of Magnetism",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647252",
-      "title": "Seeing Yosemite with David A. Curry",
-      "year": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0885116",
-      "title": "Seven Ages of an Alligator",
-      "year": 1913,
-      "imdbRating": 5.8,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182263",
-      "title": "The Cost of Carelessness",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 56,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005675",
-      "title": "Mabel and Fatty Viewing the World's Fair at San Francisco",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 121,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt2647224",
+    "tt0940590",
+    "tt0938705",
+    "tt0955263",
+    "tt9837386",
+    "tt0477402",
+    "tt1283535",
+    "tt2647252",
+    "tt1515754",
+    "tt0885116",
+    "tt1182263",
+    "tt0005675"
   ],
   "collections": [],
   "is_curated": true,

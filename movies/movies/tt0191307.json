@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nativa-1939",
+      "id": "nativa-1939",
       "title": "Nativa (1939)",
       "description": "Nativa  es una película de  Argentina  en blanco y negro dirigida por  Enrique De Rosas  según su propio guion escrito sobre un argumento de Elvira C. Quintana que se estrenó el 7 de septiembre de 1939 y que tuvo como protagonistas a  Pedro Aleandro ,  Santiago Arrieta ,  Homero Cárpena ,  Carlos Fioriti  y  Azucena Maizani . [ 1 ] ​(Wikipedia) Sinopsis El triángulo amoroso de un periodista, un caudillo político y su mujer. [ 1 ] ​ Reparto Pedro Aleandro Santiago Arrieta Homero Cárpena Fausto Etchegoin Carlos Fioriti Azucena Maizani Margarita Padín Julio Renato Carlos Rodríguez María Padín Casimiro Ros María Santos Domingo Sapelli Alberto Terrones",
       "fileSize": 2779125554,
-      "id": "nativa-1939"
+      "addedAt": "2026-01-07T00:10:02.896Z",
+      "thumbnail": "https://archive.org/services/img/nativa-1939",
+      "language": "spa",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 35
     }
   ],
   "metadata": {
@@ -26,99 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0291692",
-      "title": "...Y los sueños pasan",
-      "year": 1939,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0290431",
-      "title": "Atorrante",
-      "year": 1939,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0317423",
-      "title": "Encadenado",
-      "year": 1940,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160230",
-      "title": "Drei wunderschöne Tage",
-      "year": 1939,
-      "imdbRating": 7.7,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031375",
-      "title": "Das Glück wohnt nebenan",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031360",
-      "title": "Die Geliebte",
-      "year": 1939,
-      "imdbRating": 7.5,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132190",
-      "title": "Die goldene Maske",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032079",
-      "title": "Die unheimlichen Wünsche",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032418",
-      "title": "Drei Väter um Anna",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031472",
-      "title": "Ich verweigere die Aussage",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228424",
-      "title": "In letzter Minute",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0242670",
-      "title": "Meine Tante - deine Tante",
-      "year": 1939,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0291692",
+    "tt0290431",
+    "tt0317423",
+    "tt0160230",
+    "tt0031375",
+    "tt0031360",
+    "tt0132190",
+    "tt0032079",
+    "tt0032418",
+    "tt0031472",
+    "tt0228424",
+    "tt0242670"
   ],
   "collections": [],
   "is_curated": true,

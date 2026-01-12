@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-schwarze-rosen-lilian-harvey-willy-birgel-willy-fritsch",
+      "id": "1935-schwarze-rosen-lilian-harvey-willy-birgel-willy-fritsch",
       "title": "1935 Schwarze Rosen ( Lilian Harvey, Willy Birgel, Willy Fritsch)",
       "description": "Film aus dem deutschen dritten Reich von 1935. Schwarze Rosen.  U.a mit Willy Birgel und Willy Fritsch ",
       "fileSize": 1349815614,
-      "id": "1935-schwarze-rosen-lilian-harvey-willy-birgel-willy-fritsch"
+      "addedAt": "2026-01-07T00:06:00.055Z",
+      "thumbnail": "https://archive.org/services/img/1935-schwarze-rosen-lilian-harvey-willy-birgel-willy-fritsch",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 197
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028851",
-      "title": "Fanny Elssler",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031337",
-      "title": "Frau am Steuer",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026098",
-      "title": "Barcarole",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026164",
-      "title": "Call of the Wild",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 2715,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0026104",
-      "title": "Becky Sharp",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 1302,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024883",
-      "title": "Between Men",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026133",
-      "title": "Branded a Coward",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026213",
-      "title": "Circumstantial Evidence",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 112,
-      "language": "Latin, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026230",
-      "title": "Condemned to Live",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026267",
-      "title": "The Dawn Rider",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1351,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028851",
+    "tt0031337",
+    "tt0026098",
+    "tt0027087",
+    "tt0026164",
+    "tt0026104",
+    "tt0024883",
+    "tt0026133",
+    "tt0026213",
+    "tt0026223",
+    "tt0026230",
+    "tt0026267"
   ],
   "collections": [],
   "is_curated": true,

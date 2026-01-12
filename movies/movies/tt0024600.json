@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1933-sonnenstrahl-gustav-frohlich-paul-otto",
+      "id": "1933-sonnenstrahl-gustav-frohlich-paul-otto",
       "title": "1933 Sonnenstrahl ( Gustav Fröhlich, Paul Otto)",
       "description": "Film aus dem deutschen dritten Reich von 1933. Sonnenstrahl.  U.a mit Gustav Fröhlich und Paul Otto ",
       "fileSize": 2291711393,
-      "id": "1933-sonnenstrahl-gustav-frohlich-paul-otto"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1933-sonnenstrahl-gustav-frohlich-paul-otto",
+      "language": "ger",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 199
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020078",
-      "title": "The Last Performance",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 488,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019109",
-      "title": "Lonesome",
-      "year": 1928,
-      "imdbRating": 7.7,
-      "imdbVotes": 2694,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133782",
-      "title": "Frühlingsstimmen",
-      "year": 1933,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026098",
-      "title": "Barcarole",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027048",
-      "title": "Stradivari",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026764",
-      "title": "Nacht der Verwandlung",
-      "year": 1935,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024055",
-      "title": "The Ghoul",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 3369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024300",
-      "title": "A Man of Sentiment",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023845",
-      "title": "Britannia of Billingsgate",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023859",
-      "title": "By Appointment Only",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023742",
-      "title": "After Tonight",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 426,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023904",
-      "title": "The Constant Woman",
-      "year": 1933,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020078",
+    "tt0019109",
+    "tt0133782",
+    "tt0026098",
+    "tt0027048",
+    "tt0026764",
+    "tt0024055",
+    "tt0024300",
+    "tt0023845",
+    "tt0023859",
+    "tt0023742",
+    "tt0023904"
   ],
   "collections": [],
   "is_curated": true,

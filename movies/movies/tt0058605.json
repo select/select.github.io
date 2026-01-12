@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TenGladiators",
+      "id": "TenGladiators",
       "title": "Ten Gladiators",
       "description": "1960 starring Dan Vadis. Set in Rome. Nero's at bat and ten gladiators unite to oppose him.",
       "fileSize": 2253528321,
-      "id": "TenGladiators"
+      "addedAt": "2026-01-07T00:06:58.271Z",
+      "thumbnail": "https://archive.org/services/img/TenGladiators",
+      "collection": "feature_films",
+      "downloads": 87844
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0056997",
-      "title": "The Ten Gladiators",
-      "year": 1963,
-      "imdbRating": 4.4,
-      "imdbVotes": 124,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Films"
-    },
-    {
-      "imdbId": "tt0058548",
-      "title": "Santa Claus Conquers the Martians",
-      "year": 1964,
-      "imdbRating": 2.7,
-      "imdbVotes": 12783,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057918",
-      "title": "Carry on Cleo",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 5176,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038747",
-      "title": "Monsieur Beaucaire",
-      "year": 1946,
-      "imdbRating": 6.7,
-      "imdbVotes": 767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056912",
-      "title": "Carry on Cabby",
-      "year": 1963,
-      "imdbRating": 6.4,
-      "imdbVotes": 3205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057007",
-      "title": "Donovan's Reef",
-      "year": 1963,
-      "imdbRating": 6.7,
-      "imdbVotes": 10024,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057193",
-      "title": "It's a Mad Mad Mad Mad World",
-      "year": 1963,
-      "imdbRating": 7.5,
-      "imdbVotes": 49426,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057225",
-      "title": "Kings of the Sun",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 2338,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059433",
-      "title": "Masquerade",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 579,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055946",
-      "title": "Eegah",
-      "year": 1962,
-      "imdbRating": 2.3,
-      "imdbVotes": 6206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056026",
-      "title": "Gladiator of Rome",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 179,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060218",
-      "title": "Cast a Giant Shadow",
-      "year": 1966,
-      "imdbRating": 6.3,
-      "imdbVotes": 4231,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    }
+    "tt0056997",
+    "tt0058548",
+    "tt0057918",
+    "tt0038747",
+    "tt0056912",
+    "tt0057007",
+    "tt0057193",
+    "tt0057225",
+    "tt0059433",
+    "tt0055946",
+    "tt0056026",
+    "tt0060218"
   ],
   "collections": [],
   "is_curated": true,

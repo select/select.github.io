@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dangerous-afternoon-1961",
+      "id": "dangerous-afternoon-1961",
       "title": "Dangerous Afternoon (1961)",
       "description": "The manager of a halfway house for female ex-cons takes action when a blackmailer threatens to expose her secret. Watch on RetroFlix:  https://retroflix.org/dangerous-afternoon-1961/",
       "fileSize": 213048054,
-      "id": "dangerous-afternoon-1961"
+      "addedAt": "2026-01-07T00:07:51.628Z",
+      "thumbnail": "https://archive.org/services/img/dangerous-afternoon-1961",
+      "language": "eng",
+      "year": 1961,
+      "collection": "feature_films",
+      "downloads": 323
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0055034",
-      "title": "Jungle Street Girls",
-      "year": 1960,
-      "imdbRating": 5.9,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0243152",
-      "title": "Black Orchid",
-      "year": 1953,
-      "imdbRating": 6,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047225",
-      "title": "Meet Mr. Callaghan",
-      "year": 1954,
-      "imdbRating": 6,
-      "imdbVotes": 253,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047299",
-      "title": "One Jump Ahead",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054817",
-      "title": "Five Minutes to Live",
-      "year": 1961,
-      "imdbRating": 5.5,
-      "imdbVotes": 1009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054627",
-      "title": "Anatomy of a Psycho",
-      "year": 1961,
-      "imdbRating": 4.1,
-      "imdbVotes": 645,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054744",
-      "title": "The Choppers",
-      "year": 1961,
-      "imdbRating": 4.7,
-      "imdbVotes": 453,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181055",
-      "title": "Three Blondes in His Life",
-      "year": 1961,
-      "imdbRating": 5.1,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054687",
-      "title": "Blast of Silence",
-      "year": 1961,
-      "imdbRating": 7.4,
-      "imdbVotes": 6025,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054731",
-      "title": "Cash on Demand",
-      "year": 1961,
-      "imdbRating": 7.5,
-      "imdbVotes": 3041,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054709",
-      "title": "Pigs and Battleships",
-      "year": 1961,
-      "imdbRating": 7.4,
-      "imdbVotes": 2663,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055633",
-      "title": "The Young Savages",
-      "year": 1961,
-      "imdbRating": 6.9,
-      "imdbVotes": 3026,
-      "language": "English, Italian, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0055034",
+    "tt0243152",
+    "tt0047225",
+    "tt0047299",
+    "tt0054817",
+    "tt0054627",
+    "tt0054744",
+    "tt0181055",
+    "tt0054687",
+    "tt0054731",
+    "tt0054709",
+    "tt0055633"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_3121",
+      "id": "dipwad2_zoho_3121",
       "title": "312",
       "description": "312",
       "fileSize": 3229275092,
-      "id": "dipwad2_zoho_3121"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_3121",
+      "collection": "feature_films",
+      "downloads": 2630
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_312",
+      "id": "rog561b_netzero_312",
       "title": "312",
       "description": "312",
       "fileSize": 2613508286,
-      "id": "rog561b_netzero_312"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_312",
+      "collection": "feature_films",
+      "downloads": 1498
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_312",
+      "id": "rog56_mail_312",
       "title": "312",
       "description": "312",
       "fileSize": 2969855982,
-      "id": "rog56_mail_312"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_312",
+      "collection": "feature_films",
+      "downloads": 1426
     }
   ],
   "metadata": {
@@ -43,124 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt5167966",
-      "title": "One Week Friends",
-      "year": 2017,
-      "imdbRating": 6.8,
-      "imdbVotes": 1575,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4372736",
-      "title": "Because of Grácia",
-      "year": 2017,
-      "imdbRating": 5.6,
-      "imdbVotes": 284,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5253282",
-      "title": "The Bachelors",
-      "year": 2017,
-      "imdbRating": 6.8,
-      "imdbVotes": 6098,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4514646",
-      "title": "Tim Timmerman: Hope of America",
-      "year": 2017,
-      "imdbRating": 5.5,
-      "imdbVotes": 340,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6045466",
-      "title": "Madame",
-      "year": 2017,
-      "imdbRating": 6.1,
-      "imdbVotes": 9093,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6893370",
-      "title": "My Little Monster",
-      "year": 2018,
-      "imdbRating": 6,
-      "imdbVotes": 866,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4838534",
-      "title": "The Sweet Life",
-      "year": 2016,
-      "imdbRating": 6.2,
-      "imdbVotes": 1931,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt5364518",
-      "title": "Dater's Handbook",
-      "year": 2016,
-      "imdbRating": 5.8,
-      "imdbVotes": 2775,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6217490",
-      "title": "Looks Like Christmas",
-      "year": 2016,
-      "imdbRating": 5.8,
-      "imdbVotes": 1188,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3846674",
-      "title": "To All the Boys I've Loved Before",
-      "year": 2018,
-      "imdbRating": 7,
-      "imdbVotes": 135017,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4859168",
-      "title": "Then Came You",
-      "year": 2018,
-      "imdbRating": 6.9,
-      "imdbVotes": 14363,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1352771",
-      "title": "Randy's Canvas",
-      "year": 2018,
-      "imdbRating": 6.3,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt5167966",
+    "tt4372736",
+    "tt5253282",
+    "tt4514646",
+    "tt6045466",
+    "tt6893370",
+    "tt4838534",
+    "tt5364518",
+    "tt6217490",
+    "tt3846674",
+    "tt4859168",
+    "tt1352771"
   ],
   "collections": [],
   "is_curated": true,

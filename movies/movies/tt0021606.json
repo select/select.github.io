@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ambassador-bill",
+      "id": "ambassador-bill",
       "title": "Ambassador Bill",
       "description": "Ambassador Bill Will Rogers, Marguerite Churchill, Ray Milland 1931",
       "fileSize": 1281929343,
-      "id": "ambassador-bill"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/ambassador-bill",
+      "collection": "feature_films",
+      "downloads": 828
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020479",
-      "title": "The Taming of the Shrew",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 655,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018183",
-      "title": "My Best Girl",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 912,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022026",
-      "title": "Kiki",
-      "year": 1931,
-      "imdbRating": 5.3,
-      "imdbVotes": 343,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021702",
-      "title": "Business and Pleasure",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 68,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020490",
-      "title": "They Had to See Paris",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 199,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024610",
-      "title": "State Fair",
-      "year": 1933,
-      "imdbRating": 6.7,
-      "imdbVotes": 1151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019788",
-      "title": "Coquette",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 2351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021649",
-      "title": "Behind Office Doors",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 556,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022326",
-      "title": "The Royal Bed",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 251,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022000",
-      "title": "Indiscreet",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 1610,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020479",
+    "tt0018183",
+    "tt0022026",
+    "tt0021702",
+    "tt0023955",
+    "tt0020490",
+    "tt0024610",
+    "tt0019788",
+    "tt0021649",
+    "tt0022326",
+    "tt0228331",
+    "tt0022000"
   ],
   "collections": [],
   "is_curated": true,

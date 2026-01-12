@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-north-of-hudson-bay",
+      "id": "silent-north-of-hudson-bay",
       "title": "North of Hudson Bay",
       "fileSize": 619209429,
-      "id": "silent-north-of-hudson-bay"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-north-of-hudson-bay",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 761
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0133813",
-      "title": "The Grub Stake",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130218",
-      "title": "Regeneration",
-      "year": 1923,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031971",
-      "title": "Stagecoach",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 57694,
-      "language": "English, Spanish, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0019699",
-      "title": "The Black Watch",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 494,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0052902",
-      "title": "The Horse Soldiers",
-      "year": 1959,
-      "imdbRating": 7.1,
-      "imdbVotes": 12576,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013909",
-      "title": "Cameo Kirby",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 382,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011387",
-      "title": "The Last of the Mohicans",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1472,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013607",
-      "title": "Sky High",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015016",
-      "title": "The Iron Horse",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 2649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013735",
-      "title": "The Village Blacksmith",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 135,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016288",
-      "title": "Riders of the Purple Sage",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 227,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0133813",
+    "tt0130218",
+    "tt0016641",
+    "tt0031971",
+    "tt0019699",
+    "tt0052902",
+    "tt0013909",
+    "tt0011387",
+    "tt0013607",
+    "tt0015016",
+    "tt0013735",
+    "tt0016288"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-enfants-annamites-ramassant-des-sapques-devant-la-pagode-des-dames",
+      "id": "silent-enfants-annamites-ramassant-des-sapques-devant-la-pagode-des-dames",
       "title": "Enfants annamites ramassant des sapèques devant la Pagode des Dames",
       "fileSize": 29865912,
-      "id": "silent-enfants-annamites-ramassant-des-sapques-devant-la-pagode-des-dames"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-enfants-annamites-ramassant-des-sapques-devant-la-pagode-des-dames",
+      "year": 1902,
+      "collection": "feature_films",
+      "downloads": 255
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1219715",
-      "title": "Le village de Namo - Panorama pris d'une chaise à porteurs",
-      "year": 1900,
-      "imdbRating": 6.3,
-      "imdbVotes": 526,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0316226",
-      "title": "The Martyred Presidents",
-      "year": 1901,
-      "imdbRating": 3.8,
-      "imdbVotes": 202,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000357",
-      "title": "The Haunted Curiosity Shop",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000355",
-      "title": "Fire!",
-      "year": 1901,
-      "imdbRating": 6.2,
-      "imdbVotes": 804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231733",
-      "title": "A Holiday Pageant at Home",
-      "year": 1901,
-      "imdbRating": 4.6,
-      "imdbVotes": 280,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471071",
-      "title": "Alfred Butterworth and Sons, Glebe Mills, Hollinwood",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000346",
-      "title": "Another Job for the Undertaker",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 250,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211928",
-      "title": "Artistic Creation",
-      "year": 1901,
-      "imdbRating": 6.4,
-      "imdbVotes": 201,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0360454",
-      "title": "Captain Nissen Going Through Whirlpool Rapids, Niagara Falls",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 187,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982637",
-      "title": "Chamonix: Arrivée en voitures des breaks d'excursion",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 222,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982638",
-      "title": "Chamonix: Le Mauvais Pas",
-      "year": 1901,
-      "imdbRating": 5.3,
-      "imdbVotes": 236,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt1219715",
+    "tt0316226",
+    "tt0000357",
+    "tt0000355",
+    "tt0231733",
+    "tt1090274",
+    "tt0471071",
+    "tt0000346",
+    "tt0211928",
+    "tt0360454",
+    "tt1982637",
+    "tt1982638"
   ],
   "collections": [],
   "is_curated": true,

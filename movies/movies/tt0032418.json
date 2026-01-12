@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-drei-vater-um-anna-beppo-brem-georg-vogelsang",
+      "id": "1939-drei-vater-um-anna-beppo-brem-georg-vogelsang",
       "title": "1939 Drei Väter Um Anna ( Beppo Brem, Georg Vogelsang)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Drei Väter um anna.  U.a mit Beppo Brem und Georg Vogelsang ",
       "fileSize": 696182019,
-      "id": "1939-drei-vater-um-anna-beppo-brem-georg-vogelsang"
+      "addedAt": "2026-01-07T00:06:02.057Z",
+      "thumbnail": "https://archive.org/services/img/1939-drei-vater-um-anna-beppo-brem-georg-vogelsang",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 128
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0242670",
-      "title": "Meine Tante - deine Tante",
-      "year": 1939,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249460",
-      "title": "Dahinten in der Heide",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249245",
-      "title": "Wie der Hase läuft",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028019",
-      "title": "Männer vor der Ehe",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0237484",
-      "title": "Eine Nacht an der Donau",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129725",
-      "title": "...und die Musik spielt dazu",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025246",
-      "title": "Herz ist Trumpf",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024806",
-      "title": "...heute abend bei mir",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028548",
-      "title": "Abenteuer in Warschau",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159435",
-      "title": "Familienanschluß",
-      "year": 1941,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033721",
-      "title": "Hochzeitsnacht",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0242670",
+    "tt0249460",
+    "tt0249245",
+    "tt0028019",
+    "tt0237484",
+    "tt0129725",
+    "tt0025246",
+    "tt0024806",
+    "tt0136247",
+    "tt0028548",
+    "tt0159435",
+    "tt0033721"
   ],
   "collections": [],
   "is_curated": true,

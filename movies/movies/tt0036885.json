@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-der-grune-salon-hans-brausewetter-paul-klinger-dorothea-wieck",
+      "id": "1944-der-grune-salon-hans-brausewetter-paul-klinger-dorothea-wieck",
       "title": "1944 Der Grüne Salon ( Hans Brausewetter, Paul Klinger, Dorothea Wieck)",
       "description": "Film aus dem deutschen dritten Reich von 1944. Der grüne Salon.  U.a mit Paul Klinger und Dorothea Wieck ",
       "fileSize": 730032955,
-      "id": "1944-der-grune-salon-hans-brausewetter-paul-klinger-dorothea-wieck"
+      "addedAt": "2026-01-07T00:06:03.997Z",
+      "thumbnail": "https://archive.org/services/img/1944-der-grune-salon-hans-brausewetter-paul-klinger-dorothea-wieck",
+      "language": "ger",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 149
     }
   ],
   "metadata": {
@@ -27,101 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0220853",
-      "title": "Wenn die Sonne wieder scheint",
-      "year": 1943,
-      "imdbRating": 7.3,
-      "imdbVotes": 28,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159814",
-      "title": "Unser kleiner Junge",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240578",
-      "title": "Himmel, wir erben ein Schloß",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034823",
-      "title": "Hab mich lieb",
-      "year": 1942,
-      "imdbRating": 7.6,
-      "imdbVotes": 55,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036072",
-      "title": "Die keusche Sünderin",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240883",
-      "title": "Ein schöner Tag",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036620",
-      "title": "Aufruhr der Herzen",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168664",
-      "title": "Dir zuliebe",
-      "year": 1944,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036843",
-      "title": "Ein fröhliches Haus",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037063",
-      "title": "Meine vier Jungens",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122730",
-      "title": "Spiel mit der Liebe",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0220853",
+    "tt0159814",
+    "tt0240578",
+    "tt0034823",
+    "tt0036072",
+    "tt0240883",
+    "tt0036620",
+    "tt0136247",
+    "tt0168664",
+    "tt0036843",
+    "tt0037063",
+    "tt0122730"
   ],
   "collections": [],
   "is_curated": true,

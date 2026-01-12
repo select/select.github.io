@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-meine-vier-jungens-kathe-haack-hermann-speelmanns-erich-dunskus-eduard-von-winterstein",
+      "id": "1944-meine-vier-jungens-kathe-haack-hermann-speelmanns-erich-dunskus-eduard-von-winterstein",
       "title": "1944 Meine Vier Jungens ( Käthe Haack, Hermann Speelmanns, Erich Dunskus, Eduard Von Winterstein)",
       "description": "Film aus dem deutschen dritten Reich von 1944. Meine Vier Jungens.  U.a mit Käthe Haack und Herrmann Speelmanns ",
       "fileSize": 1462567619,
-      "id": "1944-meine-vier-jungens-kathe-haack-hermann-speelmanns-erich-dunskus-eduard-von-winterstein"
+      "addedAt": "2026-01-07T00:06:03.997Z",
+      "thumbnail": "https://archive.org/services/img/1944-meine-vier-jungens-kathe-haack-hermann-speelmanns-erich-dunskus-eduard-von-winterstein",
+      "language": "ger",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 179
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036072",
-      "title": "Die keusche Sünderin",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240883",
-      "title": "Ein schöner Tag",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036620",
-      "title": "Aufruhr der Herzen",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036885",
-      "title": "Der grüne Salon",
-      "year": 1944,
-      "imdbRating": 8,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168664",
-      "title": "Dir zuliebe",
-      "year": 1944,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036843",
-      "title": "Ein fröhliches Haus",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122730",
-      "title": "Spiel mit der Liebe",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188556",
-      "title": "Delirio",
-      "year": 1944,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199455",
-      "title": "El deseo",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 26,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197541",
-      "title": "Hay que casar a Paulina",
-      "year": 1944,
-      "imdbRating": 6.8,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt31824373",
-      "title": "HOUSE OF FRANKENSTEIN (1944)",
-      "year": 1944,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt0036072",
+    "tt0240883",
+    "tt0036620",
+    "tt0136247",
+    "tt0036885",
+    "tt0168664",
+    "tt0036843",
+    "tt0122730",
+    "tt0188556",
+    "tt0199455",
+    "tt0197541",
+    "tt31824373"
   ],
   "collections": [],
   "is_curated": true,

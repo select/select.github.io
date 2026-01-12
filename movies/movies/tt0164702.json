@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/KillersoftheSea",
+      "id": "KillersoftheSea",
       "title": "Killers of the Sea",
       "description": "Captain Wallace Caswell, Jr. became famous for killing various dangerous animals of the sea by hand. This documentary shows him killing a Tiger shark, an octopus and giant sea turtles.",
       "fileSize": 1244349252,
-      "id": "KillersoftheSea"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/KillersoftheSea",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 6169
     }
   ],
   "metadata": {
@@ -27,99 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0310340",
-      "title": "We Work Again",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2328573",
-      "title": "Echo der Heimat - Ein Tatsachenbericht aus Deutschland: Folge 5",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0388384",
-      "title": "Rätsel der Urwaldhölle",
-      "year": 1938,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229200",
-      "title": "The Adventures of Chico",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt33400258",
-      "title": "The Story of Norton I, Emperor of the United States",
-      "year": 1936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2328569",
-      "title": "Echo der Heimat - Ein Tatsachenbericht aus Deutschland: Folge 3",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2328571",
-      "title": "Echo der Heimat - Ein Tatsachenbericht aus Deutschland: Folge 4",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2292978",
-      "title": "Ewige Wache",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0273201",
-      "title": "Ewiger Wald",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 51,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247443",
-      "title": "Jugend der Welt. Der Film von den IV. Olympischen Winterspielen in Garmisch-Partenkirchen",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 160,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1177174",
-      "title": "Reichsparteitag der Ehre",
-      "year": 1936,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1846498",
-      "title": "Bremen",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0310340",
+    "tt2328573",
+    "tt0388384",
+    "tt0229200",
+    "tt33400258",
+    "tt2328569",
+    "tt2328571",
+    "tt2292978",
+    "tt0273201",
+    "tt0247443",
+    "tt1177174",
+    "tt1846498"
   ],
   "collections": [],
   "is_curated": true,

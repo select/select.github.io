@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/genius-at-work-1946-",
+      "id": "genius-at-work-1946-",
       "title": "Genius At Work (1946)",
       "description": "Carney and Brown, Bela Lugosi, Anne Jeffreys",
       "fileSize": 884687521,
-      "id": "genius-at-work-1946-"
+      "addedAt": "2026-01-07T00:08:32.017Z",
+      "thumbnail": "https://archive.org/services/img/genius-at-work-1946-",
+      "collection": "feature_films",
+      "downloads": 1429
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039075",
-      "title": "Vacation in Reno",
-      "year": 1946,
-      "imdbRating": 5.3,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037100",
-      "title": "Murder in the Blue Room",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033113",
-      "title": "Sued for Libel",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039339",
-      "title": "Dragnet",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038418",
-      "title": "A Close Call for Boston Blackie",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 409,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038839",
-      "title": "The Phantom Thief",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038550",
-      "title": "Gas House Kids",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039645",
-      "title": "My Favorite Brunette",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 3928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0037859",
-      "title": "Lady on a Train",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 2629,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037847",
-      "title": "The Kid Sister",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039075",
+    "tt0037100",
+    "tt0033113",
+    "tt0039339",
+    "tt0038577",
+    "tt0038418",
+    "tt0038839",
+    "tt0038550",
+    "tt0039645",
+    "tt0037960",
+    "tt0037859",
+    "tt0037847"
   ],
   "collections": [],
   "is_curated": true,

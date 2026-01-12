@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/looney-lens-anamorphic-people_1927",
+      "id": "looney-lens-anamorphic-people_1927",
       "title": "Looney Lens: Anamorphic People",
       "fileSize": 74757632,
-      "id": "looney-lens-anamorphic-people_1927"
+      "addedAt": "2026-01-07T00:09:38.892Z",
+      "thumbnail": "https://archive.org/services/img/looney-lens-anamorphic-people_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 387
     }
   ],
   "metadata": {
@@ -26,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3308046",
-      "title": "Looney Lens: Pas de deux",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 33,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308002",
-      "title": "Looney Lens: Split Skyscrapers",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308008",
-      "title": "Looney Lens: Tenth Avenue, NYC",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017847",
-      "title": "Empty Socks",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 52,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017868",
-      "title": "Felix the Cat Dines and Pines",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340302",
-      "title": "Film 25",
-      "year": 1927,
-      "imdbRating": 4.6,
-      "imdbVotes": 55,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6340324",
-      "title": "Film 29",
-      "year": 1927,
-      "imdbRating": 4.9,
-      "imdbVotes": 49,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017949",
-      "title": "Great Guns",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 317,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018213",
-      "title": "Oh Teacher",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 324,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt3308046",
+    "tt3308002",
+    "tt3308008",
+    "tt5503754",
+    "tt0017618",
+    "tt0146584",
+    "tt0017847",
+    "tt0017868",
+    "tt6340302",
+    "tt6340324",
+    "tt0017949",
+    "tt0018213"
   ],
   "collections": [],
   "is_curated": true,

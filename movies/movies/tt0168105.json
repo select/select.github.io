@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OhDaddy",
+      "id": "OhDaddy",
       "title": "Oh, Daddy!",
       "description": "“Charming, funny period piece” (IMDB review quote) A musical comedy with the familiar theme of hypocritical prudes versus the younger generation. Clever comedy writing often upstages the limited-budget production numbers. The competent primary cast is headed by Leslie Henson and Frances Day. IMDB rating 5.7. Directed by Graham Cutts and Austin Melford. Released in 1935 (UK only). Complete print.",
       "fileSize": 622121048,
-      "id": "OhDaddy"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OhDaddy",
+      "collection": "feature_films",
+      "downloads": 8624
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026179",
-      "title": "Car of Dreams",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251192",
-      "title": "Mach' mich glücklich",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027037",
-      "title": "Squibs",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027090",
-      "title": "Things Are Looking Up",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026113",
-      "title": "The Big Broadcast of 1936",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026419",
-      "title": "Goin' to Town",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 719,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026694",
-      "title": "Me and Marlborough",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016029",
-      "title": "The Little Colonel",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 1949,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0327689",
-      "title": "Ende schlecht, alles gut",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025960",
-      "title": "Was bin ich ohne Dich",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025094",
-      "title": "Evergreen",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025187",
-      "title": "Going Spanish",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026179",
+    "tt0251192",
+    "tt0027037",
+    "tt0027090",
+    "tt0026113",
+    "tt0026419",
+    "tt0026694",
+    "tt0016029",
+    "tt0327689",
+    "tt0025960",
+    "tt0025094",
+    "tt0025187"
   ],
   "collections": [],
   "is_curated": true,

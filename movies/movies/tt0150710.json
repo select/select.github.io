@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/georgie-and-the-dragon-1951",
+      "id": "georgie-and-the-dragon-1951",
       "title": "Georgie and the Dragon (1951)",
       "description": "Georgie, a young Scottish lad, befriends a baby dragon and takes it home as a pet and companion. Watch on RetroFlix:  https://retroflix.org/georgie-and-the-dragon-1951/",
       "fileSize": 49356852,
-      "id": "georgie-and-the-dragon-1951"
+      "addedAt": "2026-01-07T00:08:32.017Z",
+      "thumbnail": "https://archive.org/services/img/georgie-and-the-dragon-1951",
+      "language": "eng",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 99
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0153908",
-      "title": "The Wonder Gloves",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043581",
-      "title": "Gerald McBoing-Boing",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 2094,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151579",
-      "title": "The Miner's Daughter",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044865",
-      "title": "Madeline",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 238,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153850",
-      "title": "Willie the Kid",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045626",
-      "title": "Christopher Crumpet",
-      "year": 1953,
-      "imdbRating": 6.6,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149986",
-      "title": "Bungled Bungalow",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1673582",
-      "title": "Flight Safety: After the Cut",
-      "year": 1946,
-      "imdbRating": 5,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150501",
-      "title": "The Family Circus",
-      "year": 1951,
-      "imdbRating": 5.8,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149779",
-      "title": "Ballet-Oop",
-      "year": 1954,
-      "imdbRating": 6.6,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149960",
-      "title": "Bringing Up Mother",
-      "year": 1954,
-      "imdbRating": 5.6,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148317",
-      "title": "How Now Boing Boing",
-      "year": 1954,
-      "imdbRating": 6.4,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0153908",
+    "tt0043581",
+    "tt0151579",
+    "tt0044865",
+    "tt0153850",
+    "tt0045626",
+    "tt0149986",
+    "tt1673582",
+    "tt0150501",
+    "tt0149779",
+    "tt0149960",
+    "tt0148317"
   ],
   "collections": [],
   "is_curated": true,

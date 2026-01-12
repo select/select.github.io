@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-oranges-and-lemons",
+      "id": "silent-oranges-and-lemons",
       "title": "Oranges and Lemons",
       "fileSize": 220970367,
-      "id": "silent-oranges-and-lemons"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-oranges-and-lemons",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 389
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015329",
-      "title": "Short Kilts",
-      "year": 1924,
-      "imdbRating": 5.2,
-      "imdbVotes": 211,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014419",
-      "title": "Roughest Africa",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014450",
-      "title": "Scorching Sands",
-      "year": 1923,
-      "imdbRating": 5.2,
-      "imdbVotes": 85,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011722",
-      "title": "The Soilers",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013416",
-      "title": "Mud and Sand",
-      "year": 1922,
-      "imdbRating": 5.7,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0373309",
-      "title": "Shine 'em Up!",
-      "year": 1922,
-      "imdbRating": 5.8,
-      "imdbVotes": 64,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013494",
-      "title": "The Pest",
-      "year": 1922,
-      "imdbRating": 6.3,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015763",
-      "title": "Dr. Pyckle and Mr. Pryde",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 385,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015921",
-      "title": "His Wooden Wedding",
-      "year": 1925,
-      "imdbRating": 7.4,
-      "imdbVotes": 186,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015956",
-      "title": "Isn't Life Terrible?",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 265,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016373",
-      "title": "Somewhere in Wrong",
-      "year": 1925,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0015329",
+    "tt0014419",
+    "tt0014450",
+    "tt0011722",
+    "tt0015477",
+    "tt0013416",
+    "tt0373309",
+    "tt0013494",
+    "tt0015763",
+    "tt0015921",
+    "tt0015956",
+    "tt0016373"
   ],
   "collections": [],
   "is_curated": true,

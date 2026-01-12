@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/laughing_at_life",
+      "id": "laughing_at_life",
       "title": "Laughing At Life",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4866634955,
-      "id": "laughing_at_life"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/laughing_at_life",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 38351
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2836316",
-      "title": "The Green Hornet Movie Edition",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026673",
-      "title": "The Man from Guntown",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023938",
-      "title": "Deluge",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 746,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024663",
-      "title": "The Three Musketeers",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 485,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022957",
-      "title": "Gorilla Ship",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025420",
-      "title": "The Lost Jungle",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025440",
-      "title": "The Lucky Texan",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 1429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025004",
-      "title": "The Count of Monte Cristo",
-      "year": 1934,
-      "imdbRating": 7.4,
-      "imdbVotes": 3376,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025969",
-      "title": "West of the Divide",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1095,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030898",
-      "title": "Trouble at Midnight",
-      "year": 1937,
-      "imdbRating": 7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026751",
-      "title": "Mutiny Ahead",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 37,
-      "language": "French, Spanish, English",
-      "sourceType": "archive.org"
-    }
+    "tt2836316",
+    "tt0026673",
+    "tt0023938",
+    "tt0024663",
+    "tt0022957",
+    "tt0025420",
+    "tt0025440",
+    "tt0025004",
+    "tt0025969",
+    "tt0030898",
+    "tt0026223",
+    "tt0026751"
   ],
   "collections": [],
   "is_curated": true,

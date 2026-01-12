@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/waterloo_1929",
+      "id": "waterloo_1929",
       "title": "Waterloo",
       "fileSize": 7093841676,
-      "id": "waterloo_1929"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/waterloo_1929",
+      "language": "German",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 5396
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017623",
-      "title": "Am Rande der Welt",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 76,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227607",
-      "title": "Tannenberg",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092978",
-      "title": "Escape from Sobibor",
-      "year": 1987,
-      "imdbRating": 7.4,
-      "imdbVotes": 10404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057811",
-      "title": "633 Squadron",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4879,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044400",
-      "title": "Battles of Chief Pontiac",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043590",
-      "title": "Go for Broke!",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 1952,
-      "language": "English, Japanese, Italian, Hawaiian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035958",
-      "title": "'Gung Ho!': The Story of Carlson's Makin Island Raiders",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 1691,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046029",
-      "title": "Malta Story",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 1982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0017623",
+    "tt0227607",
+    "tt0092978",
+    "tt0020030",
+    "tt0057811",
+    "tt0044400",
+    "tt0159476",
+    "tt0014672",
+    "tt0043590",
+    "tt0035958",
+    "tt0046029",
+    "tt0005719"
   ],
   "collections": [],
   "is_curated": true,

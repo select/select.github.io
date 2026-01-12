@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-liebe-tod-und-teufel",
+      "id": "1934-liebe-tod-und-teufel",
       "title": "1934 Liebe Tod Und Teufel",
       "description": "Film aus dem deutschen dritten Reich von 1934.. Liebe,Tod und Teufel",
       "fileSize": 1320707589,
-      "id": "1934-liebe-tod-und-teufel"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1934-liebe-tod-und-teufel",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 418
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028220",
-      "title": "Savoy-Hotel 217",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 67,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147467",
-      "title": "Sex Madness",
-      "year": 1934,
-      "imdbRating": 2.9,
-      "imdbVotes": 995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024834",
-      "title": "Are We Civilized?",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024902",
-      "title": "Blue Steel",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1796,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024966",
-      "title": "Chapaev",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 1461,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025373",
-      "title": "The Lawless Frontier",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025011",
-      "title": "Crimson Romance",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 181,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025016",
-      "title": "Cross Streets",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025097",
-      "title": "Der Fall Brenken",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025753",
-      "title": "Der schwarze Walfisch",
-      "year": 1934,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0028220",
+    "tt0147467",
+    "tt0025178",
+    "tt0024834",
+    "tt0024902",
+    "tt0024966",
+    "tt0024985",
+    "tt0025373",
+    "tt0025011",
+    "tt0025016",
+    "tt0025097",
+    "tt0025753"
   ],
   "collections": [],
   "is_curated": true,

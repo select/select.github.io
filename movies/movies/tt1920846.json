@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/another.world-2015-webdl-r",
+      "id": "another.world-2015-webdl-r",
       "title": "Another World (2014)",
       "description": "In a post-apocalyptic future, a biological warfare program gone wrong leaves only four survivors defending themselves from \"the infected\" - mindless killers. As they struggle to survive and make sense of what is happening, they find another survivor, intent on revealing the truth.",
       "fileSize": 1301659505,
-      "id": "another.world-2015-webdl-r"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/another.world-2015-webdl-r",
+      "language": "eng",
+      "year": 2014,
+      "collection": "feature_films",
+      "downloads": 138
     }
   ],
   "metadata": {
@@ -27,125 +33,18 @@
     "Awards": "3 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1622991",
-      "title": "Infected",
-      "year": 2013,
-      "imdbRating": 2.7,
-      "imdbVotes": 1215,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4926042",
-      "title": "Night of the Wild",
-      "year": 2015,
-      "imdbRating": 3.2,
-      "imdbVotes": 824,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4943934",
-      "title": "Martian Land",
-      "year": 2015,
-      "imdbRating": 2.4,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5742568",
-      "title": "Day of Reckoning",
-      "year": 2016,
-      "imdbRating": 3.4,
-      "imdbVotes": 1255,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3774802",
-      "title": "Pandemic",
-      "year": 2016,
-      "imdbRating": 4.4,
-      "imdbVotes": 8611,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2175184",
-      "title": "Total Retribution",
-      "year": 2011,
-      "imdbRating": 2.2,
-      "imdbVotes": 369,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6874406",
-      "title": "Alien Convergence",
-      "year": 2017,
-      "imdbRating": 2.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6710826",
-      "title": "The Jurassic Games",
-      "year": 2018,
-      "imdbRating": 3.9,
-      "imdbVotes": 3209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt8128866",
-      "title": "Triassic World",
-      "year": 2018,
-      "imdbRating": 3.2,
-      "imdbVotes": 476,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1705773",
-      "title": "Mega Shark vs. Crocosaurus",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 5081,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0197521",
-      "title": "Godzilla: King of the Monsters!",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 9321,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt4926042",
+    "tt4943934",
+    "tt5742568",
+    "tt2130142",
+    "tt3774802",
+    "tt2175184",
+    "tt6874406",
+    "tt6710826",
+    "tt8128866",
+    "tt1705773",
+    "tt0197521",
+    "tt0121694"
   ],
   "collections": [],
   "is_curated": true,

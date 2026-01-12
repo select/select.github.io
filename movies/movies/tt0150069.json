@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-cats-tale-1951",
+      "id": "the-cats-tale-1951",
       "title": "The Cat's Tale (1951)",
       "description": "A nervous cat tells the story of the origin of Mighty Mouse. Watch on RetroFlix:  https://retroflix.org/the-cats-tale-1951/",
       "fileSize": 36722221,
-      "id": "the-cats-tale-1951"
+      "addedAt": "2026-01-07T00:11:57.682Z",
+      "thumbnail": "https://archive.org/services/img/the-cats-tale-1951",
+      "language": "eng",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 68
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148378",
-      "title": "King Tut's Tomb",
-      "year": 1950,
-      "imdbRating": 5.7,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152533",
-      "title": "Sour Grapes",
-      "year": 1950,
-      "imdbRating": 5.1,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152161",
-      "title": "The Red-Headed Monkey",
-      "year": 1950,
-      "imdbRating": 5,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148042",
-      "title": "Dancing Shoes",
-      "year": 1949,
-      "imdbRating": 5.7,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148253",
-      "title": "Happy Landing",
-      "year": 1949,
-      "imdbRating": 4.8,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148319",
-      "title": "Hula Hula Land",
-      "year": 1949,
-      "imdbRating": 5.8,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152779",
-      "title": "A Swiss Miss",
-      "year": 1951,
-      "imdbRating": 7.4,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150140",
-      "title": "City Slicker",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151896",
-      "title": "Papa's Day of Rest",
-      "year": 1951,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151897",
-      "title": "Papa's Little Helpers",
-      "year": 1951,
-      "imdbRating": 5.6,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151916",
-      "title": "Pastry Panic",
-      "year": 1951,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152348",
-      "title": "Seasick Sailors",
-      "year": 1951,
-      "imdbRating": 5,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148378",
+    "tt0152533",
+    "tt0152161",
+    "tt0148042",
+    "tt0148253",
+    "tt0148319",
+    "tt0152779",
+    "tt0150140",
+    "tt0151896",
+    "tt0151897",
+    "tt0151916",
+    "tt0152348"
   ],
   "collections": [
     {

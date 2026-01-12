@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sic99887541",
+      "id": "sic99887541",
       "title": "Somewhere in Civvies",
       "description": "Title: Somewhere in Civvies Summary: Directed by: Maclean Rogers Actors: Frank Randle, George Doonan, Suzette Tarri Production Company: Butcher's Film Service Release Date: 15 November 1943 (UK) Aspect Ratio: 1.37 : 1 Add Full Plot",
       "fileSize": 514419241,
-      "id": "sic99887541"
+      "addedAt": "2026-01-07T00:10:50.366Z",
+      "thumbnail": "https://archive.org/services/img/sic99887541",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 1192
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031751",
-      "title": "Old Mother Riley Joins Up",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031426",
-      "title": "His Lordship Goes to Press",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026933",
-      "title": "The Right Age to Marry",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035480",
-      "title": "Two Weeks to Live",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 216,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035758",
-      "title": "Cosmo Jones in the Crime Smasher",
-      "year": 1943,
-      "imdbRating": 4.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035927",
-      "title": "Geliebter Schatz",
-      "year": 1943,
-      "imdbRating": 8.3,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034975",
-      "title": "Liebeskomödie",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035628",
-      "title": "Altes Herz wird wieder jung",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036078",
-      "title": "Der kleine Grenzverkehr",
-      "year": 1943,
-      "imdbRating": 7.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035922",
-      "title": "Die Gattin",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131451",
-      "title": "Die kluge Marianne",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0031751",
+    "tt0031426",
+    "tt0026933",
+    "tt0035480",
+    "tt0035758",
+    "tt0035927",
+    "tt0036066",
+    "tt0034975",
+    "tt0035628",
+    "tt0036078",
+    "tt0035922",
+    "tt0131451"
   ],
   "collections": [],
   "is_curated": true,

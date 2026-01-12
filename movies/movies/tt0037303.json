@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-spider-woman",
+      "id": "the-spider-woman",
       "title": "The Spider Woman",
       "description": "Sherlock Holmes investigates a series of so-called \"pajama suicides\". He knows the female villain behind them is as cunning as Moriarty and as venomous as a spider.",
       "fileSize": 4906297826,
-      "id": "the-spider-woman"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-spider-woman",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 4799
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-spider-woman-1943",
+      "id": "the-spider-woman-1943",
       "title": "The Spider Woman (1943)",
       "description": "Sherlock Holmes investigates a series of so-called \"pajama suicides\". He knows the female villain behind them is as cunning as Moriarty and as venomous as a spider. Watch on RetroFlix:  https://retroflix.org/the-spider-woman-1943/",
       "fileSize": 1196660981,
-      "id": "the-spider-woman-1943"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-spider-woman-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 106
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036349",
-      "title": "Sherlock Holmes in Washington",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 5077,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036348",
-      "title": "Sherlock Holmes Faces Death",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 5498,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037248",
-      "title": "The Scarlet Claw",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 6241,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037168",
-      "title": "The Pearl of Death",
-      "year": 1944,
-      "imdbRating": 7.1,
-      "imdbVotes": 5127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038259",
-      "title": "The Woman in Green",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 7376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038008",
-      "title": "Pursuit to Algiers",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 4395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035318",
-      "title": "Sherlock Holmes and the Voice of Terror",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 5557,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031022",
-      "title": "The Adventures of Sherlock Holmes",
-      "year": 1939,
-      "imdbRating": 7.2,
-      "imdbVotes": 7702,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031448",
-      "title": "The Hound of the Baskervilles",
-      "year": 1939,
-      "imdbRating": 7.4,
-      "imdbVotes": 12505,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036349",
+    "tt0036348",
+    "tt0037248",
+    "tt0037168",
+    "tt0038259",
+    "tt0038008",
+    "tt0038494",
+    "tt0034985",
+    "tt0035318",
+    "tt0035317",
+    "tt0031022",
+    "tt0031448"
   ],
   "collections": [
     {
@@ -156,6 +72,10 @@
     {
       "id": "thriller",
       "name": "Thriller"
+    },
+    {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
     }
   ],
   "is_curated": true,

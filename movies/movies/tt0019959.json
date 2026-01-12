@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hallelujah-1929-4-k-hd-upscale-full-movie-2160p-24fps-vp-9-lq-128kbit-aac",
+      "id": "hallelujah-1929-4-k-hd-upscale-full-movie-2160p-24fps-vp-9-lq-128kbit-aac",
       "title": "Hallelujah (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Hallelujah, starring Daniel L. Haynes and Nina Mae McKinney, is one of the first films created that had a fully African-American cast. It was a critical and commercial success on release. While modern reviews warn that the film includes racial stereotypes and white paternalistic views, many still think of Hallelujah as empathetic towards black Americans and worth viewing. Version sourced from \"ClassicsUpscaled\": https://www.youtube.com/watch?v=ePAxwAAYWC4",
       "fileSize": 6050195234,
-      "id": "hallelujah-1929-4-k-hd-upscale-full-movie-2160p-24fps-vp-9-lq-128kbit-aac"
+      "addedAt": "2026-01-07T00:08:39.343Z",
+      "thumbnail": "https://archive.org/services/img/hallelujah-1929-4-k-hd-upscale-full-movie-2160p-24fps-vp-9-lq-128kbit-aac",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 110
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hallelujah_1929",
+      "id": "hallelujah_1929",
       "title": "Hallelujah",
       "fileSize": 5475455215,
-      "id": "hallelujah_1929"
+      "addedAt": "2026-01-07T00:08:39.343Z",
+      "thumbnail": "https://archive.org/services/img/hallelujah_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 796
     }
   ],
   "metadata": {
@@ -34,118 +46,18 @@
     "Awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018806",
-      "title": "The Crowd",
-      "year": 1928,
-      "imdbRating": 8.1,
-      "imdbVotes": 9436,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022436",
-      "title": "Street Scene",
-      "year": 1931,
-      "imdbRating": 7.6,
-      "imdbVotes": 2176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019946",
-      "title": "The Great Gabbo",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 1027,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020121",
-      "title": "Lucky Boy",
-      "year": 1929,
-      "imdbRating": 7.4,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020143",
-      "title": "Marianne",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 1281,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019726",
-      "title": "Broadway Babies",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020458",
-      "title": "Street Girl",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 487,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020366",
-      "title": "Say It with Songs",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 154,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020402",
-      "title": "Show Boat",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018806",
+    "tt0019258",
+    "tt0022436",
+    "tt0019644",
+    "tt0019933",
+    "tt0019946",
+    "tt0020121",
+    "tt0020143",
+    "tt0019726",
+    "tt0020458",
+    "tt0020366",
+    "tt0020402"
   ],
   "collections": [],
   "is_curated": true,

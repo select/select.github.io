@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1958-the-man-who-died-twice-el-hombre-que-murio-dos-veces-joseph-kane-vose",
+      "id": "1958-the-man-who-died-twice-el-hombre-que-murio-dos-veces-joseph-kane-vose",
       "title": "1958 - The Man Who Died Twice - El hombre que murió dos veces - Joseph Kane - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 535665323,
-      "id": "1958-the-man-who-died-twice-el-hombre-que-murio-dos-veces-joseph-kane-vose"
+      "addedAt": "2026-01-07T00:06:06.564Z",
+      "thumbnail": "https://archive.org/services/img/1958-the-man-who-died-twice-el-hombre-que-murio-dos-veces-joseph-kane-vose",
+      "year": 1958,
+      "collection": "feature_films",
+      "downloads": 1399
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/man-who-died-twice-1958-",
+      "id": "man-who-died-twice-1958-",
       "title": "The Man Who Died Twice (1958)",
       "description": "Rod Cameron, Vera Ralston, Mike Mazurki Republic Pictures",
       "fileSize": 3775565503,
-      "id": "man-who-died-twice-1958-"
+      "addedAt": "2026-01-07T00:09:46.425Z",
+      "thumbnail": "https://archive.org/services/img/man-who-died-twice-1958-",
+      "collection": "feature_films",
+      "downloads": 1276
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051489",
-      "title": "Cop Hater",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 600,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051959",
-      "title": "Murder by Contract",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 4824,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052050",
-      "title": "Party Girl",
-      "year": 1958,
-      "imdbRating": 7,
-      "imdbVotes": 3821,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051866",
-      "title": "The Lineup",
-      "year": 1958,
-      "imdbRating": 7.3,
-      "imdbVotes": 4708,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052293",
-      "title": "Thunder Road",
-      "year": 1958,
-      "imdbRating": 6.6,
-      "imdbVotes": 4758,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051663",
-      "title": "Girls on the Loose",
-      "year": 1958,
-      "imdbRating": 5.7,
-      "imdbVotes": 211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051800",
-      "title": "Johnny Rocco",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052245",
-      "title": "Step Down to Terror",
-      "year": 1958,
-      "imdbRating": 6.1,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051456",
-      "title": "The Case Against Brooklyn",
-      "year": 1958,
-      "imdbRating": 6.5,
-      "imdbVotes": 579,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051605",
-      "title": "The Fearmakers",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 869,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050241",
-      "title": "Chain of Evidence",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051713",
-      "title": "Hell Drivers",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 4255,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0051489",
+    "tt0051959",
+    "tt0052050",
+    "tt0051866",
+    "tt0052293",
+    "tt0051663",
+    "tt0051800",
+    "tt0052245",
+    "tt0051456",
+    "tt0051605",
+    "tt0050241",
+    "tt0051713"
   ],
   "collections": [],
   "is_curated": true,

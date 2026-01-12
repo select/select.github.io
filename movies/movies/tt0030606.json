@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/porky-the-gob-1938",
+      "id": "porky-the-gob-1938",
       "title": "Porky The Gob (1938)",
       "description": "The captain of Porky's ship sends the crew to find a pirate submarine, leaving Porky alone on the vessel.",
       "fileSize": 886011380,
-      "id": "porky-the-gob-1938"
+      "addedAt": "2026-01-07T00:10:21.537Z",
+      "thumbnail": "https://archive.org/services/img/porky-the-gob-1938",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 192
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031083",
-      "title": "Bars and Stripes Forever",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031812",
-      "title": "Porky the Giant Killer",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031213",
-      "title": "A Day at the Zoo",
-      "year": 1939,
-      "imdbRating": 6.9,
-      "imdbVotes": 536,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031376",
-      "title": "Gold Rush Daze",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031811",
-      "title": "Porky and Teabiscuit",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 422,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033324",
-      "title": "All This and Rabbit Stew",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 880,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031202",
-      "title": "Daffy Duck and the Dinosaur",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 1026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031501",
-      "title": "It's an Ill Wind",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 189,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031869",
-      "title": "Robin Hood Makes Good",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 375,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030602",
-      "title": "Porky at the Crocadero",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162489",
-      "title": "The New Homestead",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031025",
-      "title": "Aladdin and His Wonderful Lamp",
-      "year": 1939,
-      "imdbRating": 7.6,
-      "imdbVotes": 779,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031083",
+    "tt0031812",
+    "tt0031213",
+    "tt0031376",
+    "tt0031811",
+    "tt0033324",
+    "tt0031202",
+    "tt0031501",
+    "tt0031869",
+    "tt0030602",
+    "tt0162489",
+    "tt0031025"
   ],
   "collections": [],
   "is_curated": true,

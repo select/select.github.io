@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cult-of-the-cobra",
+      "id": "cult-of-the-cobra",
       "title": "Cult of the Cobra",
       "description": "American G.I.s who trespass on a Hindu ceremony are hunted down by a beautiful woman who has the power to transform herself into a cobra.",
       "fileSize": 6534975275,
-      "id": "cult-of-the-cobra"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/cult-of-the-cobra",
+      "language": "eng",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 3858
     }
   ],
   "metadata": {
@@ -27,118 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049516",
-      "title": "The Mole People",
-      "year": 1956,
-      "imdbRating": 5,
-      "imdbVotes": 4090,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050432",
-      "title": "The Giant Claw",
-      "year": 1957,
-      "imdbRating": 4.6,
-      "imdbVotes": 4591,
-      "language": "English, Japanese, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048215",
-      "title": "It Came from Beneath the Sea",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 6690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045656",
-      "title": "Crazylegs",
-      "year": 1953,
-      "imdbRating": 5.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0016039",
-      "title": "The Lost World",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 6175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001223",
-      "title": "Frankenstein",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 5022,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2784936",
-      "title": "Backtrack",
-      "year": 2015,
-      "imdbRating": 5.9,
-      "imdbVotes": 14476,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14292086",
-      "title": "Nix",
-      "year": 2022,
-      "imdbRating": 3.8,
-      "imdbVotes": 3337,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0013257",
-      "title": "Häxan",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 18391,
-      "language": "Swedish, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062453",
-      "title": "Viy",
-      "year": 1967,
-      "imdbRating": 7.2,
-      "imdbVotes": 10735,
-      "language": "Russian, Ukrainian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0018770",
-      "title": "The Fall of the House of Usher",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 4830,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0049516",
+    "tt0050432",
+    "tt0048215",
+    "tt0045656",
+    "tt0016039",
+    "tt0001223",
+    "tt2784936",
+    "tt14292086",
+    "tt0013257",
+    "tt0062453",
+    "tt0018770",
+    "tt0000301"
   ],
   "collections": [],
   "is_curated": true,

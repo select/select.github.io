@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/oh-what-a-knight-1928",
+      "id": "oh-what-a-knight-1928",
       "title": "Oh What a Knight (1928)",
       "description": "Oswald is riding along on his horse having a merry old time when the two of them fall down a hill, right up to a castle. Oswald whistles for the princess, who blows him a kiss as she appears on a balcony. He reaches her by lassoing the balcony and tying the other end of the rope to his horse's tail, using it as a tightrope. A rival knight suddenly appears and Oswald falls off the balcony, startled. He manages to climb back up and the two fight for the princess. Watch on RetroFlix:  https://retroflix.org/oh-what-a-knight-1928/",
       "fileSize": 36676590,
-      "id": "oh-what-a-knight-1928"
+      "addedAt": "2026-01-07T00:10:02.900Z",
+      "thumbnail": "https://archive.org/services/img/oh-what-a-knight-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 56
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/oh-what-a-knight_1928",
+      "id": "oh-what-a-knight_1928",
       "title": "Oh What a Knight",
       "fileSize": 249218892,
-      "id": "oh-what-a-knight_1928"
+      "addedAt": "2026-01-07T00:10:02.900Z",
+      "thumbnail": "https://archive.org/services/img/oh-what-a-knight_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 361
     }
   ],
   "metadata": {
@@ -34,113 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019397",
-      "title": "Sky Scrappers",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019399",
-      "title": "Sleigh Bells",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 36,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017847",
-      "title": "Empty Socks",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 52,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018212",
-      "title": "The Ocean Hop",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 264,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020041",
-      "title": "The Jazz Fool",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020053",
-      "title": "The Karnival Kid",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140909",
-      "title": "Comicalamities",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018885",
-      "title": "Fiery Fireman",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018997",
-      "title": "High Up",
-      "year": 1928,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0018628",
+    "tt0019397",
+    "tt0019399",
+    "tt0017618",
+    "tt0017847",
+    "tt0018212",
+    "tt0020041",
+    "tt0020053",
+    "tt0018721",
+    "tt0140909",
+    "tt0018885",
+    "tt0018997"
   ],
   "collections": [
     {

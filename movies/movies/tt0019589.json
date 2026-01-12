@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-woman-disputed_1928",
+      "id": "the-woman-disputed_1928",
       "title": "The Woman Disputed",
       "fileSize": 3361437218,
-      "id": "the-woman-disputed_1928"
+      "addedAt": "2026-01-07T00:12:33.207Z",
+      "thumbnail": "https://archive.org/services/img/the-woman-disputed_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 722
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/yorkmba99_hotmail_Twd",
+      "id": "yorkmba99_hotmail_Twd",
       "title": "\"The Woman Disputed\" (1928) starring Norma Talmadge, Gilbert Roland",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"The Woman Disputed\" is a war drama with a love triangle. The film marks the end of the remarkable silent film career of Norma Talmadge. Altogether she played in 160 silent films over 19 years. After \"The Woman Disputed\" she made just two talkies and retired from acting.   Directed by                       Henry King, Sam Taylor Cinematography by         Oliver Marsh Starring                             Norma Talmadge, Gilbert Roland, Arnold Kent, Michael Vavitch, Gustav von Seyffertitz Distributed by                   United Artists Corp. Release date                      September 1928 Country                             United States Running time                    104 m.     Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 42723148,
-      "id": "yorkmba99_hotmail_Twd"
+      "addedAt": "2026-01-07T00:13:17.038Z",
+      "thumbnail": "https://archive.org/services/img/yorkmba99_hotmail_Twd",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 2046
     }
   ],
   "metadata": {
@@ -34,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0309977",
-      "title": "Pan Tadeusz",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 119,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019374",
-      "title": "Shiraz",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 343,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019824",
-      "title": "The Divine Lady",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 957,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018218",
-      "title": "Old San Francisco",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014702",
-      "title": "Beau Brummel",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015016",
-      "title": "The Iron Horse",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 2649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035294",
-      "title": "Schicksal",
-      "year": 1942,
-      "imdbRating": 7.5,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018217",
-      "title": "October (Ten Days that Shook the World)",
-      "year": 1928,
-      "imdbRating": 7.4,
-      "imdbVotes": 8595,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0309977",
+    "tt0019374",
+    "tt0019824",
+    "tt0018218",
+    "tt0014854",
+    "tt0015022",
+    "tt0014702",
+    "tt0015016",
+    "tt0027727",
+    "tt0035294",
+    "tt0018972",
+    "tt0018217"
   ],
   "collections": [],
   "is_curated": true,

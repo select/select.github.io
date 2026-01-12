@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/three-loves_1929",
+      "id": "three-loves_1929",
       "title": "Three Loves",
       "fileSize": 8250154355,
-      "id": "three-loves_1929"
+      "addedAt": "2026-01-07T00:12:44.284Z",
+      "thumbnail": "https://archive.org/services/img/three-loves_1929",
+      "language": "German",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 842
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043910",
-      "title": "Payment on Demand",
-      "year": 1951,
-      "imdbRating": 6.9,
-      "imdbVotes": 1851,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020011",
-      "title": "I Kiss Your Hand Madame",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 188,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027347",
-      "title": "The Beloved Vagabond",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021156",
-      "title": "Morocco",
-      "year": 1930,
-      "imdbRating": 7,
-      "imdbVotes": 7738,
-      "language": "English, French, Spanish, Arabic, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020697",
-      "title": "The Blue Angel",
-      "year": 1930,
-      "imdbRating": 7.6,
-      "imdbVotes": 17200,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021800",
-      "title": "Dishonored",
-      "year": 1931,
-      "imdbRating": 7.2,
-      "imdbVotes": 3287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0043910",
+    "tt0020011",
+    "tt0027347",
+    "tt0021156",
+    "tt0020697",
+    "tt0021800",
+    "tt0020030",
+    "tt0019644",
+    "tt0019765",
+    "tt0019933",
+    "tt0019957",
+    "tt0019979"
   ],
   "collections": [],
   "is_curated": true,

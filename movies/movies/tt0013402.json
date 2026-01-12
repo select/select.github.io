@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MyMovie_201807",
+      "id": "MyMovie_201807",
       "title": "\"Monte Cristo\" (1922) starring John Gilbert",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     \"Monte Cristo\" is a drama, adventure and a swashbuckler.  The film is based on the classic novel by Alexandre Dumas. Directed by               Emmett J. Flynn Produced by             Fox Film Corporation Scenario by                Sandro Salvini Based on                    the novel by Alexandre Dumas Starring                     John Gilbert, Estelle Taylor, Robert McKim, William V. Mong, George Siegmann, Spottiswoode Aitken, Francis McDonald, Albert Prisco, Ralph Cloninger, Renée Adorée Cinematography        Lucien N. Andriot Distributed by           Fox Film Corporation Release date               September 3, 1922 Running time             106 min. Country                      United States Language                    Silent film, English intertitles   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 1364289173,
-      "id": "MyMovie_201807"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MyMovie_201807",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 13571
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-monte-cristo",
+      "id": "silent-monte-cristo",
       "title": "Monte Cristo",
       "fileSize": 1759839072,
-      "id": "silent-monte-cristo"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-monte-cristo",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 530
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014972",
-      "title": "He Who Gets Slapped",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 4606,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013607",
-      "title": "Sky High",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013662",
-      "title": "Tess of the Storm Country",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 517,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013750",
-      "title": "When Knighthood Was in Flower",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 1113,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012952",
-      "title": "Blood and Sand",
-      "year": 1922,
-      "imdbRating": 6.3,
-      "imdbVotes": 1566,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013151",
-      "title": "Fox Farm",
-      "year": 1922,
-      "imdbRating": 7.1,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012938",
-      "title": "Beyond the Rocks",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 2409,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0166230",
-      "title": "Jocelyn",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 15,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013332",
-      "title": "Lorna Doone",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013496",
-      "title": "Phantom",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 1978,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013590",
-      "title": "The Seventh Day",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0014972",
+    "tt0012928",
+    "tt0013607",
+    "tt0013662",
+    "tt0013750",
+    "tt0012952",
+    "tt0013151",
+    "tt0012938",
+    "tt0166230",
+    "tt0013332",
+    "tt0013496",
+    "tt0013590"
   ],
   "collections": [],
   "is_curated": true,

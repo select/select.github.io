@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FireTaming",
+      "id": "FireTaming",
       "title": "Fire taming",
       "description": "Film events describe outer space exploration history in the USSR with 1920 for 1960th years. The pattern begins with the first trial starts of self-made rockets and comes to an end with flight of the first person in space.",
       "fileSize": 3134682524,
-      "id": "FireTaming"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FireTaming",
+      "collection": "feature_films",
+      "downloads": 1659
     }
   ],
   "metadata": {
@@ -26,107 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt28063527",
-      "title": "Frankenstein 1910 - Scored",
-      "year": 2014,
-      "imdbVotes": 7,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4206510",
-      "title": "The Maze Runner: Finding the Gang",
-      "year": 2014,
-      "imdbRating": 7.7,
-      "imdbVotes": 15954,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt34677647",
-      "title": "The Story of Human Rights",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9080768",
-      "title": "Turf War",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5960880",
-      "title": "On Stranger Tides: Two Jacks",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1080805",
-      "title": "Section of Buster Brown Series, Showing a Sketch of Buster by Outcault",
-      "year": 1904,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt28063527",
+    "tt4206510",
+    "tt34677647",
+    "tt9080768",
+    "tt5960880",
+    "tt0308284",
+    "tt3110548",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt1080805"
   ],
   "collections": [],
   "is_curated": true,

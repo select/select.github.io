@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fresh-hare-1942",
+      "id": "fresh-hare-1942",
       "title": "Fresh Hare (1942)",
       "description": "Fresh Hare is a Warner Bros. Merrie Melodies cartoon directed by Friz Freleng, written by Michael Maltese, and produced by Leon Schlesinger. It was released to theatres on August 22, 1942. Watch on RetroFlix.org:  https://retroflix.org/fresh-hare-1942/",
       "fileSize": 28974970,
-      "id": "fresh-hare-1942"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/fresh-hare-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 923
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/freshhare1942_202003",
+      "id": "freshhare1942_202003",
       "title": "Fresh Hare (1942) Bugs Bunny",
       "description": "In the Canadian North Woods, Bugs is wanted dead or alive and Elmer is out to bring him in.",
       "fileSize": 53527821,
-      "id": "freshhare1942_202003"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/freshhare1942_202003",
+      "collection": "feature_films",
+      "downloads": 8659
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035203",
-      "title": "Porky's Pastry Pirates",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035314",
-      "title": "The Sheepish Wolf",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033962",
-      "title": "Notes to You",
-      "year": 1941,
-      "imdbRating": 6.7,
-      "imdbVotes": 284,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036546",
-      "title": "Yankee Doodle Daffy",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 1412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032298",
-      "title": "Calling Dr. Porky",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036874",
-      "title": "Goldilocks and the Jivin' Bears",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032931",
-      "title": "Porky's Hired Hand",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035527",
-      "title": "The Wabbit Who Came to Supper",
-      "year": 1942,
-      "imdbRating": 7.1,
-      "imdbVotes": 1178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035872",
-      "title": "The Fifth-Column Mouse",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 423,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030300",
-      "title": "Jungle Jitters",
-      "year": 1938,
-      "imdbRating": 4.9,
-      "imdbVotes": 481,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028724",
-      "title": "Clean Pastures",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 281,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045258",
-      "title": "Tree for Two",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 325,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035203",
+    "tt0035314",
+    "tt0033962",
+    "tt0036546",
+    "tt0032298",
+    "tt0036874",
+    "tt0032931",
+    "tt0035527",
+    "tt0035872",
+    "tt0030300",
+    "tt0028724",
+    "tt0045258"
   ],
   "collections": [],
   "is_curated": true,

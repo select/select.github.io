@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/topsy-turkey-1948",
+      "id": "topsy-turkey-1948",
       "title": "Topsy Turkey (1948)",
       "description": "Little Bigfeather, an Indian, wants to hunt and eat moose, but a turkey oddly wants to be chased instead. Very bizarre ending in this one. Watch on RetroFlix:  https://retroflix.org/topsy-turkey-1948/",
       "fileSize": 159231762,
-      "id": "topsy-turkey-1948"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/topsy-turkey-1948",
+      "language": "eng",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 113
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148014",
-      "title": "Coo-Coo Bird Dog",
-      "year": 1949,
-      "imdbRating": 6.3,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162424",
-      "title": "Kitty Caddy",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162727",
-      "title": "Up'n Atom",
-      "year": 1947,
-      "imdbRating": 7,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150763",
-      "title": "Goofy News Views",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148235",
-      "title": "Grape Nutty",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148419",
-      "title": "Loco Lobo",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149273",
-      "title": "Tooth or Consequences",
-      "year": 1947,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151932",
-      "title": "A Pee-kool-yar Sit-chee-ay-shun",
-      "year": 1944,
-      "imdbRating": 4.7,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149709",
-      "title": "Amoozin' But Confoozin'",
-      "year": 1944,
-      "imdbRating": 5.1,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148270",
-      "title": "A Helping Paw",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149747",
-      "title": "Aw, Nurse",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032238",
-      "title": "Barnyard Babies",
-      "year": 1940,
-      "imdbRating": 5.3,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148014",
+    "tt0162424",
+    "tt0162727",
+    "tt0150763",
+    "tt0148235",
+    "tt0148419",
+    "tt0149273",
+    "tt0151932",
+    "tt0149709",
+    "tt0148270",
+    "tt0149747",
+    "tt0032238"
   ],
   "collections": [],
   "is_curated": true,

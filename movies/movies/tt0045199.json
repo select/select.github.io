@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/strange-fascination-1952",
+      "id": "strange-fascination-1952",
       "title": "Strange Fascination (1952) Hugo Haas, Cleo Moore, Mona Barrie",
       "description": "Strange Fascination is a 1952 American FILM NOlR directed by Hugo Haas, starring Cleo Moore, himself and Mona Barrie. This was the first of many films pairing Haas and Moore. You can find out more about this movie from Wikipedia .",
       "fileSize": 419632878,
-      "id": "strange-fascination-1952"
+      "addedAt": "2026-01-07T00:11:35.629Z",
+      "thumbnail": "https://archive.org/services/img/strange-fascination-1952",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 398
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1952strangefascinationhugohaas",
+      "id": "1952strangefascinationhugohaas",
       "title": "1952 - Strange Fascination - Hugo Haas",
       "description": "1952 - Strange Fascination - Hugo Haas",
       "fileSize": 427761190,
-      "id": "1952strangefascinationhugohaas"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1952strangefascinationhugohaas",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 2901
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046743",
-      "title": "Bait",
-      "year": 1954,
-      "imdbRating": 5.9,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047317",
-      "title": "The Other Woman",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043919",
-      "title": "Pickup",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050512",
-      "title": "Hit and Run",
-      "year": 1957,
-      "imdbRating": 6.3,
-      "imdbVotes": 576,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048174",
-      "title": "Hold Back Tomorrow",
-      "year": 1955,
-      "imdbRating": 6.5,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043397",
-      "title": "Chained for Life",
-      "year": 1952,
-      "imdbRating": 4.3,
-      "imdbVotes": 512,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044506",
-      "title": "Colorado Sundown",
-      "year": 1952,
-      "imdbRating": 6.2,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044357",
-      "title": "Angel Face",
-      "year": 1952,
-      "imdbRating": 7.2,
-      "imdbVotes": 9721,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044557",
-      "title": "Don't Bother to Knock",
-      "year": 1952,
-      "imdbRating": 6.9,
-      "imdbVotes": 8692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044789",
-      "title": "Kansas City Confidential",
-      "year": 1952,
-      "imdbRating": 7.3,
-      "imdbVotes": 8652,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045124",
-      "title": "Scandal Sheet",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 3681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045161",
-      "title": "The Sniper",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 3994,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0046743",
+    "tt0047317",
+    "tt0043919",
+    "tt0050512",
+    "tt0048174",
+    "tt0043397",
+    "tt0044506",
+    "tt0044357",
+    "tt0044557",
+    "tt0044789",
+    "tt0045124",
+    "tt0045161"
   ],
   "collections": [],
   "is_curated": true,

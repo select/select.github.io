@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/missing_corpse",
+      "id": "missing_corpse",
       "title": "Missing Corpse",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4810998130,
-      "id": "missing_corpse"
+      "addedAt": "2026-01-07T00:09:54.328Z",
+      "thumbnail": "https://archive.org/services/img/missing_corpse",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 94189
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=spwnFTE0it4",
+      "id": "spwnFTE0it4",
       "title": "Missing Corpse (1945) DARK COMEDY",
       "description": "Stars: J. Edward Bromberg, Isabel Randolph, Frank Jenks\n Director: Albert Herman\n\n A feud between rival newspapermen takes a demented deadly turn when one ends up murdered and his corpse gets planted in the trunk of other's car!",
-      "id": "spwnFTE0it4",
+      "addedAt": "2025-12-26T23:53:33.391Z",
+      "thumbnail": "https://i.ytimg.com/vi/spwnFTE0it4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB7ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCawPJzbr1D7AFwy32gvwR_IxS9ww",
+      "duration": 3695,
+      "language": "en",
+      "year": 1945,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037267",
-      "title": "Shake Hands with Murder",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038034",
-      "title": "Rogues Gallery",
-      "year": 1944,
-      "imdbRating": 4.9,
-      "imdbVotes": 182,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037985",
-      "title": "The Phantom of 42nd Street",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0038055",
-      "title": "Scared Stiff",
-      "year": 1945,
-      "imdbRating": 4.9,
-      "imdbVotes": 218,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036695",
-      "title": "A Canterbury Tale",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 6808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037151",
-      "title": "One Body Too Many",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 1582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036774",
-      "title": "Double Exposure",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 268,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0175912",
-      "title": "Mi novia es un fantasma",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039050",
-      "title": "The Truth About Murder",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037267",
+    "tt0038034",
+    "tt0037985",
+    "tt0037960",
+    "tt0038055",
+    "tt0038577",
+    "tt0036695",
+    "tt0207407",
+    "tt0037151",
+    "tt0036774",
+    "tt0175912",
+    "tt0039050"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-wild-oranges",
+      "id": "silent-wild-oranges",
       "title": "Wild Oranges",
       "fileSize": 1849814993,
-      "id": "silent-wild-oranges"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-wild-oranges",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 3117
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "3 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018806",
-      "title": "The Crowd",
-      "year": 1928,
-      "imdbRating": 8.1,
-      "imdbVotes": 9436,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022689",
-      "title": "Bird of Paradise",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1646,
-      "language": "English, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045109",
-      "title": "Ruby Gentry",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 1837,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025610",
-      "title": "Our Daily Bread",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 2233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022436",
-      "title": "Street Scene",
-      "year": 1931,
-      "imdbRating": 7.6,
-      "imdbVotes": 2176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049934",
-      "title": "War and Peace",
-      "year": 1956,
-      "imdbRating": 6.7,
-      "imdbVotes": 11288,
-      "language": "English, Russian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015500",
-      "title": "Wine of Youth",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 411,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016230",
-      "title": "The Pleasure Garden",
-      "year": 1925,
-      "imdbRating": 5.8,
-      "imdbVotes": 2977,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013735",
-      "title": "The Village Blacksmith",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 135,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0016251",
+    "tt0018806",
+    "tt0019258",
+    "tt0022689",
+    "tt0045109",
+    "tt0025610",
+    "tt0022436",
+    "tt0049934",
+    "tt0015500",
+    "tt0016230",
+    "tt0013735",
+    "tt0015018"
   ],
   "collections": [],
   "is_curated": true,

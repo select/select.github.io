@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dr-jekyll-likes-them-hot",
+      "id": "dr-jekyll-likes-them-hot",
       "title": "Dr Jekyll Likes Them Hot",
       "description": "I already posted a version of Dr Jekyll but this one has higher resolution and optional English subtitles. The srt file is available as well.",
       "fileSize": 2077010898,
-      "id": "dr-jekyll-likes-them-hot"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dr-jekyll-likes-them-hot",
+      "language": "ita",
+      "year": 1979,
+      "collection": "feature_films",
+      "downloads": 2803
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0053340",
-      "title": "Uncle Was a Vampire",
-      "year": 1959,
-      "imdbRating": 5,
-      "imdbVotes": 369,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0072730",
-      "title": "A Boy and His Dog",
-      "year": 1975,
-      "imdbRating": 6.4,
-      "imdbVotes": 20560,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058037",
-      "title": "Dr. Sex",
-      "year": 1964,
-      "imdbRating": 3.8,
-      "imdbVotes": 237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13423326",
-      "title": "The Concrete Cowboys",
-      "year": 1979,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0095687",
-      "title": "My Stepmother Is an Alien",
-      "year": 1988,
-      "imdbRating": 5.4,
-      "imdbVotes": 28659,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0472566",
-      "title": "Star Wreck: In the Pirkinning",
-      "year": 2005,
-      "imdbRating": 6.6,
-      "imdbVotes": 5878,
-      "language": "Finnish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079999",
-      "title": "The Theme",
-      "year": 1979,
-      "imdbRating": 7.3,
-      "imdbVotes": 601,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0046729",
-      "title": "The Atomic Kid",
-      "year": 1954,
-      "imdbRating": 5.3,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044406",
-      "title": "Bela Lugosi Meets a Brooklyn Gorilla",
-      "year": 1952,
-      "imdbRating": 3.7,
-      "imdbVotes": 2596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0409860",
-      "title": "Cutie Honey",
-      "year": 2004,
-      "imdbRating": 6.2,
-      "imdbVotes": 2052,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5931338",
-      "title": "Horror Hotel: The Movie",
-      "year": 2016,
-      "imdbRating": 4.2,
-      "imdbVotes": 1357,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059161",
-      "title": "Attack of the Eye Creatures",
-      "year": 1967,
-      "imdbRating": 2.3,
-      "imdbVotes": 1477,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0053340",
+    "tt0072730",
+    "tt0058037",
+    "tt13423326",
+    "tt0095687",
+    "tt0472566",
+    "tt0079999",
+    "tt0046729",
+    "tt0044406",
+    "tt0409860",
+    "tt5931338",
+    "tt0059161"
   ],
   "collections": [],
   "is_curated": true,

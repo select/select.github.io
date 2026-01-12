@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FightingStock",
+      "id": "FightingStock",
       "title": "Fighting Stock",
       "description": "“Classic British comedy” (IMDB reviews quote). This bucolic adventure is another Ben Travers farce rich in wordplay costarring Tom Walls and Ralph Lynn supported by a worthy cast of regulars. IMDB rating 6.0. Directed by Tom Walls. Released in 1935 (UK only). Complete print.",
       "fileSize": 1042215823,
-      "id": "FightingStock"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FightingStock",
+      "collection": "feature_films",
+      "downloads": 8641
     }
   ],
   "metadata": {
@@ -27,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0168801",
-      "title": "For Valour",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 33,
-      "language": "Afrikaans, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023923",
-      "title": "A Cuckoo in the Nest",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027528",
-      "title": "Dishonour Bright",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 47,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168105",
-      "title": "Oh, Daddy!",
-      "year": 1935,
-      "imdbRating": 5.6,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026694",
-      "title": "Me and Marlborough",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204800",
-      "title": "Alibi Bye Bye",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026132",
-      "title": "Boys Will Be Boys",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026179",
-      "title": "Car of Dreams",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133358",
-      "title": "Alles für die Firma",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026079",
-      "title": "April, April!",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 74,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194783",
-      "title": "Csardas: Her Wildest Night",
-      "year": 1935,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0168801",
+    "tt0023923",
+    "tt0027528",
+    "tt0168105",
+    "tt0026694",
+    "tt0204800",
+    "tt0026085",
+    "tt0026132",
+    "tt0026179",
+    "tt0133358",
+    "tt0026079",
+    "tt0194783"
   ],
   "collections": [],
   "is_curated": true,

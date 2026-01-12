@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Manhatta",
+      "id": "Manhatta",
       "title": "Manhatta",
       "description": "Manhatta is a A portrait of New York by painter Charles Sheeler and photographer Paul Strand. The title cards show quotes from Walt Whitman's \"Leaves of Grass\". Listed as Public Domain by Wikipedia. \"The film spans an imaginary day in the life of New York City, beginning with footage of Staten Island ferry commuters and culminating with the sun setting over the Hudson River. It has been described as the first avant-garde film made in America... It may be found elsewhewre on the Archive but I have added a jazz track from the period.",
       "fileSize": 223226919,
-      "id": "Manhatta"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/Manhatta",
+      "collection": "feature_films",
+      "downloads": 4537
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-manhatta",
+      "id": "silent-manhatta",
       "title": "Manhatta",
       "fileSize": 240001399,
-      "id": "silent-manhatta"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-manhatta",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 469
     }
   ],
   "metadata": {
@@ -34,106 +43,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988738",
-      "title": "Sunshine Gatherers",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 22,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13166260",
-      "title": "Fiestas de Centenario 1822 - 1922 Cima de la Libertad",
-      "year": 1922,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471648",
-      "title": "De-Light: Making an Electric Light Bulb",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182302",
-      "title": "Lights and Shadows in a City of a Million",
-      "year": 1920,
-      "imdbRating": 4.6,
-      "imdbVotes": 45,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2201105",
-      "title": "Little Journeys in the National Forests of Colorado",
-      "year": 1920,
-      "imdbVotes": 8,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1495996",
-      "title": "The Reawakening",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647254",
-      "title": "Trails That Lure",
-      "year": 1920,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308046",
-      "title": "Looney Lens: Pas de deux",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 33,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308002",
-      "title": "Looney Lens: Split Skyscrapers",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308008",
-      "title": "Looney Lens: Tenth Avenue, NYC",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0988639",
+    "tt0988738",
+    "tt13166260",
+    "tt0471648",
+    "tt1182302",
+    "tt2201105",
+    "tt1495996",
+    "tt2647254",
+    "tt1515754",
+    "tt3308046",
+    "tt3308002",
+    "tt3308008"
   ],
   "collections": [],
   "is_curated": true,

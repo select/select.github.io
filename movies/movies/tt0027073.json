@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-Tag-der-Freiheit",
+      "id": "1935-Tag-der-Freiheit",
       "title": "1935 - Tag der Freiheit - Unsere Wehrmacht (26m 46s, 352x288)",
       "description": "1935 - Tag der Freiheit - Unsere Wehrmacht (26m 46s, 352x288)",
       "fileSize": 314917066,
-      "id": "1935-Tag-der-Freiheit"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1935-Tag-der-Freiheit",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 15270
     }
   ],
   "metadata": {
@@ -27,102 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025913",
-      "title": "Triumph of the Will",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 18731,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0156078",
-      "title": "Der Sieg des Glaubens",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 1904,
-      "language": "German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1177174",
-      "title": "Reichsparteitag der Ehre",
-      "year": 1936,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247794",
-      "title": "Unser Führer - Des Reiches Wiedergeburt",
-      "year": 1934,
-      "imdbRating": 2.7,
-      "imdbVotes": 21,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2292978",
-      "title": "Ewige Wache",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247443",
-      "title": "Jugend der Welt. Der Film von den IV. Olympischen Winterspielen in Garmisch-Partenkirchen",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 160,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247304",
-      "title": "Dr. Todt - Berufung und Werk",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417963",
-      "title": "Metall des Himmels",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 15,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15529086",
-      "title": "The Menace of Guatemala",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt33400258",
-      "title": "The Story of Norton I, Emperor of the United States",
-      "year": 1936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1846498",
-      "title": "Bremen",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310340",
-      "title": "We Work Again",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025913",
+    "tt0156078",
+    "tt1177174",
+    "tt0247794",
+    "tt2292978",
+    "tt0247443",
+    "tt0247304",
+    "tt0417963",
+    "tt15529086",
+    "tt33400258",
+    "tt1846498",
+    "tt0310340"
   ],
   "collections": [],
   "is_curated": true,

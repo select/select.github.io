@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-der-hampelmann-hilde-krahl-wolf-albach-retty-lotta-lang",
+      "id": "1938-der-hampelmann-hilde-krahl-wolf-albach-retty-lotta-lang",
       "title": "1938 Der Hampelmann ( Hilde Krahl, Wolf Albach Retty, Lotta Lang)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Der Hampelmann  u.a mit Hilde Krahl und Wolf Albach Retty ",
       "fileSize": 1237188005,
-      "id": "1938-der-hampelmann-hilde-krahl-wolf-albach-retty-lotta-lang"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-der-hampelmann-hilde-krahl-wolf-albach-retty-lotta-lang",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 149
     }
   ],
   "metadata": {
@@ -26,100 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0129946",
-      "title": "Frühlingsluft",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030332",
-      "title": "Concert in Tirol",
-      "year": 1938,
-      "imdbRating": 7.6,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029142",
-      "title": "Liebling der Matrosen",
-      "year": 1937,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031375",
-      "title": "Das Glück wohnt nebenan",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032094",
-      "title": "Verdacht auf Ursula",
-      "year": 1939,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033258",
-      "title": "Wie konntest Du, Veronika!",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131414",
-      "title": "Das große Abenteuer",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028990",
-      "title": "Heiratsschwindler",
-      "year": 1938,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0246104",
-      "title": "Der nackte Spatz",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030913",
-      "title": "Der unmögliche Herr Pitt",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160557",
-      "title": "Die Nacht der Entscheidung",
-      "year": 1938,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030086",
-      "title": "Du und ich",
-      "year": 1938,
-      "imdbRating": 6.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0129946",
+    "tt0030332",
+    "tt0029142",
+    "tt0031375",
+    "tt0032094",
+    "tt0033258",
+    "tt0131414",
+    "tt0028990",
+    "tt0246104",
+    "tt0030913",
+    "tt0160557",
+    "tt0030086"
   ],
   "collections": [],
   "is_curated": true,

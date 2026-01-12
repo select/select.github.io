@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Police_Station_1959",
+      "id": "Police_Station_1959",
       "title": "Police Station",
       "description": "This is a 1959 episode of a police drama called \"Police Station\". This show dealt with the day-to-day goings on in the Precinct 11 Station. 39 episodes were made and the show was syndicated. Very few episodes survive. IMDB only lists two of them here . The story in this episode follows conflicting stories about what happened during a teenage gang war and the arrest of an elderly con woman. Contains original ads.",
       "fileSize": 397842056,
-      "id": "Police_Station_1959"
+      "addedAt": "2026-01-07T00:06:45.467Z",
+      "thumbnail": "https://archive.org/services/img/Police_Station_1959",
+      "language": "English",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 26337
     }
   ],
   "metadata": {
@@ -26,101 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0185893",
-      "title": "Attack! Battle of New Britain",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6724888",
-      "title": "Cartoon Festival: Volume 8",
-      "year": 2003,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0376855",
-      "title": "Rey Mysterio: 619",
-      "year": 2003,
-      "imdbRating": 7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13051004",
-      "title": "The Clone Hunter - Sam Grace vs Chi Chi (Female Wrestling)",
-      "year": 2019,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0365349",
-      "title": "Hollywood Hulk Hogan: Hulk Still Rules",
-      "year": 2002,
-      "imdbRating": 7.5,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt6724510",
-      "title": "Classic Sci-Fi TV: 150 Episodes",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt20413744",
-      "title": "Violence of Action",
-      "year": 2023,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt32880563",
-      "title": "Management of Mass Casualties, Part X: Management of Psychological Casualties",
-      "year": 1958,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12923202",
-      "title": "Alfred Hitchcock: Vertigo (1958)",
-      "year": 1958,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt34601696",
-      "title": "The Seventh Seal (Det sjunde inseglet) (1957)",
-      "year": 1957,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt24820646",
-      "title": "West Side Story (1961)",
-      "year": 1961,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt0185893",
+    "tt0312544",
+    "tt6724888",
+    "tt0376855",
+    "tt13051004",
+    "tt0365349",
+    "tt6724510",
+    "tt20413744",
+    "tt32880563",
+    "tt12923202",
+    "tt34601696",
+    "tt24820646"
   ],
   "collections": [],
   "is_curated": true,

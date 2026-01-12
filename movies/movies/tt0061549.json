@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/YongaryMonsterFromTheDeep",
+      "id": "YongaryMonsterFromTheDeep",
       "title": "Yongary Monster From the Deep",
       "description": "Hosted by The Cinemated Man Directed by Ki-duk Kim Written by Ki-duk Kim, Yun-sung Special Effects by Kenichi Nakagawa",
       "fileSize": 1195801224,
-      "id": "YongaryMonsterFromTheDeep"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/YongaryMonsterFromTheDeep",
+      "year": 1967,
+      "collection": "feature_films",
+      "downloads": 18278
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Yongary-MonsterFromTheDeep",
+      "id": "Yongary-MonsterFromTheDeep",
       "title": "YONGARY - Monster from the Deep",
       "description": "In the Middle East, a bomb is set off that creates massive earthquakes. Meanwhile in South Korea, a young couple is about to get married and the tension builds when South Korea sends a space shuttle to investigate the bomb site. The earthquake makes its way to South Korea, caused by a giant monster named Yongary (inspired by a mythical creature in Korean lore). Yongary attacks Seoul and makes his way to the oil refineries where he consumes the oil. A child related to the aforementioned couple turns off the refineries' oil basins; Yonggary, enraged, starts attacking until an explosion at the refinery proves to have a chemical effect on it. The Korean Government then uses oil to draw Yonggary to a local river, and kills it with a refined version of the compound.",
       "fileSize": 1287560346,
-      "id": "Yongary-MonsterFromTheDeep"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/Yongary-MonsterFromTheDeep",
+      "collection": "feature_films",
+      "downloads": 79297
     }
   ],
   "metadata": {
@@ -35,117 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0060584",
-      "title": "Kidnapping, Caucasian Style",
-      "year": 1967,
-      "imdbRating": 8.3,
-      "imdbVotes": 13967,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0392276",
-      "title": "Kilink: Strip and Kill",
-      "year": 1967,
-      "imdbRating": 5.7,
-      "imdbVotes": 129,
-      "language": "Turkish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055117",
-      "title": "Mole Men Against the Son of Hercules",
-      "year": 1961,
-      "imdbRating": 4.8,
-      "imdbVotes": 382,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062150",
-      "title": "Prehistoric Women",
-      "year": 1967,
-      "imdbRating": 4.5,
-      "imdbVotes": 1371,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056211",
-      "title": "The Magic Sword",
-      "year": 1962,
-      "imdbRating": 4.8,
-      "imdbVotes": 2767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029162",
-      "title": "Lost Horizon",
-      "year": 1937,
-      "imdbRating": 7.6,
-      "imdbVotes": 14766,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4404296",
-      "title": "The Gatehouse",
-      "year": 2016,
-      "imdbRating": 4.8,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3159412",
-      "title": "Prairie Dog",
-      "year": 2015,
-      "imdbRating": 4,
-      "imdbVotes": 566,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0002130",
-      "title": "Dante's Inferno",
-      "year": 1911,
-      "imdbRating": 7,
-      "imdbVotes": 3638,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015174",
-      "title": "Die Nibelungen: Kriemhild's Revenge",
-      "year": 1924,
-      "imdbRating": 7.9,
-      "imdbVotes": 5147,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015175",
-      "title": "Die Nibelungen: Siegfried",
-      "year": 1924,
-      "imdbRating": 8.1,
-      "imdbVotes": 6716,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060261",
-      "title": "The Hellbenders",
-      "year": 1967,
-      "imdbRating": 6.7,
-      "imdbVotes": 2165,
-      "language": "Italian, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0060584",
+    "tt0392276",
+    "tt0055117",
+    "tt0062150",
+    "tt0056211",
+    "tt0029162",
+    "tt4404296",
+    "tt3159412",
+    "tt0002130",
+    "tt0015174",
+    "tt0015175",
+    "tt0060261"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Swamp_Woman_1941",
+      "id": "Swamp_Woman_1941",
       "title": "Swamp Woman",
       "description": "Another swamp movie.",
       "fileSize": 1163899342,
-      "id": "Swamp_Woman_1941"
+      "addedAt": "2026-01-07T00:06:58.270Z",
+      "thumbnail": "https://archive.org/services/img/Swamp_Woman_1941",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 5619
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=2MiLSBeieS4",
+      "id": "2MiLSBeieS4",
       "title": "Swamp Woman (1941) ADVENTURE-DRAMA",
       "description": "Stars: Ann Corio, Jack La Rue, Mary Hull \n Director: Elmer Clifton\n\nInto the vast swamplands and only a few steps ahead of the bloodhounds, an escaped convict is aided by a honky-tonk dancer.",
-      "id": "2MiLSBeieS4",
+      "addedAt": "2025-12-26T23:53:52.281Z",
+      "thumbnail": "https://i.ytimg.com/vi/2MiLSBeieS4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCVKUIkoAvYdYoKSE-hVNW-MvrX7A",
+      "duration": 3595,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033688",
-      "title": "Hard Guy",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033747",
-      "title": "I'll Sell My Life",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033469",
-      "title": "City of Missing Girls",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032642",
-      "title": "Isle of Destiny",
-      "year": 1940,
-      "imdbRating": 4.7,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031190",
-      "title": "Crashing Thru",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028589",
-      "title": "Assassin of Youth",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037304",
-      "title": "Spook Town",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037460",
-      "title": "The Whispering Skull",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0029578",
-      "title": "Slaves in Bondage",
-      "year": 1937,
-      "imdbRating": 4.4,
-      "imdbVotes": 232,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033998",
-      "title": "Paper Bullets",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027654",
-      "title": "Gambling with Souls",
-      "year": 1936,
-      "imdbRating": 4.7,
-      "imdbVotes": 202,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041532",
-      "title": "The Judge",
-      "year": 1949,
-      "imdbRating": 5.9,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033688",
+    "tt0033747",
+    "tt0033469",
+    "tt0032642",
+    "tt0031190",
+    "tt0028589",
+    "tt0037304",
+    "tt0037460",
+    "tt0029578",
+    "tt0033998",
+    "tt0027654",
+    "tt0041532"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/herods-lost-tomb",
+      "id": "herods-lost-tomb",
       "title": "Herod's Lost Tomb",
       "description": "National Geographic follows archaeologist Ehud Natzer in his discovery of the tomb of Herod the Great.",
       "fileSize": 648744049,
-      "id": "herods-lost-tomb"
+      "addedAt": "2026-01-07T00:08:39.345Z",
+      "thumbnail": "https://archive.org/services/img/herods-lost-tomb",
+      "language": "eng",
+      "year": 2008,
+      "collection": "feature_films",
+      "downloads": 36
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt5378288",
-      "title": "Grundeinkommen - Kulturimpuls",
-      "year": 2008,
-      "imdbRating": 8.3,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1185616",
-      "title": "Waltz with Bashir",
-      "year": 2008,
-      "imdbRating": 8,
-      "imdbVotes": 61713,
-      "language": "Hebrew, Arabic, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1332128",
-      "title": "Zeitgeist: Addendum",
-      "year": 2008,
-      "imdbRating": 8.2,
-      "imdbVotes": 17980,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2630684",
-      "title": "Neanderthal Code",
-      "year": 2008,
-      "imdbRating": 7.8,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5584636",
-      "title": "Günter Wallraff undercover - Wo Arbeit weh tut - Dokumentation",
-      "year": 2008,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1127851",
-      "title": "Marc Bolan: The Final Word",
-      "year": 2007,
-      "imdbRating": 7.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2213002",
-      "title": "Unter falscher Flagge",
-      "year": 2007,
-      "imdbRating": 7.2,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1475191",
-      "title": "American Radical: The Trials of Norman Finkelstein",
-      "year": 2009,
-      "imdbRating": 7.8,
-      "imdbVotes": 833,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422758",
-      "title": "Steal This Film II",
-      "year": 2007,
-      "imdbRating": 7.3,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1674181",
-      "title": "Eng",
-      "year": 2009,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1392998",
-      "title": "Veiled Voices",
-      "year": 2009,
-      "imdbRating": 7.1,
-      "imdbVotes": 7,
-      "language": "English, Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1166827",
-      "title": "Zeitgeist",
-      "year": 2007,
-      "imdbRating": 8.1,
-      "imdbVotes": 48342,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt5378288",
+    "tt1185616",
+    "tt1332128",
+    "tt2630684",
+    "tt5584636",
+    "tt1127851",
+    "tt2213002",
+    "tt1475191",
+    "tt1422758",
+    "tt1674181",
+    "tt1392998",
+    "tt1166827"
   ],
   "collections": [],
   "is_curated": true,

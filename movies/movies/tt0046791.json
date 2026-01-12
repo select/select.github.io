@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/blackwidow1954usa",
+      "id": "blackwidow1954usa",
       "title": "Black Widow (1954) Ginger Rogers, George Raft, Van Heflin, Gene Tierney - Film Noir Full Movie",
       "description": "Black Widow is a 1954 mystery film with elements of film noir, written, produced and directed by Nunnally Johnson and starring Ginger Rogers, Van Heflin, Gene Tierney, Peggy Ann Garner and George Raft. Wikipedia: https://en.wikipedia.org/wiki/Black_Widow_(1954_film) Suggested Film Noirs: http://bit.ly/2tLevkl The Internet Archive is an excellent choice for entire full length Netflix & YouTube style uploads of drama, mystery, thriller & crime noir movies from the UK & USA for free. Download complete online British & American classic black & white films from the 1940s & 1950s.",
       "fileSize": 273161157,
-      "id": "blackwidow1954usa"
+      "addedAt": "2026-01-07T00:07:38.718Z",
+      "thumbnail": "https://archive.org/services/img/blackwidow1954usa",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 20537
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlackWidow1954",
+      "id": "BlackWidow1954",
       "title": "Black Widow ( 1954)",
       "description": "Film Noir",
       "fileSize": 2227697355,
-      "id": "BlackWidow1954"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlackWidow1954",
+      "collection": "feature_films",
+      "downloads": 17236
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051077",
-      "title": "The Three Faces of Eve",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 9230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045669",
-      "title": "Dangerous Crossing",
-      "year": 1953,
-      "imdbRating": 6.9,
-      "imdbVotes": 2687,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044557",
-      "title": "Don't Bother to Knock",
-      "year": 1952,
-      "imdbRating": 6.9,
-      "imdbVotes": 8692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037008",
-      "title": "Laura",
-      "year": 1944,
-      "imdbRating": 7.9,
-      "imdbVotes": 52736,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050440",
-      "title": "The Girl in the Kremlin",
-      "year": 1957,
-      "imdbRating": 4.9,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043920",
-      "title": "Pier 23",
-      "year": 1951,
-      "imdbRating": 5.5,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0048724",
-      "title": "Tight Spot",
-      "year": 1955,
-      "imdbRating": 6.6,
-      "imdbVotes": 2819,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042593",
-      "title": "In a Lonely Place",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 36803,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044013",
-      "title": "The Second Woman",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 1477,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047542",
-      "title": "Suddenly",
-      "year": 1954,
-      "imdbRating": 6.8,
-      "imdbVotes": 7583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046969",
-      "title": "The Fast and the Furious",
-      "year": 1954,
-      "imdbRating": 5.3,
-      "imdbVotes": 1707,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047119",
-      "title": "An Inspector Calls",
-      "year": 1954,
-      "imdbRating": 7.5,
-      "imdbVotes": 5549,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0051077",
+    "tt0045669",
+    "tt0044557",
+    "tt0037008",
+    "tt0050440",
+    "tt0043920",
+    "tt0048724",
+    "tt0042593",
+    "tt0044013",
+    "tt0047542",
+    "tt0046969",
+    "tt0047119"
   ],
   "collections": [
     {

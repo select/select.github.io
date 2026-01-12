@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/harvest-time-1940",
+      "id": "harvest-time-1940",
       "title": "Harvest Time (1940)",
       "description": "Harvest Time is a Terrytoons cartoon directed by Connie Rasinski. Watch on RetroFlix:  https://retroflix.org/harvest-time-1940/",
       "fileSize": 37271283,
-      "id": "harvest-time-1940"
+      "addedAt": "2026-01-07T00:08:39.344Z",
+      "thumbnail": "https://archive.org/services/img/harvest-time-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 74
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148503",
-      "title": "Much Ado About Nothing",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153977",
-      "title": "A Yarn About Yarn",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149595",
-      "title": "Africa Squawks",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149800",
-      "title": "Barnyard Egg-citement",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146780",
-      "title": "Frozen Feet",
-      "year": 1939,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151295",
-      "title": "Landing of the Pilgrims",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151596",
-      "title": "Mississippi Swing",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151749",
-      "title": "Nick's Coffee Pot",
-      "year": 1939,
-      "imdbRating": 5,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150564",
-      "title": "The First Robin",
-      "year": 1939,
-      "imdbRating": 5,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151823",
-      "title": "The Old Oaken Bucket",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148562",
-      "title": "The Orphan Duck",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153386",
-      "title": "The Two-Headed Giant",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148503",
+    "tt0153977",
+    "tt0149595",
+    "tt0149800",
+    "tt0146780",
+    "tt0151295",
+    "tt0151596",
+    "tt0151749",
+    "tt0150564",
+    "tt0151823",
+    "tt0148562",
+    "tt0153386"
   ],
   "collections": [
     {

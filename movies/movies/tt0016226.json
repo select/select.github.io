@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-plastic-age",
+      "id": "silent-the-plastic-age",
       "title": "The Plastic Age",
       "fileSize": 1269422219,
-      "id": "silent-the-plastic-age"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-plastic-age",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 3283
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025784",
-      "title": "Shoot the Works",
-      "year": 1934,
-      "imdbRating": 6.4,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033174",
-      "title": "Too Many Husbands",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 1725,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019400",
-      "title": "The Smart Set",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 1059,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0311138",
-      "title": "Flashing Oars",
-      "year": 1927,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017928",
-      "title": "Get Your Man",
-      "year": 1927,
-      "imdbRating": 6.5,
-      "imdbVotes": 228,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016332",
-      "title": "Seven Chances",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 12000,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0453365",
-      "title": "FC Venus",
-      "year": 2005,
-      "imdbRating": 5.5,
-      "imdbVotes": 2339,
-      "language": "Finnish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0015841",
-      "title": "The Freshman",
-      "year": 1925,
-      "imdbRating": 7.5,
-      "imdbVotes": 6373,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0029364",
-      "title": "Over the Goal",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015657",
-      "title": "Butter Fingers",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0025784",
+    "tt0033174",
+    "tt0019400",
+    "tt0311138",
+    "tt0017928",
+    "tt0129972",
+    "tt0016332",
+    "tt0453365",
+    "tt0015841",
+    "tt0016548",
+    "tt0029364",
+    "tt0015657"
   ],
   "collections": [],
   "is_curated": true,

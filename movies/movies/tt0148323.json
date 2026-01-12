@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ice-scream-1957",
+      "id": "ice-scream-1957",
       "title": "Ice Scream (1957)",
       "description": "Caspar masquerades as a snowman and teaches a young boy to ice skate, so he can race with his older brother. Watch on RetroFlix:  https://retroflix.org/ice-scream-1957/",
       "fileSize": 34973262,
-      "id": "ice-scream-1957"
+      "addedAt": "2026-01-07T00:08:46.615Z",
+      "thumbnail": "https://archive.org/services/img/ice-scream-1957",
+      "language": "eng",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 61
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148591",
-      "title": "Peek-a-Boo",
-      "year": 1957,
-      "imdbRating": 5.9,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148406",
-      "title": "Line of Screammage",
-      "year": 1956,
-      "imdbRating": 5.6,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149084",
-      "title": "Spook and Span",
-      "year": 1958,
-      "imdbRating": 5.6,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147934",
-      "title": "Bull Fright",
-      "year": 1955,
-      "imdbRating": 5.1,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148278",
-      "title": "Hide and Shriek",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149087",
-      "title": "Spooking with a Brogue",
-      "year": 1955,
-      "imdbRating": 5.5,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149086",
-      "title": "Spooking About Africa",
-      "year": 1957,
-      "imdbRating": 5.5,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147915",
-      "title": "Boos and Arrows",
-      "year": 1954,
-      "imdbRating": 4.9,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147944",
-      "title": "By the Old Mill Scream",
-      "year": 1953,
-      "imdbRating": 5.4,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148409",
-      "title": "Little Boo-Peep",
-      "year": 1953,
-      "imdbRating": 5.3,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149083",
-      "title": "Spook No Evil",
-      "year": 1953,
-      "imdbRating": 5.5,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147948",
-      "title": "Casper the Friendly Ghost - Cage Fright",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148591",
+    "tt0148406",
+    "tt0149084",
+    "tt0147934",
+    "tt0148278",
+    "tt0149087",
+    "tt0149086",
+    "tt0147915",
+    "tt0147944",
+    "tt0148409",
+    "tt0149083",
+    "tt0147948"
   ],
   "collections": [],
   "is_curated": true,

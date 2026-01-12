@@ -6,16 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-sex",
+      "id": "silent-sex",
       "title": "Sex",
       "fileSize": 1089019390,
-      "id": "silent-sex"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-sex",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 10599
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=2tcW7G6Fp0A",
+      "id": "2tcW7G6Fp0A",
       "title": "Sex (1920) Pre-Code | Silent Drama | Full Length Movie",
       "description": "A broadway actress uses her sex appeal to ruin a marriage only to dump her lover for a richer prospect.\n\nDirector: Fred Niblo\nWriter: C. Gardner Sullivan \nStars Louise Glaum, Irving Cummings, Peggy Pearce\nGenres: Classics, Drama, Silent, Pre-Code\n\n@CultCinemaClassics:\nhttps://www.facebook.com/CultCinemaClassics \nhttps://www.tiktok.com/@cultcinemaclassics\nhttps://www.instagram.com/cultcinemaclassics",
-      "id": "2tcW7G6Fp0A",
+      "addedAt": "2025-12-27T00:45:21.639Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/2tcW7G6Fp0A/maxresdefault.webp?v=61a60385",
+      "duration": 4632,
+      "language": "en",
+      "year": 1920,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015268",
-      "title": "The Red Lily",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 538,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019195",
-      "title": "The Mysterious Lady",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1480,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011439",
-      "title": "The Mark of Zorro",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 2866,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012752",
-      "title": "The Three Musketeers",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011076",
-      "title": "The County Fair",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011130",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 6415,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011267",
-      "title": "Headin' Home",
-      "year": 1920,
-      "imdbRating": 5.1,
-      "imdbVotes": 318,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011513",
-      "title": "Nomads of the North",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 297,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011588",
-      "title": "Pollyanna",
-      "year": 1920,
-      "imdbRating": 6.4,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011387",
-      "title": "The Last of the Mohicans",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1472,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011635",
-      "title": "Robbery Under Arms",
-      "year": 1920,
-      "imdbRating": 5.2,
-      "imdbVotes": 48,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0015268",
+    "tt0021659",
+    "tt0019195",
+    "tt0011439",
+    "tt0012752",
+    "tt0011076",
+    "tt0011130",
+    "tt0011267",
+    "tt0011513",
+    "tt0011588",
+    "tt0011387",
+    "tt0011635"
   ],
   "collections": [],
   "is_curated": true,

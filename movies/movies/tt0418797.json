@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-stolen-lump_1929",
+      "id": "the-stolen-lump_1929",
       "title": "The Stolen Lump",
       "fileSize": 293674084,
-      "id": "the-stolen-lump_1929"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-stolen-lump_1929",
+      "language": "Japanese",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 698
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt8815066",
-      "title": "Kuro Nyago",
-      "year": 1931,
-      "imdbVotes": 12,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0443314",
-      "title": "A Coach for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146423",
-      "title": "Alpine Antics",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147865",
-      "title": "Babes at Sea",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135836",
-      "title": "Chemical Ko-Ko",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146596",
-      "title": "Custard Pies",
-      "year": 1929,
-      "imdbRating": 4,
-      "imdbVotes": 30,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150513",
-      "title": "Farm Relief",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019014",
-      "title": "Homeless Homer",
-      "year": 1929,
-      "imdbRating": 4.1,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146913",
-      "title": "House Cleaning Time",
-      "year": 1929,
-      "imdbRating": 4.5,
-      "imdbVotes": 32,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt8815066",
+    "tt0443314",
+    "tt1020989",
+    "tt0146423",
+    "tt0147865",
+    "tt0135836",
+    "tt0013014",
+    "tt0146596",
+    "tt0475080",
+    "tt0150513",
+    "tt0019014",
+    "tt0146913"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/una-viuda-casi-alegre-1950",
+      "id": "una-viuda-casi-alegre-1950",
       "title": "Una Viuda Casi Alegre (1950)",
       "description": "Una viuda casi alegre  es una película en blanco y negro de  Argentina  dirigida por  Román Viñoly Barreto  sobre el propio guion de  José María Fernández Unsaín  que se estrenó el 23 de noviembre de 1950 y que tuvo como protagonistas a  Elina Colomer ,  Roberto Escalada ,  Carlos Thompson ,  Andrés Mejuto  y  Judith Sulián . (Wikipedia) Sinopsis Una joven viuda concurre a una agencia matrimonial donde le presentan tres pretendientes a sueldo que terminan enamorándose de ella Reparto Elina Colomer  ... Viuda de Giménez Victoria Roberto Escalada  ... Pedro Peña Carlos Thompson  ... Dr. Francisco Martínez Andrés Mejuto  ... Mariano X(Xenofonte) Gómez Judith Sulián  ... Lucrecia Adolfo Linvel  ... Thomás Osvaldo Bruzzi Gloria Ferrandiz  ... Madre de Pedro Hilda Rey Juan Carrera Alberto Berco Daniel Tedeschi Max Citelli",
       "fileSize": 2030037019,
-      "id": "una-viuda-casi-alegre-1950"
+      "addedAt": "2026-01-07T00:12:55.131Z",
+      "thumbnail": "https://archive.org/services/img/una-viuda-casi-alegre-1950",
+      "language": "spa",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 40
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0201541",
-      "title": "Corrientes, calle de ensueños",
-      "year": 1949,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178583",
-      "title": "El hombre virgen",
-      "year": 1956,
-      "imdbRating": 6,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0202000",
-      "title": "Todo el año es Navidad",
-      "year": 1960,
-      "imdbRating": 5.2,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123016",
-      "title": "Con el sudor de tu frente",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123066",
-      "title": "Fangio, el demonio de las pistas",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201504",
-      "title": "La calle junto a la luna",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179799",
-      "title": "Ésta es mi vida",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041562",
-      "title": "Cossacks of the Kuban",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 451,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0042209",
-      "title": "At War with the Army",
-      "year": 1950,
-      "imdbRating": 5.5,
-      "imdbVotes": 2798,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042325",
-      "title": "Champagne for Caesar",
-      "year": 1950,
-      "imdbRating": 7.4,
-      "imdbVotes": 1302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042182",
-      "title": "The Admiral Was a Lady",
-      "year": 1950,
-      "imdbRating": 5.8,
-      "imdbVotes": 415,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0323263",
-      "title": "The Misadventures of Buster Keaton",
-      "year": 1950,
-      "imdbRating": 6.2,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0201541",
+    "tt0178583",
+    "tt0202000",
+    "tt0123016",
+    "tt0123066",
+    "tt0201504",
+    "tt0179799",
+    "tt0041562",
+    "tt0042209",
+    "tt0042325",
+    "tt0042182",
+    "tt0323263"
   ],
   "collections": [],
   "is_curated": true,

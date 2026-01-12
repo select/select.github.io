@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hunted-men-1938",
+      "id": "hunted-men-1938",
       "title": "Hunted Men (1938)",
       "description": "Lloyd Nolan, Mary Carlisle, J. Carrol Naish, Buster Crabbe co-written by Horace McCoy",
       "fileSize": 1201922979,
-      "id": "hunted-men-1938"
+      "addedAt": "2026-01-07T00:08:46.615Z",
+      "thumbnail": "https://archive.org/services/img/hunted-men-1938",
+      "collection": "feature_films",
+      "downloads": 1071
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030266",
-      "title": "Illegal Traffic",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030794",
-      "title": "State Police",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030342",
-      "title": "The Lady in the Morgue",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028719",
-      "title": "Circus Girl",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029112",
-      "title": "Larceny on the Air",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032784",
-      "title": "Mercy Plane",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028943",
-      "title": "The Gold Racket",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029799",
-      "title": "The Wrong Road",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031534",
-      "title": "King of Chinatown",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030266",
+    "tt0028525",
+    "tt0030168",
+    "tt0030794",
+    "tt0030342",
+    "tt0028719",
+    "tt0029112",
+    "tt0033822",
+    "tt0032784",
+    "tt0028943",
+    "tt0029799",
+    "tt0031534"
   ],
   "collections": [],
   "is_curated": true,

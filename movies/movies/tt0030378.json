@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LittleToughGuys",
+      "id": "LittleToughGuys",
       "title": "Little Tough Guy",
       "description": "After his father is unjustly executed, Jimmy Boylan (Billy Halop) teams up with the Dead End Kids. He and the gang soon find themselves up against the manipulative D.A.'s son who is determined to transform them from a gang of territorial newsboys into hardened criminals.",
       "fileSize": 1818784737,
-      "id": "LittleToughGuys"
+      "addedAt": "2026-01-07T00:06:38.750Z",
+      "thumbnail": "https://archive.org/services/img/LittleToughGuys",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 48617
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=ZEWy8by2H5w",
+      "id": "ZEWy8by2H5w",
       "title": "Little Tough Guy (1938) THE DEAD END KIDS",
       "description": "Stars: Billy Halop, Huntz Hall, David Gorcey\nDirector: Harold Young\n\nIn depression era NYC, an angry street kid begins a life a crime after his father is sentenced to death for a crime he didn't commit.",
-      "id": "ZEWy8by2H5w",
+      "addedAt": "2025-12-26T23:44:40.652Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZEWy8by2H5w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfwwNlIEH6jTApj8NjNA93cekIOA",
+      "duration": 4992,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031001",
-      "title": "Young Fugitives",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031887",
-      "title": "Sabotage",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032641",
-      "title": "Island of Doomed Men",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028589",
-      "title": "Assassin of Youth",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259235",
-      "title": "The Case of the Frightened Lady",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030049",
-      "title": "Delinquent Parents",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030169",
-      "title": "Gangs of New York",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030353",
-      "title": "Law of the Underworld",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031678",
-      "title": "Mr. Moto's Last Warning",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 1464,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031001",
+    "tt0031887",
+    "tt0032641",
+    "tt0028589",
+    "tt0259235",
+    "tt0030037",
+    "tt0030049",
+    "tt0030168",
+    "tt0030169",
+    "tt0030323",
+    "tt0030353",
+    "tt0031678"
   ],
   "collections": [],
   "is_curated": true,

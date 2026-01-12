@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fatty-and-mabel-adrift",
+      "id": "silent-fatty-and-mabel-adrift",
       "title": "Fatty and Mabel Adrift",
       "fileSize": 668506831,
-      "id": "silent-fatty-and-mabel-adrift"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fatty-and-mabel-adrift",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 577
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FATTYANDMABELADRIFT1916RoscoeArbuckleMabelNormandAlSt.JohnWaylandTrask",
+      "id": "FATTYANDMABELADRIFT1916RoscoeArbuckleMabelNormandAlSt.JohnWaylandTrask",
       "title": "FATTY AND MABEL ADRIFT ( 1916) Roscoe Arbuckle, Mabel Normand, Al St. John, Wayland Trask",
       "description": "FATTY AND MABEL ADRIFT   Triangle-Keystone 2674 ft., rel. Jan. 8, 1916 (House at Sea) dir. Roscoe  Arbuckle cast: Roscoe Arbuckle, Mabel Normand, Al St. John, Frank Hayes, May Wells, Glen Cavender, Wayland Trask, James Bryant, Joe Bordeaux, Luke (dog) Location: Santa Monica, CA copyright: Jan. 10, 1916 William Thomas Sherman, wts@gunjones.com, http://www.angelfire.com/mn/hp/",
       "fileSize": 200875835,
-      "id": "FATTYANDMABELADRIFT1916RoscoeArbuckleMabelNormandAlSt.JohnWaylandTrask"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/FATTYANDMABELADRIFT1916RoscoeArbuckleMabelNormandAlSt.JohnWaylandTrask",
+      "collection": "feature_films",
+      "downloads": 1985
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005676",
-      "title": "Fatty and Mabel's Simple Life",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004691",
-      "title": "Those Country Kids",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007530",
-      "title": "The Waiters' Ball",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 218,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005309",
-      "title": "Fatty and Mabel at the San Diego Exposition",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005310",
-      "title": "Mabel and Fatty's Married Life",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 312,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005679",
-      "title": "Mabel, Fatty and the Law",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005677",
-      "title": "Mabel and Fatty's Wash Day",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006145",
-      "title": "That Little Band of Gold",
-      "year": 1915,
-      "imdbRating": 5.2,
-      "imdbVotes": 271,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006296",
-      "title": "Wished on Mabel",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0005676",
+    "tt0004691",
+    "tt0006764",
+    "tt0007530",
+    "tt0007761",
+    "tt0005309",
+    "tt0005310",
+    "tt0005679",
+    "tt0008112",
+    "tt0005677",
+    "tt0006145",
+    "tt0006296"
   ],
   "collections": [],
   "is_curated": true,

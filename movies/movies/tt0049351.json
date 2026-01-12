@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/i_killed_wild_bill_hickok",
+      "id": "i_killed_wild_bill_hickok",
       "title": "I Killed Wild Bill Hickok",
       "description": "Told in flashback, this is the story of the man that shot Wild Bill Hickok. You can find more information regarding this film on its IMDb page .",
       "fileSize": 4891117866,
-      "id": "i_killed_wild_bill_hickok"
+      "addedAt": "2026-01-07T00:08:46.615Z",
+      "thumbnail": "https://archive.org/services/img/i_killed_wild_bill_hickok",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 53618
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=Ezhpnm59-l8",
+      "id": "Ezhpnm59-l8",
       "title": "I Killed Wild Bill Hickok (1956) WESTERN",
       "description": "Stars: Johnny Carpenter, Helen Westcott, Tom Brown\n Director: Richard Talmadge\n\n Told in flashback, this is the story of the man that shot Wild Bill Hickok.",
-      "id": "Ezhpnm59-l8",
+      "addedAt": "2025-12-26T23:53:46.081Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ezhpnm59-l8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBkDvki9P_v9aX5kJQ7C0meuX-iXg",
+      "duration": 3824,
+      "language": "en",
+      "year": 1956,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049121",
-      "title": "Daniel Boone, Trail Blazer",
-      "year": 1956,
-      "imdbRating": 4.7,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049655",
-      "title": "Ramsbottom Rides Again",
-      "year": 1956,
-      "imdbRating": 4.9,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049540",
-      "title": "The Naked Hills",
-      "year": 1956,
-      "imdbRating": 5.5,
-      "imdbVotes": 246,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049216",
-      "title": "Flesh and the Spur",
-      "year": 1956,
-      "imdbRating": 4.9,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049472",
-      "title": "Man from Del Rio",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 940,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049515",
-      "title": "Mohawk",
-      "year": 1956,
-      "imdbRating": 5.2,
-      "imdbVotes": 640,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049485",
-      "title": "Massacre",
-      "year": 1956,
-      "imdbRating": 5.7,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0049793",
-      "title": "Star in the Dust",
-      "year": 1956,
-      "imdbRating": 6,
-      "imdbVotes": 676,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049434",
-      "title": "The Last Wagon",
-      "year": 1956,
-      "imdbRating": 7,
-      "imdbVotes": 3869,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049970",
-      "title": "Yaqui Drums",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046347",
-      "title": "Son of the Renegade",
-      "year": 1953,
-      "imdbRating": 3.9,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048535",
-      "title": "Rage at Dawn",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 1480,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049121",
+    "tt0049655",
+    "tt0049540",
+    "tt0049216",
+    "tt0049472",
+    "tt0049515",
+    "tt0049485",
+    "tt0049793",
+    "tt0049434",
+    "tt0049970",
+    "tt0046347",
+    "tt0048535"
   ],
   "collections": [],
   "is_curated": true,

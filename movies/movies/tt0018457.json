@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/surrender_1927",
+      "id": "surrender_1927",
       "title": "Surrender",
       "fileSize": 2872707190,
-      "id": "surrender_1927"
+      "addedAt": "2026-01-07T00:11:35.634Z",
+      "thumbnail": "https://archive.org/services/img/surrender_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 708
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019110",
-      "title": "Looping the Loop",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 49,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016690",
-      "title": "Brown of Harvard",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 1540,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018854",
-      "title": "Drums of Love",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020078",
-      "title": "The Last Performance",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 488,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027366",
-      "title": "Black Gold",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033399",
-      "title": "Blonde Comet",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 112,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018295",
-      "title": "El puño de hierro",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 57,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026489",
-      "title": "Hong Kong Nights",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049335",
-      "title": "Hot Rod Girl",
-      "year": 1956,
-      "imdbRating": 5,
-      "imdbVotes": 400,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029376",
-      "title": "Park Avenue Logger",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019110",
+    "tt0016690",
+    "tt0018854",
+    "tt0020078",
+    "tt0028592",
+    "tt0028634",
+    "tt0027366",
+    "tt0033399",
+    "tt0018295",
+    "tt0026489",
+    "tt0049335",
+    "tt0029376"
   ],
   "collections": [],
   "is_curated": true,

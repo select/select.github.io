@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AlgieTjheMiner",
+      "id": "AlgieTjheMiner",
       "title": "Algie The Miner",
       "description": "Produced in 1912, this film has three directors credited which might explain its quirky jumps in scenes. Algie is played by Billy Quirk in a performance which got the film mentioned in the movie \"The Celluloid Closet\" which discussed gays in early movies that were otherwise straight.",
       "fileSize": 224596434,
-      "id": "AlgieTjheMiner"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AlgieTjheMiner",
+      "collection": "feature_films",
+      "downloads": 7910
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-algie-the-miner",
+      "id": "silent-algie-the-miner",
       "title": "Algie, the Miner",
       "fileSize": 176550082,
-      "id": "silent-algie-the-miner"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-algie-the-miner",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 311
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0310891",
-      "title": "Le chrysanthème rouge",
-      "year": 1912,
-      "imdbRating": 6.5,
-      "imdbVotes": 65,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234694",
-      "title": "A Serenade by Proxy",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003805",
-      "title": "Cruel, Cruel Love",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 1477,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001458",
-      "title": "Wilful Peggy",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464747",
-      "title": "Those Bitter Sweets",
-      "year": 1915,
-      "imdbRating": 4.6,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006414",
-      "title": "Behind the Screen",
-      "year": 1916,
-      "imdbRating": 6.9,
-      "imdbVotes": 3173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007567",
-      "title": "Wife and Auto Trouble",
-      "year": 1916,
-      "imdbRating": 5.3,
-      "imdbVotes": 197,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000770",
-      "title": "The Taming of the Shrew",
-      "year": 1908,
-      "imdbRating": 5.4,
-      "imdbVotes": 172,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001333",
-      "title": "Muggsy's First Sweetheart",
-      "year": 1910,
-      "imdbRating": 5.6,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003876",
-      "title": "The Egyptian Mummy",
-      "year": 1914,
-      "imdbRating": 5.8,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0310891",
+    "tt0234694",
+    "tt0003805",
+    "tt0001458",
+    "tt0210599",
+    "tt0001002",
+    "tt0464747",
+    "tt0006414",
+    "tt0007567",
+    "tt0000770",
+    "tt0001333",
+    "tt0003876"
   ],
   "collections": [],
   "is_curated": true,

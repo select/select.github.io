@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AtlanticAdventure",
+      "id": "AtlanticAdventure",
       "title": "Atlantic Adventure",
       "description": "“Sailing the ocean silly” “Good cast” “Fresh and fast paced” (IMDB reviews quotes). A whimsical detective adventure with Lloyd Nolan, ex-silents comedian Harry Langdon and a large assortment bad guys and gals. Good production values for type. Sixty-eight minutes of entertaining nonsense. IMDB rating 5.6. Directed by Albert Rogell Released in 1935. Complete print. AKA “Sure Fire”",
       "fileSize": 1017342586,
-      "id": "AtlanticAdventure"
+      "addedAt": "2026-01-07T00:06:14.037Z",
+      "thumbnail": "https://archive.org/services/img/AtlanticAdventure",
+      "collection": "feature_films",
+      "downloads": 9311
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029274",
-      "title": "Murder in Greenwich Village",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033397",
-      "title": "The Black Cat",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 2374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025905",
-      "title": "Transatlantic Merry-Go-Round",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026819",
-      "title": "One Frightened Night",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027053",
-      "title": "Streamline Express",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026694",
-      "title": "Me and Marlborough",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026978",
-      "title": "Seven Keys to Baldpate",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026980",
-      "title": "Shadow of Doubt",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 281,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027204",
-      "title": "While the Patient Slept",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 447,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025169",
-      "title": "The Ghost Walks",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 663,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029274",
+    "tt0033397",
+    "tt0025905",
+    "tt0026819",
+    "tt0027053",
+    "tt0026694",
+    "tt0026978",
+    "tt0026980",
+    "tt0027204",
+    "tt0027495",
+    "tt0027807",
+    "tt0025169"
   ],
   "collections": [],
   "is_curated": true,

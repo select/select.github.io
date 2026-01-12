@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1940-rosen-in-tirol-hans-moser-hans-holt-johannes-heesters-theo-lingen-leo-sleza",
+      "id": "1940-rosen-in-tirol-hans-moser-hans-holt-johannes-heesters-theo-lingen-leo-sleza",
       "title": "1940 Rosen In Tirol ( Hans Moser, Hans Holt, Johannes Heesters, Theo Lingen, Leo Slezak, Dorrit Kreyssler, Erika Von Thellmann)",
       "description": "Film aus dem deutschen dritten Reich von 1940. Rosen in Tirol.  U.a mit Hans Moser,Johannes Heesters und Theo Lingen ",
       "fileSize": 3921024822,
-      "id": "1940-rosen-in-tirol-hans-moser-hans-holt-johannes-heesters-theo-lingen-leo-sleza"
+      "addedAt": "2026-01-07T00:06:02.058Z",
+      "thumbnail": "https://archive.org/services/img/1940-rosen-in-tirol-hans-moser-hans-holt-johannes-heesters-theo-lingen-leo-sleza",
+      "language": "ger",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 265
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031763",
-      "title": "Opernball",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 91,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037249",
-      "title": "Schrammeln",
-      "year": 1944,
-      "imdbRating": 7.4,
-      "imdbVotes": 63,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034839",
-      "title": "Die heimliche Gräfin",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 34,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031628",
-      "title": "Maria Ilona",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035294",
-      "title": "Schicksal",
-      "year": 1942,
-      "imdbRating": 7.5,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036138",
-      "title": "Ein Mann mit Grundsätzen?",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031433",
-      "title": "Hollywood Cavalcade",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 451,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033557",
-      "title": "Dreimal Hochzeit",
-      "year": 1941,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032776",
-      "title": "Meine Tochter lebt in Wien",
-      "year": 1940,
-      "imdbRating": 7.2,
-      "imdbVotes": 60,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032585",
-      "title": "Der Herr im Haus",
-      "year": 1940,
-      "imdbRating": 7,
-      "imdbVotes": 96,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026389",
-      "title": "Frühjahrsparade",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0031763",
+    "tt0037249",
+    "tt0034839",
+    "tt0031628",
+    "tt0035294",
+    "tt0036138",
+    "tt0031433",
+    "tt0033557",
+    "tt0032776",
+    "tt0032585",
+    "tt0026389",
+    "tt0036066"
   ],
   "collections": [],
   "is_curated": true,

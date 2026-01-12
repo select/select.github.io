@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-49-17",
+      "id": "silent-49-17",
       "title": "'49-'17",
       "fileSize": 1033156913,
-      "id": "silent-49-17"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-49-17",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 432
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008319",
-      "title": "A Mormon Maid",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008892",
-      "title": "'Blue Blazes' Rawden",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009273",
-      "title": "The Lady of the Dugout",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010316",
-      "title": "Jubilo",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162496",
-      "title": "Nobleza gaucha",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010726",
-      "title": "The Spiders - Episode 1: The Golden Sea",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1563,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0011635",
-      "title": "Robbery Under Arms",
-      "year": 1920,
-      "imdbRating": 5.2,
-      "imdbVotes": 48,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197903",
-      "title": "Something New",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 347,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011393",
-      "title": "Leather Stocking: The Deerslayer and Chingachgook",
-      "year": 1920,
-      "imdbRating": 5.2,
-      "imdbVotes": 118,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004209",
-      "title": "The Last of the Line",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011358",
-      "title": "Just Pals",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 513,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004555",
-      "title": "Salomy Jane",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0008319",
+    "tt0008892",
+    "tt0009273",
+    "tt0010316",
+    "tt0162496",
+    "tt0010726",
+    "tt0011635",
+    "tt0197903",
+    "tt0011393",
+    "tt0004209",
+    "tt0011358",
+    "tt0004555"
   ],
   "collections": [],
   "is_curated": true,

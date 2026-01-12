@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fighting_trooper",
+      "id": "fighting_trooper",
       "title": "Fighting Trooper",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4165316319,
-      "id": "fighting_trooper"
+      "addedAt": "2026-01-07T00:08:24.394Z",
+      "thumbnail": "https://archive.org/services/img/fighting_trooper",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 73101
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=YcZfNs2VU0I",
+      "id": "YcZfNs2VU0I",
       "title": "The Fighting Trooper (1934) KERMIT MAYNARD",
       "description": "Stars: Kermit Maynard, Barbara Worth, LeRoy Mason\n Director: Ray Taylor\n\n A gang of night-riding marauders are terrorizing the Canadian Northwest, robbing miners, trappers and businesses, and also kill a Sergeant of the Royal Canadian Mounted Police. Trooper Burke volunteers to go undercover and see if he can put an end to the lawlessness, supposedly led by a man named Andre LaFarge. Posing as a lumberjack, Burke gets close to the gang, but complications arise when he falls in live with LaFarge's sister, Diana.",
-      "id": "YcZfNs2VU0I",
+      "addedAt": "2025-12-26T23:53:27.828Z",
+      "thumbnail": "https://i.ytimg.com/vi/YcZfNs2VU0I/maxresdefault.jpg",
+      "duration": 3074,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029289",
-      "title": "The Mystery of the Hooded Horsemen",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030849",
-      "title": "Tex Rides with the Boy Scouts",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030655",
-      "title": "Rawhide",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179209",
-      "title": "The Hawk of Powder River",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026916",
-      "title": "The Red Blood of Courage",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026940",
-      "title": "The Roaring West",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028098",
-      "title": "Phantom Patrol",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 98,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028372",
-      "title": "The Three Mesquiteers",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024902",
-      "title": "Blue Steel",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1796,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025373",
-      "title": "The Lawless Frontier",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025303",
-      "title": "In Old Santa Fe",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029289",
+    "tt0030849",
+    "tt0030655",
+    "tt0179209",
+    "tt0027087",
+    "tt0026916",
+    "tt0026940",
+    "tt0028098",
+    "tt0028372",
+    "tt0024902",
+    "tt0025373",
+    "tt0025303"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ThePowersGirl1943",
+      "id": "ThePowersGirl1943",
       "title": "The Powers Girl (1943) Carole Landis Anne Shirley",
       "description": "The 1943 modeling comedy The Powers Girl with Carole Landis, Anne Shirley, George Murphy, Dennis Day, and Benny Goodman You can learn more about Carole Landis @ http://www.carolelandis.net",
       "fileSize": 1154856346,
-      "id": "ThePowersGirl1943"
+      "addedAt": "2026-01-07T00:07:05.035Z",
+      "thumbnail": "https://archive.org/services/img/ThePowersGirl1943",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 6204
     }
   ],
   "metadata": {
@@ -27,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034813",
-      "title": "The Great Mr. Handel",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086879",
-      "title": "Amadeus",
-      "year": 1984,
-      "imdbRating": 8.4,
-      "imdbVotes": 458647,
-      "language": "English, Italian, Latin, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036377",
-      "title": "The Song of Bernadette",
-      "year": 1943,
-      "imdbRating": 7.6,
-      "imdbVotes": 7806,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026455",
-      "title": "Harmony Lane",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048191",
-      "title": "I'll Cry Tomorrow",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 2526,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1509130",
-      "title": "Janie Jones",
-      "year": 2010,
-      "imdbRating": 6.6,
-      "imdbVotes": 2408,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0094747",
-      "title": "Bird",
-      "year": 1988,
-      "imdbRating": 7.1,
-      "imdbVotes": 14114,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0426627",
-      "title": "Stoned",
-      "year": 2005,
-      "imdbRating": 5.7,
-      "imdbVotes": 4205,
-      "language": "English, Swedish",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0036391",
-      "title": "Stormy Weather",
-      "year": 1943,
-      "imdbRating": 7.3,
-      "imdbVotes": 2945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035973",
-      "title": "Haunted Ranch",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036033",
-      "title": "Idaho",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036382",
-      "title": "Spotlight Scandals",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0034813",
+    "tt0036377",
+    "tt0026455",
+    "tt0048191",
+    "tt1509130",
+    "tt0094747",
+    "tt0426627",
+    "tt0036391",
+    "tt0035973",
+    "tt0036033",
+    "tt0036382",
+    "tt0036344"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-life-of-the-jews-of-palestine",
+      "id": "silent-life-of-the-jews-of-palestine",
       "title": "Life of the Jews of Palestine",
       "fileSize": 640942261,
-      "id": "silent-life-of-the-jews-of-palestine"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-life-of-the-jews-of-palestine",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 600
     }
   ],
   "metadata": {
@@ -26,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0885116",
-      "title": "Seven Ages of an Alligator",
-      "year": 1913,
-      "imdbRating": 5.8,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1182263",
-      "title": "The Cost of Carelessness",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 56,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449817",
-      "title": "L'antique Tolède",
-      "year": 1912,
-      "imdbRating": 4.9,
-      "imdbVotes": 79,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977188",
-      "title": "Aleksandar Karadjordjevic vo poseta na Bitola",
-      "year": 1912,
-      "imdbVotes": 78,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1122806",
-      "title": "Copper Mines at Bingham, Utah",
-      "year": 1912,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2194615",
-      "title": "Life on the Circle Ranch in California",
-      "year": 1912,
-      "imdbRating": 5.2,
-      "imdbVotes": 22,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977200",
-      "title": "Otvoranje na gradska kafeana vo Bitola",
-      "year": 1912,
-      "imdbRating": 4.7,
-      "imdbVotes": 91,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647246",
-      "title": "The War Bonnet Round-Up",
-      "year": 1912,
-      "imdbRating": 4.1,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8646230",
-      "title": "Barcelone et son parc",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 40,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454098",
-      "title": "Hunting Marabout in Abyssinia",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 9,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0885116",
+    "tt1182263",
+    "tt0449817",
+    "tt1283535",
+    "tt2977188",
+    "tt1122806",
+    "tt2194615",
+    "tt2977200",
+    "tt2647246",
+    "tt8646230",
+    "tt0454098",
+    "tt9837386"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-forbidden-fruit",
+      "id": "silent-forbidden-fruit",
       "title": "Forbidden Fruit",
       "fileSize": 1615529203,
-      "id": "silent-forbidden-fruit"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-forbidden-fruit",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 1529
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010418",
-      "title": "Male and Female",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1956,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014532",
-      "title": "The Ten Commandments",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 2731,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011909",
-      "title": "The Affairs of Anatol",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013372",
-      "title": "Manslaughter",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 496,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011865",
-      "title": "Why Change Your Wife?",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1487,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011716",
-      "title": "Something to Think About",
-      "year": 1920,
-      "imdbRating": 5.9,
-      "imdbVotes": 661,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010137",
-      "title": "For Better, for Worse",
-      "year": 1919,
-      "imdbRating": 5.9,
-      "imdbVotes": 747,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009796",
-      "title": "The Whispering Chorus",
-      "year": 1918,
-      "imdbRating": 6.7,
-      "imdbVotes": 334,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016294",
-      "title": "The Road to Yesterday",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 166,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005078",
-      "title": "The Cheat",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 2713,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0010418",
+    "tt0014532",
+    "tt0011909",
+    "tt0013372",
+    "tt0011865",
+    "tt0011716",
+    "tt0010137",
+    "tt0009796",
+    "tt0008519",
+    "tt0016294",
+    "tt0012465",
+    "tt0005078"
   ],
   "collections": [],
   "is_curated": true,

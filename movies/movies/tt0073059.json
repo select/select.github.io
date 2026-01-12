@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/GonewiththeWest",
+      "id": "GonewiththeWest",
       "title": "Gone with the West",
       "description": "James Caan stars as Jud McGraw, a cowboy unjustly framed for a crime he didn't commit; he partners up with an ethically wronged Native American woman named Little Moon (Stefanie Powers). In response to the ills they have each suffered, the two set off to wreak vengeance on a small western town.",
       "fileSize": 2072759347,
-      "id": "GonewiththeWest"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/GonewiththeWest",
+      "year": 1975,
+      "collection": "feature_films",
+      "downloads": 301550
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/GonewiththeWest_201511",
+      "id": "GonewiththeWest_201511",
       "title": "Gone with the West",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1710513110,
-      "id": "GonewiththeWest_201511"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/GonewiththeWest_201511",
+      "collection": "feature_films",
+      "downloads": 182559
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/gone-with-the-west-1974",
+      "id": "gone-with-the-west-1974",
       "title": "Gone with the West (1974)",
       "description": "After being framed, a cowboy is sent to jail. After his time is served, he leaves with vengeance in his heart. Soon he meets a young Native American woman and together they go to settle their score with a small town and its corrupt leader. Watch on RetroFlix:  https://retroflix.org/gone-with-the-west-1974/",
       "fileSize": 565814890,
-      "id": "gone-with-the-west-1974"
+      "addedAt": "2026-01-07T00:08:32.018Z",
+      "thumbnail": "https://archive.org/services/img/gone-with-the-west-1974",
+      "language": "eng",
+      "year": 1974,
+      "collection": "feature_films",
+      "downloads": 135
     }
   ],
   "metadata": {
@@ -43,116 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0070091",
-      "title": "The Gatling Gun",
-      "year": 1971,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065520",
-      "title": "Cannon for Cordoba",
-      "year": 1970,
-      "imdbRating": 5.7,
-      "imdbVotes": 797,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216546",
-      "title": "Django and Sartana Are Coming... It's the End",
-      "year": 1970,
-      "imdbRating": 4.4,
-      "imdbVotes": 363,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0072231",
-      "title": "At Home Among Strangers, a Stranger Among His Own",
-      "year": 1974,
-      "imdbRating": 7.4,
-      "imdbVotes": 3763,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0061429",
-      "title": "A Bullet for the General",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 5457,
-      "language": "Italian, Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018654",
-      "title": "Arizona Days",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061709",
-      "title": "Day of Anger",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 6249,
-      "language": "Italian, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001613",
-      "title": "Fighting Blood",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 172,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071548",
-      "title": "Get Christie Love!",
-      "year": 1974,
-      "imdbRating": 5.4,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026846",
-      "title": "Paradise Canyon",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1086,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002521",
-      "title": "A Temporary Truce",
-      "year": 1912,
-      "imdbRating": 5.2,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072245",
-      "title": "TNT Jackson",
-      "year": 1974,
-      "imdbRating": 4.7,
-      "imdbVotes": 1475,
-      "language": "Filipino, English, Tagalog",
-      "sourceType": "archive.org"
-    }
+    "tt0070091",
+    "tt0065520",
+    "tt0216546",
+    "tt0072231",
+    "tt0061429",
+    "tt0018654",
+    "tt0061709",
+    "tt0001613",
+    "tt0071548",
+    "tt0026846",
+    "tt0002521",
+    "tt0072245"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/live_wire",
+      "id": "live_wire",
       "title": "Live Wire, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 2987052204,
-      "id": "live_wire"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/live_wire",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 41374
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=vJNJvBkgf0I",
+      "id": "vJNJvBkgf0I",
       "title": "The Live Wire (1935) RICHARD TALMADGE",
       "description": "PizzaFLIX Presents Classic Movie Monday\nStarring: Richard Talmadge, Alberta Vaughn, George Walsh\nDirector: Harry S. Webb\n\nIn this South Seas Romantic Adventure, a Sailor and a pair of archaeologists head off to an uncharted island to discover the ancient treasure of a lost civilization.\n\nTRIVIA: Richard Talmadge, born Sylvester Ricardo Metzetti, was a member of the Flying Metzettis, a family of acrobats renowned for originating the quadruple back somersault!",
-      "id": "vJNJvBkgf0I",
+      "addedAt": "2025-12-24T01:07:51.362Z",
+      "thumbnail": "https://i.ytimg.com/vi/vJNJvBkgf0I/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4js-ZxjtWjT9iM0xBzlZIyAxasg",
+      "duration": 3518,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026353",
-      "title": "The Fighting Pilot",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 43,
-      "language": "English, Chinese",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024503",
-      "title": "Riot Squad",
-      "year": 1933,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0012701",
-      "title": "A Small Town Idol",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026489",
-      "title": "Hong Kong Nights",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026593",
-      "title": "Ladies Crave Excitement",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015324",
-      "title": "Sherlock Jr.",
-      "year": 1924,
-      "imdbRating": 8.2,
-      "imdbVotes": 64220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020227",
-      "title": "Nothing But the Truth",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027007",
-      "title": "Skull and Crown",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026216",
-      "title": "The Lost City",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 326,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012513",
-      "title": "The Nut",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019676",
-      "title": "Barnum Was Right",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016971",
-      "title": "His First Flame",
-      "year": 1927,
-      "imdbRating": 5.8,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026353",
+    "tt0024503",
+    "tt0012701",
+    "tt0026489",
+    "tt0026593",
+    "tt0015324",
+    "tt0020227",
+    "tt0027007",
+    "tt0026216",
+    "tt0012513",
+    "tt0019676",
+    "tt0016971"
   ],
   "collections": [],
   "is_curated": true,

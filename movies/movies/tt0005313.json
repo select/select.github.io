@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fattys-faithful-fido",
+      "id": "silent-fattys-faithful-fido",
       "title": "Fatty's Faithful Fido",
       "fileSize": 193461670,
-      "id": "silent-fattys-faithful-fido"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fattys-faithful-fido",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 347
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005676",
-      "title": "Fatty and Mabel's Simple Life",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005316",
-      "title": "Fatty's Reckless Fling",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 98,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003943",
-      "title": "Fatty and Minnie He-Haw",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003949",
-      "title": "Fatty's Magic Pants",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 194,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004691",
-      "title": "Those Country Kids",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006668",
-      "title": "Fatty and Mabel Adrift",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004212",
-      "title": "Leading Lizzie Astray",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007530",
-      "title": "The Waiters' Ball",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 218,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008377",
-      "title": "Oh Doctor!",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005309",
-      "title": "Fatty and Mabel at the San Diego Exposition",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0005676",
+    "tt0005316",
+    "tt0003943",
+    "tt0003949",
+    "tt0004691",
+    "tt0006668",
+    "tt0004212",
+    "tt0007530",
+    "tt0007761",
+    "tt0008112",
+    "tt0008377",
+    "tt0005309"
   ],
   "collections": [],
   "is_curated": true,

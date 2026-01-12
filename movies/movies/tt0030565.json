@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pecks_bad_boy_circus",
+      "id": "pecks_bad_boy_circus",
       "title": "Peck's Bad Boy with the Circus",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4151990916,
-      "id": "pecks_bad_boy_circus"
+      "addedAt": "2026-01-07T00:10:12.697Z",
+      "thumbnail": "https://archive.org/services/img/pecks_bad_boy_circus",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 64681
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=WjxG_lClmME",
+      "id": "WjxG_lClmME",
       "title": "Peck's Bad Boy with the Circus (1938) EDGAR KENNEDY",
       "description": "Stars: Tommy Kelly, Ann Gillis, Edgar Kennedy \n Director: Edward F. Cline\n\n Trouble-prone Billy Peck and his gang descend on a traveling circus in town, and their antics cause the circus owner all kinds of problems.",
-      "id": "WjxG_lClmME",
+      "addedAt": "2025-12-26T23:52:18.620Z",
+      "thumbnail": "https://i.ytimg.com/vi/WjxG_lClmME/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCInCC-8iMXfGeflm9FGpZapQbeTw",
+      "duration": 3909,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,112 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029945",
-      "title": "Breaking the Ice",
-      "year": 1938,
-      "imdbRating": 5.1,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030217",
-      "title": "Hawaii Calls",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035220",
-      "title": "Private Snuffy Smith",
-      "year": 1942,
-      "imdbRating": 4.5,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032411",
-      "title": "Dr. Christian Meets the Women",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135745",
-      "title": "Ab Mitternacht",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030126",
-      "title": "Female Fugitive",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030170",
-      "title": "Gangster's Boy",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030063",
-      "title": "The Divorce of Lady X",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 1581,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030637",
-      "title": "Pygmalion",
-      "year": 1938,
-      "imdbRating": 7.7,
-      "imdbVotes": 10214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030692",
-      "title": "Romance of the Limberlost",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029945",
+    "tt0030217",
+    "tt0035220",
+    "tt0032411",
+    "tt0029855",
+    "tt0135745",
+    "tt0030126",
+    "tt0030170",
+    "tt0030323",
+    "tt0030063",
+    "tt0030637",
+    "tt0030692"
   ],
   "collections": [],
   "is_curated": true,

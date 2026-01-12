@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-invisible-mans-revenge",
+      "id": "the-invisible-mans-revenge",
       "title": "The Invisible Man's Revenge",
       "description": "An eccentric scientist helps a fugitive from the law become invisible, unwittingly giving him the power to exact revenge on his former friends.",
       "fileSize": 6344068705,
-      "id": "the-invisible-mans-revenge"
+      "addedAt": "2026-01-07T00:12:10.589Z",
+      "thumbnail": "https://archive.org/services/img/the-invisible-mans-revenge",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 10519
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035318",
-      "title": "Sherlock Holmes and the Voice of Terror",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 5557,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037024",
-      "title": "The Lodger",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 4227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037248",
-      "title": "The Scarlet Claw",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 6241,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036348",
-      "title": "Sherlock Holmes Faces Death",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 5498,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039800",
-      "title": "Scared to Death",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 1834,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037722",
-      "title": "The Frozen Ghost",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 1213,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035124",
-      "title": "Night Monster",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051744",
-      "title": "House on Haunted Hill",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 32673,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036653",
-      "title": "Bluebeard",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 2188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036855",
-      "title": "Gaslight",
-      "year": 1944,
-      "imdbRating": 7.8,
-      "imdbVotes": 36259,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015202",
-      "title": "The Hands of Orlac",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 3484,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0035318",
+    "tt0037024",
+    "tt0037248",
+    "tt0036348",
+    "tt0039800",
+    "tt0037722",
+    "tt0035124",
+    "tt0051744",
+    "tt0036653",
+    "tt0037078",
+    "tt0036855",
+    "tt0015202"
   ],
   "collections": [],
   "is_curated": true,

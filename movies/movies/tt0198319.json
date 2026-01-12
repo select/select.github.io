@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/las-aventuras-del-capitan-piluso-1963",
+      "id": "las-aventuras-del-capitan-piluso-1963",
       "title": "Las Aventuras Del Capitan Piluso (1963)",
       "description": "Las aventuras del Capitán Piluso (En el castillo del terror)  es una película en blanco y negro de  Argentina  dirigida por  Francis Lauric  sobre el guion de  Humberto Ortiz  con adaptación de Frins y Frans que se estrenó el 19 de diciembre de 1963 y que tuvo como protagonistas a  Alberto Olmedo , Humberto Ortiz,  Juan Carlos Barbieri  y  María Esther Podestá . (Wikipedia) Sinopsis Piluso y Coquito enfrentan al malvado dueño de un castillo, que se apodera de tierras ajenas. Reparto Alberto Olmedo  …Capitán Piluso Humberto Ortiz  …Coquito Juan Carlos Barbieri María Esther Podestá Lalo Hartich Martín Karadagián El Indio Comanche Semillita Aldo Mayo Rodolfo Crespi Sandra Ferrán Diego Marcote Félix Tortorelli Vicente Paparelli Ricardo Carenzo José Del Vecchio Los Cumbreños Martín Gallo Huracán Moreno Gran Machuca Gigante Sueco",
       "fileSize": 3604575500,
-      "id": "las-aventuras-del-capitan-piluso-1963"
+      "addedAt": "2026-01-07T00:09:38.887Z",
+      "thumbnail": "https://archive.org/services/img/las-aventuras-del-capitan-piluso-1963",
+      "language": "spa",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 85
     }
   ],
   "metadata": {
@@ -27,118 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0058022",
-      "title": "Welcome, or No Trespassing",
-      "year": 1964,
-      "imdbRating": 7.9,
-      "imdbVotes": 3607,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0058548",
-      "title": "Santa Claus Conquers the Martians",
-      "year": 1964,
-      "imdbRating": 2.7,
-      "imdbVotes": 12783,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054195",
-      "title": "Pollyanna",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 11681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053134",
-      "title": "Good Morning",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 11823,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053241",
-      "title": "Santa Claus",
-      "year": 1959,
-      "imdbRating": 2.7,
-      "imdbVotes": 5205,
-      "language": "Spanish, Cantonese, English, Japanese, Russian, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031322",
-      "title": "The Flying Deuces",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 6052,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031580",
-      "title": "The Little Princess",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 6909,
-      "language": "English, Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5863634",
-      "title": "A Perfect Christmas",
-      "year": 2016,
-      "imdbRating": 6.1,
-      "imdbVotes": 1457,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0036696",
-      "title": "The Canterville Ghost",
-      "year": 1944,
-      "imdbRating": 6.9,
-      "imdbVotes": 3442,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0057197",
-      "title": "Jason and the Argonauts",
-      "year": 1963,
-      "imdbRating": 7.3,
-      "imdbVotes": 33404,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0067818",
-      "title": "Tacos al carbón",
-      "year": 1972,
-      "imdbRating": 6.3,
-      "imdbVotes": 83,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043255",
-      "title": "Bud Abbott and Lou Costello Meet the Invisible Man",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 6470,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0058022",
+    "tt0058548",
+    "tt0054195",
+    "tt0053134",
+    "tt0053241",
+    "tt0031322",
+    "tt0031580",
+    "tt5863634",
+    "tt0036696",
+    "tt0057197",
+    "tt0067818",
+    "tt0043255"
   ],
   "collections": [],
   "is_curated": true,

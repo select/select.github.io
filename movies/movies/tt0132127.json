@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-das-eskimobaby",
+      "id": "silent-das-eskimobaby",
       "title": "Das Eskimobaby",
       "fileSize": 1705966097,
-      "id": "silent-das-eskimobaby"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-das-eskimobaby",
+      "language": "German",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 616
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008844",
-      "title": "Are Crooks Dishonest?",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 372,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0268254",
-      "title": "Dunces and Dangers",
-      "year": 1918,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008907",
-      "title": "The Bond",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 1213,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008822",
-      "title": "All Night",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 105,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009305",
-      "title": "Little Miss Hoover",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009369",
-      "title": "Mickey",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 1165,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009326",
-      "title": "M'Liss",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007151",
-      "title": "Out of the Inkwell",
-      "year": 1918,
-      "imdbRating": 7.8,
-      "imdbVotes": 66,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007476",
-      "title": "Triple Trouble",
-      "year": 1918,
-      "imdbRating": 5.1,
-      "imdbVotes": 1241,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009018",
-      "title": "A Dog's Life",
-      "year": 1918,
-      "imdbRating": 7.6,
-      "imdbVotes": 10161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0008844",
+    "tt0268254",
+    "tt0008907",
+    "tt0009123",
+    "tt0008822",
+    "tt0009305",
+    "tt0009369",
+    "tt0009326",
+    "tt0007151",
+    "tt0009466",
+    "tt0007476",
+    "tt0009018"
   ],
   "collections": [],
   "is_curated": true,

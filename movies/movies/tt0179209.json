@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hawk_of_powder_river",
+      "id": "hawk_of_powder_river",
       "title": "Hawk of Powder River",
       "description": "Cowboy hero Eddie Dean versus The mysterious Hawk, and her outlaw gang.",
       "fileSize": 1043065211,
-      "id": "hawk_of_powder_river"
+      "addedAt": "2026-01-07T00:08:39.344Z",
+      "thumbnail": "https://archive.org/services/img/hawk_of_powder_river",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 42094
     }
   ],
   "metadata": {
@@ -27,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029289",
-      "title": "The Mystery of the Hooded Horsemen",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030849",
-      "title": "Tex Rides with the Boy Scouts",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0039993",
-      "title": "Wild Country",
-      "year": 1947,
-      "imdbRating": 5.9,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040333",
-      "title": "Eyes of Texas",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041347",
-      "title": "The Far Frontier",
-      "year": 1948,
-      "imdbRating": 6.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040644",
-      "title": "Nighttime in Nevada",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040543",
-      "title": "Loaded Pistols",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040399",
-      "title": "Grand Canyon Trail",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0040385",
-      "title": "The Gay Ranchero",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0039157",
-      "title": "Apache Rose",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039861",
-      "title": "Springtime in the Sierras",
-      "year": 1947,
-      "imdbRating": 6,
-      "imdbVotes": 238,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041177",
-      "title": "The Big Sombrero",
-      "year": 1949,
-      "imdbRating": 5.4,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029289",
+    "tt0030849",
+    "tt0039993",
+    "tt0040333",
+    "tt0041347",
+    "tt0040644",
+    "tt0040543",
+    "tt0040399",
+    "tt0040385",
+    "tt0039157",
+    "tt0039861",
+    "tt0041177"
   ],
   "collections": [],
   "is_curated": true,

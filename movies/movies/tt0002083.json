@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-fall-of-troy",
+      "id": "silent-the-fall-of-troy",
       "title": "The Fall of Troy",
       "fileSize": 507898279,
-      "id": "silent-the-fall-of-troy"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-fall-of-troy",
+      "language": "Italian",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 1006
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001913",
-      "title": "Swords and Hearts",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0372119",
-      "title": "Across the Mexican Line",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 31,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001680",
-      "title": "His Trust: The Faithful Devotion and Self-Sacrifice of an Old Negro Servant",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 661,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001227",
-      "title": "The Fugitive",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 254,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229309",
-      "title": "The Confederate Ironclad",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 232,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002230",
-      "title": "The Heart of an Indian",
-      "year": 1912,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001256",
-      "title": "The House with Closed Shutters",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 590,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002755",
-      "title": "Cohen Saves the Flag",
-      "year": 1913,
-      "imdbRating": 4.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000895",
-      "title": "The Hessian Renegades",
-      "year": 1909,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002816",
-      "title": "The Drummer of the 8th",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 128,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001913",
+    "tt0372119",
+    "tt0001680",
+    "tt0001265",
+    "tt0001227",
+    "tt0229309",
+    "tt0002230",
+    "tt0001256",
+    "tt0002755",
+    "tt0000895",
+    "tt0002816",
+    "tt0001987"
   ],
   "collections": [],
   "is_curated": true,

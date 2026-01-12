@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Sinister_Hands_movie",
+      "id": "Sinister_Hands_movie",
       "title": "Sinister Hands",
       "description": "Murder at a seance.",
       "fileSize": 1151651409,
-      "id": "Sinister_Hands_movie"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/Sinister_Hands_movie",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 12352
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=lrUeqBUxRls",
+      "id": "lrUeqBUxRls",
       "title": "Sinister Hands (1932) PRE-CODE HOLLYWOOD",
       "description": "Stars: Jack Mulhall, Phyllis Barrington, Crauford Kent \n Director: Armand Schaefer\n\n During a seance at an elderly millionaire's house, the millionaire is murdered. The detectives investigating the crime discover that everyone who was at the seance had a motive for killing the man.",
-      "id": "lrUeqBUxRls",
+      "addedAt": "2025-12-26T23:53:24.368Z",
+      "thumbnail": "https://i.ytimg.com/vi/lrUeqBUxRls/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB7ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBxHi2l2pfVg_SfVM11kHDJ77Ny-g",
+      "duration": 3908,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023145",
-      "title": "The Phantom Fiend",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 382,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029596",
-      "title": "Special Agent K-7",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028136",
-      "title": "The Preview Murder Mystery",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0214714",
-      "title": "Get That Girl",
-      "year": 1932,
-      "imdbRating": 4.7,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022990",
-      "title": "Hell's Highway",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 849,
-      "language": "American Sign , English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023117",
-      "title": "The Last Mile",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 406,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179249",
-      "title": "Jewels of Brandenburg",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032763",
-      "title": "Marked Men",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7937440",
-      "title": "Bodies at Rest",
-      "year": 2019,
-      "imdbRating": 5.6,
-      "imdbVotes": 1082,
-      "language": "Mandarin, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1742682",
-      "title": "The Colombian Connection",
-      "year": 2014,
-      "imdbRating": 3.7,
-      "imdbVotes": 302,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0035570",
-      "title": "X Marks the Spot",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0023427",
-      "title": "Scarface",
-      "year": 1932,
-      "imdbRating": 7.7,
-      "imdbVotes": 32244,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023145",
+    "tt0029596",
+    "tt0028136",
+    "tt0214714",
+    "tt0022990",
+    "tt0023117",
+    "tt0179249",
+    "tt0032763",
+    "tt7937440",
+    "tt1742682",
+    "tt0035570",
+    "tt0023427"
   ],
   "collections": [],
   "is_curated": true,

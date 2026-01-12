@@ -6,34 +6,50 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_2091",
+      "id": "dipwad2_zoho_2091",
       "title": "209",
       "description": "209 ",
       "fileSize": 2877107353,
-      "id": "dipwad2_zoho_2091"
+      "addedAt": "2026-01-07T00:08:07.356Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_2091",
+      "collection": "feature_films",
+      "downloads": 1052
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_209",
+      "id": "rog561b_netzero_209",
       "title": "209",
       "description": "209",
       "fileSize": 3580957010,
-      "id": "rog561b_netzero_209"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_209",
+      "collection": "feature_films",
+      "downloads": 2882
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_209",
+      "id": "rog56_mail_209",
       "title": "209",
       "description": "209",
       "fileSize": 2530317331,
-      "id": "rog56_mail_209"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_209",
+      "collection": "feature_films",
+      "downloads": 1232
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_209_201607",
+      "id": "rog56_mail_209_201607",
       "title": "209",
       "description": "209",
       "fileSize": 5200242818,
-      "id": "rog56_mail_209_201607"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_209_201607",
+      "collection": "feature_films",
+      "downloads": 587
     }
   ],
   "metadata": {
@@ -51,101 +67,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3563890",
-      "title": "606",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2355473",
-      "title": "612",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3560948",
-      "title": "8, 366, 615 (New York)",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3122618",
-      "title": "Goodnight My Love",
-      "year": 2012,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2536422",
-      "title": "Act of Faith",
-      "year": 2012,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2376386",
-      "title": "111",
-      "year": 2012,
-      "imdbRating": 7.7,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt31478284",
-      "title": "705",
-      "year": 2012,
-      "language": "Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4295286",
-      "title": "The Hybrid",
-      "year": 2014,
-      "imdbRating": 3.7,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4007092",
-      "title": "Thru Traffic",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3496970",
-      "title": "Our Bed",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt2889500",
+    "tt2509978",
+    "tt3563890",
+    "tt2355473",
+    "tt3560948",
+    "tt3122618",
+    "tt2536422",
+    "tt2376386",
+    "tt31478284",
+    "tt4295286",
+    "tt4007092",
+    "tt3496970"
   ],
   "collections": [],
   "is_curated": true,

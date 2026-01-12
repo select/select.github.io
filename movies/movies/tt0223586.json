@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Wandering_Jew",
+      "id": "The_Wandering_Jew",
       "title": "The Wandering Jew",
       "description": "The original French title is Le juif errant . IMDb Page",
       "fileSize": 65236382,
-      "id": "The_Wandering_Jew"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/The_Wandering_Jew",
+      "language": "English",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 81158
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0228014",
-      "title": "The Christmas Angel",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 243,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225132",
-      "title": "Robinson Crusoe",
-      "year": 1902,
-      "imdbRating": 5.7,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228986",
-      "title": "Every Man His Own Cigar Lighter",
-      "year": 1904,
-      "imdbRating": 4.1,
-      "imdbVotes": 150,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222731",
-      "title": "The Fugitive Apparitions",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 183,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215992",
-      "title": "The Mermaid",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1349,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135631",
-      "title": "The Untamable Whiskers",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1200,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216419",
-      "title": "The Wonderful Living Fan",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 689,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222785",
-      "title": "A Mesmerian Experiment",
-      "year": 1905,
-      "imdbRating": 5.3,
-      "imdbVotes": 221,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135180",
-      "title": "The Infernal Cauldron",
-      "year": 1903,
-      "imdbRating": 6.6,
-      "imdbVotes": 2415,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223755",
-      "title": "The Monster",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 1382,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0228014",
+    "tt0225132",
+    "tt0228986",
+    "tt0222731",
+    "tt0215664",
+    "tt0215992",
+    "tt0135631",
+    "tt0216419",
+    "tt0222785",
+    "tt0135180",
+    "tt0223755",
+    "tt0215575"
   ],
   "collections": [],
   "is_curated": true,

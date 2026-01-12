@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/always-goodbye-1938",
+      "id": "always-goodbye-1938",
       "title": "Always Goodbye (1938)",
       "description": "Following the death of her fiancé, Margot Weston is left pregnant and unmarried. Former doctor Jim Howard helps the desperate Margot. When her son is born, Jim helps her find a home for the baby with Phil Marshall and his wife. Margot insists that neither the Marshalls nor the child can ever know that she is his mother. Watch on RetroFlix:  https://retroflix.org/always-goodbye-1938/",
       "fileSize": 440505198,
-      "id": "always-goodbye-1938"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/always-goodbye-1938",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 80
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_110",
+      "id": "rog56_mail_110",
       "title": "Always Goodbye",
       "description": "110",
       "fileSize": 1584675175,
-      "id": "rog56_mail_110"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_110",
+      "collection": "feature_films",
+      "downloads": 2699
     }
   ],
   "metadata": {
@@ -35,113 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028575",
-      "title": "Angel",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 3607,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027331",
-      "title": "Banjo on My Knee",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 660,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030063",
-      "title": "The Divorce of Lady X",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 1581,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030637",
-      "title": "Pygmalion",
-      "year": 1938,
-      "imdbRating": 7.7,
-      "imdbVotes": 10214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030710",
-      "title": "Saleslady",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031282",
-      "title": "Eternally Yours",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031593",
-      "title": "Love Affair",
-      "year": 1939,
-      "imdbRating": 7.3,
-      "imdbVotes": 6880,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0320737",
-      "title": "La virgencita de madera",
-      "year": 1937,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031602",
-      "title": "Made for Each Other",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 4172,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029298",
-      "title": "Navy Blues",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028575",
+    "tt0027331",
+    "tt0030063",
+    "tt0030637",
+    "tt0030710",
+    "tt0033891",
+    "tt0031282",
+    "tt0031593",
+    "tt0028557",
+    "tt0320737",
+    "tt0031602",
+    "tt0029298"
   ],
   "collections": [],
   "is_curated": true,

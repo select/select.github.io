@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-der-maulkorb-ralph-arthur-roberts-paul-henckels-hilde-weissner-theodor-loos",
+      "id": "1938-der-maulkorb-ralph-arthur-roberts-paul-henckels-hilde-weissner-theodor-loos",
       "title": "1938 Der Maulkorb ( Ralph Arthur Roberts, Paul Henckels, Hilde Weissner, Theodor Loos)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Der Maulkorb.  U.a mit Ralph Arthur Roberts und Paul Henckels ",
       "fileSize": 2807510106,
-      "id": "1938-der-maulkorb-ralph-arthur-roberts-paul-henckels-hilde-weissner-theodor-loos"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-der-maulkorb-ralph-arthur-roberts-paul-henckels-hilde-weissner-theodor-loos",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 134
     }
   ],
   "metadata": {
@@ -27,107 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033207",
-      "title": "Unser Fräulein Doktor",
-      "year": 1940,
-      "imdbRating": 7.5,
-      "imdbVotes": 48,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141753",
-      "title": "Pygmalion",
-      "year": 1935,
-      "imdbRating": 7.2,
-      "imdbVotes": 28,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035518",
-      "title": "Viel Lärm um Nixi",
-      "year": 1942,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035628",
-      "title": "Altes Herz wird wieder jung",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036797",
-      "title": "Es lebe die Liebe",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029290",
-      "title": "Mädchen für alles",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 33,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028922",
-      "title": "Gefährliches Spiel",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031446",
-      "title": "Hotel Sacher",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 69,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027574",
-      "title": "Engel mit kleinen Fehlern",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032777",
-      "title": "Meine Tochter tut das nicht",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029853",
-      "title": "Alf's Button Afloat",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029939",
-      "title": "Born to Be Wild",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033207",
+    "tt0141753",
+    "tt0035518",
+    "tt0035628",
+    "tt0036797",
+    "tt0029290",
+    "tt0028922",
+    "tt0031446",
+    "tt0027574",
+    "tt0032777",
+    "tt0029853",
+    "tt0029939"
   ],
   "collections": [],
   "is_curated": true,

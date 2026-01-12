@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SonOfIngagi1940",
+      "id": "SonOfIngagi1940",
       "title": "Son Of Ingagi (1940)",
       "description": "This is an unusual film about a mad doctor who keeps a monster in the basement. It's unusual for two reasons, one being the mad doctor is a woman, which was strange for the time, and the other was the fact that the film had an all-black cast, which was also unusual, especially for this kind of movie.",
       "fileSize": 1697588597,
-      "id": "SonOfIngagi1940"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/SonOfIngagi1940",
+      "collection": "feature_films",
+      "downloads": 29811
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=btcsSmVrHYo",
+      "id": "btcsSmVrHYo",
       "title": "Son of Ingagi (1940) HOUSE OF HORROR",
       "description": "BLACK HISTORY MONTH\nStars: Zack Williams, Laura Bowman, Alfred Grant\nDirector: Richard C. Kahn\nWriter: Spencer Williams \n\nA newlywed couple is visited by a strange old woman who harbors a secret about the young girl's father.",
-      "id": "btcsSmVrHYo",
+      "addedAt": "2025-12-26T23:48:53.496Z",
+      "thumbnail": "https://i.ytimg.com/vi/btcsSmVrHYo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBGbdwaIaoBknIxd40yFYUuLN6vMw",
+      "duration": 3733,
+      "language": "en",
+      "year": 1940,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031122",
-      "title": "The Bronze Buckaroo",
-      "year": 1939,
-      "imdbRating": 4.9,
-      "imdbVotes": 259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031406",
-      "title": "Harlem Rides the Range",
-      "year": 1939,
-      "imdbRating": 5,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135694",
-      "title": "Two-Gun Man from Harlem",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032390",
-      "title": "The Devil Bat",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 3607,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032215",
-      "title": "The Ape",
-      "year": 1940,
-      "imdbRating": 4.6,
-      "imdbVotes": 2092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032245",
-      "title": "Before I Hang",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1450,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032412",
-      "title": "Dr. Cyclops",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 3034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032635",
-      "title": "The Invisible Man Returns",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 5530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032637",
-      "title": "The Invisible Woman",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 3517,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032818",
-      "title": "The Mummy's Hand",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 4847,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152497",
-      "title": "The Snow Man",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031122",
+    "tt0031406",
+    "tt0135694",
+    "tt0032406",
+    "tt0032390",
+    "tt0032215",
+    "tt0032245",
+    "tt0032412",
+    "tt0032635",
+    "tt0032637",
+    "tt0032818",
+    "tt0152497"
   ],
   "collections": [],
   "is_curated": true,

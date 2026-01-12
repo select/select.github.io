@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/las-ratas-1963",
+      "id": "las-ratas-1963",
       "title": "Las Ratas (1963)",
       "description": "Las ratas  es una película en blanco y negro coproducción de  Argentina  y  España  dirigida por  Luis Saslavsky  sobre su propio guion escrito en colaboración con  Emilio Villalba Welsh  según la novela de  José Bianco  que se estrenó el 22 de agosto de 1963 y que tuvo como protagonistas a  Aurora Bautista ,  Alfredo Alcón ,  Bárbara Mujica  y  Juan José Míguez . Esta película marcó el retorno del director al cine argentino luego de estar exiliado en España por razones políticas durante el gobierno peronista. (Wikipedia) Sinopsis La tragedia aparece en la relación entre un joven, su madrastra y su hermano. Reparto Aurora Bautista Alfredo Alcón Bárbara Mujica Juan José Míguez Antonia Herrero Fernando Martín Ariel Absalón José Maurer Mecha López Gilberto Rey",
       "fileSize": 1221621244,
-      "id": "las-ratas-1963"
+      "addedAt": "2026-01-07T00:09:38.887Z",
+      "thumbnail": "https://archive.org/services/img/las-ratas-1963",
+      "language": "spa",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 48
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "1 win & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040441",
-      "title": "Historia de una mala mujer",
-      "year": 1948,
-      "imdbRating": 7.5,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033719",
-      "title": "Historia de una noche",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 59,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178304",
-      "title": "La casa del recuerdo",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037629",
-      "title": "La dama duende",
-      "year": 1945,
-      "imdbRating": 7.2,
-      "imdbVotes": 51,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028906",
-      "title": "La fuga",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 40,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199895",
-      "title": "Los ojos más lindos del mundo",
-      "year": 1943,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199798",
-      "title": "Nace un amor",
-      "year": 1938,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200250",
-      "title": "Vení conmigo",
-      "year": 1973,
-      "imdbRating": 4.7,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0320366",
-      "title": "El reñidero",
-      "year": 1965,
-      "imdbRating": 6.7,
-      "imdbVotes": 30,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144556",
-      "title": "Prisioneros de una noche",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 54,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057415",
-      "title": "A Place to Go",
-      "year": 1963,
-      "imdbRating": 6.5,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056810",
-      "title": "Act One",
-      "year": 1963,
-      "imdbRating": 6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040441",
+    "tt0033719",
+    "tt0178304",
+    "tt0037629",
+    "tt0028906",
+    "tt0199895",
+    "tt0199798",
+    "tt0200250",
+    "tt0320366",
+    "tt0144556",
+    "tt0057415",
+    "tt0056810"
   ],
   "collections": [],
   "is_curated": true,

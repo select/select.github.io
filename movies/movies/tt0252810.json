@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-abenteuer-im-sudexpress",
+      "id": "1934-abenteuer-im-sudexpress",
       "title": "1934 Abenteuer Im Südexpress",
       "description": "Film aus dem deutschen dritten Reich von 1934. Abenteuer im Südexpress ",
       "fileSize": 224515525,
-      "id": "1934-abenteuer-im-sudexpress"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1934-abenteuer-im-sudexpress",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 206
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0126214",
-      "title": "Beyond Bengal",
-      "year": 1934,
-      "imdbRating": 4.9,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025940",
-      "title": "The Vanishing Shadow",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030156",
-      "title": "Frauen für Golden Hill",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023616",
-      "title": "Trailing the Killer",
-      "year": 1932,
-      "imdbRating": 4.7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0033297",
-      "title": "Zwischen Hamburg und Haiti",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1268864",
-      "title": "The Blonde Captive",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026695",
-      "title": "Mein Leben für Maria Isabell",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034538",
-      "title": "Bombs Over Burma",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052702",
-      "title": "The Cosmic Man",
-      "year": 1959,
-      "imdbRating": 4.8,
-      "imdbVotes": 693,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0099978",
-      "title": "Laser Mission",
-      "year": 1989,
-      "imdbRating": 3.5,
-      "imdbVotes": 2764,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025420",
-      "title": "The Lost Jungle",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025514",
-      "title": "Monte Carlo Nights",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0126214",
+    "tt0025940",
+    "tt0030156",
+    "tt0023616",
+    "tt0033297",
+    "tt1268864",
+    "tt0026695",
+    "tt0034538",
+    "tt0052702",
+    "tt0099978",
+    "tt0025420",
+    "tt0025514"
   ],
   "collections": [],
   "is_curated": true,

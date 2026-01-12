@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-soul-of-the-cypress",
+      "id": "silent-the-soul-of-the-cypress",
       "title": "The Soul of the Cypress",
       "fileSize": 240395576,
-      "id": "silent-the-soul-of-the-cypress"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-soul-of-the-cypress",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 358
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0349326",
-      "title": "Danse macabre",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 295,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019701",
-      "title": "Black and Tan",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 626,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020447",
-      "title": "St. Louis Blues",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 461,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381908",
-      "title": "A Bear, a Boy and a Dog",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10359784",
-      "title": "Bobby Bumps in Their Master's Voice",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012224",
-      "title": "The Goat",
-      "year": 1921,
-      "imdbRating": 7.7,
-      "imdbVotes": 5206,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012253",
-      "title": "Hard Luck",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 2701,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131468",
-      "title": "Manhatta",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1693,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012620",
-      "title": "Rhythmus 21",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 1485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012570",
-      "title": "The Play House",
-      "year": 1921,
-      "imdbRating": 7.4,
-      "imdbVotes": 4767,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011984",
-      "title": "The Boat",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3698,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0349326",
+    "tt0019701",
+    "tt0020447",
+    "tt0381908",
+    "tt10359784",
+    "tt0012224",
+    "tt0012253",
+    "tt0131468",
+    "tt0012499",
+    "tt0012620",
+    "tt0012570",
+    "tt0011984"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,23 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ARomanceOfHappyValley1919",
+      "id": "ARomanceOfHappyValley1919",
       "title": "\"A Romance Of Happy Valley\" (1919) director D. W. Griffith starring Lillian Gish and Robert Harron",
       "fileSize": 58058841,
-      "id": "ARomanceOfHappyValley1919"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/ARomanceOfHappyValley1919",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 8559
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-romance-of-happy-valley",
+      "id": "silent-a-romance-of-happy-valley",
       "title": "A Romance of Happy Valley",
       "fileSize": 1279039971,
-      "id": "silent-a-romance-of-happy-valley"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-romance-of-happy-valley",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 480
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=6ZCNaCHPacE",
+      "id": "6ZCNaCHPacE",
       "title": "A Romance of Happy Valley (1919) Drama, Romance Silent Film",
       "description": "John Logan leaves his parents and sweetheart in bucolic Happy Valley to make his fortune in the city. Those he left behind become miserable and beleaguered in his absence, but after several years he returns, a wealthy man. But his embittered father, not recognizing him for who he is, plans to murder the newly- arrived \"stranger\" for his money.\n\nDirector: D.W. Griffith\nWriter: D.W. Griffith \nStars: Lillian Gish, Robert Harron, George Fawcett \n\nJoin us on social media :\nFacebook : https://www.facebook.com/CultCinemaClassics\nInsta : https://www.instagram.com/cultcine -\nhttps://www.twitch.tv/cultcinema",
-      "id": "6ZCNaCHPacE",
+      "addedAt": "2025-12-27T00:51:36.190Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/6ZCNaCHPacE/maxresdefault.webp?v=6295e293",
+      "duration": 4563,
+      "language": "en",
+      "year": 1919,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -42,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011841",
-      "title": "Way Down East",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 6016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010193",
-      "title": "The Greatest Question",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 745,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009150",
-      "title": "Hearts of the World",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1094,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006864",
-      "title": "Intolerance",
-      "year": 1916,
-      "imdbRating": 7.7,
-      "imdbVotes": 17618,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014604",
-      "title": "The White Rose",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0010806",
+    "tt0009968",
+    "tt0011841",
+    "tt0012532",
+    "tt0010193",
+    "tt0009150",
+    "tt0012122",
+    "tt0006864",
+    "tt0014604",
+    "tt0002795",
+    "tt0015018",
+    "tt0001978"
   ],
   "collections": [],
   "is_curated": true,

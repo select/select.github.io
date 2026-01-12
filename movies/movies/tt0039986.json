@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhisperingCity",
+      "id": "WhisperingCity",
       "title": "Whispering City (1947)",
       "description": "A reporter hears that a famous actress is dying in a hospital after being hit by a car. She goes to the hospital to interview the actress, who tells the reporter that her wealthy fiance, who was killed in an accident several years before, was actually murdered. Before long the reporter finds herself in a web of corruption, mental illness and murder.",
       "fileSize": 2103206623,
-      "id": "WhisperingCity"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhisperingCity",
+      "collection": "feature_films",
+      "downloads": 51068
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=9lWmFY-WQrc",
+      "id": "9lWmFY-WQrc",
       "title": "Whispering City (1947) CRIME-THRILLER",
       "description": "Stars: Paul Lukas, Mary Anderson, Helmut Dantine \n Director: Fyodor Otsep\n\n When a nagging wife commits suicide, her husband is threatened with a murder rap by his lawyer, unless he kills a certain female reporter for him!",
-      "id": "9lWmFY-WQrc",
+      "addedAt": "2025-12-26T23:53:37.477Z",
+      "thumbnail": "https://i.ytimg.com/vi/9lWmFY-WQrc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCZhVJSjjKvVe75A7nMzpd_8se8Og",
+      "duration": 5446,
+      "language": "en",
+      "year": 1947,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039515",
-      "title": "Johnny O'Clock",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 2969,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039611",
-      "title": "The Mark of Cain",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 112,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039320",
-      "title": "Dick Tracy Meets Gruesome",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 1995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038498",
-      "title": "Dual Alibi",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 267,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039335",
-      "title": "A Double Life",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 4170,
-      "language": "English, Italian, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039224",
-      "title": "Brute Force",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 12259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039311",
-      "title": "Desert Fury",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 2289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039482",
-      "title": "I Walk Alone",
-      "year": 1947,
-      "imdbRating": 7,
-      "imdbVotes": 3652,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039536",
-      "title": "Kiss of Death",
-      "year": 1947,
-      "imdbRating": 7.4,
-      "imdbVotes": 10143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039217",
-      "title": "The Brasher Doubloon",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 1420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040525",
-      "title": "The Lady from Shanghai",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 35285,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    }
+    "tt0039515",
+    "tt0039611",
+    "tt0039320",
+    "tt0038498",
+    "tt0039335",
+    "tt0039224",
+    "tt0039311",
+    "tt0039482",
+    "tt0039694",
+    "tt0039536",
+    "tt0039217",
+    "tt0040525"
   ],
   "collections": [],
   "is_curated": true,

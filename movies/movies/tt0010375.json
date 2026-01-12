@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-log-of-the-u-35",
+      "id": "silent-the-log-of-the-u-35",
       "title": "The Log of the U-35",
       "fileSize": 437747416,
-      "id": "silent-the-log-of-the-u-35"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-log-of-the-u-35",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 473
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008807",
-      "title": "El último malón",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006405",
-      "title": "Kitchener's Great Army in the Battle of the Somme",
-      "year": 1916,
-      "imdbRating": 6.6,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059529",
-      "title": "Triumph Over Violence",
-      "year": 1965,
-      "imdbRating": 8.1,
-      "imdbVotes": 2137,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0225448",
-      "title": "A Cry from the Grave",
-      "year": 1999,
-      "imdbRating": 7.8,
-      "imdbVotes": 352,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0214483",
-      "title": "Appointment in Tokyo",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185893",
-      "title": "Attack! Battle of New Britain",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276783",
-      "title": "Attack in the Pacific",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035745",
-      "title": "Combat America",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035796",
-      "title": "Desert Victory",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 405,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0905617",
-      "title": "Kampf um Norwegen - Feldzug 1940",
-      "year": 1940,
-      "imdbRating": 6.8,
-      "imdbVotes": 129,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt1515754",
+    "tt0008807",
+    "tt0006405",
+    "tt0059529",
+    "tt0225448",
+    "tt0214483",
+    "tt0185893",
+    "tt0276783",
+    "tt0034498",
+    "tt0035745",
+    "tt0035796",
+    "tt0905617"
   ],
   "collections": [],
   "is_curated": true,

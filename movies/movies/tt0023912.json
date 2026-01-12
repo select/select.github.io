@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cowboy_counsellor",
+      "id": "cowboy_counsellor",
       "title": "Cowboy Counsellor",
       "description": "A con man posing as a lawyer winds up defending a man falsely accused of robbery. An ex-con is employed by the man who framed him for bank robbery. You can find more information regarding this film on its IMDb page .",
       "fileSize": 3766193558,
-      "id": "cowboy_counsellor"
+      "addedAt": "2026-01-07T00:07:51.625Z",
+      "thumbnail": "https://archive.org/services/img/cowboy_counsellor",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 32934
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=DnzZm1rWQa8",
+      "id": "DnzZm1rWQa8",
       "title": "Cowboy Counsellor (1932) HOOT GIBSON",
       "description": "Stars: Hoot Gibson, Sheila Bromley, Jack Rutherford\nDirector: George Melford\n\nA con man posing as a lawyer tries to sell copies of a phony law book. Things get serious when he has to defend a young man falsely accused of robbery.",
-      "id": "DnzZm1rWQa8",
+      "addedAt": "2025-12-26T23:49:06.375Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/DnzZm1rWQa8/maxresdefault.webp",
+      "duration": 3761,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022702",
-      "title": "The Boiling Point",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023970",
-      "title": "The Dude Bandit",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023186",
-      "title": "A Man's Land",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011647",
-      "title": "The Round-up",
-      "year": 1920,
-      "imdbRating": 6,
-      "imdbVotes": 214,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023144",
-      "title": "The Local Bad Man",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024400",
-      "title": "Officer Thirteen",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024434",
-      "title": "The Penal Code",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021751",
-      "title": "Clearing the Range",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 154,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021940",
-      "title": "The Hard Hombre",
-      "year": 1931,
-      "imdbRating": 5.5,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022562",
-      "title": "Wild Horse",
-      "year": 1931,
-      "imdbRating": 5.3,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021828",
-      "title": "East of Borneo",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023183",
-      "title": "The Man from Hell's Edges",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022702",
+    "tt0023970",
+    "tt0023186",
+    "tt0011647",
+    "tt0023144",
+    "tt0024400",
+    "tt0024434",
+    "tt0021751",
+    "tt0021940",
+    "tt0022562",
+    "tt0021828",
+    "tt0023183"
   ],
   "collections": [
     {

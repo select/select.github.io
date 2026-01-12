@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_815",
+      "id": "rog56_mail_815",
       "title": "815",
       "description": "815",
       "fileSize": 3271914130,
-      "id": "rog56_mail_815"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_815",
+      "collection": "feature_films",
+      "downloads": 1404
     }
   ],
   "metadata": {
@@ -27,106 +31,18 @@
     "Awards": "3 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt4206510",
-      "title": "The Maze Runner: Finding the Gang",
-      "year": 2014,
-      "imdbRating": 7.7,
-      "imdbVotes": 15954,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4290988",
-      "title": "Blood Brothers",
-      "year": 2014,
-      "imdbRating": 5.4,
-      "imdbVotes": 29,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2256598",
-      "title": "The Battle of the Somme",
-      "year": 2014,
-      "imdbRating": 6.9,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3560922",
-      "title": "Wo der Wind so kalt weht",
-      "year": 2013,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt33268026",
-      "title": "100 Tiere unserer Erde",
-      "year": 2013,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5794194",
-      "title": "Other Losses",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2827918",
-      "title": "504",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10960716",
-      "title": "518",
-      "year": 2013,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2973216",
-      "title": "922: From Academic Watch to Academic WOW!",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5095004",
-      "title": "The Surge",
-      "year": 2015,
-      "language": "Filipino",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt4206510",
+    "tt4189440",
+    "tt4290988",
+    "tt2256598",
+    "tt6564690",
+    "tt3560922",
+    "tt33268026",
+    "tt5794194",
+    "tt2827918",
+    "tt10960716",
+    "tt2973216",
+    "tt5095004"
   ],
   "collections": [],
   "is_curated": true,

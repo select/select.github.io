@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_316",
+      "id": "rog561b_netzero_316",
       "title": "316",
       "description": "316",
       "fileSize": 3099791658,
-      "id": "rog561b_netzero_316"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_316",
+      "collection": "feature_films",
+      "downloads": 1355
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_316",
+      "id": "rog56_mail_316",
       "title": "316",
       "description": "316",
       "fileSize": 7737124122,
-      "id": "rog56_mail_316"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_316",
+      "collection": "feature_films",
+      "downloads": 12180
     }
   ],
   "metadata": {
@@ -35,118 +43,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt5338222",
-      "title": "My Tomorrow, Your Yesterday",
-      "year": 2016,
-      "imdbRating": 7.4,
-      "imdbVotes": 5620,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7642542",
-      "title": "Magical Christmas Ornaments",
-      "year": 2017,
-      "imdbRating": 6.3,
-      "imdbVotes": 1990,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6121428",
-      "title": "ReLIFE",
-      "year": 2017,
-      "imdbRating": 6.6,
-      "imdbVotes": 1218,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000966",
-      "title": "A Midsummer Night's Dream",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 355,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032247",
-      "title": "Beyond Tomorrow",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 2497,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014249",
-      "title": "The Man Without Desire",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038733",
-      "title": "A Matter of Life and Death",
-      "year": 1946,
-      "imdbRating": 8,
-      "imdbVotes": 26640,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6075718",
-      "title": "Blue Spring Ride",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 1413,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3171764",
-      "title": "Killer Mermaid",
-      "year": 2014,
-      "imdbRating": 4.1,
-      "imdbVotes": 3289,
-      "language": "English, Serbian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3120054",
-      "title": "Take Care",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 3407,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0443465",
-      "title": "Before We Go",
-      "year": 2014,
-      "imdbRating": 6.8,
-      "imdbVotes": 67966,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3530146",
-      "title": "Coffee Shop",
-      "year": 2014,
-      "imdbRating": 5.7,
-      "imdbVotes": 2767,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt5338222",
+    "tt7642542",
+    "tt6121428",
+    "tt0000966",
+    "tt0032247",
+    "tt0014249",
+    "tt0038733",
+    "tt6075718",
+    "tt3171764",
+    "tt3120054",
+    "tt0443465",
+    "tt3530146"
   ],
   "collections": [],
   "is_curated": true,

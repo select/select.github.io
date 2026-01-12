@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Good.Glue.Sticks",
+      "id": "Good.Glue.Sticks",
       "title": "Good Glue Sticks",
       "description": "The original French title is La Colle universelle . IMDb Page",
       "fileSize": 123739414,
-      "id": "Good.Glue.Sticks"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/Good.Glue.Sticks",
+      "language": "English",
+      "year": 1907,
+      "collection": "feature_films",
+      "downloads": 2052
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135122",
-      "title": "The Hilarious Posters",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 1176,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223702",
-      "title": "How Bridget's Lover Escaped",
-      "year": 1907,
-      "imdbRating": 5.2,
-      "imdbVotes": 137,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227396",
-      "title": "Robert Macaire and Bertrand",
-      "year": 1907,
-      "imdbRating": 5.8,
-      "imdbVotes": 148,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0127948",
-      "title": "The Devilish Tenant",
-      "year": 1909,
-      "imdbRating": 7.2,
-      "imdbVotes": 2031,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227434",
-      "title": "Satan in Prison",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 283,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0224189",
-      "title": "Sur les toits",
-      "year": 1897,
-      "imdbRating": 5.2,
-      "imdbVotes": 434,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225797",
-      "title": "The King and the Jester",
-      "year": 1907,
-      "imdbRating": 5.2,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000417",
-      "title": "A Trip to the Moon",
-      "year": 1902,
-      "imdbRating": 8.1,
-      "imdbVotes": 58712,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000575",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1907,
-      "imdbRating": 5.7,
-      "imdbVotes": 636,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0135122",
+    "tt0215575",
+    "tt0223702",
+    "tt0227396",
+    "tt0215664",
+    "tt0127948",
+    "tt0227434",
+    "tt0224189",
+    "tt0225797",
+    "tt0000417",
+    "tt0000575",
+    "tt0227734"
   ],
   "collections": [],
   "is_curated": true,

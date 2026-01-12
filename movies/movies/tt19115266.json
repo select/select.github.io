@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/frankenstein-1931_202312",
+      "id": "frankenstein-1931_202312",
       "title": "Frankenstein 1931",
       "description": "Based on Mary Shelley's story about a scientist who creates a living being from stolen corpses.",
       "fileSize": 436309475,
-      "id": "frankenstein-1931_202312"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/frankenstein-1931_202312",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 704
     }
   ],
   "metadata": {
@@ -26,93 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt22182372",
-      "title": "Episode 166: &quot;Terminator 2: Judgment Day&quot; (1991): Movie Review",
-      "year": 1991,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt27049714",
-      "title": "Episode 617: Bob Le Flambeur (1956)",
-      "year": 1956,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12933920",
-      "title": "European Horror: Les Diaboliques (1955)",
-      "year": 1955,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12923668",
-      "title": "Alfred Hitchcock: Rear Window (1954)",
-      "year": 1954,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15337920",
-      "title": "The Big Lebowski (1998) - Coen Brolympics",
-      "year": 1998,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt26095460",
-      "title": "Demolition Man (1993)",
-      "year": 1993,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12923202",
-      "title": "Alfred Hitchcock: Vertigo (1958)",
-      "year": 1958,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1566348",
-      "title": "Adventures in Africa No. 6: The Buffalo Stampede",
-      "year": 1931,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt12881722",
-      "title": "The Heron and Three Birds of Prey",
-      "year": 1930,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233713",
-      "title": "Zinsknechtschaft",
-      "year": 1932,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183083",
-      "title": "The Fighting President",
-      "year": 1933,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430596",
-      "title": "At the Seashore",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt22182372",
+    "tt27049714",
+    "tt12933920",
+    "tt12923668",
+    "tt15337920",
+    "tt26095460",
+    "tt12923202",
+    "tt1566348",
+    "tt12881722",
+    "tt0233713",
+    "tt0183083",
+    "tt0430596"
   ],
   "collections": [],
   "is_curated": true,

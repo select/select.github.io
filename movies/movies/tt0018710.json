@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ablondeforanight",
+      "id": "ablondeforanight",
       "title": "A Blonde for a Night",
       "description": "“An amusing farce” “As fluffy as Marie’s hair” (IMDB reviews quotes). A breezy marital comedy in which newlywed Marie Prevost tests her husband’s fidelity by disguising herself with a blonde wig. This completely fools everybody. (Yeah I know. It’s really far-fetched.) Good cast and good production values. So suspend your power of disbelief and have fun. IMDB 6.5. Directed by E Mason Hopper and F McGrew Willis. Released in 1920. Complete print?",
       "fileSize": 830237457,
-      "id": "ablondeforanight"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/ablondeforanight",
+      "collection": "feature_films",
+      "downloads": 5869
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019339",
-      "title": "The Rush Hour",
-      "year": 1927,
-      "imdbRating": 7.9,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019085",
-      "title": "Let 'Er Go Gallegher",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018184",
-      "title": "My Friend from India",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019887",
-      "title": "The Flying Fool",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019412",
-      "title": "Speedy",
-      "year": 1928,
-      "imdbRating": 7.6,
-      "imdbVotes": 4381,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018742",
-      "title": "The Cameraman",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 13471,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018937",
-      "title": "A Girl in Every Port",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 864,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019057",
-      "title": "A Knight in London",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019339",
+    "tt0019085",
+    "tt0018184",
+    "tt0019887",
+    "tt0019412",
+    "tt0019421",
+    "tt0018742",
+    "tt1893190",
+    "tt0018937",
+    "tt0019057",
+    "tt0019067",
+    "tt0018628"
   ],
   "collections": [],
   "is_curated": true,

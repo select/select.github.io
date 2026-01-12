@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-spring-fairy",
+      "id": "silent-the-spring-fairy",
       "title": "The Spring Fairy",
       "fileSize": 85272971,
-      "id": "silent-the-spring-fairy"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-spring-fairy",
+      "language": "French",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 1069
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1649367",
-      "title": "Le fils du garde-chasse",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139714",
-      "title": "The Birth, the Life and the Death of Christ",
-      "year": 1906,
-      "imdbRating": 6.4,
-      "imdbVotes": 602,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0317427",
-      "title": "L'enfant de la barricade",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 377,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298570",
-      "title": "The Tempest",
-      "year": 1908,
-      "imdbRating": 5.8,
-      "imdbVotes": 279,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649316",
-      "title": "Effets de mer",
-      "year": 1906,
-      "imdbRating": 5.1,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649365",
-      "title": "Le ballon dirigeable 'Le patrie'",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 138,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649427",
-      "title": "Une course d'obstacle",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 145,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649428",
-      "title": "Une histoire roulante",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3189794",
-      "title": "Robert Macaire et Bertrand",
-      "year": 1905,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164493",
-      "title": "Cinderella",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 100,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649298",
-      "title": "Clown, chien et ballon",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 159,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759516",
-      "title": "Course à la saucisse",
-      "year": 1907,
-      "imdbRating": 6.1,
-      "imdbVotes": 323,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1649367",
+    "tt0139714",
+    "tt0317427",
+    "tt0298570",
+    "tt1649316",
+    "tt1649365",
+    "tt1649427",
+    "tt1649428",
+    "tt3189794",
+    "tt0164493",
+    "tt1649298",
+    "tt0759516"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/suprisin-exercisin-1968",
+      "id": "suprisin-exercisin-1968",
       "title": "Suprisin' Exercisin' (1968)",
       "description": "Suprisin' Exercisin' is a Terrytoons cartoon directed by Cosmo Anzilotti. Watch on RetroFlix:  https://retroflix.org/suprisin-exercisin-1968/",
       "fileSize": 32066974,
-      "id": "suprisin-exercisin-1968"
+      "addedAt": "2026-01-07T00:11:35.633Z",
+      "thumbnail": "https://archive.org/services/img/suprisin-exercisin-1968",
+      "language": "eng",
+      "year": 1968,
+      "collection": "feature_films",
+      "downloads": 126
     }
   ],
   "metadata": {
@@ -26,92 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0149859",
-      "title": "Big Bad Bobcat",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147687",
-      "title": "Weather Magic",
-      "year": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151637",
-      "title": "Mount Piney",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161528",
-      "title": "Dribble Drabble",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151154",
-      "title": "Judo Kudos",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1235803",
-      "title": "Sally Sargent",
-      "year": 1968,
-      "imdbRating": 5.8,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152213",
-      "title": "The Rock Hound",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150274",
-      "title": "Darn Barn",
-      "year": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150638",
-      "title": "Freight Fright",
-      "year": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150732",
-      "title": "Git That Guitar",
-      "year": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153181",
-      "title": "The Toothless Beaver",
-      "year": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150503",
-      "title": "Fancy Plants",
-      "year": 1967,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0149859",
+    "tt0147687",
+    "tt0151637",
+    "tt0161528",
+    "tt0151154",
+    "tt1235803",
+    "tt0152213",
+    "tt0150274",
+    "tt0150638",
+    "tt0150732",
+    "tt0153181",
+    "tt0150503"
   ],
   "collections": [],
   "is_curated": true,

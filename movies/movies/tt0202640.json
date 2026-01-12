@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Twisted_Rails_1934",
+      "id": "Twisted_Rails_1934",
       "title": "Twisted Rails",
       "description": "A dumb movie involving a railroad.",
       "fileSize": 1025995229,
-      "id": "Twisted_Rails_1934"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/Twisted_Rails_1934",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 6692
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=4sgeG0NyKq8",
+      "id": "4sgeG0NyKq8",
       "title": "Twisted Rails  (1934) CRIME THRILLER",
       "description": "Stars: Jack Donovan, Alice Dahl, Philo McCullough\nDirector: Al Herman\n\nA railroad employee finds out the identity of \"The Wrecker,\" a criminal deliberately causing trains to crash. However, before he can disclose the crook's name, he is shot and killed. A passenger aboard the train volunteers to go after the killer and bring \"The Wrecker\" to justice.",
-      "id": "4sgeG0NyKq8",
+      "addedAt": "2025-12-26T23:47:46.332Z",
+      "thumbnail": "https://i.ytimg.com/vi/4sgeG0NyKq8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhkIGQoZDAP&rs=AOn4CLD7zB1eSF85ZttF3BAGq78zPEMOag",
+      "duration": 2819,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023808",
-      "title": "The Big Chance",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027201",
-      "title": "What Price Crime",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036164",
-      "title": "Miss V from Moscow",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026112",
-      "title": "Big Boy Rides Again",
-      "year": 1935,
-      "imdbRating": 5.2,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026259",
-      "title": "Danger Ahead",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026243",
-      "title": "The Cowboy and the Bandit",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030669",
-      "title": "On the Great White Trail",
-      "year": 1938,
-      "imdbRating": 5.2,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027369",
-      "title": "Blazing Justice",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028072",
-      "title": "Outlaws of the Range",
-      "year": 1936,
-      "imdbRating": 4.4,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0252810",
-      "title": "Abenteuer im Südexpress",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025420",
-      "title": "The Lost Jungle",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025514",
-      "title": "Monte Carlo Nights",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023808",
+    "tt0027201",
+    "tt0036164",
+    "tt0026112",
+    "tt0026259",
+    "tt0026243",
+    "tt0030669",
+    "tt0027369",
+    "tt0028072",
+    "tt0252810",
+    "tt0025420",
+    "tt0025514"
   ],
   "collections": [],
   "is_curated": true,

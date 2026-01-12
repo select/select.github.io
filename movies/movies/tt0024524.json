@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/scarlet-river-1933-",
+      "id": "scarlet-river-1933-",
       "title": "Scarlet River (1933)",
       "description": "Tom Keene, Dorothy Wilson, Lon Chaney Jr",
       "fileSize": 801165728,
-      "id": "scarlet-river-1933-"
+      "addedAt": "2026-01-07T00:10:40.953Z",
+      "thumbnail": "https://archive.org/services/img/scarlet-river-1933-",
+      "collection": "feature_films",
+      "downloads": 904
     }
   ],
   "metadata": {
@@ -27,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023808",
-      "title": "The Big Chance",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025644",
-      "title": "Perils of Pauline",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025424",
-      "title": "Lost in the Stratosphere",
-      "year": 1934,
-      "imdbRating": 4.3,
-      "imdbVotes": 138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026435",
-      "title": "Tailspin Tommy in the Great Air Mystery",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 105,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028170",
-      "title": "We're in the Legion Now",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029488",
-      "title": "Riding on Air",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029373",
-      "title": "Paradise Express",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046414",
-      "title": "Beat the Devil",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 10677,
-      "language": "Arabic, English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0066565",
-      "title": "White Sun of the Desert",
-      "year": 1970,
-      "imdbRating": 7.7,
-      "imdbVotes": 8323,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0023808",
+    "tt0025644",
+    "tt0023243",
+    "tt0025424",
+    "tt0026435",
+    "tt0028170",
+    "tt0029488",
+    "tt0019987",
+    "tt0029373",
+    "tt0041098",
+    "tt0046414",
+    "tt0066565"
   ],
   "collections": [],
   "is_curated": true,

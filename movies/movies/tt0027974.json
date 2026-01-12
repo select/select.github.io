@@ -6,25 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MissingGirls",
+      "id": "MissingGirls",
       "title": "missing girls",
       "description": "film",
       "fileSize": 669699200,
-      "id": "MissingGirls"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/MissingGirls",
+      "collection": "feature_films",
+      "downloads": 1945
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MissingGirls_548",
+      "id": "MissingGirls_548",
       "title": "Missing Girls",
       "description": "Gangsters grab a Senator's daughter and her friend after shooting the Senator, but an intrepid newspaper reporter saves the day.",
       "fileSize": 1329333319,
-      "id": "MissingGirls_548"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/MissingGirls_548",
+      "collection": "feature_films",
+      "downloads": 5365
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=wDBh5RfYlug",
+      "id": "wDBh5RfYlug",
       "title": "Missing Girls (1936) G-MEN vs GANGSTERS",
       "description": "PizzaFLIX Presents Classic Movie Monday\nStarring: Roger Pryor, Muriel Evans, Sidney Blackmer\nDirector: Phil Rosen\n\nIn this daring expose from Chesterfield Pictures, G-Men and Gangsters battle for the fate of runaway girls. Story and screenplay by crime scribe Martin Mooney, best remembered for the Film Noir Classics BLONDE ICE and DETOUR.",
-      "id": "wDBh5RfYlug",
+      "addedAt": "2025-12-24T01:07:47.985Z",
+      "thumbnail": "https://i.ytimg.com/vi/wDBh5RfYlug/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBhCQ_gdatzgj4cNekAV6CxrV_ARA",
+      "duration": 3933,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,117 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027568",
-      "title": "Ellis Island",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 89,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027398",
-      "title": "The Bridge of Sighs",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027564",
-      "title": "Easy Money",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029812",
-      "title": "Youth on Parole",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026003",
-      "title": "Woman in the Dark",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 688,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028135",
-      "title": "The President's Mystery",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 203,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033998",
-      "title": "Paper Bullets",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033928",
-      "title": "Murder by Invitation",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020267",
-      "title": "The Phantom in the House",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027399",
-      "title": "Brilliant Marriage",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028343",
-      "title": "Tango",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027568",
+    "tt0027398",
+    "tt0027564",
+    "tt0029812",
+    "tt0026003",
+    "tt0028135",
+    "tt0033998",
+    "tt0027807",
+    "tt0033928",
+    "tt0020267",
+    "tt0027399",
+    "tt0028343"
   ],
   "collections": [],
   "is_curated": true,

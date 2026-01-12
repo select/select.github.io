@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-an-extraordinary-cab-accident",
+      "id": "silent-an-extraordinary-cab-accident",
       "title": "An Extraordinary Cab Accident",
       "fileSize": 15195012,
-      "id": "silent-an-extraordinary-cab-accident"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-an-extraordinary-cab-accident",
+      "year": 1903,
+      "collection": "feature_films",
+      "downloads": 585
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472903",
-      "title": "A Scrap in Black and White",
-      "year": 1903,
-      "imdbRating": 5.1,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000469",
-      "title": "The Sick Kitten",
-      "year": 1903,
-      "imdbRating": 5.8,
-      "imdbVotes": 1093,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477387",
-      "title": "Turning the Tables",
-      "year": 1903,
-      "imdbRating": 4.7,
-      "imdbVotes": 158,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000492",
-      "title": "Personal",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 143,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232946",
-      "title": "The Widow and the Only Man",
-      "year": 1904,
-      "imdbRating": 4.3,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232190",
-      "title": "A Nigger in the Woodpile",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249600",
-      "title": "An Interesting Story",
-      "year": 1904,
-      "imdbRating": 6.8,
-      "imdbVotes": 684,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1056050",
-      "title": "Diving Lucy",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0273542",
-      "title": "Dog Factory",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 443,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422644",
-      "title": "Drat That Boy",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0308284",
+    "tt2585250",
+    "tt0472903",
+    "tt0000469",
+    "tt0477387",
+    "tt0000492",
+    "tt0232946",
+    "tt0232190",
+    "tt0249600",
+    "tt1056050",
+    "tt0273542",
+    "tt1422644"
   ],
   "collections": [],
   "is_curated": true,

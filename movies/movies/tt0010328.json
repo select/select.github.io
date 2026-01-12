@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-kino-nedelya",
+      "id": "silent-kino-nedelya",
       "title": "Kino-nedelya",
       "fileSize": 61034185,
-      "id": "silent-kino-nedelya"
+      "addedAt": "2026-01-07T00:11:07.406Z",
+      "thumbnail": "https://archive.org/services/img/silent-kino-nedelya",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 331
     }
   ],
   "metadata": {
@@ -26,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0953454",
-      "title": "Kino-pravda no. 1",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 213,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953458",
-      "title": "Kino-Pravda No. 13: Yesterday, Today, Tomorrow. A Film Poem Dedicated to the October Revolution",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 107,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953464",
-      "title": "Kino-pravda no. 2",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 148,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953465",
-      "title": "Kino-pravda no. 3",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 144,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953466",
-      "title": "Kino-pravda no. 4",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 136,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953467",
-      "title": "Kino-pravda no. 5",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 136,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953468",
-      "title": "Kino-pravda no. 6",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 128,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953460",
-      "title": "Kino-pravda no. 15",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 119,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007151",
-      "title": "Out of the Inkwell",
-      "year": 1918,
-      "imdbRating": 7.8,
-      "imdbVotes": 66,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1092605",
-      "title": "Momotarô",
-      "year": 1918,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220288",
-      "title": "15,000 Soldiers Reviewed by the President at Camp Alger May 28",
-      "year": 1898,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0008811",
-      "title": "A.W.O.L.",
-      "year": 1918,
-      "imdbRating": 5.1,
-      "imdbVotes": 211,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0953454",
+    "tt0953458",
+    "tt0953464",
+    "tt0953465",
+    "tt0953466",
+    "tt0953467",
+    "tt0953468",
+    "tt0953460",
+    "tt0007151",
+    "tt1092605",
+    "tt0220288",
+    "tt0008811"
   ],
   "collections": [],
   "is_curated": true,

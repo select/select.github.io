@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/polar-pals-1931",
+      "id": "polar-pals-1931",
       "title": "Polar Pals (1931)",
       "description": "Tom and Jerry are washed ashore in a frigid land inhabited by music-loving animals, including walruses, penguins, and polar bears. Watch on RetroFlix:  https://retroflix.org/polar-pals-1931/",
       "fileSize": 30251196,
-      "id": "polar-pals-1931"
+      "addedAt": "2026-01-07T00:10:21.537Z",
+      "thumbnail": "https://archive.org/services/img/polar-pals-1931",
+      "language": "eng",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 57
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022653",
-      "title": "Barnyard Bunk",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161707",
-      "title": "In the Bag",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151950",
-      "title": "Pots and Pans",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151993",
-      "title": "Plane Dumb",
-      "year": 1932,
-      "imdbRating": 4.1,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152217",
-      "title": "Rocketeers",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023595",
-      "title": "Tightrope Tricks",
-      "year": 1933,
-      "imdbRating": 5,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151161",
-      "title": "Jungle Jam",
-      "year": 1931,
-      "imdbRating": 4.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152780",
-      "title": "A Swiss Trick",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153306",
-      "title": "Trouble",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153942",
-      "title": "Wot a Night",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152550",
-      "title": "A Spanish Twist",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023078",
-      "title": "Jolly Fish",
-      "year": 1932,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022653",
+    "tt0161707",
+    "tt0151950",
+    "tt0151993",
+    "tt0152217",
+    "tt0023595",
+    "tt0151161",
+    "tt0152780",
+    "tt0153306",
+    "tt0153942",
+    "tt0152550",
+    "tt0023078"
   ],
   "collections": [],
   "is_curated": true,

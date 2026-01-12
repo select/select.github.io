@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_silver_trail",
+      "id": "the_silver_trail",
       "title": "Silver Trail, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3927678071,
-      "id": "the_silver_trail"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_silver_trail",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 118281
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=obnT0i20DsU",
+      "id": "obnT0i20DsU",
       "title": "The Silver Trail (1937) REX LEASE",
       "description": "Stars: Rex Lease, Mary Russell, Ed Cassidy\nDirector: Bernard B. Ray\n\nA wandering cowboy attempts to locate a pal who has struck it rich in mining. When he gets to town, no one seems to have heard of the friend. Our hero learns the truth with the aid of a female bandit.",
-      "id": "obnT0i20DsU",
+      "addedAt": "2025-12-26T23:50:35.697Z",
+      "thumbnail": "https://i.ytimg.com/vi/obnT0i20DsU/maxresdefault.jpg",
+      "duration": 3271,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028192",
-      "title": "Roamin' Wild",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168239",
-      "title": "Vengeance of Rannah",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027289",
-      "title": "Ambush Valley",
-      "year": 1936,
-      "imdbRating": 4.4,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027425",
-      "title": "Caryl of the Mountains",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026244",
-      "title": "Coyote Trails",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026935",
-      "title": "Rio Rattler",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183879",
-      "title": "The Test",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026650",
-      "title": "Loser's End",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031940",
-      "title": "Smoky Trails",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026997",
-      "title": "Silent Valley",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026999",
-      "title": "The Silver Bullet",
-      "year": 1935,
-      "imdbRating": 4.4,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0132463",
-      "title": "Rawhide Mail",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0028192",
+    "tt0168239",
+    "tt0027289",
+    "tt0027425",
+    "tt0026244",
+    "tt0026935",
+    "tt0183879",
+    "tt0026650",
+    "tt0031940",
+    "tt0026997",
+    "tt0026999",
+    "tt0132463"
   ],
   "collections": [],
   "is_curated": true,

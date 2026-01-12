@@ -6,26 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1956-the-houston-story-conspiracion-en-houston-william-castle-vose",
+      "id": "1956-the-houston-story-conspiracion-en-houston-william-castle-vose",
       "title": "1956 - The Houston Story - Conspiración en Houston - William Castle - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 366510158,
-      "id": "1956-the-houston-story-conspiracion-en-houston-william-castle-vose"
+      "addedAt": "2026-01-07T00:06:06.563Z",
+      "thumbnail": "https://archive.org/services/img/1956-the-houston-story-conspiracion-en-houston-william-castle-vose",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 1386
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/noir-classics-the-houston-story-1956-gene-barry-barbara-hale-v-oh-jl-943s-i",
+      "id": "noir-classics-the-houston-story-1956-gene-barry-barbara-hale-v-oh-jl-943s-i",
       "title": "The Houston Story (1956) - Full Movie",
       "description": "The Houston Story (1956) - Full Movie - Starring Gene Barry and Barbara Hale",
       "fileSize": 926465057,
-      "id": "noir-classics-the-houston-story-1956-gene-barry-barbara-hale-v-oh-jl-943s-i"
+      "addedAt": "2026-01-07T00:10:02.899Z",
+      "thumbnail": "https://archive.org/services/img/noir-classics-the-houston-story-1956-gene-barry-barbara-hale-v-oh-jl-943s-i",
+      "collection": "feature_films",
+      "downloads": 153
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-houston-story-1956",
+      "id": "the-houston-story-1956",
       "title": "The Houston Story (1956) Gene Barry, Barbara Hale, Edward Arnold",
       "description": "The Houston Story is a 1956 American crime FILM NOlR directed by William Castle and starring Gene Barry, Barbara Hale and Edward Arnold.   You can find out more about this movie from Wikipedia and there are also good reviews of the movie from the movie blogs Bottom of the Barrel and  D for Doom . ",
       "fileSize": 785481943,
-      "id": "the-houston-story-1956"
+      "addedAt": "2026-01-07T00:12:10.588Z",
+      "thumbnail": "https://archive.org/services/img/the-houston-story-1956",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 1622
     }
   ],
   "metadata": {
@@ -43,115 +57,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048420",
-      "title": "New Orleans Uncensored",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043646",
-      "title": "Hollywood Story",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 1060,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043523",
-      "title": "The Fat Man",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042007",
-      "title": "Undertow",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048762",
-      "title": "Unchained",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0047263",
-      "title": "Naked Alibi",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 1585,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052293",
-      "title": "Thunder Road",
-      "year": 1958,
-      "imdbRating": 6.6,
-      "imdbVotes": 4758,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049406",
-      "title": "The Killing",
-      "year": 1956,
-      "imdbRating": 7.9,
-      "imdbVotes": 102237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049904",
-      "title": "The Unguarded Moment",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049955",
-      "title": "The Wild Party",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049769",
-      "title": "Slightly Scarlet",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049636",
-      "title": "The Price of Fear",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 726,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0048420",
+    "tt0043646",
+    "tt0043523",
+    "tt0042007",
+    "tt0048762",
+    "tt0047263",
+    "tt0052293",
+    "tt0049406",
+    "tt0049904",
+    "tt0049955",
+    "tt0049769",
+    "tt0049636"
   ],
   "collections": [],
   "is_curated": true,

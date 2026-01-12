@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RioRattler",
+      "id": "RioRattler",
       "title": "Rio Rattler",
       "description": "A dying Marshal gives his identification papers to Tom Denton (Tom Tyler). After Tom arrives in town, the papers drop and are found during a fight so Tom decides to assume the Marshal's identity. Mason (William Gould), the chief, now sends Rattler (Slim Whitaker), the killer of the Marshal, to also kill Tom. But when he overhears Tom is a fake, they change their plans and now go to arrest Tom for the murder of the Marshal.",
       "fileSize": 1274446709,
-      "id": "RioRattler"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RioRattler",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 14620
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=uEup4voSt8I",
+      "id": "uEup4voSt8I",
       "title": "Rio Rattler (1935) TOM TYLER",
       "description": "Stars: Tom Tyler, Eddie Gribbon, Marion Shilling \nDirector: Bernard B. Ray\n\nA dying Marshal gives his identification papers to Tom. After Tom arrives in town, the papers drop and are found during a fight so Tom decides to assume the Marshal's identity. Mason, the chief, now sends Rattler, the killer of the Marshal, to also kill Tom. But when he overhears Tom is a fake, they change their plans and now go to arrest Tom for the murder of the Marshal.",
-      "id": "uEup4voSt8I",
+      "addedAt": "2025-12-26T23:50:51.067Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/uEup4voSt8I/maxresdefault.webp",
+      "duration": 3134,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026244",
-      "title": "Coyote Trails",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026997",
-      "title": "Silent Valley",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026999",
-      "title": "The Silver Bullet",
-      "year": 1935,
-      "imdbRating": 4.4,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0028192",
-      "title": "Roamin' Wild",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025545",
-      "title": "Mystery Ranch",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0183879",
-      "title": "The Test",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026650",
-      "title": "Loser's End",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168239",
-      "title": "Vengeance of Rannah",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027289",
-      "title": "Ambush Valley",
-      "year": 1936,
-      "imdbRating": 4.4,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027425",
-      "title": "Caryl of the Mountains",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132463",
-      "title": "Rawhide Mail",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030750",
-      "title": "The Silver Trail",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026244",
+    "tt0026997",
+    "tt0026999",
+    "tt0028192",
+    "tt0025545",
+    "tt0183879",
+    "tt0026650",
+    "tt0168239",
+    "tt0027289",
+    "tt0027425",
+    "tt0132463",
+    "tt0030750"
   ],
   "collections": [],
   "is_curated": true,

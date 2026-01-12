@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dracula-1931-colorized",
+      "id": "dracula-1931-colorized",
       "title": "Dracula (1931) Colorized",
       "description": "Dracula (1931) Colorized",
       "fileSize": 1266475622,
-      "id": "dracula-1931-colorized"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dracula-1931-colorized",
+      "collection": "feature_films",
+      "downloads": 1322
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dracula.-1931",
+      "id": "dracula.-1931",
       "title": "Dracula (1931)",
       "description": "Dracula is a 1931 American pre-Code vampire film directed and co-produced by Tod Browning from a screenplay written by Garrett Fort and starring Bela Lugosi in the title role. In te film,  a British solicitor named Renfield travels to Transylvania to meet Count Dracula, who is interested in leasing a castle in London. After becoming Dracula's servant, Renfield accompanies him to London, where Dracula preys on young women, including Renfield's friend Mina, leading to a confrontation with vampire hunter Van Helsing, who ultimately seeks to stop Dracula's reign of terror.",
       "fileSize": 639303018,
-      "id": "dracula.-1931"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dracula.-1931",
+      "language": "eng",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 665
     }
   ],
   "metadata": {
@@ -35,117 +45,18 @@
     "Awards": "5 wins & 3 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018770",
-      "title": "The Fall of the House of Usher",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 4830,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023245",
-      "title": "The Mummy",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 32775,
-      "language": "English, Arabic, French, Egyptian (Ancient)",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2784936",
-      "title": "Backtrack",
-      "year": 2015,
-      "imdbRating": 5.9,
-      "imdbVotes": 14476,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14292086",
-      "title": "Nix",
-      "year": 2022,
-      "imdbRating": 3.8,
-      "imdbVotes": 3337,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0062453",
-      "title": "Viy",
-      "year": 1967,
-      "imdbRating": 7.2,
-      "imdbVotes": 10735,
-      "language": "Russian, Ukrainian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022454",
-      "title": "Svengali",
-      "year": 1931,
-      "imdbRating": 6.8,
-      "imdbVotes": 2606,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054807",
-      "title": "The Devil's Messenger",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012364",
-      "title": "The Phantom Carriage",
-      "year": 1921,
-      "imdbRating": 8,
-      "imdbVotes": 15311,
-      "language": "None, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037635",
-      "title": "Dead of Night",
-      "year": 1945,
-      "imdbRating": 7.5,
-      "imdbVotes": 15012,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016847",
-      "title": "Faust",
-      "year": 1926,
-      "imdbRating": 8.1,
-      "imdbVotes": 17097,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021884",
-      "title": "Frankenstein",
-      "year": 1931,
-      "imdbRating": 7.7,
-      "imdbVotes": 86282,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    }
+    "tt0018770",
+    "tt0023245",
+    "tt2784936",
+    "tt14292086",
+    "tt0062453",
+    "tt0021820",
+    "tt0022454",
+    "tt0054807",
+    "tt0012364",
+    "tt0037635",
+    "tt0016847",
+    "tt0021884"
   ],
   "collections": [
     {

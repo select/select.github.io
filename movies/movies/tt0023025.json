@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Honor_of_the_Press_1932",
+      "id": "Honor_of_the_Press_1932",
       "title": "Honor of the Press",
       "description": "Yet another newspaper yarn.",
       "fileSize": 1142941605,
-      "id": "Honor_of_the_Press_1932"
+      "addedAt": "2026-01-07T00:06:30.619Z",
+      "thumbnail": "https://archive.org/services/img/Honor_of_the_Press_1932",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 3132
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=Cgtc6-dshec",
+      "id": "Cgtc6-dshec",
       "title": "Honor of the Press (1932) PRE-CODE HOLLYWOOD",
       "description": "Stars: Edward J. Nugent, Rita La Roy, Dorothy Gulliver\nDirector: B. Reeves Eason\n\nAfter string of robberies remain unsolved, the owner of the city newspaper blames the police for not rounding up the crooks. But a young reporter discovers that a coded message in the newspaper's editor's box tips the crooks about each robbery!",
-      "id": "Cgtc6-dshec",
+      "addedAt": "2025-12-26T23:47:37.104Z",
+      "thumbnail": "https://i.ytimg.com/vi/Cgtc6-dshec/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBrgSAArADigIMCAAQARhnIGcoZzAP&rs=AOn4CLB6DNGsUqcSoUqb1ckBe7Xy-S0icw",
+      "duration": 3621,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024628",
-      "title": "Sucker Money",
-      "year": 1933,
-      "imdbRating": 4.7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022469",
-      "title": "Ten Cents a Dance",
-      "year": 1931,
-      "imdbRating": 6.5,
-      "imdbVotes": 899,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024120",
-      "title": "Dragnet Girl",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 1133,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021844",
-      "title": "The Exile",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022523",
-      "title": "The Unholy Garden",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024656",
-      "title": "This Day and Age",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022662",
+    "tt0023030",
+    "tt0021770",
+    "tt0024151",
+    "tt0024628",
+    "tt0022469",
+    "tt0021659",
+    "tt0024120",
+    "tt0021844",
+    "tt0022523",
+    "tt0024656",
+    "tt0021239"
   ],
   "collections": [],
   "is_curated": true,

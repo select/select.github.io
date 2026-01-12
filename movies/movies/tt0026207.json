@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/japanese-lanterns-1935",
+      "id": "japanese-lanterns-1935",
       "title": "Japanese Lanterns (1935)",
       "description": "5th Cartoon in the Van Beuren Rainbow Parade Series. Retitled \"Chinese Lanterns\" during World War II. Watch on RetroFlix:  https://retroflix.org/japanese-lanterns-1935/",
       "fileSize": 523425227,
-      "id": "japanese-lanterns-1935"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/japanese-lanterns-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 275
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/japanese-lanterns-in-color",
+      "id": "japanese-lanterns-in-color",
       "title": "Japanese Lanterns",
       "description": "The \"everyday life\" of a  Japanese  family.",
       "fileSize": 523496277,
-      "id": "japanese-lanterns-in-color"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/japanese-lanterns-in-color",
+      "collection": "feature_films",
+      "downloads": 424
     }
   ],
   "metadata": {
@@ -35,112 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027059",
-      "title": "The Sunshine Makers",
-      "year": 1935,
-      "imdbRating": 6.4,
-      "imdbVotes": 298,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149884",
-      "title": "Bird Man",
-      "year": 1935,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150133",
-      "title": "Circus Days",
-      "year": 1935,
-      "imdbRating": 4.6,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151220",
-      "title": "King's Jester",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151609",
-      "title": "Molly Moo-Cow and the Indians",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152324",
-      "title": "Scrappy's Big Moment",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152329",
-      "title": "Scrappy's Ghost Story",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150736",
-      "title": "The Gloom Chasers",
-      "year": 1935,
-      "imdbRating": 4.3,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150968",
-      "title": "The Hot Cha Melody",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150996",
-      "title": "The Hunting Season",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151925",
-      "title": "The Peace Conference",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153627",
-      "title": "A Waif's Welcome",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027059",
+    "tt0149884",
+    "tt0150133",
+    "tt0151220",
+    "tt0151609",
+    "tt0152324",
+    "tt0152329",
+    "tt0150736",
+    "tt0150968",
+    "tt0150996",
+    "tt0151925",
+    "tt0153627"
   ],
   "collections": [
     {

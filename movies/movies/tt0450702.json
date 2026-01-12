@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1919AlfredGouldingTheFloorBelow",
+      "id": "1919AlfredGouldingTheFloorBelow",
       "title": "1919 Alfred Goulding The Floor Below",
       "description": "Film History",
       "fileSize": 231221344,
-      "id": "1919AlfredGouldingTheFloorBelow"
+      "addedAt": "2026-01-07T00:06:00.051Z",
+      "thumbnail": "https://archive.org/services/img/1919AlfredGouldingTheFloorBelow",
+      "collection": "feature_films",
+      "downloads": 1926
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0440280",
-      "title": "The Dippy Dentist",
-      "year": 1920,
-      "imdbRating": 5.5,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010311",
-      "title": "A Jazzed Honeymoon",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 122,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010656",
-      "title": "A Sammy in Siberia",
-      "year": 1919,
-      "imdbRating": 5.6,
-      "imdbVotes": 321,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010321",
-      "title": "Just Neighbors",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009887",
-      "title": "Ask Father",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1276,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008860",
-      "title": "Back to the Woods",
-      "year": 1919,
-      "imdbRating": 5.2,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009932",
-      "title": "Billy Blazes, Esq.",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 971,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009973",
-      "title": "Bumping Into Broadway",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1417,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009986",
-      "title": "Captain Kidd's Kids",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010006",
-      "title": "Chop Suey & Co.",
-      "year": 1919,
-      "imdbRating": 4.7,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010023",
-      "title": "Count Your Change",
-      "year": 1919,
-      "imdbRating": 5.4,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010146",
-      "title": "From Hand to Mouth",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1180,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0440280",
+    "tt0010311",
+    "tt0010656",
+    "tt0010321",
+    "tt0009887",
+    "tt0008860",
+    "tt0009932",
+    "tt0009973",
+    "tt0009986",
+    "tt0010006",
+    "tt0010023",
+    "tt0010146"
   ],
   "collections": [],
   "is_curated": true,

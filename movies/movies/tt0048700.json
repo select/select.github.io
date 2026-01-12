@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Teaserama",
+      "id": "Teaserama",
       "title": "Teaserama",
       "description": "This, uh, documentary is a compilation of performances by strippers and comedians featuring Bettie Page and Tempest Storm. IMDb Page",
       "fileSize": 1420879718,
-      "id": "Teaserama"
+      "addedAt": "2026-01-07T00:06:58.271Z",
+      "thumbnail": "https://archive.org/services/img/Teaserama",
+      "language": "English",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 432147
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048290",
-      "title": "Lay That Rifle Down",
-      "year": 1955,
-      "imdbRating": 5.7,
-      "imdbVotes": 121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135630",
-      "title": "Rock 'n' Roll Revue",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049263",
-      "title": "The Girl Can't Help It",
-      "year": 1956,
-      "imdbRating": 6.8,
-      "imdbVotes": 4260,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049683",
-      "title": "Rock, Pretty Baby!",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185288",
-      "title": "Donde comienzan los pantanos",
-      "year": 1952,
-      "imdbRating": 6.7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051815",
-      "title": "Kermesse",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053291",
-      "title": "Some Like It Hot",
-      "year": 1959,
-      "imdbRating": 8.2,
-      "imdbVotes": 299712,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044119",
-      "title": "That's My Boy",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044222",
-      "title": "Yes Sir, Mr. Bones",
-      "year": 1951,
-      "imdbRating": 5.6,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4887484",
-      "title": "Sailor Beware!",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047900",
-      "title": "Broadway Jungle",
-      "year": 1955,
-      "imdbRating": 2.6,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0048290",
+    "tt0135630",
+    "tt0049263",
+    "tt0049683",
+    "tt0185288",
+    "tt0051815",
+    "tt0053291",
+    "tt0044119",
+    "tt0044222",
+    "tt0024808",
+    "tt4887484",
+    "tt0047900"
   ],
   "collections": [],
   "is_curated": true,

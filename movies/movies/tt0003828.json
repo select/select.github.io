@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-decoy",
+      "id": "silent-the-decoy",
       "title": "The Decoy",
       "fileSize": 301398180,
-      "id": "silent-the-decoy"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-decoy",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 212
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005586",
-      "title": "Keno Bates, Liar",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002497",
-      "title": "So Near, Yet So Far",
-      "year": 1912,
-      "imdbRating": 6.3,
-      "imdbVotes": 119,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0495939",
-      "title": "An American in the Making",
-      "year": 1913,
-      "imdbRating": 4.6,
-      "imdbVotes": 63,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003805",
-      "title": "Cruel, Cruel Love",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 1477,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0444797",
-      "title": "An Elusive Diamond",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0303270",
-      "title": "The Evidence of the Film",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464747",
-      "title": "Those Bitter Sweets",
-      "year": 1915,
-      "imdbRating": 4.6,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234694",
-      "title": "A Serenade by Proxy",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228815",
-      "title": "Santa Claus vs. Cupid",
-      "year": 1915,
-      "imdbRating": 4.8,
-      "imdbVotes": 230,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0005586",
+    "tt0002497",
+    "tt0495939",
+    "tt0003805",
+    "tt0444797",
+    "tt0002784",
+    "tt0002795",
+    "tt0303270",
+    "tt0464747",
+    "tt0234694",
+    "tt0228815",
+    "tt0002381"
   ],
   "collections": [],
   "is_curated": true,

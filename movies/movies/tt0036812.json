@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1945-die-falsche-braut-joe-stockel-josef-eichheim-beppo-brem",
+      "id": "1945-die-falsche-braut-joe-stockel-josef-eichheim-beppo-brem",
       "title": "1945 Die Falsche Braut ( Joe Stöckel, Josef Eichheim, Beppo Brem)",
       "description": "Film aus dem deutschen dritten Reich von 1945. Die falsche Braut.  U.a mit Joe Stöckel,Josef Eichheim und Beppo Brem ",
       "fileSize": 1793725595,
-      "id": "1945-die-falsche-braut-joe-stockel-josef-eichheim-beppo-brem"
+      "addedAt": "2026-01-07T00:06:03.998Z",
+      "thumbnail": "https://archive.org/services/img/1945-die-falsche-braut-joe-stockel-josef-eichheim-beppo-brem",
+      "language": "ger",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 366
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035508",
-      "title": "Der verkaufte Großvater",
-      "year": 1942,
-      "imdbRating": 8.1,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036072",
-      "title": "Die keusche Sünderin",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031053",
-      "title": "Der arme Millionär",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033129",
-      "title": "Das sündige Dorf",
-      "year": 1940,
-      "imdbRating": 7.4,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036299",
-      "title": "Reisebekanntschaft",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 43,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036333",
-      "title": "Schwarz auf Weiß",
-      "year": 1943,
-      "imdbRating": 7.6,
-      "imdbVotes": 59,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0037508",
-      "title": "Along Came Jones",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 2468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038390",
-      "title": "Caesar and Cleopatra",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 3218,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037859",
-      "title": "Lady on a Train",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 2629,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037812",
-      "title": "Idiots Deluxe",
-      "year": 1945,
-      "imdbRating": 7.6,
-      "imdbVotes": 573,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035508",
+    "tt0036072",
+    "tt0233667",
+    "tt0031053",
+    "tt0033129",
+    "tt0036299",
+    "tt0036333",
+    "tt0037960",
+    "tt0037508",
+    "tt0038390",
+    "tt0037859",
+    "tt0037812"
   ],
   "collections": [],
   "is_curated": true,

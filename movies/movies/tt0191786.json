@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-animated-putty",
+      "id": "silent-animated-putty",
       "title": "Animated Putty",
       "fileSize": 88453224,
-      "id": "silent-animated-putty"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-animated-putty",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 11638
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002056",
-      "title": "Prekrasnaya Lyukanida",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 198,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139935",
-      "title": "The Man in the Moon",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 173,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000357",
-      "title": "The Haunted Curiosity Shop",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211928",
-      "title": "Artistic Creation",
-      "year": 1901,
-      "imdbRating": 6.4,
-      "imdbVotes": 201,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212140",
-      "title": "The Extraordinary Waiter",
-      "year": 1902,
-      "imdbRating": 4.8,
-      "imdbVotes": 119,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2627724",
-      "title": "The Magic Sword",
-      "year": 1902,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212596",
-      "title": "The Waif and the Wizard",
-      "year": 1901,
-      "imdbRating": 5.6,
-      "imdbVotes": 127,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000377",
-      "title": "Undressing Extraordinary",
-      "year": 1901,
-      "imdbRating": 6.1,
-      "imdbVotes": 129,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0001527",
+    "tt0131024",
+    "tt0002056",
+    "tt0139938",
+    "tt0432623",
+    "tt0139935",
+    "tt0000357",
+    "tt0211928",
+    "tt0212140",
+    "tt2627724",
+    "tt0212596",
+    "tt0000377"
   ],
   "collections": [],
   "is_curated": true,

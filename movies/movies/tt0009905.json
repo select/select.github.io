@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-barrabas",
+      "id": "silent-barrabas",
       "title": "Barrabas",
       "fileSize": 510563280,
-      "id": "silent-barrabas"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-barrabas",
+      "language": "French",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 2499
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010089",
-      "title": "L'engrenage",
-      "year": 1919,
-      "imdbRating": 7.8,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009894",
-      "title": "The Grey Automobile",
-      "year": 1919,
-      "imdbRating": 7.1,
-      "imdbVotes": 225,
-      "language": "None, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012538",
-      "title": "Outside the Law",
-      "year": 1920,
-      "imdbRating": 6.5,
-      "imdbVotes": 770,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009757",
-      "title": "Vendémiaire",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 65,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209007",
-      "title": "Gustave est médium",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 12,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002844",
-      "title": "Fantômas: In the Shadow of the Guillotine",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 2634,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003165",
-      "title": "Fantômas: The Dead Man Who Killed",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 1306,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003952",
-      "title": "Fantômas: The False Magistrate",
-      "year": 1914,
-      "imdbRating": 6.7,
-      "imdbVotes": 1231,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013086",
-      "title": "Dr. Mabuse, the Gambler",
-      "year": 1922,
-      "imdbRating": 7.8,
-      "imdbVotes": 9645,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009701",
-      "title": "Tih Minh",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 497,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2746744",
-      "title": "Judex: Prologue + L'ombre mystérieuse",
-      "year": 1917,
-      "imdbRating": 6.1,
-      "imdbVotes": 48,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0010089",
+    "tt0006206",
+    "tt0009894",
+    "tt0012538",
+    "tt0009757",
+    "tt0209007",
+    "tt0002844",
+    "tt0003165",
+    "tt0003952",
+    "tt0013086",
+    "tt0009701",
+    "tt2746744"
   ],
   "collections": [],
   "is_curated": true,

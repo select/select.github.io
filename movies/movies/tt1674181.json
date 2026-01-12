@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheGeneralLineeng",
+      "id": "TheGeneralLineeng",
       "title": "The General Line (Eng)",
       "description": "This is the same \"The General Line\" that appears elsewhere on the archive but I have added English inter titles which make it much more accessible. Directed by Sergei Eisenstein and released in 1929, while not one of Eisenstein's best films (it was recut for political reasons and later resored).) it is a lovely portrait of Russian peasant life during the transition from human to mechanized labor.",
       "fileSize": 2814099864,
-      "id": "TheGeneralLineeng"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheGeneralLineeng",
+      "collection": "feature_films",
+      "downloads": 6323
     }
   ],
   "metadata": {
@@ -26,105 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1352822",
-      "title": "575 Castro St.",
-      "year": 2009,
-      "imdbRating": 6.2,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2008667",
-      "title": "The Sweet Sound of Dubbing: Dubbing 'The Sweet Sound of Death'",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1323925",
-      "title": "The Hunt for Gollum",
-      "year": 2009,
-      "imdbRating": 6.7,
-      "imdbVotes": 5766,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9459600",
-      "title": "Silent Traces: Discovering Early Hollywood Through the Films of Charlie Chaplin",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1810688",
-      "title": "Luke Forward: Arizona Wants the F-35 Joint Strike Force Fighter",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1422758",
-      "title": "Steal This Film II",
-      "year": 2007,
-      "imdbRating": 7.3,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt27001610",
-      "title": "Darband",
-      "year": 2007,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1127711",
-      "title": "Resident Evil: Diary of an Apocalypse",
-      "year": 2007,
-      "imdbRating": 7,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1031220",
-      "title": "Building the Bad House: Making 'Penny Dreadful'",
-      "year": 2007,
-      "imdbRating": 8.9,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1642605",
-      "title": "614",
-      "year": 2007,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322334",
-      "title": "Nichts",
-      "year": 2011,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422757",
-      "title": "Steal This Film",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 489,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    }
+    "tt1352822",
+    "tt2008667",
+    "tt1323925",
+    "tt9459600",
+    "tt1810688",
+    "tt1422758",
+    "tt27001610",
+    "tt1127711",
+    "tt1031220",
+    "tt1642605",
+    "tt7322334",
+    "tt1422757"
   ],
   "collections": [],
   "is_curated": true,

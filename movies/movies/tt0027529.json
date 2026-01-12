@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/disorder-court-4-k",
+      "id": "disorder-court-4-k",
       "title": "Disorder In The Court (1936) [Colorized, 4K, 60FPS]",
       "description": "Disorder In The Court is a 1936 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2021 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "fileSize": 1474575653,
-      "id": "disorder-court-4-k"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/disorder-court-4-k",
+      "collection": "feature_films",
+      "downloads": 244
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/disorder-in-the-court-1936",
+      "id": "disorder-in-the-court-1936",
       "title": "Disorder in the Court (1936)",
       "description": "The Stooges are key witnesses at a murder trial. Their friend Gail Tempest,  who dances at the Black Bottom cafe where the Stooges are musicians, is accused of killing Kirk Robin. Watch on RetroFlix:  https://retroflix.org/disorder-in-the-court-1936/",
       "fileSize": 172959863,
-      "id": "disorder-in-the-court-1936"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/disorder-in-the-court-1936",
+      "language": "eng",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 84
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/disorder_in_the_court",
+      "id": "disorder_in_the_court",
       "title": "Disorder in the Court",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 859592920,
-      "id": "disorder_in_the_court"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/disorder_in_the_court",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 330321
     }
   ],
   "metadata": {
@@ -43,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037812",
-      "title": "Idiots Deluxe",
-      "year": 1945,
-      "imdbRating": 7.6,
-      "imdbVotes": 573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0405015",
-      "title": "His Musical Sneeze",
-      "year": 1919,
-      "imdbRating": 6.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035351",
-      "title": "Sock-a-Bye Baby",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039219",
-      "title": "Brideless Groom",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 1297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233391",
-      "title": "The Burglar's Slide for Life",
-      "year": 1905,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011071",
-      "title": "Convict 13",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 3668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027577",
-      "title": "Die Erbschaft",
-      "year": 1936,
-      "imdbRating": 7.8,
-      "imdbVotes": 60,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234981",
-      "title": "Ein verhängnisvolles Geigensolo",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041623",
-      "title": "Malice in the Palace",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 1138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028100",
-      "title": "The Phantom Ship",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027097",
+    "tt0037812",
+    "tt0405015",
+    "tt0035351",
+    "tt0002133",
+    "tt0039219",
+    "tt0233391",
+    "tt0011071",
+    "tt0027577",
+    "tt0234981",
+    "tt0041623",
+    "tt0028100"
   ],
   "collections": [
     {

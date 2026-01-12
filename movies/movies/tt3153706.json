@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_3141",
+      "id": "dipwad2_zoho_3141",
       "title": "314",
       "description": "314 ",
       "fileSize": 8775949035,
-      "id": "dipwad2_zoho_3141"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_3141",
+      "collection": "feature_films",
+      "downloads": 2834
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_314",
+      "id": "rog56_mail_314",
       "title": "314",
       "description": "314",
       "fileSize": 3551837763,
-      "id": "rog56_mail_314"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_314",
+      "collection": "feature_films",
+      "downloads": 3475
     }
   ],
   "metadata": {
@@ -34,111 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3464938",
-      "title": "803",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2889500",
-      "title": "167",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt20216470",
-      "title": "503",
-      "year": 2022,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2971388",
-      "title": "308",
-      "year": 2013,
-      "imdbRating": 5.3,
-      "imdbVotes": 129,
-      "language": "Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2348394",
-      "title": "Home Sweet Home",
-      "year": 2013,
-      "imdbRating": 4.7,
-      "imdbVotes": 1943,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2011276",
-      "title": "Banshee Chapter",
-      "year": 2013,
-      "imdbRating": 5.4,
-      "imdbVotes": 11424,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt1984116",
-      "title": "Backwater",
-      "year": 2013,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2181778",
-      "title": "Milwood",
-      "year": 2013,
-      "imdbRating": 3.1,
-      "imdbVotes": 340,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2625948",
-      "title": "Seventy-Nine",
-      "year": 2013,
-      "imdbRating": 3,
-      "imdbVotes": 218,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2355473",
-      "title": "612",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3122618",
-      "title": "Goodnight My Love",
-      "year": 2012,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1794866",
-      "title": "Meet the Cleavers",
-      "year": 2012,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt3464938",
+    "tt2889500",
+    "tt20216470",
+    "tt2971388",
+    "tt2348394",
+    "tt2011276",
+    "tt1984116",
+    "tt2181778",
+    "tt2625948",
+    "tt2355473",
+    "tt3122618",
+    "tt1794866"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/many-happy-returns-1934",
+      "id": "many-happy-returns-1934",
       "title": "Many Happy Returns (1934)",
       "description": "George Burns, Gracie Allen, Ray Milland, Johnny Arthur, Franklin Pangborn, Guy Lombardo",
       "fileSize": 1585885617,
-      "id": "many-happy-returns-1934"
+      "addedAt": "2026-01-07T00:09:46.427Z",
+      "thumbnail": "https://archive.org/services/img/many-happy-returns-1934",
+      "collection": "feature_films",
+      "downloads": 1163
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025513",
-      "title": "Money Means Nothing",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025619",
-      "title": "Palooka",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026019",
-      "title": "Young and Beautiful",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135175",
-      "title": "Bubbling Over",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025678",
-      "title": "Alexandra",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029682",
-      "title": "Topper",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 8583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279784",
-      "title": "Dora's Dunking Doughnuts",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025194",
-      "title": "Good-bye Love",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026113",
-      "title": "The Big Broadcast of 1936",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032043",
-      "title": "Topper Takes a Trip",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 1544,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0022789",
-      "title": "Crooner",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0024808",
+    "tt0025513",
+    "tt0025619",
+    "tt0026019",
+    "tt0135175",
+    "tt0025678",
+    "tt0029682",
+    "tt0279784",
+    "tt0025194",
+    "tt0026113",
+    "tt0032043",
+    "tt0022789"
   ],
   "collections": [],
   "is_curated": true,

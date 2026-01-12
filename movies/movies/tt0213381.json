@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/duck-and-cover-1952",
+      "id": "duck-and-cover-1952",
       "title": "Duck and Cover (1952)",
       "description": "An instructional short aimed at school-aged children of the early 1950s that combines animation and live-action footage with voice-over narration to explain what to do to increase their chances of surviving the blast from an atomic bomb. Watch on RetroFlix:  https://retroflix.org/duck-and-cover-1952/",
       "fileSize": 111400131,
-      "id": "duck-and-cover-1952"
+      "addedAt": "2026-01-07T00:08:15.376Z",
+      "thumbnail": "https://archive.org/services/img/duck-and-cover-1952",
+      "language": "eng",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 220
     }
   ],
   "metadata": {
@@ -27,106 +33,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041891",
-      "title": "So Much for So Little",
-      "year": 1949,
-      "imdbRating": 6.2,
-      "imdbVotes": 494,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0443784",
-      "title": "Working Dollars",
-      "year": 1956,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5172084",
-      "title": "The Real Miss America",
-      "year": 1952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276867",
-      "title": "Health for the Americas: Cleanliness Brings Health",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019881",
-      "title": "Finding His Voice",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 203,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6056976",
-      "title": "Camouflage",
-      "year": 1944,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155026",
-      "title": "Point Rationing of Foods",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0190806",
-      "title": "The Story of Menstruation",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 548,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt14091630",
+    "tt0041891",
+    "tt0443784",
+    "tt5172084",
+    "tt0276867",
+    "tt0475080",
+    "tt0019881",
+    "tt12606824",
+    "tt16899218",
+    "tt6056976",
+    "tt0155026",
+    "tt0190806"
   ],
   "collections": [],
   "is_curated": true,

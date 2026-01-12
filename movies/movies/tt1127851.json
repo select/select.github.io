@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1234565",
+      "id": "1234565",
       "title": "The Final Word (2009)",
       "description": "Synopsis Moslem Mansouri's second documentary film about the legendary late Ahmad Shamlou, one of the most prominent and influential contemporary Iranian poets. The film is an unseen 55 minutes collection of interviews with the poet and his long time partner, Aida, two years before he died. In his poetry, Mr. Shamlou, spoke consciously of human suffering, injustice and love. Through his distinctive expression of language, he skilfully sided with the oppressed and opposed cruel regimes and their inhumane institutions. Director & Editor: Moslem Mansouri Associate director: Lila Ghobady Online editing: Hossein Arian Producers: Hassan Ahmadi, Moslem Mansouri, Soudabeh Shamlou",
       "fileSize": 112967428,
-      "id": "1234565"
+      "addedAt": "2026-01-07T00:06:00.051Z",
+      "thumbnail": "https://archive.org/services/img/1234565",
+      "collection": "feature_films",
+      "downloads": 651
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0790769",
-      "title": "Kurt Cobain About a Son",
-      "year": 2006,
-      "imdbRating": 7.2,
-      "imdbVotes": 3877,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0782076",
-      "title": "Rap Sheet: Hip-Hop and the Cops",
-      "year": 2006,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1765782",
-      "title": "Depeche Mode: Tour of the Universe - Barcelona 20/21.11.09",
-      "year": 2010,
-      "imdbRating": 8.3,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0770802",
-      "title": "Samsara",
-      "year": 2011,
-      "imdbRating": 8.4,
-      "imdbVotes": 39134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1885205",
-      "title": "Biebermania!",
-      "year": 2011,
-      "imdbRating": 1,
-      "imdbVotes": 2072,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2213002",
-      "title": "Unter falscher Flagge",
-      "year": 2007,
-      "imdbRating": 7.2,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038654",
-      "title": "Jivin' in Be-Bop",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4519562",
-      "title": "Original Motion Picture Soundtrack",
-      "year": 2017,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422758",
-      "title": "Steal This Film II",
-      "year": 2007,
-      "imdbRating": 7.3,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1166827",
-      "title": "Zeitgeist",
-      "year": 2007,
-      "imdbRating": 8.1,
-      "imdbVotes": 48342,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266242",
-      "title": "An All-Star Tribute to Johnny Cash",
-      "year": 1999,
-      "imdbRating": 7.2,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3457782",
-      "title": "China the Dragon Smith the Second Chance",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0790769",
+    "tt0782076",
+    "tt1765782",
+    "tt0770802",
+    "tt1885205",
+    "tt2213002",
+    "tt0038654",
+    "tt4519562",
+    "tt1422758",
+    "tt1166827",
+    "tt0266242",
+    "tt3457782"
   ],
   "collections": [],
   "is_curated": true,

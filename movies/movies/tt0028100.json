@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PhantomShip",
+      "id": "PhantomShip",
       "title": "Phantom Ship",
       "description": "During a horrific storm at sea, the crew realizes that there is a murderer among them who is killing them off one by one. - IMDB Description",
       "fileSize": 1695823796,
-      "id": "PhantomShip"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PhantomShip",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 18182
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PhantomShip-Wrbm",
+      "id": "PhantomShip-Wrbm",
       "title": "Phantom Ship - WRBM",
       "description": "Public Access TV show \"Weirdness Really Bad Movie\" hosts public domain movies and ads clean comedy sketches enjoyable for the whole family. Today's film is the 1935 Bela Lugosi film \"The Phantom Ship\"",
       "fileSize": 8811130344,
-      "id": "PhantomShip-Wrbm"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PhantomShip-Wrbm",
+      "collection": "feature_films",
+      "downloads": 10099
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028492",
-      "title": "Westward Whoa",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027280",
-      "title": "Alpine Antics",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 330,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026481",
-      "title": "Hollywood Capers",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 571,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027622",
-      "title": "Fish Tales",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026182",
-      "title": "A Cartoonist's Nightmare",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027779",
-      "title": "I Love to Singa",
-      "year": 1936,
-      "imdbRating": 7.6,
-      "imdbVotes": 2201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028125",
-      "title": "Porky's Moving Day",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028126",
-      "title": "Porky's Pet",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028245",
-      "title": "Shanghaied Shipmates",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168184",
-      "title": "The Spirit of '43",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029430",
-      "title": "Porky's Road Race",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 428,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024928",
-      "title": "Buddy's Circus",
-      "year": 1934,
-      "imdbRating": 5,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028492",
+    "tt0027280",
+    "tt0026481",
+    "tt0027622",
+    "tt0026182",
+    "tt0027779",
+    "tt0028125",
+    "tt0028126",
+    "tt0028245",
+    "tt0168184",
+    "tt0029430",
+    "tt0024928"
   ],
   "collections": [
     {

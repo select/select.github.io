@@ -6,25 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ConeyIsland1917",
+      "id": "ConeyIsland1917",
       "title": "CONEY ISLAND (1917) -- Roscoe Arbuckle, Buster Keaton, Al St. John",
       "description": "CONEY ISLAND (1917) Starring: Roscoe Arbuckle, Buster Keaton, Al St. John, Alice Mann, Alice Lake, Joe Bordeaux, Jimmy Bryant Written and Directed by Arbuckle Produced by Joseph M. Schenck Wm. Thomas Sherman, wts@gunjones.com, http://www.mn-hp.com",
       "fileSize": 716386781,
-      "id": "ConeyIsland1917"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/ConeyIsland1917",
+      "collection": "feature_films",
+      "downloads": 13709
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ConeyIsland_17",
+      "id": "ConeyIsland_17",
       "title": "Coney Island",
       "description": "Fatty Arbuckle visits the famous amusement park with the assistance of Buster Keaton and Al St john. Arbuckle wrote and directed this comedy in 1917",
       "fileSize": 591123028,
-      "id": "ConeyIsland_17"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/ConeyIsland_17",
+      "collection": "feature_films",
+      "downloads": 10844
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-coney-island",
+      "id": "silent-coney-island",
       "title": "Coney Island",
       "fileSize": 5869130387,
-      "id": "silent-coney-island"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-coney-island",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 704
     }
   ],
   "metadata": {
@@ -42,114 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008500",
-      "title": "A Reckless Romeo",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 244,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008377",
-      "title": "Oh Doctor!",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008874",
-      "title": "The Bell Boy",
-      "year": 1918,
-      "imdbRating": 6.7,
-      "imdbVotes": 1523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009389",
-      "title": "Moonshine",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 964,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008975",
-      "title": "The Cook",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1986,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009899",
-      "title": "Back Stage",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005309",
-      "title": "Fatty and Mabel at the San Diego Exposition",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005753",
-      "title": "Miss Fatty's Seaside Lovers",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0007761",
+    "tt0008112",
+    "tt0008500",
+    "tt0008377",
+    "tt0009123",
+    "tt0009466",
+    "tt0008874",
+    "tt0009389",
+    "tt0008975",
+    "tt0009899",
+    "tt0005309",
+    "tt0005753"
   ],
   "collections": [
     {

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OldBonesOfTheRiver",
+      "id": "OldBonesOfTheRiver",
       "title": "Old Bones of the River",
       "description": "Title: Old Bones of the River Summary: In this British comedy, a professor travels up river in Africa to open schools. But his new pupils are not receptive and when the commander of the local base succumbs to malaria, he takes ... Directed by: Marcel Varnel Actors: Will Hay, Moore Marriott, Graham Moffatt Production Company: Gainsborough Pictures Release Date: December 1938 (UK) Aspect Ratio: 1.37 : 1 In this British comedy, a professor travels up river in Africa to open schools. But his new pupils are not receptive and when the commander of the local base succumbs to malaria, he takes on his duties too. Aided by the crew of the boat he arrived on he starts collecting taxes from the locals!",
       "fileSize": 684436498,
-      "id": "OldBonesOfTheRiver"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OldBonesOfTheRiver",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 3565
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029335",
-      "title": "Oh, Mr. Porter!",
-      "year": 1937,
-      "imdbRating": 7.4,
-      "imdbVotes": 1875,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032125",
-      "title": "Where's That Fire?",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031058",
-      "title": "Ask a Policeman",
-      "year": 1939,
-      "imdbRating": 7.4,
-      "imdbVotes": 1010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028945",
-      "title": "Good Morning, Boys!",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 516,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029853",
-      "title": "Alf's Button Afloat",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029336",
-      "title": "O-Kay for Sound",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031077",
-      "title": "Band Waggon",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028509",
-      "title": "Windbag the Sailor",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 437,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032511",
-      "title": "Gasbags",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 182,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033739",
-      "title": "I Thank You",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034943",
-      "title": "King Arthur Was a Gentleman",
-      "year": 1942,
-      "imdbRating": 5.5,
-      "imdbVotes": 126,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035095",
-      "title": "Much Too Shy",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029335",
+    "tt0032125",
+    "tt0031058",
+    "tt0028945",
+    "tt0029853",
+    "tt0029336",
+    "tt0031077",
+    "tt0028509",
+    "tt0032511",
+    "tt0033739",
+    "tt0034943",
+    "tt0035095"
   ],
   "collections": [],
   "is_curated": true,

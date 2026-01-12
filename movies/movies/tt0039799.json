@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sarge-goes-to-college",
+      "id": "sarge-goes-to-college",
       "title": "Sarge Goes To College",
       "description": "Sarge Goes to College Freddie Stewart, June Pressier, Noel Neill, Frankie Darro, Alan Hale Jr., Frank Cady 1947 Monogram Pictures This is the fifth of eight films in The Teen Agers series.",
       "fileSize": 1248665098,
-      "id": "sarge-goes-to-college"
+      "addedAt": "2026-01-07T00:10:40.952Z",
+      "thumbnail": "https://archive.org/services/img/sarge-goes-to-college",
+      "collection": "feature_films",
+      "downloads": 519
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040803",
-      "title": "Smart Politics",
-      "year": 1948,
-      "imdbRating": 6.7,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039948",
-      "title": "Vacation Days",
-      "year": 1947,
-      "imdbRating": 4.1,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040208",
-      "title": "Campus Sleuth",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040919",
-      "title": "Unfaithfully Yours",
-      "year": 1948,
-      "imdbRating": 7.5,
-      "imdbVotes": 6034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036861",
-      "title": "Ghost Catchers",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036928",
-      "title": "Hot Rhythm",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036922",
-      "title": "Hollywood Canteen",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 2553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039219",
-      "title": "Brideless Groom",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 1297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031440",
-      "title": "Honeymoon in Bali",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 436,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039370",
-      "title": "The Farmer's Daughter",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 2999,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034730",
-      "title": "Fiesta",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 150,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0040803",
+    "tt0039948",
+    "tt0040208",
+    "tt0040919",
+    "tt0036861",
+    "tt0036928",
+    "tt0036922",
+    "tt0024808",
+    "tt0039219",
+    "tt0031440",
+    "tt0039370",
+    "tt0034730"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/graciela-1956",
+      "id": "graciela-1956",
       "title": "Graciela ( 1956)",
       "description": "Graciela  es una película en blanco y negro de  Argentina  dirigida por  Leopoldo Torre Nilsson  sobre el guion de  Arturo Cerretani  según la novela  Nada , de  Carmen Laforet  que se estrenó el 10 de mayo de 1956 y que tuvo como protagonistas a  Elsa Daniel ,  Lautaro Murúa ,  Ilde Pirovano  y  Alba Mujica . El mismo tema había sido tratado en 1947 en la película española  Nada  de  Edgar Neville  con  Conchita Montes  y  Fosco Giachetti . Sinopsis Una joven que llega desde el interior del país para estudiar Filosofía y Letras se aloja en la ciudad en un caserón habitado por una familia en decadencia. Reparto Elsa Daniel  ... Graciela Aliaga Lautaro Murúa  ... Román Aliaga Ilde Pirovano  ... La abuela Alba Mujica  ... Angustias Aliaga Ernesto Bianco  ... Juan Aliaga Alita Román  ... Alicia Salgado Susana Campos  ... Ena Salgado Diana Ingro  ... Gloria Alejandro Rey  ... Friend Frank Nelson  ... Alberto Amalia Britos Alberto Barcel Justo Martínez González Lilian Keller Beto Gianola Mónica Linares",
       "fileSize": 1256785108,
-      "id": "graciela-1956"
+      "addedAt": "2026-01-07T00:08:32.019Z",
+      "thumbnail": "https://archive.org/services/img/graciela-1956",
+      "language": "spa",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 128
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051465",
-      "title": "La caída",
-      "year": 1959,
-      "imdbRating": 7,
-      "imdbVotes": 122,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052174",
-      "title": "El secuestrador",
-      "year": 1958,
-      "imdbRating": 7.3,
-      "imdbVotes": 77,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201867",
-      "title": "El protegido",
-      "year": 1956,
-      "imdbRating": 6,
-      "imdbVotes": 35,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047586",
-      "title": "La tigra",
-      "year": 1954,
-      "imdbRating": 7.2,
-      "imdbVotes": 35,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062388",
-      "title": "Los traidores de San Ángel",
-      "year": 1967,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071238",
-      "title": "Boquitas pintadas",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 281,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056076",
-      "title": "Homenaje a la hora de la siesta",
-      "year": 1962,
-      "imdbRating": 6.5,
-      "imdbVotes": 43,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072878",
-      "title": "La guerra del cerdo",
-      "year": 1975,
-      "imdbRating": 7.2,
-      "imdbVotes": 88,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073542",
-      "title": "Piedra libre",
-      "year": 1976,
-      "imdbRating": 6.9,
-      "imdbVotes": 53,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200742",
-      "title": "Isla brava",
-      "year": 1958,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049783",
-      "title": "The Forty-First",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 1690,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0051465",
+    "tt0052174",
+    "tt0201867",
+    "tt0047586",
+    "tt0062388",
+    "tt0071238",
+    "tt0056076",
+    "tt0072878",
+    "tt0073542",
+    "tt0200742",
+    "tt0049783",
+    "tt0049397"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-charleys-tante-paul-kemp-ida-wust-max-gulstorff-paul-henckels-carola-hohn-eric-ode",
+      "id": "1934-charleys-tante-paul-kemp-ida-wust-max-gulstorff-paul-henckels-carola-hohn-eric-ode",
       "title": "1934 Charleys Tante ( Paul Kemp, Ida Wüst, Max Gülstorff, Paul Henckels, Carola Höhn, Eric Ode)",
       "description": "Film aus dem deutschen dritten Reich von 1934. Charleys Tante. U.a mit Paul Kemp und Ida Wüst ",
       "fileSize": 341414434,
-      "id": "1934-charleys-tante-paul-kemp-ida-wust-max-gulstorff-paul-henckels-carola-hohn-eric-ode"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1934-charleys-tante-paul-kemp-ida-wust-max-gulstorff-paul-henckels-carola-hohn-eric-ode",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 152
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025230",
-      "title": "Heinz im Mond",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 91,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036056",
-      "title": "Johann",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024253",
-      "title": "Ein Lied für dich",
-      "year": 1933,
-      "imdbRating": 7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026401",
-      "title": "Der Gefangene des Königs",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138119",
-      "title": "Susanne im Bade",
-      "year": 1936,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024984",
-      "title": "City Limits",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248745",
-      "title": "Da stimmt was nicht",
-      "year": 1934,
-      "imdbRating": 6.7,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231591",
-      "title": "Der Firmling",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 186,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025927",
-      "title": "Die Töchter ihrer Exzellenz",
-      "year": 1934,
-      "imdbRating": 4.5,
-      "imdbVotes": 39,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025944",
-      "title": "Die vertauschte Braut",
-      "year": 1934,
-      "imdbRating": 8.4,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0025230",
+    "tt0036056",
+    "tt0024253",
+    "tt0026401",
+    "tt0138119",
+    "tt0024808",
+    "tt0024985",
+    "tt0024984",
+    "tt0248745",
+    "tt0231591",
+    "tt0025927",
+    "tt0025944"
   ],
   "collections": [],
   "is_curated": true,

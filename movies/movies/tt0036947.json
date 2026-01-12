@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-most-beautiful",
+      "id": "the-most-beautiful",
       "title": "The Most Beautiful",
       "description": "This portrait of female volunteer workers at an optics plant during World War II, shot on location at the Nippon Kogaku factory, was created with a patriotic agenda. Yet thanks to Akira Kurosawa’s groundbreaking semidocumentary approach,  The Most Beautiful  is a revealing look at Japanese women of the era and anticipates the aesthetics of Japanese cinema’s postwar social realism.",
       "fileSize": 6954544459,
-      "id": "the-most-beautiful"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-most-beautiful",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 11890
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036400",
-      "title": "Sanshiro Sugata",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 6102,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038268",
-      "title": "Sanshiro Sugata, Part Two",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2900,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039090",
-      "title": "No Regrets for Our Youth",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 4157,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041699",
-      "title": "Stray Dog",
-      "year": 1949,
-      "imdbRating": 7.8,
-      "imdbVotes": 20087,
-      "language": "Japanese, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039871",
-      "title": "One Wonderful Sunday",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 3976,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071411",
-      "title": "Dersu Uzala",
-      "year": 1975,
-      "imdbRating": 8.2,
-      "imdbVotes": 35263,
-      "language": "Russian, Chinese",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0057565",
-      "title": "High and Low",
-      "year": 1963,
-      "imdbRating": 8.4,
-      "imdbVotes": 62377,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080979",
-      "title": "Kagemusha: The Shadow Warrior",
-      "year": 1980,
-      "imdbRating": 7.9,
-      "imdbVotes": 40409,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058888",
-      "title": "Red Beard",
-      "year": 1965,
-      "imdbRating": 8.3,
-      "imdbVotes": 22731,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056443",
-      "title": "Sanjuro",
-      "year": 1962,
-      "imdbRating": 8,
-      "imdbVotes": 43691,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042958",
-      "title": "Scandal",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4851,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051808",
-      "title": "The Hidden Fortress",
-      "year": 1958,
-      "imdbRating": 8,
-      "imdbVotes": 44452,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0036400",
+    "tt0038268",
+    "tt0039090",
+    "tt0041699",
+    "tt0039871",
+    "tt0071411",
+    "tt0057565",
+    "tt0080979",
+    "tt0058888",
+    "tt0056443",
+    "tt0042958",
+    "tt0051808"
   ],
   "collections": [
     {

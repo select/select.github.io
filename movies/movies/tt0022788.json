@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/crooked_circle",
+      "id": "crooked_circle",
       "title": "Crooked Circle",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5149985994,
-      "id": "crooked_circle"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/crooked_circle",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 75732
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_crooked_circle_ipod",
+      "id": "the_crooked_circle_ipod",
       "title": "The Crooked Circle",
       "description": "A group secret society of amateur detectives sets out to expose The Crooked Circle, a secretive group of hooded occultists.",
       "fileSize": 814973758,
-      "id": "the_crooked_circle_ipod"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_crooked_circle_ipod",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 30324
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=BOfbGqLfzOE",
+      "id": "BOfbGqLfzOE",
       "title": "The Crooked Circle (1932) PRE-CODE HOLLYWOOD",
       "description": "Stars: Zasu Pitts, James Gleason, Ben Lyon \nDirector: H. Bruce Humberstone\n\nA group of amateur detectives sets out to expose The Crooked Circle, a secretive group of hooded occultists.",
-      "id": "BOfbGqLfzOE",
+      "addedAt": "2025-12-26T23:45:55.223Z",
+      "thumbnail": "https://i.ytimg.com/vi/BOfbGqLfzOE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLD5RZKJANpyREiYZxhxxKQw83UU4Q",
+      "duration": 3562,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023528",
-      "title": "Strangers of the Evening",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 272,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025194",
-      "title": "Good-bye Love",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024545",
-      "title": "The Shadow Laughs",
-      "year": 1933,
-      "imdbRating": 4.1,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024054",
-      "title": "The Ghost Camera",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027923",
-      "title": "Mad Holiday",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025169",
-      "title": "The Ghost Walks",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 663,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0406934",
-      "title": "The Limejuice Mystery or Who Spat in Grandfather's Porridge?",
-      "year": 1930,
-      "imdbRating": 4,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025905",
-      "title": "Transatlantic Merry-Go-Round",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024932",
-      "title": "Bulldog Drummond Strikes Back",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020785",
-      "title": "Conspiracy",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023528",
+    "tt0025194",
+    "tt0228331",
+    "tt0024545",
+    "tt0024054",
+    "tt0027495",
+    "tt0027923",
+    "tt0025169",
+    "tt0406934",
+    "tt0025905",
+    "tt0024932",
+    "tt0020785"
   ],
   "collections": [],
   "is_curated": true,

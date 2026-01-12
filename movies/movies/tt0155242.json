@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/target-snafu-1944",
+      "id": "target-snafu-1944",
       "title": "Target Snafu (1944)",
       "description": "Target Snafu is a 1944 Private Snafu short directed by Frank Tashlin. Watch on RetroFlix.org:  https://retroflix.org/target-snafu-1944/",
       "fileSize": 15708537,
-      "id": "target-snafu-1944"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/target-snafu-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 136
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0154327",
-      "title": "The Chow Hound",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 161,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430088",
-      "title": "A Few Quick Facts",
-      "year": 1944,
-      "imdbRating": 4.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140864",
-      "title": "Booby Traps",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154985",
-      "title": "Outpost",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430087",
-      "title": "A Few Quick Facts: Fear",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034858",
-      "title": "Hobby Horse-Laffs",
-      "year": 1942,
-      "imdbRating": 4.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035202",
-      "title": "Porky's Cafe",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0305983",
-      "title": "Private Snafu Presents Seaman Tarfu in the Navy",
-      "year": 1946,
-      "imdbRating": 5.5,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035557",
-      "title": "Who's Who in the Zoo",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 235,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036603",
-      "title": "Angel Puss",
-      "year": 1944,
-      "imdbRating": 4.7,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154300",
-      "title": "Censored",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 357,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154524",
-      "title": "Gas",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0154327",
+    "tt0430088",
+    "tt0140864",
+    "tt0154985",
+    "tt0430087",
+    "tt0034858",
+    "tt0035202",
+    "tt0305983",
+    "tt0035557",
+    "tt0036603",
+    "tt0154300",
+    "tt0154524"
   ],
   "collections": [],
   "is_curated": true,

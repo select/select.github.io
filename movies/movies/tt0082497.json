@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheHand",
+      "id": "TheHand",
       "title": "The Hand",
       "description": "Who cut off an old man's hand, and then murdered him? Inquiring minds want to know, and so does Scotland Yard. A low budget, independent British production with a large cast. The last fifteen seconds are...well, you'll have to see them for yourself. Directed by Henry Cass. UK release 1960. US release 1961. Complete print. PRODUCTION NOTE: Cast members Ray Cooney and Tony Hilton also co-wrote the screenplay.",
       "fileSize": 1007744030,
-      "id": "TheHand"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheHand",
+      "collection": "feature_films",
+      "downloads": 8014
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "3 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0079082",
-      "title": "The Driller Killer",
-      "year": 1979,
-      "imdbRating": 5.2,
-      "imdbVotes": 8774,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077174",
-      "title": "Are You in the House Alone?",
-      "year": 1978,
-      "imdbRating": 5.6,
-      "imdbVotes": 1471,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1149606",
-      "title": "Nightmare at the End of the Hall",
-      "year": 2008,
-      "imdbRating": 4.6,
-      "imdbVotes": 723,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2741564",
-      "title": "Angelica",
-      "year": 2015,
-      "imdbRating": 4.9,
-      "imdbVotes": 1005,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0090197",
-      "title": "In a Glass Cage",
-      "year": 1986,
-      "imdbRating": 6.7,
-      "imdbVotes": 5376,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036307",
-      "title": "Revenge of the Zombies",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 849,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055478",
-      "title": "Stark Fear",
-      "year": 1962,
-      "imdbRating": 5.5,
-      "imdbVotes": 502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017048",
-      "title": "A Page of Madness",
-      "year": 1926,
-      "imdbRating": 7.3,
-      "imdbVotes": 4788,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038343",
-      "title": "Bedlam",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 4510,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211971",
-      "title": "Born for Hell",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 1026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0995033",
-      "title": "Chicago Massacre: Richard Speck",
-      "year": 2007,
-      "imdbRating": 3.9,
-      "imdbVotes": 790,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0079082",
+    "tt0077174",
+    "tt1149606",
+    "tt2741564",
+    "tt0090197",
+    "tt0036307",
+    "tt0055478",
+    "tt0017048",
+    "tt0038343",
+    "tt0211971",
+    "tt0995033",
+    "tt1763178"
   ],
   "collections": [],
   "is_curated": true,

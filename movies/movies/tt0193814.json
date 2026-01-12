@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/chiruca-1945",
+      "id": "chiruca-1945",
       "title": "Chiruca (1945)",
       "description": "Chiruca  es una película de  Argentina  en blanco y negro dirigida por  Benito Perojo  según guion de  Arturo Cerretani  basada en la obra de  Adolfo Torrado  que se estrenó el 4 de julio de 1945 y que tuvo como protagonistas a  Elisa Christian Galvé ,  Catalina Bárcena ,  Manuel Collado Montes ,  Homero Cárpena  y  Delfy de Ortega . (Wikipedia) Sinopsis Un joven de familia noble cuyos padres fallecieron se encuentra en Argentina cuando se entera de que la fortuna familiar esta en ruina, quien regresa a España para reencontrar a su abuela y su tío y cruzarse con Chiruca una joven muchacha española al servicio de la familia de quien se enamora y descubren la estafa que el administrador de la familia les tendía. Reparto Catalina Bárcena  ... Adelaida, duquesa de Valdoquiño Manuel Collado Montes  ... Sebastián, duque de Valdoquiño Homero Cárpena  ... Vitoso Delfy de Ortega  ... Susy Elisa Christian Galvé  ... Chiruca Eduardo González  ... Fernando Iglesias ,  Tacholas  ... tabernero Carmen Lamas  ... Julia Paquita Más Ricardo Passano  ... Guillermo Enrique San Miguel Santiago Rebull",
       "fileSize": 1505784307,
-      "id": "chiruca-1945"
+      "addedAt": "2026-01-07T00:07:51.622Z",
+      "thumbnail": "https://archive.org/services/img/chiruca-1945",
+      "language": "spa",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 40
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0194375",
-      "title": "Siete mujeres",
-      "year": 1945,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038717",
-      "title": "La maja de los cantares",
-      "year": 1946,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194405",
-      "title": "Stella",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0294287",
-      "title": "La amada inmóvil",
-      "year": 1945,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037629",
-      "title": "La dama duende",
-      "year": 1945,
-      "imdbRating": 7.2,
-      "imdbVotes": 51,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0193802",
-      "title": "La casta Susana",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201273",
-      "title": "Tres hombres del río",
-      "year": 1943,
-      "imdbRating": 7.7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038057",
-      "title": "Scarlet Street",
-      "year": 1945,
-      "imdbRating": 7.7,
-      "imdbVotes": 20501,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037638",
-      "title": "Detour",
-      "year": 1945,
-      "imdbRating": 7.3,
-      "imdbVotes": 20553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037576",
-      "title": "Captain Kidd",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 2181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037547",
-      "title": "Blood on the Sun",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2330,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037179",
-      "title": "A Place of One's Own",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0194375",
+    "tt0038717",
+    "tt0194405",
+    "tt0294287",
+    "tt0037629",
+    "tt0193802",
+    "tt0201273",
+    "tt0038057",
+    "tt0037638",
+    "tt0037576",
+    "tt0037547",
+    "tt0037179"
   ],
   "collections": [],
   "is_curated": true,

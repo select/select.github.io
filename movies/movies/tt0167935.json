@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FightingtoLive",
+      "id": "FightingtoLive",
       "title": "Fighting to Live",
       "description": "When attacked by two dogs, Joe Gilmore (Eddie Phillips) leaves them on the desert to die. Later one of the dogs saves John Blake from drowning. Men arrive claiming the dog is killing their chickens. They want to kill the dog but John convinces them the dog's fate should be determined by a trial.",
       "fileSize": 1404150157,
-      "id": "FightingtoLive"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FightingtoLive",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 3376
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=fOXpt3YNwqQ",
+      "id": "fOXpt3YNwqQ",
       "title": "Fighting to Live (1934) REB RUSSELL",
       "description": "Stars: Reb Russell, Marion Shilling, Steve Pendleton\nDirector: Eddie Cline\n\nAbandoned in the desert, courageous German Shepherd Captain manages to make his way back to town, where the starving dog raids chicken coops to survive. He also saves young lawyer John Blake from drowning. A group of irate farmers capture the canine chicken thief, intent on destroying him. Lawyer Blake intervenes and demands that the noble animal be granted a trial.",
-      "id": "fOXpt3YNwqQ",
+      "addedAt": "2025-12-26T23:46:48.143Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/fOXpt3YNwqQ/maxresdefault.webp",
+      "duration": 2629,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,120 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025073",
-      "title": "The Dude Ranger",
-      "year": 1934,
-      "imdbRating": 6.1,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027202",
-      "title": "When a Man's a Man",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026242",
-      "title": "The Cowboy Millionaire",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0203825",
-      "title": "Range Warfare",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025706",
-      "title": "The Red Rider",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025891",
-      "title": "Thunder Over Texas",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025454",
-      "title": "The Man from Hell",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025639",
-      "title": "Peck's Bad Boy",
-      "year": 1934,
-      "imdbRating": 6.5,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026935",
-      "title": "Rio Rattler",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0176564",
-      "title": "Border Vengeance",
-      "year": 1935,
-      "imdbRating": 4.1,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132900",
-      "title": "The Cheyenne Tornado",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0127656",
-      "title": "Lightning Triggers",
-      "year": 1935,
-      "imdbRating": 4.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0025073",
+    "tt0027202",
+    "tt0026242",
+    "tt0203825",
+    "tt0025706",
+    "tt0025891",
+    "tt0025454",
+    "tt0025639",
+    "tt0026935",
+    "tt0176564",
+    "tt0132900",
+    "tt0127656"
   ],
   "collections": [],
   "is_curated": true,

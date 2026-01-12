@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jungle-man-1941",
+      "id": "jungle-man-1941",
       "title": "Jungle Man (1941)",
       "description": "Buster Crabbe",
       "fileSize": 1285024455,
-      "id": "jungle-man-1941"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/jungle-man-1941",
+      "collection": "feature_films",
+      "downloads": 412
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jungle_man",
+      "id": "jungle_man",
       "title": "Jungle Man",
       "description": "An expedition sets out to darkest Africa to find the fabled City of the Dead, along the way they meet Buster Crabbe doing his best Doc Savage impression as Dr. Robert Hammond, aka Junga.",
       "fileSize": 4136476309,
-      "id": "jungle_man"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/jungle_man",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 163346
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=y1Ei_p35WQI",
+      "id": "y1Ei_p35WQI",
       "title": "Jungle Man (1941) Buster Crabbe - Adventure, Psychotronic Film",
       "description": "An expedition sets out to darkest Africa to find the fabled City of the Dead, and must battle thick jungle, hostile natives, wild animals and a deadly epidemic.\n\nAlso Known As: Drums of Africa\nDirector: Harry L. Fraser \nWriters: Rita Douglas, Rita Douglas \nStars: Buster Crabbe, Charles Middleton, Sheila Darcy\nGenres: Classics, Adventure, Psychotronic \n\n@CultCinemaClassics:\nhttps://www.facebook.com/CultCinemaClassics \nhttps://www.instagram.com/cultcinemaclassics \nhttps://www.twitch.tv/cultcinemaclassics",
-      "id": "y1Ei_p35WQI",
+      "addedAt": "2025-12-27T00:49:58.018Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/y1Ei_p35WQI/maxresdefault.webp?v=635fa46a",
+      "duration": 3665,
+      "language": "en",
+      "year": 1941,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -44,119 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0169253",
-      "title": "Songs and Saddles",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032475",
-      "title": "Flash Gordon Conquers the Universe",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0039987",
-      "title": "The White Gorilla",
-      "year": 1945,
-      "imdbRating": 2.8,
-      "imdbVotes": 560,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133850",
-      "title": "Heroes of the Alamo",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023424",
-      "title": "The Savage Girl",
-      "year": 1932,
-      "imdbRating": 4.3,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183796",
-      "title": "Social Error",
-      "year": 1935,
-      "imdbRating": 4.3,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030138",
-      "title": "Flash Gordon's Trip to Mars",
-      "year": 1938,
-      "imdbRating": 6.9,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034929",
-      "title": "Jungle Siren",
-      "year": 1942,
-      "imdbRating": 3.7,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032902",
-      "title": "Phantom Rancher",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032707",
-      "title": "Lightning Strikes West",
-      "year": 1940,
-      "imdbRating": 7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032164",
-      "title": "Zorro's Fighting Legion",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 480,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033426",
-      "title": "Borrowed Hero",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0169253",
+    "tt0032475",
+    "tt0039987",
+    "tt0133850",
+    "tt0023424",
+    "tt0183796",
+    "tt0030138",
+    "tt0034929",
+    "tt0032902",
+    "tt0032707",
+    "tt0032164",
+    "tt0033426"
   ],
   "collections": [],
   "is_curated": true,

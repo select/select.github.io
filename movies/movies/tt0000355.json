@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fire-1901-directed-by-james-williamson",
+      "id": "fire-1901-directed-by-james-williamson",
       "title": "Fire! (1901) Directed By James Williamson",
       "description": "Fire! (1901) Director: James Williamson Fire! is a 1901 British short silent drama film, directed by James Williamson, showing the occupants of a house in Hove being rescued by the local fire service. Description: This five tableaux film, according to Michael Brooke of Screenonline, \"was one of the very first films to make use of multiple shots edited together to create a chronological sequence propelling a coherent narrative along. Williamson also creates suspense by showing the audience the extent of the fire in the first shot, which heightens the sense of urgency as the fire crew (who lack this privileged information) leave the station and rush to put it out.\" It was released along with Stop Thief! (1901), \"indicating the direction Williamson would take over the next few years, as he refined this new film grammar to tell stories of unprecedented narrative and emotional sophistication.\" \"Brooke also states that it was \"a major influence on a pioneering American film, Edwin S. Porter's Life of an American Fireman (1903), which borrowed Williamson's narrative model and developed it further by introducing close-ups.\"- Production: The director made the film at a derelict house called Ivy Lodge in Hove, where he had previously shot Attack on a China Mission (1900). References: Brooke, Michael. \"Fire!\". BFI Screenonline Database. Retrieved 24 April 2011. -wikipedia",
       "fileSize": 15968190,
-      "id": "fire-1901-directed-by-james-williamson"
+      "addedAt": "2026-01-07T00:08:24.395Z",
+      "thumbnail": "https://archive.org/services/img/fire-1901-directed-by-james-williamson",
+      "year": 1901,
+      "collection": "feature_films",
+      "downloads": 92
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fire",
+      "id": "silent-fire",
       "title": "Fire!",
       "fileSize": 85538668,
-      "id": "silent-fire"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fire",
+      "year": 1901,
+      "collection": "feature_films",
+      "downloads": 431
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0438165",
-      "title": "The Little Match Seller",
-      "year": 1902,
-      "imdbRating": 6.7,
-      "imdbVotes": 499,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132534",
-      "title": "Stop Thief!",
-      "year": 1901,
-      "imdbRating": 5.6,
-      "imdbVotes": 667,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000273",
-      "title": "Attack on a China Mission",
-      "year": 1900,
-      "imdbRating": 5.5,
-      "imdbVotes": 665,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249600",
-      "title": "An Interesting Story",
-      "year": 1904,
-      "imdbRating": 6.8,
-      "imdbVotes": 684,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000416",
-      "title": "Alcohol and Its Victims",
-      "year": 1902,
-      "imdbRating": 5.4,
-      "imdbVotes": 205,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0288468",
-      "title": "Capture of Boer Battery by British",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 212,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234913",
-      "title": "Train Wreckers",
-      "year": 1905,
-      "imdbRating": 5.7,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445338",
-      "title": "The Dude and the Burglars",
-      "year": 1903,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132077",
-      "title": "Daylight Burglary",
-      "year": 1903,
-      "imdbRating": 6,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419034",
-      "title": "Passion Play: Christ Calling Zaccheus from the Tree",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0438165",
+    "tt0132534",
+    "tt0000273",
+    "tt1090274",
+    "tt0249600",
+    "tt0000416",
+    "tt0288468",
+    "tt0234913",
+    "tt0445338",
+    "tt0132077",
+    "tt0419034",
+    "tt0000471"
   ],
   "collections": [],
   "is_curated": true,

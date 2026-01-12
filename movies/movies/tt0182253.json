@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Jacktown_movie_1962",
+      "id": "Jacktown_movie_1962",
       "title": "Jacktown",
       "description": "A young man is charged with statutory rape.",
       "fileSize": 1215794289,
-      "id": "Jacktown_movie_1962"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/Jacktown_movie_1962",
+      "year": 1962,
+      "collection": "feature_films",
+      "downloads": 7194
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=LkePbLpzzjc",
+      "id": "LkePbLpzzjc",
       "title": "Jacktown (1962) PATTY McCOMACK",
       "description": "Movie Class by PizzaFLIX: Patty McCormack began her career as a child actress and is best known for her performance psychological drama THE BAD SEED (1956).\n\nStars: Patty McCormack, Richard Meade, Douglas Rutherford \nWriter/Director: William Martin\n\nA juvenile delinquent is sent to prison after he's caught with an underage girl who lied about her age. Co-stars Patty \"The Bad Seed\" McCormack, the youngest actress to be nominated for an Academy Award.",
-      "id": "LkePbLpzzjc",
+      "addedAt": "2025-12-26T23:43:35.867Z",
+      "thumbnail": "https://i.ytimg.com/vi/LkePbLpzzjc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhdIF0oXTAP&rs=AOn4CLCGp61LRqPLwsVN0dKezfsKhxciuQ",
+      "duration": 3479,
+      "language": "en",
+      "year": 1962,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,113 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0199145",
-      "title": "World Without Shame",
-      "year": 1962,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054803",
-      "title": "Nine Days of One Year",
-      "year": 1962,
-      "imdbRating": 7.5,
-      "imdbVotes": 1296,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0055796",
-      "title": "Billy Budd",
-      "year": 1962,
-      "imdbRating": 7.8,
-      "imdbVotes": 5166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057105",
-      "title": "Caesar the Conqueror",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 287,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055974",
-      "title": "Fallguy",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055019",
-      "title": "The Intruder",
-      "year": 1962,
-      "imdbRating": 7.6,
-      "imdbVotes": 4167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055478",
-      "title": "Stark Fear",
-      "year": 1962,
-      "imdbRating": 5.5,
-      "imdbVotes": 502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056696",
-      "title": "Young and Willing",
-      "year": 1962,
-      "imdbRating": 5.9,
-      "imdbVotes": 180,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054807",
-      "title": "The Devil's Messenger",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056211",
-      "title": "The Magic Sword",
-      "year": 1962,
-      "imdbRating": 4.8,
-      "imdbVotes": 2767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183884",
-      "title": "This Is Not a Test",
-      "year": 1962,
-      "imdbRating": 5.3,
-      "imdbVotes": 923,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055609",
-      "title": "Vulcan, Son of Jupiter",
-      "year": 1962,
-      "imdbRating": 4.2,
-      "imdbVotes": 215,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0199145",
+    "tt0054803",
+    "tt0057105",
+    "tt0055974",
+    "tt0055019",
+    "tt0055478",
+    "tt0056696",
+    "tt0054807",
+    "tt0056211",
+    "tt0183884",
+    "tt0055609",
+    "tt0056693"
   ],
   "collections": [],
   "is_curated": true,

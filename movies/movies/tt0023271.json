@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/night-world-1932-",
+      "id": "night-world-1932-",
       "title": "Night World (1932)",
       "description": "Lew Ayres, Mae Clarke, Boris Karloff",
       "fileSize": 816156194,
-      "id": "night-world-1932-"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/night-world-1932-",
+      "collection": "feature_films",
+      "downloads": 2529
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1932-night-world-hobart-henley-vose",
+      "id": "1932-night-world-hobart-henley-vose",
       "title": "1932 - Night World - Hobart Henley - VOSE",
       "description": "https://derechonoir.wordpress.com",
       "fileSize": 483522673,
-      "id": "1932-night-world-hobart-henley-vose"
+      "addedAt": "2026-01-07T00:06:00.052Z",
+      "thumbnail": "https://archive.org/services/img/1932-night-world-hobart-henley-vose",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 259
     }
   ],
   "metadata": {
@@ -35,116 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021305",
-      "title": "Roadhouse Nights",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023935",
-      "title": "The Death Kiss",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1546,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021890",
-      "title": "The Front Page",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024679",
-      "title": "Tomorrow at Seven",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 393,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023896",
-      "title": "Clear All Wires!",
-      "year": 1933,
-      "imdbRating": 6,
-      "imdbVotes": 185,
-      "language": "French, Russian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024065",
-      "title": "The Girl in 419",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028083",
-      "title": "Panic on the Air",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 121,
-      "language": "Cantonese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021198",
-      "title": "Officer O'Brien",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021508",
-      "title": "Up the River",
-      "year": 1930,
-      "imdbRating": 5.9,
-      "imdbVotes": 1386,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023293",
-      "title": "The Old Dark House",
-      "year": 1932,
-      "imdbRating": 7,
-      "imdbVotes": 13736,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0028748",
-      "title": "The Crime Nobody Saw",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021305",
+    "tt0023935",
+    "tt0021890",
+    "tt0024679",
+    "tt0023896",
+    "tt0024065",
+    "tt0028083",
+    "tt0024985",
+    "tt0021198",
+    "tt0021508",
+    "tt0023293",
+    "tt0028748"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1943-junges-europa-hitler-jugend-filmdokument",
+      "id": "1943-junges-europa-hitler-jugend-filmdokument",
       "title": "1943 Junges Europa ( Hitler Jugend, Filmdokument)",
       "description": "Film(Filmdokument) aus dem deutschen dritten Reich  von 1943. Junges Europa ",
       "fileSize": 237713043,
-      "id": "1943-junges-europa-hitler-jugend-filmdokument"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1943-junges-europa-hitler-jugend-filmdokument",
+      "language": "ger",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 331
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1943-Junges-Europa",
+      "id": "1943-Junges-Europa",
       "title": "1943 - Junges Europa (11m 44s, 640x480)",
       "description": "1943 - Junges Europa (11m 44s, 640x480)",
       "fileSize": 139097895,
-      "id": "1943-Junges-Europa"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1943-Junges-Europa",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 2307
     }
   ],
   "metadata": {
@@ -34,103 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1418816",
-      "title": "Soldaten von morgen",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812201",
-      "title": "Asse zur See",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0145751",
-      "title": "Down with Cats",
-      "year": 1943,
-      "imdbRating": 7.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183205",
-      "title": "How to Fly the P-47: Ground Handling, Take Off, Normal Flight",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0145954",
-      "title": "Pandora's Box",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152406",
-      "title": "Shipyard Symphony",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151343",
-      "title": "The Lion and the Mouse",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184967",
-      "title": "Troop Train",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1418816",
+    "tt0812201",
+    "tt13364232",
+    "tt0896825",
+    "tt12816892",
+    "tt0145751",
+    "tt0183205",
+    "tt12606824",
+    "tt0145954",
+    "tt0152406",
+    "tt0151343",
+    "tt0184967"
   ],
   "collections": [],
   "is_curated": true,

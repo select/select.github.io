@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_918",
+      "id": "rog56_mail_918",
       "title": "918",
       "description": "918",
       "fileSize": 13271750314,
-      "id": "rog56_mail_918"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_918",
+      "collection": "feature_films",
+      "downloads": 10478
     }
   ],
   "metadata": {
@@ -26,110 +30,18 @@
     "Awards": "2 wins & 2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt15677286",
-      "title": "Send It",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt15876060",
-      "title": "Eastwood",
-      "year": 2021,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt9012126",
-      "title": "Rinse at 590",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14556014",
-      "title": "Four Roads",
-      "year": 2020,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt29232239",
-      "title": "Saint Rita Catholic Church: At 100 Years",
-      "year": 2023,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt12618064",
-      "title": "Buck Southworth: U.S. Air Force Flight Crew",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt4538674",
-      "title": "American 965",
-      "year": 2021,
-      "imdbVotes": 34,
-      "language": "Spanish, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt17493304",
-      "title": "The PragerU Story - Full Documentary",
-      "year": 2021,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt5123942",
-      "title": "River's End: California's Latest Water War",
-      "year": 2021,
-      "imdbRating": 8.1,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt13649700",
-      "title": "Crack: Cocaine, Corruption & Conspiracy",
-      "year": 2021,
-      "imdbRating": 6.7,
-      "imdbVotes": 4000,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14552076",
-      "title": "MLK: The Conspiracies",
-      "year": 2021,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt14583726",
-      "title": "Catching a Serial Killer: Bruce McArthur",
-      "year": 2021,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt15677286",
+    "tt15876060",
+    "tt9012126",
+    "tt14556014",
+    "tt29232239",
+    "tt12618064",
+    "tt4538674",
+    "tt17493304",
+    "tt5123942",
+    "tt13649700",
+    "tt14552076",
+    "tt14583726"
   ],
   "collections": [],
   "is_curated": true,

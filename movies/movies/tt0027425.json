@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/caryl_of_the_mountains",
+      "id": "caryl_of_the_mountains",
       "title": "Caryl of the Mountains",
       "description": "Rin Tin Tin, Jr. helps mounties find the killer of a fur trapper. You can find more information regarding this film on its IMDb page .",
       "fileSize": 4391405805,
-      "id": "caryl_of_the_mountains"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/caryl_of_the_mountains",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 57702
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/caryl_of_the_mountains_ipod",
+      "id": "caryl_of_the_mountains_ipod",
       "title": "Caryl of the Mountains",
       "description": "Rin Tin Tin, Jr. helps mounties find the killer of a fur trapper.",
       "fileSize": 1113592975,
-      "id": "caryl_of_the_mountains_ipod"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/caryl_of_the_mountains_ipod",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 20892
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=COITwpOVoyQ",
+      "id": "COITwpOVoyQ",
       "title": "Caryl of the Mountains (1936) RIN TIN TIN",
       "description": "Stars: Ralph Bushman, Lois Wilde, Josef Swickard \nDirector: Bernard B. Ray\n\nFunds are embezzled and a fur trapper is murdered. Rin Tin Tin to the rescue!",
-      "id": "COITwpOVoyQ",
+      "addedAt": "2025-12-26T23:49:48.582Z",
+      "thumbnail": "https://i.ytimg.com/vi/COITwpOVoyQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB7gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBTygcGy9eHbgf7wo1a9ccfa1eaqQ",
+      "duration": 3562,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,118 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0168239",
-      "title": "Vengeance of Rannah",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183879",
-      "title": "The Test",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028192",
-      "title": "Roamin' Wild",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027289",
-      "title": "Ambush Valley",
-      "year": 1936,
-      "imdbRating": 4.4,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026244",
-      "title": "Coyote Trails",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026935",
-      "title": "Rio Rattler",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026650",
-      "title": "Loser's End",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026997",
-      "title": "Silent Valley",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030750",
-      "title": "The Silver Trail",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026999",
-      "title": "The Silver Bullet",
-      "year": 1935,
-      "imdbRating": 4.4,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0132463",
-      "title": "Rawhide Mail",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025545",
-      "title": "Mystery Ranch",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0168239",
+    "tt0183879",
+    "tt0028192",
+    "tt0027289",
+    "tt0026244",
+    "tt0026935",
+    "tt0026650",
+    "tt0026997",
+    "tt0030750",
+    "tt0026999",
+    "tt0132463",
+    "tt0025545"
   ],
   "collections": [],
   "is_curated": true,

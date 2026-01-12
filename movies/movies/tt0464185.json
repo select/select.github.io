@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/savage-journey-1983",
+      "id": "savage-journey-1983",
       "title": "Savage Journey (1983)",
       "description": "They forged a new land in the untamed wilderness - with their heart, their hands, and their faith in god. Watch on RetroFlix:  https://retroflix.org/savage-journey-1983/",
       "fileSize": 597248443,
-      "id": "savage-journey-1983"
+      "addedAt": "2026-01-07T00:10:40.952Z",
+      "thumbnail": "https://archive.org/services/img/savage-journey-1983",
+      "language": "eng",
+      "year": 1983,
+      "collection": "feature_films",
+      "downloads": 293
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039181",
-      "title": "Bells of San Fernando",
-      "year": 1947,
-      "imdbRating": 5.1,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041340",
-      "title": "Eureka Stockade",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162496",
-      "title": "Nobleza gaucha",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037969",
-      "title": "Pampa bárbara",
-      "year": 1945,
-      "imdbRating": 6.9,
-      "imdbVotes": 118,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201906",
-      "title": "Santos Vega vuelve",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008319",
-      "title": "A Mormon Maid",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086251",
-      "title": "The Scarlet and the Black",
-      "year": 1983,
-      "imdbRating": 7.5,
-      "imdbVotes": 4073,
-      "language": "Latin, English, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086497",
-      "title": "Utu",
-      "year": 1983,
-      "imdbRating": 6.9,
-      "imdbVotes": 1285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048805",
-      "title": "White Feather",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 1195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086891",
-      "title": "Anatomy of an Illness",
-      "year": 1984,
-      "imdbRating": 6.4,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086915",
-      "title": "Asesinato en el senado de la nación",
-      "year": 1984,
-      "imdbRating": 7,
-      "imdbVotes": 189,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082443",
-      "title": "Genocide",
-      "year": 1982,
-      "imdbRating": 7.3,
-      "imdbVotes": 720,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039181",
+    "tt0162496",
+    "tt0037969",
+    "tt0201906",
+    "tt0008319",
+    "tt0086251",
+    "tt0086497",
+    "tt0048805",
+    "tt0086891",
+    "tt0086915",
+    "tt0082443",
+    "tt0085622"
   ],
   "collections": [],
   "is_curated": true,

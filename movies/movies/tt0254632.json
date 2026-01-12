@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/operation.-manhunt.-1954.-dvdrip-no-grp",
+      "id": "operation.-manhunt.-1954.-dvdrip-no-grp",
       "title": "Operation Manhunt (1954)",
       "description": "Harry Townes Igor Gozenko",
       "fileSize": 963934343,
-      "id": "operation.-manhunt.-1954.-dvdrip-no-grp"
+      "addedAt": "2026-01-07T00:10:12.692Z",
+      "thumbnail": "https://archive.org/services/img/operation.-manhunt.-1954.-dvdrip-no-grp",
+      "collection": "feature_films",
+      "downloads": 599
     }
   ],
   "metadata": {
@@ -27,119 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015648",
-      "title": "Battleship Potemkin",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 63373,
-      "language": "None, Russian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0047505",
-      "title": "The Sleeping Tiger",
-      "year": 1954,
-      "imdbRating": 6.5,
-      "imdbVotes": 1432,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047205",
-      "title": "Make Haste to Live",
-      "year": 1954,
-      "imdbRating": 5.9,
-      "imdbVotes": 364,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047296",
-      "title": "On the Waterfront",
-      "year": 1954,
-      "imdbRating": 8.1,
-      "imdbVotes": 172324,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047040",
-      "title": "The Good Die Young",
-      "year": 1954,
-      "imdbRating": 6.7,
-      "imdbVotes": 1553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047443",
-      "title": "Salt of the Earth",
-      "year": 1954,
-      "imdbRating": 7.3,
-      "imdbVotes": 4307,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046851",
-      "title": "A Story from Chikamatsu",
-      "year": 1954,
-      "imdbRating": 8,
-      "imdbVotes": 5044,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178536",
-      "title": "El grito sagrado",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3300980",
-      "title": "The 12th Man",
-      "year": 2017,
-      "imdbRating": 7.3,
-      "imdbVotes": 30752,
-      "language": "Norwegian, German, English, Saami",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1691153",
-      "title": "Return to the Hiding Place",
-      "year": 2013,
-      "imdbRating": 4.9,
-      "imdbVotes": 802,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0046731",
-      "title": "Attila",
-      "year": 1954,
-      "imdbRating": 5.4,
-      "imdbVotes": 806,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0045473",
-      "title": "Admiral Ushakov",
-      "year": 1953,
-      "imdbRating": 7.3,
-      "imdbVotes": 224,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0015648",
+    "tt0047505",
+    "tt0047205",
+    "tt0047296",
+    "tt0047040",
+    "tt0047443",
+    "tt0046851",
+    "tt0178536",
+    "tt3300980",
+    "tt1691153",
+    "tt0046731",
+    "tt0045473"
   ],
   "collections": [],
   "is_curated": true,

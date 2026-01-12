@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/heroes-sin-fama-1940",
+      "id": "heroes-sin-fama-1940",
       "title": "Heroes Sin Fama (1940)",
       "description": "Héroes sin fama  es una película  argentina  en blanco y negro dirigida por  Mario Soffici  con guion de  Carlos A. Olivari  y  Sixto Pondal Ríos  que fue estrenada el 10 de abril de 1940 y cuyos principales intérpretes fueron  María Esther Buschiazzo ,  Rufino Córdoba ,  Elisa Galvé ,  Adolfo Linvel ,  Ángel Magaña ,  Federico Mansilla  y  José Olarra . (Wikipedia) Sinopsis Historia matizada con algunos apuntes risueños y una convincente pintura costumbrista que tiene como trasfondo la lucha del periodismo libre contra el fraude, la intimidación, la extorsión y los crímenes políticos de los años 30 en la Argentina. Don Torcuato Goyena (José Olarra) es un farmacéutico a quien don Rosales (Federico Mansilla), el caudillo del pueblo de San Carlos llevó al cargo de intendente en elecciones fraudulentas pues pretende utilizarlo para obtener beneficio. Don Torcuato, que cree de buena fe que puede ser útil, había aceptado el cargo en contra de los consejos de Jacinto Lucero (Rufino Córdoba), el propietario del diario del pueblo, que le sugirió no meterse en política y quedarse en su profesión. Su primer proyecto es crear una biblioteca y cuando le advierten que en San Carlos \"nadie lee”, contesta \"por eso la fundo, para que lea\". Luego propone asfaltar las calles céntricas del pueblo pero cuando la empresa adjudicataria le da un cheque por $20,000 como retribución, recién advierte que la obra encubría un negociado. En tanto, el diario es asaltado por una patota que asesina a Jacinto Lucero cuando había decidido denunciar la corrupción en la que se hacía la pavimentación. Don Torcuato decide entonces desenmascarar a los corruptos que lo rodean, incluyendo a don Rosales. Reparto Gloria Bayardo Cayetano Biondo María Esther Buschiazzo  …María Lucero Rufino Córdoba  …Jacinto Lucero Elisa Galvé  ...Aurora Goyena Adolfo Linvel Ángel Magaña  ...Enrique Lucero Federico Mansilla  … Don Rosales José Olarra  …Don Torcuato Goyena Joaquín Petrocino Leticia Scury Marino Seré  … Ordóñez Félix Tortorelli",
       "fileSize": 1147738652,
-      "id": "heroes-sin-fama-1940"
+      "addedAt": "2026-01-07T00:08:39.345Z",
+      "thumbnail": "https://archive.org/services/img/heroes-sin-fama-1940",
+      "language": "spa",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 38
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0201295",
-      "title": "Vacaciones en el otro mundo",
-      "year": 1942,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179545",
-      "title": "Yo quiero morir contigo",
-      "year": 1941,
-      "imdbRating": 6.9,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200775",
-      "title": "Kilómetro 111",
-      "year": 1938,
-      "imdbRating": 7.1,
-      "imdbVotes": 69,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200983",
-      "title": "Propiedad",
-      "year": 1962,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178336",
-      "title": "Cita en la frontera",
-      "year": 1940,
-      "imdbRating": 6.7,
-      "imdbVotes": 11,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0176049",
-      "title": "Prisioneros de la tierra",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 343,
-      "language": "Guarani, Spanish, Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032428",
-      "title": "East Side Kids",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 292,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032717",
-      "title": "Little Men",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 402,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034064",
-      "title": "Pride of the Bowery",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 651,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033058",
-      "title": "Sky Bandits",
-      "year": 1940,
-      "imdbRating": 5.3,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0201295",
+    "tt0179545",
+    "tt0200775",
+    "tt0200983",
+    "tt0178336",
+    "tt0176049",
+    "tt0032599",
+    "tt0032343",
+    "tt0032428",
+    "tt0032717",
+    "tt0034064",
+    "tt0033058"
   ],
   "collections": [],
   "is_curated": true,

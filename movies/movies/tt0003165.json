@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fantmas-the-dead-man-who-killed",
+      "id": "silent-fantmas-the-dead-man-who-killed",
       "title": "Fantômas: The Dead Man Who Killed",
       "fileSize": 7586823045,
-      "id": "silent-fantmas-the-dead-man-who-killed"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fantmas-the-dead-man-who-killed",
+      "language": "French",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 1115
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002844",
-      "title": "Fantômas: In the Shadow of the Guillotine",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 2634,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003952",
-      "title": "Fantômas: The False Magistrate",
-      "year": 1914,
-      "imdbRating": 6.7,
-      "imdbVotes": 1231,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173837",
-      "title": "Filibus",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 431,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209437",
-      "title": "Le trust, ou les batailles de l'argent",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208496",
-      "title": "La tare",
-      "year": 1911,
-      "imdbRating": 5.8,
-      "imdbVotes": 133,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204626",
-      "title": "The Watcher",
-      "year": 2000,
-      "imdbRating": 5.3,
-      "imdbVotes": 29163,
-      "language": "English, Vietnamese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3319920",
-      "title": "Regression",
-      "year": 2015,
-      "imdbRating": 5.6,
-      "imdbVotes": 44155,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0044314",
-      "title": "5 Fingers",
-      "year": 1952,
-      "imdbRating": 7.6,
-      "imdbVotes": 5573,
-      "language": "English, German, Portuguese, Turkish, French",
-      "sourceType": "archive.org"
-    }
+    "tt0002844",
+    "tt0003952",
+    "tt0207954",
+    "tt0173837",
+    "tt0209437",
+    "tt0006206",
+    "tt0208496",
+    "tt0038494",
+    "tt0028231",
+    "tt0204626",
+    "tt3319920",
+    "tt0044314"
   ],
   "collections": [],
   "is_curated": true,

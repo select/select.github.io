@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dicksonfilmtwo",
+      "id": "dicksonfilmtwo",
       "title": "Dickson Experimental Sound Film",
       "description": "This short film was a test for Edison's \"Kinetophone\" project, the first attempt in history to record sound and moving image in synchronization. This was an experiment by William Dickson to put sound and film together either in 1894 or 1895. Unfortunately, this experiment failed because they didn't understand synchronization of sound and film. The large cone on the left hand side of the frame is the \"microphone\" for the wax cylinder recorder (off-camera). The Library of Congress had the film. The wax cylinder soundtrack, however, was believed lost for many years. Tantalizingly, a broken cylinder labeled \"Violin by WKL Dickson with Kineto\" was catalogued in the 1964 inventory at the Edison National Historic Site. In 1998, Patrick Loughney, curator of Film and Television at the Library of Congress, retrieved the cylinder and had it repaired and re-recorded at the Rodgers and Hammerstein Archive of Recorded Sound, Lincoln Center, New York. Since the Library did not possess the necessary synchronizing technology, Loughney - at the suggestion of producer Rick Schmidlin - sent multi-Oscar winner Walter Murch a videotape of the 17 seconds of film and an audiocassette of 3 minutes and 20 seconds of sound with a request to marry the two. By digitizing the media and using digital editing software, Murch was able to synchronize them and complete the failed experiment 105 years later. This 35mm film was generously made available to the Internet Archive by Walter Murch and Sean Cullen.",
       "fileSize": 155820441,
-      "id": "dicksonfilmtwo"
+      "addedAt": "2026-01-07T00:08:07.355Z",
+      "thumbnail": "https://archive.org/services/img/dicksonfilmtwo",
+      "collection": "feature_films",
+      "downloads": 30640
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000001",
-      "title": "Carmencita",
-      "year": 1894,
-      "imdbRating": 5.7,
-      "imdbVotes": 2106,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279784",
-      "title": "Dora's Dunking Doughnuts",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0487250",
-      "title": "Captain EO Promo & Pre-show",
-      "year": 1986,
-      "imdbRating": 7.5,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13576174",
-      "title": "Dokhtar",
-      "year": 2018,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135630",
-      "title": "Rock 'n' Roll Revue",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326158",
-      "title": "Sioux Ghost Dance",
-      "year": 1894,
-      "imdbRating": 5.2,
-      "imdbVotes": 841,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037792",
-      "title": "The House I Live In",
-      "year": 1945,
-      "imdbRating": 6.4,
-      "imdbVotes": 700,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1503085",
-      "title": "A Musicale Melange",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017268",
-      "title": "A Plantation Act",
-      "year": 1926,
-      "imdbRating": 5.6,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017896",
-      "title": "A Ziegfeld Midnight Frolic",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0000001",
+    "tt0279784",
+    "tt13576174",
+    "tt0135630",
+    "tt0326158",
+    "tt0037792",
+    "tt1503085",
+    "tt0017268",
+    "tt0017896",
+    "tt1706294",
+    "tt1698474",
+    "tt8312534"
   ],
   "collections": [],
   "is_curated": true,

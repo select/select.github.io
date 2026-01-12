@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-girl-in-every-port_1928",
+      "id": "a-girl-in-every-port_1928",
       "title": "A Girl in Every Port",
       "fileSize": 2752097577,
-      "id": "a-girl-in-every-port_1928"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/a-girl-in-every-port_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 831
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017925",
-      "title": "The General",
-      "year": 1926,
-      "imdbRating": 8.1,
-      "imdbVotes": 104099,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015772",
-      "title": "The Eagle",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 2212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020234",
-      "title": "Oh, Yeah?",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015163",
-      "title": "The Navigator",
-      "year": 1924,
-      "imdbRating": 7.5,
-      "imdbVotes": 11273,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046414",
-      "title": "Beat the Devil",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 10677,
-      "language": "Arabic, English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0066565",
-      "title": "White Sun of the Desert",
-      "year": 1970,
-      "imdbRating": 7.7,
-      "imdbVotes": 8323,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0039133",
-      "title": "Adventure Island",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023808",
-      "title": "The Big Chance",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031124",
-      "title": "Bulldog Drummond's Bride",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 542,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0019987",
+    "tt0017925",
+    "tt0015772",
+    "tt0020234",
+    "tt0023243",
+    "tt0015163",
+    "tt0041098",
+    "tt0046414",
+    "tt0066565",
+    "tt0039133",
+    "tt0023808",
+    "tt0031124"
   ],
   "collections": [],
   "is_curated": true,

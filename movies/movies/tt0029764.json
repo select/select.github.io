@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhensYourBirthday",
+      "id": "WhensYourBirthday",
       "title": "When's Your Birthday?",
       "description": "Dustin Willoughby (Joe E. Brown) a prizefighter and a strong believer in horoscopes/astrology wins only when his astrological signs are just right, a talent he also uses to pick winning horses.",
       "fileSize": 1883713191,
-      "id": "WhensYourBirthday"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhensYourBirthday",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 65369
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=kcOGZUD75Zw",
+      "id": "kcOGZUD75Zw",
       "title": "When's Your Birthday? (1937) JOE E. BROWN",
       "description": "Stars: Joe E. Brown, Marian Marsh and Fred Keating\nDirector: Harry Beaumont\n\nSome shady characters discover that a sad sack nightclub bus boy has the ability to predict outcomes of races and other events through astrology.",
-      "id": "kcOGZUD75Zw",
+      "addedAt": "2025-12-26T23:57:59.618Z",
+      "thumbnail": "https://i.ytimg.com/vi/kcOGZUD75Zw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBlHRgsqxpXEZ3i-CnhcsgU0RkZDw",
+      "duration": 4537,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,113 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0178313",
-      "title": "El cañonero de Giles",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029364",
-      "title": "Over the Goal",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027969",
-      "title": "The Milky Way",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 1814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026480",
-      "title": "Hold 'Em Yale",
-      "year": 1935,
-      "imdbRating": 6.4,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031055",
-      "title": "The Arsenal Stadium Mystery",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 775,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029488",
-      "title": "Riding on Air",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028876",
-      "title": "Fit for a King",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 136,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033144",
-      "title": "That Gang of Mine",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 567,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027562",
-      "title": "Earthworm Tractors",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 516,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027519",
-      "title": "The Devil on Horseback",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0178313",
+    "tt0029364",
+    "tt0027969",
+    "tt0129972",
+    "tt0027097",
+    "tt0026480",
+    "tt0031055",
+    "tt0029488",
+    "tt0028876",
+    "tt0033144",
+    "tt0027562",
+    "tt0027519"
   ],
   "collections": [],
   "is_curated": true,

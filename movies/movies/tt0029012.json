@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Hollywood_Stadium_Mystery_1938",
+      "id": "Hollywood_Stadium_Mystery_1938",
       "title": "Hollywood Stadium Mystery",
       "description": "A boxer is killed in the ring by poison.",
       "fileSize": 1839080612,
-      "id": "Hollywood_Stadium_Mystery_1938"
+      "addedAt": "2026-01-07T00:06:30.619Z",
+      "thumbnail": "https://archive.org/services/img/Hollywood_Stadium_Mystery_1938",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 23030
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=n67Y3Dx7N2U",
+      "id": "n67Y3Dx7N2U",
       "title": "Hollywood Stadium Mystery (1938) FIGHT FILM",
       "description": "Stars: Neil Hamilton, Evelyn Venable, Jimmy Wallington\n Director: David Howard\n\n A boxer is killed in the ring, and the only clue is a tune that a man was whistling.",
-      "id": "n67Y3Dx7N2U",
+      "addedAt": "2025-12-26T23:49:27.369Z",
+      "thumbnail": "https://i.ytimg.com/vi/n67Y3Dx7N2U/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB-ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBPa2vwuoVa03uViYDijC3DSb_q6A",
+      "duration": 3175,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029376",
-      "title": "Park Avenue Logger",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027384",
-      "title": "The Border Patrolman",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030727",
-      "title": "Secrets of an Actress",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028360",
-      "title": "The 13th Man",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028668",
-      "title": "Bulldog Drummond Escapes",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 1020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031125",
-      "title": "Bulldog Drummond's Secret Police",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 672,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028788",
-      "title": "Dinner at the Ritz",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031495",
-      "title": "Irish Luck",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029159",
-      "title": "London by Night",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032077",
-      "title": "Undercover Doctor",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029364",
-      "title": "Over the Goal",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029376",
+    "tt0027384",
+    "tt0029855",
+    "tt0030727",
+    "tt0028360",
+    "tt0028668",
+    "tt0031125",
+    "tt0028788",
+    "tt0031495",
+    "tt0029159",
+    "tt0032077",
+    "tt0029364"
   ],
   "collections": [],
   "is_curated": true,

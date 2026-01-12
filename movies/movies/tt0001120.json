@@ -6,10 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AsItIsInLife1910",
+      "id": "AsItIsInLife1910",
       "title": "\"As It Is in Life\" (1910) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     \"As It Is in Life\" is a short drama, included in our program to illustrate the work of Billy Bitzer, a star of Silent Hall of Fame. After raising his daughter alone, a man expects in vain that she will stay with him. Directed by               D. W. Griffith Produced by             Biograph Company Scenario by                Stanner E.V. Taylor       Starring                     George Nichols, Gladys Egan, Mary Pickford, Marion Leonard, Charles West Cinematography        Billy Bitzer Distributed by           The General Film Company, Incorporated Release date               April 4, 1910 Running time             12 min. Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 299748873,
-      "id": "AsItIsInLife1910"
+      "addedAt": "2026-01-07T00:06:09.635Z",
+      "thumbnail": "https://archive.org/services/img/AsItIsInLife1910",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 14116
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/AsItIsInLife",
+      "id": "AsItIsInLife",
+      "title": "As It Is In Life",
+      "description": "As It Is In Life is a short 1910 piece by D W Griffith starring Mary Pickford. It is a slight little piece but easy to watch particularly for the scenes in an actual pigeon farm.",
+      "fileSize": 276955050,
+      "addedAt": "2026-01-07T00:06:09.635Z",
+      "thumbnail": "https://archive.org/services/img/AsItIsInLife",
+      "collection": "feature_films",
+      "downloads": 2255
     }
   ],
   "metadata": {
@@ -27,117 +44,21 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001118",
-      "title": "An Arcadian Maid",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 218,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001431",
-      "title": "The Unchanging Sea",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 916,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001326",
-      "title": "The Modern Prodigal",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 64,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001245",
-      "title": "Her Terrible Ordeal",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001262",
-      "title": "In Life's Cycle",
-      "year": 1910,
-      "imdbRating": 5.2,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001315",
-      "title": "The Message of the Violin",
-      "year": 1910,
-      "imdbRating": 6.9,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001401",
-      "title": "The Sorrows of the Unfaithful",
-      "year": 1910,
-      "imdbRating": 6.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001439",
-      "title": "The Usurer",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 277,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001385",
-      "title": "The Rocky Road",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001072",
-      "title": "A Trap for Santa Claus",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 409,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001510",
-      "title": "Bobby, the Coward",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001118",
+    "tt0001431",
+    "tt0001326",
+    "tt0001245",
+    "tt0001262",
+    "tt0001315",
+    "tt0001401",
+    "tt0001439",
+    "tt0001371",
+    "tt0001385",
+    "tt0001072",
+    "tt0001510"
   ],
   "collections": [],
   "is_curated": true,
   "verified": false,
-  "lastUpdated": "2026-01-07T00:06:09.635Z"
+  "lastUpdated": "2026-01-11T21:44:59.097Z"
 }

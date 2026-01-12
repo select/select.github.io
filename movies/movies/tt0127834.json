@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-seven-years-bad-luck",
+      "id": "silent-seven-years-bad-luck",
       "title": "Seven Years Bad Luck",
       "fileSize": 993330021,
-      "id": "silent-seven-years-bad-luck"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-seven-years-bad-luck",
+      "language": "English",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 588
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011948",
-      "title": "Be My Wife",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013674",
-      "title": "The Three Must-Get-Theres",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 645,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248990",
-      "title": "Max in a Taxi",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181680",
-      "title": "Max Wants a Divorce",
-      "year": 1917,
-      "imdbRating": 6.1,
-      "imdbVotes": 128,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002160",
-      "title": "Entente cordiale",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 141,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277882",
-      "title": "Max as a Chiropodist",
-      "year": 1914,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0381908",
-      "title": "A Bear, a Boy and a Dog",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012701",
-      "title": "A Small Town Idol",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011916",
-      "title": "All Dolled Up",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012224",
-      "title": "The Goat",
-      "year": 1921,
-      "imdbRating": 7.7,
-      "imdbVotes": 5206,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012253",
-      "title": "Hard Luck",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 2701,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012353",
-      "title": "Kipps",
-      "year": 1921,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0011948",
+    "tt0013674",
+    "tt0248990",
+    "tt0181680",
+    "tt0002160",
+    "tt0277882",
+    "tt0381908",
+    "tt0012701",
+    "tt0011916",
+    "tt0012224",
+    "tt0012253",
+    "tt0012353"
   ],
   "collections": [],
   "is_curated": true,

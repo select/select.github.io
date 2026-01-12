@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PaintingPool2012",
+      "id": "PaintingPool2012",
       "title": "Painting Pool (2012)",
       "description": "Painting Pool (2012)",
       "fileSize": 35651796,
-      "id": "PaintingPool2012"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PaintingPool2012",
+      "collection": "feature_films",
+      "downloads": 1699
     }
   ],
   "metadata": {
@@ -27,124 +31,18 @@
     "Awards": "4 wins & 4 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3101386",
-      "title": "The Christmas Spirit",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1946310",
-      "title": "Crazy Kind of Love",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 2183,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1874434",
-      "title": "Blinder",
-      "year": 2013,
-      "imdbRating": 4.5,
-      "imdbVotes": 518,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2429292",
-      "title": "Shed No Tears",
-      "year": 2013,
-      "imdbRating": 6.9,
-      "imdbVotes": 5729,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1964618",
-      "title": "Greencard Warriors",
-      "year": 2013,
-      "imdbRating": 5.5,
-      "imdbVotes": 198,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt2345555",
-      "title": "Gibsonburg",
-      "year": 2013,
-      "imdbRating": 4.7,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3210376",
-      "title": "Holiday Road Trip",
-      "year": 2013,
-      "imdbRating": 5.4,
-      "imdbVotes": 662,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1618432",
-      "title": "I'm in Love with a Church Girl",
-      "year": 2013,
-      "imdbRating": 4.2,
-      "imdbVotes": 2047,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2063704",
-      "title": "La Estrella",
-      "year": 2013,
-      "imdbRating": 5.2,
-      "imdbVotes": 163,
-      "language": "Spanish, Catalan",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt6075718",
-      "title": "Blue Spring Ride",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 1413,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3120054",
-      "title": "Take Care",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 3407,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0443465",
-      "title": "Before We Go",
-      "year": 2014,
-      "imdbRating": 6.8,
-      "imdbVotes": 67966,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt3101386",
+    "tt1946310",
+    "tt1874434",
+    "tt2429292",
+    "tt1964618",
+    "tt2345555",
+    "tt3210376",
+    "tt1618432",
+    "tt2063704",
+    "tt6075718",
+    "tt3120054",
+    "tt0443465"
   ],
   "collections": [
     {

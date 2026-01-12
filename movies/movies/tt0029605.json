@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TsayaA",
+      "id": "TsayaA",
       "title": "Stand-In",
       "description": "Title: Stand-In Summary: A New York bank plans to sell a Hollywood studio at a big loss. But the head accountant is suspicious and goes to investigate. He finds chicanery, romance, and help to save the studio. Directed by: Tay Garnett. Actors: Leslie Howard, Humphrey Bogart, Joan Blondell Production Company: Walter Wanger Productions Release Date: 29 October 1937 (USA) Aspect Ratio: 1.37 : 1 Color: Black and White Atterbury Dodd is an efficiency expert who believes everything can be reduced to mathematics. He is sent to Hollywood to see whether Colossal Pictures is a good investment. He soon learns that movie production doesn't fit his formulaic mindset.",
       "fileSize": 717431896,
-      "id": "TsayaA"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/TsayaA",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 4283
     }
   ],
   "metadata": {
@@ -27,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029165",
-      "title": "Love Is News",
-      "year": 1937,
-      "imdbRating": 6.9,
-      "imdbVotes": 928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031282",
-      "title": "Eternally Yours",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033038",
-      "title": "Seven Sinners",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 1850,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0030637",
-      "title": "Pygmalion",
-      "year": 1938,
-      "imdbRating": 7.7,
-      "imdbVotes": 10214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030820",
-      "title": "Swing Your Lady",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033062",
-      "title": "Slightly Honorable",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029521",
-      "title": "Der Schimmelkrieg in der Holledau",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029580",
-      "title": "Small Town Boy",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029611",
-      "title": "Storm in a Teacup",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 1158,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029165",
+    "tt0031282",
+    "tt0033038",
+    "tt0030637",
+    "tt0030820",
+    "tt0033062",
+    "tt0233667",
+    "tt0029521",
+    "tt0028999",
+    "tt0029580",
+    "tt0029611",
+    "tt0028557"
   ],
   "collections": [],
   "is_curated": true,

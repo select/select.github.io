@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HellInACircus",
+      "id": "HellInACircus",
       "title": "Hell in a Circus",
       "description": "Life in an itinerant theatrical troupe. A well-acted and well-produced pre-code drama which touches on infidelity and illegitimacy (by '30s standards). The final scenes might be considered an unintentional prediction of the 1944 Hartford circus tragedy. Directed by Victor Schertzinger. Released in 1933. a.k.a. \"The Constant Woman\". complete print.",
       "fileSize": 1101740679,
-      "id": "HellInACircus"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HellInACircus",
+      "collection": "feature_films",
+      "downloads": 6927
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0054788",
-      "title": "David and Goliath",
-      "year": 1960,
-      "imdbRating": 4.7,
-      "imdbVotes": 860,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054195",
-      "title": "Pollyanna",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 11681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055446",
-      "title": "Shunko",
-      "year": 1960,
-      "imdbRating": 7.3,
-      "imdbVotes": 78,
-      "language": "Spanish, Quechua",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056124",
-      "title": "Joseph and His Brethren",
-      "year": 1961,
-      "imdbRating": 5.4,
-      "imdbVotes": 276,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053134",
-      "title": "Good Morning",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 11823,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052738",
-      "title": "The Diary of Anne Frank",
-      "year": 1959,
-      "imdbRating": 7.4,
-      "imdbVotes": 14070,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051936",
-      "title": "The Missouri Traveler",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038956",
-      "title": "Smooth as Silk",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028890",
-      "title": "Forlorn River",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032641",
-      "title": "Island of Doomed Men",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028004",
-      "title": "Murder with Pictures",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028653",
-      "title": "Born to the West",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 1058,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0054788",
+    "tt0054195",
+    "tt0055446",
+    "tt0056124",
+    "tt0053134",
+    "tt0052738",
+    "tt0051936",
+    "tt0038956",
+    "tt0028890",
+    "tt0032641",
+    "tt0028004",
+    "tt0028653"
   ],
   "collections": [],
   "is_curated": true,

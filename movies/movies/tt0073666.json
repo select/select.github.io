@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mary59_gmx_763",
+      "id": "mary59_gmx_763",
       "title": "763",
       "description": "763",
       "fileSize": 2129634761,
-      "id": "mary59_gmx_763"
+      "addedAt": "2026-01-07T00:09:46.428Z",
+      "thumbnail": "https://archive.org/services/img/mary59_gmx_763",
+      "collection": "feature_films",
+      "downloads": 1182
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074210",
-      "title": "Black Fist",
-      "year": 1975,
-      "imdbRating": 4.8,
-      "imdbVotes": 501,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073139",
-      "title": "I Wonder Who's Killing Her Now?",
-      "year": 1975,
-      "imdbRating": 3.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073396",
-      "title": "Mitchell",
-      "year": 1975,
-      "imdbRating": 2.8,
-      "imdbVotes": 4952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073092",
-      "title": "Hard Times",
-      "year": 1975,
-      "imdbRating": 7.2,
-      "imdbVotes": 13226,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0073758",
-      "title": "Strike Force",
-      "year": 1975,
-      "imdbRating": 4.2,
-      "imdbVotes": 251,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073762",
-      "title": "Sudden Fury",
-      "year": 1975,
-      "imdbRating": 6.6,
-      "imdbVotes": 590,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0070439",
-      "title": "Unbelievable Adventures of Italians in Russia",
-      "year": 1974,
-      "imdbRating": 7.6,
-      "imdbVotes": 6670,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0074342",
-      "title": "Death Rage",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 935,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076060",
-      "title": "Funeral for an Assassin",
-      "year": 1974,
-      "imdbRating": 4.6,
-      "imdbVotes": 89,
-      "language": "English, Afrikaans",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071548",
-      "title": "Get Christie Love!",
-      "year": 1974,
-      "imdbRating": 5.4,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077118",
-      "title": "Acapulco Gold",
-      "year": 1976,
-      "imdbRating": 4.5,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0074210",
+    "tt0073139",
+    "tt0073396",
+    "tt0073092",
+    "tt0073758",
+    "tt0073762",
+    "tt0070439",
+    "tt0074342",
+    "tt0076060",
+    "tt0071548",
+    "tt0074634",
+    "tt0077118"
   ],
   "collections": [],
   "is_curated": true,

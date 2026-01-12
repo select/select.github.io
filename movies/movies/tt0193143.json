@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/escuela-de-campeones-1950",
+      "id": "escuela-de-campeones-1950",
       "title": "Escuela De Campeones (1950)",
       "description": "Escuela de campeones  es una  película   argentina  en blanco y negro, dirigida por  Ralph Pappier , con guion del conocido poeta de tango  Homero Manzi  y  Carlos Orlando . Fue protagonizada por  Jorge Rigaud ,  Silvana Roth ,  Pedro Quartucci  y  Enrique Muiño . Estrenada el 19 de diciembre de 1950, en  Buenos Aires . (Wikipedia) Sinopsis Es la reconstrucción de la historia del Colegio Buenos Aires English High School y del legendario club  Alumni , integrado por sus alumnos, que dominó el  fútbol argentino  en la primera década del siglo  XX  y de su presidente, el escocés  Alejandro Watson Hutton  (Jorge Rigaud), primer presidente de la  Asociación del Fútbol Argentino , considerado como el padre del  fútbol argentino . Actores Jorge Rigaud ...  Alejandro Watson Hutton Silvana Roth Pedro Quartucci Enrique Chaico Carlos Enríquez Héctor Coire Gustavo Cavero Pablo Cumo Enrique Muiño ,  Domingo Faustino Sarmiento Pablo Cumo (hijo) Emilio De Grey Hugo Mugica Eduardo Ferraro Francisco Ferraro Pepito Petray Marcos Zucker Warly Ceriani Oscar Villa Saúl Jarlip Jorge Villoldo Santiago Rebull Manuel Alcón Rita Montero Serafín Paoli Max Citelli Vicente Forastieri Eduardo de Labar Ángel Boffa",
       "fileSize": 2048809292,
-      "id": "escuela-de-campeones-1950"
+      "addedAt": "2026-01-07T00:08:24.392Z",
+      "thumbnail": "https://archive.org/services/img/escuela-de-campeones-1950",
+      "language": "spa",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 134
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042367",
-      "title": "Cyrano de Bergerac",
-      "year": 1950,
-      "imdbRating": 7.4,
-      "imdbVotes": 4668,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042473",
-      "title": "Forbidden Jungle",
-      "year": 1950,
-      "imdbRating": 4,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042251",
-      "title": "Big Timber",
-      "year": 1950,
-      "imdbRating": 5.6,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123066",
-      "title": "Fangio, el demonio de las pistas",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043067",
-      "title": "Treasure Island",
-      "year": 1950,
-      "imdbRating": 6.9,
-      "imdbVotes": 10232,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0042899",
-      "title": "Rocky Mountain",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 1374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041904",
-      "title": "South Sea Sinner",
-      "year": 1950,
-      "imdbRating": 5.6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042464",
-      "title": "The Flame and the Arrow",
-      "year": 1950,
-      "imdbRating": 6.8,
-      "imdbVotes": 4276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0193032",
-      "title": "Caballito criollo",
-      "year": 1953,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041715",
-      "title": "Omoo-Omoo the Shark God",
-      "year": 1949,
-      "imdbRating": 3.4,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045002",
-      "title": "Outcast of the Islands",
-      "year": 1951,
-      "imdbRating": 6.9,
-      "imdbVotes": 1318,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    }
+    "tt0042367",
+    "tt0042383",
+    "tt0042473",
+    "tt0042251",
+    "tt0123066",
+    "tt0043067",
+    "tt0042899",
+    "tt0041904",
+    "tt0042464",
+    "tt0193032",
+    "tt0041715",
+    "tt0045002"
   ],
   "collections": [],
   "is_curated": true,

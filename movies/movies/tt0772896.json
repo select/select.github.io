@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-Leibstandarte-SS-Adolf-Hitler-im-Einsatz",
+      "id": "1942-Leibstandarte-SS-Adolf-Hitler-im-Einsatz",
       "title": "1942 - Leibstandarte SS Adolf Hitler im Einsatz - 1. Teil (35m 40s, 720x576)",
       "description": "1942 - Leibstandarte SS Adolf Hitler im Einsatz - 1. Teil (35m 40s, 720x576)",
       "fileSize": 513184165,
-      "id": "1942-Leibstandarte-SS-Adolf-Hitler-im-Einsatz"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1942-Leibstandarte-SS-Adolf-Hitler-im-Einsatz",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 11313
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-leibstandarte-ss-adolf-hitler-im-einsatz-1.-teil",
+      "id": "1942-leibstandarte-ss-adolf-hitler-im-einsatz-1.-teil",
       "title": "1942 Leibstandarte SS Adolf Hitler Im Einsatz 1. Teil",
       "description": "Film(Filmdokument)aus dem deutschen dritten Reich von 1942. Leibstandarte SS Adolf Hitler im Einsatz Teil. 1 Von Polen,Holland Frankreich zum Balkan ",
       "fileSize": 674674513,
-      "id": "1942-leibstandarte-ss-adolf-hitler-im-einsatz-1.-teil"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-leibstandarte-ss-adolf-hitler-im-einsatz-1.-teil",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 317
     }
   ],
   "metadata": {
@@ -35,102 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2241043",
-      "title": "Bela Lugosi Hypnotized",
-      "year": 1940,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035275",
-      "title": "Rund um die Freiheitsstatue - Ein Spaziergang durch die USA",
-      "year": 1941,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220288",
-      "title": "15,000 Soldiers Reviewed by the President at Camp Alger May 28",
-      "year": 1898,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0471602",
-      "title": "C-V News: Filming Greed",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013919",
-      "title": "Lieutenant Clive Wilson and the Tranby Croft Party Hull",
-      "year": 1902,
-      "imdbRating": 5.2,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013921",
-      "title": "Lord Roberts' Visit to Manchester",
-      "year": 1901,
-      "imdbRating": 5.1,
-      "imdbVotes": 70,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1013937",
-      "title": "Opening of the Drill Hall in Accrington by General Baden-Powell",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3650570",
-      "title": "Trafalgar Square Riot",
-      "year": 1913,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16899218",
-      "title": "Protection Against Chemical Warfare",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt2241043",
+    "tt0035275",
+    "tt0220288",
+    "tt0471602",
+    "tt1013919",
+    "tt1013921",
+    "tt1013937",
+    "tt3650570",
+    "tt0148531",
+    "tt16899218",
+    "tt0896825",
+    "tt12816892"
   ],
   "collections": [],
   "is_curated": true,

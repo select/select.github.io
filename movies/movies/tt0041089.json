@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AdamAndEvelyn",
+      "id": "AdamAndEvelyn",
       "title": "Adam and Evalyn",
       "description": "Title: Adam and Evalyn Summary: When a friend dies, a gambler adopts his daughter. Complications ensue. Directed by: Harold French Actors: Stewart Granger, Jean Simmons, Edwin Styles Production Company: Two Cities Films Release Date: 26 December 1949 (USA) Aspect Ratio: 1.37 : 1 Color: Black and White The father of a girl in an orphanage has been writing his daughter, who doesn't remember him, tales of his success in business. Actually, he is impersonating a friend, a handsome gambler. When the father dies, the gambler takes to girl from the orphanage and tells her the truth. But the girl is now a full-grown beauty and complications arise, including those provided by a black-sheep brother.",
       "fileSize": 655470831,
-      "id": "AdamAndEvelyn"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AdamAndEvelyn",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 4580
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040623",
-      "title": "My Brother Jonathan",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041509",
-      "title": "The Inspector General",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 3654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041587",
-      "title": "A Letter to Three Wives",
-      "year": 1949,
-      "imdbRating": 7.7,
-      "imdbVotes": 11343,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130153",
-      "title": "An Old-Fashioned Girl",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041498",
-      "title": "I Was a Male War Bride",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 9345,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041641",
-      "title": "Marry Me",
-      "year": 1949,
-      "imdbRating": 6.2,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039679",
-      "title": "Once Upon a Dream",
-      "year": 1949,
-      "imdbRating": 5.8,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041969",
-      "title": "Top o' the Morning",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040762",
-      "title": "Scudda Hoo! Scudda Hay!",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042325",
-      "title": "Champagne for Caesar",
-      "year": 1950,
-      "imdbRating": 7.4,
-      "imdbVotes": 1302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040626",
-      "title": "My Dear Secretary",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 1215,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042182",
-      "title": "The Admiral Was a Lady",
-      "year": 1950,
-      "imdbRating": 5.8,
-      "imdbVotes": 415,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0040623",
+    "tt0041509",
+    "tt0041587",
+    "tt0130153",
+    "tt0041498",
+    "tt0041641",
+    "tt0039679",
+    "tt0041969",
+    "tt0040762",
+    "tt0042325",
+    "tt0040626",
+    "tt0042182"
   ],
   "collections": [],
   "is_curated": true,

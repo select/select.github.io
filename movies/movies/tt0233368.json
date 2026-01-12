@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-borrowed-flat",
+      "id": "silent-the-borrowed-flat",
       "title": "The Borrowed Flat",
       "fileSize": 399670212,
-      "id": "silent-the-borrowed-flat"
+      "addedAt": "2026-01-07T00:11:15.975Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-borrowed-flat",
+      "language": "English",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 265
     }
   ],
   "metadata": {
@@ -26,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1247273",
-      "title": "Princess Charming",
-      "year": 1911,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002429",
-      "title": "Petticoat Camp",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 177,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1298777",
-      "title": "A Lively Affair",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 53,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249454",
-      "title": "A Race for a Monkey",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366564",
-      "title": "Her Nephews from Labrador",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1845834",
-      "title": "Medium Wanted as Son-in-Law",
-      "year": 1909,
-      "imdbRating": 4.7,
-      "imdbVotes": 8,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0486919",
-      "title": "A Tango Tangle",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234922",
-      "title": "Trial Marriages",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6373988",
-      "title": "Frau Blechnudel will Kinoschauspielerin werden",
-      "year": 1915,
-      "imdbRating": 3.9,
-      "imdbVotes": 12,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200500",
-      "title": "The Boy, the Bust and the Bath",
-      "year": 1907,
-      "imdbRating": 5.3,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1247273",
+    "tt0002429",
+    "tt1298777",
+    "tt0249454",
+    "tt0366564",
+    "tt1845834",
+    "tt0486919",
+    "tt3110548",
+    "tt0234922",
+    "tt6373988",
+    "tt0200500",
+    "tt0308284"
   ],
   "collections": [],
   "is_curated": true,

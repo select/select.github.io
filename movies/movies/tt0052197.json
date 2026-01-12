@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SilentEnemy",
+      "id": "SilentEnemy",
       "title": "The Silent Enemy",
       "description": "Title: The Silent Enemy Summary: In the Mediterranean in 1941 the Italians start using underwater chariots to mine the undersides of allied ships. Explosives expert Lionel Crabbe arrives in Gibraltar to organise defenses, ... Directed by: William Fairchild Actors: Laurence Harvey, Dawn Addams, Michael Craig Production Company: Romulus Films Release Date: 4 March 1958 (UK) Aspect Ratio: 1.85 : 1 In the Mediterranean in 1941 the Italians start using underwater chariots to mine the undersides of allied ships. Explosives expert Lionel Crabbe arrives in Gibraltar to organise defenses, but finds only two British divers available to help him. Even more worrying, it seems likely that the Italians are secretly using neutral Spain across the bay as their key base.",
       "fileSize": 870266674,
-      "id": "SilentEnemy"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/SilentEnemy",
+      "year": 1958,
+      "collection": "feature_films",
+      "downloads": 7022
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-silent-enemy",
+      "id": "the-silent-enemy",
       "title": "The Silent Enemy",
       "description": "In 1941 during WWII the Italians start using underwater chariots to mind the undersides of allied ships. In the defense of the ships an expert arrives in Gibraltar to find only two divers available to help him.",
       "fileSize": 962867390,
-      "id": "the-silent-enemy"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-silent-enemy",
+      "collection": "feature_films",
+      "downloads": 2551
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051887",
-      "title": "Machine-Gun Kelly",
-      "year": 1958,
-      "imdbRating": 6.1,
-      "imdbVotes": 2101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051565",
-      "title": "Dunkirk",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 3775,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052365",
-      "title": "The Vikings",
-      "year": 1958,
-      "imdbRating": 7,
-      "imdbVotes": 16024,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0499562",
-      "title": "The Secret Life of Adolf Hitler",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053272",
-      "title": "Shake Hands with the Devil",
-      "year": 1959,
-      "imdbRating": 7,
-      "imdbVotes": 1586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053891",
-      "title": "Hannibal",
-      "year": 1959,
-      "imdbRating": 5.2,
-      "imdbVotes": 1231,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0054436",
-      "title": "Revenge of the Barbarians",
-      "year": 1960,
-      "imdbRating": 5.8,
-      "imdbVotes": 65,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049710",
-      "title": "Samurai III: Duel at Ganryu Island",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 6938,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054243",
-      "title": "The Rise and Fall of Legs Diamond",
-      "year": 1960,
-      "imdbRating": 6.7,
-      "imdbVotes": 1369,
-      "language": "English, French, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053800",
-      "title": "Esther and the King",
-      "year": 1960,
-      "imdbRating": 5.5,
-      "imdbVotes": 883,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049933",
-      "title": "Walk the Proud Land",
-      "year": 1956,
-      "imdbRating": 6.6,
-      "imdbVotes": 1220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053946",
-      "title": "Inherit the Wind",
-      "year": 1960,
-      "imdbRating": 8.1,
-      "imdbVotes": 33439,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0051887",
+    "tt0051565",
+    "tt0052365",
+    "tt0499562",
+    "tt0053272",
+    "tt0053891",
+    "tt0054436",
+    "tt0049710",
+    "tt0054243",
+    "tt0053800",
+    "tt0049933",
+    "tt0053946"
   ],
   "collections": [],
   "is_curated": true,

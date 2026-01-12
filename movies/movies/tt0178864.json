@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RevengeOfTheVirgins",
+      "id": "RevengeOfTheVirgins",
       "title": "Revenge of the Virgins",
       "description": "Bizarre nudie-cutie western from 1959. It appears to be without copyright notice and no renewal is listed, so it's doubly PD.",
       "fileSize": 1606506618,
-      "id": "RevengeOfTheVirgins"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RevengeOfTheVirgins",
+      "collection": "feature_films",
+      "downloads": 118021
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0053461",
-      "title": "The Young Land",
-      "year": 1959,
-      "imdbRating": 5.4,
-      "imdbVotes": 375,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052724",
-      "title": "Day of the Outlaw",
-      "year": 1959,
-      "imdbRating": 7.3,
-      "imdbVotes": 4550,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052993",
-      "title": "Last Train from Gun Hill",
-      "year": 1959,
-      "imdbRating": 7.3,
-      "imdbVotes": 9071,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053220",
-      "title": "Ride Lonesome",
-      "year": 1959,
-      "imdbRating": 7.1,
-      "imdbVotes": 7233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053221",
-      "title": "Rio Bravo",
-      "year": 1959,
-      "imdbRating": 8,
-      "imdbVotes": 71739,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053145",
-      "title": "The Oregon Trail",
-      "year": 1959,
-      "imdbRating": 5.2,
-      "imdbVotes": 505,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053453",
-      "title": "The Wonderful Country",
-      "year": 1959,
-      "imdbRating": 6.1,
-      "imdbVotes": 2392,
-      "language": "English, Spanish, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053457",
-      "title": "Yellowstone Kelly",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 1313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052941",
-      "title": "The Jayhawkers!",
-      "year": 1959,
-      "imdbRating": 6.3,
-      "imdbVotes": 793,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0053026",
-      "title": "A Lust to Kill",
-      "year": 1958,
-      "imdbRating": 5.8,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051936",
-      "title": "The Missouri Traveler",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051461",
-      "title": "Cattle Empire",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 768,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0053461",
+    "tt0052724",
+    "tt0052993",
+    "tt0053220",
+    "tt0053221",
+    "tt0053145",
+    "tt0053453",
+    "tt0053457",
+    "tt0052941",
+    "tt0053026",
+    "tt0051936",
+    "tt0051461"
   ],
   "collections": [],
   "is_curated": true,

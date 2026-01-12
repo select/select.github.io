@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-yankee-doodle-in-berlin",
+      "id": "silent-yankee-doodle-in-berlin",
       "title": "Yankee Doodle in Berlin",
       "fileSize": 974090319,
-      "id": "silent-yankee-doodle-in-berlin"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-yankee-doodle-in-berlin",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1987
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012468",
-      "title": "Molly O'",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 73,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014522",
-      "title": "Suzanna",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014029",
-      "title": "The Extra Girl",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 1222,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005475",
-      "title": "Her Painted Hero",
-      "year": 1915,
-      "imdbRating": 4.9,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010311",
-      "title": "A Jazzed Honeymoon",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 122,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010656",
-      "title": "A Sammy in Siberia",
-      "year": 1919,
-      "imdbRating": 5.6,
-      "imdbVotes": 321,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009899",
-      "title": "Back Stage",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010316",
-      "title": "Jubilo",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010321",
-      "title": "Just Neighbors",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010747",
-      "title": "Sunnyside",
-      "year": 1919,
-      "imdbRating": 6.6,
-      "imdbVotes": 3404,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010635",
-      "title": "The Roaring Road",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 653,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0012468",
+    "tt0014522",
+    "tt0014029",
+    "tt0005475",
+    "tt0010311",
+    "tt0010656",
+    "tt0009899",
+    "tt0010316",
+    "tt0010321",
+    "tt0010747",
+    "tt0010635",
+    "tt0010806"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DevilsRiders",
+      "id": "DevilsRiders",
       "title": "Devil Riders",
       "description": "A crooked lawyer and his gang are trying to steal some government land meant for a stagecoach company. The company hires a cowboy to stop them.",
       "fileSize": 1596009737,
-      "id": "DevilsRiders"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DevilsRiders",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 11103
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/devil_riders",
+      "id": "devil_riders",
       "title": "Devil Riders",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3290494937,
-      "id": "devil_riders"
+      "addedAt": "2026-01-07T00:08:07.354Z",
+      "thumbnail": "https://archive.org/services/img/devil_riders",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 48819
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037728",
-      "title": "Gangster's Den",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035162",
-      "title": "Outlaws of Boulder Pass",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036844",
-      "title": "Fuzzy Settles Down",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037142",
-      "title": "Oath of Vengeance",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037464",
-      "title": "Wild Horse Phantom",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033393",
-      "title": "Billy the Kid's Fighting Pals",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033845",
-      "title": "The Lone Rider in Frontier Fury",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037728",
+    "tt0035723",
+    "tt0035908",
+    "tt0036074",
+    "tt0035106",
+    "tt0033391",
+    "tt0035162",
+    "tt0036844",
+    "tt0037142",
+    "tt0037464",
+    "tt0033393",
+    "tt0033845"
   ],
   "collections": [],
   "is_curated": true,

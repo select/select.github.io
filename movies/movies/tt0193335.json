@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mosaico-1970",
+      "id": "mosaico-1970",
       "title": "Mosaico(1970)",
       "description": "Mosaico  es una película de  Argentina  dirigida por  Néstor Paternostro  según su propio guion escrito en colaboración con  Rubén Maril  que se estrenó el 19 de noviembre de 1970 y que tuvo como protagonistas a  Federico Luppi ,  Perla Caron ,  Owe Monk  y  Jorge Damonte . Fue exhibida también con el título alternativo de  La vida de una modelo . La película fue filmada en  San José del Morro  en la  provincia de San Luis  e incluye fragmentos de filmes publicitarios (Wikipedia) Sinopsis Una joven es descubierta por un ejecutivo que la lleva a la fama Reparto Federico Luppi Perla Caron Owe Monk Jorge Damonte Nelly Tesolín Aldo Bigatti Juan Pablo Bayadjian Miguel Saravia Los Cons Combo Tita Coello Elizabeth Alba Linda Peretz Carlos Roffé Juan Villarreal …Extra",
       "fileSize": 1242934656,
-      "id": "mosaico-1970"
+      "addedAt": "2026-01-07T00:09:54.330Z",
+      "thumbnail": "https://archive.org/services/img/mosaico-1970",
+      "language": "spa",
+      "year": 1970,
+      "collection": "feature_films",
+      "downloads": 113
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0196832",
-      "title": "Paula contra la mitad más uno",
-      "year": 1971,
-      "imdbRating": 5.9,
-      "imdbVotes": 28,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066495",
-      "title": "The Twelve Chairs",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 7268,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0182701",
-      "title": "Amalio Reyes, un hombre",
-      "year": 1970,
-      "imdbRating": 5,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065466",
-      "title": "Beyond the Valley of the Dolls",
-      "year": 1970,
-      "imdbRating": 6.1,
-      "imdbVotes": 12310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194709",
-      "title": "Blum",
-      "year": 1970,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065611",
-      "title": "Darling Lili",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 2584,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065760",
-      "title": "Gas! -Or- It Became Necessary to Destroy the World in Order to Save It.",
-      "year": 1970,
-      "imdbRating": 4.2,
-      "imdbVotes": 1738,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189520",
-      "title": "La fidelidad",
-      "year": 1970,
-      "imdbRating": 6.3,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066181",
-      "title": "On a Clear Day You Can See Forever",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 4505,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068519",
-      "title": "Gentlemen of Fortune",
-      "year": 1971,
-      "imdbRating": 8.3,
-      "imdbVotes": 13658,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0066856",
-      "title": "Born to Win",
-      "year": 1971,
-      "imdbRating": 5.8,
-      "imdbVotes": 2197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0214642",
-      "title": "Le drapeau noir flotte sur la marmite",
-      "year": 1971,
-      "imdbRating": 5.5,
-      "imdbVotes": 157,
-      "language": "French",
-      "sourceType": "archive.org"
-    }
+    "tt0196832",
+    "tt0066495",
+    "tt0182701",
+    "tt0065466",
+    "tt0194709",
+    "tt0065611",
+    "tt0065760",
+    "tt0189520",
+    "tt0066181",
+    "tt0068519",
+    "tt0066856",
+    "tt0214642"
   ],
   "collections": [],
   "is_curated": true,

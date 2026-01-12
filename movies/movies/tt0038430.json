@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/traffic-in-crime-1946",
+      "id": "traffic-in-crime-1946",
       "title": "Traffic In Crime (1946)",
       "description": "Kane Richmond  Republic Pictures",
       "fileSize": 1051838681,
-      "id": "traffic-in-crime-1946"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/traffic-in-crime-1946",
+      "collection": "feature_films",
+      "downloads": 907
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040386",
-      "title": "The Gentleman from Nowhere",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042007",
-      "title": "Undertow",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039361",
-      "title": "Exposed",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 208,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039504",
-      "title": "Ivy",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 1155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043646",
-      "title": "Hollywood Story",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 1060,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043523",
-      "title": "The Fat Man",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 586,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048420",
-      "title": "New Orleans Uncensored",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058620",
-      "title": "Strait-Jacket",
-      "year": 1964,
-      "imdbRating": 6.8,
-      "imdbVotes": 6892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121570",
-      "title": "Morir en su ley",
-      "year": 1949,
-      "imdbRating": 5.9,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042310",
-      "title": "Captain Carey, U.S.A.",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 693,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0038230",
-      "title": "Voice of the Whistler",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040386",
+    "tt0042007",
+    "tt0039361",
+    "tt0039504",
+    "tt0043646",
+    "tt0049340",
+    "tt0043523",
+    "tt0048420",
+    "tt0058620",
+    "tt0121570",
+    "tt0042310",
+    "tt0038230"
   ],
   "collections": [],
   "is_curated": true,

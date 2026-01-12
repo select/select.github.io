@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/running-wild_1927",
+      "id": "running-wild_1927",
       "title": "Running Wild",
       "fileSize": 9016696326,
-      "id": "running-wild_1927"
+      "addedAt": "2026-01-07T00:10:40.951Z",
+      "thumbnail": "https://archive.org/services/img/running-wild_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 948
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018882",
-      "title": "Feel My Pulse",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 241,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019690",
-      "title": "Big News",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016550",
-      "title": "Womanhandled",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 98,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0245364",
-      "title": "Policy and Pie",
-      "year": 1918,
-      "imdbRating": 5.6,
-      "imdbVotes": 129,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0370370",
-      "title": "The Breath of a Nation",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016308",
-      "title": "Sally of the Sawdust",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 598,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020135",
-      "title": "The Man I Love",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0440334",
-      "title": "A Dozen Socks",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017634",
-      "title": "Anything Once!",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0018882",
+    "tt0019690",
+    "tt0019987",
+    "tt0016550",
+    "tt0028010",
+    "tt0245364",
+    "tt0370370",
+    "tt0016308",
+    "tt0020135",
+    "tt0440334",
+    "tt0017634",
+    "tt0312544"
   ],
   "collections": [],
   "is_curated": true,

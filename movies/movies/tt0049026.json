@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-boss-1956_202506",
+      "id": "the-boss-1956_202506",
       "title": "The Boss (1956)",
       "description": "The Boss is a 1956 American crime film noir directed by Byron Haskin and starring John Payne. Watch on RetroFlix:  https://retroflix.org/the-boss-1956/",
       "fileSize": 756202080,
-      "id": "the-boss-1956_202506"
+      "addedAt": "2026-01-07T00:11:57.681Z",
+      "thumbnail": "https://archive.org/services/img/the-boss-1956_202506",
+      "language": "eng",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 118
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039482",
-      "title": "I Walk Alone",
-      "year": 1947,
-      "imdbRating": 7,
-      "imdbVotes": 3652,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041968",
-      "title": "Too Late for Tears",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 6166,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049769",
-      "title": "Slightly Scarlet",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050964",
-      "title": "Short Cut to Hell",
-      "year": 1957,
-      "imdbRating": 6,
-      "imdbVotes": 388,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050506",
-      "title": "Hidden Fear",
-      "year": 1957,
-      "imdbRating": 5.5,
-      "imdbVotes": 384,
-      "language": "English, Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049406",
-      "title": "The Killing",
-      "year": 1956,
-      "imdbRating": 7.9,
-      "imdbVotes": 102237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049904",
-      "title": "The Unguarded Moment",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049955",
-      "title": "The Wild Party",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049636",
-      "title": "The Price of Fear",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 726,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050087",
-      "title": "5 Steps to Danger",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 1183,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050271",
-      "title": "Crime of Passion",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 3102,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039482",
+    "tt0041968",
+    "tt0049769",
+    "tt0050964",
+    "tt0050506",
+    "tt0049340",
+    "tt0049406",
+    "tt0049904",
+    "tt0049955",
+    "tt0049636",
+    "tt0050087",
+    "tt0050271"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-daisy-doodads-dial",
+      "id": "silent-daisy-doodads-dial",
       "title": "Daisy Doodad's Dial",
       "fileSize": 102154200,
-      "id": "silent-daisy-doodads-dial"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-daisy-doodads-dial",
+      "language": "English",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 297
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0258254",
-      "title": "A Tin-Type Romance",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002124",
-      "title": "A Cure for Pokeritis",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 403,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001660",
-      "title": "Her Crowning Glory",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 219,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003679",
-      "title": "Between Showers",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 1857,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003758",
-      "title": "Caught in a Cabaret",
-      "year": 1914,
-      "imdbRating": 5.7,
-      "imdbVotes": 1537,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004288",
-      "title": "Making a Living",
-      "year": 1914,
-      "imdbRating": 5.5,
-      "imdbVotes": 2352,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003805",
-      "title": "Cruel, Cruel Love",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 1477,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004736",
-      "title": "Twenty Minutes of Love",
-      "year": 1914,
-      "imdbRating": 5.6,
-      "imdbVotes": 1471,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003733",
-      "title": "A Busy Day",
-      "year": 1914,
-      "imdbRating": 4.7,
-      "imdbVotes": 1288,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003934",
-      "title": "The Fatal Mallet",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 1115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004194",
-      "title": "The Knockout",
-      "year": 1914,
-      "imdbRating": 5.7,
-      "imdbVotes": 1529,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004280",
-      "title": "Mabel's Busy Day",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 1081,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0258254",
+    "tt0002124",
+    "tt0001660",
+    "tt0003679",
+    "tt0003758",
+    "tt0004288",
+    "tt0003805",
+    "tt0004736",
+    "tt0003733",
+    "tt0003934",
+    "tt0004194",
+    "tt0004280"
   ],
   "collections": [],
   "is_curated": true,

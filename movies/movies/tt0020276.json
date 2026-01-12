@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-plowboy_1929",
+      "id": "the-plowboy_1929",
       "title": "The Plowboy",
       "fileSize": 297920231,
-      "id": "the-plowboy_1929"
+      "addedAt": "2026-01-07T00:12:22.156Z",
+      "thumbnail": "https://archive.org/services/img/the-plowboy_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 227
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018675",
-      "title": "The Barn Dance",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 1016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020414",
-      "title": "The Skeleton Dance",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 6692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020484",
-      "title": "El terrible toreador",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020580",
-      "title": "When the Cat's Away",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 709,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019033",
-      "title": "Hungry Hoboes",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019241",
-      "title": "Ozzie of the Mounted",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 236,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019283",
-      "title": "Poor Papa",
-      "year": 1928,
-      "imdbRating": 5.6,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019328",
-      "title": "Rival Romeos",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 263,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019445",
-      "title": "Tall Timber",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 208,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018913",
-      "title": "The Fox Chase",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 210,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019231",
-      "title": "The Ol' Swimmin' Hole",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0018675",
+    "tt0020414",
+    "tt0020484",
+    "tt0020580",
+    "tt0018721",
+    "tt0019033",
+    "tt0019241",
+    "tt0019283",
+    "tt0019328",
+    "tt0019445",
+    "tt0018913",
+    "tt0019231"
   ],
   "collections": [
     {

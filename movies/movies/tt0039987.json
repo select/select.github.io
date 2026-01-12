@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheWhiteGorilla1945",
+      "id": "TheWhiteGorilla1945",
       "title": "The White Gorilla (1945)",
       "description": "A group of white men are menaced by a mysterious white ape in this jungle thriller.",
       "fileSize": 1693670612,
-      "id": "TheWhiteGorilla1945"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/TheWhiteGorilla1945",
+      "collection": "feature_films",
+      "downloads": 21600
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=6MaHBiy_w50",
+      "id": "6MaHBiy_w50",
       "title": "The White Gorilla (1945) JUNGLE ADVENTURE",
       "description": "Stars: Ray Corrigan, Lorraine Miller, Harry Belmour \n Director: Harry L. Fraser\n\n A white gorilla is snubbed by black gorillas because he is the wrong color. Cut off from his tribe he becomes lonely and angry. After troubling hunters and natives, the white gorilla fights the king of the black gorillas and the fate of Africa hangs in the balance!",
-      "id": "6MaHBiy_w50",
+      "addedAt": "2025-12-26T23:52:53.946Z",
+      "thumbnail": "https://i.ytimg.com/vi/6MaHBiy_w50/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLD2Q1UwOdNIksA5e-rHtdcOLAVbwg",
+      "duration": 3718,
+      "language": "en",
+      "year": 1945,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033777",
-      "title": "Jungle Man",
-      "year": 1941,
-      "imdbRating": 3.6,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023424",
-      "title": "The Savage Girl",
-      "year": 1932,
-      "imdbRating": 4.3,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037694",
-      "title": "Federal Operator 99",
-      "year": 1945,
-      "imdbRating": 7.4,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183796",
-      "title": "Social Error",
-      "year": 1935,
-      "imdbRating": 4.3,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0133850",
-      "title": "Heroes of the Alamo",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0169253",
-      "title": "Songs and Saddles",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037673",
-      "title": "Enemy of the Law",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036669",
-      "title": "Brand of the Devil",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037576",
-      "title": "Captain Kidd",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 2181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037678",
-      "title": "Escape in the Fog",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 1255,
-      "language": "English, German, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037777",
-      "title": "High Powered",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038046",
-      "title": "Salome, Where She Danced",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 358,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033777",
+    "tt0023424",
+    "tt0037694",
+    "tt0183796",
+    "tt0133850",
+    "tt0169253",
+    "tt0037673",
+    "tt0036669",
+    "tt0037576",
+    "tt0037678",
+    "tt0037777",
+    "tt0038046"
   ],
   "collections": [],
   "is_curated": true,

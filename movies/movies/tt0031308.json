@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-film-fan-1939",
+      "id": "the-film-fan-1939",
       "title": "The Film Fan (1939)",
       "description": "On the way over to get some food from the grocery store, Porky enters a theatre offering free admittance to kids. On screen are shown clips of previous cartoons and some theatrical gags.",
       "fileSize": 789572610,
-      "id": "the-film-fan-1939"
+      "addedAt": "2026-01-07T00:11:57.686Z",
+      "thumbnail": "https://archive.org/services/img/the-film-fan-1939",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 257
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031805",
-      "title": "Polar Pals",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 367,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031813",
-      "title": "Porky's Hotel",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031816",
-      "title": "Porky's Tire Trouble",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 215,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028925",
-      "title": "Get Rich Quick Porky",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029040",
-      "title": "I Wanna Be a Sailor",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029421",
-      "title": "Porky and Gabby",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029424",
-      "title": "Porky's Building",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029426",
-      "title": "Porky's Duck Hunt",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 607,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029429",
-      "title": "Porky's Railroad",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 605,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029708",
-      "title": "Uncle Tom's Bungalow",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031083",
-      "title": "Bars and Stripes Forever",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031153",
-      "title": "Chicken Jitters",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031805",
+    "tt0031813",
+    "tt0031816",
+    "tt0028925",
+    "tt0029040",
+    "tt0029421",
+    "tt0029424",
+    "tt0029426",
+    "tt0029429",
+    "tt0029708",
+    "tt0031083",
+    "tt0031153"
   ],
   "collections": [],
   "is_curated": true,

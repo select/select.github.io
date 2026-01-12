@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1944-das-leben-ruft-sybille-schmitz-paul-klinger-elsa-wagner-paul-henckels-otto-wernicke",
+      "id": "1944-das-leben-ruft-sybille-schmitz-paul-klinger-elsa-wagner-paul-henckels-otto-wernicke",
       "title": "1944 Das Leben Ruft ( Sybille Schmitz, Paul Klinger, Elsa Wagner, Paul Henckels, Otto Wernicke)",
       "description": "Film aus dem deutschen dritten Reich von 1944. Das Leben ruft. u.a mit Sybille Schmitz und Paul Henckels ",
       "fileSize": 968777048,
-      "id": "1944-das-leben-ruft-sybille-schmitz-paul-klinger-elsa-wagner-paul-henckels-otto-wernicke"
+      "addedAt": "2026-01-07T00:06:03.997Z",
+      "thumbnail": "https://archive.org/services/img/1944-das-leben-ruft-sybille-schmitz-paul-klinger-elsa-wagner-paul-henckels-otto-wernicke",
+      "language": "ger",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 200
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033303",
-      "title": "...reitet für Deutschland",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 42,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135739",
-      "title": "Die drei Codonas",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135746",
-      "title": "Achtung! Feind hört mit!",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 40,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035053",
-      "title": "Meine Frau Teresa",
-      "year": 1942,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037412",
-      "title": "Udayer Pathey",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 40,
-      "language": "Bengali",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036695",
-      "title": "A Canterbury Tale",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 6808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036743",
-      "title": "Dark Mountain",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036753",
-      "title": "Delinquent Daughters",
-      "year": 1944,
-      "imdbRating": 3.3,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150900",
-      "title": "Das Herz muß schweigen",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220614",
-      "title": "Das Lied der Nachtigall",
-      "year": 1944,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037427",
-      "title": "Der Verteidiger hat das Wort",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 31,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0136209",
+    "tt0033303",
+    "tt0135739",
+    "tt0135746",
+    "tt0035053",
+    "tt0037412",
+    "tt0036695",
+    "tt0036743",
+    "tt0036753",
+    "tt0150900",
+    "tt0220614",
+    "tt0037427"
   ],
   "collections": [],
   "is_curated": true,

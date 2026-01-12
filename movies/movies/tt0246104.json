@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-der-nackte-spatz-aribert-mog-gretel-theimer-heinz-salfner",
+      "id": "1938-der-nackte-spatz-aribert-mog-gretel-theimer-heinz-salfner",
       "title": "1938 Der Nackte Spatz ( Aribert Mog, Gretel Theimer, Heinz Salfner)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Der nackte Spatz. u.a mit Aribert Mog und Heinz Salfner ",
       "fileSize": 276951734,
-      "id": "1938-der-nackte-spatz-aribert-mog-gretel-theimer-heinz-salfner"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-der-nackte-spatz-aribert-mog-gretel-theimer-heinz-salfner",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 156
     }
   ],
   "metadata": {
@@ -26,97 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0131414",
-      "title": "Das große Abenteuer",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028990",
-      "title": "Heiratsschwindler",
-      "year": 1938,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030211",
-      "title": "Der Hampelmann",
-      "year": 1938,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030913",
-      "title": "Der unmögliche Herr Pitt",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160557",
-      "title": "Die Nacht der Entscheidung",
-      "year": 1938,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030086",
-      "title": "Du und ich",
-      "year": 1938,
-      "imdbRating": 6.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248809",
-      "title": "Fracht von Baltimore",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129946",
-      "title": "Frühlingsluft",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030326",
-      "title": "Kleiner Mann - ganz groß!",
-      "year": 1938,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136382",
-      "title": "Maja zwischen zwei Ehen",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030461",
-      "title": "Mordsache Holm",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140398",
-      "title": "Musketier Meier III",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0131414",
+    "tt0028990",
+    "tt0030211",
+    "tt0030913",
+    "tt0160557",
+    "tt0030086",
+    "tt0248809",
+    "tt0129946",
+    "tt0030326",
+    "tt0136382",
+    "tt0030461",
+    "tt0140398"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/GoodTimeGirl",
+      "id": "GoodTimeGirl",
       "title": "Good Time Girl",
       "description": "Jean Kent stars in the 1948 film as Gwen Rawlings, a young girl who drifts in to a life of seedy nightclubs and petty crime when she is dismissed from her job after being falsely accused of theft. Her love for a nightclub musician is not enough for her and her search for excitement leads her on a downward path to murder....",
       "fileSize": 2009349510,
-      "id": "GoodTimeGirl"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/GoodTimeGirl",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 18136
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045256",
-      "title": "Tread Softly",
-      "year": 1952,
-      "imdbRating": 5.3,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040779",
-      "title": "Shed No Tears",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 473,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039220",
-      "title": "Brighton Rock",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 7156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040797",
-      "title": "16 Fathoms Deep",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041187",
-      "title": "Blonde Ice",
-      "year": 1948,
-      "imdbRating": 6,
-      "imdbVotes": 1410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040237",
-      "title": "Close-Up",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040249",
-      "title": "Counterblast",
-      "year": 1948,
-      "imdbRating": 6,
-      "imdbVotes": 244,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040257",
-      "title": "Cry of the City",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 3838,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040366",
-      "title": "Force of Evil",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 8043,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040444",
-      "title": "Hollow Triumph",
-      "year": 1948,
-      "imdbRating": 6.7,
-      "imdbVotes": 3284,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040512",
-      "title": "Kiss the Blood Off My Hands",
-      "year": 1948,
-      "imdbRating": 6.8,
-      "imdbVotes": 2308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040643",
-      "title": "Night Has a Thousand Eyes",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 1836,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0045256",
+    "tt0040779",
+    "tt0039220",
+    "tt0040797",
+    "tt0041187",
+    "tt0040237",
+    "tt0040249",
+    "tt0040257",
+    "tt0040366",
+    "tt0040444",
+    "tt0040512",
+    "tt0040643"
   ],
   "collections": [],
   "is_curated": true,

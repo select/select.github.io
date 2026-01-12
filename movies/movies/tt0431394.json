@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shout-for-joy",
+      "id": "shout-for-joy",
       "title": "Shout For Joy",
       "description": "The story of champion surfer Rick Irons (Michael Cummings).",
       "fileSize": 271891848,
-      "id": "shout-for-joy"
+      "addedAt": "2026-01-07T00:10:50.366Z",
+      "thumbnail": "https://archive.org/services/img/shout-for-joy",
+      "collection": "feature_films",
+      "downloads": 130
     }
   ],
   "metadata": {
@@ -27,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0084873",
-      "title": "A Railway Station for Two",
-      "year": 1983,
-      "imdbRating": 7.8,
-      "imdbVotes": 3743,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0085267",
-      "title": "Born in Flames",
-      "year": 1983,
-      "imdbRating": 6.5,
-      "imdbVotes": 2418,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0084044",
-      "title": "Hajji Washington",
-      "year": 1983,
-      "imdbRating": 7.1,
-      "imdbVotes": 785,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087571",
-      "title": "Children of Nagasaki",
-      "year": 1983,
-      "imdbRating": 6.8,
-      "imdbVotes": 164,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0289352",
-      "title": "Las musiqueras",
-      "year": 1983,
-      "imdbRating": 3.8,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0085234",
-      "title": "Betrayal",
-      "year": 1983,
-      "imdbRating": 6.9,
-      "imdbVotes": 1789,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0085244",
-      "title": "The Big Chill",
-      "year": 1983,
-      "imdbRating": 7.1,
-      "imdbVotes": 43913,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0086429",
-      "title": "Testament",
-      "year": 1983,
-      "imdbRating": 6.9,
-      "imdbVotes": 7406,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0086192",
-      "title": "Revenge of the Ninja",
-      "year": 1983,
-      "imdbRating": 6,
-      "imdbVotes": 6416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464185",
-      "title": "Savage Journey",
-      "year": 1983,
-      "imdbRating": 3.1,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086242",
-      "title": "The Makioka Sisters",
-      "year": 1983,
-      "imdbRating": 7.2,
-      "imdbVotes": 1795,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086251",
-      "title": "The Scarlet and the Black",
-      "year": 1983,
-      "imdbRating": 7.5,
-      "imdbVotes": 4073,
-      "language": "Latin, English, German, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0084873",
+    "tt0085267",
+    "tt0084044",
+    "tt0087571",
+    "tt0289352",
+    "tt0085234",
+    "tt0085244",
+    "tt0086429",
+    "tt0086192",
+    "tt0464185",
+    "tt0086242",
+    "tt0086251"
   ],
   "collections": [],
   "is_curated": true,

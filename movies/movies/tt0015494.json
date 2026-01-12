@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-white-sin",
+      "id": "silent-the-white-sin",
       "title": "The White Sin",
       "fileSize": 1160072366,
-      "id": "silent-the-white-sin"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-white-sin",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 482
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013332",
-      "title": "Lorna Doone",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015016",
-      "title": "The Iron Horse",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 2649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014202",
-      "title": "Little Church Around the Corner",
-      "year": 1923,
-      "imdbRating": 6.3,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014496",
-      "title": "Soul of the Beast",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016063",
-      "title": "The Mad Whirl",
-      "year": 1925,
-      "imdbRating": 7.5,
-      "imdbVotes": 54,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014972",
-      "title": "He Who Gets Slapped",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 4606,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015310",
-      "title": "The Sea Hawk",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014702",
-      "title": "Beau Brummel",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129330",
-      "title": "Tkies khaf",
-      "year": 1924,
-      "imdbRating": 6,
-      "imdbVotes": 29,
-      "language": "Yiddish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0013332",
+    "tt0015016",
+    "tt0014202",
+    "tt0014496",
+    "tt0016063",
+    "tt0015018",
+    "tt0014854",
+    "tt0015022",
+    "tt0014972",
+    "tt0015310",
+    "tt0014702",
+    "tt0129330"
   ],
   "collections": [],
   "is_curated": true,

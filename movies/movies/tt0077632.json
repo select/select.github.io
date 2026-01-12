@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheGreatBrain",
+      "id": "TheGreatBrain",
       "title": "The Great Brain",
       "description": "A movie version of the classic children's book, never released on VHS or DVD. The quality isn't great, so if anybody has a better copy, please upload it.",
       "fileSize": 1606498982,
-      "id": "TheGreatBrain"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheGreatBrain",
+      "year": 1978,
+      "collection": "feature_films",
+      "downloads": 19051
     }
   ],
   "metadata": {
@@ -27,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0229650",
-      "title": "Picardía Mexicana",
-      "year": 1978,
-      "imdbRating": 7,
-      "imdbVotes": 73,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0078155",
-      "title": "Rescue from Gilligan's Island",
-      "year": 1978,
-      "imdbRating": 5.3,
-      "imdbVotes": 2030,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072626",
-      "title": "The House of the Dead",
-      "year": 1978,
-      "imdbRating": 4.8,
-      "imdbVotes": 1193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0193711",
-      "title": "Amigos para la aventura",
-      "year": 1978,
-      "imdbRating": 4.7,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0176684",
-      "title": "Dégustation maison",
-      "year": 1978,
-      "imdbRating": 5.9,
-      "imdbVotes": 258,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0335284",
-      "title": "Margarito Tereré",
-      "year": 1978,
-      "imdbRating": 6.3,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0078294",
-      "title": "Somebody Killed Her Husband",
-      "year": 1978,
-      "imdbRating": 4.9,
-      "imdbVotes": 581,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0077321",
-      "title": "The Cheap Detective",
-      "year": 1978,
-      "imdbRating": 6.4,
-      "imdbVotes": 6179,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0202036",
-      "title": "Un idilio de estación",
-      "year": 1978,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077356",
-      "title": "How to Lose a Wife and Find a Lover",
-      "year": 1978,
-      "imdbRating": 5.1,
-      "imdbVotes": 272,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077233",
-      "title": "The Big Fix",
-      "year": 1978,
-      "imdbRating": 6.4,
-      "imdbVotes": 2448,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13423326",
-      "title": "The Concrete Cowboys",
-      "year": 1979,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0229650",
+    "tt0078155",
+    "tt0072626",
+    "tt0193711",
+    "tt0176684",
+    "tt0335284",
+    "tt0077321",
+    "tt0202036",
+    "tt0077356",
+    "tt0077233",
+    "tt13423326",
+    "tt0076391"
   ],
   "collections": [],
   "is_curated": true,

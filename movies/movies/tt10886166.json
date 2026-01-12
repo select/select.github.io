@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_365",
+      "id": "dipwad2_zoho_365",
       "title": "365",
       "description": "365",
       "fileSize": 4036116976,
-      "id": "dipwad2_zoho_365"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_365",
+      "collection": "feature_films",
+      "downloads": 3405
     }
   ],
   "metadata": {
@@ -27,123 +31,18 @@
     "Awards": "1 win & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt10768194",
-      "title": "A New York Christmas Wedding",
-      "year": 2020,
-      "imdbRating": 5.4,
-      "imdbVotes": 1441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt12787842",
-      "title": "Santa's Squad",
-      "year": 2020,
-      "imdbRating": 6,
-      "imdbVotes": 1160,
-      "language": "English, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt13197624",
-      "title": "A Glenbrooke Christmas",
-      "year": 2020,
-      "imdbRating": 6.6,
-      "imdbVotes": 1870,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt11585200",
-      "title": "The Christmas Waltz",
-      "year": 2020,
-      "imdbRating": 7,
-      "imdbVotes": 2530,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8338762",
-      "title": "The Nest",
-      "year": 2020,
-      "imdbRating": 6.3,
-      "imdbVotes": 19616,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10372548",
-      "title": "Sincerely, Yours, Truly",
-      "year": 2020,
-      "imdbRating": 6.3,
-      "imdbVotes": 815,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt9115528",
-      "title": "Never Too Late",
-      "year": 2020,
-      "imdbRating": 6,
-      "imdbVotes": 884,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10663608",
-      "title": "Between Waves",
-      "year": 2020,
-      "imdbRating": 4.2,
-      "imdbVotes": 650,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt9144004",
-      "title": "Lost at Christmas",
-      "year": 2020,
-      "imdbRating": 5.1,
-      "imdbVotes": 757,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt16156352",
-      "title": "Vladivostok",
-      "year": 2021,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt10333426",
-      "title": "Bliss",
-      "year": 2021,
-      "imdbRating": 5.4,
-      "imdbVotes": 21421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14311250",
-      "title": "Honey Lemon Soda",
-      "year": 2021,
-      "imdbRating": 5.6,
-      "imdbVotes": 213,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt10768194",
+    "tt12787842",
+    "tt13197624",
+    "tt11585200",
+    "tt8338762",
+    "tt10372548",
+    "tt9115528",
+    "tt10663608",
+    "tt9144004",
+    "tt16156352",
+    "tt10333426",
+    "tt14311250"
   ],
   "collections": [],
   "is_curated": true,

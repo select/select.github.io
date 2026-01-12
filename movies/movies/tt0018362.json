@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-scar-of-shame_1927",
+      "id": "the-scar-of-shame_1927",
       "title": "The Scar of Shame",
       "fileSize": 12476659876,
-      "id": "the-scar-of-shame_1927"
+      "addedAt": "2026-01-07T00:12:22.158Z",
+      "thumbnail": "https://archive.org/services/img/the-scar-of-shame_1927",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 826
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-scar.-of.-shame.-1929.",
+      "id": "the.-scar.-of.-shame.-1929.",
       "title": "The Scar Of Shame (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. One of the final silent films released to star an all African-American cast, this melodrama follows a young lady as she attempts to move on from an abusive and low-income home. While the film was released in 1929, filming was complete by 1927. Modern reviews praise the film for its technique as well as a unique plot.",
       "fileSize": 6847202268,
-      "id": "the.-scar.-of.-shame.-1929."
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-scar.-of.-shame.-1929.",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 48
     }
   ],
   "metadata": {
@@ -34,115 +45,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020560",
-      "title": "The Voice of the City",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020980",
-      "title": "Walk Cheerfully",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 776,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022469",
-      "title": "Ten Cents a Dance",
-      "year": 1931,
-      "imdbRating": 6.5,
-      "imdbVotes": 899,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021844",
-      "title": "The Exile",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022523",
-      "title": "The Unholy Garden",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019979",
+    "tt0020560",
+    "tt0021239",
+    "tt0018618",
+    "tt0020980",
+    "tt0021770",
+    "tt0022469",
+    "tt0021659",
+    "tt0021844",
+    "tt0022523",
+    "tt0022662",
+    "tt0023025"
   ],
   "collections": [],
   "is_curated": true,

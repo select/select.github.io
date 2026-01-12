@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Dnevnik_Glumova",
+      "id": "Dnevnik_Glumova",
       "title": "Dnevnik Glumova (Glumov's Diary)",
       "description": "From IMDb : Filmic insert to Eisenstein's modernized, free adaptation of Ostrovskiy's 19th-century Russian stage play, \"The Wise Man\" (\"Na vsyakogo mudretsa dovolno prostoty\"). The anti-hero Glumov tries to escape exposure in the midst of acrobatics, derring-do, and farcical clowning. Several members of Eisenstein's troupe at the legendary \"Proletkult\" stage theatre in Moscow briefly appear in this little film.",
       "fileSize": 94464807,
-      "id": "Dnevnik_Glumova"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/Dnevnik_Glumova",
+      "language": "Russian",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 2753
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012570",
-      "title": "The Play House",
-      "year": 1921,
-      "imdbRating": 7.4,
-      "imdbVotes": 4767,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015648",
-      "title": "Battleship Potemkin",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 63373,
-      "language": "None, Russian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt2459468",
-      "title": "Katya & the Scarlet Sails",
-      "year": 2012,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0013823",
-      "title": "Alice's Wonderland",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000546",
-      "title": "Dream of a Rarebit Fiend",
-      "year": 1906,
-      "imdbRating": 6.7,
-      "imdbVotes": 2044,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014218",
-      "title": "The Love Nest",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 2625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013858",
-      "title": "The Balloonatic",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 3297,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0336434",
-      "title": "Daredevil of the Movies",
-      "year": 1923,
-      "imdbRating": 5.4,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011722",
-      "title": "The Soilers",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0012570",
+    "tt0015648",
+    "tt2459468",
+    "tt0013823",
+    "tt0000546",
+    "tt0014218",
+    "tt0013858",
+    "tt0336434",
+    "tt0011722",
+    "tt0215575",
+    "tt0215664",
+    "tt0135122"
   ],
   "collections": [],
   "is_curated": true,

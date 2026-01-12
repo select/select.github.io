@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1934-befehl-ist-befehl-hilde-sessak-oscar-sima-trude-hesterberg",
+      "id": "1934-befehl-ist-befehl-hilde-sessak-oscar-sima-trude-hesterberg",
       "title": "1934 Befehl Ist Befehl ( Hilde Sessak, Oscar Sima, Trude Hesterberg)",
       "description": "Film aus dem deutschen dritten Reich von 1934. Befehl ist Befehl.  U.a mit Hilde Sessak und Oscar Sima ",
       "fileSize": 3826909302,
-      "id": "1934-befehl-ist-befehl-hilde-sessak-oscar-sima-trude-hesterberg"
+      "addedAt": "2026-01-07T00:06:00.053Z",
+      "thumbnail": "https://archive.org/services/img/1934-befehl-ist-befehl-hilde-sessak-oscar-sima-trude-hesterberg",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 175
     }
   ],
   "metadata": {
@@ -26,98 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031598",
-      "title": "Der lustige Witwenball",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0219918",
-      "title": "Meine Frau, die Perle",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249945",
-      "title": "Eine Seefahrt, die ist lustig",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030327",
-      "title": "Kleines Bezirksgericht",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 48,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028450",
-      "title": "Die unmögliche Frau",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249497",
-      "title": "Es waren zwei Junggesellen",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249362",
-      "title": "Annemarie. Die Geschichte einer jungen Liebe",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249460",
-      "title": "Dahinten in der Heide",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027701",
-      "title": "Die große und die kleine Welt",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249712",
-      "title": "Die Liebe des Maharadscha",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249714",
-      "title": "Ein Lied klagt an",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027663",
-      "title": "Geheimnis eines alten Hauses",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0031598",
+    "tt0219918",
+    "tt0249945",
+    "tt0030327",
+    "tt0028450",
+    "tt0249497",
+    "tt0249362",
+    "tt0249460",
+    "tt0027701",
+    "tt0249712",
+    "tt0249714",
+    "tt0027663"
   ],
   "collections": [],
   "is_curated": true,

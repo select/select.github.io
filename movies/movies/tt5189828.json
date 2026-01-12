@@ -6,17 +6,25 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mohawk",
+      "id": "mohawk",
       "title": "Mohawk",
       "fileSize": 1904884300,
-      "id": "mohawk"
+      "addedAt": "2026-01-07T00:09:54.329Z",
+      "thumbnail": "https://archive.org/services/img/mohawk",
+      "collection": "feature_films",
+      "downloads": 104530
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mohawk-western-movie-romance-full-length-english-scott-brady",
+      "id": "mohawk-western-movie-romance-full-length-english-scott-brady",
       "title": "Mohawk",
       "description": "In 1700s New York, a Boston artist working in the remote Fort Alden is torn between his love for 2 women and thrown into the middle of a Mohawk-Iroquois-American war.",
       "fileSize": 328440162,
-      "id": "mohawk-western-movie-romance-full-length-english-scott-brady"
+      "addedAt": "2026-01-07T00:09:54.329Z",
+      "thumbnail": "https://archive.org/services/img/mohawk-western-movie-romance-full-length-english-scott-brady",
+      "collection": "feature_films",
+      "downloads": 2915
     }
   ],
   "metadata": {
@@ -34,121 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt6353716",
-      "title": "The Frozen Front",
-      "year": 2017,
-      "imdbRating": 3.9,
-      "imdbVotes": 326,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7160176",
-      "title": "The Fortress",
-      "year": 2017,
-      "imdbRating": 6.8,
-      "imdbVotes": 3574,
-      "language": "Korean",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt4738360",
-      "title": "The Last King",
-      "year": 2016,
-      "imdbRating": 6.1,
-      "imdbVotes": 7870,
-      "language": "Norwegian",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt6084202",
-      "title": "Blizzard of Souls",
-      "year": 2019,
-      "imdbRating": 7.2,
-      "imdbVotes": 5306,
-      "language": "Latvian, English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt1986769",
-      "title": "Alone Yet Not Alone",
-      "year": 2013,
-      "imdbRating": 4.7,
-      "imdbVotes": 982,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3881026",
-      "title": "Rendel: Dark Vengeance",
-      "year": 2017,
-      "imdbRating": 4.6,
-      "imdbVotes": 2479,
-      "language": "Finnish, English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0054436",
-      "title": "Revenge of the Barbarians",
-      "year": 1960,
-      "imdbRating": 5.8,
-      "imdbVotes": 65,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041940",
-      "title": "Sword in the Desert",
-      "year": 1949,
-      "imdbRating": 6.5,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020558",
-      "title": "Centurion",
-      "year": 2010,
-      "imdbRating": 6.3,
-      "imdbVotes": 88560,
-      "language": "English, Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055884",
-      "title": "Damn the Defiant!",
-      "year": 1962,
-      "imdbRating": 7.1,
-      "imdbVotes": 3108,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051565",
-      "title": "Dunkirk",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 3775,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4400994",
-      "title": "The Ballad of Lefty Brown",
-      "year": 2017,
-      "imdbRating": 6.3,
-      "imdbVotes": 8468,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt6353716",
+    "tt7160176",
+    "tt4738360",
+    "tt6084202",
+    "tt1986769",
+    "tt3881026",
+    "tt0054436",
+    "tt0041940",
+    "tt1020558",
+    "tt0055884",
+    "tt0051565",
+    "tt4400994"
   ],
   "collections": [],
   "is_curated": true,

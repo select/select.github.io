@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-rhythmus-23",
+      "id": "silent-rhythmus-23",
       "title": "Rhythmus 23",
       "fileSize": 47975101,
-      "id": "silent-rhythmus-23"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-rhythmus-23",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 435
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012620",
-      "title": "Rhythmus 21",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 1485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141026",
-      "title": "Felix Goes A-Hunting",
-      "year": 1923,
-      "imdbRating": 5.4,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141022",
-      "title": "Felix Gets Broadcasted",
-      "year": 1923,
-      "imdbRating": 5.4,
-      "imdbVotes": 81,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015800",
-      "title": "Felix in Fairyland",
-      "year": 1923,
-      "imdbRating": 6,
-      "imdbVotes": 93,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141039",
-      "title": "Felix Revolts",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 106,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015799",
-      "title": "Felix Win's Out",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146849",
-      "title": "Happy Go Luckies",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2236486",
-      "title": "Jack the Giant Killer",
-      "year": 1922,
-      "imdbRating": 4.9,
-      "imdbVotes": 129,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419901",
-      "title": "Kyoiku otogi manga: Usagi to kame",
-      "year": 1924,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013520",
-      "title": "Puss in Boots",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 367,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0012620",
+    "tt0141026",
+    "tt0141022",
+    "tt0015800",
+    "tt0141039",
+    "tt0015799",
+    "tt0146849",
+    "tt0141028",
+    "tt0013014",
+    "tt2236486",
+    "tt0419901",
+    "tt0013520"
   ],
   "collections": [],
   "is_curated": true,

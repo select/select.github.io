@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DuncesAndDangers_921",
+      "id": "DuncesAndDangers_921",
       "title": "Dunces and Dangers",
       "description": "Classic silent film from 1918.",
       "fileSize": 134196904,
-      "id": "DuncesAndDangers_921"
+      "addedAt": "2026-01-07T00:06:19.370Z",
+      "thumbnail": "https://archive.org/services/img/DuncesAndDangers_921",
+      "collection": "feature_films",
+      "downloads": 1533
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DuncesandDangers",
+      "id": "DuncesandDangers",
       "title": "Dunces and Dangers",
       "description": "A skyscraper thrill comedy made a year before Harold Lloyd's \"Look Out Below\"",
       "fileSize": 284148771,
-      "id": "DuncesandDangers"
+      "addedAt": "2026-01-07T00:06:19.370Z",
+      "thumbnail": "https://archive.org/services/img/DuncesandDangers",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 5814
     }
   ],
   "metadata": {
@@ -35,108 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0277342",
-      "title": "Spies and Spills",
-      "year": 1918,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174483",
-      "title": "Babes and Boobs",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277438",
-      "title": "Whistles and Windows",
-      "year": 1918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009563",
-      "title": "Romans and Rascals",
-      "year": 1918,
-      "imdbRating": 4.3,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248567",
-      "title": "Traps and Tangles",
-      "year": 1919,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0455012",
-      "title": "Gall and Golf",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 17,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277323",
-      "title": "Slips and Slackers",
-      "year": 1917,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277391",
-      "title": "Tough Luck and Tin Lizzies",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277236",
-      "title": "Plagues and Puppy Love",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007023",
-      "title": "The Man from Egypt",
-      "year": 1916,
-      "imdbRating": 5.1,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0268266",
-      "title": "The Dome Doctor",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367898",
-      "title": "J-U-N-K",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0277342",
+    "tt0174483",
+    "tt0277438",
+    "tt0009563",
+    "tt0248567",
+    "tt0455012",
+    "tt0277323",
+    "tt0277391",
+    "tt0277236",
+    "tt0007023",
+    "tt0268266",
+    "tt0367898"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DayOfTheKillerTornadoes",
+      "id": "DayOfTheKillerTornadoes",
       "title": "Day of the Killer Tornadoes",
       "description": "government documentary film about savage weather.",
       "fileSize": 229765499,
-      "id": "DayOfTheKillerTornadoes"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/DayOfTheKillerTornadoes",
+      "collection": "feature_films",
+      "downloads": 18768
     }
   ],
   "metadata": {
@@ -27,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt7320904",
-      "title": "Eddie and Lutz",
-      "year": 1979,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1816593",
-      "title": "Mr. Lincoln's Springfield",
-      "year": 1977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079704",
-      "title": "Paul Robeson: Tribute to an Artist",
-      "year": 1979,
-      "imdbRating": 7.5,
-      "imdbVotes": 521,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322088",
-      "title": "Haircut",
-      "year": 1974,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt12618064",
-      "title": "Buck Southworth: U.S. Air Force Flight Crew",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3155794",
-      "title": "Passage de Venus",
-      "year": 1874,
-      "imdbRating": 6.8,
-      "imdbVotes": 1947,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt7320904",
+    "tt1816593",
+    "tt0079704",
+    "tt7322088",
+    "tt6564690",
+    "tt12618064",
+    "tt3155794",
+    "tt0021576",
+    "tt0000537",
+    "tt0178247",
+    "tt0334912",
+    "tt3100486"
   ],
   "collections": [],
   "is_curated": true,

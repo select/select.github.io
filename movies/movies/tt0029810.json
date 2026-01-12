@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/YoungDynamite",
+      "id": "YoungDynamite",
       "title": "Young Dynamite",
       "description": "The young brother of a State Trooper (Frankie Darro) helps capture murdering bandits.",
       "fileSize": 1059550393,
-      "id": "YoungDynamite"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/YoungDynamite",
+      "collection": "feature_films",
+      "downloads": 4550
     }
   ],
   "metadata": {
@@ -27,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027517",
-      "title": "The Devil Diamond",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134289",
-      "title": "Anything for a Thrill",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030025",
-      "title": "Crime Ring",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030648",
-      "title": "Racing Blood",
-      "year": 1936,
-      "imdbRating": 4.7,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033113",
-      "title": "Sued for Libel",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029941",
-      "title": "Boy of the Streets",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028719",
-      "title": "Circus Girl",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028560",
-      "title": "Alarm in Peking",
-      "year": 1937,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029095",
-      "title": "Die Kronzeugin",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029112",
-      "title": "Larceny on the Air",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029528",
-      "title": "Sea Racketeers",
-      "year": 1937,
-      "imdbRating": 5.2,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028943",
-      "title": "The Gold Racket",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027517",
+    "tt0134289",
+    "tt0030025",
+    "tt0030648",
+    "tt0033113",
+    "tt0029941",
+    "tt0028719",
+    "tt0028560",
+    "tt0029095",
+    "tt0029112",
+    "tt0029528",
+    "tt0028943"
   ],
   "collections": [],
   "is_curated": true,

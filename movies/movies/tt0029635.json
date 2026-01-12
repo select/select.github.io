@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/take-a-chance_202106",
+      "id": "take-a-chance_202106",
       "title": "Take A Chance",
       "description": "Archie Burton is a horse trainer who has entered one of his horses, Take A Chance, into the Gold Cup. But his wife is irritated by his mood towards her so she becomes friendly with another man, whose real objective is to learn the secrets of her husbands stables.",
       "fileSize": 5876209587,
-      "id": "take-a-chance_202106"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/take-a-chance_202106",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 996
     }
   ],
   "metadata": {
@@ -27,106 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023845",
-      "title": "Britannia of Billingsgate",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024298",
-      "title": "The Man from Toronto",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028568",
-      "title": "All Over Town",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029101",
-      "title": "Der Lachdoktor",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029521",
-      "title": "Der Schimmelkrieg in der Holledau",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0170436",
-      "title": "Kein Wort von Liebe",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029225",
-      "title": "Mein Sohn, der Herr Minister",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029731",
-      "title": "Versprich mir nichts!",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028845",
-      "title": "Exiled to Shanghai",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0023845",
+    "tt0024298",
+    "tt0028568",
+    "tt0028574",
+    "tt0233667",
+    "tt0028018",
+    "tt0029101",
+    "tt0029521",
+    "tt0170436",
+    "tt0029225",
+    "tt0029731",
+    "tt0028845"
   ],
   "collections": [],
   "is_curated": true,

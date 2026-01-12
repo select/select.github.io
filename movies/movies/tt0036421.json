@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-texas-kid-1943",
+      "id": "the-texas-kid-1943",
       "title": "The Texas Kid (1943)",
       "description": "Marshals Nevada and Sandy are after Scully and his gang who have been robbing stage-coaches. The Texas Kid is part of the gang and Sandy thinks he is bad but Nevada knows him and thinks he may be good. Watch on RetroFlix: ",
       "fileSize": 784072441,
-      "id": "the-texas-kid-1943"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-texas-kid-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 65
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=GBgI4R_-SOQ",
+      "id": "GBgI4R_-SOQ",
       "title": "The Texas Kid (1943) JOHNNY MACK BROWN",
       "description": "Stars: Johnny Mack Brown, Raymond Hatton, Marshall Reed \nDirector: Lambert Hillyer\n\nA pair of Marshals are after a gang that includes the Texas Kid, who have been robbing stage-coaches.",
-      "id": "GBgI4R_-SOQ",
+      "addedAt": "2025-12-26T23:44:05.172Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/GBgI4R_-SOQ/maxresdefault.webp",
+      "duration": 3356,
+      "language": "en",
+      "year": 1943,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037009",
-      "title": "Law Men",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037165",
-      "title": "Partners of the Trail",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0011779",
-      "title": "The Toll Gate",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034505",
-      "title": "Below the Border",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 129,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034785",
-      "title": "Ghost Town Law",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0034638",
-      "title": "Dawn on the Great Divide",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033683",
-      "title": "The Gunman from Bodie",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038106",
-      "title": "South of the Rio Grande",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 48,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035701",
-      "title": "Bullets and Saddles",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035788",
-      "title": "Death Valley Rangers",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037009",
+    "tt0037165",
+    "tt0011779",
+    "tt0034505",
+    "tt0034785",
+    "tt0034638",
+    "tt0033683",
+    "tt0038106",
+    "tt0035701",
+    "tt0035723",
+    "tt0035788",
+    "tt0035804"
   ],
   "collections": [],
   "is_curated": true,

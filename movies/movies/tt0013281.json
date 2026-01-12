@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-jumping-beans",
+      "id": "silent-jumping-beans",
       "title": "Jumping Beans",
       "fileSize": 190460857,
-      "id": "silent-jumping-beans"
+      "addedAt": "2026-01-07T00:11:07.406Z",
+      "thumbnail": "https://archive.org/services/img/silent-jumping-beans",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 284
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012985",
-      "title": "Bubbles",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 120,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013137",
-      "title": "Flies",
-      "year": 1922,
-      "imdbRating": 7.3,
-      "imdbVotes": 37,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013865",
-      "title": "Bed Time",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012174",
-      "title": "Fishing",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 65,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012320",
-      "title": "Invisible Ink",
-      "year": 1921,
-      "imdbRating": 7,
-      "imdbVotes": 334,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012467",
-      "title": "Modeling",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011938",
-      "title": "The Automobile Ride",
-      "year": 1921,
-      "imdbRating": 5.9,
-      "imdbVotes": 34,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014385",
-      "title": "The Puzzle",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 72,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014560",
-      "title": "Trapped",
-      "year": 1923,
-      "imdbRating": 6.1,
-      "imdbVotes": 97,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015150",
-      "title": "Mother Gooseland",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 34,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011568",
-      "title": "Perpetual Motion",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 50,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011055",
-      "title": "The Chinaman",
-      "year": 1920,
-      "imdbRating": 5.6,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0012985",
+    "tt0013137",
+    "tt0013865",
+    "tt0012174",
+    "tt0012320",
+    "tt0012467",
+    "tt0011938",
+    "tt0014385",
+    "tt0014560",
+    "tt0015150",
+    "tt0011568",
+    "tt0011055"
   ],
   "collections": [
     {

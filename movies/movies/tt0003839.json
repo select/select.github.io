@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-child-of-the-big-city",
+      "id": "silent-child-of-the-big-city",
       "title": "Child of the Big City",
       "fileSize": 885662118,
-      "id": "silent-child-of-the-big-city"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-child-of-the-big-city",
+      "language": "Russian",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 436
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005414",
-      "title": "Daydreams",
-      "year": 1915,
-      "imdbRating": 6.7,
-      "imdbVotes": 309,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005916",
-      "title": "After Death",
-      "year": 1915,
-      "imdbRating": 6.8,
-      "imdbVotes": 1007,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212633",
-      "title": "Her Sister's Rival",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 471,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003755",
-      "title": "The Car of Death",
-      "year": 1914,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004209",
-      "title": "The Last of the Line",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003734",
-      "title": "By the Sun's Rays",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 281,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1275552",
-      "title": "By Whose Hand",
-      "year": 1914,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1198545",
-      "title": "Blue Blood and Red",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2261397",
-      "title": "Christmas Day in the Workhouse",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0005414",
+    "tt0005916",
+    "tt0212633",
+    "tt0004028",
+    "tt0003755",
+    "tt0004209",
+    "tt0003734",
+    "tt1275552",
+    "tt2160081",
+    "tt1223220",
+    "tt1198545",
+    "tt2261397"
   ],
   "collections": [],
   "is_curated": true,

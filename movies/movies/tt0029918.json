@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheBlackDoll",
+      "id": "TheBlackDoll",
       "title": "The Black Doll",
       "description": "“Decent Crime Club entry” “Very entertaining” “Decent but goofy tale of murder” “Tepid mystery” (IMDB reviews quotes). One of eleven Universal Pictures whodunits adapted from Doubleday’s Crime Club book series. Okay cast and production for a B-feature mystery. IMBD rating 6.2. Directed by Otis Garrett. Released in 1938. 2 minutes are missing. SPECIAL NOTE: The Doubleday mysteries also spawned radio series on the CBS and Mutual networks. The complete Mutual series is here at IA as part of the Old Time Radio Collection: https://archive.org/details/Crime_Club  ",
       "fileSize": 585255706,
-      "id": "TheBlackDoll"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheBlackDoll",
+      "collection": "feature_films",
+      "downloads": 22259
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-black-doll",
+      "id": "the-black-doll",
       "title": "The Black Doll",
       "description": "The Black Doll Crime Club movie 2 ",
       "fileSize": 1114569173,
-      "id": "the-black-doll"
+      "addedAt": "2026-01-07T00:11:46.533Z",
+      "thumbnail": "https://archive.org/services/img/the-black-doll",
+      "collection": "feature_films",
+      "downloads": 578
     }
   ],
   "metadata": {
@@ -35,112 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030694",
-      "title": "Romance on the Run",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030342",
-      "title": "The Lady in the Morgue",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031705",
-      "title": "Mystery of the White Room",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032137",
-      "title": "The Witness Vanishes",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052655",
-      "title": "A Bucket of Blood",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 8366,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030148",
-      "title": "Fortsetzung folgt",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030449",
-      "title": "Midnight Intruder",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072626",
-      "title": "The House of the Dead",
-      "year": 1978,
-      "imdbRating": 4.8,
-      "imdbVotes": 1193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030968",
-      "title": "When Were You Born?",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 412,
-      "language": "Chinese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030261",
-      "title": "I'll Give a Million",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 238,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030037",
+    "tt0030694",
+    "tt0030342",
+    "tt0031705",
+    "tt0032137",
+    "tt0032343",
+    "tt0052655",
+    "tt0030148",
+    "tt0030449",
+    "tt0072626",
+    "tt0030968",
+    "tt0030261"
   ],
   "collections": [],
   "is_curated": true,

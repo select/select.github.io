@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-das-lied-der-colombine",
+      "id": "silent-das-lied-der-colombine",
       "title": "Das Lied der Colombine",
       "fileSize": 1106985746,
-      "id": "silent-das-lied-der-colombine"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-das-lied-der-colombine",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 488
     }
   ],
   "metadata": {
@@ -25,107 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0132234",
-      "title": "Im Lebenswirbel",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 25,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240523",
-      "title": "A föld rabjai",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0242728",
-      "title": "Az utolsó éjszaka",
-      "year": 1917,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194645",
-      "title": "Die Ahnfrau",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 50,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011273",
-      "title": "Hegyek alján",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432307",
-      "title": "Johann Baptiste Lingg",
-      "year": 1920,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011239",
-      "title": "Mat",
-      "year": 1920,
-      "imdbRating": 4.2,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007407",
-      "title": "Szulamit",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011024",
-      "title": "The Breaking of the Drought",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432875",
-      "title": "Das große Geheimnis",
-      "year": 1920,
-      "language": "None, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0237484",
-      "title": "Eine Nacht an der Donau",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0489036",
-      "title": "Dämon Zirkus",
-      "year": 1923,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    }
+    "tt0132234",
+    "tt0240523",
+    "tt0242728",
+    "tt0194645",
+    "tt0011273",
+    "tt0432307",
+    "tt0011239",
+    "tt0007407",
+    "tt0011024",
+    "tt0432875",
+    "tt0237484",
+    "tt0489036"
   ],
   "collections": [],
   "is_curated": true,

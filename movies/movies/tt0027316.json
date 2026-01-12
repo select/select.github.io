@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AugustWeekend",
+      "id": "AugustWeekend",
       "title": "August Weekend",
       "description": "Several people are invited to a Long Island Estate for the weekend and each of them has a different crisis to face. Before the weekend is over, most of their lives will change dramatically.",
       "fileSize": 1090750268,
-      "id": "AugustWeekend"
+      "addedAt": "2026-01-07T00:06:14.037Z",
+      "thumbnail": "https://archive.org/services/img/AugustWeekend",
+      "collection": "feature_films",
+      "downloads": 10737
     }
   ],
   "metadata": {
@@ -27,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027348",
-      "title": "Below the Deadline",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026412",
-      "title": "The Girl Who Came Back",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 80,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027896",
-      "title": "The Little Red Schoolhouse",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028186",
-      "title": "Ring Around the Moon",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027501",
-      "title": "The Dark Hour",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027863",
-      "title": "Lady Luck",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026213",
-      "title": "Circumstantial Evidence",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 112,
-      "language": "Latin, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029745",
-      "title": "Wallaby Jim of the Islands",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026438",
-      "title": "The Great Impersonation",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026599",
-      "title": "The Lady in Scarlet",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026333",
-      "title": "False Pretenses",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027348",
+    "tt0026412",
+    "tt0027406",
+    "tt0027896",
+    "tt0028186",
+    "tt0027501",
+    "tt0027863",
+    "tt0026213",
+    "tt0029745",
+    "tt0026438",
+    "tt0026599",
+    "tt0026333"
   ],
   "collections": [],
   "is_curated": true,

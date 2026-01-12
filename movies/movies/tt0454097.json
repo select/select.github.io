@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-chantecoq",
+      "id": "silent-chantecoq",
       "title": "Chantecoq",
       "fileSize": 1296605000,
-      "id": "silent-chantecoq"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-chantecoq",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 245
     }
   ],
   "metadata": {
@@ -25,114 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006405",
-      "title": "Kitchener's Great Army in the Battle of the Somme",
-      "year": 1916,
-      "imdbRating": 6.6,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004972",
-      "title": "The Birth of a Nation",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 26892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008663",
-      "title": "A Man There Was",
-      "year": 1917,
-      "imdbRating": 7.3,
-      "imdbVotes": 2389,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008188",
-      "title": "The Little American",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008807",
-      "title": "El último malón",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0142333",
-      "title": "The Gown of Destiny",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 19,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008359",
-      "title": "Mothers of France",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 50,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005059",
-      "title": "The Captive",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 150,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005149",
-      "title": "The Coward",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 338,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009150",
-      "title": "Hearts of the World",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1094,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009620",
-      "title": "The Sinking of the 'Lusitania'",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 1323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0006405",
+    "tt0004972",
+    "tt0008663",
+    "tt0008188",
+    "tt0005719",
+    "tt0008807",
+    "tt0142333",
+    "tt0008359",
+    "tt0005059",
+    "tt0005149",
+    "tt0009150",
+    "tt0009620"
   ],
   "collections": [],
   "is_curated": true,

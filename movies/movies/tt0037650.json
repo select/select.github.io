@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dollface",
+      "id": "dollface",
       "title": "Doll Face",
       "description": "A former burlesque queen needs to acquire some culture to give herself some legitimacy.",
       "fileSize": 4010139649,
-      "id": "dollface"
+      "addedAt": "2026-01-07T00:08:07.360Z",
+      "thumbnail": "https://archive.org/services/img/dollface",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 80782
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=slAqznx2y5c",
+      "id": "slAqznx2y5c",
       "title": "Doll Face (1945) Burlesque Comedy, Music, Romance Film",
       "description": "HUBBA, HUBBA, HUBBA! WHAT A MUSICAL! Burlesque star (Blaine) makes it in the big time.\n \nDirector: Lewis Seiler\nWriters: Gypsy Rose Lee (as Louise Hovick), Leonard Praskins \nStars: Vivian Blaine, Dennis O'Keefe, Perry Como & Carmen Miranda\nGenres: Burlesque, Comedy, Music, Romance\n\n@CCC socials:\nhttps://www.facebook.com/CultCinemaClassics \nhttps://www.instagram.com/cultcinemaclassics\nhttps://www.twitch.tv/cultcinemaclassics",
-      "id": "slAqznx2y5c",
+      "addedAt": "2025-12-27T00:50:00.821Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/slAqznx2y5c/maxresdefault.webp?v=62bb3109",
+      "duration": 4691,
+      "language": "en",
+      "year": 1945,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037923",
-      "title": "Molly and Me",
-      "year": 1945,
-      "imdbRating": 6.9,
-      "imdbVotes": 591,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037399",
-      "title": "Trocadero",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 138,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036941",
-      "title": "I'm from Arkansas",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036723",
-      "title": "Cover Girl",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 6294,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034416",
-      "title": "Zis Boom Bah",
-      "year": 1941,
-      "imdbRating": 4.7,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029482",
-      "title": "Rhythm in the Clouds",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037541",
-      "title": "The Big Show-Off",
-      "year": 1945,
-      "imdbRating": 5.6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037636",
-      "title": "Delightfully Dangerous",
-      "year": 1945,
-      "imdbRating": 6.1,
-      "imdbVotes": 317,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037514",
-      "title": "Anchors Aweigh",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 9841,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038119",
-      "title": "The Stork Club",
-      "year": 1945,
-      "imdbRating": 6.4,
-      "imdbVotes": 758,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151753",
-      "title": "A Night of Magic",
-      "year": 1944,
-      "imdbRating": 3.9,
-      "imdbVotes": 65,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036635",
-      "title": "Bees in Paradise",
-      "year": 1944,
-      "imdbRating": 4.9,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037923",
+    "tt0037399",
+    "tt0036941",
+    "tt0036723",
+    "tt0038382",
+    "tt0034416",
+    "tt0029482",
+    "tt0037541",
+    "tt0037636",
+    "tt0037514",
+    "tt0038119",
+    "tt0151753"
   ],
   "collections": [],
   "is_curated": true,

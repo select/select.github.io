@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/accomplice-1946",
+      "id": "accomplice-1946",
       "title": "Accomplice (1946)",
       "description": "Richard Arlen, Veda Ann Borg Based on the novel Simon Lash, Private Detective by Frank Gruber",
       "fileSize": 1111076487,
-      "id": "accomplice-1946"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/accomplice-1946",
+      "collection": "feature_films",
+      "downloads": 862
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042935",
-      "title": "The Secret Fury",
-      "year": 1950,
-      "imdbRating": 6.6,
-      "imdbVotes": 1246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038346",
-      "title": "Behind Green Lights",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 1068,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038986",
-      "title": "Strange Impersonation",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038640",
-      "title": "The Inner Circle",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038937",
-      "title": "Shock",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 3476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038828",
-      "title": "Passkey to Danger",
-      "year": 1946,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038958",
-      "title": "So Dark the Night",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1443,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039015",
-      "title": "Temptation",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 394,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039050",
-      "title": "The Truth About Murder",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038449",
-      "title": "Dangerous Money",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1300,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037691",
-      "title": "Fallen Angel",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 6860,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039757",
-      "title": "The Red House",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 5167,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042935",
+    "tt0038346",
+    "tt0038986",
+    "tt0038640",
+    "tt0038937",
+    "tt0038828",
+    "tt0038958",
+    "tt0039015",
+    "tt0039050",
+    "tt0038449",
+    "tt0037691",
+    "tt0039757"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ToSeeSuchFun190",
+      "id": "ToSeeSuchFun190",
       "title": "To See Such Fun",
       "description": "Title: To See Such Fun Summary: Excerpts from 80 years of the greatest British comedies. Directed by: Jon Scoffield Actors: Frank Muir, Chesney Allen, Arthur Askey Production Company: The Rank Organisation Release Date: 25 December 1977 (UK) Aspect Ratio: REMOVE_TAG Excerpts from 80 years of the greatest British comedies.",
       "fileSize": 713546633,
-      "id": "ToSeeSuchFun190"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/ToSeeSuchFun190",
+      "year": 1977,
+      "collection": "feature_films",
+      "downloads": 2030
     }
   ],
   "metadata": {
@@ -27,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0073076",
-      "title": "Grey Gardens",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 16059,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194880",
-      "title": "La fiesta de todos",
-      "year": 1979,
-      "imdbRating": 3.3,
-      "imdbVotes": 96,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12636104",
-      "title": "Wim Sonneveld met Willem Nijholt en Corrie van Gorp",
-      "year": 1973,
-      "language": "Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076391",
-      "title": "Mimino",
-      "year": 1977,
-      "imdbRating": 8.1,
-      "imdbVotes": 7423,
-      "language": "Russian, Georgian, Armenian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005675",
-      "title": "Mabel and Fatty Viewing the World's Fair at San Francisco",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 121,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075659",
-      "title": "All at Sea",
-      "year": 1977,
-      "imdbRating": 4.4,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075956",
-      "title": "Double Nickels",
-      "year": 1977,
-      "imdbRating": 5.1,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178306",
-      "title": "El casamiento de Laucha",
-      "year": 1977,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076162",
-      "title": "House",
-      "year": 1977,
-      "imdbRating": 7.2,
-      "imdbVotes": 36764,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074166",
-      "title": "La aventura explosiva",
-      "year": 1977,
-      "imdbRating": 4.4,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074982",
-      "title": "La nueva cigarra",
-      "year": 1977,
-      "imdbRating": 7.1,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0073076",
+    "tt0194880",
+    "tt12636104",
+    "tt0076391",
+    "tt0021576",
+    "tt0005675",
+    "tt0075659",
+    "tt0075956",
+    "tt0178306",
+    "tt0076162",
+    "tt0074166",
+    "tt0074982"
   ],
   "collections": [],
   "is_curated": true,

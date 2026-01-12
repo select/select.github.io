@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Oil_Raider_1934",
+      "id": "Oil_Raider_1934",
       "title": "Oil Raider",
       "description": "A Buster Crabbe film.",
       "fileSize": 1173863625,
-      "id": "Oil_Raider_1934"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/Oil_Raider_1934",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 7464
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=uuhVpQ13JQU",
+      "id": "uuhVpQ13JQU",
       "title": "The Oil Raider (1934) BUSTER CRABBE",
       "description": "Stars: Buster Crabbe, Gloria Shea, George Irving \n Director: Spencer Gordon Bennet\n\n \"Wildcatter\" Dave Warren and his crew are trying to bring in a new oil well. Dave gives troublemaker Simmons a good thrashing and orders him off the site. In order to complete drilling Dave borrows $50,000 from investment banker J. T. Varley and also begins a romance with Varley's daughter Alice. Varley suffers market reverses and knowing that Dave is about to strike oil hires Simmons to wreck the rig so he can foreclose and take over",
-      "id": "uuhVpQ13JQU",
+      "addedAt": "2025-12-26T23:53:20.124Z",
+      "thumbnail": "https://i.ytimg.com/vi/uuhVpQ13JQU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhdIF0oXTAP&rs=AOn4CLB7m8mvApLg0lKWInBeRcB3GVYwIQ",
+      "duration": 3613,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027007",
-      "title": "Skull and Crown",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026216",
-      "title": "The Lost City",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 326,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025562",
-      "title": "Night Alarm",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029130",
-      "title": "The Legion of Missing Men",
-      "year": 1937,
-      "imdbRating": 5.1,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024219",
-      "title": "King of the Jungle",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 218,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024445",
-      "title": "The Phantom of the Air",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029847",
-      "title": "Air Devils",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021555",
-      "title": "Wings of Adventure",
-      "year": 1930,
-      "imdbRating": 4.7,
-      "imdbVotes": 58,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030798",
-      "title": "Storm Over Bengal",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027366",
-      "title": "Black Gold",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027623",
-      "title": "Flash Gordon",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 2758,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058589",
-      "title": "Simbad contro i sette saraceni",
-      "year": 1964,
-      "imdbRating": 4.2,
-      "imdbVotes": 163,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0027007",
+    "tt0026216",
+    "tt0025562",
+    "tt0029130",
+    "tt0024219",
+    "tt0024445",
+    "tt0029847",
+    "tt0021555",
+    "tt0030798",
+    "tt0027366",
+    "tt0027623",
+    "tt0058589"
   ],
   "collections": [],
   "is_curated": true,

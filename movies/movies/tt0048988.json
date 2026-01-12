@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BasinStreetRevue",
+      "id": "BasinStreetRevue",
       "title": "Basin Street Revue",
       "description": "Musical variety filmed at the Apollo Theatre in Harlem, New York City.",
       "fileSize": 1351463280,
-      "id": "BasinStreetRevue"
+      "addedAt": "2026-01-07T00:06:14.038Z",
+      "thumbnail": "https://archive.org/services/img/BasinStreetRevue",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 7660
     }
   ],
   "metadata": {
@@ -27,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049397",
-      "title": "Carnival Night",
-      "year": 1956,
-      "imdbRating": 7.4,
-      "imdbVotes": 3356,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0179798",
-      "title": "Estrellas de Buenos Aires",
-      "year": 1956,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188971",
-      "title": "Novia para dos",
-      "year": 1956,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050842",
-      "title": "The Pied Piper of Hamelin",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 572,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048260",
-      "title": "Kismet",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 1711,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048441",
-      "title": "Oh... Rosalinda!!",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 443,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0127366",
-      "title": "El ángel de España",
-      "year": 1957,
-      "imdbRating": 2.4,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183070",
-      "title": "El fantasma de la opereta",
-      "year": 1955,
-      "imdbRating": 3.6,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198797",
-      "title": "Más pobre que una laucha",
-      "year": 1955,
-      "imdbRating": 6.8,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198847",
-      "title": "Un novio para Laura",
-      "year": 1955,
-      "imdbRating": 6.9,
-      "imdbVotes": 29,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0316847",
-      "title": "Venga a bailar el rock",
-      "year": 1957,
-      "imdbRating": 5.8,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053640",
-      "title": "The Beatniks",
-      "year": 1958,
-      "imdbRating": 2.5,
-      "imdbVotes": 1124,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049397",
+    "tt0179798",
+    "tt0188971",
+    "tt0050842",
+    "tt0048260",
+    "tt0048441",
+    "tt0127366",
+    "tt0183070",
+    "tt0198797",
+    "tt0198847",
+    "tt0316847",
+    "tt0053640"
   ],
   "collections": [],
   "is_curated": true,

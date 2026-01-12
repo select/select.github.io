@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NeverTooLateToMend",
+      "id": "NeverTooLateToMend",
       "title": "Never Too Late To Mend",
       "description": "It is olde England and an evil land owner uses the local prison as his tool to get rid of poor people who bother him, until one day the tables are turned and he gets his just reward.",
       "fileSize": 1375476015,
-      "id": "NeverTooLateToMend"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/NeverTooLateToMend",
+      "collection": "feature_films",
+      "downloads": 8095
     }
   ],
   "metadata": {
@@ -26,111 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1059291",
-      "title": "Prussian Culture",
-      "year": 1908,
-      "imdbRating": 5.3,
-      "imdbVotes": 245,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002356",
-      "title": "The Melody of Love",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0344506",
-      "title": "The Two Roses",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470339",
-      "title": "The Haunted Bedroom",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0330942",
-      "title": "The Struggle",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0427674",
-      "title": "The Garibaldi Boy",
-      "year": 1909,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367144",
-      "title": "The Tiniest of Stars",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1113818",
+    "tt1223220",
+    "tt1059291",
+    "tt0417062",
+    "tt0002356",
+    "tt0344506",
+    "tt0470339",
+    "tt0463594",
+    "tt0330942",
+    "tt0427674",
+    "tt0367144",
+    "tt0231716"
   ],
   "collections": [],
   "is_curated": true,

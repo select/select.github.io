@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lying_lips",
+      "id": "lying_lips",
       "title": "Lying Lips",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3495951475,
-      "id": "lying_lips"
+      "addedAt": "2026-01-07T00:09:46.420Z",
+      "thumbnail": "https://archive.org/services/img/lying_lips",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 23026
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lying_lips_ipod",
+      "id": "lying_lips_ipod",
       "title": "Lying Lips",
       "description": "A nightclub singer refuses to \"date\" customers, so she's framed for the murder of her aunt, convicted of the killing and sent to prison",
       "fileSize": 1372854448,
-      "id": "lying_lips_ipod"
+      "addedAt": "2026-01-07T00:09:46.420Z",
+      "thumbnail": "https://archive.org/services/img/lying_lips_ipod",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 81645
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=AMq4EUJFcWE",
+      "id": "AMq4EUJFcWE",
       "title": "Lying Lips (1939) OSCAR MICHEAUX",
       "description": "BLACK HISTORY MONTH\nWriter/Director: Oscar Micheaux\nStars: Edna Mae Harris, Carman Newsome, Robert Earl Jones \n\nWhen a nightclub singer is framed for murder and sent to prison,  a police detective sets out to prove her innocence.",
-      "id": "AMq4EUJFcWE",
+      "addedAt": "2025-12-26T23:44:01.539Z",
+      "thumbnail": "https://i.ytimg.com/vi/AMq4EUJFcWE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDt8njGPQgYZO5I5eOXt-jXoz4uIQ",
+      "duration": 4098,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031051",
-      "title": "The Arizona Kid",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031216",
-      "title": "Days of Jesse James",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031247",
-      "title": "Down the Wyoming Trail",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031668",
-      "title": "Moon Over Harlem",
-      "year": 1939,
-      "imdbRating": 4.8,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031857",
-      "title": "Ride 'em, Cowgirl",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031860",
-      "title": "Riders of the Frontier",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031859",
-      "title": "Riders of Black River",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031406",
-      "title": "Harlem Rides the Range",
-      "year": 1939,
-      "imdbRating": 5,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031889",
-      "title": "Saga of Death Valley",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031929",
-      "title": "Six-Gun Rhythm",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031313",
-      "title": "Fisherman's Wharf",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 113,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032107",
-      "title": "Wall Street Cowboy",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0031051",
+    "tt0031216",
+    "tt0031247",
+    "tt0031668",
+    "tt0031857",
+    "tt0031860",
+    "tt0031859",
+    "tt0031406",
+    "tt0031889",
+    "tt0031929",
+    "tt0031313",
+    "tt0032107"
   ],
   "collections": [],
   "is_curated": true,

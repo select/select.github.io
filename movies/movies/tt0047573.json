@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/them.-1954",
+      "id": "them.-1954",
       "title": "Them (1954)",
       "description": "Them! is a 1954 black-and-white science fiction giant monster film starring James Whitmore, Edmund Gwenn, Joan Weldon, and James Arness. The story follows  a group of scientists and law enforcement officials investigate a series of mysterious deaths and destruction in the New Mexico desert, where they discover that atomic testing has caused common ants to mutate into giant, man-eating monsters. The story follows their efforts to stop the ants, which have escaped and threaten civilization, culminating in a battle in the storm drain system of Los Angeles.",
       "fileSize": 895598560,
-      "id": "them.-1954"
+      "addedAt": "2026-01-07T00:12:44.281Z",
+      "thumbnail": "https://archive.org/services/img/them.-1954",
+      "language": "eng",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 296
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/them_20210705",
+      "id": "them_20210705",
       "title": "Them!",
       "description": "The earliest atomic tests in New Mexico cause common ants to mutate into giant man-eating monsters that threaten civilization.",
       "fileSize": 7567763165,
-      "id": "them_20210705"
+      "addedAt": "2026-01-07T00:12:44.281Z",
+      "thumbnail": "https://archive.org/services/img/them_20210705",
+      "language": "eng",
+      "year": 1954,
+      "collection": "feature_films",
+      "downloads": 29578
     }
   ],
   "metadata": {
@@ -35,116 +47,18 @@
     "Awards": "Nominated for 1 Oscar. 1 win & 3 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0047149",
-      "title": "Killers from Space",
-      "year": 1954,
-      "imdbRating": 3.5,
-      "imdbVotes": 2632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046907",
-      "title": "Devil Girl from Mars",
-      "year": 1954,
-      "imdbRating": 4.9,
-      "imdbVotes": 2235,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047507",
-      "title": "The Snow Creature",
-      "year": 1954,
-      "imdbRating": 3.2,
-      "imdbVotes": 1245,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046876",
-      "title": "Creature from the Black Lagoon",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 37202,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046802",
-      "title": "The Bowery Boys Meet the Monsters",
-      "year": 1954,
-      "imdbRating": 5.9,
-      "imdbVotes": 777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047244",
-      "title": "Monster from the Ocean Floor",
-      "year": 1954,
-      "imdbRating": 3.8,
-      "imdbVotes": 1063,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0046066",
-      "title": "Mesa of Lost Women",
-      "year": 1953,
-      "imdbRating": 2.7,
-      "imdbVotes": 1936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046186",
-      "title": "Phantom from Space",
-      "year": 1953,
-      "imdbRating": 4.1,
-      "imdbVotes": 1695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048127",
-      "title": "Godzilla Raids Again",
-      "year": 1955,
-      "imdbRating": 5.7,
-      "imdbVotes": 9173,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048215",
-      "title": "It Came from Beneath the Sea",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 6690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045920",
-      "title": "It Came from Outer Space",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 12306,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049615",
-      "title": "The Phantom from 10,000 Leagues",
-      "year": 1955,
-      "imdbRating": 3.6,
-      "imdbVotes": 2234,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0047149",
+    "tt0046907",
+    "tt0047507",
+    "tt0046876",
+    "tt0046802",
+    "tt0047244",
+    "tt0046066",
+    "tt0046186",
+    "tt0048127",
+    "tt0048215",
+    "tt0045920",
+    "tt0049615"
   ],
   "collections": [
     {

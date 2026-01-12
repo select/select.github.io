@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_8121",
+      "id": "dipwad2_zoho_8121",
       "title": "812",
       "description": "812 ",
       "fileSize": 6508825601,
-      "id": "dipwad2_zoho_8121"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_8121",
+      "collection": "feature_films",
+      "downloads": 6042
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_812",
+      "id": "rog56_mail_812",
       "title": "812",
       "description": "812",
       "fileSize": 6998311139,
-      "id": "rog56_mail_812"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_812",
+      "collection": "feature_films",
+      "downloads": 4542
     }
   ],
   "metadata": {
@@ -34,120 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002553",
-      "title": "An Unseen Enemy",
-      "year": 1912,
-      "imdbRating": 6.5,
-      "imdbVotes": 1005,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3203620",
-      "title": "The Dinner",
-      "year": 2017,
-      "imdbRating": 4.5,
-      "imdbVotes": 10028,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5847286",
-      "title": "Shock Wave",
-      "year": 2017,
-      "imdbRating": 6.3,
-      "imdbVotes": 4191,
-      "language": "Cantonese, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5848714",
-      "title": "American Violence",
-      "year": 2017,
-      "imdbRating": 4.5,
-      "imdbVotes": 1902,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5679554",
-      "title": "Coffin 2",
-      "year": 2017,
-      "imdbRating": 3.2,
-      "imdbVotes": 3599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5846628",
-      "title": "Dark Meridian",
-      "year": 2017,
-      "imdbRating": 4.8,
-      "imdbVotes": 409,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5351458",
-      "title": "The Hatton Garden Job",
-      "year": 2017,
-      "imdbRating": 5.6,
-      "imdbVotes": 6599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3499176",
-      "title": "Your Move",
-      "year": 2017,
-      "imdbRating": 3.8,
-      "imdbVotes": 587,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5265924",
-      "title": "Wild for the Night",
-      "year": 2016,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5091106",
-      "title": "704",
-      "year": 2016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3767278",
-      "title": "Bayou Caviar",
-      "year": 2018,
-      "imdbRating": 4.6,
-      "imdbVotes": 3100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt2268433",
-      "title": "End of a Gun",
-      "year": 2016,
-      "imdbRating": 3.6,
-      "imdbVotes": 2348,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    }
+    "tt0002553",
+    "tt3203620",
+    "tt5847286",
+    "tt5848714",
+    "tt5679554",
+    "tt5846628",
+    "tt5351458",
+    "tt3499176",
+    "tt5265924",
+    "tt5091106",
+    "tt3767278",
+    "tt2268433"
   ],
   "collections": [],
   "is_curated": true,

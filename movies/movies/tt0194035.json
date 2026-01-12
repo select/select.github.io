@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/parademarsch-der-legion-condor-deutsche-freiwillige-in-spanien",
+      "id": "parademarsch-der-legion-condor-deutsche-freiwillige-in-spanien",
       "title": "Parademarsch Der Legion Condor ( Deutsche Freiwillige In Spanien)",
       "description": "Soldatenlied ",
       "fileSize": 21965603,
-      "id": "parademarsch-der-legion-condor-deutsche-freiwillige-in-spanien"
+      "addedAt": "2026-01-07T00:10:12.695Z",
+      "thumbnail": "https://archive.org/services/img/parademarsch-der-legion-condor-deutsche-freiwillige-in-spanien",
+      "language": "ger",
+      "collection": "feature_films",
+      "downloads": 58
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-Deutsche-Freiwillige-in-Spanien",
+      "id": "1939-Deutsche-Freiwillige-in-Spanien",
       "title": "1939 - Deutsche Freiwillige in Spanien - Vom Kampf der Legion Condor (14m 46, 384x288)",
       "description": "1939 - Deutsche Freiwillige in Spanien - Vom Kampf der Legion Condor (14m 46, 384x288)",
       "fileSize": 179095476,
-      "id": "1939-Deutsche-Freiwillige-in-Spanien"
+      "addedAt": "2026-01-07T00:06:02.056Z",
+      "thumbnail": "https://archive.org/services/img/1939-Deutsche-Freiwillige-in-Spanien",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 3112
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-Im-Kampf-gegen-den-Weltfeind",
+      "id": "1939-Im-Kampf-gegen-den-Weltfeind",
       "title": "1939 - Im Kampf gegen den Weltfeind - Deutsche Freiwillige in Spanien (1h 23m, 448x336)",
       "description": "1939 - Im Kampf gegen den Weltfeind - Deutsche Freiwillige in Spanien (1h 23m, 448x336)",
       "fileSize": 1503949516,
-      "id": "1939-Im-Kampf-gegen-den-Weltfeind"
+      "addedAt": "2026-01-07T00:06:02.056Z",
+      "thumbnail": "https://archive.org/services/img/1939-Im-Kampf-gegen-den-Weltfeind",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 18871
     }
   ],
   "metadata": {
@@ -43,115 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0905617",
-      "title": "Kampf um Norwegen - Feldzug 1940",
-      "year": 1940,
-      "imdbRating": 6.8,
-      "imdbVotes": 129,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121791",
-      "title": "Target for Tonight",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 436,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035209",
-      "title": "Why We Fight",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 2465,
-      "language": "English, German, Italian, Japanese, Amharic, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035745",
-      "title": "Combat America",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035796",
-      "title": "Desert Victory",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 405,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182766",
-      "title": "The Battle of Britain",
-      "year": 1943,
-      "imdbRating": 7.1,
-      "imdbVotes": 1048,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173769",
-      "title": "Divide and Conquer",
-      "year": 1943,
-      "imdbRating": 7.2,
-      "imdbVotes": 859,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036301",
-      "title": "Report from the Aleutians",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036629",
-      "title": "The Battle of Russia",
-      "year": 1943,
-      "imdbRating": 7.1,
-      "imdbVotes": 1647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059529",
-      "title": "Triumph Over Violence",
-      "year": 1965,
-      "imdbRating": 8.1,
-      "imdbVotes": 2137,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0225448",
-      "title": "A Cry from the Grave",
-      "year": 1999,
-      "imdbRating": 7.8,
-      "imdbVotes": 352,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt0905617",
+    "tt0121791",
+    "tt0034498",
+    "tt0035209",
+    "tt0035745",
+    "tt0035796",
+    "tt0182766",
+    "tt0173769",
+    "tt0036301",
+    "tt0036629",
+    "tt0059529",
+    "tt0225448"
   ],
   "collections": [],
   "is_curated": true,

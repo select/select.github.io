@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-shop-at-sly-corner-1947-colorized-movie-720p-hd",
+      "id": "the-shop-at-sly-corner-1947-colorized-movie-720p-hd",
       "title": "The Shop at Sly Corner - Code of Scotland Yard (restored, colorized) (1947, film-noir, imdb score: 6.7)",
       "description": "Code of Scotland Yard is a 1947 British crime film directed by George King and starring Oskar Homolka, Muriel Pavlow and Derek Farr. It was originally released as The Shop at Sly Corner , being based on the popular stage play of that title by Edward Percy.",
       "fileSize": 1196360783,
-      "id": "the-shop-at-sly-corner-1947-colorized-movie-720p-hd"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-shop-at-sly-corner-1947-colorized-movie-720p-hd",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 263
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/theshopatslycorner",
+      "id": "theshopatslycorner",
       "title": "The Shop at Sly Corner",
       "description": "“Homolka is superb” “Drama with a thriller twist” “Excellent UK film Noir” “Well worth the viewing time” (IMDB reviews quotes). A genteel British crime drama that regardless of what some of its reviewers claim really isn’t film noir. Oskar Homolka leads its competent cast. The production values are adequate. You probably won’t mind that the conclusion is a bit contrived. Not to be confused with the 1946 TV movie with the same title. IMDB rating 6.8. Produced and directed by George King. Released in 1947 (UK). Complete print (PAL transfer) AKA “Code of Scotland Yard” CAST NOTES: Diana Dors’ uncredited film debut. Katie Johnson (music box lady uncredited) would later become internationally famous for playing Mrs Wilberforce in the the Alec Guinness comedy “The Ladykillers.\"",
       "fileSize": 1286772326,
-      "id": "theshopatslycorner"
+      "addedAt": "2026-01-07T00:12:44.281Z",
+      "thumbnail": "https://archive.org/services/img/theshopatslycorner",
+      "collection": "feature_films",
+      "downloads": 8084
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039515",
-      "title": "Johnny O'Clock",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 2969,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039335",
-      "title": "A Double Life",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 4170,
-      "language": "English, Italian, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039224",
-      "title": "Brute Force",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 12259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039311",
-      "title": "Desert Fury",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 2289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039482",
-      "title": "I Walk Alone",
-      "year": 1947,
-      "imdbRating": 7,
-      "imdbVotes": 3652,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039536",
-      "title": "Kiss of Death",
-      "year": 1947,
-      "imdbRating": 7.4,
-      "imdbVotes": 10143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039217",
-      "title": "The Brasher Doubloon",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 1420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040525",
-      "title": "The Lady from Shanghai",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 35285,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039730",
-      "title": "The Pretender",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 392,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039389",
-      "title": "For You I Die",
-      "year": 1947,
-      "imdbRating": 6,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039820",
-      "title": "Shoot to Kill",
-      "year": 1947,
-      "imdbRating": 5.5,
-      "imdbVotes": 648,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039883",
-      "title": "Take My Life",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 464,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039515",
+    "tt0039335",
+    "tt0039224",
+    "tt0039311",
+    "tt0039482",
+    "tt0039536",
+    "tt0039217",
+    "tt0040525",
+    "tt0039730",
+    "tt0039389",
+    "tt0039820",
+    "tt0039883"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-tale-of-a-shirt-1933",
+      "id": "the-tale-of-a-shirt-1933",
       "title": "The Tale of a Shirt (1933)",
       "description": "The Tale of a Shirt is a Terrytoons cartoon directed by Frank Moser. Watch on RetroFlix:  https://retroflix.org/the-tale-of-a-shirt-1933/",
       "fileSize": 31207189,
-      "id": "the-tale-of-a-shirt-1933"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-tale-of-a-shirt-1933",
+      "language": "eng",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 50
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150804",
-      "title": "A Gypsy Fiddler",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149817",
-      "title": "Beanstalk Jack",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150130",
-      "title": "Cinderella",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150382",
-      "title": "Down on the Levee",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150504",
-      "title": "Fanny in the Lion's Den",
-      "year": 1933,
-      "imdbRating": 5.1,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146721",
-      "title": "Fanny's Wedding Day",
-      "year": 1933,
-      "imdbRating": 4.4,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150774",
-      "title": "Grand Uproar",
-      "year": 1933,
-      "imdbRating": 3.7,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150820",
-      "title": "Hansel and Gretel",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151001",
-      "title": "Hypnotic Eyes",
-      "year": 1933,
-      "imdbRating": 4.2,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151046",
-      "title": "In Venice",
-      "year": 1933,
-      "imdbRating": 4.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151118",
-      "title": "Jealous Lover",
-      "year": 1933,
-      "imdbRating": 4.5,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151217",
-      "title": "King Zilch",
-      "year": 1933,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150804",
+    "tt0149817",
+    "tt0150130",
+    "tt0150382",
+    "tt0150504",
+    "tt0146721",
+    "tt0150774",
+    "tt0150820",
+    "tt0151001",
+    "tt0151046",
+    "tt0151118",
+    "tt0151217"
   ],
   "collections": [],
   "is_curated": true,

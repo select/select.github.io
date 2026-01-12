@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-phantom-city_1928",
+      "id": "the-phantom-city_1928",
       "title": "The Phantom City",
       "fileSize": 596702060,
-      "id": "the-phantom-city_1928"
+      "addedAt": "2026-01-07T00:12:22.156Z",
+      "thumbnail": "https://archive.org/services/img/the-phantom-city_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 308
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020255",
-      "title": "Painted Faces",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 93,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033397",
-      "title": "The Black Cat",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 2374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029274",
-      "title": "Murder in Greenwich Village",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046761",
-      "title": "Shadow of Fear",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022293",
-      "title": "The Range Feud",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 499,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023257",
-      "title": "Mystery Ranch",
-      "year": 1932,
-      "imdbRating": 7.3,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020884",
-      "title": "Fighting Thru; or, California in 1878",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025939",
-      "title": "Rocky Mountain Mystery",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018825",
-      "title": "Detectives",
-      "year": 1928,
-      "imdbRating": 8.1,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019132",
-      "title": "The Man from Headquarters",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1510983",
-      "title": "Heathens and Thieves",
-      "year": 2012,
-      "imdbRating": 5.1,
-      "imdbVotes": 476,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0020255",
+    "tt0026085",
+    "tt0033397",
+    "tt0029274",
+    "tt0046761",
+    "tt0022293",
+    "tt0023257",
+    "tt0020884",
+    "tt0025939",
+    "tt0018825",
+    "tt0019132",
+    "tt1510983"
   ],
   "collections": [
     {

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/june-night",
+      "id": "june-night",
       "title": "June Night",
       "description": "This noirish romance stars Ingrid Bergman as a shy young woman who is shot by her lover. Following his trial, she begins a new life in Stockholm under an assumed identity, working at a pharmacy and making new friends at the rooming house where she takes up residence. Both a grim exposé of sexual politics and a sensual romance,  June Night  features a remarkably intense performance from Bergman as a woman weighed down by a secret—symbolized by a scar near her heart—who learns to fall in love again.",
       "fileSize": 7317689599,
-      "id": "june-night"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/june-night",
+      "language": "swe",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 1908
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030337",
-      "title": "A Woman's Face",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 1188,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033021",
-      "title": "Santa Fe Trail",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 4478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032247",
-      "title": "Beyond Tomorrow",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 2497,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135739",
-      "title": "Die drei Codonas",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032588",
-      "title": "Herz ohne Heimat",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033297",
-      "title": "Zwischen Hamburg und Haiti",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033271",
-      "title": "Der Fuchs von Glenarvon",
-      "year": 1940,
-      "imdbRating": 6.7,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0030337",
+    "tt0032599",
+    "tt0033021",
+    "tt0032343",
+    "tt0032179",
+    "tt0032247",
+    "tt0032406",
+    "tt0032404",
+    "tt0135739",
+    "tt0032588",
+    "tt0033297",
+    "tt0033271"
   ],
   "collections": [],
   "is_curated": true,

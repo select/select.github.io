@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SilentNightBloodyNight_201511",
+      "id": "SilentNightBloodyNight_201511",
       "title": "Silent Night Bloody Night",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1863283690,
-      "id": "SilentNightBloodyNight_201511"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/SilentNightBloodyNight_201511",
+      "collection": "feature_films",
+      "downloads": 3714
     }
   ],
   "metadata": {
@@ -27,103 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0492868",
-      "title": "208",
-      "year": 2005,
-      "imdbRating": 8,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2355473",
-      "title": "612",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3122618",
-      "title": "Goodnight My Love",
-      "year": 2012,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1794866",
-      "title": "Meet the Cleavers",
-      "year": 2012,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0001223",
-      "title": "Frankenstein",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 5022,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002113",
-      "title": "À la conquête du pôle",
-      "year": 1912,
-      "imdbRating": 6.9,
-      "imdbVotes": 1249,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1419606",
-      "title": "El refrigerador",
-      "year": 2008,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002143",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 893,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1695350",
-      "title": "Theory NTSC",
-      "year": 2008,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1381651",
-      "title": "Pin Down Girl: The Story of Ethel Brown",
-      "year": 2008,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1763178",
+    "tt0492868",
+    "tt2355473",
+    "tt3122618",
+    "tt1794866",
+    "tt0001223",
+    "tt0002113",
+    "tt1419606",
+    "tt0002143",
+    "tt1695350",
+    "tt0000301",
+    "tt1381651"
   ],
   "collections": [],
   "is_curated": true,

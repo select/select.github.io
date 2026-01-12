@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dobutsu-olympic-taikai-1928",
+      "id": "dobutsu-olympic-taikai-1928",
       "title": "Dobutsu olympic taikai (1928)",
       "description": "Animal Olympic Games (動物オリムピック大会, Dōbutsu Orimupikku Taikai) is a Japanese animation film from 1928. Animals gather to compete in Olympic games. Watch on RetroFlix.org:  https://retroflix.org/dobutsu-olympic-taikai-1928/",
       "fileSize": 75446640,
-      "id": "dobutsu-olympic-taikai-1928"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/dobutsu-olympic-taikai-1928",
+      "language": "jpn",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 235
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dobutsu-olympic-taikai_1928",
+      "id": "dobutsu-olympic-taikai_1928",
       "title": "Dobutsu olympic taikai",
       "fileSize": 1416428127,
-      "id": "dobutsu-olympic-taikai_1928"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/dobutsu-olympic-taikai_1928",
+      "language": "Japanese",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 671
     }
   ],
   "metadata": {
@@ -34,109 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0419115",
-      "title": "Sarukani-gassen",
-      "year": 1927,
-      "imdbVotes": 26,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419184",
-      "title": "Tarô-san no kisha",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 72,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018628",
-      "title": "Africa Before Dark",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146484",
-      "title": "Big Game",
-      "year": 1928,
-      "imdbVotes": 12,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140909",
-      "title": "Comicalamities",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018885",
-      "title": "Fiery Fireman",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018997",
-      "title": "High Up",
-      "year": 1928,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019033",
-      "title": "Hungry Hoboes",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136320",
-      "title": "Ko-Ko's Earth Control",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 513,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1018917",
-      "title": "Noahs ark",
-      "year": 1928,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0419115",
+    "tt0419184",
+    "tt0018628",
+    "tt0146484",
+    "tt0018721",
+    "tt0140909",
+    "tt0018885",
+    "tt0018997",
+    "tt0019033",
+    "tt0136320",
+    "tt0419941",
+    "tt1018917"
   ],
   "collections": [],
   "is_curated": true,

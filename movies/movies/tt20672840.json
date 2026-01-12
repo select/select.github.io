@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cornered-2010-dvdrip",
+      "id": "cornered-2010-dvdrip",
       "title": "Cornered (2008)",
       "description": "During their nightly poker game, a group of lowlifes are terrorized in their own convenience store by a masked killer.",
       "fileSize": 1244238609,
-      "id": "cornered-2010-dvdrip"
+      "addedAt": "2026-01-07T00:07:51.625Z",
+      "thumbnail": "https://archive.org/services/img/cornered-2010-dvdrip",
+      "language": "eng",
+      "year": 2008,
+      "collection": "feature_films",
+      "downloads": 62
     }
   ],
   "metadata": {
@@ -26,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1737581",
-      "title": "654 Gravely Street",
-      "year": 2008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0387927",
-      "title": "The Child Molester",
-      "year": 1964,
-      "imdbRating": 5.4,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233391",
-      "title": "The Burglar's Slide for Life",
-      "year": 1905,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1381651",
-      "title": "Pin Down Girl: The Story of Ethel Brown",
-      "year": 2008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233823",
-      "title": "The Great Jewel Mystery",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227396",
-      "title": "Robert Macaire and Bertrand",
-      "year": 1907,
-      "imdbRating": 5.8,
-      "imdbVotes": 148,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445338",
-      "title": "The Dude and the Burglars",
-      "year": 1903,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161929",
-      "title": "Pride of the Yard",
-      "year": 1954,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000497",
-      "title": "A Railway Tragedy",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132077",
-      "title": "Daylight Burglary",
-      "year": 1903,
-      "imdbRating": 6,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470050",
-      "title": "From Leadville to Aspen: A Hold-Up in the Rockies",
-      "year": 1906,
-      "imdbRating": 5.9,
-      "imdbVotes": 174,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231757",
-      "title": "How They Rob Men in Chicago",
-      "year": 1900,
-      "imdbRating": 5.8,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1737581",
+    "tt0387927",
+    "tt0233391",
+    "tt1381651",
+    "tt0233823",
+    "tt0227396",
+    "tt0445338",
+    "tt0161929",
+    "tt0000497",
+    "tt0132077",
+    "tt0470050",
+    "tt0231757"
   ],
   "collections": [],
   "is_curated": true,

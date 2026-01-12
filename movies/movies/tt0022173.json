@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/murder-by-the-clock-1931_202103",
+      "id": "murder-by-the-clock-1931_202103",
       "title": "Murder By The Clock ( 1931)",
       "description": "Irving Pichel",
       "fileSize": 1272059615,
-      "id": "murder-by-the-clock-1931_202103"
+      "addedAt": "2026-01-07T00:09:54.332Z",
+      "thumbnail": "https://archive.org/services/img/murder-by-the-clock-1931_202103",
+      "collection": "feature_films",
+      "downloads": 13085
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022663",
-      "title": "Behind the Mask",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023249",
-      "title": "Murders in the Rue Morgue",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 5472,
-      "language": "English, Danish, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024649",
-      "title": "Terror Aboard",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020679",
-      "title": "The Benson Murder Case",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 587,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027479",
-      "title": "The Crime of Doctor Crespi",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 405,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051744",
-      "title": "House on Haunted Hill",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 32673,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021763",
-      "title": "Convicted",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037024",
-      "title": "The Lodger",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 4227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022172",
-      "title": "Murder at Midnight",
-      "year": 1931,
-      "imdbRating": 5.4,
-      "imdbVotes": 491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039800",
-      "title": "Scared to Death",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 1834,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022373",
-      "title": "Sherlock Holmes' Fatal Hour",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 485,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022663",
+    "tt0023249",
+    "tt0024649",
+    "tt0020679",
+    "tt0027479",
+    "tt0051744",
+    "tt0021763",
+    "tt0021820",
+    "tt0037024",
+    "tt0022172",
+    "tt0039800",
+    "tt0022373"
   ],
   "collections": [],
   "is_curated": true,

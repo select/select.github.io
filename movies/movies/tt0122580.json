@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lambchops_1929",
+      "id": "lambchops_1929",
       "title": "Lambchops",
       "fileSize": 1015891715,
-      "id": "lambchops_1929"
+      "addedAt": "2026-01-07T00:09:38.887Z",
+      "thumbnail": "https://archive.org/services/img/lambchops_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 312
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3706434",
-      "title": "Molly Picon",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225681",
-      "title": "Faint Heart",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698547",
-      "title": "Oklahoma Bob Albright and His Rodeo Do Flappers",
-      "year": 1929,
-      "imdbRating": 4.7,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894540",
-      "title": "Satires",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1876519",
-      "title": "Two Good Boys Gone Wrong",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1503085",
-      "title": "A Musicale Melange",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698489",
-      "title": "Carlena Diamond: Harpist Supreme",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894427",
-      "title": "Charles C. Peterson: Billiard Champion of Fancy Shots",
-      "year": 1929,
-      "imdbRating": 3.6,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1894519",
-      "title": "Pack Up Your Troubles",
-      "year": 1929,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1245760",
-      "title": "Red Nichols and His Five Pennies",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022387",
-      "title": "Singapore Sue",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt3706434",
+    "tt1698474",
+    "tt0225681",
+    "tt1698547",
+    "tt1894540",
+    "tt1876519",
+    "tt1503085",
+    "tt1698489",
+    "tt1894427",
+    "tt1894519",
+    "tt1245760",
+    "tt0022387"
   ],
   "collections": [],
   "is_curated": true,

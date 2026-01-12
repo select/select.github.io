@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-popcorn-story-1950",
+      "id": "the-popcorn-story-1950",
       "title": "The Popcorn Story (1950)",
       "description": "The mayor of a town gives a glowing introduction to the man who invented popcorn, while we're shown the much-different story of how popcorn came about. Watch on RetroFlix:  https://retroflix.org/the-popcorn-story-1950/",
       "fileSize": 46405583,
-      "id": "the-popcorn-story-1950"
+      "addedAt": "2026-01-07T00:12:22.156Z",
+      "thumbnail": "https://archive.org/services/img/the-popcorn-story-1950",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 93
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150725",
-      "title": "Giddyap",
-      "year": 1950,
-      "imdbRating": 6,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150501",
-      "title": "The Family Circus",
-      "year": 1951,
-      "imdbRating": 5.8,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141849",
-      "title": "Spellbound Hound",
-      "year": 1950,
-      "imdbRating": 6.8,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151579",
-      "title": "The Miner's Daughter",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043073",
-      "title": "Trouble Indemnity",
-      "year": 1950,
-      "imdbRating": 6.2,
-      "imdbVotes": 161,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149792",
-      "title": "Barefaced Flatfoot",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149986",
-      "title": "Bungled Bungalow",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141110",
-      "title": "Fuddy Duddy Buddy",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150792",
-      "title": "Grizzly Golfer",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141760",
-      "title": "Ragtime Bear",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150039",
-      "title": "Captains Outrageous",
-      "year": 1952,
-      "imdbRating": 6.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150970",
-      "title": "Hotsy Footsy",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150725",
+    "tt0150501",
+    "tt0141849",
+    "tt0151579",
+    "tt0043073",
+    "tt0149792",
+    "tt0149986",
+    "tt0141110",
+    "tt0150792",
+    "tt0141760",
+    "tt0150039",
+    "tt0150970"
   ],
   "collections": [],
   "is_curated": true,

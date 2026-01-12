@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-chow-hound-1944",
+      "id": "the-chow-hound-1944",
       "title": "The Chow Hound (1944)",
       "description": "The Chow Hound is an animated short, directed by Frank Tashlin and first released in June, 1944. It is part of the Private Snafu series. Watch on RetroFlix.org:  https://retroflix.org/the-chow-hound-1944/",
       "fileSize": 12880131,
-      "id": "the-chow-hound-1944"
+      "addedAt": "2026-01-07T00:11:57.682Z",
+      "thumbnail": "https://archive.org/services/img/the-chow-hound-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 169
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0155242",
-      "title": "Target Snafu",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154346",
-      "title": "Going Home",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6240486",
-      "title": "Voting for Service Men Overseas",
-      "year": 1944,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154347",
-      "title": "Coming!! Snafu",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 311,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036764",
-      "title": "Dog, Cat, and Canary",
-      "year": 1945,
-      "imdbRating": 5.6,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155126",
-      "title": "Rumors",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0293957",
-      "title": "Tokyo Woes",
-      "year": 1945,
-      "imdbRating": 4.9,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148294",
-      "title": "A Hollywood Detour",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034744",
-      "title": "Foney Fables",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 507,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430088",
-      "title": "A Few Quick Facts",
-      "year": 1944,
-      "imdbRating": 4.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10284276",
-      "title": "A Few Quick Facts: USS Iowa/Brain/Shoes",
-      "year": 1944,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151932",
-      "title": "A Pee-kool-yar Sit-chee-ay-shun",
-      "year": 1944,
-      "imdbRating": 4.7,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0155242",
+    "tt0154346",
+    "tt6240486",
+    "tt0154347",
+    "tt0036764",
+    "tt0155126",
+    "tt0293957",
+    "tt0148294",
+    "tt0034744",
+    "tt0430088",
+    "tt10284276",
+    "tt0151932"
   ],
   "collections": [],
   "is_curated": true,

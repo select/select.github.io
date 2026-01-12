@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-behind-the-door",
+      "id": "silent-behind-the-door",
       "title": "Behind the Door",
       "fileSize": 20691070839,
-      "id": "silent-behind-the-door"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-behind-the-door",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1552
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010112",
-      "title": "The False Faces",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 104,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010195",
-      "title": "The Grim Game",
-      "year": 1919,
-      "imdbRating": 6.7,
-      "imdbVotes": 313,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045758",
-      "title": "Fear and Desire",
-      "year": 1952,
-      "imdbRating": 5.3,
-      "imdbVotes": 14612,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045844",
-      "title": "Guerrilla Girl",
-      "year": 1953,
-      "imdbRating": 4.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035301",
-      "title": "Secret Mission",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 436,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091251",
-      "title": "Come and See",
-      "year": 1985,
-      "imdbRating": 8.3,
-      "imdbVotes": 119291,
-      "language": "Russian, Belarusian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039398",
-      "title": "Frieda",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 574,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3519772",
-      "title": "Burn Country",
-      "year": 2016,
-      "imdbRating": 4.8,
-      "imdbVotes": 917,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0010307",
-      "title": "J'accuse!",
-      "year": 1919,
-      "imdbRating": 7.7,
-      "imdbVotes": 2140,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009109",
-      "title": "The Girl Who Stayed at Home",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010822",
-      "title": "Unknown Love",
-      "year": 1919,
-      "imdbRating": 6.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062287",
-      "title": "Some May Live",
-      "year": 1967,
-      "imdbRating": 5.6,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0010112",
+    "tt0010195",
+    "tt0045758",
+    "tt0045844",
+    "tt0035301",
+    "tt0091251",
+    "tt0039398",
+    "tt3519772",
+    "tt0010307",
+    "tt0009109",
+    "tt0010822",
+    "tt0062287"
   ],
   "collections": [],
   "is_curated": true,

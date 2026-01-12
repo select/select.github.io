@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/thunderbolt-1947",
+      "id": "thunderbolt-1947",
       "title": "Thunderbolt (1947)",
       "description": "Documentary about the U.S. Air Force's P-47 Thunderbolt bomber's role in the Italian Campaign during WW2. Watch on RetroFlix:  https://retroflix.org/thunderbolt-1947/",
       "fileSize": 279378518,
-      "id": "thunderbolt-1947"
+      "addedAt": "2026-01-07T00:12:44.284Z",
+      "thumbnail": "https://archive.org/services/img/thunderbolt-1947",
+      "language": "eng",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 148
     }
   ],
   "metadata": {
@@ -27,104 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0184773",
-      "title": "The Nazis Strike",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 991,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0364699",
-      "title": "Whistle in the Night",
-      "year": 1947,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1816593",
-      "title": "Mr. Lincoln's Springfield",
-      "year": 1977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178933",
-      "title": "Testing a Rotary",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6045006",
-      "title": "Just Imagine!",
-      "year": 1947,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2827918",
-      "title": "504",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471163",
-      "title": "Electric Tram Rides from Forster Square, Bradford",
-      "year": 1902,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471294",
-      "title": "Panoramic View of the Morecambe Sea Front",
-      "year": 1901,
-      "imdbRating": 6.1,
-      "imdbVotes": 216,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257088",
-      "title": "San Francisco: Aftermath of Earthquake",
-      "year": 1906,
-      "imdbRating": 6.4,
-      "imdbVotes": 591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471384",
-      "title": "Sheffield United v Bury",
-      "year": 1902,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1523561",
-      "title": "Sunset in the Pacific",
-      "year": 1946,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0190806",
-      "title": "The Story of Menstruation",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 548,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0184773",
+    "tt0364699",
+    "tt1816593",
+    "tt0178933",
+    "tt6045006",
+    "tt2827918",
+    "tt0471163",
+    "tt0471294",
+    "tt0257088",
+    "tt0471384",
+    "tt1523561",
+    "tt0190806"
   ],
   "collections": [],
   "is_curated": true,

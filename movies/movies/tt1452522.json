@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-die-hermannschlacht",
+      "id": "silent-die-hermannschlacht",
       "title": "Die Hermannschlacht",
       "fileSize": 1155515827,
-      "id": "silent-die-hermannschlacht"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-die-hermannschlacht",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 316
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013741",
-      "title": "The Loves of Pharaoh",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 688,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092978",
-      "title": "Escape from Sobibor",
-      "year": 1987,
-      "imdbRating": 7.4,
-      "imdbVotes": 10404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057811",
-      "title": "633 Squadron",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4879,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044400",
-      "title": "Battles of Chief Pontiac",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227607",
-      "title": "Tannenberg",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043590",
-      "title": "Go for Broke!",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 1952,
-      "language": "English, Japanese, Italian, Hawaiian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035958",
-      "title": "'Gung Ho!': The Story of Carlson's Makin Island Raiders",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 1691,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046029",
-      "title": "Malta Story",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 1982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0014672",
+    "tt0013741",
+    "tt0092978",
+    "tt0057811",
+    "tt0044400",
+    "tt0227607",
+    "tt0159476",
+    "tt0043590",
+    "tt0035958",
+    "tt0046029",
+    "tt0014854",
+    "tt0015022"
   ],
   "collections": [],
   "is_curated": true,

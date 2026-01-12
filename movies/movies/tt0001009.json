@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-princess-nicotine-or-the-smoke-fairy",
+      "id": "silent-princess-nicotine-or-the-smoke-fairy",
       "title": "Princess Nicotine; or, The Smoke Fairy",
       "fileSize": 126302311,
-      "id": "silent-princess-nicotine-or-the-smoke-fairy"
+      "addedAt": "2026-01-07T00:11:15.972Z",
+      "thumbnail": "https://archive.org/services/img/silent-princess-nicotine-or-the-smoke-fairy",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 509
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0288252",
-      "title": "The Thieving Hand",
-      "year": 1908,
-      "imdbRating": 6.6,
-      "imdbVotes": 678,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000553",
-      "title": "The Haunted Hotel",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 557,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0000554",
-      "title": "Humorous Phases of Funny Faces",
-      "year": 1906,
-      "imdbRating": 6.3,
-      "imdbVotes": 1418,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000669",
-      "title": "Cupid's Pranks",
-      "year": 1908,
-      "imdbRating": 4.9,
-      "imdbVotes": 160,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000621",
-      "title": "That Fatal Sneeze",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 641,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000300",
-      "title": "The Enchanted Drawing",
-      "year": 1900,
-      "imdbRating": 6.9,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000546",
-      "title": "Dream of a Rarebit Fiend",
-      "year": 1906,
-      "imdbRating": 6.7,
-      "imdbVotes": 2044,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135122",
-      "title": "The Hilarious Posters",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 1176,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002160",
-      "title": "Entente cordiale",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 141,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449181",
-      "title": "The Bewitched Shepherd",
-      "year": 1906,
-      "imdbRating": 5.2,
-      "imdbVotes": 179,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449308",
-      "title": "The House of Ghosts",
-      "year": 1906,
-      "imdbRating": 7,
-      "imdbVotes": 1604,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0288252",
+    "tt0000553",
+    "tt0000554",
+    "tt0000669",
+    "tt0000621",
+    "tt0000300",
+    "tt0000546",
+    "tt0135122",
+    "tt0002160",
+    "tt0449181",
+    "tt0449308",
+    "tt0000724"
   ],
   "collections": [],
   "is_curated": true,

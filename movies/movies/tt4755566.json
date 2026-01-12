@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheAdventuresOfSuperman",
+      "id": "TheAdventuresOfSuperman",
       "title": "The Adventures of Superman",
       "description": "I took the Fleischer/Famous Studios Superman cartoons from the early 40s and edited them together into one continous 2 hour animated movie.",
       "fileSize": 2656699297,
-      "id": "TheAdventuresOfSuperman"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheAdventuresOfSuperman",
+      "collection": "feature_films",
+      "downloads": 44905
     }
   ],
   "metadata": {
@@ -26,112 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2733100",
-      "title": "To Wong with Kung Fu: Thanks for Everything, a 6 Year Old and an 8 Year Old",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13758762",
-      "title": "Desafío Total: escenas eliminadas",
-      "year": 2013,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3265756",
-      "title": "Robin Williams in Multiple Exposures",
-      "year": 2013,
-      "imdbRating": 6.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt2459468",
-      "title": "Katya & the Scarlet Sails",
-      "year": 2012,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt4136798",
-      "title": "Son of the Ghost of the Invisible Spook",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3591468",
-      "title": "How to Be Sexy",
-      "year": 2014,
-      "imdbRating": 9,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1794866",
-      "title": "Meet the Cleavers",
-      "year": 2012,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3496970",
-      "title": "Our Bed",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0259357",
-      "title": "Heroes Never Die",
-      "year": 2014,
-      "imdbRating": 5.9,
-      "imdbVotes": 70,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4805732",
-      "title": "Total Awesome Viking Power",
-      "year": 2015,
-      "imdbRating": 8.4,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4738744",
-      "title": "The Last Woman on Earth",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4331620",
-      "title": "samuel-613",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 66,
-      "language": "Yiddish, English",
-      "sourceType": "archive.org"
-    }
+    "tt2733100",
+    "tt13758762",
+    "tt3265756",
+    "tt2459468",
+    "tt4136798",
+    "tt3591468",
+    "tt1794866",
+    "tt3496970",
+    "tt0259357",
+    "tt4805732",
+    "tt4738744",
+    "tt4331620"
   ],
   "collections": [],
   "is_curated": true,

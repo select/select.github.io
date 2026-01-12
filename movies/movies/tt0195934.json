@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-mystery-of-the-tea-dansant",
+      "id": "silent-the-mystery-of-the-tea-dansant",
       "title": "The Mystery of the Tea Dansant",
       "fileSize": 421239655,
-      "id": "silent-the-mystery-of-the-tea-dansant"
+      "addedAt": "2026-01-07T00:11:15.978Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-mystery-of-the-tea-dansant",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 340
     }
   ],
   "metadata": {
@@ -25,109 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0326289",
-      "title": "Toil and Tyranny",
-      "year": 1915,
-      "imdbRating": 5.9,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1072650",
-      "title": "The Man from Tia Juana",
-      "year": 1917,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005414",
-      "title": "Daydreams",
-      "year": 1915,
-      "imdbRating": 6.7,
-      "imdbVotes": 309,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231300",
-      "title": "Brought Home",
-      "year": 1915,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005246",
-      "title": "Enoch Arden",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 127,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812323",
-      "title": "The Master of the Sword",
-      "year": 1915,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0482779",
-      "title": "In the Hands of the Enemy",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 26,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005622",
-      "title": "Liliya Belgii",
-      "year": 1915,
-      "imdbRating": 6.9,
-      "imdbVotes": 196,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1262050",
-      "title": "McQuade of the Traffic Squad",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228815",
-      "title": "Santa Claus vs. Cupid",
-      "year": 1915,
-      "imdbRating": 4.8,
-      "imdbVotes": 230,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005047",
-      "title": "The Call of the City",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 51,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0326289",
+    "tt1072650",
+    "tt0003803",
+    "tt0005414",
+    "tt0231300",
+    "tt0005246",
+    "tt0482779",
+    "tt0005622",
+    "tt1262050",
+    "tt0228815",
+    "tt0005047",
+    "tt0442148"
   ],
   "collections": [],
   "is_curated": true,

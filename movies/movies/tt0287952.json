@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cain",
+      "id": "silent-cain",
       "title": "Cainà",
       "fileSize": 937960451,
-      "id": "silent-cain"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cain",
+      "language": "Italian",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 292
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013719",
-      "title": "Under Two Flags",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014112",
-      "title": "Haldane of the Secret Service",
-      "year": 1923,
-      "imdbRating": 5.2,
-      "imdbVotes": 160,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133813",
-      "title": "The Grub Stake",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012657",
-      "title": "The Sea Lion",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012675",
-      "title": "The Sheik",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 3751,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014321",
-      "title": "North of Hudson Bay",
-      "year": 1923,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130218",
-      "title": "Regeneration",
-      "year": 1923,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014496",
-      "title": "Soul of the Beast",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014770",
-      "title": "The Chechahcos",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 265,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011387",
-      "title": "The Last of the Mohicans",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1472,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197903",
-      "title": "Something New",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 347,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0013719",
+    "tt0014112",
+    "tt0133813",
+    "tt0012657",
+    "tt0012675",
+    "tt0014321",
+    "tt0130218",
+    "tt0014496",
+    "tt0014770",
+    "tt0011387",
+    "tt0197903",
+    "tt0014646"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheWestPointStory",
+      "id": "TheWestPointStory",
       "title": "The West Point Story",
       "description": "tr",
       "fileSize": 26323993,
-      "id": "TheWestPointStory"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/TheWestPointStory",
+      "collection": "feature_films",
+      "downloads": 2935
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "Nominated for 1 Oscar. 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044119",
-      "title": "That's My Boy",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044222",
-      "title": "Yes Sir, Mr. Bones",
-      "year": 1951,
-      "imdbRating": 5.6,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0185288",
-      "title": "Donde comienzan los pantanos",
-      "year": 1952,
-      "imdbRating": 6.7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040508",
-      "title": "Killer Diller",
-      "year": 1948,
-      "imdbRating": 5.6,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040803",
-      "title": "Smart Politics",
-      "year": 1948,
-      "imdbRating": 6.7,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040919",
-      "title": "Unfaithfully Yours",
-      "year": 1948,
-      "imdbRating": 7.5,
-      "imdbVotes": 6034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014992",
-      "title": "His New Mamma",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034303",
-      "title": "Topper Returns",
-      "year": 1941,
-      "imdbRating": 6.8,
-      "imdbVotes": 3632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024932",
-      "title": "Bulldog Drummond Strikes Back",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017886",
-      "title": "The First Auto",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 270,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028142",
-      "title": "Private Number",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 506,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011949",
-      "title": "Be Reasonable",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0044119",
+    "tt0044222",
+    "tt0185288",
+    "tt0040508",
+    "tt0040803",
+    "tt0040919",
+    "tt0014992",
+    "tt0034303",
+    "tt0024932",
+    "tt0017886",
+    "tt0028142",
+    "tt0011949"
   ],
   "collections": [],
   "is_curated": true,

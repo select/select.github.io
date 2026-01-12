@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WhyWeFight2TheNazisStrike",
+      "id": "WhyWeFight2TheNazisStrike",
       "title": "The Nazis Strike",
       "description": "Title: The Nazis Strike Summary: The official World War II US government account of Nazi international aggression leading up to the British and French declarations of war. Directed by: Frank Capra, Anatole Litvak Actors: Production Company: The War Department Release Date: 1943 (USA) Aspect Ratio: 1.37 : 1 In this installment of the Why We Fight propaganda film series, we see the events of Nazi Germany's diplomatic and military acts of international aggression. One by one, we learn of the Nazi's consistently underhanded and relenting violation of every promise of peace and exploitation of their foes's attempts of appeasement until the invasion of Poland September of 1939 which led to Britain and France finally taking an armed stand against Hitler.",
       "fileSize": 675754226,
-      "id": "WhyWeFight2TheNazisStrike"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WhyWeFight2TheNazisStrike",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 7135
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-nazis-strike-1943_202505",
+      "id": "the-nazis-strike-1943_202505",
       "title": "The Nazis Strike (1943)",
       "description": "The second film of Frank Capra's Why We Fight propaganda film series. It introduces Germany as a nation whose aggressive ambitions began in 1863 with Otto von Bismarck and the Nazis as its latest incarnation. Watch on RetroFlix:  https://retroflix.org/the-nazis-strike-1943/",
       "fileSize": 266189806,
-      "id": "the-nazis-strike-1943_202505"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-nazis-strike-1943_202505",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 141
     }
   ],
   "metadata": {
@@ -35,105 +46,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0173769",
-      "title": "Divide and Conquer",
-      "year": 1943,
-      "imdbRating": 7.2,
-      "imdbVotes": 859,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036629",
-      "title": "The Battle of Russia",
-      "year": 1943,
-      "imdbRating": 7.1,
-      "imdbVotes": 1647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035209",
-      "title": "Why We Fight",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 2465,
-      "language": "English, German, Italian, Japanese, Amharic, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038171",
-      "title": "Thunderbolt",
-      "year": 1947,
-      "imdbRating": 6.6,
-      "imdbVotes": 745,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183997",
-      "title": "War Comes to America",
-      "year": 1945,
-      "imdbRating": 6.8,
-      "imdbVotes": 860,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812201",
-      "title": "Asse zur See",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367837",
-      "title": "Hemp for Victory",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1816593",
-      "title": "Mr. Lincoln's Springfield",
-      "year": 1977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178933",
-      "title": "Testing a Rotary",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0173769",
+    "tt0036629",
+    "tt0035209",
+    "tt0038171",
+    "tt0183997",
+    "tt0812201",
+    "tt13364232",
+    "tt0896825",
+    "tt0367837",
+    "tt1816593",
+    "tt12816892",
+    "tt0178933"
   ],
   "collections": [],
   "is_curated": true,

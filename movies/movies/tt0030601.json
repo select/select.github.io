@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/porky-and-daffy-1938",
+      "id": "porky-and-daffy-1938",
       "title": "Porky & Daffy (1938)",
       "description": "When fight manager Porky gets boxer Daffy a bout with the champion, Daffy's wild antics wreak havoc.",
       "fileSize": 861641973,
-      "id": "porky-and-daffy-1938"
+      "addedAt": "2026-01-07T00:10:21.537Z",
+      "thumbnail": "https://archive.org/services/img/porky-and-daffy-1938",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 371
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030272",
-      "title": "Injun Trouble",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030603",
-      "title": "Porky in Egypt",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 517,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030604",
-      "title": "Porky in Wackyland",
-      "year": 1938,
-      "imdbRating": 7.6,
-      "imdbVotes": 2342,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030963",
-      "title": "What Price Porky",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032909",
-      "title": "Pilgrim Porky",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033892",
-      "title": "Meet John Doughboy",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 407,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034376",
-      "title": "We, the Animals - Squeak!",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140812",
-      "title": "Any Bonds Today?",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035141",
-      "title": "Nutty News",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035529",
-      "title": "The Wacky Wabbit",
-      "year": 1942,
-      "imdbRating": 7.3,
-      "imdbVotes": 1210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140864",
-      "title": "Booby Traps",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030607",
-      "title": "Porky's Five & Ten",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 204,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030272",
+    "tt0030603",
+    "tt0030604",
+    "tt0030963",
+    "tt0032909",
+    "tt0033892",
+    "tt0034376",
+    "tt0140812",
+    "tt0035141",
+    "tt0035529",
+    "tt0140864",
+    "tt0030607"
   ],
   "collections": [
     {

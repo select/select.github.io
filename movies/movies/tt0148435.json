@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mad-hatter-1940",
+      "id": "mad-hatter-1940",
       "title": "Mad Hatter (1940)",
       "description": "A young working woman lives to shop, particularly for hats. She decides on a unique one. Watch on RetroFlix:  https://retroflix.org/the-mad-hatter-1940-2/",
       "fileSize": 98825989,
-      "id": "mad-hatter-1940"
+      "addedAt": "2026-01-07T00:09:46.421Z",
+      "thumbnail": "https://archive.org/services/img/mad-hatter-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 96
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-mad-hatter-1940",
+      "id": "the-mad-hatter-1940",
       "title": "The Mad Hatter (1940)",
       "description": "A young working woman lives to shop, particularly for hats. She decides on a unique one. Watch on RetroFlix:  https://retroflix.org/the-mad-hatter-1940/",
       "fileSize": 77907669,
-      "id": "the-mad-hatter-1940"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-mad-hatter-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 229
     }
   ],
   "metadata": {
@@ -35,109 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148589",
-      "title": "Peaceful Neighbors",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148629",
-      "title": "Poor Elmer",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032238",
-      "title": "Barnyard Babies",
-      "year": 1940,
-      "imdbRating": 5.3,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148270",
-      "title": "A Helping Paw",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148090",
-      "title": "Dreams on Ice",
-      "year": 1939,
-      "imdbRating": 4.8,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150235",
-      "title": "The Crystal Gazer",
-      "year": 1941,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032185",
-      "title": "Africa Squeaks",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150181",
-      "title": "Concert Kid",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148014",
-      "title": "Coo-Coo Bird Dog",
-      "year": 1949,
-      "imdbRating": 6.3,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148124",
-      "title": "Farmer Tom Thumb",
-      "year": 1940,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150763",
-      "title": "Goofy News Views",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032909",
-      "title": "Pilgrim Porky",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148589",
+    "tt0148629",
+    "tt0032238",
+    "tt0148270",
+    "tt0148090",
+    "tt0150235",
+    "tt0032185",
+    "tt0150181",
+    "tt0148014",
+    "tt0148124",
+    "tt0150763",
+    "tt0032909"
   ],
   "collections": [
     {

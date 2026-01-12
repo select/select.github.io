@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-meine-tante-deine-tante-ralph-arthur-roberts-johannes-heesters",
+      "id": "1939-meine-tante-deine-tante-ralph-arthur-roberts-johannes-heesters",
       "title": "1939 Meine Tante Deine Tante( Ralph Arthur Roberts, Johannes Heesters)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Meine Tante-Deine Tante.  U.a mit Ralph Arthur Roberts und Johannes Heesters ",
       "fileSize": 688456294,
-      "id": "1939-meine-tante-deine-tante-ralph-arthur-roberts-johannes-heesters"
+      "addedAt": "2026-01-07T00:06:02.057Z",
+      "thumbnail": "https://archive.org/services/img/1939-meine-tante-deine-tante-ralph-arthur-roberts-johannes-heesters",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 220
     }
   ],
   "metadata": {
@@ -26,103 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032418",
-      "title": "Drei Väter um Anna",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249245",
-      "title": "Wie der Hase läuft",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249460",
-      "title": "Dahinten in der Heide",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028019",
-      "title": "Männer vor der Ehe",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0237484",
-      "title": "Eine Nacht an der Donau",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129725",
-      "title": "...und die Musik spielt dazu",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029290",
-      "title": "Mädchen für alles",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 33,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025246",
-      "title": "Herz ist Trumpf",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024806",
-      "title": "...heute abend bei mir",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031375",
-      "title": "Das Glück wohnt nebenan",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027574",
-      "title": "Engel mit kleinen Fehlern",
-      "year": 1936,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0032418",
+    "tt0249245",
+    "tt0249460",
+    "tt0028019",
+    "tt0237484",
+    "tt0129725",
+    "tt0029290",
+    "tt0025246",
+    "tt0024806",
+    "tt0031375",
+    "tt0136247",
+    "tt0027574"
   ],
   "collections": [],
   "is_curated": true,

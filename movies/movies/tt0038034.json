@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rogues_gallery",
+      "id": "rogues_gallery",
       "title": "Rogues Gallery",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4471752151,
-      "id": "rogues_gallery"
+      "addedAt": "2026-01-07T00:10:40.949Z",
+      "thumbnail": "https://archive.org/services/img/rogues_gallery",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 73187
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=vNAEPcvqnAI",
+      "id": "vNAEPcvqnAI",
       "title": "Rogues Gallery (1944) MURDER MYSTERY",
       "description": "Stars: Frank Jenks, Robin Raymond, H.B. Warner\nDirector: Albert Herman\n\nA wisecracking photojournalist teams up with an intrepid girl reporter to get an exclusive interview with the inventor of a new listening device, but soon find themselves knee-deep in murder!",
-      "id": "vNAEPcvqnAI",
+      "addedAt": "2025-12-26T23:57:39.450Z",
+      "thumbnail": "https://i.ytimg.com/vi/vNAEPcvqnAI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhhIGEoYTAP&rs=AOn4CLDO2XUNPjfHEoHa_E7hm05JHLJZ7A",
+      "duration": 3440,
+      "language": "en",
+      "year": 1944,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037267",
-      "title": "Shake Hands with Murder",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037918",
-      "title": "The Missing Corpse",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037985",
-      "title": "The Phantom of 42nd Street",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037179",
-      "title": "A Place of One's Own",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036349",
-      "title": "Sherlock Holmes in Washington",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 5077,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035937",
-      "title": "The Ghost Ship",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 3833,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037303",
-      "title": "The Spider Woman",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 5282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038285",
-      "title": "Accomplice",
-      "year": 1946,
-      "imdbRating": 5.2,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034602",
-      "title": "A Close Call for Ellery Queen",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 152,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038449",
-      "title": "Dangerous Money",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1300,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037267",
+    "tt0037918",
+    "tt0037985",
+    "tt0037179",
+    "tt0036349",
+    "tt0035937",
+    "tt0037303",
+    "tt0034985",
+    "tt0035121",
+    "tt0038285",
+    "tt0034602",
+    "tt0038449"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/el-hombre-bestia-1934",
+      "id": "el-hombre-bestia-1934",
       "title": "El Hombre Bestia (1934)",
       "description": "pelicula",
       "fileSize": 1119490752,
-      "id": "el-hombre-bestia-1934"
+      "addedAt": "2026-01-07T00:08:15.378Z",
+      "thumbnail": "https://archive.org/services/img/el-hombre-bestia-1934",
+      "language": "spa",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 69
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025465",
-      "title": "Maniac",
-      "year": 1934,
-      "imdbRating": 3.7,
-      "imdbVotes": 2732,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0025391",
-      "title": "Life Returns",
-      "year": 1934,
-      "imdbRating": 3.9,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025169",
-      "title": "The Ghost Walks",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 663,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025064",
-      "title": "Double Door",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024894",
-      "title": "The Black Cat",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 13937,
-      "language": "English, Latin, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025062",
-      "title": "Two Monks",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 674,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025075",
-      "title": "The Beast of Borneo",
-      "year": 1934,
-      "imdbRating": 3.3,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024055",
-      "title": "The Ghoul",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 3369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024625",
-      "title": "A Study in Scarlet",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026230",
-      "title": "Condemned to Live",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121587",
-      "title": "Narcotic",
-      "year": 1933,
-      "imdbRating": 3.9,
-      "imdbVotes": 452,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024382",
-      "title": "Night of Terror",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 814,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025465",
+    "tt0025391",
+    "tt0025169",
+    "tt0025064",
+    "tt0024894",
+    "tt0025062",
+    "tt0025075",
+    "tt0024055",
+    "tt0024625",
+    "tt0026230",
+    "tt0121587",
+    "tt0024382"
   ],
   "collections": [],
   "is_curated": true,

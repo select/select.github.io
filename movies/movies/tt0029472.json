@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/red_lights_ahead",
+      "id": "red_lights_ahead",
       "title": "Red Lights Ahead",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3954194531,
-      "id": "red_lights_ahead"
+      "addedAt": "2026-01-07T00:10:30.753Z",
+      "thumbnail": "https://archive.org/services/img/red_lights_ahead",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 60758
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=YGFModPfeLA",
+      "id": "YGFModPfeLA",
       "title": "Red Lights Ahead (1936) COMEDY",
       "description": "Stars: Andy Clyde, Lucile Gleason, Roger Imhof\nDirector: Roland D. Reed\n\nA family loses its collective head going from rags to riches after buying shares in a promising gold mine, mortgaging the family home to do so!",
-      "id": "YGFModPfeLA",
+      "addedAt": "2025-12-26T23:50:16.491Z",
+      "thumbnail": "https://i.ytimg.com/vi/YGFModPfeLA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDAaoYThT-La50vR9JD4a-ji0FFUA",
+      "duration": 4004,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027969",
-      "title": "The Milky Way",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 1814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029201",
-      "title": "The Man Who Could Work Miracles",
-      "year": 1936,
-      "imdbRating": 6.9,
-      "imdbVotes": 1563,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027397",
-      "title": "Bridge Ahoy!",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027787",
-      "title": "I'm in the Army Now",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 349,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151085",
-      "title": "It's a Greek Life",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028294",
-      "title": "The Spinach Roadster",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027123",
-      "title": "Toonerville Trolley",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029358",
-      "title": "Our Gang Follies of 1938",
-      "year": 1937,
-      "imdbRating": 7.1,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026283",
-      "title": "Dizzy Divers",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028893",
-      "title": "Fowl Play",
-      "year": 1937,
-      "imdbRating": 6.7,
-      "imdbVotes": 209,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029021",
-      "title": "Hospitaliky",
-      "year": 1937,
-      "imdbRating": 7.4,
-      "imdbVotes": 278,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029150",
-      "title": "Little Lamby",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027969",
+    "tt0029201",
+    "tt0027397",
+    "tt0027787",
+    "tt0151085",
+    "tt0028294",
+    "tt0027123",
+    "tt0029358",
+    "tt0026283",
+    "tt0028893",
+    "tt0029021",
+    "tt0029150"
   ],
   "collections": [],
   "is_curated": true,

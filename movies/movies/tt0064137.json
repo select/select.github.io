@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/castle-keep-1969",
+      "id": "castle-keep-1969",
       "title": "Castle Keep (1969) Burt Lancaster · Patrick O'Neal",
       "description": "Towards the end of World War II, a group of wounded American soldiers is transferred to a castle in the Ardennes. Their days of rest, filled with boredom and sex, come to a bloody end when the major entrenches himself against the advancing German troops... A war film, uncertainly staged between sensationalism and criticism, that revels in destructive fury toward the end.",
       "fileSize": 3249414525,
-      "id": "castle-keep-1969"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/castle-keep-1969",
+      "language": "eng",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 356
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0063557",
-      "title": "The Scalphunters",
-      "year": 1968,
-      "imdbRating": 6.7,
-      "imdbVotes": 4910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063186",
-      "title": "Kill!",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 3216,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064397",
-      "title": "The Gypsy Moths",
-      "year": 1969,
-      "imdbRating": 6.3,
-      "imdbVotes": 2518,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060586",
-      "title": "Fighting Elegy",
-      "year": 1966,
-      "imdbRating": 6.9,
-      "imdbVotes": 1632,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0347938",
-      "title": "The Santa Trap",
-      "year": 2002,
-      "imdbRating": 4.3,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0029939",
-      "title": "Born to Be Wild",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026593",
-      "title": "Ladies Crave Excitement",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033058",
-      "title": "Sky Bandits",
-      "year": 1940,
-      "imdbRating": 5.3,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064571",
-      "title": "Eagles Over London",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 845,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4912452",
-      "title": "Destruction Babies",
-      "year": 2016,
-      "imdbRating": 5.9,
-      "imdbVotes": 1011,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064240",
-      "title": "Django the Bastard",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 1307,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0063557",
+    "tt0063186",
+    "tt0064397",
+    "tt0060586",
+    "tt0347938",
+    "tt0029939",
+    "tt0026593",
+    "tt0033058",
+    "tt0019421",
+    "tt0064571",
+    "tt4912452",
+    "tt0064240"
   ],
   "collections": [],
   "is_curated": true,

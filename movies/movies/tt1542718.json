@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OnceOverLightly1944",
+      "id": "OnceOverLightly1944",
       "title": "ONCE OVER LIGHTLY (1944)",
       "description": "ONCE OVER LIGHTLY (1944) Mack Sennett silent-comedy, circa 1920's, pastiche with narration. Stars Ben Turpin, Charlie Murray, Larry Semon, Billy Bevan, James Finlayson, Dot Farley, Louise Fazenda, Keystone Kops.",
       "fileSize": 505276918,
-      "id": "OnceOverLightly1944"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OnceOverLightly1944",
+      "collection": "feature_films",
+      "downloads": 2065
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150052",
-      "title": "The Case of the Screaming Bishop",
-      "year": 1944,
-      "imdbRating": 5,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430088",
-      "title": "A Few Quick Facts",
-      "year": 1944,
-      "imdbRating": 4.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10284276",
-      "title": "A Few Quick Facts: USS Iowa/Brain/Shoes",
-      "year": 1944,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147875",
-      "title": "Be Patient, Patient",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140864",
-      "title": "Booby Traps",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146537",
-      "title": "Carmen's Veranda",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154346",
-      "title": "Going Home",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148502",
-      "title": "Mr. Moocher",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152040",
-      "title": "Porkuliar Piggy",
-      "year": 1944,
-      "imdbRating": 5.1,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015657",
-      "title": "Butter Fingers",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016375",
-      "title": "Super-Hooper-Dyne Lizzies",
-      "year": 1925,
-      "imdbRating": 5.9,
-      "imdbVotes": 207,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0155186",
-      "title": "Snafuperman",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150052",
+    "tt0430088",
+    "tt10284276",
+    "tt0147875",
+    "tt0140864",
+    "tt0146537",
+    "tt0154346",
+    "tt0148502",
+    "tt0152040",
+    "tt0015657",
+    "tt0016375",
+    "tt0155186"
   ],
   "collections": [],
   "is_curated": true,

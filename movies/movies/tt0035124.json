@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/night-monster-1942",
+      "id": "night-monster-1942",
       "title": "Night Monster (1942)",
       "description": " Bela Lugosi, Lionel Atwill",
       "fileSize": 1979545788,
-      "id": "night-monster-1942"
+      "addedAt": "2026-01-07T00:10:02.897Z",
+      "thumbnail": "https://archive.org/services/img/night-monster-1942",
+      "collection": "feature_films",
+      "downloads": 4799
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/night.-monster.-1942",
+      "id": "night.-monster.-1942",
       "title": "Night Monster (1942)",
       "description": "\"Night Monster\" is a 1942 black-and-white horror film directed by Ford Beebe, featuring Bela Lugosi and Lionel Atwill. The story unfolds in a small town near a swamp, where a series of mysterious murders occur. The reclusive Kurt Ingston, who is paralyzed and uses a wheelchair, invites three doctors to his home, seeking their help. The plot thickens with the arrival of a lady psychiatrist, Dr. Lynne Harper, and a mystery-writer, Dick Baldwin. As the night progresses, they confront the dark secrets of Ingston's household, leading to a shocking revelation about the killer. ",
       "fileSize": 1294855941,
-      "id": "night.-monster.-1942"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/night.-monster.-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 325
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-night-monster-ford-beebe-vose",
+      "id": "1942-night-monster-ford-beebe-vose",
       "title": "1942 - Night Monster - Ford Beebe - VOSE",
       "description": "For Academic - Educational Use Only https://derechonoir.wordpress.com/",
       "fileSize": 1163726251,
-      "id": "1942-night-monster-ford-beebe-vose"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-night-monster-ford-beebe-vose",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 14496
     }
   ],
   "metadata": {
@@ -43,112 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035317",
-      "title": "Sherlock Holmes and the Secret Weapon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 7187,
-      "language": "English, French, Indonesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2836316",
-      "title": "The Green Hornet Movie Edition",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035070",
-      "title": "Mississippi Gambler",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034188",
-      "title": "Sign of the Wolf",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024245",
-      "title": "Laughing at Life",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 116,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030898",
-      "title": "Trouble at Midnight",
-      "year": 1937,
-      "imdbRating": 7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031680",
-      "title": "Mr. Wong in Chinatown",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033760",
-      "title": "Invisible Ghost",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 2719,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038360",
-      "title": "Black Angel",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 4147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030473",
-      "title": "Mr. Wong, Detective",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 1262,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    }
+    "tt0035317",
+    "tt2836316",
+    "tt0035070",
+    "tt0034188",
+    "tt0024245",
+    "tt0030898",
+    "tt0031505",
+    "tt0031680",
+    "tt0033760",
+    "tt0030037",
+    "tt0038360",
+    "tt0030473"
   ],
   "collections": [],
   "is_curated": true,

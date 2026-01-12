@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_3002",
+      "id": "rog561b_netzero_3002",
       "title": "3002",
       "description": "3002",
       "fileSize": 2687449423,
-      "id": "rog561b_netzero_3002"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_3002",
+      "collection": "feature_films",
+      "downloads": 771
     }
   ],
   "metadata": {
@@ -26,109 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0206649",
-      "title": "Cochengo Miranda",
-      "year": 1975,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223024",
-      "title": "Community Action Theater on Tour",
-      "year": 1973,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1816593",
-      "title": "Mr. Lincoln's Springfield",
-      "year": 1977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076826",
-      "title": "To See Such Fun",
-      "year": 1977,
-      "imdbRating": 7.3,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073076",
-      "title": "Grey Gardens",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 16059,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279919",
-      "title": "The Legend of Bigfoot",
-      "year": 1975,
-      "imdbRating": 3.6,
-      "imdbVotes": 600,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186483",
-      "title": "The Real Bruce Lee",
-      "year": 1977,
-      "imdbRating": 4.5,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1002443",
-      "title": "Day of the Killer Tornadoes",
-      "year": 1978,
-      "imdbRating": 8.1,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322088",
-      "title": "Haircut",
-      "year": 1974,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071604",
-      "title": "Hearts and Minds",
-      "year": 1974,
-      "imdbRating": 8.2,
-      "imdbVotes": 6441,
-      "language": "English, French, Vietnamese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0163354",
-      "title": "Roger Corman: Hollywood's Wild Angel",
-      "year": 1978,
-      "imdbRating": 6.7,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0206649",
+    "tt0223024",
+    "tt1816593",
+    "tt0076826",
+    "tt0073076",
+    "tt0279919",
+    "tt0186483",
+    "tt1002443",
+    "tt7322088",
+    "tt0071604",
+    "tt0163354",
+    "tt6564690"
   ],
   "collections": [],
   "is_curated": true,

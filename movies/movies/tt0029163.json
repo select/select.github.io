@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LostRanch",
+      "id": "LostRanch",
       "title": "Lost Ranch",
       "description": "Cattlemen's Protective Association agent Tom Wade (Tom Tyler) and his partner Happy (Howard Bryant) are assigned to look into the disappearance of rancher John Carroll (Lafe McKee), who has been abducted by Carson (Forrest Taylor), who wants to use his out-of-the-way ranch as a base for his smuggling operations.",
       "fileSize": 1339089665,
-      "id": "LostRanch"
+      "addedAt": "2026-01-07T00:06:38.750Z",
+      "thumbnail": "https://archive.org/services/img/LostRanch",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 12583
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=nnv99i-11zk",
+      "id": "nnv99i-11zk",
       "title": "Lost Ranch (1937) TOM TYLER",
       "description": "Stars: Tom Tyler, Jeanne Martel, Howard Bryant \n Director: Sam Katzman\n\n Cattlemen's Protective Association agent Tom Wade and his partner Happy are assigned to look into the disappearance of rancher John Carroll, who has been abducted by Carson, who wants to use his out-of-the-way ranch as a base for his smuggling operations. Complications arise as Carrol's daughter, Rita, looking for him, has an unfriendly run-in with Wade, then later is herself kidnapped by Carson.",
-      "id": "nnv99i-11zk",
+      "addedAt": "2025-12-26T23:50:04.135Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/nnv99i-11zk/maxresdefault.webp",
+      "duration": 3485,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,119 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029354",
-      "title": "Orphan of the Pecos",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0028666",
-      "title": "Brothers of the West",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028218",
-      "title": "Santa Fe Bound",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031165",
-      "title": "Code of the Fearless",
-      "year": 1939,
-      "imdbRating": 4.9,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028712",
-      "title": "Cheyenne Rides Again",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028865",
-      "title": "The Feud of the Trail",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140551",
-      "title": "Sky Racket",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028192",
-      "title": "Roamin' Wild",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028101",
-      "title": "The Phantom of the Range",
-      "year": 1936,
-      "imdbRating": 6.5,
-      "imdbVotes": 77,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028188",
-      "title": "Rip Roarin' Buckaroo",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027610",
-      "title": "Fast Bullets",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0029354",
+    "tt0028666",
+    "tt0028218",
+    "tt0031165",
+    "tt0028712",
+    "tt0028865",
+    "tt0028574",
+    "tt0140551",
+    "tt0028192",
+    "tt0028101",
+    "tt0028188",
+    "tt0027610"
   ],
   "collections": [],
   "is_curated": true,

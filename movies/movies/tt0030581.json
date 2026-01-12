@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PhantomRanger",
+      "id": "PhantomRanger",
       "title": "Phantom Ranger",
       "description": "A Treasury Department engraver is being held captive by a counterfeiting gang that wants him to make counterfeit plates for them. A lawman is sent to rescue him.",
       "fileSize": 1529773739,
-      "id": "PhantomRanger"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/PhantomRanger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 7361
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=-WpXZupPvPM",
+      "id": "-WpXZupPvPM",
       "title": "Phantom Ranger (1938) TIM McCOY",
       "description": "Stars: Tim McCoy, Suzanne Kaaren, Karl Hackett \nDirector: Sam Newfield\n\nWhen a Treasury Department engraver is being held captive by a gang counterfeiters, a lawman is sent to rescue him.",
-      "id": "-WpXZupPvPM",
+      "addedAt": "2025-12-26T23:48:03.501Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/-WpXZupPvPM/maxresdefault.webp",
+      "duration": 3129,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0133763",
-      "title": "The Feud Maker",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030366",
-      "title": "Lightning Carson Rides Again",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030001",
-      "title": "Code of the Rangers",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030756",
-      "title": "Six-Gun Trail",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030556",
-      "title": "Paroled - To Die",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026157",
-      "title": "Bulldog Courage",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 142,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033104",
-      "title": "Straight Shooter",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031164",
-      "title": "Code of the Cactus",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031306",
-      "title": "The Fighting Renegade",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028967",
-      "title": "Gun Lords of Stirrup Basin",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032055",
-      "title": "Trigger Fingers",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0032014",
-      "title": "Texas Wildcats",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0133763",
+    "tt0030366",
+    "tt0030001",
+    "tt0030756",
+    "tt0030556",
+    "tt0026157",
+    "tt0033104",
+    "tt0031164",
+    "tt0031306",
+    "tt0028967",
+    "tt0032055",
+    "tt0032014"
   ],
   "collections": [],
   "is_curated": true,

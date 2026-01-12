@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/railroaded1947_202003",
+      "id": "railroaded1947_202003",
       "title": "Railroaded! (1947) Directed by Anthony Mann, Featuring John Ireland",
       "description": "Railroaded! is a 1947 American crime film noir directed by Anthony Mann starring John Ireland, Sheila Ryan, Hugh Beaumont and Jane Randolph. 6It was based on the same real life case that inspired Call Northside 777.",
       "fileSize": 187246674,
-      "id": "railroaded1947_202003"
+      "addedAt": "2026-01-07T00:10:21.542Z",
+      "thumbnail": "https://archive.org/services/img/railroaded1947_202003",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 7187
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1947-railroaded-el-ultimo-disparo-trampa-para-un-inocente-anthony-mann-vose",
+      "id": "1947-railroaded-el-ultimo-disparo-trampa-para-un-inocente-anthony-mann-vose",
       "title": "1947 Railroaded! - El último disparo - Trampa para un inocente - Anthony Mann - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 793860799,
-      "id": "1947-railroaded-el-ultimo-disparo-trampa-para-un-inocente-anthony-mann-vose"
+      "addedAt": "2026-01-07T00:06:03.998Z",
+      "thumbnail": "https://archive.org/services/img/1947-railroaded-el-ultimo-disparo-trampa-para-un-inocente-anthony-mann-vose",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 2268
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040723",
-      "title": "Raw Deal",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 5802,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037749",
-      "title": "The Great Flamarion",
-      "year": 1945,
-      "imdbRating": 6.6,
-      "imdbVotes": 1473,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037318",
-      "title": "Strangers in the Night",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 848,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039230",
-      "title": "Bury Me Dead",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040671",
-      "title": "Open Secret",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 350,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040239",
-      "title": "The Cobra Strikes",
-      "year": 1948,
-      "imdbRating": 5.3,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038986",
-      "title": "Strange Impersonation",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037858",
-      "title": "The Lady Confesses",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037518",
-      "title": "Apology for Murder",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039515",
-      "title": "Johnny O'Clock",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 2969,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039335",
-      "title": "A Double Life",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 4170,
-      "language": "English, Italian, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039224",
-      "title": "Brute Force",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 12259,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040723",
+    "tt0037749",
+    "tt0037318",
+    "tt0039230",
+    "tt0040671",
+    "tt0040239",
+    "tt0038986",
+    "tt0037858",
+    "tt0037518",
+    "tt0039515",
+    "tt0039335",
+    "tt0039224"
   ],
   "collections": [],
   "is_curated": true,

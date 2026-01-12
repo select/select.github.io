@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-firing-line",
+      "id": "the-firing-line",
       "title": "The Firing Line",
       "description": "A mercenary hired by a Central American government to stop a rebel movement ends up training the rebels.",
       "fileSize": 306911952,
-      "id": "the-firing-line"
+      "addedAt": "2026-01-07T00:11:57.687Z",
+      "thumbnail": "https://archive.org/services/img/the-firing-line",
+      "collection": "feature_films",
+      "downloads": 169
     }
   ],
   "metadata": {
@@ -27,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0121694",
-      "title": "Robo Vampire",
-      "year": 1988,
-      "imdbRating": 3.4,
-      "imdbVotes": 1547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0165755",
-      "title": "Empire of the Spiritual Ninja",
-      "year": 1988,
-      "imdbRating": 3.6,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0100273",
-      "title": "Night of the Sharks",
-      "year": 1988,
-      "imdbRating": 3.7,
-      "imdbVotes": 483,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0096468",
-      "title": "Mistaken Identity",
-      "year": 1988,
-      "imdbRating": 6.4,
-      "imdbVotes": 27,
-      "language": "Cantonese, Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0133246",
-      "title": "Twister's Revenge!",
-      "year": 1988,
-      "imdbRating": 2.7,
-      "imdbVotes": 470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0097818",
-      "title": "Malarek",
-      "year": 1988,
-      "imdbRating": 6,
-      "imdbVotes": 187,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0095781",
-      "title": "Once Upon a Texas Train",
-      "year": 1988,
-      "imdbRating": 5.7,
-      "imdbVotes": 796,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0095403",
-      "title": "Police Story 2",
-      "year": 1988,
-      "imdbRating": 7.1,
-      "imdbVotes": 24216,
-      "language": "Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0199814",
-      "title": "Ninja Commandments",
-      "year": 1987,
-      "imdbRating": 4,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0238080",
-      "title": "The Black Cobra 2",
-      "year": 1989,
-      "imdbRating": 4.7,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2062947",
-      "title": "Code Name Zebra",
-      "year": 1987,
-      "imdbRating": 4.2,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0099978",
-      "title": "Laser Mission",
-      "year": 1989,
-      "imdbRating": 3.5,
-      "imdbVotes": 2764,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0121694",
+    "tt0165755",
+    "tt0100273",
+    "tt0096468",
+    "tt0133246",
+    "tt0097818",
+    "tt0095781",
+    "tt0095403",
+    "tt0199814",
+    "tt0238080",
+    "tt2062947",
+    "tt0099978"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SweepstakeAnnie",
+      "id": "SweepstakeAnnie",
       "title": "Sweepstake Annie",
       "description": "Annie Foster works in the movie business, and we get to see behind the scenes of a movie shoot in the 1930's as we meet Annie and her universe. She wins a fortune and thinks that all of her problems will disappear, but new ones then come to take their place.",
       "fileSize": 1306272541,
-      "id": "SweepstakeAnnie"
+      "addedAt": "2026-01-07T00:06:58.270Z",
+      "thumbnail": "https://archive.org/services/img/SweepstakeAnnie",
+      "collection": "feature_films",
+      "downloads": 5407
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=ZbTpYKagFoM",
+      "id": "ZbTpYKagFoM",
       "title": "Sweepstake Annie  (1935) COMEDY",
       "description": "Stars: Tom Brown, Marian Nixon, Wera Engels \nDirector: William Nigh\n\nA young woman who works in the movie business buys a sweepstakes ticket that turns out to be a winner. Her stroke of luck changes her life around--but not necessarily for the better.",
-      "id": "ZbTpYKagFoM",
+      "addedAt": "2025-12-26T23:47:26.526Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZbTpYKagFoM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCpgzRGHxaup-bfqH4UiQ_OSo_Ztw",
+      "duration": 4384,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0024984",
-      "title": "City Limits",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028662",
-      "title": "A Bride for Henry",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025152",
-      "title": "Fugitive Road",
-      "year": 1934,
-      "imdbRating": 5.9,
-      "imdbVotes": 68,
-      "language": "English, German, Italian",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028360",
-      "title": "The 13th Man",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027037",
-      "title": "Squibs",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026863",
-      "title": "The Perfect Clue",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139723",
-      "title": "Vintage Wine",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 63,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    }
+    "tt0024984",
+    "tt0028662",
+    "tt0025335",
+    "tt0025152",
+    "tt0023955",
+    "tt0028360",
+    "tt0028592",
+    "tt0028634",
+    "tt0129972",
+    "tt0027037",
+    "tt0026863",
+    "tt0139723"
   ],
   "collections": [],
   "is_curated": true,

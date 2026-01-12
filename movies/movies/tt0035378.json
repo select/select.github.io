@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/stand-by-all-networks-1942",
+      "id": "stand-by-all-networks-1942",
       "title": "Stand By All Networks (1942)",
       "description": "Florence Rice",
       "fileSize": 1376400462,
-      "id": "stand-by-all-networks-1942"
+      "addedAt": "2026-01-07T00:11:35.628Z",
+      "thumbnail": "https://archive.org/services/img/stand-by-all-networks-1942",
+      "collection": "feature_films",
+      "downloads": 408
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037409",
-      "title": "Two-Man Submarine",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032976",
-      "title": "Rebecca",
-      "year": 1940,
-      "imdbRating": 8.1,
-      "imdbVotes": 160202,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040078",
-      "title": "Adventures of Gallant Bess",
-      "year": 1948,
-      "imdbRating": 5.2,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039815",
-      "title": "Seven Keys to Baldpate",
-      "year": 1947,
-      "imdbRating": 5.9,
-      "imdbVotes": 475,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032077",
-      "title": "Undercover Doctor",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033855",
-      "title": "Lucky Devils",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034831",
-      "title": "Harvard, Here I Come!",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030727",
-      "title": "Secrets of an Actress",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038492",
-      "title": "Dragonwyck",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 5595,
-      "language": "English, French, Dutch",
-      "sourceType": "archive.org"
-    }
+    "tt0037409",
+    "tt0032976",
+    "tt0040078",
+    "tt0035694",
+    "tt0034572",
+    "tt0039815",
+    "tt0032077",
+    "tt0033855",
+    "tt0034831",
+    "tt0029855",
+    "tt0030727",
+    "tt0038492"
   ],
   "collections": [],
   "is_curated": true,

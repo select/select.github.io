@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/birds-of-prey_20210617",
+      "id": "birds-of-prey_20210617",
       "title": "Birds Of Prey",
       "description": "A former police commissioner becomes the target of a revenge plot by two men he had helped convict years before.",
       "fileSize": 7492163916,
-      "id": "birds-of-prey_20210617"
+      "addedAt": "2026-01-07T00:07:38.717Z",
+      "thumbnail": "https://archive.org/services/img/birds-of-prey_20210617",
+      "language": "eng",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 2272
     }
   ],
   "metadata": {
@@ -26,104 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3663322",
-      "title": "An Everyday Occurence",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211244",
-      "title": "Betty's Bath",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 51,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759722",
-      "title": "The Stage Hands",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251348",
-      "title": "Hollywood Models",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251702",
-      "title": "Hollywood Sand Witches",
-      "year": 1928,
-      "imdbRating": 4.7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251344",
-      "title": "Jazz Babies",
-      "year": 1928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419941",
-      "title": "Manga: Sakana no kuni",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251696",
-      "title": "Sirens of the Sea",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt3663322",
+    "tt0475080",
+    "tt3251338",
+    "tt0309243",
+    "tt0211244",
+    "tt4135826",
+    "tt0759722",
+    "tt3251348",
+    "tt3251702",
+    "tt3251344",
+    "tt0419941",
+    "tt3251696"
   ],
   "collections": [],
   "is_curated": true,

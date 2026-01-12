@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/387-ottumwa-u.-s.-a.",
+      "id": "387-ottumwa-u.-s.-a.",
       "title": "The Big Picture",
       "description": "The Big Picture",
       "fileSize": 623064489,
-      "id": "387-ottumwa-u.-s.-a."
+      "addedAt": "2026-01-07T00:06:09.631Z",
+      "thumbnail": "https://archive.org/services/img/387-ottumwa-u.-s.-a.",
+      "collection": "feature_films",
+      "downloads": 494
     }
   ],
   "metadata": {
@@ -27,121 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0096492",
-      "title": "Forgotten Tune for the Flute",
-      "year": 1987,
-      "imdbRating": 7.5,
-      "imdbVotes": 911,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0091364",
-      "title": "Courier",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 6488,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0107273",
-      "title": "Joey Breaker",
-      "year": 1993,
-      "imdbRating": 4.4,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0106941",
-      "title": "For Love or Money",
-      "year": 1993,
-      "imdbRating": 6.2,
-      "imdbVotes": 16130,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0108160",
-      "title": "Sleepless in Seattle",
-      "year": 1993,
-      "imdbRating": 6.8,
-      "imdbVotes": 202088,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0087650",
-      "title": "Love and Doves",
-      "year": 1985,
-      "imdbRating": 7.9,
-      "imdbVotes": 6194,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3101386",
-      "title": "The Christmas Spirit",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0096492",
+    "tt0091364",
+    "tt0107273",
+    "tt0106941",
+    "tt0087650",
+    "tt0032599",
+    "tt0027311",
+    "tt0033891",
+    "tt0027286",
+    "tt3101386",
+    "tt0028010",
+    "tt0111415"
   ],
   "collections": [],
   "is_curated": true,

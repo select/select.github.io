@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/temptation-1946",
+      "id": "temptation-1946",
       "title": "Temptation (1946)",
       "description": "After marrying an archaeologist, a Victorian-era woman with a sordid past realizes that she is not ready to settle down with one man. Watch on RetroFlix.org: https://retroflix.org/temptation-1946/",
       "fileSize": 370830298,
-      "id": "temptation-1946"
+      "addedAt": "2026-01-07T00:11:46.530Z",
+      "thumbnail": "https://archive.org/services/img/temptation-1946",
+      "language": "eng",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 253
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/temptation-281946-29",
+      "id": "temptation-281946-29",
       "title": "TEMPTATION",
       "description": "After marrying an archaeologist (Brent), a woman (Oberon) with a sordid past realizes that she is not ready to settle down with one man, to say the least!",
       "fileSize": 370829710,
-      "id": "temptation-281946-29"
+      "addedAt": "2026-01-07T00:11:46.530Z",
+      "thumbnail": "https://archive.org/services/img/temptation-281946-29",
+      "language": "eng",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 240
     }
   ],
   "metadata": {
@@ -35,115 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038986",
-      "title": "Strange Impersonation",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038937",
-      "title": "Shock",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 3476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042869",
-      "title": "Quicksand",
-      "year": 1950,
-      "imdbRating": 6.6,
-      "imdbVotes": 2655,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037330",
-      "title": "The Suspect",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 3684,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035966",
-      "title": "Hangmen Also Die!",
-      "year": 1943,
-      "imdbRating": 7.4,
-      "imdbVotes": 7016,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041791",
-      "title": "The Red Menace",
-      "year": 1949,
-      "imdbRating": 5,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042046",
-      "title": "The Window",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 5025,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0036745",
-      "title": "Dark Waters",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 1118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038991",
-      "title": "The Stranger",
-      "year": 1946,
-      "imdbRating": 7.3,
-      "imdbVotes": 30317,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043938",
-      "title": "The Prowler",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 4414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038346",
-      "title": "Behind Green Lights",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 1068,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038455",
-      "title": "The Dark Mirror",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 5810,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038986",
+    "tt0038937",
+    "tt0042869",
+    "tt0037330",
+    "tt0035966",
+    "tt0041791",
+    "tt0042046",
+    "tt0036745",
+    "tt0038991",
+    "tt0043938",
+    "tt0038346",
+    "tt0038455"
   ],
   "collections": [],
   "is_curated": true,

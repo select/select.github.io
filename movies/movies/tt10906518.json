@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/558351059529",
+      "id": "558351059529",
       "title": "Atraco perfecto",
       "description": "Cine Negro clásico ",
       "fileSize": 1281799417,
-      "id": "558351059529"
+      "addedAt": "2026-01-07T00:06:09.631Z",
+      "thumbnail": "https://archive.org/services/img/558351059529",
+      "collection": "feature_films",
+      "downloads": 22
     }
   ],
   "metadata": {
@@ -26,110 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt6684072",
-      "title": "Comeback Kid",
-      "year": 2017,
-      "imdbRating": 5.7,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6737010",
-      "title": "Titanic 2",
-      "year": 2017,
-      "imdbRating": 2.3,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt9080768",
-      "title": "Turf War",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt12180592",
-      "title": "Cineminuto Cinemex: Dulce Familia",
-      "year": 2019,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4805732",
-      "title": "Total Awesome Viking Power",
-      "year": 2015,
-      "imdbRating": 8.4,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4738744",
-      "title": "The Last Woman on Earth",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4331620",
-      "title": "samuel-613",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 66,
-      "language": "Yiddish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4136798",
-      "title": "Son of the Ghost of the Invisible Spook",
-      "year": 2014,
-      "imdbRating": 6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9716420",
-      "title": "970 Square Feet",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3591468",
-      "title": "How to Be Sexy",
-      "year": 2014,
-      "imdbRating": 9,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7753100",
-      "title": "Brigitte Bardot",
-      "year": 2020,
-      "imdbVotes": 117,
-      "language": "Turkish",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt13486266",
-      "title": "Bagged",
-      "year": 2020,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt6684072",
+    "tt6737010",
+    "tt9080768",
+    "tt12180592",
+    "tt4805732",
+    "tt4738744",
+    "tt4331620",
+    "tt4136798",
+    "tt9716420",
+    "tt3591468",
+    "tt7753100",
+    "tt13486266"
   ],
   "collections": [],
   "is_curated": true,

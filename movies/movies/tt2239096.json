@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_107",
+      "id": "rog56_mail_107",
       "title": "107",
       "description": "107",
       "fileSize": 22529303716,
-      "id": "rog56_mail_107"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_107",
+      "collection": "feature_films",
+      "downloads": 21999
     }
   ],
   "metadata": {
@@ -27,124 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0313724",
-      "title": "The Third Wave",
-      "year": 2003,
-      "imdbRating": 6.3,
-      "imdbVotes": 4163,
-      "language": "Swedish, English, German, French, Dutch",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1308729",
-      "title": "Bullet to the Head",
-      "year": 2012,
-      "imdbRating": 5.7,
-      "imdbVotes": 53382,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1329232",
-      "title": "St George's Day",
-      "year": 2012,
-      "imdbRating": 5.2,
-      "imdbVotes": 2235,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2240966",
-      "title": "Dead Drop",
-      "year": 2013,
-      "imdbRating": 3.6,
-      "imdbVotes": 754,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1653700",
-      "title": "The Veteran",
-      "year": 2011,
-      "imdbRating": 5.8,
-      "imdbVotes": 7596,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1027683",
-      "title": "Kill Speed",
-      "year": 2010,
-      "imdbRating": 3.8,
-      "imdbVotes": 2006,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3540136",
-      "title": "Wolf Warrior",
-      "year": 2015,
-      "imdbRating": 5.3,
-      "imdbVotes": 6282,
-      "language": "Mandarin, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3848892",
-      "title": "Baby",
-      "year": 2015,
-      "imdbRating": 7.9,
-      "imdbVotes": 61330,
-      "language": "Hindi, Nepali",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1269734",
-      "title": "Angel of Death",
-      "year": 2009,
-      "imdbRating": 4.9,
-      "imdbVotes": 2493,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3398252",
-      "title": "Samurai Cop 2: Deadly Vengeance",
-      "year": 2015,
-      "imdbRating": 3.5,
-      "imdbVotes": 3901,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1060255",
-      "title": "The Horseman",
-      "year": 2008,
-      "imdbRating": 6.5,
-      "imdbVotes": 5465,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0454402",
-      "title": "Bad Guys",
-      "year": 2008,
-      "imdbRating": 4.1,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0313724",
+    "tt1308729",
+    "tt1329232",
+    "tt2240966",
+    "tt1653700",
+    "tt1027683",
+    "tt3540136",
+    "tt3848892",
+    "tt1269734",
+    "tt3398252",
+    "tt1060255",
+    "tt0454402"
   ],
   "collections": [],
   "is_curated": true,

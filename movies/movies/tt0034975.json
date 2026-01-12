@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-liebeskomodie-magda-schneider-lizzy-waldmuller-johannes-riemann-albert-matt",
+      "id": "1942-liebeskomodie-magda-schneider-lizzy-waldmuller-johannes-riemann-albert-matt",
       "title": "1942 Liebeskomödie ( Magda Schneider, Lizzy Waldmüller, Johannes Riemann, Albert Matterstock, Elsa Wagner, Theo Lingen, Ursula Herking)",
       "description": "Film aus dem deutschen dritten Reich von 1942. Liebeskomödie.  U.a mit Johannes Riemann und Magda Schneider ",
       "fileSize": 1585108410,
-      "id": "1942-liebeskomodie-magda-schneider-lizzy-waldmuller-johannes-riemann-albert-matt"
+      "addedAt": "2026-01-07T00:06:03.996Z",
+      "thumbnail": "https://archive.org/services/img/1942-liebeskomodie-magda-schneider-lizzy-waldmuller-johannes-riemann-albert-matt",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 255
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034373",
-      "title": "Was geschah in dieser Nacht",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220614",
-      "title": "Das Lied der Nachtigall",
-      "year": 1944,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035927",
-      "title": "Geliebter Schatz",
-      "year": 1943,
-      "imdbRating": 8.3,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036797",
-      "title": "Es lebe die Liebe",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035480",
-      "title": "Two Weeks to Live",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 216,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035758",
-      "title": "Cosmo Jones in the Crime Smasher",
-      "year": 1943,
-      "imdbRating": 4.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035628",
-      "title": "Altes Herz wird wieder jung",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036078",
-      "title": "Der kleine Grenzverkehr",
-      "year": 1943,
-      "imdbRating": 7.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035922",
-      "title": "Die Gattin",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131451",
-      "title": "Die kluge Marianne",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0033632",
+    "tt0034373",
+    "tt0220614",
+    "tt0035927",
+    "tt0036797",
+    "tt0035480",
+    "tt0035758",
+    "tt0036066",
+    "tt0035628",
+    "tt0036078",
+    "tt0035922",
+    "tt0131451"
   ],
   "collections": [],
   "is_curated": true,

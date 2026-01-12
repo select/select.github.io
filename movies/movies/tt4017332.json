@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/markham-disc-1-1_202105",
+      "id": "markham-disc-1-1_202105",
       "title": "Markham",
       "description": "Ray Milland",
       "fileSize": 59084651867,
-      "id": "markham-disc-1-1_202105"
+      "addedAt": "2026-01-07T00:09:46.427Z",
+      "thumbnail": "https://archive.org/services/img/markham-disc-1-1_202105",
+      "collection": "feature_films",
+      "downloads": 999
     }
   ],
   "metadata": {
@@ -27,126 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt10772662",
-      "title": "The Boy Behind the Door",
-      "year": 2020,
-      "imdbRating": 5.7,
-      "imdbVotes": 6294,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt10660954",
-      "title": "Sacrilege",
-      "year": 2020,
-      "imdbRating": 3.6,
-      "imdbVotes": 521,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt10873438",
-      "title": "The Barcelona Vampiress",
-      "year": 2020,
-      "imdbRating": 5.8,
-      "imdbVotes": 597,
-      "language": "Catalan, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2990352",
-      "title": "The Trees Have Eyes",
-      "year": 2020,
-      "imdbRating": 3.3,
-      "imdbVotes": 156,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6483422",
-      "title": "They Reach",
-      "year": 2020,
-      "imdbRating": 4.4,
-      "imdbVotes": 1271,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5759590",
-      "title": "Angels Fallen",
-      "year": 2020,
-      "imdbRating": 3,
-      "imdbVotes": 2423,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7086730",
-      "title": "Devil's Night: Dawn of the Nain Rouge",
-      "year": 2020,
-      "imdbRating": 3.3,
-      "imdbVotes": 343,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt9551424",
-      "title": "Await the Dawn",
-      "year": 2020,
-      "imdbRating": 3.7,
-      "imdbVotes": 533,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10546058",
-      "title": "A Dark Path",
-      "year": 2020,
-      "imdbRating": 2.7,
-      "imdbVotes": 898,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13688756",
-      "title": "Built to Kill",
-      "year": 2020,
-      "imdbRating": 3.3,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt8660656",
-      "title": "Amber's Descent",
-      "year": 2020,
-      "imdbRating": 3.5,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10852686",
-      "title": "S.O.S. Survive or Sacrifice",
-      "year": 2020,
-      "imdbRating": 3.1,
-      "imdbVotes": 408,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt10772662",
+    "tt10660954",
+    "tt10873438",
+    "tt2990352",
+    "tt6483422",
+    "tt5759590",
+    "tt7086730",
+    "tt9551424",
+    "tt10546058",
+    "tt13688756",
+    "tt8660656",
+    "tt10852686"
   ],
   "collections": [],
   "is_curated": true,

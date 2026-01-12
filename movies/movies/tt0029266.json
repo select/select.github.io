@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mr_boggs_steps_out",
+      "id": "mr_boggs_steps_out",
       "title": "Mr. Boggs Steps Out",
       "description": "You can find more information regarding this film on its IMDb page",
       "fileSize": 3952816595,
-      "id": "mr_boggs_steps_out"
+      "addedAt": "2026-01-07T00:09:54.331Z",
+      "thumbnail": "https://archive.org/services/img/mr_boggs_steps_out",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 66368
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mr_boggs_steps_out_ipod",
+      "id": "mr_boggs_steps_out_ipod",
       "title": "Mr. Boggs Steps Out",
       "description": "Oliver Boggs is typical office worker with gift for statistics. After winning a contest he take his money and buys a barrel factory, and falls in loves.",
       "fileSize": 1330530710,
-      "id": "mr_boggs_steps_out_ipod"
+      "addedAt": "2026-01-07T00:09:54.332Z",
+      "thumbnail": "https://archive.org/services/img/mr_boggs_steps_out_ipod",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 33822
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=39HyXNzZagg",
+      "id": "39HyXNzZagg",
       "title": "Mr. Boggs Steps Out (1938) STU ERWIN COMEDY",
       "description": "Stars: Stuart Erwin, Helen Chandler, Toby Wing \nDirector: Gordon Wiles\n\nIn this off-beat comedy, when a dull statistician wins a load of cash after successfully determining the number of beans in a barrel, quits his job and buys a barrel factory! Trouble ensues when the nearby pickle factory is threatened by a shyster attempting to close it.",
-      "id": "39HyXNzZagg",
+      "addedAt": "2025-12-26T23:49:47.592Z",
+      "thumbnail": "https://i.ytimg.com/vi/39HyXNzZagg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB-ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDWDSahwp3irE_o3-HjC-CPzl9CCw",
+      "duration": 4034,
+      "language": "en",
+      "year": 1938,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030820",
-      "title": "Swing Your Lady",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030853",
-      "title": "Thanks for the Memory",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031440",
-      "title": "Honeymoon in Bali",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 436,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031611",
-      "title": "Man About Town",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029223",
-      "title": "Meet the Boy Friend",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0070107",
-      "title": "Ginger in the Morning",
-      "year": 1974,
-      "imdbRating": 5.1,
-      "imdbVotes": 391,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0034730",
-      "title": "Fiesta",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 150,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034115",
-      "title": "Road Show",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 540,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033749",
-      "title": "Ice-Capades",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029580",
-      "title": "Small Town Boy",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030820",
+    "tt0030853",
+    "tt0031440",
+    "tt0028999",
+    "tt0031611",
+    "tt0029223",
+    "tt0070107",
+    "tt0034730",
+    "tt0034115",
+    "tt0033749",
+    "tt0029580",
+    "tt0024808"
   ],
   "collections": [],
   "is_curated": true,

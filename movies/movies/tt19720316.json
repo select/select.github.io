@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheTerrorwidescreen",
+      "id": "TheTerrorwidescreen",
       "title": "The Terror (Widescreen)",
       "description": "A widescreen version of the well known Roger Corman classic.",
       "fileSize": 1093679299,
-      "id": "TheTerrorwidescreen"
+      "addedAt": "2026-01-07T00:07:05.037Z",
+      "thumbnail": "https://archive.org/services/img/TheTerrorwidescreen",
+      "collection": "feature_films",
+      "downloads": 27120
     }
   ],
   "metadata": {
@@ -26,101 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt35045506",
-      "title": "616",
-      "year": 2019,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8055402",
-      "title": "415",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11775114",
-      "title": "The Worm People: Facsimile",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15401974",
-      "title": "Night Breakers",
-      "year": 2021,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14373844",
-      "title": "The Darkness Within",
-      "year": 2016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt16492800",
-      "title": "665",
-      "year": 2022,
-      "imdbVotes": 40,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt20216470",
-      "title": "503",
-      "year": 2022,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt20425418",
-      "title": "Bloody Mary: Evil Returns",
-      "year": 2022,
-      "imdbRating": 8.1,
-      "imdbVotes": 9,
-      "language": "Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4675332",
-      "title": "The Borderlands",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt29524718",
-      "title": "509",
-      "year": 2023,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10237576",
-      "title": "Satanic Sounds of The 70's",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0001223",
-      "title": "Frankenstein",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 5022,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt35045506",
+    "tt8055402",
+    "tt11775114",
+    "tt15401974",
+    "tt14373844",
+    "tt16492800",
+    "tt20216470",
+    "tt20425418",
+    "tt4675332",
+    "tt29524718",
+    "tt10237576",
+    "tt0001223"
   ],
   "collections": [],
   "is_curated": true,

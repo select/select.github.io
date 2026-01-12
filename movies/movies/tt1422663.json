@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-his-brave-defender",
+      "id": "silent-his-brave-defender",
       "title": "His Brave Defender",
       "fileSize": 25555477,
-      "id": "silent-his-brave-defender"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-his-brave-defender",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 338
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000430",
-      "title": "A Chess Dispute",
-      "year": 1903,
-      "imdbRating": 5.9,
-      "imdbVotes": 708,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0826831",
-      "title": "Tetherball, or Do-Do",
-      "year": 1898,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328661",
-      "title": "A Wringing Good Joke",
-      "year": 1900,
-      "imdbRating": 6.2,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231757",
-      "title": "How They Rob Men in Chicago",
-      "year": 1900,
-      "imdbRating": 5.8,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982723",
-      "title": "Intérieur d'une vacherie",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 87,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000288",
-      "title": "La concierge",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0287119",
-      "title": "Watermelon Contest",
-      "year": 1900,
-      "imdbRating": 3.8,
-      "imdbVotes": 158,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0288478",
-      "title": "The Chimney Sweep and the Miller",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 124,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230973",
-      "title": "Why Mrs. Jones Got a Divorce",
-      "year": 1900,
-      "imdbRating": 5.1,
-      "imdbVotes": 167,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422654",
-      "title": "Hammerfest",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 89,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000357",
-      "title": "The Haunted Curiosity Shop",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231733",
-      "title": "A Holiday Pageant at Home",
-      "year": 1901,
-      "imdbRating": 4.6,
-      "imdbVotes": 280,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000430",
+    "tt0826831",
+    "tt0328661",
+    "tt0231757",
+    "tt1982723",
+    "tt0000288",
+    "tt0287119",
+    "tt0288478",
+    "tt0230973",
+    "tt1422654",
+    "tt0000357",
+    "tt0231733"
   ],
   "collections": [],
   "is_curated": true,

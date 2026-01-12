@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-derby-day",
+      "id": "silent-derby-day",
       "title": "Derby Day",
       "fileSize": 363850436,
-      "id": "silent-derby-day"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-derby-day",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 269
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014081",
-      "title": "Giants vs. Yanks",
-      "year": 1923,
-      "imdbRating": 6,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016096",
-      "title": "Mary, Queen of Tots",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233497",
-      "title": "Crazy House",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234787",
-      "title": "Spook Spoofing",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234347",
-      "title": "Noisy Noises",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020307",
-      "title": "Railroadin'",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248399",
-      "title": "Saturday's Lesson",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 61,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020419",
-      "title": "Small Talk",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235052",
-      "title": "Wiggle Your Ears",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013472",
-      "title": "Our Gang",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 558,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024361",
-      "title": "Mush and Milk",
-      "year": 1933,
-      "imdbRating": 7.5,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019715",
-      "title": "Bouncing Babies",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0014081",
+    "tt0016096",
+    "tt0233497",
+    "tt0234787",
+    "tt0234347",
+    "tt0020307",
+    "tt0248399",
+    "tt0020419",
+    "tt0235052",
+    "tt0013472",
+    "tt0024361",
+    "tt0019715"
   ],
   "collections": [],
   "is_curated": true,

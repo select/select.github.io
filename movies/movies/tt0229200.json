@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-adventures-of-chico",
+      "id": "the-adventures-of-chico",
       "title": "The Adventures Of Chico (1938)",
       "description": "In the Mexican desert, young Chico lives a solitary life, with only his hunter father and various animals for company. When a mother roadrunner bird is killed by a coyote, Chico spends the next several weeks finding food and caring for her baby chicks. The boy is deeply saddened one day when the gro wn birds fly away, until one bird returns to the hut. Chico bonds with the bird but doesn't realize the depth of their relationship -- until one fateful day when the bird saves his life.",
       "fileSize": 192007698,
-      "id": "the-adventures-of-chico"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-adventures-of-chico",
+      "collection": "feature_films",
+      "downloads": 321
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0121791",
-      "title": "Target for Tonight",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 436,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033623",
-      "title": "The Forgotten Village",
-      "year": 1941,
-      "imdbRating": 6.8,
-      "imdbVotes": 95,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079020",
-      "title": "Que Viva Mexico",
-      "year": 1979,
-      "imdbRating": 7.4,
-      "imdbVotes": 1912,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0388384",
-      "title": "Rätsel der Urwaldhölle",
-      "year": 1938,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017743",
-      "title": "Chang: A Drama of the Wilderness",
-      "year": 1927,
-      "imdbRating": 6.9,
-      "imdbVotes": 1152,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035790",
-      "title": "December 7th",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 1023,
-      "language": "English, Japanese, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1972567",
-      "title": "217",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061913",
-      "title": "Far from Vietnam",
-      "year": 1967,
-      "imdbRating": 7.3,
-      "imdbVotes": 908,
-      "language": "French, English, Vietnamese, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082443",
-      "title": "Genocide",
-      "year": 1982,
-      "imdbRating": 7.3,
-      "imdbVotes": 720,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091134",
-      "title": "Gombrowicz, o la seducción (Representado por sus discípulos)",
-      "year": 1986,
-      "imdbRating": 7.5,
-      "imdbVotes": 11,
-      "language": "Spanish, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073076",
-      "title": "Grey Gardens",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 16059,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139491",
-      "title": "The Negro Soldier",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0121791",
+    "tt0033623",
+    "tt0079020",
+    "tt0388384",
+    "tt0017743",
+    "tt0035790",
+    "tt1972567",
+    "tt0061913",
+    "tt0082443",
+    "tt0091134",
+    "tt0073076",
+    "tt0139491"
   ],
   "collections": [],
   "is_curated": true,

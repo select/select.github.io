@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dr.-renaults-secret-1942",
+      "id": "dr.-renaults-secret-1942",
       "title": "Dr. Renault's Secret (1942)",
       "description": "J. Carroll Naish, Shepperd Strudwick, Lynne Roberts, George Zucco, Mike Mazurki Directed by Harry Lachman Music by David Raksin",
       "fileSize": 1442751914,
-      "id": "dr.-renaults-secret-1942"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dr.-renaults-secret-1942",
+      "collection": "feature_films",
+      "downloads": 773
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034398",
-      "title": "The Wolf Man",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 32995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034586",
-      "title": "Castle in the Desert",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 1479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037722",
-      "title": "The Frozen Ghost",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 1213,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033519",
-      "title": "Dead Men Tell",
-      "year": 1941,
-      "imdbRating": 6.9,
-      "imdbVotes": 1401,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035009",
-      "title": "The Mad Monster",
-      "year": 1942,
-      "imdbRating": 3.5,
-      "imdbVotes": 1975,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0048938",
-      "title": "Alias John Preston",
-      "year": 1955,
-      "imdbRating": 5.6,
-      "imdbVotes": 235,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034902",
-      "title": "Invisible Agent",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 2908,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051962",
-      "title": "My World Dies Screaming",
-      "year": 1958,
-      "imdbRating": 5.2,
-      "imdbVotes": 646,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035318",
-      "title": "Sherlock Holmes and the Voice of Terror",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 5557,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035386",
-      "title": "The Strange Case of Doctor Rx",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 619,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034850",
-      "title": "The Hidden Hand",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 686,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034398",
+    "tt0034586",
+    "tt0037722",
+    "tt0033519",
+    "tt0035009",
+    "tt0048938",
+    "tt0034985",
+    "tt0034902",
+    "tt0051962",
+    "tt0035318",
+    "tt0035386",
+    "tt0034850"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,16 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sex_madness",
+      "id": "sex_madness",
       "title": "Sex Madness",
-      "id": "sex_madness"
+      "addedAt": "2025-12-21T21:06:28.211Z",
+      "thumbnail": "https://archive.org/services/img/sex_madness",
+      "collection": "feature_films",
+      "downloads": 3686698
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sex-madness-1934",
+      "id": "sex-madness-1934",
       "title": "Sex Madness (1934)",
       "description": "A young beauty queen travels to New York to further her modelling career, but contracts syphilis after being tricked into a sexual encounter. She is torn between the prospect of a slow, intensive but proven therapy and a supposed miracle cure. Watch on RetroFlix:  https://retroflix.org/sex-madness-1934/",
       "fileSize": 324397855,
-      "id": "sex-madness-1934"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/sex-madness-1934",
+      "language": "eng",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 472
     }
   ],
   "metadata": {
@@ -33,112 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026683",
-      "title": "Marihuana",
-      "year": 1936,
-      "imdbRating": 4,
-      "imdbVotes": 991,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025465",
-      "title": "Maniac",
-      "year": 1934,
-      "imdbRating": 3.7,
-      "imdbVotes": 2732,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024834",
-      "title": "Are We Civilized?",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024902",
-      "title": "Blue Steel",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1796,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024966",
-      "title": "Chapaev",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 1461,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025373",
-      "title": "The Lawless Frontier",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025011",
-      "title": "Crimson Romance",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 181,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025016",
-      "title": "Cross Streets",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025097",
-      "title": "Der Fall Brenken",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025753",
-      "title": "Der schwarze Walfisch",
-      "year": 1934,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0026683",
+    "tt0025465",
+    "tt0025178",
+    "tt0024834",
+    "tt0024902",
+    "tt0024966",
+    "tt0024985",
+    "tt0025373",
+    "tt0025011",
+    "tt0025016",
+    "tt0025097",
+    "tt0025753"
   ],
   "collections": [],
   "is_curated": true,

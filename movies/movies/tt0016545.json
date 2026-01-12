@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/wolf-blood-4-k",
+      "id": "wolf-blood-4-k",
       "title": "Wolfblood (1925) [Colorized, 4K, 60FPS]",
       "description": "Wolfblood is a 1925 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "fileSize": 5643156196,
-      "id": "wolf-blood-4-k"
+      "addedAt": "2026-01-07T00:13:06.705Z",
+      "thumbnail": "https://archive.org/services/img/wolf-blood-4-k",
+      "collection": "feature_films",
+      "downloads": 408
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WolfBlood1925",
+      "id": "WolfBlood1925",
       "title": "Wolf Blood 1925",
       "description": "The oldest remaining werewolf movie. A silent feature. Dick Bannister is the new field boss of the Ford Logging Company, a Canadian logging-crew during a time when conflicts with the powerful Consolidated Lumber Company, a bitter rival company, have turned bloody, like a private war. His boss, Miss Edith Ford, comes to inspect the lumberjack camp, bringing her doctor fiancÃ© with her. Dick is attacked by his rivals and left for dead. His loss of blood is so great that he needs a transfusion, but no human will volunteer, so the surgeon uses a wolf as a source of the blood. Afterwards, Dick begins having dreams where he runs with a pack of phantom wolves, and the rival loggers get killed by wolves. Soon, these facts have spread through the camp and most of the lumberjacks decide that Dick is a werewolf. (taken from Wikipedia)",
       "fileSize": 1364077481,
-      "id": "WolfBlood1925"
+      "addedAt": "2026-01-07T00:07:18.436Z",
+      "thumbnail": "https://archive.org/services/img/WolfBlood1925",
+      "collection": "feature_films",
+      "downloads": 106553
     }
   ],
   "metadata": {
@@ -35,121 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016039",
-      "title": "The Lost World",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 6175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032412",
-      "title": "Dr. Cyclops",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 3034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050649",
-      "title": "The Living Idol",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 349,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10852686",
-      "title": "S.O.S. Survive or Sacrifice",
-      "year": 2020,
-      "imdbRating": 3.1,
-      "imdbVotes": 408,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13452524",
-      "title": "Monsters of War",
-      "year": 2021,
-      "imdbRating": 2.1,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0816436",
-      "title": "Black Water",
-      "year": 2007,
-      "imdbRating": 5.8,
-      "imdbVotes": 16535,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0339236",
-      "title": "Shark Zone",
-      "year": 2003,
-      "imdbRating": 2.7,
-      "imdbVotes": 848,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1075746",
-      "title": "I Am Omega",
-      "year": 2007,
-      "imdbRating": 3.3,
-      "imdbVotes": 3103,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0047470",
-      "title": "Serpent Island",
-      "year": 1954,
-      "imdbRating": 3.3,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0016039",
+    "tt0016641",
+    "tt0032412",
+    "tt0050649",
+    "tt10852686",
+    "tt13452524",
+    "tt0816436",
+    "tt0339236",
+    "tt1132130",
+    "tt1075746",
+    "tt0047470",
+    "tt0014646"
   ],
   "collections": [],
   "is_curated": true,

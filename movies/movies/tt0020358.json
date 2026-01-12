@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sally-1929",
+      "id": "sally-1929",
       "title": "Sally (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. This romance comedy was one of the earliest color films by Warner Bros. Unfortunately, the color version has been lost except for a small segment. Still, the film was nominated for an Oscar for best art direction, and was a massive box office success, so it had positives beyond just color to sustain it. ",
       "fileSize": 2388146607,
-      "id": "sally-1929"
+      "addedAt": "2026-01-07T00:10:40.951Z",
+      "thumbnail": "https://archive.org/services/img/sally-1929",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 88
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020238",
-      "title": "On with the Show!",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 353,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022149",
-      "title": "Millie",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 878,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022242",
-      "title": "Pagan Lady",
-      "year": 1931,
-      "imdbRating": 5.5,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122388",
-      "title": "Baby Rose Marie the Child Wonder",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019946",
-      "title": "The Great Gabbo",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 1027,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019959",
-      "title": "Hallelujah",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 2083,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020034",
-      "title": "It's a Great Life",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020049",
-      "title": "Jungle Rhythm",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 452,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122580",
-      "title": "Lambchops",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 533,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020112",
-      "title": "The Love Parade",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 2668,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0020238",
+    "tt0022149",
+    "tt0022242",
+    "tt0019644",
+    "tt0019933",
+    "tt0122388",
+    "tt0019946",
+    "tt0019959",
+    "tt0020034",
+    "tt0020049",
+    "tt0122580",
+    "tt0020112"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Levoyagedanslalune",
+      "id": "Levoyagedanslalune",
       "title": "Le voyage dans la lune",
       "description": "By George Melies, an old 1902 film from france about a small group of scientists that travel to space on a rocket to get to the moon.",
       "fileSize": 197594656,
-      "id": "Levoyagedanslalune"
+      "addedAt": "2026-01-07T00:06:38.750Z",
+      "thumbnail": "https://archive.org/services/img/Levoyagedanslalune",
+      "collection": "feature_films",
+      "downloads": 271782
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0151753",
-      "title": "A Night of Magic",
-      "year": 1944,
-      "imdbRating": 3.9,
-      "imdbVotes": 65,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021016",
-      "title": "Just Imagine",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 870,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092850",
-      "title": "Deadtime Stories",
-      "year": 1986,
-      "imdbRating": 4.7,
-      "imdbVotes": 2761,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037514",
-      "title": "Anchors Aweigh",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 9841,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039337",
-      "title": "Down to Earth",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 1767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040869",
-      "title": "That Lady in Ermine",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092239",
-      "title": "The Worst Witch",
-      "year": 1986,
-      "imdbRating": 6.8,
-      "imdbVotes": 3352,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092117",
-      "title": "True Stories",
-      "year": 1986,
-      "imdbRating": 7.2,
-      "imdbVotes": 8098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0090196",
-      "title": "Transylvania 6-5000",
-      "year": 1985,
-      "imdbRating": 5,
-      "imdbVotes": 8783,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0094332",
-      "title": "The Witches of Eastwick",
-      "year": 1987,
-      "imdbRating": 6.6,
-      "imdbVotes": 82012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0085959",
-      "title": "Monty Python's the Meaning of Life",
-      "year": 1983,
-      "imdbRating": 7.5,
-      "imdbVotes": 128690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130103",
-      "title": "The Magic Show",
-      "year": 1983,
-      "imdbRating": 5.8,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0151753",
+    "tt0021016",
+    "tt0092850",
+    "tt0037514",
+    "tt0039337",
+    "tt0040869",
+    "tt0092239",
+    "tt0092117",
+    "tt0090196",
+    "tt0094332",
+    "tt0085959",
+    "tt0130103"
   ],
   "collections": [],
   "is_curated": true,

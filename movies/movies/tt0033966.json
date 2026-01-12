@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nurses-secret-1941-",
+      "id": "nurses-secret-1941-",
       "title": "The Nurse's Secret (1941)",
       "description": "Lee Patrick, Regis Toomey",
       "fileSize": 1326096423,
-      "id": "nurses-secret-1941-"
+      "addedAt": "2026-01-07T00:10:02.900Z",
+      "thumbnail": "https://archive.org/services/img/nurses-secret-1941-",
+      "collection": "feature_films",
+      "downloads": 678
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033595",
-      "title": "Federal Fugitives",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033469",
-      "title": "City of Missing Girls",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033758",
-      "title": "International Lady",
-      "year": 1941,
-      "imdbRating": 6.6,
-      "imdbVotes": 277,
-      "language": "Portuguese, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034251",
-      "title": "Swamp Water",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 2283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030485",
-      "title": "Mystery House",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 576,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035448",
-      "title": "Today I Hang",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032528",
-      "title": "Girl in 313",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031338",
-      "title": "Frau im Strom",
-      "year": 1939,
-      "imdbRating": 8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031497",
-      "title": "Island of Lost Men",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031865",
-      "title": "Risky Business",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033595",
+    "tt0033469",
+    "tt0033758",
+    "tt0034251",
+    "tt0030485",
+    "tt0035694",
+    "tt0032404",
+    "tt0035448",
+    "tt0032528",
+    "tt0031338",
+    "tt0031497",
+    "tt0031865"
   ],
   "collections": [],
   "is_curated": true,

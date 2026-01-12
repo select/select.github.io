@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-broken-hearts-of-broadway",
+      "id": "silent-broken-hearts-of-broadway",
       "title": "Broken Hearts of Broadway",
       "fileSize": 972598410,
-      "id": "silent-broken-hearts-of-broadway"
+      "addedAt": "2026-01-07T00:10:59.114Z",
+      "thumbnail": "https://archive.org/services/img/silent-broken-hearts-of-broadway",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 612
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013134",
-      "title": "Flesh and Blood",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032410",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 1346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025196",
-      "title": "Grand Canary",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032710",
-      "title": "Lillian Russell",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 592,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023267",
-      "title": "The Night Club Lady",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 106,
-      "language": "English, French, Russian, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014322",
-      "title": "The Nth Commandment",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015500",
-      "title": "Wine of Youth",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 411,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013841",
-      "title": "Ashes of Vengeance",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014112",
-      "title": "Haldane of the Secret Service",
-      "year": 1923,
-      "imdbRating": 5.2,
-      "imdbVotes": 160,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014606",
-      "title": "White Tiger",
-      "year": 1923,
-      "imdbRating": 6.1,
-      "imdbVotes": 270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014249",
-      "title": "The Man Without Desire",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0013134",
+    "tt0032410",
+    "tt0025196",
+    "tt0032710",
+    "tt0023267",
+    "tt0014322",
+    "tt0015500",
+    "tt0013841",
+    "tt0014112",
+    "tt0014440",
+    "tt0014606",
+    "tt0014249"
   ],
   "collections": [],
   "is_curated": true,

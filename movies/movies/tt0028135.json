@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/presidents_mystery",
+      "id": "presidents_mystery",
       "title": "President's Mystery, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4420043067,
-      "id": "presidents_mystery"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/presidents_mystery",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 106736
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-presidents-mystery-1936-mystery",
+      "id": "the-presidents-mystery-1936-mystery",
       "title": "The President's Mystery (1936) MYSTERY",
       "description": "A millionaire goes into hiding when his personal life begins to crumble but must rethink his situation when he is accused of murdering his wife.",
       "fileSize": 223411445,
-      "id": "the-presidents-mystery-1936-mystery"
+      "addedAt": "2026-01-07T00:12:22.156Z",
+      "thumbnail": "https://archive.org/services/img/the-presidents-mystery-1936-mystery",
+      "collection": "feature_films",
+      "downloads": 850
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=0S2i-b1Rrjg",
+      "id": "0S2i-b1Rrjg",
       "title": "The President's Mystery (1936) MYSTERY",
       "description": "Stars: Henry Wilcoxon, Betty Furness, Sidney Blackmer\nDirector: Phil Rosen\nWriter: Franklin D. Roosevelt (story)\n\nA millionaire with a crumbling personal life, comes up with a brilliant idea on how he can disappear, start a new life, and take all his money with him!",
-      "id": "0S2i-b1Rrjg",
+      "addedAt": "2025-12-26T23:46:57.658Z",
+      "thumbnail": "https://i.ytimg.com/vi/0S2i-b1Rrjg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDy7HJmFmgaa26asX0T5KtHelptfg",
+      "duration": 3174,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,117 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027974",
-      "title": "Missing Girls",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024870",
-      "title": "Beggars in Ermine",
-      "year": 1934,
-      "imdbRating": 5.9,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027568",
-      "title": "Ellis Island",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 89,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027398",
-      "title": "The Bridge of Sighs",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027564",
-      "title": "Easy Money",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027399",
-      "title": "Brilliant Marriage",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028343",
-      "title": "Tango",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026131",
-      "title": "Born to Gamble",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029812",
-      "title": "Youth on Parole",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026003",
-      "title": "Woman in the Dark",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 688,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023128",
-      "title": "Lena Rivers",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032959",
-      "title": "Queen of the Yukon",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027974",
+    "tt0024870",
+    "tt0027568",
+    "tt0027398",
+    "tt0027564",
+    "tt0027399",
+    "tt0028343",
+    "tt0026131",
+    "tt0029812",
+    "tt0026003",
+    "tt0023128",
+    "tt0032959"
   ],
   "collections": [],
   "is_curated": true,

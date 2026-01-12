@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1153218120343",
+      "id": "1153218120343",
       "title": "A través del espejo",
       "description": "Cine Negro clásico ",
       "fileSize": 747584786,
-      "id": "1153218120343"
+      "addedAt": "2026-01-07T00:06:00.050Z",
+      "thumbnail": "https://archive.org/services/img/1153218120343",
+      "collection": "feature_films",
+      "downloads": 14
     }
   ],
   "metadata": {
@@ -27,123 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt8055402",
-      "title": "415",
-      "year": 2018,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6829180",
-      "title": "Welcome Home",
-      "year": 2018,
-      "imdbRating": 5.2,
-      "imdbVotes": 9119,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4374286",
-      "title": "Monstrum",
-      "year": 2018,
-      "imdbRating": 6.1,
-      "imdbVotes": 2866,
-      "language": "Korean",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5774450",
-      "title": "Summer of 84",
-      "year": 2018,
-      "imdbRating": 6.7,
-      "imdbVotes": 49977,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6772950",
-      "title": "Truth or Dare",
-      "year": 2018,
-      "imdbRating": 5.2,
-      "imdbVotes": 70087,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8991200",
-      "title": "Paranormal Farm 2 Closer to the Truth",
-      "year": 2018,
-      "imdbRating": 3.8,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7721742",
-      "title": "The Lease",
-      "year": 2018,
-      "imdbRating": 4.1,
-      "imdbVotes": 269,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4418152",
-      "title": "The Spiritualist",
-      "year": 2018,
-      "imdbRating": 3.3,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6143782",
-      "title": "Hex",
-      "year": 2018,
-      "imdbRating": 3.8,
-      "imdbVotes": 2126,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6384998",
-      "title": "Edge of Isolation",
-      "year": 2018,
-      "imdbRating": 3.4,
-      "imdbVotes": 320,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7169100",
-      "title": "Night Zero",
-      "year": 2018,
-      "imdbRating": 2.7,
-      "imdbVotes": 418,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6710888",
-      "title": "Terror Talk",
-      "year": 2018,
-      "imdbRating": 3.3,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt8055402",
+    "tt6829180",
+    "tt4374286",
+    "tt5774450",
+    "tt6772950",
+    "tt8991200",
+    "tt7721742",
+    "tt4418152",
+    "tt6143782",
+    "tt6384998",
+    "tt7169100",
+    "tt6710888"
   ],
   "collections": [],
   "is_curated": true,

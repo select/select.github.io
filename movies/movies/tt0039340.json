@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dreams-that-money-can-buy",
+      "id": "dreams-that-money-can-buy",
       "title": "Dreams That Money Can Buy",
       "description": "\"Joe/Narcissus (Jack Bittner) is an ordinary man who has recently signed a complicated lease on a room. As he wonders how to pay the rent, he discovers that he can see the contents of his mind unfolding whilst looking into his eyes in the mirror. He realises that he can apply his gift to others (\"If you can look inside yourself, you can look inside anyone!\"), and sets up a business in his room, selling tailor-made dreams to a variety of frustrated and neurotic clients.\" -wikipedia IMDB page",
       "fileSize": 4678711548,
-      "id": "dreams-that-money-can-buy"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dreams-that-money-can-buy",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 105282
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dreams.-that.-money.-can.-buy.-1947.-ntsc",
+      "id": "dreams.-that.-money.-can.-buy.-1947.-ntsc",
       "title": "Dreams That Money Can Buy 1947 English subtitles",
       "description": "English subtitles for Dream That Money Can Buy.",
       "fileSize": 71035,
-      "id": "dreams.-that.-money.-can.-buy.-1947.-ntsc"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dreams.-that.-money.-can.-buy.-1947.-ntsc",
+      "collection": "feature_films",
+      "downloads": 517
     }
   ],
   "metadata": {
@@ -35,117 +44,18 @@
     "Awards": "1 win & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040643",
-      "title": "Night Has a Thousand Eyes",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 1836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038733",
-      "title": "A Matter of Life and Death",
-      "year": 1946,
-      "imdbRating": 8,
-      "imdbVotes": 26640,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191823",
-      "title": "Un beso en la nuca",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037635",
-      "title": "Dead of Night",
-      "year": 1945,
-      "imdbRating": 7.5,
-      "imdbVotes": 15012,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042898",
-      "title": "The Rocking Horse Winner",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 1426,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201548",
-      "title": "El crimen de Oribe",
-      "year": 1950,
-      "imdbRating": 6.8,
-      "imdbVotes": 67,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042472",
-      "title": "For Heaven's Sake",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042546",
-      "title": "Harvey",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 60260,
-      "language": "English, Spanish, Latin",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0037098",
-      "title": "The Mummy's Curse",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 3745,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035938",
-      "title": "The Ghost and the Guest",
-      "year": 1943,
-      "imdbRating": 4.5,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2784936",
-      "title": "Backtrack",
-      "year": 2015,
-      "imdbRating": 5.9,
-      "imdbVotes": 14476,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14292086",
-      "title": "Nix",
-      "year": 2022,
-      "imdbRating": 3.8,
-      "imdbVotes": 3337,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0040643",
+    "tt0038733",
+    "tt0191823",
+    "tt0037635",
+    "tt0042898",
+    "tt0201548",
+    "tt0042472",
+    "tt0042546",
+    "tt0037098",
+    "tt0035938",
+    "tt2784936",
+    "tt14292086"
   ],
   "collections": [],
   "is_curated": true,

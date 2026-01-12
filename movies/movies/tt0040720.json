@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RachelAndTheStranger",
+      "id": "RachelAndTheStranger",
       "title": "Rachel and the Stranger",
       "description": "tr",
       "fileSize": 11410622,
-      "id": "RachelAndTheStranger"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/RachelAndTheStranger",
+      "collection": "feature_films",
+      "downloads": 5405
     }
   ],
   "metadata": {
@@ -27,119 +31,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040512",
-      "title": "Kiss the Blood Off My Hands",
-      "year": 1948,
-      "imdbRating": 6.8,
-      "imdbVotes": 2308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039370",
-      "title": "The Farmer's Daughter",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 2999,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041257",
-      "title": "Come to the Stable",
-      "year": 1949,
-      "imdbRating": 7.1,
-      "imdbVotes": 1588,
-      "language": "English, French, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041473",
-      "title": "Holiday Affair",
-      "year": 1949,
-      "imdbRating": 7.1,
-      "imdbVotes": 7144,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0043142",
-      "title": "Woman on the Run",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4980,
-      "language": "English, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt4364194",
-      "title": "The Peanut Butter Falcon",
-      "year": 2019,
-      "imdbRating": 7.6,
-      "imdbVotes": 117031,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1582465",
-      "title": "A Birder's Guide to Everything",
-      "year": 2013,
-      "imdbRating": 6.2,
-      "imdbVotes": 2422,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0060584",
-      "title": "Kidnapping, Caucasian Style",
-      "year": 1967,
-      "imdbRating": 8.3,
-      "imdbVotes": 13967,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0040797",
-      "title": "16 Fathoms Deep",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006357",
-      "title": "American Aristocracy",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0311354",
-      "title": "Jalisco nunca pierde",
-      "year": 1974,
-      "imdbRating": 6.1,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0040512",
+    "tt0039370",
+    "tt0041257",
+    "tt0041473",
+    "tt0043142",
+    "tt4364194",
+    "tt1582465",
+    "tt0060584",
+    "tt0040797",
+    "tt0008519",
+    "tt0006357",
+    "tt0311354"
   ],
   "collections": [],
   "is_curated": true,

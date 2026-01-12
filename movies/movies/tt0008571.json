@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-silent-man",
+      "id": "silent-the-silent-man",
       "title": "The Silent Man",
       "fileSize": 776772893,
-      "id": "silent-the-silent-man"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-silent-man",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 532
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008892",
-      "title": "'Blue Blazes' Rawden",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007260",
-      "title": "The Return of Draw Egan",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 194,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010853",
-      "title": "Wagon Tracks",
-      "year": 1919,
-      "imdbRating": 6.7,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005586",
-      "title": "Keno Bates, Liar",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005172",
-      "title": "The Darkening Trail",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006780",
-      "title": "Hell's Hinges",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 1061,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009550",
-      "title": "Riddle Gawne",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 73,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005992",
-      "title": "The Ruse",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 34,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1072650",
-      "title": "The Man from Tia Juana",
-      "year": 1917,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008060",
-      "title": "The Heart of Texas Ryan",
-      "year": 1917,
-      "imdbRating": 5.1,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007610",
-      "title": "'49-'17",
-      "year": 1917,
-      "imdbRating": 5.8,
-      "imdbVotes": 369,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0008892",
+    "tt0007260",
+    "tt0010853",
+    "tt0005586",
+    "tt0005172",
+    "tt0006780",
+    "tt0009550",
+    "tt0005992",
+    "tt1072650",
+    "tt0008060",
+    "tt0007610",
+    "tt0008309"
   ],
   "collections": [
     {

@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-coy-decoy-1941",
+      "id": "a-coy-decoy-1941",
       "title": "A Coy Decoy (1941)",
       "description": "A Coy Decoy is a 1941 Warner Bros. Looney Tunes cartoon, directed by Bob Clampett. The cartoon was released on June 7, 1941, and stars Porky Pig and Daffy Duck. Watch on RetroFlix.org:  https://retroflix.org/a-coy-decoy-1941/",
       "fileSize": 27648160,
-      "id": "a-coy-decoy-1941"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/a-coy-decoy-1941",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 1113
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-coy-decoy-1941_202409",
+      "id": "a-coy-decoy-1941_202409",
       "title": "A Coy Decoy (1941)",
       "description": "Characters on book covers come to life, including Porky and Daffy. The \"Wolf of Wall Street\" chases Daffy through \"The Hurricane,\" \"The Storm\" and across \"The Bridge of San Luis Rey\" before expiring in \"For Whom the Bell Tolls.\"",
       "fileSize": 882949415,
-      "id": "a-coy-decoy-1941_202409"
+      "addedAt": "2026-01-07T00:07:18.437Z",
+      "thumbnail": "https://archive.org/services/img/a-coy-decoy-1941_202409",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 327
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033589",
-      "title": "Farm Frolics",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034049",
-      "title": "Porky's Pooch",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 456,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033707",
-      "title": "The Henpecked Duck",
-      "year": 1941,
-      "imdbRating": 6.9,
-      "imdbVotes": 348,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032190",
-      "title": "Ali-Baba Bound",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032895",
-      "title": "Patient Porky",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 440,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032932",
-      "title": "Porky's Last Stand",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032933",
-      "title": "Porky's Poor Fish",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032941",
-      "title": "Prehistoric Porky",
-      "year": 1940,
-      "imdbRating": 6.8,
-      "imdbVotes": 343,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033061",
-      "title": "Slap Happy Pappy",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032331",
-      "title": "The Chewin' Bruin",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031153",
-      "title": "Chicken Jitters",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031713",
-      "title": "Naughty Neighbors",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033589",
+    "tt0034049",
+    "tt0033707",
+    "tt0032190",
+    "tt0032895",
+    "tt0032932",
+    "tt0032933",
+    "tt0032941",
+    "tt0033061",
+    "tt0032331",
+    "tt0031153",
+    "tt0031713"
   ],
   "collections": [],
   "is_curated": true,

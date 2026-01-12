@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-mummys-curse",
+      "id": "the-mummys-curse",
       "title": "The Mummy's Curse (1944)",
       "description": "An irrigation project in the rural bayous of Louisiana unearths living mummy Kharis, who was buried in quicksand twenty-five years earlier.  ",
       "fileSize": 4941853588,
-      "id": "the-mummys-curse"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-mummys-curse",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 11612
     }
   ],
   "metadata": {
@@ -27,118 +33,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039075",
-      "title": "Vacation in Reno",
-      "year": 1946,
-      "imdbRating": 5.3,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035096",
-      "title": "The Mummy's Tomb",
-      "year": 1942,
-      "imdbRating": 5.5,
-      "imdbVotes": 4249,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055609",
-      "title": "Vulcan, Son of Jupiter",
-      "year": 1962,
-      "imdbRating": 4.2,
-      "imdbVotes": 215,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036845",
-      "title": "Gambler's Choice",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074845",
-      "title": "Mako: The Jaws of Death",
-      "year": 1976,
-      "imdbRating": 4.2,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037115",
-      "title": "Nabonga",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 656,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0113142",
-      "title": "Gamera, the Guardian of the Universe",
-      "year": 1995,
-      "imdbRating": 6.7,
-      "imdbVotes": 4245,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0184503",
-      "title": "Gamera 3: Revenge of Iris",
-      "year": 1999,
-      "imdbRating": 7.1,
-      "imdbVotes": 3402,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0116390",
-      "title": "Gamera 2: Attack of the Legion",
-      "year": 1996,
-      "imdbRating": 7,
-      "imdbVotes": 3445,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0036878",
-      "title": "The Great Alaskan Mystery",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037253",
-      "title": "Secret Command",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 361,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037409",
-      "title": "Two-Man Submarine",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039075",
+    "tt0035096",
+    "tt0055609",
+    "tt0036845",
+    "tt0074845",
+    "tt0037115",
+    "tt0113142",
+    "tt0184503",
+    "tt0116390",
+    "tt0036878",
+    "tt0037253",
+    "tt0037409"
   ],
   "collections": [],
   "is_curated": true,

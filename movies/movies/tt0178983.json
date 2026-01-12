@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-westinghouse-works",
+      "id": "silent-westinghouse-works",
       "title": "Westinghouse Works",
       "fileSize": 143432978,
-      "id": "silent-westinghouse-works"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-westinghouse-works",
+      "language": "English",
+      "year": 1904,
+      "collection": "feature_films",
+      "downloads": 578
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334912",
-      "title": "Automobile Race for the Vanderbilt Cup",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 101,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178309",
-      "title": "Casting a Guide Box",
-      "year": 1904,
-      "imdbRating": 4.7,
-      "imdbVotes": 173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178981",
-      "title": "Westinghouse Air Brake Co. (Casting Scene)",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3112348",
-      "title": "Children in the Surf at Coney Island",
-      "year": 1904,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178341",
-      "title": "Coil Winding Machines",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178492",
-      "title": "Girls Winding Armatures",
-      "year": 1904,
-      "imdbRating": 4.3,
-      "imdbVotes": 170,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178813",
-      "title": "Panorama of Machine Co. Aisle",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178812",
-      "title": "Panorama View, Street Car Motor Room",
-      "year": 1904,
-      "imdbRating": 5.7,
-      "imdbVotes": 310,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178914",
-      "title": "Steam Hammer",
-      "year": 1904,
-      "imdbRating": 4.9,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178933",
-      "title": "Testing a Rotary",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0178247",
+    "tt0334912",
+    "tt3100486",
+    "tt0178309",
+    "tt0178981",
+    "tt3112348",
+    "tt0178341",
+    "tt0178492",
+    "tt0178813",
+    "tt0178812",
+    "tt0178914",
+    "tt0178933"
   ],
   "collections": [],
   "is_curated": true,

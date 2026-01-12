@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/caucasian-love_1928",
+      "id": "caucasian-love_1928",
       "title": "Caucasian Love",
       "fileSize": 7112604903,
-      "id": "caucasian-love_1928"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/caucasian-love_1928",
+      "language": "Georgian",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 337
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019098",
-      "title": "Lilac Time",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019071",
-      "title": "The Last Command",
-      "year": 1928,
-      "imdbRating": 7.9,
-      "imdbVotes": 4676,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018578",
-      "title": "Wings",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 15487,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021542",
-      "title": "Westfront 1918",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 2664,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021800",
-      "title": "Dishonored",
-      "year": 1931,
-      "imdbRating": 7.2,
-      "imdbVotes": 3287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022879",
-      "title": "A Farewell to Arms",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 7225,
-      "language": "English, Italian, Latin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050634",
-      "title": "The Cranes Are Flying",
-      "year": 1957,
-      "imdbRating": 8.3,
-      "imdbVotes": 21499,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0049783",
-      "title": "The Forty-First",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 1690,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0018990",
+    "tt0019098",
+    "tt0019071",
+    "tt0020602",
+    "tt0017662",
+    "tt0018578",
+    "tt0021542",
+    "tt0021800",
+    "tt0015624",
+    "tt0022879",
+    "tt0050634",
+    "tt0049783"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/nero-wolfe-1979",
+      "id": "nero-wolfe-1979",
       "title": "Nero Wolfe (1979)",
       "description": "Thayer David",
       "fileSize": 1888771862,
-      "id": "nero-wolfe-1979"
+      "addedAt": "2026-01-07T00:10:02.897Z",
+      "thumbnail": "https://archive.org/services/img/nero-wolfe-1979",
+      "collection": "feature_films",
+      "downloads": 2502
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0080661",
-      "title": "Dressed to Kill",
-      "year": 1980,
-      "imdbRating": 7,
-      "imdbVotes": 54961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0081975",
-      "title": "Absolution",
-      "year": 1978,
-      "imdbRating": 6.5,
-      "imdbVotes": 1952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0081250",
-      "title": "The Night of the Hunted",
-      "year": 1980,
-      "imdbRating": 5.5,
-      "imdbVotes": 2273,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074342",
-      "title": "Death Rage",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 935,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0084582",
-      "title": "Rehearsal for Murder",
-      "year": 1982,
-      "imdbRating": 6.8,
-      "imdbVotes": 851,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074806",
-      "title": "The Little Girl Who Lives Down the Lane",
-      "year": 1976,
-      "imdbRating": 7,
-      "imdbVotes": 18888,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073418",
-      "title": "Murder on Flight 502",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 932,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038574",
-      "title": "Great Expectations",
-      "year": 1946,
-      "imdbRating": 7.8,
-      "imdbVotes": 26805,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3778010",
-      "title": "Dead Awake",
-      "year": 2016,
-      "imdbRating": 4.6,
-      "imdbVotes": 3652,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0204626",
-      "title": "The Watcher",
-      "year": 2000,
-      "imdbRating": 5.3,
-      "imdbVotes": 29163,
-      "language": "English, Vietnamese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0080661",
+    "tt0081975",
+    "tt0081250",
+    "tt0074342",
+    "tt0084582",
+    "tt0074806",
+    "tt0073418",
+    "tt0038494",
+    "tt0038574",
+    "tt0028231",
+    "tt3778010",
+    "tt0204626"
   ],
   "collections": [],
   "is_curated": true,

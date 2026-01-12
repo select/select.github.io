@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-intervention-malencontreuse",
+      "id": "silent-intervention-malencontreuse",
       "title": "Intervention malencontreuse",
       "fileSize": 16045146,
-      "id": "silent-intervention-malencontreuse"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-intervention-malencontreuse",
+      "year": 1902,
+      "collection": "feature_films",
+      "downloads": 355
     }
   ],
   "metadata": {
@@ -26,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000450",
-      "title": "La main du professeur Hamilton ou le roi des dollars",
-      "year": 1903,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000284",
-      "title": "Chez le photographe",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 250,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1612541",
-      "title": "Au bal de Flore",
-      "year": 1900,
-      "imdbRating": 5.4,
-      "imdbVotes": 201,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223109",
-      "title": "Danse des saisons",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000288",
-      "title": "La concierge",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3189794",
-      "title": "Robert Macaire et Bertrand",
-      "year": 1905,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649298",
-      "title": "Clown, chien et ballon",
-      "year": 1905,
-      "imdbRating": 5.2,
-      "imdbVotes": 159,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649361",
-      "title": "La statue",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6668862",
-      "title": "Le Cake-walk du Nouveau Cirque",
-      "year": 1905,
-      "imdbRating": 4.4,
-      "imdbVotes": 46,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649369",
-      "title": "Le tango",
-      "year": 1905,
-      "imdbRating": 5.1,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649316",
-      "title": "Effets de mer",
-      "year": 1906,
-      "imdbRating": 5.1,
-      "imdbVotes": 139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649365",
-      "title": "Le ballon dirigeable 'Le patrie'",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 138,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000450",
+    "tt0000284",
+    "tt1612541",
+    "tt0223109",
+    "tt0000288",
+    "tt3189794",
+    "tt1649298",
+    "tt1649361",
+    "tt6668862",
+    "tt1649369",
+    "tt1649316",
+    "tt1649365"
   ],
   "collections": [],
   "is_curated": true,

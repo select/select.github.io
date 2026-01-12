@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/20211021_202110",
+      "id": "20211021_202110",
       "title": "Wild Horse Mesa (1925)",
       "description": "Jack Holt, Douglas Fairbanks, Jr., Billie Dove, Noah Beery, Sr., Eugene Pallette",
       "fileSize": 1520441836,
-      "id": "20211021_202110"
+      "addedAt": "2026-01-07T00:06:06.565Z",
+      "thumbnail": "https://archive.org/services/img/20211021_202110",
+      "collection": "feature_films",
+      "downloads": 628
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032670",
-      "title": "Kit Carson",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 694,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015863",
-      "title": "Go West",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 5301,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015627",
-      "title": "Black Cyclone",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016288",
-      "title": "Riders of the Purple Sage",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 227,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016235",
-      "title": "The Pony Express",
-      "year": 1925,
-      "imdbRating": 6,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016461",
-      "title": "Tumbleweeds",
-      "year": 1925,
-      "imdbRating": 6.5,
-      "imdbVotes": 659,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016526",
-      "title": "The White Outlaw",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228960",
-      "title": "Trail of the North Wind",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015881",
-      "title": "Greed",
-      "year": 1924,
-      "imdbRating": 8,
-      "imdbVotes": 11018,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014756",
-      "title": "California in '49",
-      "year": 1924,
-      "imdbRating": 4.2,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0032670",
+    "tt0015863",
+    "tt0015627",
+    "tt0016288",
+    "tt0016235",
+    "tt0016461",
+    "tt0016526",
+    "tt0015477",
+    "tt0017463",
+    "tt0228960",
+    "tt0015881",
+    "tt0014756"
   ],
   "collections": [
     {

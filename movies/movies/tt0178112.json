@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-das-wunder",
+      "id": "silent-das-wunder",
       "title": "Das Wunder",
       "fileSize": 39512564,
-      "id": "silent-das-wunder"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-das-wunder",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 421
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0140434",
-      "title": "Lichtspiel Opus 1.",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 991,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0403386",
-      "title": "Opus II",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 419,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177955",
-      "title": "Opus III",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 426,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0177956",
-      "title": "Opus IV",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 410,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2236486",
-      "title": "Jack the Giant Killer",
-      "year": 1922,
-      "imdbRating": 4.9,
-      "imdbVotes": 129,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013520",
-      "title": "Puss in Boots",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 367,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168762",
-      "title": "Felix Comes Back",
-      "year": 1922,
-      "imdbRating": 6.1,
-      "imdbVotes": 40,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141051",
-      "title": "Felix in the Bone Age",
-      "year": 1922,
-      "imdbRating": 5.2,
-      "imdbVotes": 85,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141052",
-      "title": "Felix in the Swim",
-      "year": 1922,
-      "imdbRating": 5.7,
-      "imdbVotes": 98,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141031",
-      "title": "Felix Lends a Hand",
-      "year": 1922,
-      "imdbRating": 5.9,
-      "imdbVotes": 93,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141034",
-      "title": "Felix Minds the Kid",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0140434",
+    "tt0403386",
+    "tt0177955",
+    "tt0177956",
+    "tt0013014",
+    "tt2236486",
+    "tt0013520",
+    "tt0168762",
+    "tt0141051",
+    "tt0141052",
+    "tt0141031",
+    "tt0141034"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1941-Ernst-Udet",
+      "id": "1941-Ernst-Udet",
       "title": "1941 - Ernst Udet - Ein Fliegerleben - Ein Heldenleben (14m 39s, 512x384)",
       "description": "1941 - Ernst Udet - Ein Fliegerleben - Ein Heldenleben (14m 39s, 512x384)",
       "fileSize": 173592810,
-      "id": "1941-Ernst-Udet"
+      "addedAt": "2026-01-07T00:06:03.994Z",
+      "thumbnail": "https://archive.org/services/img/1941-Ernst-Udet",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 2012
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0419100",
-      "title": "Route 66: Ein amerikanischer Albtraum",
-      "year": 2004,
-      "imdbRating": 6.5,
-      "imdbVotes": 92,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0441146",
-      "title": "Chiapas: La guerra y la paz, 1994-2004",
-      "year": 2004,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt3103732",
-      "title": "Women Without Shadows",
-      "year": 2005,
-      "imdbRating": 5.6,
-      "imdbVotes": 35,
-      "language": "Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0409965",
-      "title": "Five Dedicated to Ozu",
-      "year": 2003,
-      "imdbRating": 6.4,
-      "imdbVotes": 986,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0796992",
-      "title": "El hombre invisible",
-      "year": 2005,
-      "imdbRating": 8.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0399516",
-      "title": "Property of the State: Gay Men in the Apartheid Military",
-      "year": 2003,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0335844",
-      "title": "Algeria",
-      "year": 2002,
-      "imdbRating": 7.3,
-      "imdbVotes": 23,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0436857",
-      "title": "Twist of Faith",
-      "year": 2004,
-      "imdbRating": 7.2,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0402060",
-      "title": "The Bible Code II: Apocalypse and Beyond",
-      "year": 2004,
-      "imdbRating": 5.7,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0443736",
-      "title": "Countdown to Armageddon",
-      "year": 2004,
-      "imdbRating": 6.4,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0454639",
-      "title": "Sweet Misery: A Poisoned World",
-      "year": 2004,
-      "imdbRating": 7.6,
-      "imdbVotes": 225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt27001610",
-      "title": "Darband",
-      "year": 2007,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    }
+    "tt0419100",
+    "tt0441146",
+    "tt3103732",
+    "tt0409965",
+    "tt0796992",
+    "tt0399516",
+    "tt0335844",
+    "tt0436857",
+    "tt0402060",
+    "tt0443736",
+    "tt0454639",
+    "tt27001610"
   ],
   "collections": [],
   "is_curated": true,

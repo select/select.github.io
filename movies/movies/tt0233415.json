@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cat-dog--co_1929",
+      "id": "cat-dog--co_1929",
       "title": "Cat, Dog & Co.",
       "fileSize": 1265328609,
-      "id": "cat-dog--co_1929"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/cat-dog--co_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 155
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0234372",
-      "title": "The Ol' Gray Hoss",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019716",
-      "title": "Boxing Gloves",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234347",
-      "title": "Noisy Noises",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248399",
-      "title": "Saturday's Lesson",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 61,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020419",
-      "title": "Small Talk",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235052",
-      "title": "Wiggle Your Ears",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019715",
-      "title": "Bouncing Babies",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020307",
-      "title": "Railroadin'",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233497",
-      "title": "Crazy House",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234787",
-      "title": "Spook Spoofing",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020179",
-      "title": "Moan & Groan, Inc.",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019688",
-      "title": "Big Business",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 3445,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0234372",
+    "tt0019716",
+    "tt0234347",
+    "tt0248399",
+    "tt0020419",
+    "tt0235052",
+    "tt0019715",
+    "tt0020307",
+    "tt0233497",
+    "tt0234787",
+    "tt0020179",
+    "tt0019688"
   ],
   "collections": [],
   "is_curated": true,

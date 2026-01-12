@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/honeymoon-for-three",
+      "id": "honeymoon-for-three",
       "title": "Honeymoon For Three",
       "description": "Jack Denver, man-about-town, wakes up after a binge to find himself in the flat of Yvonne Daumery, whose father insists he marries her.",
       "fileSize": 6133445808,
-      "id": "honeymoon-for-three"
+      "addedAt": "2026-01-07T00:08:46.613Z",
+      "thumbnail": "https://archive.org/services/img/honeymoon-for-three",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 1156
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026202",
-      "title": "Cheer Up!",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0251192",
-      "title": "Mach' mich glücklich",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026775",
-      "title": "The Night Is Young",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168105",
-      "title": "Oh, Daddy!",
-      "year": 1935,
-      "imdbRating": 5.6,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027037",
-      "title": "Squibs",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027090",
-      "title": "Things Are Looking Up",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3197278",
-      "title": "Asi Cantaba Carlos Gardel",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026113",
-      "title": "The Big Broadcast of 1936",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026301",
-      "title": "El día que me quieras",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 150,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026419",
-      "title": "Goin' to Town",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 719,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026694",
-      "title": "Me and Marlborough",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026749",
-      "title": "Musical Memories",
-      "year": 1935,
-      "imdbRating": 7.2,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026202",
+    "tt0251192",
+    "tt0026775",
+    "tt0168105",
+    "tt0027037",
+    "tt0027090",
+    "tt3197278",
+    "tt0026113",
+    "tt0026301",
+    "tt0026419",
+    "tt0026694",
+    "tt0026749"
   ],
   "collections": [],
   "is_curated": true,

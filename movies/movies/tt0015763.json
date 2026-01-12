@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-dr-pyckle-and-mr-pryde",
+      "id": "silent-dr-pyckle-and-mr-pryde",
       "title": "Dr. Pyckle and Mr. Pryde",
       "fileSize": 5596157919,
-      "id": "silent-dr-pyckle-and-mr-pryde"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-dr-pyckle-and-mr-pryde",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 570
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016373",
-      "title": "Somewhere in Wrong",
-      "year": 1925,
-      "imdbRating": 5.5,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013416",
-      "title": "Mud and Sand",
-      "year": 1922,
-      "imdbRating": 5.7,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017231",
-      "title": "On the Front Page",
-      "year": 1926,
-      "imdbRating": 5.7,
-      "imdbVotes": 181,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015329",
-      "title": "Short Kilts",
-      "year": 1924,
-      "imdbRating": 5.2,
-      "imdbVotes": 211,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012255",
-      "title": "The Haunted House",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 3791,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011722",
-      "title": "The Soilers",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017729",
-      "title": "Call of the Cuckoo",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 674,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017855",
-      "title": "Eve's Love Letters",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 99,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018294",
-      "title": "Putting Pants on Philip",
-      "year": 1927,
-      "imdbRating": 6.5,
-      "imdbVotes": 1155,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011545",
-      "title": "Oranges and Lemons",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 504,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014419",
-      "title": "Roughest Africa",
-      "year": 1923,
-      "imdbRating": 5.6,
-      "imdbVotes": 239,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0016373",
+    "tt0015477",
+    "tt0013416",
+    "tt0017231",
+    "tt0015329",
+    "tt0012255",
+    "tt0011722",
+    "tt0017729",
+    "tt0017855",
+    "tt0018294",
+    "tt0011545",
+    "tt0014419"
   ],
   "collections": [],
   "is_curated": true,

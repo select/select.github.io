@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-wringing-good-joke",
+      "id": "silent-a-wringing-good-joke",
       "title": "A Wringing Good Joke",
       "fileSize": 11300877,
-      "id": "silent-a-wringing-good-joke"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-wringing-good-joke",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 354
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1982723",
-      "title": "Intérieur d'une vacherie",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 87,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0288478",
-      "title": "The Chimney Sweep and the Miller",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 124,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231733",
-      "title": "A Holiday Pageant at Home",
-      "year": 1901,
-      "imdbRating": 4.6,
-      "imdbVotes": 280,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0360883",
-      "title": "Photographing a Country Couple",
-      "year": 1901,
-      "imdbRating": 4.4,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422664",
-      "title": "His Only Pair",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367570",
-      "title": "The Burlesque Suicide",
-      "year": 1902,
-      "imdbRating": 4.8,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472903",
-      "title": "A Scrap in Black and White",
-      "year": 1903,
-      "imdbRating": 5.1,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232190",
-      "title": "A Nigger in the Woodpile",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1056050",
-      "title": "Diving Lucy",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422644",
-      "title": "Drat That Boy",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1982723",
+    "tt0288478",
+    "tt0231733",
+    "tt0360883",
+    "tt1422664",
+    "tt0367570",
+    "tt0308284",
+    "tt2585250",
+    "tt0472903",
+    "tt0232190",
+    "tt1056050",
+    "tt1422644"
   ],
   "collections": [],
   "is_curated": true,

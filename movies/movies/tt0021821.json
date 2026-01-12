@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dude-ranch-1931",
+      "id": "dude-ranch-1931",
       "title": "Dude Ranch (1931)",
       "description": "Jack Oakie, Stuart Erwin, Eugene Pallette",
       "fileSize": 1194231418,
-      "id": "dude-ranch-1931"
+      "addedAt": "2026-01-07T00:08:15.376Z",
+      "thumbnail": "https://archive.org/services/img/dude-ranch-1931",
+      "collection": "feature_films",
+      "downloads": 938
     }
   ],
   "metadata": {
@@ -27,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023584",
-      "title": "This Is the Night",
-      "year": 1932,
-      "imdbRating": 6.6,
-      "imdbVotes": 993,
-      "language": "French, Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020809",
-      "title": "Dangerous Nan McGrew",
-      "year": 1930,
-      "imdbRating": 4.7,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0830690",
-      "title": "Under the Cock-Eyed Moon",
-      "year": 1930,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020679",
-      "title": "The Benson Murder Case",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 587,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022883",
-      "title": "The Fatal Glass of Beer",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 1924,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020332",
-      "title": "Rio Rita",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 770,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016051",
-      "title": "The Lucky Devil",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018396",
-      "title": "Should Tall Men Marry?",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023528",
-      "title": "Strangers of the Evening",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 272,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023225",
-      "title": "Million Dollar Legs",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 1469,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021334",
-      "title": "The Sap from Syracuse",
-      "year": 1930,
-      "imdbRating": 5.9,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026242",
-      "title": "The Cowboy Millionaire",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0023584",
+    "tt0020809",
+    "tt0830690",
+    "tt0020679",
+    "tt0022883",
+    "tt0020332",
+    "tt0016051",
+    "tt0018396",
+    "tt0023528",
+    "tt0023225",
+    "tt0021334",
+    "tt0026242"
   ],
   "collections": [],
   "is_curated": true,

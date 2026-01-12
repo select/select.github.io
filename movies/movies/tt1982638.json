@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-chamonix-le-mauvais-pas",
+      "id": "silent-chamonix-le-mauvais-pas",
       "title": "Chamonix: Le Mauvais Pas",
       "fileSize": 28281908,
-      "id": "silent-chamonix-le-mauvais-pas"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-chamonix-le-mauvais-pas",
+      "language": "French",
+      "year": 1901,
+      "collection": "feature_films",
+      "downloads": 463
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0471071",
-      "title": "Alfred Butterworth and Sons, Glebe Mills, Hollinwood",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0360454",
-      "title": "Captain Nissen Going Through Whirlpool Rapids, Niagara Falls",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 187,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982637",
-      "title": "Chamonix: Arrivée en voitures des breaks d'excursion",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 222,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471134",
-      "title": "Cunard Vessel at Liverpool",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0359274",
-      "title": "Fireman Rescuing Men and Women",
-      "year": 1901,
-      "imdbRating": 5.1,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477309",
-      "title": "High Diving Scene",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 156,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471213",
-      "title": "Jamaica Street, Glasgow",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 107,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982751",
-      "title": "La Plage et l'Etablissement",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 77,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471256",
-      "title": "Manchester Band of Hope Procession",
-      "year": 1901,
-      "imdbRating": 5.2,
-      "imdbVotes": 99,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471257",
-      "title": "Manchester Street Scene",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 130,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471269",
-      "title": "Morecambe Church Lads' Parade at Drill",
-      "year": 1901,
-      "imdbRating": 5.1,
-      "imdbVotes": 82,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471284",
-      "title": "North Sea Fisheries, North Shields",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0471071",
+    "tt0360454",
+    "tt1982637",
+    "tt0471134",
+    "tt0359274",
+    "tt0477309",
+    "tt0471213",
+    "tt1982751",
+    "tt0471256",
+    "tt0471257",
+    "tt0471269",
+    "tt0471284"
   ],
   "collections": [],
   "is_curated": true,

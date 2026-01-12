@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RevengeOfTheZombies",
+      "id": "RevengeOfTheZombies",
       "title": "Revenge of the Zombies",
       "description": "John Carradine is an insane Nazi scientist and Veda Ann Borg is his zombie wife in an old house cluttered with the walking dead. Happily Mantan Moreland is on hand to make nonsense of all this. Actually it's a disguised remake of \"King of the Zombies,\" which also features Mantan, and also is here at IA in the Feature Films Collection. Directed by Steve Sekely. Released in 1943. a.k.a. \"The Corpse Vanished\" (UK). Complete print NOTE: Mantan Moreland films here at IA: https://archive.org/post/1006776/the-mantan-moreland-list-update-2",
       "fileSize": 901447264,
-      "id": "RevengeOfTheZombies"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RevengeOfTheZombies",
+      "collection": "feature_films",
+      "downloads": 12840
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RevengeOfTheZombies_201511",
+      "id": "RevengeOfTheZombies_201511",
       "title": "Revenge Of The Zombies",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 901454524,
-      "id": "RevengeOfTheZombies_201511"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RevengeOfTheZombies_201511",
+      "collection": "feature_films",
+      "downloads": 3449
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/revenge-of-the-zombies-1943-",
+      "id": "revenge-of-the-zombies-1943-",
       "title": "Revenge Of The Zombies (1943)",
       "description": "John Carradine, Gale Storm, Robert Lowery",
       "fileSize": 5174472993,
-      "id": "revenge-of-the-zombies-1943-"
+      "addedAt": "2026-01-07T00:10:30.754Z",
+      "thumbnail": "https://archive.org/services/img/revenge-of-the-zombies-1943-",
+      "collection": "feature_films",
+      "downloads": 870
     }
   ],
   "metadata": {
@@ -43,118 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037446",
-      "title": "Waterfront",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 291,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0038343",
-      "title": "Bedlam",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 4510,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038974",
-      "title": "The Spider Woman Strikes Back",
-      "year": 1946,
-      "imdbRating": 5.7,
-      "imdbVotes": 405,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037441",
-      "title": "Voodoo Man",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 1282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037001",
-      "title": "Lady in the Death House",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037109",
-      "title": "My Buddy",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036653",
-      "title": "Bluebeard",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 2188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1149606",
-      "title": "Nightmare at the End of the Hall",
-      "year": 2008,
-      "imdbRating": 4.6,
-      "imdbVotes": 723,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0034636",
-      "title": "The Dark Tower",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt2741564",
-      "title": "Angelica",
-      "year": 2015,
-      "imdbRating": 4.9,
-      "imdbVotes": 1005,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0035612",
-      "title": "The Adventures of Tartu",
-      "year": 1943,
-      "imdbRating": 6.9,
-      "imdbVotes": 1095,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035784",
-      "title": "Dead Men Walk",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 1713,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037446",
+    "tt0038343",
+    "tt0038974",
+    "tt0037441",
+    "tt0037001",
+    "tt0037109",
+    "tt0036653",
+    "tt1149606",
+    "tt0034636",
+    "tt2741564",
+    "tt0035612",
+    "tt0035784"
   ],
   "collections": [],
   "is_curated": true,

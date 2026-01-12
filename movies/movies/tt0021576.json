@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/A_propos_de_Nice",
+      "id": "A_propos_de_Nice",
       "title": "A propos de Nice",
       "description": "À propos de Nice is a 1930 silent short documentary film directed by Jean Vigo and photographed by Boris Kaufman. The film depicts life in Nice, France by documenting the people in the city, their daily routines, a carnival and social inequalities. Vigo described the film in an address to the Groupement des Spectateurs d'Avant-Garde: \"In this film, by showing certain basic aspects of a city, a way of life is put on trial... the last gasps of a society so lost in its escapism that it sickens you and makes you sympathetic to a revolutionary solution.\"[1] À propos de Nice was Vigo's first film. It was followed by Taris, roi de l'eau (1931), Zéro de conduite (1933) and L'Atalante in 1934, the year Vigo died.",
       "fileSize": 453841845,
-      "id": "A_propos_de_Nice"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/A_propos_de_Nice",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 15358
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020767",
-      "title": "Circus Capers",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020907",
-      "title": "Frozen Frolics",
-      "year": 1930,
-      "imdbRating": 4.3,
-      "imdbVotes": 122,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146845",
-      "title": "Gypped in Egypt",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161805",
-      "title": "Midnight",
-      "year": 1930,
-      "imdbRating": 5.2,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149785",
-      "title": "The Bandmaster",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020952",
-      "title": "The Haunted Ship",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192102",
-      "title": "H2O",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 801,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0206174",
-      "title": "Nogent, Eldorado du dimanche",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0351759",
-      "title": "Skyscraper Symphony",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 354,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0337245",
-      "title": "Stramilano",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146423",
-      "title": "Alpine Antics",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020767",
+    "tt0020907",
+    "tt0146845",
+    "tt0161805",
+    "tt0149785",
+    "tt0020952",
+    "tt0475080",
+    "tt0192102",
+    "tt0206174",
+    "tt0351759",
+    "tt0337245",
+    "tt0146423"
   ],
   "collections": [
     {

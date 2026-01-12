@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/great-gambini-1937",
+      "id": "great-gambini-1937",
       "title": "The Great Gambini (1937)",
       "description": "Akim Tamiroff, Marian Marsh, Reginald Denny, William Demarest, Edward Brophy",
       "fileSize": 1248840723,
-      "id": "great-gambini-1937"
+      "addedAt": "2026-01-07T00:08:39.342Z",
+      "thumbnail": "https://archive.org/services/img/great-gambini-1937",
+      "collection": "feature_films",
+      "downloads": 397
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/great-gambini-1937-akim-tamiroff",
+      "id": "great-gambini-1937-akim-tamiroff",
       "title": "Great Gambini (1937) Akim Tamiroff",
       "description": "Akim Tamiroff",
       "fileSize": 1009343734,
-      "id": "great-gambini-1937-akim-tamiroff"
+      "addedAt": "2026-01-07T00:08:39.342Z",
+      "thumbnail": "https://archive.org/services/img/great-gambini-1937-akim-tamiroff",
+      "collection": "feature_films",
+      "downloads": 318
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025064",
-      "title": "Double Door",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032686",
-      "title": "The Lady in Question",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 912,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028360",
-      "title": "The 13th Man",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028667",
-      "title": "Bulldog Drummond Comes Back",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028668",
-      "title": "Bulldog Drummond Escapes",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 1020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028670",
-      "title": "Bulldog Drummond's Revenge",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 748,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028788",
-      "title": "Dinner at the Ritz",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029565",
-      "title": "Murder at the Baskervilles",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 837,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029542",
-      "title": "The Shadow Strikes",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 555,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029811",
-      "title": "Young and Innocent",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 11597,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028715",
-      "title": "China Passage",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 154,
-      "language": "Chinese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028846",
-      "title": "Fair Warning",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025064",
+    "tt0032686",
+    "tt0028360",
+    "tt0028667",
+    "tt0028668",
+    "tt0028670",
+    "tt0028788",
+    "tt0029565",
+    "tt0029542",
+    "tt0029811",
+    "tt0028715",
+    "tt0028846"
   ],
   "collections": [],
   "is_curated": true,

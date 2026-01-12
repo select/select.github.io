@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/achtung-feind-hort-mit",
+      "id": "achtung-feind-hort-mit",
       "title": "Achtung! Feind Hört Mit!",
       "description": "Film aus dem deutschen dritten Reich von 1940 Achtung Feind hört mit..",
       "fileSize": 240601846,
-      "id": "achtung-feind-hort-mit"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/achtung-feind-hort-mit",
+      "language": "ger",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 282
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135739",
-      "title": "Die drei Codonas",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034272",
-      "title": "That Hamilton Woman",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 5180,
-      "language": "English, French, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035294",
-      "title": "Schicksal",
-      "year": 1942,
-      "imdbRating": 7.5,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032119",
-      "title": "Weißer Flieder",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030675",
-      "title": "The Return of the Scarlet Pimpernel",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 354,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036135",
-      "title": "The Man in Grey",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 1647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033303",
-      "title": "...reitet für Deutschland",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 42,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0135745",
-      "title": "Ab Mitternacht",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    }
+    "tt0135739",
+    "tt0034272",
+    "tt0136209",
+    "tt0035294",
+    "tt0032119",
+    "tt0030675",
+    "tt0036135",
+    "tt0033303",
+    "tt0027727",
+    "tt0135745",
+    "tt0032599",
+    "tt0032179"
   ],
   "collections": [],
   "is_curated": true,

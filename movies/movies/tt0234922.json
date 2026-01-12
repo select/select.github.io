@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TrialMarriages",
+      "id": "TrialMarriages",
       "title": "\"Trial Marriages\" (1907) cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation     \"Trial Marriages\" is a short comedy with unknown cast and director.  The film is included in our program to illustrate the work of Billy Bitzer, a star of Silent Hall of Fame. Directed by                       unknown Cinematography by         Billy Bitzer Starring                             unknown Distributed by                   Biograph Company Release date                      January 17, 1907 Country                             United States Running time                    12 m.   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 9232512,
-      "id": "TrialMarriages"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/TrialMarriages",
+      "year": 1907,
+      "collection": "feature_films",
+      "downloads": 1705
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-trial-marriages",
+      "id": "silent-trial-marriages",
       "title": "Trial Marriages",
       "fileSize": 290253856,
-      "id": "silent-trial-marriages"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-trial-marriages",
+      "language": "English",
+      "year": 1907,
+      "collection": "feature_films",
+      "downloads": 276
     }
   ],
   "metadata": {
@@ -34,112 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249618",
-      "title": "Fetch the Bread!",
-      "year": 1906,
-      "imdbRating": 5.6,
-      "imdbVotes": 51,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257379",
-      "title": "Airy Fairy Lillian Tries on Her New Corsets",
-      "year": 1905,
-      "imdbRating": 4.6,
-      "imdbVotes": 276,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249454",
-      "title": "A Race for a Monkey",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1845834",
-      "title": "Medium Wanted as Son-in-Law",
-      "year": 1909,
-      "imdbRating": 4.7,
-      "imdbVotes": 8,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1168658",
-      "title": "The Unfortunate Policeman",
-      "year": 1905,
-      "imdbRating": 5.8,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200500",
-      "title": "The Boy, the Bust and the Bath",
-      "year": 1907,
-      "imdbRating": 5.3,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232190",
-      "title": "A Nigger in the Woodpile",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1056050",
-      "title": "Diving Lucy",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422644",
-      "title": "Drat That Boy",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422704",
-      "title": "Mr. Pecksniff Fetches the Doctor",
-      "year": 1904,
-      "imdbRating": 4.6,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232725",
-      "title": "The Suburbanite",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 268,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt3110548",
+    "tt0249618",
+    "tt0257379",
+    "tt0249454",
+    "tt1845834",
+    "tt1168658",
+    "tt0200500",
+    "tt0232190",
+    "tt1056050",
+    "tt1422644",
+    "tt1422704",
+    "tt0232725"
   ],
   "collections": [],
   "is_curated": true,

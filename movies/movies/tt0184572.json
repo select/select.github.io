@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-his-birthright",
+      "id": "silent-his-birthright",
       "title": "His Birthright",
       "fileSize": 674211080,
-      "id": "silent-his-birthright"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-his-birthright",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 285
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0191263",
-      "title": "The Man Beneath",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 53,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150388",
-      "title": "The Dragon Painter",
-      "year": 1919,
-      "imdbRating": 6.6,
-      "imdbVotes": 659,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0010791",
-      "title": "The Tong Man",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008550",
-      "title": "The Secret Game",
-      "year": 1917,
-      "imdbRating": 6.1,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008892",
-      "title": "'Blue Blazes' Rawden",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009150",
-      "title": "Hearts of the World",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1094,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008822",
-      "title": "All Night",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 105,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009369",
-      "title": "Mickey",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 1165,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009326",
-      "title": "M'Liss",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009652",
-      "title": "Stella Maris",
-      "year": 1918,
-      "imdbRating": 6.9,
-      "imdbVotes": 1657,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008879",
-      "title": "The Outlaw and His Wife",
-      "year": 1918,
-      "imdbRating": 7.2,
-      "imdbVotes": 2139,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009018",
-      "title": "A Dog's Life",
-      "year": 1918,
-      "imdbRating": 7.6,
-      "imdbVotes": 10161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0191263",
+    "tt0150388",
+    "tt0010791",
+    "tt0008550",
+    "tt0008892",
+    "tt0009150",
+    "tt0008822",
+    "tt0009369",
+    "tt0009326",
+    "tt0009652",
+    "tt0008879",
+    "tt0009018"
   ],
   "collections": [],
   "is_curated": true,

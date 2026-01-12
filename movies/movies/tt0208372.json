@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-la-possession-de-lenfant",
+      "id": "silent-la-possession-de-lenfant",
       "title": "La Possession de l'enfant",
       "fileSize": 165213974,
-      "id": "silent-la-possession-de-lenfant"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-la-possession-de-lenfant",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 325
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0208378",
-      "title": "Le printemps - Épisode 1: L'éveil des sources - L'éveil des nids",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 173,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208496",
-      "title": "La tare",
-      "year": 1911,
-      "imdbRating": 5.8,
-      "imdbVotes": 133,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209437",
-      "title": "Le trust, ou les batailles de l'argent",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208195",
-      "title": "La hantise",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 140,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0764729",
-      "title": "Les chansons ont leur destin",
-      "year": 1908,
-      "imdbRating": 6,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208230",
-      "title": "L'intruse",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759500",
-      "title": "Le bonnet à poil",
-      "year": 1907,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209007",
-      "title": "Gustave est médium",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 12,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209091",
-      "title": "Lagourdette, gentleman cambrioleur",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208539",
-      "title": "Une dame vraiment bien",
-      "year": 1908,
-      "imdbRating": 6,
-      "imdbVotes": 383,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0208378",
+    "tt0208496",
+    "tt0209437",
+    "tt0208195",
+    "tt0764729",
+    "tt0208230",
+    "tt0759500",
+    "tt0207954",
+    "tt0209007",
+    "tt0209091",
+    "tt0208539",
+    "tt0001032"
   ],
   "collections": [],
   "is_curated": true,

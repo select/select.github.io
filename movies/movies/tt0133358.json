@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-alles-fur-die-firma-felix-bressart-friedl-czepa-otto-wallburg",
+      "id": "1935-alles-fur-die-firma-felix-bressart-friedl-czepa-otto-wallburg",
       "title": "1935 Alles Für Die Firma( Felix Bressart, Friedl Czepa, Otto Wallburg)",
       "description": "Film aus dem deutschen dritten Reich von 1935. Alles für die Firma.  U.a mit Felix Bressart und Friedl Czepa ",
       "fileSize": 970080935,
-      "id": "1935-alles-fur-die-firma-felix-bressart-friedl-czepa-otto-wallburg"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1935-alles-fur-die-firma-felix-bressart-friedl-czepa-otto-wallburg",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 93
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0140680",
-      "title": "Viereinhalb Musketiere",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025647",
-      "title": "Peter",
-      "year": 1934,
-      "imdbRating": 7.6,
-      "imdbVotes": 58,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024081",
-      "title": "Gruß und Kuß - Veronika",
-      "year": 1933,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204800",
-      "title": "Alibi Bye Bye",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026132",
-      "title": "Boys Will Be Boys",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026179",
-      "title": "Car of Dreams",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026079",
-      "title": "April, April!",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 74,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194783",
-      "title": "Csardas: Her Wildest Night",
-      "year": 1935,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026309",
-      "title": "Das Einmaleins der Liebe",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026401",
-      "title": "Der Gefangene des Königs",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0140680",
+    "tt0025647",
+    "tt0024081",
+    "tt0204800",
+    "tt0026085",
+    "tt0026132",
+    "tt0026179",
+    "tt0026079",
+    "tt0194783",
+    "tt0026309",
+    "tt0026401",
+    "tt0129972"
   ],
   "collections": [],
   "is_curated": true,

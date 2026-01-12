@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Sky_Bandits_1940",
+      "id": "Sky_Bandits_1940",
       "title": "Sky Bandits",
       "description": "Renfrew, the singing Mountie. Dave O'Brien plays his sidekick.",
       "fileSize": 992746218,
-      "id": "Sky_Bandits_1940"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/Sky_Bandits_1940",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 11095
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=Y8buNDI0l-c",
+      "id": "Y8buNDI0l-c",
       "title": "Sky Bandits (1940) RENFREW OF THE ROYAL MOUNTIES",
       "description": "Stars: James Newill, Louise Stanley, Dewey Robinson \nDirector: Ralph Staub\n\nSgt. Renfrew and Constable Kelly go aloft to search for a plane missing with a shipment of gold from the Yukon Mine Company.",
-      "id": "Y8buNDI0l-c",
+      "addedAt": "2025-12-26T23:45:24.586Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y8buNDI0l-c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAvACigIMCAAQARhlIGUoZTAP&rs=AOn4CLBINxIjG3S8JdXqjCvxT-Dxg5sHog",
+      "duration": 3355,
+      "language": "en",
+      "year": 1940,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029298",
-      "title": "Navy Blues",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028260",
-      "title": "Sitting on the Moon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029939",
-      "title": "Born to Be Wild",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031305",
-      "title": "Fighting Mad",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0347938",
-      "title": "The Santa Trap",
-      "year": 2002,
-      "imdbRating": 4.3,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0026593",
-      "title": "Ladies Crave Excitement",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032246",
-      "title": "Behind the News",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 99,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064137",
-      "title": "Castle Keep",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 3578,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4912452",
-      "title": "Destruction Babies",
-      "year": 2016,
-      "imdbRating": 5.9,
-      "imdbVotes": 1011,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060586",
-      "title": "Fighting Elegy",
-      "year": 1966,
-      "imdbRating": 6.9,
-      "imdbVotes": 1632,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0028557",
+    "tt0029298",
+    "tt0028260",
+    "tt0029939",
+    "tt0031305",
+    "tt0347938",
+    "tt0026593",
+    "tt0019421",
+    "tt0032246",
+    "tt0064137",
+    "tt4912452",
+    "tt0060586"
   ],
   "collections": [],
   "is_curated": true,

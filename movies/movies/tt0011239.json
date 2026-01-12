@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-mat",
+      "id": "silent-mat",
       "title": "Mat",
       "fileSize": 482580620,
-      "id": "silent-mat"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-mat",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 193
     }
   ],
   "metadata": {
@@ -26,107 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011273",
-      "title": "Hegyek alján",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432307",
-      "title": "Johann Baptiste Lingg",
-      "year": 1920,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011024",
-      "title": "The Breaking of the Drought",
-      "year": 1920,
-      "imdbRating": 5,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432875",
-      "title": "Das große Geheimnis",
-      "year": 1920,
-      "language": "None, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0012219",
-      "title": "A Girl of the Bush",
-      "year": 1921,
-      "imdbRating": 5.4,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011503",
-      "title": "Die Nacht ohne Morgen",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194645",
-      "title": "Die Ahnfrau",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 50,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259120",
-      "title": "Âme belge",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 8,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472394",
-      "title": "Das Lied der Colombine",
-      "year": 1918,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0196220",
-      "title": "Das Wunder des Schneeschuhs, 2. Teil - Eine Fuchsjagd auf Skiern durchs Engadin",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132234",
-      "title": "Im Lebenswirbel",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 25,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240523",
-      "title": "A föld rabjai",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0011273",
+    "tt0432307",
+    "tt0011024",
+    "tt0432875",
+    "tt0012219",
+    "tt0011503",
+    "tt0194645",
+    "tt0259120",
+    "tt0472394",
+    "tt0196220",
+    "tt0132234",
+    "tt0240523"
   ],
   "collections": [],
   "is_curated": true,

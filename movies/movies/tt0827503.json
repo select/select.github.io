@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-magician",
+      "id": "the-magician",
       "title": "The Magician",
       "description": "The Magician Rex Ingram",
       "fileSize": 1247130033,
-      "id": "the-magician"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-magician",
+      "collection": "feature_films",
+      "downloads": 1955
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-magician-1932",
+      "id": "the-magician-1932",
       "title": "The Magician",
       "description": "On the island of Lemuria the natives for hunting for Nadji whose body contains the soul of their tribal goddess and which is protected by Frank Chandler otherwise known as Chandu the sorcerer.",
       "fileSize": 795838598,
-      "id": "the-magician-1932"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-magician-1932",
+      "collection": "feature_films",
+      "downloads": 2156
     }
   ],
   "metadata": {
@@ -35,121 +43,18 @@
     "Awards": "3 wins & 4 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0483726",
-      "title": "Man of the Year",
-      "year": 2006,
-      "imdbRating": 6.2,
-      "imdbVotes": 36553,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0841109",
-      "title": "Late Bloomers",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 1135,
-      "language": "Swiss German, German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0425253",
-      "title": "Mini's First Time",
-      "year": 2006,
-      "imdbRating": 5.8,
-      "imdbVotes": 8685,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0425326",
-      "title": "Outsourced",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 12386,
-      "language": "English, Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0460925",
-      "title": "The Sasquatch Gang",
-      "year": 2006,
-      "imdbRating": 6.2,
-      "imdbVotes": 5227,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0452594",
-      "title": "The Break-Up",
-      "year": 2006,
-      "imdbRating": 5.8,
-      "imdbVotes": 144078,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0499603",
-      "title": "10 Items or Less",
-      "year": 2006,
-      "imdbRating": 6.5,
-      "imdbVotes": 16875,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt28082434",
-      "title": "Watermelon of Yalda Night",
-      "year": 2007,
-      "imdbVotes": 14,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0436012",
-      "title": "212",
-      "year": 2005,
-      "imdbRating": 7.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0388182",
-      "title": "King of California",
-      "year": 2007,
-      "imdbRating": 6.6,
-      "imdbVotes": 23980,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0466839",
-      "title": "I Could Never Be Your Woman",
-      "year": 2007,
-      "imdbRating": 5.9,
-      "imdbVotes": 20568,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0340331",
-      "title": "School of Life",
-      "year": 2005,
-      "imdbRating": 6.4,
-      "imdbVotes": 6539,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0483726",
+    "tt0841109",
+    "tt0425253",
+    "tt0425326",
+    "tt0460925",
+    "tt0452594",
+    "tt0499603",
+    "tt28082434",
+    "tt0436012",
+    "tt0388182",
+    "tt0466839",
+    "tt0340331"
   ],
   "collections": [
     {

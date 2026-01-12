@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lucky-devils-1941-arlen-devine",
+      "id": "lucky-devils-1941-arlen-devine",
       "title": "Lucky Devils (1941)",
       "description": "Richard Arlen, Andy Devine",
       "fileSize": 1103115340,
-      "id": "lucky-devils-1941-arlen-devine"
+      "addedAt": "2026-01-07T00:09:46.419Z",
+      "thumbnail": "https://archive.org/services/img/lucky-devils-1941-arlen-devine",
+      "collection": "feature_films",
+      "downloads": 737
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032257",
-      "title": "Black Diamonds",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037622",
-      "title": "Crime, Inc.",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031705",
-      "title": "Mystery of the White Room",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046036",
-      "title": "Man in the Dark",
-      "year": 1953,
-      "imdbRating": 6.2,
-      "imdbVotes": 830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040472",
-      "title": "Inner Sanctum",
-      "year": 1948,
-      "imdbRating": 6,
-      "imdbVotes": 1211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039050",
-      "title": "The Truth About Murder",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036866",
-      "title": "The Girl Who Dared",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037130",
-      "title": "A Night of Adventure",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030873",
-      "title": "Time Out for Murder",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035378",
-      "title": "Stand by All Networks",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037691",
-      "title": "Fallen Angel",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 6860,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0032257",
+    "tt0037622",
+    "tt0031705",
+    "tt0046036",
+    "tt0040472",
+    "tt0039050",
+    "tt0037078",
+    "tt0036866",
+    "tt0037130",
+    "tt0030873",
+    "tt0035378",
+    "tt0037691"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Jacare_ipod",
+      "id": "Jacare_ipod",
       "title": "Jacare",
       "description": "Psudo-Documentary of the Amazon Jungle with many staged action sequences and hepitological herpetological errors.",
       "fileSize": 782350140,
-      "id": "Jacare_ipod"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/Jacare_ipod",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 11714
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jecare",
+      "id": "jecare",
       "title": "Jacare",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 2993011517,
-      "id": "jecare"
+      "addedAt": "2026-01-07T00:08:54.189Z",
+      "thumbnail": "https://archive.org/services/img/jecare",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 6891
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=7S79oSEJ7kY",
+      "id": "7S79oSEJ7kY",
       "title": "Jacaré (1942) JUNGLE ADVENTURE",
       "description": "Stars: Frank Buck, Jim Dannaldson, Miguel Roginsky \n Director: Charles E. Ford\n\n Universal newsreel editor Charles E. Ford was responsible for this filmed record of James Dannaldson's hunting expedition into the jungles of the Amazon River. The film is jam-packed with wild-animal footage, including a pulse-pounding attack by a 28-foot anaconda. The music for Jacare was provided by no less than Miklos Rosza!",
-      "id": "7S79oSEJ7kY",
+      "addedAt": "2025-12-26T23:53:45.323Z",
+      "thumbnail": "https://i.ytimg.com/vi/7S79oSEJ7kY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBMWXDxtW7biTCG1i_p_Hfmq1NxsQ",
+      "duration": 3450,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036439",
-      "title": "Tiger Fangs",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034928",
-      "title": "The Jungle Book",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 4869,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034428",
-      "title": "Across the Pacific",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 5563,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036164",
-      "title": "Miss V from Moscow",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034948",
-      "title": "Klondike Fury",
-      "year": 1942,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035010",
-      "title": "Madame Spy",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034577",
-      "title": "Captain Midnight",
-      "year": 1942,
-      "imdbRating": 6.6,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035372",
-      "title": "Spy Smasher",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035532",
-      "title": "War Dogs",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034930",
-      "title": "Junior G-Men of the Air",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035790",
-      "title": "December 7th",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 1023,
-      "language": "English, Japanese, Hawaiian",
-      "sourceType": "archive.org"
-    }
+    "tt0036439",
+    "tt0034928",
+    "tt0034428",
+    "tt0036164",
+    "tt0034572",
+    "tt0034948",
+    "tt0035010",
+    "tt0034577",
+    "tt0035372",
+    "tt0035532",
+    "tt0034930",
+    "tt0035790"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-napoleon-gaz",
+      "id": "silent-napoleon-gaz",
       "title": "Napoleon-gaz",
       "fileSize": 1142829027,
-      "id": "silent-napoleon-gaz"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-napoleon-gaz",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 440
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015361",
-      "title": "Strike",
-      "year": 1925,
-      "imdbRating": 7.6,
-      "imdbVotes": 8788,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0015648",
-      "title": "Battleship Potemkin",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 63373,
-      "language": "None, Russian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0015693",
-      "title": "Cobra",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 793,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132960",
-      "title": "Flaming Waters",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015900",
-      "title": "Head Winds",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015842",
-      "title": "The Joyless Street",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 1686,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016377",
-      "title": "Soul-Fire",
-      "year": 1925,
-      "imdbRating": 4.3,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016006",
-      "title": "The Lady",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 163,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016107",
-      "title": "The Midnight Girl",
-      "year": 1925,
-      "imdbRating": 5.8,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015634",
-      "title": "Body and Soul",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 1221,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015361",
+    "tt0015648",
+    "tt0015693",
+    "tt0132960",
+    "tt0015900",
+    "tt0015842",
+    "tt0016028",
+    "tt0016377",
+    "tt0016006",
+    "tt0016107",
+    "tt0016641",
+    "tt0015634"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-through-the-back-door",
+      "id": "silent-through-the-back-door",
       "title": "Through the Back Door",
       "fileSize": 1952193565,
-      "id": "silent-through-the-back-door"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-through-the-back-door",
+      "language": "English",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 783
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012397",
-      "title": "Little Lord Fauntleroy",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011588",
-      "title": "Pollyanna",
-      "year": 1920,
-      "imdbRating": 6.4,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010040",
-      "title": "Daddy-Long-Legs",
-      "year": 1919,
-      "imdbRating": 6.6,
-      "imdbVotes": 1489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011960",
-      "title": "The Wildcat",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1336,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012122",
-      "title": "Dream Street",
-      "year": 1921,
-      "imdbRating": 5.5,
-      "imdbVotes": 205,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011909",
-      "title": "The Affairs of Anatol",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 1346,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012349",
-      "title": "The Kid",
-      "year": 1921,
-      "imdbRating": 8.2,
-      "imdbVotes": 142797,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009326",
-      "title": "M'Liss",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011267",
-      "title": "Headin' Home",
-      "year": 1920,
-      "imdbRating": 5.1,
-      "imdbVotes": 318,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0012397",
+    "tt0011588",
+    "tt0011741",
+    "tt0010040",
+    "tt0012465",
+    "tt0011960",
+    "tt0012122",
+    "tt0011909",
+    "tt0012349",
+    "tt0009326",
+    "tt0011267",
+    "tt0012928"
   ],
   "collections": [],
   "is_curated": true,

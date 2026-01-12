@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheLodger-AStoryOfTheLondonFog",
+      "id": "TheLodger-AStoryOfTheLondonFog",
       "title": "The Lodger - A Story Of The London Fog",
       "description": "From IMDb : \"A landlady suspects her new lodger is the madman killing women in London.\" This is a complete version",
       "fileSize": 1328815461,
-      "id": "TheLodger-AStoryOfTheLondonFog"
+      "addedAt": "2026-01-07T00:07:05.033Z",
+      "thumbnail": "https://archive.org/services/img/TheLodger-AStoryOfTheLondonFog",
+      "collection": "feature_films",
+      "downloads": 8191
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheLodgerAStoryOfTheLondonFog_579",
+      "id": "TheLodgerAStoryOfTheLondonFog_579",
       "title": "The Lodger: A Story of the London Fog",
       "description": "A Silent Hitchcock Classic From IMDb : \"A landlady suspects her new lodger is the madman killing women in London\"",
       "fileSize": 1328816140,
-      "id": "TheLodgerAStoryOfTheLondonFog_579"
+      "addedAt": "2026-01-07T00:07:05.033Z",
+      "thumbnail": "https://archive.org/services/img/TheLodgerAStoryOfTheLondonFog_579",
+      "collection": "feature_films",
+      "downloads": 86191
     }
   ],
   "metadata": {
@@ -35,116 +43,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1020055",
-      "title": "Night Train",
-      "year": 2009,
-      "imdbRating": 5.7,
-      "imdbVotes": 10148,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1667416",
-      "title": "Coffin",
-      "year": 2011,
-      "imdbRating": 3.8,
-      "imdbVotes": 1263,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0051744",
-      "title": "House on Haunted Hill",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 32673,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037024",
-      "title": "The Lodger",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 4227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1257579",
-      "title": "El Traspatio",
-      "year": 2009,
-      "imdbRating": 6.9,
-      "imdbVotes": 1610,
-      "language": "Spanish, Tzotzil, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1216496",
-      "title": "Mother",
-      "year": 2009,
-      "imdbRating": 7.7,
-      "imdbVotes": 78287,
-      "language": "Korean",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039800",
-      "title": "Scared to Death",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 1834,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015202",
-      "title": "The Hands of Orlac",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 3484,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057692",
-      "title": "The Strangler of Blackmoor Castle",
-      "year": 1963,
-      "imdbRating": 5.7,
-      "imdbVotes": 578,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022663",
-      "title": "Behind the Mask",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1043844",
-      "title": "Eyeborgs",
-      "year": 2009,
-      "imdbRating": 4.9,
-      "imdbVotes": 2308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056219",
-      "title": "Maniac",
-      "year": 1963,
-      "imdbRating": 5.9,
-      "imdbVotes": 1613,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt1020055",
+    "tt1667416",
+    "tt0051744",
+    "tt0037024",
+    "tt1257579",
+    "tt1216496",
+    "tt0039800",
+    "tt0015202",
+    "tt0057692",
+    "tt0022663",
+    "tt1043844",
+    "tt0056219"
   ],
   "collections": [],
   "is_curated": true,

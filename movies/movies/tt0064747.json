@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-oblong-box-1969",
+      "id": "the-oblong-box-1969",
       "title": "The Oblong Box (1969)",
       "description": "The Oblong Box is a 1969 British gothic horror film directed by Gordon Hessler, starring Vincent Price, Christopher Lee and Alister Williamson. The film is about Sir Edward Markham, who is disfigured in an African voodoo ceremony and kept locked away by his brother, Julian. Tired of his captivity, Edward fakes his death but is instead buried alive; he is later resurrected by graverobbers and embarks on a vengeful killing spree while wearing a crimson hood to conceal his appearance.",
       "fileSize": 2571139616,
-      "id": "the-oblong-box-1969"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-oblong-box-1969",
+      "language": "eng",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 708
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0067713",
-      "title": "Scars of Dracula",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 6934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063285",
-      "title": "Witchfinder General",
-      "year": 1968,
-      "imdbRating": 6.7,
-      "imdbVotes": 13026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066740",
-      "title": "The Abominable Dr. Phibes",
-      "year": 1971,
-      "imdbRating": 7,
-      "imdbVotes": 17232,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060536",
-      "title": "In the Year 2889",
-      "year": 1969,
-      "imdbRating": 2.9,
-      "imdbVotes": 1211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063145",
-      "title": "It's Alive!",
-      "year": 1969,
-      "imdbRating": 2.7,
-      "imdbVotes": 1002,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064240",
-      "title": "Django the Bastard",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 1307,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168503",
-      "title": "La bestia desnuda",
-      "year": 1969,
-      "imdbRating": 4.6,
-      "imdbVotes": 49,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063242",
-      "title": "Love Camp 7",
-      "year": 1969,
-      "imdbRating": 3.9,
-      "imdbVotes": 1243,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065206",
-      "title": "What Ever Happened to Aunt Alice?",
-      "year": 1969,
-      "imdbRating": 6.8,
-      "imdbVotes": 3030,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062957",
-      "title": "Fangs of the Living Dead",
-      "year": 1969,
-      "imdbRating": 4.4,
-      "imdbVotes": 1266,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0064186",
-      "title": "So Sweet... So Perverse",
-      "year": 1969,
-      "imdbRating": 6,
-      "imdbVotes": 1324,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0068713",
-      "title": "Horror Express",
-      "year": 1972,
-      "imdbRating": 6.5,
-      "imdbVotes": 13285,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    }
+    "tt0067713",
+    "tt0063285",
+    "tt0066740",
+    "tt0060536",
+    "tt0063145",
+    "tt0064240",
+    "tt0168503",
+    "tt0063242",
+    "tt0065206",
+    "tt0062957",
+    "tt0064186",
+    "tt0068713"
   ],
   "collections": [],
   "is_curated": true,

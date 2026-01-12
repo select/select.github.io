@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheChineseBungalow",
+      "id": "TheChineseBungalow",
       "title": "The Chinese Bungalow",
       "description": "A dark and suspenseful romantic drama set in '30s British Malaya. Notable for its bizarre miscasting of Hungarian Paul Lukas as a wealthy Chinese rubber planter. Good supporting cast. An adaptation of the play by Matheson Lang. IMDB rating 6.2. Produced and directed by George King. UK release 1940. US release 1941. Complete print a.k.a. \"The Chinese Den\" (US).",
       "fileSize": 1065872887,
-      "id": "TheChineseBungalow"
+      "addedAt": "2026-01-07T00:06:58.273Z",
+      "thumbnail": "https://archive.org/services/img/TheChineseBungalow",
+      "collection": "feature_films",
+      "downloads": 5679
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020620",
-      "title": "Abraham Lincoln",
-      "year": 1930,
-      "imdbRating": 5.6,
-      "imdbVotes": 1747,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020806",
-      "title": "Danger Lights",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020828",
-      "title": "Dixiana",
-      "year": 1930,
-      "imdbRating": 5.2,
-      "imdbVotes": 440,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020866",
-      "title": "Extravagance",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020900",
-      "title": "Framed",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020988",
-      "title": "Hot Curves",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021358",
-      "title": "Shadow Ranch",
-      "year": 1930,
-      "imdbRating": 6.9,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021374",
-      "title": "The Silver Horde",
-      "year": 1930,
-      "imdbRating": 5.8,
-      "imdbVotes": 610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020646",
-      "title": "The Apache Kid's Escape",
-      "year": 1930,
-      "imdbRating": 4.2,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021202",
-      "title": "The Oklahoma Cyclone",
-      "year": 1930,
-      "imdbRating": 3.9,
-      "imdbVotes": 185,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021092",
-      "title": "The Pay-Off",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020620",
+    "tt0020806",
+    "tt0020828",
+    "tt0020866",
+    "tt0020900",
+    "tt0020988",
+    "tt0021239",
+    "tt0021358",
+    "tt0021374",
+    "tt0020646",
+    "tt0021202",
+    "tt0021092"
   ],
   "collections": [],
   "is_curated": true,

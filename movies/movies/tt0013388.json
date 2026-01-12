@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-messalina",
+      "id": "silent-messalina",
       "title": "Messalina",
       "fileSize": 837081343,
-      "id": "silent-messalina"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-messalina",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 6171
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004022",
-      "title": "Julius Caesar",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0171301",
-      "title": "Fabiola",
-      "year": 1918,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002445",
-      "title": "Quo Vadis?",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 408,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014702",
-      "title": "Beau Brummel",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1452522",
-      "title": "Die Hermannschlacht",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133848",
-      "title": "Helen of Troy",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 122,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015289",
-      "title": "Romola",
-      "year": 1924,
-      "imdbRating": 6.1,
-      "imdbVotes": 260,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015016",
-      "title": "The Iron Horse",
-      "year": 1924,
-      "imdbRating": 7.2,
-      "imdbVotes": 2649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015648",
-      "title": "Battleship Potemkin",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 63373,
-      "language": "None, Russian, English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0004022",
+    "tt0171301",
+    "tt0002445",
+    "tt0014672",
+    "tt0014854",
+    "tt0015022",
+    "tt0014702",
+    "tt1452522",
+    "tt0133848",
+    "tt0015289",
+    "tt0015016",
+    "tt0015648"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/old_barn",
+      "id": "old_barn",
       "title": "Old Barn, The",
       "description": "You can find more information regarding this film on its IMDb page",
       "fileSize": 1324948376,
-      "id": "old_barn"
+      "addedAt": "2026-01-07T00:10:02.901Z",
+      "thumbnail": "https://archive.org/services/img/old_barn",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 15510
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019682",
-      "title": "The Bees' Buzz",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019938",
-      "title": "The Golfers",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020094",
-      "title": "Liberty",
-      "year": 1929,
-      "imdbRating": 7.5,
-      "imdbVotes": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020152",
-      "title": "Matchmaking Mamma",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018744",
-      "title": "The Campus Vamp",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 156,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003177",
-      "title": "A Muddy Romance",
-      "year": 1913,
-      "imdbRating": 4.8,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002501",
-      "title": "A Spanish Dilemma",
-      "year": 1912,
-      "imdbRating": 4.2,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003417",
-      "title": "A Strong Revenge",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002280",
-      "title": "An Interrupted Elopement",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0019682",
+    "tt0019938",
+    "tt0228331",
+    "tt0020094",
+    "tt0020152",
+    "tt0018744",
+    "tt0312544",
+    "tt0002133",
+    "tt0003177",
+    "tt0002501",
+    "tt0003417",
+    "tt0002280"
   ],
   "collections": [],
   "is_curated": true,

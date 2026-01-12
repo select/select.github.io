@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-giant-claw-1957-colorized",
+      "id": "the-giant-claw-1957-colorized",
       "title": "The Giant Claw (1957) Colorized",
       "description": "The Giant Claw (1957) Colorized",
       "fileSize": 863262077,
-      "id": "the-giant-claw-1957-colorized"
+      "addedAt": "2026-01-07T00:11:57.688Z",
+      "thumbnail": "https://archive.org/services/img/the-giant-claw-1957-colorized",
+      "collection": "feature_films",
+      "downloads": 399
     }
   ],
   "metadata": {
@@ -27,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050177",
-      "title": "Beginning of the End",
-      "year": 1957,
-      "imdbRating": 4,
-      "imdbVotes": 2831,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049103",
-      "title": "The Creature Walks Among Us",
-      "year": 1956,
-      "imdbRating": 5.6,
-      "imdbVotes": 4346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048696",
-      "title": "Tarantula",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 11470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059920",
-      "title": "The Wizard of Mars",
-      "year": 1965,
-      "imdbRating": 3.4,
-      "imdbVotes": 631,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10554196",
-      "title": "Pungo: A Witch's Tale",
-      "year": 2020,
-      "imdbRating": 4.3,
-      "imdbVotes": 1794,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0340177",
-      "title": "The Island of the Lost",
-      "year": 1921,
-      "imdbRating": 4.9,
-      "imdbVotes": 80,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050622",
-      "title": "The Land Unknown",
-      "year": 1957,
-      "imdbRating": 5.7,
-      "imdbVotes": 2092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228040",
-      "title": "Ice Queen",
-      "year": 2005,
-      "imdbRating": 3,
-      "imdbVotes": 668,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0050723",
-      "title": "Monster from Green Hell",
-      "year": 1957,
-      "imdbRating": 3.7,
-      "imdbVotes": 1413,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050720",
-      "title": "The Monolith Monsters",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 4168,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050177",
+    "tt0049103",
+    "tt0048696",
+    "tt0059920",
+    "tt10554196",
+    "tt0340177",
+    "tt0050622",
+    "tt0228040",
+    "tt0843873",
+    "tt1132130",
+    "tt3233972",
+    "tt0050723"
   ],
   "collections": [],
   "is_curated": true,

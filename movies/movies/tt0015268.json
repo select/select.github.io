@@ -6,16 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-red-lily",
+      "id": "silent-red-lily",
       "title": "Red Lily",
       "fileSize": 2256607927,
-      "id": "silent-red-lily"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-red-lily",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 350
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-red-lily",
+      "id": "silent-the-red-lily",
       "title": "The Red Lily",
       "fileSize": 7449359838,
-      "id": "silent-the-red-lily"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-red-lily",
+      "language": "None",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 612
     }
   ],
   "metadata": {
@@ -33,114 +45,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011679",
-      "title": "Sex",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 353,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019195",
-      "title": "The Mysterious Lady",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1480,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015310",
-      "title": "The Sea Hawk",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014679",
-      "title": "The Arab",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 46,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013841",
-      "title": "Ashes of Vengeance",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016641",
-      "title": "Ben-Hur: A Tale of the Christ",
-      "year": 1925,
-      "imdbRating": 7.8,
-      "imdbVotes": 8047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017226",
-      "title": "Old Ironsides",
-      "year": 1926,
-      "imdbRating": 6.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0011679",
+    "tt0019195",
+    "tt0021659",
+    "tt0015310",
+    "tt0014679",
+    "tt0013841",
+    "tt0014440",
+    "tt0016641",
+    "tt0017226",
+    "tt0014672",
+    "tt0015018",
+    "tt0014854"
   ],
   "collections": [],
   "is_curated": true,

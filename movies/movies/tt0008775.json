@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-wild-and-woolly",
+      "id": "silent-wild-and-woolly",
       "title": "Wild and Woolly",
       "fileSize": 1141453845,
-      "id": "silent-wild-and-woolly"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-wild-and-woolly",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 1125
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0007873",
-      "title": "Down to Earth",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008498",
-      "title": "Reaching for the Moon",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 111,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006809",
-      "title": "His Picture in the Papers",
-      "year": 1916,
-      "imdbRating": 5.9,
-      "imdbVotes": 182,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007108",
-      "title": "The Mystery of the Leaping Fish",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 979,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007031",
-      "title": "Manhattan Madness",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007047",
-      "title": "The Matrimaniac",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 631,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007367",
-      "title": "The Social Secretary",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 557,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006736",
-      "title": "The Good Bad-Man",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 270,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010879",
-      "title": "When the Clouds Roll by",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1005,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037508",
-      "title": "Along Came Jones",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 2468,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0007873",
+    "tt0008498",
+    "tt0006809",
+    "tt0007108",
+    "tt0008309",
+    "tt0007031",
+    "tt0009142",
+    "tt0007047",
+    "tt0007367",
+    "tt0006736",
+    "tt0010879",
+    "tt0037508"
   ],
   "collections": [],
   "is_curated": true,

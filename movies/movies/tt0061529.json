@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CreatureOfDestruction",
+      "id": "CreatureOfDestruction",
       "title": "Creature Of Destruction",
       "description": "A color remake of \"The She Creature\", Les Tremayne is a mad hypnotist who regresses a girl back to a previous life, which, in her case, was a sea monster. The monster from this Larry Buchanan film was reused in his later movie, \"It's Alive\".",
       "fileSize": 2005159829,
-      "id": "CreatureOfDestruction"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/CreatureOfDestruction",
+      "collection": "feature_films",
+      "downloads": 69533
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CreatureOfDestruction1967AudioFixed",
+      "id": "CreatureOfDestruction1967AudioFixed",
       "title": "Creature of Destruction (1967) Audio Fixed",
       "description": "Creature of Destruction (1967) TV Movie - 80 min - Horror | Sci-Fi A hypnotist is able to predict murders by a terrifying sea monster. In reality, he causes the murders through his lovely assistant, who is the reincarnation of the monster. Director: Larry Buchanan Writer: Tony Huston Stars: Les Tremayne, Pat Delaney and Aron Kincaid",
       "fileSize": 2489111089,
-      "id": "CreatureOfDestruction1967AudioFixed"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/CreatureOfDestruction1967AudioFixed",
+      "collection": "feature_films",
+      "downloads": 23240
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0060270",
-      "title": "Curse of the Swamp Creature",
-      "year": 1968,
-      "imdbRating": 2.5,
-      "imdbVotes": 822,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060536",
-      "title": "In the Year 2889",
-      "year": 1969,
-      "imdbRating": 2.9,
-      "imdbVotes": 1211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063145",
-      "title": "It's Alive!",
-      "year": 1969,
-      "imdbRating": 2.7,
-      "imdbVotes": 1002,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059161",
-      "title": "Attack of the Eye Creatures",
-      "year": 1967,
-      "imdbRating": 2.3,
-      "imdbVotes": 1477,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061217",
-      "title": "Zontar: The Thing from Venus",
-      "year": 1967,
-      "imdbRating": 3.2,
-      "imdbVotes": 1147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063195",
-      "title": "Genocide",
-      "year": 1968,
-      "imdbRating": 4.7,
-      "imdbVotes": 802,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063206",
-      "title": "Goke, Body Snatcher from Hell",
-      "year": 1968,
-      "imdbRating": 6.1,
-      "imdbVotes": 2055,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130633",
-      "title": "Body of the Prey",
-      "year": 1967,
-      "imdbRating": 2.7,
-      "imdbVotes": 695,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062036",
-      "title": "Night Fright",
-      "year": 1967,
-      "imdbRating": 2.7,
-      "imdbVotes": 986,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061683",
-      "title": "Frankenstein Created Woman",
-      "year": 1967,
-      "imdbRating": 6.5,
-      "imdbVotes": 5558,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062168",
-      "title": "Quatermass and the Pit",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 11904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062411",
-      "title": "The X from Outer Space",
-      "year": 1967,
-      "imdbRating": 4.8,
-      "imdbVotes": 1568,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0060270",
+    "tt0060536",
+    "tt0063145",
+    "tt0059161",
+    "tt0061217",
+    "tt0063195",
+    "tt0063206",
+    "tt0130633",
+    "tt0062036",
+    "tt0061683",
+    "tt0062168",
+    "tt0062411"
   ],
   "collections": [],
   "is_curated": true,

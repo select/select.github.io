@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-thing-from-another-world",
+      "id": "the-thing-from-another-world",
       "title": "The Thing (from Another World)",
       "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
       "fileSize": 7099052530,
-      "id": "the-thing-from-another-world"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-thing-from-another-world",
+      "language": "eng",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 36646
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0044406",
-      "title": "Bela Lugosi Meets a Brooklyn Gorilla",
-      "year": 1952,
-      "imdbRating": 3.7,
-      "imdbVotes": 2596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048215",
-      "title": "It Came from Beneath the Sea",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 6690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046066",
-      "title": "Mesa of Lost Women",
-      "year": 1953,
-      "imdbRating": 2.7,
-      "imdbVotes": 1936,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046186",
-      "title": "Phantom from Space",
-      "year": 1953,
-      "imdbRating": 4.1,
-      "imdbVotes": 1695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045920",
-      "title": "It Came from Outer Space",
-      "year": 1953,
-      "imdbRating": 6.5,
-      "imdbVotes": 12306,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045546",
-      "title": "The Beast from 20,000 Fathoms",
-      "year": 1953,
-      "imdbRating": 6.6,
-      "imdbVotes": 9100,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047149",
-      "title": "Killers from Space",
-      "year": 1954,
-      "imdbRating": 3.5,
-      "imdbVotes": 2632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046907",
-      "title": "Devil Girl from Mars",
-      "year": 1954,
-      "imdbRating": 4.9,
-      "imdbVotes": 2235,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047507",
-      "title": "The Snow Creature",
-      "year": 1954,
-      "imdbRating": 3.2,
-      "imdbVotes": 1245,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046876",
-      "title": "Creature from the Black Lagoon",
-      "year": 1954,
-      "imdbRating": 6.9,
-      "imdbVotes": 37202,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046802",
-      "title": "The Bowery Boys Meet the Monsters",
-      "year": 1954,
-      "imdbRating": 5.9,
-      "imdbVotes": 777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047573",
-      "title": "Them!",
-      "year": 1954,
-      "imdbRating": 7.2,
-      "imdbVotes": 25788,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0044406",
+    "tt0048215",
+    "tt0046066",
+    "tt0046186",
+    "tt0045920",
+    "tt0045546",
+    "tt0047149",
+    "tt0046907",
+    "tt0047507",
+    "tt0046876",
+    "tt0046802",
+    "tt0047573"
   ],
   "collections": [
     {

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/JegErIngrid2015",
+      "id": "JegErIngrid2015",
       "title": "Stig Bjorkmans Ingrid Bergman In Her Own Words",
       "description": "Stig Bjorkmans Ingrid Bergman In Her Own Words A captivating look behind the scenes of the remarkable life of a young Swedish girl who became one of the most celebrated actresses of American and World cinema. From imdb",
       "fileSize": 30423894,
-      "id": "JegErIngrid2015"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/JegErIngrid2015",
+      "collection": "feature_films",
+      "downloads": 577
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NYFFReviewStigBjorkmansIngridBergmanInHerOwnWords",
+      "id": "NYFFReviewStigBjorkmansIngridBergmanInHerOwnWords",
       "title": "Stig Bjorkmans Ingrid Bergman In Her Own Words",
       "description": "A captivating look behind the scenes of the remarkable life of a young Swedish girl who became one of the most celebrated actresses of American and World cinema.",
       "fileSize": 27378160,
-      "id": "NYFFReviewStigBjorkmansIngridBergmanInHerOwnWords"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/NYFFReviewStigBjorkmansIngridBergmanInHerOwnWords",
+      "collection": "feature_films",
+      "downloads": 258
     }
   ],
   "metadata": {
@@ -35,115 +43,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt5838396",
-      "title": "Kim Jong Un: The Unauthorized Biography",
-      "year": 2017,
-      "imdbRating": 6.7,
-      "imdbVotes": 244,
-      "language": "French, German, Korean, English, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt3123418",
-      "title": "Bizarre: A Circus Story",
-      "year": 2016,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9316022",
-      "title": "Struggle: The Life and Lost Art of Szukalski",
-      "year": 2018,
-      "imdbRating": 7.9,
-      "imdbVotes": 4682,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7295854",
-      "title": "Væbnet med ord & vinger",
-      "year": 2018,
-      "imdbRating": 7.1,
-      "imdbVotes": 53,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8020616",
-      "title": "Buster Keaton, the Genius Destroyed by Hollywood",
-      "year": 2016,
-      "imdbRating": 7.2,
-      "imdbVotes": 228,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8758548",
-      "title": "The Great Buster",
-      "year": 2018,
-      "imdbRating": 7.5,
-      "imdbVotes": 2479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2614776",
-      "title": "City of Gold",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2870648",
-      "title": "Amy",
-      "year": 2015,
-      "imdbRating": 7.8,
-      "imdbVotes": 56532,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3457988",
-      "title": "Ein blinder Held - Die Liebe des Otto Weidt",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 75,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt14551896",
-      "title": "Obama: Building the Dream",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt4327424",
-      "title": "William the Conqueror",
-      "year": 2014,
-      "imdbRating": 6.9,
-      "imdbVotes": 27,
-      "language": "French, Latin, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3457782",
-      "title": "China the Dragon Smith the Second Chance",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt5838396",
+    "tt3123418",
+    "tt9316022",
+    "tt7295854",
+    "tt8020616",
+    "tt8758548",
+    "tt2614776",
+    "tt2870648",
+    "tt3457988",
+    "tt14551896",
+    "tt4327424",
+    "tt3457782"
   ],
   "collections": [
     {

@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/noir-classic-the-girl-in-black-stockings-1957-lex-barker-anne-bancroft-mamie-van",
+      "id": "noir-classic-the-girl-in-black-stockings-1957-lex-barker-anne-bancroft-mamie-van",
       "title": "The Girl In Black Stockings (1957) - Full Movie",
       "description": "The Girl In Black Stockings (1957) - Full Movie This movie is already uploaded on Archive, however, this version is better quality and without foreign subtitles burned in and has no watermark.",
       "fileSize": 636311670,
-      "id": "noir-classic-the-girl-in-black-stockings-1957-lex-barker-anne-bancroft-mamie-van"
+      "addedAt": "2026-01-07T00:10:02.899Z",
+      "thumbnail": "https://archive.org/services/img/noir-classic-the-girl-in-black-stockings-1957-lex-barker-anne-bancroft-mamie-van",
+      "collection": "feature_films",
+      "downloads": 544
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1957-the-girl-in-black-stockings-howard-w.-koch-leg",
+      "id": "1957-the-girl-in-black-stockings-howard-w.-koch-leg",
       "title": "1957 - The Girl in Black Stockings - Howard W. Koch - Leg",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 539524530,
-      "id": "1957-the-girl-in-black-stockings-howard-w.-koch-leg"
+      "addedAt": "2026-01-07T00:06:06.563Z",
+      "thumbnail": "https://archive.org/services/img/1957-the-girl-in-black-stockings-howard-w.-koch-leg",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 1374
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049636",
-      "title": "The Price of Fear",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 726,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049552",
-      "title": "Nightfall",
-      "year": 1956,
-      "imdbRating": 7.1,
-      "imdbVotes": 4833,
-      "language": "English, Spanish, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048412",
-      "title": "The Naked Street",
-      "year": 1955,
-      "imdbRating": 6.5,
-      "imdbVotes": 1399,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048421",
-      "title": "New York Confidential",
-      "year": 1955,
-      "imdbRating": 7.1,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0048571",
-      "title": "Running Wild",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050241",
-      "title": "Chain of Evidence",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051713",
-      "title": "Hell Drivers",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 4255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050526",
-      "title": "House of Numbers",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 612,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050847",
-      "title": "Plunder Road",
-      "year": 1957,
-      "imdbRating": 6.9,
-      "imdbVotes": 1353,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050964",
-      "title": "Short Cut to Hell",
-      "year": 1957,
-      "imdbRating": 6,
-      "imdbVotes": 388,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050213",
-      "title": "The Brothers Rico",
-      "year": 1957,
-      "imdbRating": 6.8,
-      "imdbVotes": 1666,
-      "language": "English, Italian, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050424",
-      "title": "The Garment Jungle",
-      "year": 1957,
-      "imdbRating": 6.6,
-      "imdbVotes": 1338,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049636",
+    "tt0049552",
+    "tt0048412",
+    "tt0048421",
+    "tt0048571",
+    "tt0050241",
+    "tt0051713",
+    "tt0050526",
+    "tt0050847",
+    "tt0050964",
+    "tt0050213",
+    "tt0050424"
   ],
   "collections": [],
   "is_curated": true,

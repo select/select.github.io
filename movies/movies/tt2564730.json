@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_710",
+      "id": "rog561b_netzero_710",
       "title": "710",
       "description": "710",
       "fileSize": 2334343401,
-      "id": "rog561b_netzero_710"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_710",
+      "collection": "feature_films",
+      "downloads": 4510
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_710",
+      "id": "rog56_mail_710",
       "title": "710",
       "description": "710",
       "fileSize": 4676584135,
-      "id": "rog56_mail_710"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_710",
+      "collection": "feature_films",
+      "downloads": 2926
     }
   ],
   "metadata": {
@@ -34,109 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt34936398",
-      "title": "Hommage",
-      "year": 2004,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10359784",
-      "title": "Bobby Bumps in Their Master's Voice",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007151",
-      "title": "Out of the Inkwell",
-      "year": 1918,
-      "imdbRating": 7.8,
-      "imdbVotes": 66,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012620",
-      "title": "Rhythmus 21",
-      "year": 1921,
-      "imdbRating": 5.6,
-      "imdbVotes": 1485,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0363074",
-      "title": "Slick Sleuths",
-      "year": 1926,
-      "imdbRating": 6,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022199",
-      "title": "The New Car",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149808",
-      "title": "A Battle Royal",
-      "year": 1936,
-      "imdbRating": 4.6,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt34936398",
+    "tt10359784",
+    "tt0148531",
+    "tt0141028",
+    "tt0007151",
+    "tt0012620",
+    "tt0363074",
+    "tt14091630",
+    "tt0001527",
+    "tt0131024",
+    "tt0022199",
+    "tt0149808"
   ],
   "collections": [],
   "is_curated": true,

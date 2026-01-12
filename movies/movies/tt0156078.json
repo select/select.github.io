@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheVictoryOfFaithsiegDesGlaubens",
+      "id": "TheVictoryOfFaithsiegDesGlaubens",
       "title": "The Victory of Faith(Sieg Des Glaubens)",
       "description": "The Victory of Faith (1933) is the first documentary film directed by Leni Riefenstahl. It documents the Fifth NSDAP Nuremberg Congress shortly after the party came to power The film includes Ernst RÃ¶hm, head of the SA and, at the time, the second most powerful man within the Nazi Party. Less than a year later, RÃ¶hm attempted, along with other top SA members, a military coup against the elected government of Hitler. The film Triumph des Willens was produced to replace this one and follows a similar script.",
       "fileSize": 1327194126,
-      "id": "TheVictoryOfFaithsiegDesGlaubens"
+      "addedAt": "2026-01-07T00:07:11.884Z",
+      "thumbnail": "https://archive.org/services/img/TheVictoryOfFaithsiegDesGlaubens",
+      "collection": "feature_films",
+      "downloads": 54991
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1933-Der-Sieg-des-Glaubens",
+      "id": "1933-Der-Sieg-des-Glaubens",
       "title": "1933 - Der Sieg des Glaubens - Reichsparteitag 1933 (1h 01m, 720x576, EN Untertitel)",
       "description": "1933 - Der Sieg des Glaubens - Reichsparteitag 1933 (1h 01m, 720x576, EN Untertitel)",
       "fileSize": 1119917679,
-      "id": "1933-Der-Sieg-des-Glaubens"
+      "addedAt": "2026-01-07T00:06:00.052Z",
+      "thumbnail": "https://archive.org/services/img/1933-Der-Sieg-des-Glaubens",
+      "language": "German",
+      "collection": "feature_films",
+      "downloads": 98673
     }
   ],
   "metadata": {
@@ -35,107 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027073",
-      "title": "Tag der Freiheit - Unsere Wehrmacht",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 1870,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025913",
-      "title": "Triumph of the Will",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 18731,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247569",
-      "title": "The Nazi Plan",
-      "year": 1945,
-      "imdbRating": 6.8,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1177174",
-      "title": "Reichsparteitag der Ehre",
-      "year": 1936,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247283",
-      "title": "Deutschland erwacht - Ein Dokument von der Wiedergeburt Deutschlands",
-      "year": 1933,
-      "imdbRating": 7.1,
-      "imdbVotes": 49,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15529086",
-      "title": "The Menace of Guatemala",
-      "year": 1934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0404936",
-      "title": "En el infierno del Chaco",
-      "year": 1932,
-      "imdbRating": 7.3,
-      "imdbVotes": 33,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247794",
-      "title": "Unser Führer - Des Reiches Wiedergeburt",
-      "year": 1934,
-      "imdbRating": 2.7,
-      "imdbVotes": 21,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247304",
-      "title": "Dr. Todt - Berufung und Werk",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445212",
-      "title": "Intimate Interviews: Bela Lugosi",
-      "year": 1931,
-      "imdbRating": 6.8,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1566348",
-      "title": "Adventures in Africa No. 6: The Buffalo Stampede",
-      "year": 1931,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0417963",
-      "title": "Metall des Himmels",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 15,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt0027073",
+    "tt0025913",
+    "tt0247569",
+    "tt1177174",
+    "tt0247283",
+    "tt15529086",
+    "tt0404936",
+    "tt0247794",
+    "tt0247304",
+    "tt0445212",
+    "tt1566348",
+    "tt0417963"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/trouble-1931",
+      "id": "trouble-1931",
       "title": "Trouble (1931)",
       "description": "Trouble is a Tom and Jerry cartoon directed by John Foster, Vernon Stallings. Watch on RetroFlix:  https://retroflix.org/trouble-1931/",
       "fileSize": 27139447,
-      "id": "trouble-1931"
+      "addedAt": "2026-01-07T00:12:55.130Z",
+      "thumbnail": "https://archive.org/services/img/trouble-1931",
+      "language": "eng",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 45
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0152780",
-      "title": "A Swiss Trick",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153942",
-      "title": "Wot a Night",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152550",
-      "title": "A Spanish Twist",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023078",
-      "title": "Jolly Fish",
-      "year": 1932,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152123",
-      "title": "Rabid Hunters",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151146",
-      "title": "Joint Wipers",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151935",
-      "title": "Pencil Mania",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152162",
-      "title": "Redskin Blues",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153325",
-      "title": "The Tuba Tooter",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152016",
-      "title": "Polar Pals",
-      "year": 1931,
-      "imdbRating": 4.5,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022653",
-      "title": "Barnyard Bunk",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161707",
-      "title": "In the Bag",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0152780",
+    "tt0153942",
+    "tt0152550",
+    "tt0023078",
+    "tt0152123",
+    "tt0151146",
+    "tt0151935",
+    "tt0152162",
+    "tt0153325",
+    "tt0152016",
+    "tt0022653",
+    "tt0161707"
   ],
   "collections": [],
   "is_curated": true,

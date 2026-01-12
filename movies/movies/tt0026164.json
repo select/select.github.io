@@ -6,18 +6,28 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=qDd3Wuliw3E",
-      "title": "Call of the Wild",
       "id": "qDd3Wuliw3E",
+      "title": "Call of the Wild",
+      "addedAt": "2025-12-21T22:01:57.159Z",
+      "thumbnail": "https://i.ytimg.com/vi/qDd3Wuliw3E/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhyZKndAHM6Aa-jzirGwgMn7ZJ7w",
+      "duration": 5838,
+      "language": "en",
       "channelName": "Popcornflix",
       "channelId": "UCVFYikepF-avelvuIaQ_lHA"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-call-of-the-wild-1935",
+      "id": "the-call-of-the-wild-1935",
       "title": "The Call of the Wild (1935)",
       "description": "Jack Thornton has trouble winning enough at cards for the stake he needs to get to the Alaska gold fields. His luck changes when he pays $250 for Buck, a sled dog that is part wolf to keep him from being shot by an arrogant Englishman also headed for the Yukon. En route to the Yukon with Shorty Houlihan -- who spent time in jail for opening someone else's letter with a map of where gold is to be found -- Jack rescues a woman whose husband was the addressee of that letter. Buck helps Jack win a $1,000 bet to get the supplies he needs. And when Jack and Claire Blake pet Buck one night, fingers touch. Watch on RetroFlix:  https://retroflix.org/the-call-of-the-wild-1935/",
       "fileSize": 659230938,
-      "id": "the-call-of-the-wild-1935"
+      "addedAt": "2026-01-07T00:11:57.681Z",
+      "thumbnail": "https://archive.org/services/img/the-call-of-the-wild-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 116
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028827",
-      "title": "Elephant Boy",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 856,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0018684",
-      "title": "Beggars of Life",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 1376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026752",
-      "title": "Mutiny on the Bounty",
-      "year": 1935,
-      "imdbRating": 7.6,
-      "imdbVotes": 25741,
-      "language": "English, Polynesian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045919",
-      "title": "Island in the Sky",
-      "year": 1953,
-      "imdbRating": 6.8,
-      "imdbVotes": 3891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026249",
-      "title": "The Crusades",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 1332,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029844",
-      "title": "The Adventures of Tom Sawyer",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 2371,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022979",
-      "title": "The Hatchet Man",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 914,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029322",
-      "title": "Nothing Sacred",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 7569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046672",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1954,
-      "imdbRating": 7.2,
-      "imdbVotes": 39080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072615",
-      "title": "Against a Crooked Sky",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 773,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026083",
-      "title": "Artisten",
-      "year": 1935,
-      "imdbRating": 2.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0028827",
+    "tt0018684",
+    "tt0026752",
+    "tt0045919",
+    "tt0026249",
+    "tt0029844",
+    "tt0022979",
+    "tt0029322",
+    "tt0046672",
+    "tt0072615",
+    "tt0026223",
+    "tt0026083"
   ],
   "collections": [
     {

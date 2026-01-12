@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fireside-reminiscences",
+      "id": "silent-fireside-reminiscences",
       "title": "Fireside Reminiscences",
       "fileSize": 165139338,
-      "id": "silent-fireside-reminiscences"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fireside-reminiscences",
+      "year": 1908,
+      "collection": "feature_films",
+      "downloads": 191
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0234914",
-      "title": "The Trainer's Daughter; or, A Race for Love",
-      "year": 1907,
-      "imdbRating": 4.5,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477330",
-      "title": "A Little Girl Who Did Not Believe in Santa Claus",
-      "year": 1907,
-      "imdbRating": 6,
-      "imdbVotes": 211,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298570",
-      "title": "The Tempest",
-      "year": 1908,
-      "imdbRating": 5.8,
-      "imdbVotes": 279,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164493",
-      "title": "Cinderella",
-      "year": 1907,
-      "imdbRating": 5.9,
-      "imdbVotes": 100,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001544",
-      "title": "A Christmas Carol",
-      "year": 1910,
-      "imdbRating": 6,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191358",
-      "title": "Pikovaya dama",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 202,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223340",
-      "title": "The Spring Fairy",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 53,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477378",
-      "title": "A Suburbanite's Ingenious Alarm",
-      "year": 1908,
-      "imdbRating": 5.2,
-      "imdbVotes": 120,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000488",
-      "title": "The Land Beyond the Sunset",
-      "year": 1912,
-      "imdbRating": 6.9,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000640",
-      "title": "An Awful Moment",
-      "year": 1908,
-      "imdbRating": 4.4,
-      "imdbVotes": 146,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000700",
-      "title": "Her First Adventure",
-      "year": 1908,
-      "imdbRating": 5.1,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0234914",
+    "tt0477330",
+    "tt0298570",
+    "tt0164493",
+    "tt0001544",
+    "tt0191358",
+    "tt0223340",
+    "tt0477378",
+    "tt0417062",
+    "tt0000488",
+    "tt0000640",
+    "tt0000700"
   ],
   "collections": [],
   "is_curated": true,

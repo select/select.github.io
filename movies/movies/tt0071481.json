@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/F.ScottFitzgeraldAndtheLastOfTheBelles",
+      "id": "F.ScottFitzgeraldAndtheLastOfTheBelles",
       "title": "F. Scott Fitzgerald and 'The Last of the Belles'",
       "description": "A semi-fictional account of how writer F. Scott Fitzgerald met his wife while he was in the army and stationed in Alabama in 1919. - IMDB Description",
       "fileSize": 2743073198,
-      "id": "F.ScottFitzgeraldAndtheLastOfTheBelles"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/F.ScottFitzgeraldAndtheLastOfTheBelles",
+      "year": 1974,
+      "collection": "feature_films",
+      "downloads": 67453
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/f.-scott-fitzgerald-and-the-last-of-the-belles-1974",
+      "id": "f.-scott-fitzgerald-and-the-last-of-the-belles-1974",
       "title": "F. Scott Fitzgerald and 'The Last of the Belles' (1974)",
       "description": "A semi-fictional account of how writer F. Scott Fitzgerald met his wife while he was in the army and stationed in Alabama in 1919. Watch on RetroFlix:  https://retroflix.org/f-scott-fitzgerald-and-the-last-of-the-belles-1974/",
       "fileSize": 613445585,
-      "id": "f.-scott-fitzgerald-and-the-last-of-the-belles-1974"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/f.-scott-fitzgerald-and-the-last-of-the-belles-1974",
+      "language": "eng",
+      "year": 1974,
+      "collection": "feature_films",
+      "downloads": 86
     }
   ],
   "metadata": {
@@ -35,119 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059252",
-      "title": "Harlow",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 1121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0116621",
-      "title": "In Love and War",
-      "year": 1996,
-      "imdbRating": 5.9,
-      "imdbVotes": 9238,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0118892",
-      "title": "Dangerous Beauty",
-      "year": 1998,
-      "imdbRating": 7.1,
-      "imdbVotes": 20215,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0108101",
-      "title": "Shadowlands",
-      "year": 1993,
-      "imdbRating": 7.3,
-      "imdbVotes": 20775,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0007698",
-      "title": "Betsy Ross",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 81,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4642192",
-      "title": "The Keeper",
-      "year": 2018,
-      "imdbRating": 7.3,
-      "imdbVotes": 7239,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5716464",
-      "title": "Breathe",
-      "year": 2017,
-      "imdbRating": 7.2,
-      "imdbVotes": 26084,
-      "language": "English, German, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0072417",
-      "title": "A Woman Under the Influence",
-      "year": 1974,
-      "imdbRating": 8,
-      "imdbVotes": 31141,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071566",
-      "title": "Gold",
-      "year": 1974,
-      "imdbRating": 5.7,
-      "imdbVotes": 2722,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329368",
-      "title": "Me caí de la nube",
-      "year": 1974,
-      "imdbRating": 7.4,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071842",
-      "title": "The Middle of the World",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 376,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071141",
-      "title": "Ali: Fear Eats the Soul",
-      "year": 1974,
-      "imdbRating": 8,
-      "imdbVotes": 24535,
-      "language": "German, Arabic",
-      "sourceType": "archive.org"
-    }
+    "tt0059252",
+    "tt0116621",
+    "tt0118892",
+    "tt0108101",
+    "tt0007698",
+    "tt4642192",
+    "tt5716464",
+    "tt0072417",
+    "tt0071566",
+    "tt0329368",
+    "tt0071842",
+    "tt0071141"
   ],
   "collections": [],
   "is_curated": true,

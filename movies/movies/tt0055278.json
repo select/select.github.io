@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ParisBlues",
+      "id": "ParisBlues",
       "title": "paris blues",
       "description": "trailer",
       "fileSize": 46792685,
-      "id": "ParisBlues"
+      "addedAt": "2026-01-07T00:06:45.466Z",
+      "thumbnail": "https://archive.org/services/img/ParisBlues",
+      "collection": "feature_films",
+      "downloads": 1515
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "Nominated for 1 Oscar. 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0053270",
-      "title": "Shadows",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 12859,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0056063",
-      "title": "Hemingway's Adventures of a Young Man",
-      "year": 1962,
-      "imdbRating": 6.3,
-      "imdbVotes": 717,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054817",
-      "title": "Five Minutes to Live",
-      "year": 1961,
-      "imdbRating": 5.5,
-      "imdbVotes": 1009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053712",
-      "title": "Clear Skies",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 492,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0055230",
-      "title": "Night Tide",
-      "year": 1961,
-      "imdbRating": 6.4,
-      "imdbVotes": 4260,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020866",
-      "title": "Extravagance",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026367",
-      "title": "Flirtation",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028216",
-      "title": "San Francisco",
-      "year": 1936,
-      "imdbRating": 7.1,
-      "imdbVotes": 6250,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023128",
-      "title": "Lena Rivers",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 91,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054790",
-      "title": "The Day the Earth Caught Fire",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 6463,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185878",
-      "title": "Amorina",
-      "year": 1961,
-      "imdbRating": 7.7,
-      "imdbVotes": 59,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054698",
-      "title": "Breakfast at Tiffany's",
-      "year": 1961,
-      "imdbRating": 7.5,
-      "imdbVotes": 201775,
-      "language": "English, Portuguese, French, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0053270",
+    "tt0056063",
+    "tt0054817",
+    "tt0053712",
+    "tt0055230",
+    "tt0020866",
+    "tt0026367",
+    "tt0028216",
+    "tt0023128",
+    "tt0054790",
+    "tt0185878",
+    "tt0054698"
   ],
   "collections": [],
   "is_curated": true,

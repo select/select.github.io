@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-finances-of-the-grand-duke",
+      "id": "silent-finances-of-the-grand-duke",
       "title": "Finances of the Grand Duke",
       "fileSize": 6245889276,
-      "id": "silent-finances-of-the-grand-duke"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-finances-of-the-grand-duke",
+      "language": "German",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 679
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015064",
-      "title": "The Last Laugh",
-      "year": 1924,
-      "imdbRating": 8,
-      "imdbVotes": 15995,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016847",
-      "title": "Faust",
-      "year": 1926,
-      "imdbRating": 8.1,
-      "imdbVotes": 17097,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013442",
-      "title": "Nosferatu: A Symphony of Horror",
-      "year": 1922,
-      "imdbRating": 7.8,
-      "imdbVotes": 120332,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013373",
-      "title": "Marizza",
-      "year": 1922,
-      "imdbRating": 6.3,
-      "imdbVotes": 115,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013496",
-      "title": "Phantom",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 1978,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012973",
-      "title": "The Burning Soil",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 790,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141028",
-      "title": "Felix Goes West",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 109,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014992",
-      "title": "His New Mamma",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015324",
-      "title": "Sherlock Jr.",
-      "year": 1924,
-      "imdbRating": 8.2,
-      "imdbVotes": 64220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015390",
-      "title": "Ten Dollars or Ten Days",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 113,
-      "language": "None, English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0015064",
+    "tt0016847",
+    "tt0013442",
+    "tt0013373",
+    "tt0013496",
+    "tt0012973",
+    "tt0015477",
+    "tt0014664",
+    "tt0141028",
+    "tt0014992",
+    "tt0015324",
+    "tt0015390"
   ],
   "collections": [],
   "is_curated": true,

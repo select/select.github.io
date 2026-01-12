@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tokyo-koshinkyoku_1929",
+      "id": "tokyo-koshinkyoku_1929",
       "title": "Tôkyô kôshinkyoku",
       "fileSize": 1239850891,
-      "id": "tokyo-koshinkyoku_1929"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tokyo-koshinkyoku_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 660
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015847",
-      "title": "Furusato no uta",
-      "year": 1926,
-      "imdbRating": 5.9,
-      "imdbVotes": 158,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033654",
-      "title": "The 47 Ronin",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 2739,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046478",
-      "title": "Ugetsu",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 27766,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046851",
-      "title": "A Story from Chikamatsu",
-      "year": 1954,
-      "imdbRating": 8,
-      "imdbVotes": 5044,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040980",
-      "title": "Women of the Night",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 1542,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0028021",
-      "title": "Osaka Elegy",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 2641,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047445",
-      "title": "Sansho the Bailiff",
-      "year": 1954,
-      "imdbRating": 8.4,
-      "imdbVotes": 18809,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027672",
-      "title": "Sisters of the Gion",
-      "year": 1936,
-      "imdbRating": 7.4,
-      "imdbVotes": 3103,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048933",
-      "title": "Street of Shame",
-      "year": 1956,
-      "imdbRating": 7.8,
-      "imdbVotes": 5150,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045112",
-      "title": "The Life of Oharu",
-      "year": 1952,
-      "imdbRating": 8.1,
-      "imdbVotes": 7787,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032156",
-      "title": "The Story of the Last Chrysanthemum",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 4538,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015847",
+    "tt0033654",
+    "tt0046478",
+    "tt0046851",
+    "tt0040980",
+    "tt0028021",
+    "tt0047445",
+    "tt0027672",
+    "tt0048933",
+    "tt0045112",
+    "tt0032156",
+    "tt0020030"
   ],
   "collections": [],
   "is_curated": true,

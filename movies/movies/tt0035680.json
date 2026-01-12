@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BlazingFrontier",
+      "id": "BlazingFrontier",
       "title": "Blazing Frontier",
       "description": "Billy the Kid (Buster Crabbe) and his sidekick Fuzzy (Al St. John) get involved in a land dispute between a crooked railroad and the angry settlers that were the victims of the railroad's swindle.",
       "fileSize": 1607044861,
-      "id": "BlazingFrontier"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BlazingFrontier",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 14280
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036523",
-      "title": "Western Cyclone",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036844",
-      "title": "Fuzzy Settles Down",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037142",
-      "title": "Oath of Vengeance",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037237",
-      "title": "Rustlers' Hideout",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035316",
-      "title": "Sheriff of Sage Valley",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037464",
-      "title": "Wild Horse Phantom",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033390",
-      "title": "Billy the Kid Trapped",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 222,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036523",
+    "tt0035723",
+    "tt0035804",
+    "tt0035908",
+    "tt0036074",
+    "tt0036844",
+    "tt0037142",
+    "tt0037237",
+    "tt0035316",
+    "tt0035106",
+    "tt0037464",
+    "tt0033390"
   ],
   "collections": [],
   "is_curated": true,

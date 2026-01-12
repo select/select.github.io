@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1137_20200704",
+      "id": "1137_20200704",
       "title": "fesnsshs h modv",
       "description": "freg",
       "fileSize": 704886296065,
-      "id": "1137_20200704"
+      "addedAt": "2026-01-07T00:06:00.050Z",
+      "thumbnail": "https://archive.org/services/img/1137_20200704",
+      "collection": "feature_films",
+      "downloads": 850
     }
   ],
   "metadata": {
@@ -26,109 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1289582",
-      "title": "Im Namen Gottes",
-      "year": 1997,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0460978",
-      "title": "Velkommen hjem - Leila",
-      "year": 1996,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322208",
-      "title": "Painting",
-      "year": 1996,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225448",
-      "title": "A Cry from the Grave",
-      "year": 1999,
-      "imdbRating": 7.8,
-      "imdbVotes": 352,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130445",
-      "title": "Alaska: Spirit of the Wild",
-      "year": 1997,
-      "imdbRating": 7.1,
-      "imdbVotes": 592,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0415276",
-      "title": "Skrydis per Lietuva arba 510 sekundziu tylos",
-      "year": 2000,
-      "imdbRating": 8.2,
-      "imdbVotes": 394,
-      "language": "Lithuanian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1954955",
-      "title": "The Money Masters",
-      "year": 1996,
-      "imdbRating": 8.6,
-      "imdbVotes": 782,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0398785",
-      "title": "The Blood Tide",
-      "year": 1998,
-      "imdbRating": 5.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0848227",
-      "title": "Attenborough in Paradise",
-      "year": 1996,
-      "imdbRating": 8.5,
-      "imdbVotes": 953,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310597",
-      "title": "Ahmad Shamlou: Master Poet of Liberty",
-      "year": 1999,
-      "imdbRating": 7.7,
-      "imdbVotes": 82,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0266242",
-      "title": "An All-Star Tribute to Johnny Cash",
-      "year": 1999,
-      "imdbRating": 7.2,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0112631",
-      "title": "Carl Th. Dreyer: My Métier",
-      "year": 1995,
-      "imdbRating": 6.7,
-      "imdbVotes": 523,
-      "language": "Danish, French",
-      "sourceType": "archive.org"
-    }
+    "tt1289582",
+    "tt0460978",
+    "tt7322208",
+    "tt0225448",
+    "tt0130445",
+    "tt0415276",
+    "tt1954955",
+    "tt0398785",
+    "tt0848227",
+    "tt0310597",
+    "tt0266242",
+    "tt0112631"
   ],
   "collections": [],
   "is_curated": true,

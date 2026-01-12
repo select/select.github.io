@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/air-hostess-1933-",
+      "id": "air-hostess-1933-",
       "title": "Air Hostess (1933)",
       "description": "Evelyn Knapp, Thelma Todd",
       "fileSize": 1051734614,
-      "id": "air-hostess-1933-"
+      "addedAt": "2026-01-07T00:07:24.994Z",
+      "thumbnail": "https://archive.org/services/img/air-hostess-1933-",
+      "collection": "feature_films",
+      "downloads": 1268
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026047",
-      "title": "Air Hawks",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023537",
-      "title": "A Successful Calamity",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025303",
-      "title": "In Old Santa Fe",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023381",
-      "title": "The Reckoning",
-      "year": 1932,
-      "imdbRating": 4.8,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026593",
-      "title": "Ladies Crave Excitement",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026360",
-      "title": "The Fire-Trap",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026231",
-      "title": "Confidential",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022484",
-      "title": "The Tip-Off",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024055",
-      "title": "The Ghoul",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 3369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024300",
-      "title": "A Man of Sentiment",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026047",
+    "tt0028525",
+    "tt0023537",
+    "tt0025303",
+    "tt0023381",
+    "tt0026593",
+    "tt0026360",
+    "tt0026231",
+    "tt0026085",
+    "tt0022484",
+    "tt0024055",
+    "tt0024300"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-italian",
+      "id": "silent-the-italian",
       "title": "The Italian",
       "fileSize": 1504547712,
-      "id": "silent-the-italian"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-italian",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 408
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004838",
-      "title": "The Wrath of the Gods",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 203,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026637",
-      "title": "The Healer",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004972",
-      "title": "The Birth of a Nation",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 26892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005423",
-      "title": "Greater Love Hath No Man",
-      "year": 1915,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005339",
-      "title": "A Fool There Was",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 1008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005414",
-      "title": "Daydreams",
-      "year": 1915,
-      "imdbRating": 6.7,
-      "imdbVotes": 309,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231300",
-      "title": "Brought Home",
-      "year": 1915,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005246",
-      "title": "Enoch Arden",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 127,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005078",
-      "title": "The Cheat",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 2713,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006210",
-      "title": "Vanity Fair",
-      "year": 1915,
-      "imdbRating": 5.9,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0004838",
+    "tt0026637",
+    "tt0004972",
+    "tt0005423",
+    "tt0005339",
+    "tt0003803",
+    "tt0005414",
+    "tt0231300",
+    "tt0005246",
+    "tt0005078",
+    "tt0005719",
+    "tt0006210"
   ],
   "collections": [],
   "is_curated": true,

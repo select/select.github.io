@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/at-the-party_1929",
+      "id": "at-the-party_1929",
       "title": "At the Party",
       "fileSize": 706321261,
-      "id": "at-the-party_1929"
+      "addedAt": "2026-01-07T00:07:31.711Z",
+      "thumbnail": "https://archive.org/services/img/at-the-party_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 96
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1874515",
-      "title": "Gossip",
-      "year": 1929,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019010",
-      "title": "Hollywood Bound",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122388",
-      "title": "Baby Rose Marie the Child Wonder",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1492912",
-      "title": "Jack White with the Montrealers",
-      "year": 1929,
-      "imdbRating": 3.7,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191809",
-      "title": "The Band Beautiful",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0314115",
-      "title": "Good Night Nurse",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146563",
-      "title": "A Close Call",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174101",
-      "title": "A Pair of Tights",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 151,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329729",
-      "title": "The Varsity Drag",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1874515",
+    "tt1131583",
+    "tt0019010",
+    "tt0122388",
+    "tt1492912",
+    "tt0191809",
+    "tt0314115",
+    "tt0146563",
+    "tt0174101",
+    "tt0329729",
+    "tt1706294",
+    "tt1698474"
   ],
   "collections": [],
   "is_curated": true,

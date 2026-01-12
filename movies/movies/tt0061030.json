@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/thelovestatue1965",
+      "id": "thelovestatue1965",
       "title": "The Love Statue",
       "description": "In 1965, he directed his first feature film  which dealt with  LSD  use.",
       "fileSize": 1668004062,
-      "id": "thelovestatue1965"
+      "addedAt": "2026-01-07T00:12:44.281Z",
+      "thumbnail": "https://archive.org/services/img/thelovestatue1965",
+      "language": "eng",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 342
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059909",
-      "title": "Who Killed Teddy Bear",
-      "year": 1965,
-      "imdbRating": 6.6,
-      "imdbVotes": 1071,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059448",
-      "title": "Mirage",
-      "year": 1965,
-      "imdbRating": 7.2,
-      "imdbVotes": 6488,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059678",
-      "title": "The Satan Bug",
-      "year": 1965,
-      "imdbRating": 6.1,
-      "imdbVotes": 3331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057156",
-      "title": "The Horror of It All",
-      "year": 1964,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058977",
-      "title": "Blindfold",
-      "year": 1966,
-      "imdbRating": 6.2,
-      "imdbVotes": 1148,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058084",
-      "title": "Frozen Alive",
-      "year": 1964,
-      "imdbRating": 4,
-      "imdbVotes": 655,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058329",
-      "title": "Marnie",
-      "year": 1964,
-      "imdbRating": 7.1,
-      "imdbVotes": 56508,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058405",
-      "title": "Nightmare",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 2654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058144",
-      "title": "The Glass Cage",
-      "year": 1964,
-      "imdbRating": 6.5,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0283610",
-      "title": "Stop-over Forever",
-      "year": 1964,
-      "imdbRating": 5,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058649",
-      "title": "The Third Secret",
-      "year": 1964,
-      "imdbRating": 6.5,
-      "imdbVotes": 1356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062463",
-      "title": "The Vulture",
-      "year": 1966,
-      "imdbRating": 4.2,
-      "imdbVotes": 386,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0059909",
+    "tt0059448",
+    "tt0059678",
+    "tt0057156",
+    "tt0058977",
+    "tt0058084",
+    "tt0058329",
+    "tt0058405",
+    "tt0058144",
+    "tt0283610",
+    "tt0058649",
+    "tt0062463"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-deadly-mantis",
+      "id": "the-deadly-mantis",
       "title": "The Deadly Mantis",
       "description": "A giant prehistoric praying mantis, recently freed from the Arctic ice, voraciously preys on American military at the DEW Line and works its way south.",
       "fileSize": 6437278371,
-      "id": "the-deadly-mantis"
+      "addedAt": "2026-01-07T00:11:57.684Z",
+      "thumbnail": "https://archive.org/services/img/the-deadly-mantis",
+      "language": "eng",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 27005
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deadly-mantis-1957-colorized",
+      "id": "deadly-mantis-1957-colorized",
       "title": "The Deadly Mantis 1957 colorized (Craig Stevens)",
       "description": "Attacks on an Arctic outpost and a military transport plane reveal the existence of a giant prehistoric praying mantis, released from suspended animation by the calving of an iceberg and now flying over Greenland on its way to New York City. An Air Force colonel (Craig Stevens) works together with a paleontologist (William Hopper) and his museum colleague (Alix Talton) to try to kill it. Craig Stevens as Col. Joe Parkman William Hopper as Dr. Nedrick Jackson Alix Talton as Marge Blaine Donald Randolph as Maj. Gen. Mark Ford Pat Conway as Sgt. Pete Allen Florenz Ames as Prof. Anton Gunther I colorized this using AI software that doesn't always get the colors right, but I think it looks fairly natural. Hopefully a more professional job will be done someday.",
       "fileSize": 1001636772,
-      "id": "deadly-mantis-1957-colorized"
+      "addedAt": "2026-01-07T00:07:59.605Z",
+      "thumbnail": "https://archive.org/services/img/deadly-mantis-1957-colorized",
+      "language": "eng",
+      "year": 1957,
+      "collection": "feature_films",
+      "downloads": 28319
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050210",
-      "title": "The Brain from Planet Arous",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050084",
-      "title": "20 Million Miles to Earth",
-      "year": 1957,
-      "imdbRating": 6.3,
-      "imdbVotes": 8727,
-      "language": "English, Italian, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050177",
-      "title": "Beginning of the End",
-      "year": 1957,
-      "imdbRating": 4,
-      "imdbVotes": 2831,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050723",
-      "title": "Monster from Green Hell",
-      "year": 1957,
-      "imdbRating": 3.7,
-      "imdbVotes": 1413,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050720",
-      "title": "The Monolith Monsters",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 4168,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050675",
-      "title": "The Man Who Turned to Stone",
-      "year": 1957,
-      "imdbRating": 5.3,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050778",
-      "title": "Not of This Earth",
-      "year": 1957,
-      "imdbRating": 6.1,
-      "imdbVotes": 2340,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052077",
-      "title": "Plan 9 from Outer Space",
-      "year": 1957,
-      "imdbRating": 3.9,
-      "imdbVotes": 41824,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050873",
-      "title": "Quatermass 2",
-      "year": 1957,
-      "imdbRating": 6.8,
-      "imdbVotes": 5011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051063",
-      "title": "Teenage Monster",
-      "year": 1957,
-      "imdbRating": 3.7,
-      "imdbVotes": 405,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050432",
-      "title": "The Giant Claw",
-      "year": 1957,
-      "imdbRating": 4.6,
-      "imdbVotes": 4591,
-      "language": "English, Japanese, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050539",
-      "title": "The Incredible Shrinking Man",
-      "year": 1957,
-      "imdbRating": 7.6,
-      "imdbVotes": 20967,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050210",
+    "tt0050084",
+    "tt0050177",
+    "tt0050723",
+    "tt0050720",
+    "tt0050675",
+    "tt0050778",
+    "tt0052077",
+    "tt0050873",
+    "tt0051063",
+    "tt0050432",
+    "tt0247746"
   ],
   "collections": [],
   "is_curated": true,

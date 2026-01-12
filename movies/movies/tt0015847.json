@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-furusato-no-uta",
+      "id": "silent-furusato-no-uta",
       "title": "Furusato no uta",
       "fileSize": 1149552950,
-      "id": "silent-furusato-no-uta"
+      "addedAt": "2026-01-07T00:10:59.118Z",
+      "thumbnail": "https://archive.org/services/img/silent-furusato-no-uta",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 869
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020510",
-      "title": "Tôkyô kôshinkyoku",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 331,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033654",
-      "title": "The 47 Ronin",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 2739,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046478",
-      "title": "Ugetsu",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 27766,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046851",
-      "title": "A Story from Chikamatsu",
-      "year": 1954,
-      "imdbRating": 8,
-      "imdbVotes": 5044,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040980",
-      "title": "Women of the Night",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 1542,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0028021",
-      "title": "Osaka Elegy",
-      "year": 1936,
-      "imdbRating": 7.2,
-      "imdbVotes": 2641,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047445",
-      "title": "Sansho the Bailiff",
-      "year": 1954,
-      "imdbRating": 8.4,
-      "imdbVotes": 18809,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027672",
-      "title": "Sisters of the Gion",
-      "year": 1936,
-      "imdbRating": 7.4,
-      "imdbVotes": 3103,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048933",
-      "title": "Street of Shame",
-      "year": 1956,
-      "imdbRating": 7.8,
-      "imdbVotes": 5150,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045112",
-      "title": "The Life of Oharu",
-      "year": 1952,
-      "imdbRating": 8.1,
-      "imdbVotes": 7787,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032156",
-      "title": "The Story of the Last Chrysanthemum",
-      "year": 1939,
-      "imdbRating": 7.8,
-      "imdbVotes": 4538,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020510",
+    "tt0033654",
+    "tt0046478",
+    "tt0046851",
+    "tt0040980",
+    "tt0028021",
+    "tt0047445",
+    "tt0027672",
+    "tt0048933",
+    "tt0045112",
+    "tt0032156",
+    "tt0017463"
   ],
   "collections": [],
   "is_curated": true,

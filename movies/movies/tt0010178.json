@@ -6,18 +6,32 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheGloriousLadyPreview",
+      "id": "TheGloriousLadyPreview",
       "title": "\"The Glorious Lady\" (1919) starring Olive Thomas",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"The Glorious Lady\" is a moving drama included this film in our program to illustrate the work and contributions of Olive Thomas, a star of Silent Hall of Fame. This rare film lets us enjoy one of very few surviving performances of Olive Thomas, who died the year after its release at 25. A simple English girl becomes a duchess by marriage and must fulfill the heavy duty of giving birth to an heir to extend the noble family line.   Directed by                  George Irving Written by                  George M. Arthur Starring                      Olive Thomas, Matt Moore, Evelyn Brent, Robert Taber, Mona Kingsley, Huntley Gordon Cinematography        Lewis Physioc Distributed by            Select Pictures Corporation Release date                October 19, 1919 Running time              53 min Country                       United States Language                     Silent film, English intertitles     Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"  ",
       "fileSize": 95633200,
-      "id": "TheGloriousLadyPreview"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheGloriousLadyPreview",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 2296
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-glorious-lady-1919",
+      "id": "the-glorious-lady-1919",
       "title": "The Glorious Lady",
       "description": "https://web.archive.org/web/20230310193739/https://en.wikipedia.org/wiki/The_Glorious_Lady",
       "fileSize": 1260593285,
-      "id": "the-glorious-lady-1919"
+      "addedAt": "2026-01-07T00:11:57.688Z",
+      "thumbnail": "https://archive.org/services/img/the-glorious-lady-1919",
+      "language": [
+        "dut",
+        "English"
+      ],
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1716
     }
   ],
   "metadata": {
@@ -35,113 +49,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010402",
-      "title": "Love's Prisoner",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192409",
-      "title": "Out Yonder",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007903",
-      "title": "An Even Break",
-      "year": 1917,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008489",
-      "title": "Raffles, the Amateur Cracksman",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 181,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010103",
-      "title": "Eyes of Youth",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010137",
-      "title": "For Better, for Worse",
-      "year": 1919,
-      "imdbRating": 5.9,
-      "imdbVotes": 747,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010208",
-      "title": "Harakiri",
-      "year": 1919,
-      "imdbRating": 5.6,
-      "imdbVotes": 801,
-      "language": "None, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010316",
-      "title": "Jubilo",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010418",
-      "title": "Male and Female",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1956,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010890",
-      "title": "The Wicked Darling",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 474,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0010402",
+    "tt0192409",
+    "tt0007903",
+    "tt0008489",
+    "tt0009559",
+    "tt0009968",
+    "tt0010103",
+    "tt0010137",
+    "tt0010208",
+    "tt0010316",
+    "tt0010418",
+    "tt0010890"
   ],
   "collections": [],
   "is_curated": true,

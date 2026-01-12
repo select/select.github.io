@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_115",
+      "id": "rog561b_netzero_115",
       "title": "You Can't Have Everything",
       "description": "115",
       "fileSize": 2767931395,
-      "id": "rog561b_netzero_115"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_115",
+      "collection": "feature_films",
+      "downloads": 2535
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_1151",
+      "id": "rog561b_netzero_1151",
       "title": "You Can't Have Everything",
       "description": "115 1",
       "fileSize": 957054941,
-      "id": "rog561b_netzero_1151"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_1151",
+      "collection": "feature_films",
+      "downloads": 1106
     }
   ],
   "metadata": {
@@ -35,116 +43,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027495",
-      "title": "Dancing Feet",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025194",
-      "title": "Good-bye Love",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026113",
-      "title": "The Big Broadcast of 1936",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029209",
-      "title": "Manhattan Merry-Go-Round",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 177,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029482",
-      "title": "Rhythm in the Clouds",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029274",
-      "title": "Murder in Greenwich Village",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021322",
-      "title": "The Royal Family of Broadway",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029622",
-      "title": "Super-Sleuth",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 387,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029680",
-      "title": "Top of the Town",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029223",
-      "title": "Meet the Boy Friend",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt11976532",
-      "title": "Vengeance",
-      "year": 2022,
-      "imdbRating": 6.8,
-      "imdbVotes": 40883,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0027495",
+    "tt0025194",
+    "tt0026113",
+    "tt0028999",
+    "tt0029209",
+    "tt0029482",
+    "tt0029274",
+    "tt0021322",
+    "tt0029622",
+    "tt0029680",
+    "tt0029223",
+    "tt11976532"
   ],
   "collections": [],
   "is_curated": true,

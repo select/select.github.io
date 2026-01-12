@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-zaza",
+      "id": "silent-zaza",
       "title": "Zaza",
       "fileSize": 22416260200,
-      "id": "silent-zaza"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-zaza",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 3683
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "2 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015116",
-      "title": "Manhandled",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 1121,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017841",
-      "title": "East Side, West Side",
-      "year": 1927,
-      "imdbRating": 7.1,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026124",
-      "title": "Black Sheep",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041841",
-      "title": "Sands of Iwo Jima",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 11865,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043017",
-      "title": "Surrender",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040474",
-      "title": "The Inside Story",
-      "year": 1948,
-      "imdbRating": 6.6,
-      "imdbVotes": 318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012938",
-      "title": "Beyond the Rocks",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 2409,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013556",
-      "title": "Robin Hood",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 2583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014249",
-      "title": "The Man Without Desire",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 23,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161953",
-      "title": "Salome",
-      "year": 1923,
-      "imdbRating": 4.9,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014014",
-      "title": "The Hell Ship",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0015116",
+    "tt0017841",
+    "tt0026124",
+    "tt0041841",
+    "tt0043017",
+    "tt0040474",
+    "tt0012938",
+    "tt0013556",
+    "tt0014440",
+    "tt0014249",
+    "tt0161953",
+    "tt0014014"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-ware-case",
+      "id": "the-ware-case",
       "title": "The Ware Case",
       "description": "A financier is accused of murder when his brother-in-law is found dead in his garden pond. After winning the court case he returns home to find that his lawyer has romantic inclinations towards his wife.",
       "fileSize": 6026715468,
-      "id": "the-ware-case"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-ware-case",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 1825
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031853",
-      "title": "Return to Yesterday",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029319",
-      "title": "Non-Stop New York",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033169",
-      "title": "Tom Brown's School Days",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 526,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030049",
-      "title": "Delinquent Parents",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030359",
-      "title": "Letter of Introduction",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 449,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031678",
-      "title": "Mr. Moto's Last Warning",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 1464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030727",
-      "title": "Secrets of an Actress",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030341",
-      "title": "The Lady Vanishes",
-      "year": 1938,
-      "imdbRating": 7.7,
-      "imdbVotes": 60724,
-      "language": "English, German, French, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031831",
-      "title": "Clouds Over Europe",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 1148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031338",
-      "title": "Frau im Strom",
-      "year": 1939,
-      "imdbRating": 8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031778",
-      "title": "Panama Patrol",
-      "year": 1939,
-      "imdbRating": 5.1,
-      "imdbVotes": 104,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    }
+    "tt0031853",
+    "tt0029319",
+    "tt0033169",
+    "tt0029855",
+    "tt0030049",
+    "tt0030359",
+    "tt0031678",
+    "tt0030727",
+    "tt0030341",
+    "tt0031831",
+    "tt0031338",
+    "tt0031778"
   ],
   "collections": [],
   "is_curated": true,

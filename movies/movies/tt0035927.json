@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1942-geliebter-schatz-johannes-riemann-ida-wust-ernst-waldow",
+      "id": "1942-geliebter-schatz-johannes-riemann-ida-wust-ernst-waldow",
       "title": "1942 Geliebter Schatz ( Johannes Riemann, Ida Wüst, Ernst Waldow)",
       "description": "Film aus dem deutschen dritten Reich von 1942. Geliebter Schatz.  U.a mit Johannes Riemann und Ida Wüst. ",
       "fileSize": 1947845181,
-      "id": "1942-geliebter-schatz-johannes-riemann-ida-wust-ernst-waldow"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1942-geliebter-schatz-johannes-riemann-ida-wust-ernst-waldow",
+      "language": "ger",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 166
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035045",
-      "title": "Maske in Blau",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 37,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130357",
-      "title": "Was will Brigitte?",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031337",
-      "title": "Frau am Steuer",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030148",
-      "title": "Fortsetzung folgt",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034975",
-      "title": "Liebeskomödie",
-      "year": 1943,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035480",
-      "title": "Two Weeks to Live",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 216,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035758",
-      "title": "Cosmo Jones in the Crime Smasher",
-      "year": 1943,
-      "imdbRating": 4.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035628",
-      "title": "Altes Herz wird wieder jung",
-      "year": 1943,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036078",
-      "title": "Der kleine Grenzverkehr",
-      "year": 1943,
-      "imdbRating": 7.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035922",
-      "title": "Die Gattin",
-      "year": 1943,
-      "imdbRating": 4.8,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131451",
-      "title": "Die kluge Marianne",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0036066",
+    "tt0035045",
+    "tt0130357",
+    "tt0031337",
+    "tt0030148",
+    "tt0034975",
+    "tt0035480",
+    "tt0035758",
+    "tt0035628",
+    "tt0036078",
+    "tt0035922",
+    "tt0131451"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheHouseUnderTheWater",
+      "id": "TheHouseUnderTheWater",
       "title": "The House Under The Water",
       "description": "Synopsis Morteza, in his fifties and just out of jail, is suspected of being involved in the death of a drowned child.",
       "fileSize": 21390417,
-      "id": "TheHouseUnderTheWater"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheHouseUnderTheWater",
+      "collection": "feature_films",
+      "downloads": 243
     }
   ],
   "metadata": {
@@ -27,108 +31,18 @@
     "Awards": "1 win & 2 nominations"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1779491",
-      "title": "The Accordion",
-      "year": 2010,
-      "imdbRating": 6.8,
-      "imdbVotes": 311,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1756659",
-      "title": "The Orion",
-      "year": 2010,
-      "imdbRating": 6.3,
-      "imdbVotes": 54,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1390397",
-      "title": "Baseline",
-      "year": 2010,
-      "imdbRating": 5.1,
-      "imdbVotes": 653,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1468703",
-      "title": "Bear",
-      "year": 2010,
-      "imdbRating": 2.9,
-      "imdbVotes": 1359,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020558",
-      "title": "Centurion",
-      "year": 2010,
-      "imdbRating": 6.3,
-      "imdbVotes": 88560,
-      "language": "English, Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1446682",
-      "title": "Desert Son",
-      "year": 2010,
-      "imdbRating": 4.9,
-      "imdbVotes": 277,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2378045",
-      "title": "204",
-      "year": 2010,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1972567",
-      "title": "217",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1512093",
-      "title": "306",
-      "year": 2010,
-      "imdbRating": 6,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1341167",
-      "title": "Four Lions",
-      "year": 2010,
-      "imdbRating": 7.3,
-      "imdbVotes": 86936,
-      "language": "English, Urdu, Punjabi, Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1509130",
-      "title": "Janie Jones",
-      "year": 2010,
-      "imdbRating": 6.6,
-      "imdbVotes": 2408,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1779491",
+    "tt1756659",
+    "tt1390397",
+    "tt1468703",
+    "tt1020558",
+    "tt1446682",
+    "tt2378045",
+    "tt1972567",
+    "tt1512093",
+    "tt1763178",
+    "tt1341167",
+    "tt1509130"
   ],
   "collections": [],
   "is_curated": true,

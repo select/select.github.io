@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rio-1939-",
+      "id": "rio-1939-",
       "title": "Rio (1939)",
       "description": "Basil Rathbone",
       "fileSize": 1209920608,
-      "id": "rio-1939-"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rio-1939-",
+      "collection": "feature_films",
+      "downloads": 721
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rio.-1939",
+      "id": "rio.-1939",
       "title": "Rio (1939)",
       "description": "Basil Rathbone, Victor McLaglan, Sigrid Gurie, Robert Cummings, Leo Carillo, Billy Gilbert, Irving Pichel",
       "fileSize": 1209971189,
-      "id": "rio.-1939"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rio.-1939",
+      "collection": "feature_films",
+      "downloads": 1401
     }
   ],
   "metadata": {
@@ -35,115 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028737",
-      "title": "Confession",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 1311,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0047872",
-      "title": "Bengazi",
-      "year": 1955,
-      "imdbRating": 5,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031975",
-      "title": "Star Reporter",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032179",
-      "title": "21 Days Together",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1285,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030981",
-      "title": "Wives Under Suspicion",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 550,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030122",
-      "title": "Federal Man-Hunt",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036449",
-      "title": "Tonight We Raid Calais",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029050",
-      "title": "Internes Can't Take Money",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 823,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028737",
+    "tt0047872",
+    "tt0031975",
+    "tt0032179",
+    "tt0030323",
+    "tt0030981",
+    "tt0030122",
+    "tt0036449",
+    "tt0033526",
+    "tt0028607",
+    "tt0028770",
+    "tt0029050"
   ],
   "collections": [],
   "is_curated": true,

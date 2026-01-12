@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-kiss_1929",
+      "id": "the-kiss_1929",
       "title": "The Kiss",
       "fileSize": 3456386660,
-      "id": "the-kiss_1929"
+      "addedAt": "2026-01-07T00:12:10.589Z",
+      "thumbnail": "https://archive.org/services/img/the-kiss_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 531
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019195",
-      "title": "The Mysterious Lady",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1480,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016491",
-      "title": "Mother",
-      "year": 1925,
-      "imdbRating": 7.6,
-      "imdbVotes": 948,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020410",
-      "title": "The Single Standard",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 723,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020589",
-      "title": "Wild Orchids",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 756,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018836",
-      "title": "The Divine Woman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018218",
-      "title": "Old San Francisco",
-      "year": 1927,
-      "imdbRating": 6.4,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022242",
-      "title": "Pagan Lady",
-      "year": 1931,
-      "imdbRating": 5.5,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020514",
-      "title": "The Trespasser",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 1455,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019195",
+    "tt0016491",
+    "tt0020410",
+    "tt0020589",
+    "tt0018836",
+    "tt0018218",
+    "tt0022242",
+    "tt0018297",
+    "tt0019644",
+    "tt0019957",
+    "tt0019979",
+    "tt0020514"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BloodyWednesday",
+      "id": "BloodyWednesday",
       "title": "Bloody Wednesday",
       "description": "The movie circles around a man named Harry (Raymond Elmendorf), an auto mechanic who is going through a nasty little divorce. When Harry gets fired from his job he starts really losing his mind by walking into a church completely naked singing Halleluya. He is committed to a hospital for sometime. When he is released his brother gives him a place to stay, a secluded rundown hotel. It is here that Harry quickly starts losing his mind as he sees ghosts, his life is threatened by street toughs, his teddy bear starts talking to him, etc etc. This all leads up to the obvious disaster at the end.",
       "fileSize": 2177738166,
-      "id": "BloodyWednesday"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BloodyWednesday",
+      "year": 1987,
+      "collection": "feature_films",
+      "downloads": 90436
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bloody-wednesday-1987",
+      "id": "bloody-wednesday-1987",
       "title": "Bloody Wednesday (1987)",
       "description": "Harry is unable to hold a job due to his mental illness and lives in an abandoned Hollywood hotel haunted by friendly ghosts of the long dead staff. The lines of his mental illness and reality become extremely blurred as some of his strangest events are indeed witnessed by others. As Harry becomes more frustrated by not being able to distinguish fact from delusion he turns to violence. Watch on RetroFlix:  https://retroflix.org/bloody-wednesday-1987/",
       "fileSize": 600919067,
-      "id": "bloody-wednesday-1987"
+      "addedAt": "2026-01-07T00:07:38.719Z",
+      "thumbnail": "https://archive.org/services/img/bloody-wednesday-1987",
+      "language": "eng",
+      "year": 1987,
+      "collection": "feature_films",
+      "downloads": 323
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/BloodyWednesday_201511",
+      "id": "BloodyWednesday_201511",
       "title": "Bloody Wednesday",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1769041970,
-      "id": "BloodyWednesday_201511"
+      "addedAt": "2026-01-07T00:06:14.039Z",
+      "thumbnail": "https://archive.org/services/img/BloodyWednesday_201511",
+      "collection": "feature_films",
+      "downloads": 10854
     }
   ],
   "metadata": {
@@ -43,120 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0052609",
-      "title": "Beast from Haunted Cave",
-      "year": 1959,
-      "imdbRating": 4.3,
-      "imdbVotes": 2290,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036653",
-      "title": "Bluebeard",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 2188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2103217",
-      "title": "Maniac",
-      "year": 2012,
-      "imdbRating": 6.1,
-      "imdbVotes": 41696,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0995033",
-      "title": "Chicago Massacre: Richard Speck",
-      "year": 2007,
-      "imdbRating": 3.9,
-      "imdbVotes": 790,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0095904",
-      "title": "Prison",
-      "year": 1987,
-      "imdbRating": 5.8,
-      "imdbVotes": 5038,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0489318",
-      "title": "The Perfect Witness",
-      "year": 2007,
-      "imdbRating": 5.4,
-      "imdbVotes": 1443,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2082276",
-      "title": "Fractional",
-      "year": 2011,
-      "imdbRating": 5,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5679554",
-      "title": "Coffin 2",
-      "year": 2017,
-      "imdbRating": 3.2,
-      "imdbVotes": 3599,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3869392",
-      "title": "Abandoned Dead",
-      "year": 2015,
-      "imdbRating": 2.8,
-      "imdbVotes": 1861,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0339236",
-      "title": "Shark Zone",
-      "year": 2003,
-      "imdbRating": 2.7,
-      "imdbVotes": 848,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0091474",
-      "title": "Manhunter",
-      "year": 1986,
-      "imdbRating": 7.2,
-      "imdbVotes": 89050,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0091462",
-      "title": "The Majorettes",
-      "year": 1986,
-      "imdbRating": 4.5,
-      "imdbVotes": 1247,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0052609",
+    "tt0036653",
+    "tt2103217",
+    "tt0995033",
+    "tt0095904",
+    "tt0489318",
+    "tt2082276",
+    "tt5679554",
+    "tt3869392",
+    "tt0339236",
+    "tt0091474",
+    "tt0091462"
   ],
   "collections": [],
   "is_curated": true,

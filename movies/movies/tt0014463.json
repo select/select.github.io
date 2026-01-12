@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Shock_656",
+      "id": "Shock_656",
       "title": "The Shock",
       "description": "Title: The Shock Summary: A gang of blackmailers sends a cripple to San Francisco to expose a banker they have been blackmailing. However, the cripple meets and falls in love with the banker's daughter. Directed by: Lambert Hillyer Actors: Lon Chaney, Virginia Valli, Jack Mower Production Company: Universal Pictures Release Date: 10 June 1923 (USA) Aspect Ratio: 1.33 : 1 Mysterious, sinister Wilse Dilling receives a coded message to go to the home of Queen Ann, a powerful crime boss. When Wilse meets with her, she sends him to the town of Fallbrook, where he is to await her instructions. Being practically wheelchair-bound has not stopped Dilling from committing a lengthy series of crimes, but to his surprise, he finds that the small town atmosphere makes him feel differently about everything. He finds a good friend in banker's daughter Gertrude Hadley, who helps him believe that he can make a fresh start. But Wilse's new-found contentment is soon shattered by a series of new developments.",
       "fileSize": 603356449,
-      "id": "Shock_656"
+      "addedAt": "2026-01-07T00:06:51.869Z",
+      "thumbnail": "https://archive.org/services/img/Shock_656",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 1343
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheShock",
+      "id": "TheShock",
       "title": "The Shock",
       "description": "Lon Chaney plays a wheelchair bound master criminal.",
       "fileSize": 1345465635,
-      "id": "TheShock"
+      "addedAt": "2026-01-07T00:07:05.036Z",
+      "thumbnail": "https://archive.org/services/img/TheShock",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 19187
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-shock",
+      "id": "silent-the-shock",
       "title": "The Shock",
       "fileSize": 1159206577,
-      "id": "silent-the-shock"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-shock",
+      "language": "English",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 392
     }
   ],
   "metadata": {
@@ -42,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012839",
-      "title": "The Whistle",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011779",
-      "title": "The Toll Gate",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037009",
-      "title": "Law Men",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014142",
-      "title": "The Hunchback of Notre Dame",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 6381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024868",
-      "title": "Before Midnight",
-      "year": 1933,
-      "imdbRating": 5.9,
-      "imdbVotes": 315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031179",
-      "title": "Convict's Code",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 299,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027498",
-      "title": "Dangerous Waters",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007903",
-      "title": "An Even Break",
-      "year": 1917,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037165",
-      "title": "Partners of the Trail",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036421",
-      "title": "The Texas Kid",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 94,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013134",
-      "title": "Flesh and Blood",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0012839",
+    "tt0011779",
+    "tt0030168",
+    "tt0037009",
+    "tt0014142",
+    "tt0024868",
+    "tt0031179",
+    "tt0027498",
+    "tt0007903",
+    "tt0037165",
+    "tt0036421",
+    "tt0013134"
   ],
   "collections": [],
   "is_curated": true,

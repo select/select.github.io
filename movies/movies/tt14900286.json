@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_264",
+      "id": "dipwad2_zoho_264",
       "title": "264",
       "description": "264",
       "fileSize": 3086763461,
-      "id": "dipwad2_zoho_264"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_264",
+      "collection": "feature_films",
+      "downloads": 1865
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_2641",
+      "id": "dipwad2_zoho_2641",
       "title": "264",
       "description": "264 ",
       "fileSize": 15578477205,
-      "id": "dipwad2_zoho_2641"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_2641",
+      "collection": "feature_films",
+      "downloads": 11425
     }
   ],
   "metadata": {
@@ -34,114 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt14871658",
-      "title": "UFC 263: Adesanya vs. Vettori 2",
-      "year": 2021,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15196366",
-      "title": "UFC 265: Lewis vs. Gane",
-      "year": 2021,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15513580",
-      "title": "UFC 266: Volkanovski vs. Ortega",
-      "year": 2021,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7036540",
-      "title": "The Savant",
-      "year": 2019,
-      "imdbRating": 4.2,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt6618244",
-      "title": "UFC 210: Cormier vs. Johnson 2",
-      "year": 2017,
-      "imdbRating": 6.7,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044796",
-      "title": "Kid Monk Baroni",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 196,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15135188",
-      "title": "Tamil Rockers",
-      "year": 2021,
-      "imdbVotes": 186,
-      "language": "Tamil, Telugu",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0376855",
-      "title": "Rey Mysterio: 619",
-      "year": 2003,
-      "imdbRating": 7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14605182",
-      "title": "Hell's Garden",
-      "year": 2021,
-      "imdbRating": 6.3,
-      "imdbVotes": 332,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0307156",
-      "title": "Michel Vaillant",
-      "year": 2003,
-      "imdbRating": 5.3,
-      "imdbVotes": 4514,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0467003",
-      "title": "Challenge",
-      "year": 2004,
-      "imdbRating": 7.4,
-      "imdbVotes": 2685,
-      "language": "Telugu",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt9845564",
-      "title": "Below Zero",
-      "year": 2021,
-      "imdbRating": 6.2,
-      "imdbVotes": 22471,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt14871658",
+    "tt15196366",
+    "tt15513580",
+    "tt7036540",
+    "tt6618244",
+    "tt0044796",
+    "tt15135188",
+    "tt0376855",
+    "tt14605182",
+    "tt0307156",
+    "tt0467003",
+    "tt9845564"
   ],
   "collections": [],
   "is_curated": true,

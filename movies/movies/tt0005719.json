@@ -6,25 +6,43 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheMartyrsoftheAlamo",
+      "id": "TheMartyrsoftheAlamo",
       "title": "The Martyrs of the Alamo",
       "description": "First feature-length movie on the Alamo. http://www.imdb.com/title/tt0005719/",
       "fileSize": 2091993657,
-      "id": "TheMartyrsoftheAlamo"
+      "addedAt": "2026-01-07T00:07:05.033Z",
+      "thumbnail": "https://archive.org/services/img/TheMartyrsoftheAlamo",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 59408
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/martyrs-of-the-alamo-1915",
+      "id": "martyrs-of-the-alamo-1915",
       "title": "Martyrs of the Alamo (1915)",
       "description": "The story of the defense of the mission-turned-fortress by 185 Texans against an overwhelming Mexican army in 1836. Watch on RetroFlix:  https://retroflix.org/martyrs-of-the-alamo-1915/",
       "fileSize": 451419471,
-      "id": "martyrs-of-the-alamo-1915"
+      "addedAt": "2026-01-07T00:09:46.428Z",
+      "thumbnail": "https://archive.org/services/img/martyrs-of-the-alamo-1915",
+      "language": "eng",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 59
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-martyrs-of-the-alamo",
+      "id": "silent-martyrs-of-the-alamo",
       "title": "Martyrs of the Alamo",
       "fileSize": 898132755,
-      "id": "silent-martyrs-of-the-alamo"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-martyrs-of-the-alamo",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 387
     }
   ],
   "metadata": {
@@ -42,114 +60,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005149",
-      "title": "The Coward",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 338,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005246",
-      "title": "Enoch Arden",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 127,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026562",
-      "title": "The Keeper of the Bees",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0142333",
-      "title": "The Gown of Destiny",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 19,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092978",
-      "title": "Escape from Sobibor",
-      "year": 1987,
-      "imdbRating": 7.4,
-      "imdbVotes": 10404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004972",
-      "title": "The Birth of a Nation",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 26892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057811",
-      "title": "633 Squadron",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4879,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044400",
-      "title": "Battles of Chief Pontiac",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227607",
-      "title": "Tannenberg",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043590",
-      "title": "Go for Broke!",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 1952,
-      "language": "English, Japanese, Italian, Hawaiian, German, French",
-      "sourceType": "archive.org"
-    }
+    "tt0005149",
+    "tt0005246",
+    "tt0026562",
+    "tt0142333",
+    "tt0092978",
+    "tt0004972",
+    "tt0057811",
+    "tt0044400",
+    "tt0227607",
+    "tt0159476",
+    "tt0014672",
+    "tt0043590"
   ],
   "collections": [],
   "is_curated": true,

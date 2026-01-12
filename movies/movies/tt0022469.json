@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TenCentsADay",
+      "id": "TenCentsADay",
       "title": "Ten Cents a Dance",
       "description": "Title: Ten Cents a Dance Summary: Men pay a dime to dance with Barbara and her fellow taxi dancers. She marries Eddie and plans to quit dancing. Before she does, she meets a handsome and rich gentleman. Directed by: Lionel Barrymore, Edward Buzzell Actors: Production Company: Columbia Pictures Release Date: 6 March 1931 (USA) Aspect Ratio: 1.19 : 1 Men pay a dime to dance with Barbara and her fellow taxi dancers. She marries Eddie and quits dancing, but before that, she meets with the handsome and very rich Bradley. Barbara eventually starts dancing again, since her marriage is plagued by financial tension, and Bradley begins visiting her again. Eddie becomes jealous, accusing his wife of infidelity. He sees that alleged infidelity as an excuse to steal money from Bradley.",
       "fileSize": 572309321,
-      "id": "TenCentsADay"
+      "addedAt": "2026-01-07T00:06:58.271Z",
+      "thumbnail": "https://archive.org/services/img/TenCentsADay",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 3811
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ten-cents-a-dance-1931_202507",
+      "id": "ten-cents-a-dance-1931_202507",
       "title": "Ten Cents a Dance (1931)",
       "description": "A taxi dancer with a jealous husband finds herself falling for a wealthy client. Watch on RetroFlix:  https://retroflix.org/ten-cents-a-dance-1931/",
       "fileSize": 639361340,
-      "id": "ten-cents-a-dance-1931_202507"
+      "addedAt": "2026-01-07T00:11:46.530Z",
+      "thumbnail": "https://archive.org/services/img/ten-cents-a-dance-1931_202507",
+      "language": "eng",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 119
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021844",
-      "title": "The Exile",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022523",
-      "title": "The Unholy Garden",
-      "year": 1931,
-      "imdbRating": 5.9,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020980",
-      "title": "Walk Cheerfully",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 776,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024628",
-      "title": "Sucker Money",
-      "year": 1933,
-      "imdbRating": 4.7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021770",
+    "tt0021659",
+    "tt0021844",
+    "tt0022523",
+    "tt0022662",
+    "tt0023025",
+    "tt0023030",
+    "tt0021239",
+    "tt0020980",
+    "tt0019979",
+    "tt0024151",
+    "tt0024628"
   ],
   "collections": [],
   "is_curated": true,

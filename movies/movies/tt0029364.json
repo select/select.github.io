@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/over-the-goal-1937",
+      "id": "over-the-goal-1937",
       "title": "Over The Goal (1937)",
       "description": "June Travis, William Hopper",
       "fileSize": 1330897301,
-      "id": "over-the-goal-1937"
+      "addedAt": "2026-01-07T00:10:12.694Z",
+      "thumbnail": "https://archive.org/services/img/over-the-goal-1937",
+      "collection": "feature_films",
+      "downloads": 626
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026353",
-      "title": "The Fighting Pilot",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 43,
-      "language": "English, Chinese",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029521",
-      "title": "Der Schimmelkrieg in der Holledau",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029165",
-      "title": "Love Is News",
-      "year": 1937,
-      "imdbRating": 6.9,
-      "imdbVotes": 928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029580",
-      "title": "Small Town Boy",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029611",
-      "title": "Storm in a Teacup",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 1158,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029605",
-      "title": "Stand-In",
-      "year": 1937,
-      "imdbRating": 6.7,
-      "imdbVotes": 1345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029764",
-      "title": "When's Your Birthday?",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028557",
-      "title": "Affairs of Cappy Ricks",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028575",
-      "title": "Angel",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 3607,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0129972",
+    "tt0026353",
+    "tt0233667",
+    "tt0029521",
+    "tt0028999",
+    "tt0029165",
+    "tt0029580",
+    "tt0029611",
+    "tt0029605",
+    "tt0029764",
+    "tt0028557",
+    "tt0028575"
   ],
   "collections": [],
   "is_curated": true,

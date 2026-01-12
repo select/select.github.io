@@ -6,25 +6,42 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/little-red-riding-hood-1922",
+      "id": "little-red-riding-hood-1922",
       "title": "Little Red Riding Hood (1922)",
       "description": "Little Red Riding Hood is an Alice cartoon directed by Walt Disney. Watch on RetroFlix:  https://retroflix.org/little-red-riding-hood-1922/",
       "fileSize": 95217969,
-      "id": "little-red-riding-hood-1922"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/little-red-riding-hood-1922",
+      "language": "eng",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 118
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/little-red-riding-hood-1922_202501",
+      "id": "little-red-riding-hood-1922_202501",
       "title": "Little Red Riding Hood (1922)",
       "description": "While Julius is milking his cow, Pete kidnaps Alice. Julius gives chase, and winds up in a duel with Pete.",
       "fileSize": 95217805,
-      "id": "little-red-riding-hood-1922_202501"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/little-red-riding-hood-1922_202501",
+      "language": "eng",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 59
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-little-red-riding-hood",
+      "id": "silent-little-red-riding-hood",
       "title": "Little Red Riding Hood",
       "fileSize": 557511764,
-      "id": "silent-little-red-riding-hood"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-little-red-riding-hood",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 958
     }
   ],
   "metadata": {
@@ -42,114 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020164",
-      "title": "The Merry Dwarfs",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 492,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015559",
-      "title": "Alice Wins the Derby",
-      "year": 1925,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015563",
-      "title": "Alice's Egg Plant",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016589",
-      "title": "Alice's Balloon Race",
-      "year": 1926,
-      "imdbRating": 5.3,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020484",
-      "title": "El terrible toreador",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020445",
-      "title": "Springtime",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 558,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014659",
-      "title": "Alice and the Dog Catcher",
-      "year": 1924,
-      "imdbRating": 4.9,
-      "imdbVotes": 220,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014660",
-      "title": "Alice and the Three Bears",
-      "year": 1924,
-      "imdbRating": 4.8,
-      "imdbVotes": 232,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014656",
-      "title": "Alice Gets in Dutch",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 268,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014661",
-      "title": "Alice the Peacemaker",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 91,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014662",
-      "title": "Alice's Day at Sea",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 282,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0020164",
+    "tt0015559",
+    "tt0015563",
+    "tt0016589",
+    "tt0020484",
+    "tt0020445",
+    "tt0014664",
+    "tt0014659",
+    "tt0014660",
+    "tt0014656",
+    "tt0014661",
+    "tt0014662"
   ],
   "collections": [
     {

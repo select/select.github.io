@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1937-der-antennendraht-karl-valentin-joe-stockel",
+      "id": "1937-der-antennendraht-karl-valentin-joe-stockel",
       "title": "1937 Der Antennendraht ( Karl Valentin, Joe Stöckel)",
       "description": "Film aus dem deutschen dritten Reich von 1937. Der Antennendraht (Kurzfilm) U.a mit Karl Valentin. Unter der Leitung von Joe Stöckel ",
       "fileSize": 613876765,
-      "id": "1937-der-antennendraht-karl-valentin-joe-stockel"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1937-der-antennendraht-karl-valentin-joe-stockel",
+      "language": "ger",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 174
     }
   ],
   "metadata": {
@@ -27,106 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0234874",
-      "title": "Der Theaterbesuch",
-      "year": 1934,
-      "imdbRating": 7.4,
-      "imdbVotes": 83,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027577",
-      "title": "Die Erbschaft",
-      "year": 1936,
-      "imdbRating": 7.8,
-      "imdbVotes": 60,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234981",
-      "title": "Ein verhängnisvolles Geigensolo",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249240",
-      "title": "Wenn du eine Schwiegermutter hast",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231591",
-      "title": "Der Firmling",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 186,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233661",
-      "title": "Es knallt",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234759",
-      "title": "So ein Theater!",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 41,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140398",
-      "title": "Musketier Meier III",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031053",
-      "title": "Der arme Millionär",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1015342",
-      "title": "Gesunde Frau - Gesundes Volk",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0442382",
-      "title": "Oh, diese Ehemänner",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0234874",
+    "tt0027577",
+    "tt0234981",
+    "tt0233667",
+    "tt0249240",
+    "tt0231591",
+    "tt0233661",
+    "tt0234759",
+    "tt0140398",
+    "tt0031053",
+    "tt1015342",
+    "tt0442382"
   ],
   "collections": [],
   "is_curated": true,

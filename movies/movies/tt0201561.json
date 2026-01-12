@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deshonra-1952",
+      "id": "deshonra-1952",
       "title": "Deshonra( 1952)",
       "description": "Deshonra  es una película  argentina  del género de  drama  filmada en blanco y negro dirigida por  Daniel Tinayre  sobre su propio guion escrito en colaboración con  Alejandro Verbitsky  y  Emilio Villalba Welsh  que se estrenó el 3 de junio de 1952 y que tuvo como protagonistas a  Fanny Navarro ,  Mecha Ortiz ,  Tita Merello ,  Jorge Rigaud ,  Guillermo Battaglia  y  Francisco de Paula . (Wikipedia) Sinopsis Muestra la vida en una cárcel de mujeres en la cual es encerrada una mujer por un crimen que no ha cometido Reparto Fanny Navarro  …Flora María Peralta Mecha Ortiz  …Directora interventora Tita Merello  …Isabel Jorge Rigaud  …Arquitecto Carlos Dumont Guillermo Battaglia  …Inspector Francisco de Paula  …Médico Pepita Muñoz  …Rosa Antonia Herrero  …Directora Golde Flami  …Roberta Aída Luz  …Adela Rosa Rosen  …Presa Diana de Córdoba  …La Pecosa Herminia Franco  …Srta. Martínez Alba Mujica  …Celadora 2 Mecha López  …Celadora 3 María Esther Buschiazzo  …Madre de Flora Myriam de Urquijo  …Presa abofeteada Héctor Méndez Haydée Larroca Berta Moss  …Celadora Esther Fontana María Cabral Cora Palacios Adolfo Linvel  …Juan Pascual Pellicciotta  …Juez Ángeles Martínez  …La Lechuza Celia Geraldy  …Mujer policía Alberto Barcel …Médico Alberto Quiles José Dorado Fernando Campos Eva Caselli  …Presa joven Norma Key …Presa joven 2 Liana Noda  …Amante de Carlos Pedro Desio Leticia Estrada Rosa Martín Corita Acuña María L. Fernández Amalia Garcés Susana Bustinza Eliseo Herrero Alberto Roldán Santos Veneri Julio Heredia Miguel Leporace Arístides Mottini Blanca Lagrotta",
       "fileSize": 1207203889,
-      "id": "deshonra-1952"
+      "addedAt": "2026-01-07T00:07:59.607Z",
+      "thumbnail": "https://archive.org/services/img/deshonra-1952",
+      "language": "spa",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 387
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "1 win & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0127017",
-      "title": "The Marihuana Story",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 54,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044314",
-      "title": "5 Fingers",
-      "year": 1952,
-      "imdbRating": 7.6,
-      "imdbVotes": 5573,
-      "language": "English, German, Portuguese, Turkish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044418",
-      "title": "Big Jim McLain",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 2405,
-      "language": "English, Japanese, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043397",
-      "title": "Chained for Life",
-      "year": 1952,
-      "imdbRating": 4.3,
-      "imdbVotes": 512,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044357",
-      "title": "Angel Face",
-      "year": 1952,
-      "imdbRating": 7.2,
-      "imdbVotes": 9721,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044789",
-      "title": "Kansas City Confidential",
-      "year": 1952,
-      "imdbRating": 7.3,
-      "imdbVotes": 8652,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045124",
-      "title": "Scandal Sheet",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 3681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044673",
-      "title": "The Green Glove",
-      "year": 1952,
-      "imdbRating": 6,
-      "imdbVotes": 979,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045161",
-      "title": "The Sniper",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 3994,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045267",
-      "title": "The Turning Point",
-      "year": 1952,
-      "imdbRating": 6.8,
-      "imdbVotes": 1862,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045256",
-      "title": "Tread Softly",
-      "year": 1952,
-      "imdbRating": 5.3,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044382",
-      "title": "The Atomic City",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 539,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0127017",
+    "tt0044314",
+    "tt0044418",
+    "tt0043397",
+    "tt0044357",
+    "tt0044789",
+    "tt0045124",
+    "tt0044673",
+    "tt0045161",
+    "tt0045267",
+    "tt0045256",
+    "tt0044382"
   ],
   "collections": [],
   "is_curated": true,

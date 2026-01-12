@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/spectre-of-edgar-allan-poe-1974",
+      "id": "spectre-of-edgar-allan-poe-1974",
       "title": "Spectre Of Edgar Allan Poe (1974)",
       "description": "Robert Walker Jr., Cesar Romero",
       "fileSize": 1264307938,
-      "id": "spectre-of-edgar-allan-poe-1974"
+      "addedAt": "2026-01-07T00:11:35.626Z",
+      "thumbnail": "https://archive.org/services/img/spectre-of-edgar-allan-poe-1974",
+      "collection": "feature_films",
+      "downloads": 519
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0070078",
-      "title": "From Beyond the Grave",
-      "year": 1974,
-      "imdbRating": 6.6,
-      "imdbVotes": 5561,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071722",
-      "title": "A Knife for the Ladies",
-      "year": 1974,
-      "imdbRating": 4.6,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173990",
-      "title": "Lord Shango",
-      "year": 1975,
-      "imdbRating": 5.3,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122722",
-      "title": "So Sad About Gloria",
-      "year": 1973,
-      "imdbRating": 4.8,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070270",
-      "title": "The Killing Kind",
-      "year": 1973,
-      "imdbRating": 6.1,
-      "imdbVotes": 1334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070628",
-      "title": "The Hourglass Sanatorium",
-      "year": 1973,
-      "imdbRating": 7.4,
-      "imdbVotes": 5614,
-      "language": "Polish, Yiddish, Hebrew, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211971",
-      "title": "Born for Hell",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 1026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074875",
-      "title": "Massacre at Central High",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 2967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0124012",
-      "title": "Morgiana",
-      "year": 1972,
-      "imdbRating": 7.2,
-      "imdbVotes": 1659,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069341",
-      "title": "Tales from the Crypt",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 13808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074691",
-      "title": "The Inugami Family",
-      "year": 1976,
-      "imdbRating": 7.2,
-      "imdbVotes": 1209,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074806",
-      "title": "The Little Girl Who Lives Down the Lane",
-      "year": 1976,
-      "imdbRating": 7,
-      "imdbVotes": 18888,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    }
+    "tt0070078",
+    "tt0071722",
+    "tt0173990",
+    "tt0122722",
+    "tt0070270",
+    "tt0070628",
+    "tt0211971",
+    "tt0074875",
+    "tt0124012",
+    "tt0069341",
+    "tt0074691",
+    "tt0074806"
   ],
   "collections": [],
   "is_curated": true,

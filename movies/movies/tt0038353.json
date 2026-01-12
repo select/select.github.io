@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Beware_",
+      "id": "Beware_",
       "title": "Beware",
       "description": "A young man (Louis Jordan) returns to his alma mater, Ware College, to save it from its unscrupulous namesake Benjamin Ware III (Milton Woods). In the process, he sweeps his collage sweetheart off her feet.",
       "fileSize": 1576511020,
-      "id": "Beware_"
+      "addedAt": "2026-01-07T00:06:14.038Z",
+      "thumbnail": "https://archive.org/services/img/Beware_",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 17443
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0127666",
-      "title": "Look-Out Sister",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038099",
-      "title": "A Song for Miss Julie",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039799",
-      "title": "Sarge Goes to College",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036861",
-      "title": "Ghost Catchers",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036928",
-      "title": "Hot Rhythm",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036922",
-      "title": "Hollywood Canteen",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 2553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040725",
-      "title": "The Red Shoes",
-      "year": 1948,
-      "imdbRating": 8.1,
-      "imdbVotes": 41515,
-      "language": "English, French, Russian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0040919",
-      "title": "Unfaithfully Yours",
-      "year": 1948,
-      "imdbRating": 7.5,
-      "imdbVotes": 6034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044853",
-      "title": "Love Island",
-      "year": 1952,
-      "imdbRating": 3.5,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139634",
-      "title": "Tall, Tan, and Terrific",
-      "year": 1946,
-      "imdbRating": 5.1,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031440",
-      "title": "Honeymoon in Bali",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 436,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0127666",
+    "tt0038099",
+    "tt0039799",
+    "tt0036861",
+    "tt0036928",
+    "tt0036922",
+    "tt0040725",
+    "tt0040919",
+    "tt0044853",
+    "tt0139634",
+    "tt0024808",
+    "tt0031440"
   ],
   "collections": [],
   "is_curated": true,

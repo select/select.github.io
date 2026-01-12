@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-two-roses",
+      "id": "silent-the-two-roses",
       "title": "The Two Roses",
       "fileSize": 176924862,
-      "id": "silent-the-two-roses"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-two-roses",
+      "language": "English",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 324
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1727546",
-      "title": "The Little Lamb: A Christmas Story",
-      "year": 1955,
-      "imdbRating": 5.3,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367144",
-      "title": "The Tiniest of Stars",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0427674",
-      "title": "The Garibaldi Boy",
-      "year": 1909,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002356",
-      "title": "The Melody of Love",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1059291",
-      "title": "Prussian Culture",
-      "year": 1908,
-      "imdbRating": 5.3,
-      "imdbVotes": 245,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1840952",
-      "title": "The Last Cartridge, an Incident of the Sepoy Rebellion in India",
-      "year": 1908,
-      "imdbRating": 4.7,
-      "imdbVotes": 102,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470339",
-      "title": "The Haunted Bedroom",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0330942",
-      "title": "The Struggle",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1727546",
+    "tt0367144",
+    "tt1207008",
+    "tt1113818",
+    "tt0427674",
+    "tt0417062",
+    "tt0002356",
+    "tt1059291",
+    "tt1840952",
+    "tt0470339",
+    "tt0463594",
+    "tt0330942"
   ],
   "collections": [],
   "is_curated": true,

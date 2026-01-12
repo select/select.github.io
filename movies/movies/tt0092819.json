@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/damned-if-you-dont-1987",
+      "id": "damned-if-you-dont-1987",
       "title": "Damned If You Don't (1987)",
       "description": "Damned If You Don't (1987)",
       "fileSize": 290288128,
-      "id": "damned-if-you-dont-1987"
+      "addedAt": "2026-01-07T00:07:51.627Z",
+      "thumbnail": "https://archive.org/services/img/damned-if-you-dont-1987",
+      "language": "eng",
+      "year": 1987,
+      "collection": "feature_films",
+      "downloads": 7141
     }
   ],
   "metadata": {
@@ -27,111 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7865096",
-      "title": "Take Off",
-      "year": 2016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001459",
-      "title": "Winning Back His Love",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002356",
-      "title": "The Melody of Love",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0000557",
-      "title": "Kathleen Mavourneen",
-      "year": 1906,
-      "imdbRating": 4.7,
-      "imdbVotes": 140,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228815",
-      "title": "Santa Claus vs. Cupid",
-      "year": 1915,
-      "imdbRating": 4.8,
-      "imdbVotes": 230,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002045",
-      "title": "The Ball Player and the Bandit",
-      "year": 1912,
-      "imdbRating": 4.3,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001740",
-      "title": "The Lonedale Operator",
-      "year": 1911,
-      "imdbRating": 6.5,
-      "imdbVotes": 1322,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002512",
-      "title": "The Sunbeam",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 412,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002784",
+    "tt0002795",
+    "tt0001978",
+    "tt0001371",
+    "tt7865096",
+    "tt0001459",
+    "tt0002356",
+    "tt0000557",
+    "tt0228815",
+    "tt0002045",
+    "tt0001740",
+    "tt0002512"
   ],
   "collections": [],
   "is_curated": true,

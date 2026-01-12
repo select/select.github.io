@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-house-with-closed-shutters",
+      "id": "silent-the-house-with-closed-shutters",
       "title": "The House with Closed Shutters",
       "fileSize": 415181691,
-      "id": "silent-the-house-with-closed-shutters"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-house-with-closed-shutters",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 289
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001913",
-      "title": "Swords and Hearts",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001388",
-      "title": "Rose o' Salem Town",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001227",
-      "title": "The Fugitive",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 254,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000895",
-      "title": "The Hessian Renegades",
-      "year": 1909,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001680",
-      "title": "His Trust: The Faithful Devotion and Self-Sacrifice of an Old Negro Servant",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 661,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001150",
-      "title": "A Child of the Ghetto",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001262",
-      "title": "In Life's Cycle",
-      "year": 1910,
-      "imdbRating": 5.2,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001340",
-      "title": "The Oath and the Man",
-      "year": 1910,
-      "imdbRating": 5.1,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001401",
-      "title": "The Sorrows of the Unfaithful",
-      "year": 1910,
-      "imdbRating": 6.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001439",
-      "title": "The Usurer",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 277,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001913",
+    "tt0001265",
+    "tt0001388",
+    "tt0001227",
+    "tt0000895",
+    "tt0001680",
+    "tt0001150",
+    "tt0001262",
+    "tt0001340",
+    "tt0001401",
+    "tt0001439",
+    "tt0001371"
   ],
   "collections": [],
   "is_curated": true,

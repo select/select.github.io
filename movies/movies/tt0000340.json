@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-uncle-josh-in-a-spooky-hotel",
+      "id": "silent-uncle-josh-in-a-spooky-hotel",
       "title": "Uncle Josh in a Spooky Hotel",
       "fileSize": 10487739,
-      "id": "silent-uncle-josh-in-a-spooky-hotel"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-uncle-josh-in-a-spooky-hotel",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 442
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000341",
-      "title": "Uncle Josh's Nightmare",
-      "year": 1900,
-      "imdbRating": 4.9,
-      "imdbVotes": 405,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000414",
-      "title": "Uncle Josh at the Moving Picture Show",
-      "year": 1902,
-      "imdbRating": 5.3,
-      "imdbVotes": 775,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000321",
-      "title": "The Mystic Swing",
-      "year": 1900,
-      "imdbRating": 4.9,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000346",
-      "title": "Another Job for the Undertaker",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 250,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231868",
-      "title": "Kansas Saloon Smashers",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 175,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0348794",
-      "title": "Why Mr. Nation Wants a Divorce",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 115,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245125",
-      "title": "Fun in a Bakery Shop",
-      "year": 1902,
-      "imdbRating": 5.9,
-      "imdbVotes": 430,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227536",
-      "title": "Up-to-Date Spiritualism",
-      "year": 1900,
-      "imdbRating": 5.7,
-      "imdbVotes": 373,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231639",
-      "title": "The Gay Shoe Clerk",
-      "year": 1903,
-      "imdbRating": 5.7,
-      "imdbVotes": 1218,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477387",
-      "title": "Turning the Tables",
-      "year": 1903,
-      "imdbRating": 4.7,
-      "imdbVotes": 158,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232932",
-      "title": "What Happened in the Tunnel",
-      "year": 1903,
-      "imdbRating": 5.7,
-      "imdbVotes": 369,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000341",
+    "tt0000414",
+    "tt0000301",
+    "tt0000321",
+    "tt0000346",
+    "tt0231868",
+    "tt0348794",
+    "tt0245125",
+    "tt0227536",
+    "tt0231639",
+    "tt0477387",
+    "tt0232932"
   ],
   "collections": [],
   "is_curated": true,

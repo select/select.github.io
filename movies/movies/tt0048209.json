@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/inside-detroit-1956-",
+      "id": "inside-detroit-1956-",
       "title": "Inside Detroit (1956)",
       "description": "Dennis O’ Keefe, Pat O’ Brien",
       "fileSize": 1533888995,
-      "id": "inside-detroit-1956-"
+      "addedAt": "2026-01-07T00:08:54.187Z",
+      "thumbnail": "https://archive.org/services/img/inside-detroit-1956-",
+      "collection": "feature_films",
+      "downloads": 1067
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0045463",
-      "title": "The 49th Man",
-      "year": 1953,
-      "imdbRating": 5.9,
-      "imdbVotes": 208,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047934",
-      "title": "Chicago Syndicate",
-      "year": 1955,
-      "imdbRating": 6.5,
-      "imdbVotes": 661,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049693",
-      "title": "Rumble on the Docks",
-      "year": 1956,
-      "imdbRating": 5.6,
-      "imdbVotes": 288,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050365",
-      "title": "Escape from San Quentin",
-      "year": 1957,
-      "imdbRating": 6.2,
-      "imdbVotes": 96,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047232",
-      "title": "The Miami Story",
-      "year": 1954,
-      "imdbRating": 6.1,
-      "imdbVotes": 398,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045219",
-      "title": "Target Hong Kong",
-      "year": 1953,
-      "imdbRating": 5.7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134771",
-      "title": "Black River",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 1242,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1248984",
-      "title": "I Am Waiting",
-      "year": 1957,
-      "imdbRating": 7,
-      "imdbVotes": 1022,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048108",
-      "title": "Guns Don't Argue",
-      "year": 1957,
-      "imdbRating": 4.9,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0051783",
-      "title": "Invisible Avenger",
-      "year": 1958,
-      "imdbRating": 5.3,
-      "imdbVotes": 256,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047475",
-      "title": "The Shanghai Story",
-      "year": 1954,
-      "imdbRating": 5.8,
-      "imdbVotes": 225,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0171344",
-      "title": "Girl Gang",
-      "year": 1954,
-      "imdbRating": 4.6,
-      "imdbVotes": 367,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0045463",
+    "tt0047934",
+    "tt0049693",
+    "tt0050365",
+    "tt0047232",
+    "tt0045219",
+    "tt0134771",
+    "tt1248984",
+    "tt0048108",
+    "tt0051783",
+    "tt0047475",
+    "tt0171344"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dream-cafe_1927",
+      "id": "dream-cafe_1927",
       "title": "Dream Cafe",
       "fileSize": 373796605,
-      "id": "dream-cafe_1927"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dream-cafe_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 604
     }
   ],
   "metadata": {
@@ -26,106 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0430452",
-      "title": "Paul Tremaine and His Aristocrats",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0778617",
-      "title": "Arthur Conan Doyle",
-      "year": 1927,
-      "imdbRating": 8.1,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5503754",
-      "title": "General Motors Around the World",
-      "year": 1927,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367593",
-      "title": "Character Studies",
-      "year": 1927,
-      "imdbRating": 6.5,
-      "imdbVotes": 275,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147118",
-      "title": "One Man Dog",
-      "year": 1927,
-      "imdbRating": 5.9,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430477",
-      "title": "The Police Quartette",
-      "year": 1927,
-      "imdbRating": 5.6,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179680",
-      "title": "The Black Bottom",
-      "year": 1927,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893190",
-      "title": "A Colorful Sermon",
-      "year": 1928,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3251338",
-      "title": "A Girl Revue: First Edition",
-      "year": 1928,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0430452",
+    "tt0312544",
+    "tt0778617",
+    "tt5503754",
+    "tt0367593",
+    "tt0146584",
+    "tt0147118",
+    "tt0430477",
+    "tt0179680",
+    "tt1893190",
+    "tt3251338",
+    "tt0309243"
   ],
   "collections": [],
   "is_curated": true,

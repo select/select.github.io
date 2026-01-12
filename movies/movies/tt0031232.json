@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/disbarred-1939",
+      "id": "disbarred-1939",
       "title": "Disbarred (1939)",
       "description": "Robert Preston, Sidney Toler",
       "fileSize": 1479034281,
-      "id": "disbarred-1939"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/disbarred-1939",
+      "collection": "feature_films",
+      "downloads": 773
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033582",
-      "title": "The Face Behind the Mask",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034959",
-      "title": "Lady Gangster",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 846,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0030039",
-      "title": "Dangerous to Know",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 266,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030322",
-      "title": "King of Alcatraz",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041269",
-      "title": "The Crooked Way",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042618",
-      "title": "Johnny One-Eye",
-      "year": 1950,
-      "imdbRating": 5.5,
-      "imdbVotes": 161,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030266",
-      "title": "Illegal Traffic",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032022",
-      "title": "They Made Me a Criminal",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 2630,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031179",
-      "title": "Convict's Code",
-      "year": 1939,
-      "imdbRating": 5.4,
-      "imdbVotes": 299,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031465",
-      "title": "I Stole a Million",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 120,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031259",
-      "title": "Dust Be My Destiny",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 1008,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0033582",
+    "tt0034959",
+    "tt0030039",
+    "tt0030322",
+    "tt0041269",
+    "tt0042618",
+    "tt0030266",
+    "tt0028770",
+    "tt0032022",
+    "tt0031179",
+    "tt0031465",
+    "tt0031259"
   ],
   "collections": [],
   "is_curated": true,

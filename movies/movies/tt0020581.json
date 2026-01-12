@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/where-east-is-east_1929",
+      "id": "where-east-is-east_1929",
       "title": "Where East Is East",
       "fileSize": 3385247378,
-      "id": "where-east-is-east_1929"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/where-east-is-east_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 3437
     }
   ],
   "metadata": {
@@ -26,117 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018528",
-      "title": "The Unknown",
-      "year": 1927,
-      "imdbRating": 7.7,
-      "imdbVotes": 9487,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0016473",
-      "title": "The Unholy Three",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 2348,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0022002",
-      "title": "The Iron Man",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 348,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138560",
-      "title": "Korkein voitto",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012538",
-      "title": "Outside the Law",
-      "year": 1920,
-      "imdbRating": 6.5,
-      "imdbVotes": 770,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018697",
-      "title": "The Big City",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019563",
-      "title": "West of Zanzibar",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 2019,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019585",
-      "title": "The Wind",
-      "year": 1928,
-      "imdbRating": 8,
-      "imdbVotes": 7309,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018097",
-      "title": "London After Midnight",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 1495,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020074",
-      "title": "Lady of the Pavements",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020492",
-      "title": "The Thirteenth Chair",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 745,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018528",
+    "tt0016473",
+    "tt0022002",
+    "tt0138560",
+    "tt0012538",
+    "tt0018972",
+    "tt0019563",
+    "tt0019585",
+    "tt0018097",
+    "tt0020074",
+    "tt0020492",
+    "tt0020959"
   ],
   "collections": [],
   "is_curated": true,

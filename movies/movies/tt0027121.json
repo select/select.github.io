@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tomorrows-youth-1934",
+      "id": "tomorrows-youth-1934",
       "title": "Tomorrow's Youth (1934)",
       "description": "A look at how his parents' divorce affects the life of a young boy. Watch on RetroFlix:  https://retroflix.org/tomorrows-youth-1934/",
       "fileSize": 379754628,
-      "id": "tomorrows-youth-1934"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tomorrows-youth-1934",
+      "language": "eng",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 39
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tomorrows_youth",
+      "id": "tomorrows_youth",
       "title": "Tomorrow's Youth",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4910007667,
-      "id": "tomorrows_youth"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tomorrows_youth",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 50793
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=yIyJABJbBSs",
+      "id": "yIyJABJbBSs",
       "title": "Tomorrow's Youth (1934) DICKIE MOORE",
       "description": "Stars: Dickie Moore, Martha Sleeper, John Miljan\nDirector: Charles Lamont\n\nIn this unforgettable tearjerker, a young boy's life is torn apart when his mother walks out on his philandering father.",
-      "id": "yIyJABJbBSs",
+      "addedAt": "2025-12-26T23:46:06.248Z",
+      "thumbnail": "https://i.ytimg.com/vi/yIyJABJbBSs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhfIF8oXzAP&rs=AOn4CLAdbCSMogNusLsahJevCjv-YgsDJA",
+      "duration": 3626,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +60,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027230",
-      "title": "The World Accuses",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027896",
-      "title": "The Little Red Schoolhouse",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027026",
-      "title": "Sons of Steel",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025024",
-      "title": "The Curtain Falls",
-      "year": 1934,
-      "imdbRating": 6,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026213",
-      "title": "Circumstantial Evidence",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 112,
-      "language": "Latin, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026412",
-      "title": "The Girl Who Came Back",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 80,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027316",
-      "title": "August Weekend",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028186",
-      "title": "Ring Around the Moon",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027501",
-      "title": "The Dark Hour",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027348",
-      "title": "Below the Deadline",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027863",
-      "title": "Lady Luck",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027230",
+    "tt0027896",
+    "tt0027026",
+    "tt0025024",
+    "tt0026213",
+    "tt0026412",
+    "tt0027316",
+    "tt0027406",
+    "tt0028186",
+    "tt0027501",
+    "tt0027348",
+    "tt0027863"
   ],
   "collections": [],
   "is_curated": true,

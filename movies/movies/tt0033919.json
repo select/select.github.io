@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/moonlight-in-hawaii-1941",
+      "id": "moonlight-in-hawaii-1941",
       "title": "Moonlight In Hawaii (1941)",
       "description": "Jane Frazee, Johnny Downs, Leon Errol",
       "fileSize": 868723745,
-      "id": "moonlight-in-hawaii-1941"
+      "addedAt": "2026-01-07T00:09:54.330Z",
+      "thumbnail": "https://archive.org/services/img/moonlight-in-hawaii-1941",
+      "collection": "feature_films",
+      "downloads": 911
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032289",
-      "title": "Buck Benny Rides Again",
-      "year": 1940,
-      "imdbRating": 6.9,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038046",
-      "title": "Salome, Where She Danced",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 358,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029745",
-      "title": "Wallaby Jim of the Islands",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042179",
-      "title": "Abbott and Costello in the Foreign Legion",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 3195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047795",
-      "title": "Abbott and Costello Meet the Mummy",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 6600,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048290",
-      "title": "Lay That Rifle Down",
-      "year": 1955,
-      "imdbRating": 5.7,
-      "imdbVotes": 121,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036762",
-      "title": "Dixie Jamboree",
-      "year": 1944,
-      "imdbRating": 4.6,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031261",
-      "title": "East Side of Heaven",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034009",
-      "title": "Pedro soll hängen",
-      "year": 1941,
-      "imdbRating": 4.2,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032511",
-      "title": "Gasbags",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 182,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034831",
-      "title": "Harvard, Here I Come!",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033787",
-      "title": "King of the Zombies",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 2578,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0032289",
+    "tt0038046",
+    "tt0029745",
+    "tt0042179",
+    "tt0047795",
+    "tt0048290",
+    "tt0036762",
+    "tt0031261",
+    "tt0034009",
+    "tt0032511",
+    "tt0034831",
+    "tt0033787"
   ],
   "collections": [],
   "is_curated": true,

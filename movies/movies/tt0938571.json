@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-les-chalands",
+      "id": "silent-les-chalands",
       "title": "Les chalands",
       "fileSize": 136994115,
-      "id": "silent-les-chalands"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-les-chalands",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 237
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139934",
-      "title": "Le circuit de l'alcool",
-      "year": 1912,
-      "imdbRating": 5.4,
-      "imdbVotes": 47,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1926270",
-      "title": "Jeux D'Enfants",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0450089",
-      "title": "Tom Thumb",
-      "year": 1909,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001510",
-      "title": "Bobby, the Coward",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001615",
-      "title": "Fisher Folks",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001499",
-      "title": "The Battle",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1207008",
+    "tt1113818",
+    "tt0139934",
+    "tt1926270",
+    "tt0450089",
+    "tt0001987",
+    "tt0001510",
+    "tt0001593",
+    "tt0001915",
+    "tt0001615",
+    "tt0001753",
+    "tt0001499"
   ],
   "collections": [],
   "is_curated": true,

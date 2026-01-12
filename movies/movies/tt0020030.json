@@ -6,50 +6,80 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/iron_mask",
+      "id": "iron_mask",
       "title": "The Iron Mask",
       "description": "A swashbuckling Alexandre Dumas adventure featuring Douglas Fairbanks. You can find more information regarding this film on its IMDb page .",
       "fileSize": 3431139573,
-      "id": "iron_mask"
+      "addedAt": "2026-01-07T00:08:54.187Z",
+      "thumbnail": "https://archive.org/services/img/iron_mask",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 412033
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheIronMask",
+      "id": "TheIronMask",
       "title": "The Iron Mask",
       "description": "King Louis XIII of France is thrilled to have born to him a son - an heir to the throne. But when the queen delivers a twin, Cardinal Richelieu sees the second son as a potential for revolution, and has him sent off to Spain to be raised in secret to ensure a peaceful future for France. - IMDB Description",
       "fileSize": 1868063600,
-      "id": "TheIronMask"
+      "addedAt": "2026-01-07T00:07:05.033Z",
+      "thumbnail": "https://archive.org/services/img/TheIronMask",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 43717
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ironmask4k",
+      "id": "ironmask4k",
       "title": "The Iron Mask (1929) [Colorized, 4K, 60FPS]",
       "description": "The Iron Mask is a 1929 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com    Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io    A.I. Upscaling to 4K:  https://ffmpeg.org    GPU: Google Colab.  This movie is in public domain category and it is Copyright free.",
       "fileSize": 5208023245,
-      "id": "ironmask4k"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/ironmask4k",
+      "collection": "feature_films",
+      "downloads": 179
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1929-the-iron-mask_202506",
+      "id": "1929-the-iron-mask_202506",
       "title": "The Iron Mask (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. As one of the few films where star Douglas Fairbanks had spoken parts, The Iron Mask is viewed as one of his finest roles. While the stunts take a step back from his earlier films, this sequel to The Three Musketeers focuses on the character of D'Artagnan and seemingly benefits from it.",
       "fileSize": 3273934946,
-      "id": "1929-the-iron-mask_202506"
+      "addedAt": "2026-01-07T00:06:00.052Z",
+      "thumbnail": "https://archive.org/services/img/1929-the-iron-mask_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 142
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-iron-mask-1929_202505",
+      "id": "the-iron-mask-1929_202505",
       "title": "The Iron Mask (1929)",
       "description": "King Louis XIII of France is thrilled to have born to him a son - an heir to the throne. But when the queen delivers a twin, Cardinal Richelieu sees the second son as a potential for revolution, and has him sent off to Spain to be raised in secret to ensure a peaceful future for France. Alas, keeping the secret means sending Constance, lover of D'Artagnan, off to a convent. D'Artagnan hears of this and rallies the Musketeers in a bid to rescue her. Unfortunately, Richelieu out-smarts the Musketeers and banishes them forever. Watch on RetroFlix:  https://retroflix.org/the-iron-mask-1929/",
       "fileSize": 453304228,
-      "id": "the-iron-mask-1929_202505"
+      "addedAt": "2026-01-07T00:12:10.589Z",
+      "thumbnail": "https://archive.org/services/img/the-iron-mask-1929_202505",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 79
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/THEIRONMASK1929DouglasFairbanksWMusicTrack",
+      "id": "THEIRONMASK1929DouglasFairbanksWMusicTrack",
       "title": "THE IRON MASK ( 1929) Douglas Fairbanks; W Music Track",
       "description": "THE IRON MASK (1929) This is the 1952 re-release version but with music replacing the narration  track. The original narrated 1952 version, with Fairbanks Jr. doing the  honors, can of course already be found on both YouTube and the Internet  Archive. Starring: Douglas Fairbanks Sr., Marguerite De La Motte, Léon Bary, Tiny  Sandford, Gino Corrado, Rolfe Sedan, William Bakewell, Belle Bennett,  Dorothy Revier, Ullrich Haupt Directed by Allan Dwan William Thomas Sherman, wts@gunjones.com, http://www.mn-hp.com",
       "fileSize": 609019405,
-      "id": "THEIRONMASK1929DouglasFairbanksWMusicTrack"
+      "addedAt": "2026-01-07T00:06:58.270Z",
+      "thumbnail": "https://archive.org/services/img/THEIRONMASK1929DouglasFairbanksWMusicTrack",
+      "collection": "feature_films",
+      "downloads": 1812
     }
   ],
   "metadata": {
@@ -67,114 +97,18 @@
     "Awards": "2 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0250464",
-      "title": "Kastus Kalinovskiy",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017667",
-      "title": "The Beloved Rogue",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050903",
-      "title": "The River's Edge",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 1402,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017841",
-      "title": "East Side, West Side",
-      "year": 1927,
-      "imdbRating": 7.1,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013556",
-      "title": "Robin Hood",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 2583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055867",
-      "title": "Constantine and the Cross",
-      "year": 1961,
-      "imdbRating": 5.8,
-      "imdbVotes": 585,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019639",
-      "title": "Andreas Hofer",
-      "year": 1929,
-      "imdbRating": 3.6,
-      "imdbVotes": 18,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060218",
-      "title": "Cast a Giant Shadow",
-      "year": 1966,
-      "imdbRating": 6.3,
-      "imdbVotes": 4231,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051398",
-      "title": "The Barbarian and the Geisha",
-      "year": 1958,
-      "imdbRating": 5.7,
-      "imdbVotes": 2244,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070250",
-      "title": "Juan Moreira",
-      "year": 1973,
-      "imdbRating": 7.4,
-      "imdbVotes": 498,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057225",
-      "title": "Kings of the Sun",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 2338,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0250464",
+    "tt0017667",
+    "tt0050903",
+    "tt0017841",
+    "tt0003740",
+    "tt0013556",
+    "tt0055867",
+    "tt0019639",
+    "tt0060218",
+    "tt0051398",
+    "tt0070250",
+    "tt0057225"
   ],
   "collections": [],
   "is_curated": true,

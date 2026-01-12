@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-wishing-ring-an-idyll-of-old-england",
+      "id": "silent-the-wishing-ring-an-idyll-of-old-england",
       "title": "The Wishing Ring: An Idyll of Old England",
       "fileSize": 995986239,
-      "id": "silent-the-wishing-ring-an-idyll-of-old-england"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-wishing-ring-an-idyll-of-old-england",
+      "language": "English",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 645
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008443",
-      "title": "The Poor Little Rich Girl",
-      "year": 1917,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004872",
-      "title": "Alias Jimmy Valentine",
-      "year": 1915,
-      "imdbRating": 6.6,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006826",
-      "title": "Hoodoo Ann",
-      "year": 1916,
-      "imdbRating": 5.9,
-      "imdbVotes": 903,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010844",
-      "title": "Victory",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 473,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002198",
-      "title": "Le friquet",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 29,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013332",
-      "title": "Lorna Doone",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0493556",
-      "title": "La bergère d'Ivry",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3101386",
-      "title": "The Christmas Spirit",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0008443",
+    "tt0004872",
+    "tt0006826",
+    "tt0010844",
+    "tt0002198",
+    "tt0013332",
+    "tt0493556",
+    "tt0032599",
+    "tt0027311",
+    "tt0033891",
+    "tt0027286",
+    "tt3101386"
   ],
   "collections": [],
   "is_curated": true,

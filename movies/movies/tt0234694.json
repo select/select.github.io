@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-serenade-by-proxy",
+      "id": "silent-a-serenade-by-proxy",
       "title": "A Serenade by Proxy",
       "fileSize": 390216506,
-      "id": "silent-a-serenade-by-proxy"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-serenade-by-proxy",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 213
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0214467",
-      "title": "All on Account of a Transfer",
-      "year": 1913,
-      "imdbRating": 5.3,
-      "imdbVotes": 95,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002532",
-      "title": "The Totville Eye",
-      "year": 1912,
-      "imdbRating": 5.9,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0421917",
-      "title": "Cabman Kate",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215495",
-      "title": "Algie, the Miner",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 568,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003805",
-      "title": "Cruel, Cruel Love",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 1477,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310891",
-      "title": "Le chrysanthème rouge",
-      "year": 1912,
-      "imdbRating": 6.5,
-      "imdbVotes": 65,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464747",
-      "title": "Those Bitter Sweets",
-      "year": 1915,
-      "imdbRating": 4.6,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006414",
-      "title": "Behind the Screen",
-      "year": 1916,
-      "imdbRating": 6.9,
-      "imdbVotes": 3173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007567",
-      "title": "Wife and Auto Trouble",
-      "year": 1916,
-      "imdbRating": 5.3,
-      "imdbVotes": 197,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001458",
-      "title": "Wilful Peggy",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003177",
-      "title": "A Muddy Romance",
-      "year": 1913,
-      "imdbRating": 4.8,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0214467",
+    "tt0002532",
+    "tt0421917",
+    "tt0215495",
+    "tt0003805",
+    "tt0310891",
+    "tt0464747",
+    "tt0006414",
+    "tt0007567",
+    "tt0001458",
+    "tt0001002",
+    "tt0003177"
   ],
   "collections": [],
   "is_curated": true,

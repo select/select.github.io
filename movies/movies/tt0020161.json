@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/men-owar_1929",
+      "id": "men-owar_1929",
       "title": "Men O'War",
       "fileSize": 1555128554,
-      "id": "men-owar_1929"
+      "addedAt": "2026-01-07T00:09:46.433Z",
+      "thumbnail": "https://archive.org/services/img/men-owar_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 361
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019640",
-      "title": "Angora Love",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019670",
-      "title": "Bacon Grabbers",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 786,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019688",
-      "title": "Big Business",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 3445,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019686",
-      "title": "Berth Marks",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 1607,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019832",
-      "title": "Double Whoopee",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 1327,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019504",
-      "title": "Two Tars",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1666,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023251",
-      "title": "The Music Box",
-      "year": 1932,
-      "imdbRating": 7.9,
-      "imdbVotes": 8136,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0018368",
-      "title": "The Second 100 Years",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 918,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019715",
-      "title": "Bouncing Babies",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019716",
-      "title": "Boxing Gloves",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233415",
-      "title": "Cat, Dog & Co.",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 66,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020094",
-      "title": "Liberty",
-      "year": 1929,
-      "imdbRating": 7.5,
-      "imdbVotes": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019640",
+    "tt0019670",
+    "tt0019688",
+    "tt0019686",
+    "tt0019832",
+    "tt0019504",
+    "tt0023251",
+    "tt0018368",
+    "tt0019715",
+    "tt0019716",
+    "tt0233415",
+    "tt0020094"
   ],
   "collections": [],
   "is_curated": true,

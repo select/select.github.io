@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WilfulPeggy",
+      "id": "WilfulPeggy",
       "title": "\"Wilful Peggy\" (1910) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"Wilful Peggy\" is a short comedy. We have included this film in our program to illustrate the work and contributions of Billy Bitzer, a star of Silent Hall of Fame. Directed by                          D.W. Griffith Produced by                        Biograph Company Scenario by                          Frank E. Woods Cinematography                Billy Bitzer Starring                               Mary Pickford, Henry B. Walthall, Clara T. Bracy, Claire McDowell Distributed by                     Biograph Company Release date                        August 25, 1910 Running time                      13 min. Country                               United States Language                             Silent, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 227320986,
-      "id": "WilfulPeggy"
+      "addedAt": "2026-01-07T00:07:18.436Z",
+      "thumbnail": "https://archive.org/services/img/WilfulPeggy",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 2314
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-wilful-peggy",
+      "id": "silent-wilful-peggy",
       "title": "Wilful Peggy",
       "fileSize": 157272031,
-      "id": "silent-wilful-peggy"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-wilful-peggy",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 796
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001333",
-      "title": "Muggsy's First Sweetheart",
-      "year": 1910,
-      "imdbRating": 5.6,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000800",
-      "title": "The Awakening",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000770",
-      "title": "The Taming of the Shrew",
-      "year": 1908,
-      "imdbRating": 5.4,
-      "imdbVotes": 172,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002197",
-      "title": "Friends",
-      "year": 1912,
-      "imdbRating": 5.5,
-      "imdbVotes": 328,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001452",
-      "title": "What the Daisy Said",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 216,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001292",
-      "title": "Love Among the Roses",
-      "year": 1910,
-      "imdbRating": 5.2,
-      "imdbVotes": 72,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001387",
-      "title": "A Romance of the Western Hills",
-      "year": 1910,
-      "imdbRating": 6.5,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001054",
-      "title": "Sweet and Twenty",
-      "year": 1909,
-      "imdbRating": 5.8,
-      "imdbVotes": 37,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000877",
-      "title": "Getting Even",
-      "year": 1909,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001371",
+    "tt0001333",
+    "tt0001002",
+    "tt0000800",
+    "tt0000770",
+    "tt0002197",
+    "tt0001452",
+    "tt0001292",
+    "tt0001387",
+    "tt0001054",
+    "tt0001978",
+    "tt0000877"
   ],
   "collections": [],
   "is_curated": true,

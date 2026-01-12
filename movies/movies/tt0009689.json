@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-thats-him",
+      "id": "silent-thats-him",
       "title": "That's Him",
       "fileSize": 866309241,
-      "id": "silent-thats-him"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-thats-him",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 656
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/thats-him-1918-directed-by-gilbert-pratt",
+      "id": "thats-him-1918-directed-by-gilbert-pratt",
       "title": "That's Him (1918) Directed By Gilbert Pratt",
       "description": "That's Him Directed by Gilbert Pratt Produced by Hal Roach Starring Harold Lloyd Release date August 4, 1918 Running time 11 minutes Country United States Languages Silent English intertitles That's Him is a 1918 American short comedy film featuring Harold Lloyd . The film survives in a 28mm print down. [ 1 ]   Plot Our newlywed hero is about to embark on a journey when he realizes that he has lost the train tickets. A crook knocks him down and switches clothes with him. The assailant’s victims pursue our man while his bride is led to believe that she has been deserted. Cast Harold Lloyd Snub Pollard Bebe Daniels Lige Conley William Gillespie Helen Gilmore Lew Harvey Gus Leonard Marie Mosquini James Parrott Charles Stevenson References \"Progressive Silent Film List: That's Him\" . Silent Era . Retrieved January 10, 2009 .",
       "fileSize": 128674819,
-      "id": "thats-him-1918-directed-by-gilbert-pratt"
+      "addedAt": "2026-01-07T00:11:46.531Z",
+      "thumbnail": "https://archive.org/services/img/thats-him-1918-directed-by-gilbert-pratt",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 40
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008844",
-      "title": "Are Crooks Dishonest?",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 372,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009234",
-      "title": "It's a Wild Life",
-      "year": 1918,
-      "imdbRating": 5.6,
-      "imdbVotes": 34,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009434",
-      "title": "The Non-Stop Kid",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 297,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010181",
-      "title": "Going! Going! Gone!",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 69,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009099",
-      "title": "A Gasoline Wedding",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 246,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009071",
-      "title": "Fireman Save My Child",
-      "year": 1918,
-      "imdbRating": 5.5,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009082",
-      "title": "Follow the Crowd",
-      "year": 1918,
-      "imdbRating": 5.9,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009171",
-      "title": "Hey There",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 182,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009316",
-      "title": "Look Pleasant, Please",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 240,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009678",
-      "title": "Take a Chance",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 615,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009806",
-      "title": "Why Pick on Me?",
-      "year": 1918,
-      "imdbRating": 6.3,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009631",
-      "title": "Somewhere in Turkey",
-      "year": 1918,
-      "imdbRating": 4.2,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0008844",
+    "tt0009234",
+    "tt0009434",
+    "tt0010181",
+    "tt0009099",
+    "tt0009071",
+    "tt0009082",
+    "tt0009171",
+    "tt0009316",
+    "tt0009678",
+    "tt0009806",
+    "tt0009631"
   ],
   "collections": [],
   "is_curated": true,

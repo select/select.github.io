@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-le-circuit-de-lalcool",
+      "id": "silent-le-circuit-de-lalcool",
       "title": "Le circuit de l'alcool",
       "fileSize": 30803043,
-      "id": "silent-le-circuit-de-lalcool"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-le-circuit-de-lalcool",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 239
     }
   ],
   "metadata": {
@@ -26,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1926270",
-      "title": "Jeux D'Enfants",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938571",
-      "title": "Les chalands",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 39,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1113818",
-      "title": "Richard the Lion-Hearted",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002054",
-      "title": "A Beast at Bay",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002082",
-      "title": "The Burglar's Dilemma",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 429,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002098",
-      "title": "Children Who Labor",
-      "year": 1912,
-      "imdbRating": 5.9,
-      "imdbVotes": 152,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002143",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 893,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002121",
-      "title": "A Cry for Help",
-      "year": 1912,
-      "imdbRating": 4.9,
-      "imdbVotes": 49,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002342",
-      "title": "Man's Genesis",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1207008",
+    "tt1926270",
+    "tt0938571",
+    "tt1113818",
+    "tt1223220",
+    "tt0002381",
+    "tt0002054",
+    "tt0002082",
+    "tt0002098",
+    "tt0002143",
+    "tt0002121",
+    "tt0002342"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_4131",
+      "id": "dipwad2_zoho_4131",
       "title": "413",
       "description": "413",
       "fileSize": 4336281513,
-      "id": "dipwad2_zoho_4131"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_4131",
+      "collection": "feature_films",
+      "downloads": 1160
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_413",
+      "id": "rog561b_netzero_413",
       "title": "413",
       "description": "413",
       "fileSize": 1932930409,
-      "id": "rog561b_netzero_413"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_413",
+      "collection": "feature_films",
+      "downloads": 1149
     }
   ],
   "metadata": {
@@ -35,123 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9211804",
-      "title": "Quick",
-      "year": 2019,
-      "imdbRating": 6.7,
-      "imdbVotes": 4532,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9552162",
-      "title": "Kakegurui: The Movie",
-      "year": 2019,
-      "imdbRating": 6.1,
-      "imdbVotes": 818,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5563718",
-      "title": "Haphazard",
-      "year": 2019,
-      "imdbRating": 6.4,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt7336182",
-      "title": "Outback",
-      "year": 2019,
-      "imdbRating": 5,
-      "imdbVotes": 2479,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4669974",
-      "title": "Foster Boy",
-      "year": 2019,
-      "imdbRating": 6.4,
-      "imdbVotes": 902,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7043534",
-      "title": "General Commander",
-      "year": 2019,
-      "imdbRating": 3.1,
-      "imdbVotes": 2122,
-      "language": "English, Italian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8332666",
-      "title": "Tone-Deaf",
-      "year": 2019,
-      "imdbRating": 4.9,
-      "imdbVotes": 3237,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt8561690",
-      "title": "4x4",
-      "year": 2019,
-      "imdbRating": 5.7,
-      "imdbVotes": 2994,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt9312100",
-      "title": "A Model Kidnapping",
-      "year": 2019,
-      "imdbRating": 4.3,
-      "imdbVotes": 671,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4857806",
-      "title": "Rapid Eye Movement",
-      "year": 2019,
-      "imdbRating": 4.4,
-      "imdbVotes": 306,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt9364210",
-      "title": "Fatal Getaway",
-      "year": 2019,
-      "imdbRating": 4.5,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt9214844",
+    "tt9211804",
+    "tt9552162",
+    "tt5563718",
+    "tt7336182",
+    "tt4669974",
+    "tt7043534",
+    "tt8332666",
+    "tt8561690",
+    "tt9312100",
+    "tt4857806",
+    "tt9364210"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/china-smith-1x-12-kaprielian-cipher",
+      "id": "china-smith-1x-12-kaprielian-cipher",
       "title": "China Smith",
       "description": "Dan Duryea",
       "fileSize": 10330472895,
-      "id": "china-smith-1x-12-kaprielian-cipher"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/china-smith-1x-12-kaprielian-cipher",
+      "collection": "feature_films",
+      "downloads": 1238
     }
   ],
   "metadata": {
@@ -26,115 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2870648",
-      "title": "Amy",
-      "year": 2015,
-      "imdbRating": 7.8,
-      "imdbVotes": 56532,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2973216",
-      "title": "922: From Academic Watch to Academic WOW!",
-      "year": 2013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3457988",
-      "title": "Ein blinder Held - Die Liebe des Otto Weidt",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 75,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4327424",
-      "title": "William the Conqueror",
-      "year": 2014,
-      "imdbRating": 6.9,
-      "imdbVotes": 27,
-      "language": "French, Latin, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0770802",
-      "title": "Samsara",
-      "year": 2011,
-      "imdbRating": 8.4,
-      "imdbVotes": 39134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2268622",
-      "title": "808",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 727,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2614776",
-      "title": "City of Gold",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1885205",
-      "title": "Biebermania!",
-      "year": 2011,
-      "imdbRating": 1,
-      "imdbVotes": 2072,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1765782",
-      "title": "Depeche Mode: Tour of the Universe - Barcelona 20/21.11.09",
-      "year": 2010,
-      "imdbRating": 8.3,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3123418",
-      "title": "Bizarre: A Circus Story",
-      "year": 2016,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8020616",
-      "title": "Buster Keaton, the Genius Destroyed by Hollywood",
-      "year": 2016,
-      "imdbRating": 7.2,
-      "imdbVotes": 228,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt2870648",
+    "tt2973216",
+    "tt4189440",
+    "tt3457988",
+    "tt4327424",
+    "tt0770802",
+    "tt2268622",
+    "tt2614776",
+    "tt1885205",
+    "tt1765782",
+    "tt3123418",
+    "tt8020616"
   ],
   "collections": [],
   "is_curated": true,

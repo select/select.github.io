@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ProjectKill",
+      "id": "ProjectKill",
       "title": "Project: Kill",
       "description": "A former government assassin flees a mind-control program in the Philippines, pursued by his ex-partner, the local police and Asian gangsters (from IMDB)",
       "fileSize": 2111885553,
-      "id": "ProjectKill"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/ProjectKill",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 87962
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ProjectKill_201511",
+      "id": "ProjectKill_201511",
       "title": "Project Kill",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1737671754,
-      "id": "ProjectKill_201511"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/ProjectKill_201511",
+      "collection": "feature_films",
+      "downloads": 3701
     }
   ],
   "metadata": {
@@ -35,116 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074836",
-      "title": "Mad Dog Morgan",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074845",
-      "title": "Mako: The Jaws of Death",
-      "year": 1976,
-      "imdbRating": 4.2,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075263",
-      "title": "St. Ives",
-      "year": 1976,
-      "imdbRating": 6.2,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0075188",
-      "title": "The Sell-Out",
-      "year": 1976,
-      "imdbRating": 4.9,
-      "imdbVotes": 620,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073774",
-      "title": "The Swiss Conspiracy",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 539,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308503",
-      "title": "La ley del monte",
-      "year": 1976,
-      "imdbRating": 7.2,
-      "imdbVotes": 105,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0165174",
-      "title": "Dao hun",
-      "year": 1977,
-      "imdbRating": 6.3,
-      "imdbVotes": 51,
-      "language": "Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079292",
-      "title": "Da wu shi yu xiao piao ke",
-      "year": 1977,
-      "imdbRating": 5.3,
-      "imdbVotes": 150,
-      "language": "Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073396",
-      "title": "Mitchell",
-      "year": 1975,
-      "imdbRating": 2.8,
-      "imdbVotes": 4952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076300",
-      "title": "Last of the Mohicans",
-      "year": 1977,
-      "imdbRating": 6.1,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072231",
-      "title": "At Home Among Strangers, a Stranger Among His Own",
-      "year": 1974,
-      "imdbRating": 7.4,
-      "imdbVotes": 3763,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0074634",
+    "tt0074836",
+    "tt0074845",
+    "tt0075263",
+    "tt0075188",
+    "tt0073774",
+    "tt0308503",
+    "tt0165174",
+    "tt0079292",
+    "tt0073396",
+    "tt0076300",
+    "tt0072231"
   ],
   "collections": [],
   "is_curated": true,

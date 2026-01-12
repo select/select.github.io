@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-tripper-dvdrip_202509",
+      "id": "the-tripper-dvdrip_202509",
       "title": "The Tripper",
       "description": "A Ronald Reagan-obsessed serial killer targets a bunch of hippies who are heading to a weekend-long concert.",
       "fileSize": 1288232591,
-      "id": "the-tripper-dvdrip_202509"
+      "addedAt": "2026-01-07T00:12:33.205Z",
+      "thumbnail": "https://archive.org/services/img/the-tripper-dvdrip_202509",
+      "language": "eng",
+      "year": 2006,
+      "collection": "feature_films",
+      "downloads": 58
     }
   ],
   "metadata": {
@@ -27,122 +33,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0383353",
-      "title": "Evil Aliens",
-      "year": 2005,
-      "imdbRating": 5.2,
-      "imdbVotes": 6156,
-      "language": "English, Welsh",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1091869",
-      "title": "Zombie Cheerleading Camp",
-      "year": 2007,
-      "imdbRating": 2.6,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0787495",
-      "title": "Netherbeast Incorporated",
-      "year": 2007,
-      "imdbRating": 5.5,
-      "imdbVotes": 1479,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1134674",
-      "title": "ZMD: Zombies of Mass Destruction",
-      "year": 2009,
-      "imdbRating": 5,
-      "imdbVotes": 4369,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1100053",
-      "title": "Tormented",
-      "year": 2009,
-      "imdbRating": 5.1,
-      "imdbVotes": 6636,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1454705",
-      "title": "Untitled Horror Comedy",
-      "year": 2009,
-      "imdbRating": 6.1,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0871020",
-      "title": "The Cradle",
-      "year": 2007,
-      "imdbRating": 4,
-      "imdbVotes": 778,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1705773",
-      "title": "Mega Shark vs. Crocosaurus",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 5081,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0044925",
-      "title": "Vampire Over London",
-      "year": 1952,
-      "imdbRating": 3.8,
-      "imdbVotes": 1012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0052655",
-      "title": "A Bucket of Blood",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 8366,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043255",
-      "title": "Bud Abbott and Lou Costello Meet the Invisible Man",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 6470,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0843873",
+    "tt0383353",
+    "tt1091869",
+    "tt0787495",
+    "tt1134674",
+    "tt1100053",
+    "tt1454705",
+    "tt0871020",
+    "tt1705773",
+    "tt0044925",
+    "tt0052655",
+    "tt0043255"
   ],
   "collections": [],
   "is_curated": true,

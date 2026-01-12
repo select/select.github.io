@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-college-hero_1927",
+      "id": "the-college-hero_1927",
       "title": "The College Hero",
       "fileSize": 2309133606,
-      "id": "the-college-hero_1927"
+      "addedAt": "2026-01-07T00:11:57.682Z",
+      "thumbnail": "https://archive.org/services/img/the-college-hero_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 408
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017928",
-      "title": "Get Your Man",
-      "year": 1927,
-      "imdbRating": 6.5,
-      "imdbVotes": 228,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016971",
-      "title": "His First Flame",
-      "year": 1927,
-      "imdbRating": 5.8,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018183",
-      "title": "My Best Girl",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 912,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018235",
-      "title": "Orchids and Ermine",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018311",
-      "title": "The Red Mill",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 1496,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017305",
-      "title": "Raggedy Rose",
-      "year": 1926,
-      "imdbRating": 6.8,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017204",
-      "title": "The Nickel-Hopper",
-      "year": 1926,
-      "imdbRating": 6.5,
-      "imdbVotes": 128,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016646",
-      "title": "Beverly of Graustark",
-      "year": 1926,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018882",
-      "title": "Feel My Pulse",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 241,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016751",
-      "title": "The Cruise of the Jasper B",
-      "year": 1926,
-      "imdbRating": 7.2,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0017928",
+    "tt0016971",
+    "tt0018183",
+    "tt0018235",
+    "tt0018311",
+    "tt0018297",
+    "tt0017305",
+    "tt0017204",
+    "tt0019067",
+    "tt0016646",
+    "tt0018882",
+    "tt0016751"
   ],
   "collections": [],
   "is_curated": true,

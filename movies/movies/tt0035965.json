@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HandsAcrosstheBorder",
+      "id": "HandsAcrosstheBorder",
       "title": "Hands Across the Border",
       "description": "Horse breeders Adams (Joseph Crehan) and Brock (Onslow Stevens) are vying for the Army contract. When Adams is killed trying to ride his horse Trigger, Roy saves the horse from being shot. He trains him and then plans to ride him in the race to win the contract.",
       "fileSize": 1285205602,
-      "id": "HandsAcrosstheBorder"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/HandsAcrosstheBorder",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 15007
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=g2yX6X6nkkw",
+      "id": "g2yX6X6nkkw",
       "title": "Hands Across the Border (1944) ROY ROGERS",
       "description": "Stars: Roy Rogers, Trigger, Ruth Terry\n Director: Joseph Kane\n\n Horse breeders Adams and Brock are vying for the Army contract. When Adams is killed trying to ride his horse Trigger, Roy saves the horse from being shot. He trains him and then plans to ride him in the race to win the contract.",
-      "id": "g2yX6X6nkkw",
+      "addedAt": "2025-12-26T23:50:32.417Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/g2yX6X6nkkw/maxresdefault.webp",
+      "duration": 4195,
+      "language": "en",
+      "year": 1944,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037296",
-      "title": "Song of Nevada",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037472",
-      "title": "The Yellow Rose of Texas",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036357",
-      "title": "Silver Spurs",
-      "year": 1943,
-      "imdbRating": 6.2,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036379",
-      "title": "Song of Texas",
-      "year": 1943,
-      "imdbRating": 6,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036033",
-      "title": "Idaho",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034832",
-      "title": "Heart of the Golden West",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035255",
-      "title": "Ridin' Down the Canyon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035396",
-      "title": "Sunset Serenade",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035364",
-      "title": "South of Santa Fe",
-      "year": 1942,
-      "imdbRating": 5.9,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033367",
-      "title": "Bad Man of Deadwood",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033771",
-      "title": "Jesse James at Bay",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034088",
-      "title": "Red River Valley",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037296",
+    "tt0037472",
+    "tt0036357",
+    "tt0036379",
+    "tt0036033",
+    "tt0034832",
+    "tt0035255",
+    "tt0035396",
+    "tt0035364",
+    "tt0033367",
+    "tt0033771",
+    "tt0034088"
   ],
   "collections": [],
   "is_curated": true,

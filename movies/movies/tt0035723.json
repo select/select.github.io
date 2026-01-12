@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CattleStampede",
+      "id": "CattleStampede",
       "title": "Cattle Stampede",
       "description": "Billy the kid (Buster Crabbe) and his sidekick Fuzzy Jones (Al St. John) take jobs as cowboys driving cattle to market, ending up in the middle of a range war and dealing with an unscrupulous cattle buyer who uses his men to stampede other people's livestock, offering to round up and buy them at cut-rate prices.",
       "fileSize": 1598231453,
-      "id": "CattleStampede"
+      "addedAt": "2026-01-07T00:06:19.366Z",
+      "thumbnail": "https://archive.org/services/img/CattleStampede",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 17998
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cattle-stampede-1943",
+      "id": "cattle-stampede-1943",
       "title": "Cattle Stampede (1943)",
       "description": "Buster Crabbe, Al St. John",
       "fileSize": 1171730191,
-      "id": "cattle-stampede-1943"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/cattle-stampede-1943",
+      "collection": "feature_films",
+      "downloads": 189
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cattle-stampede-1943-colorized",
+      "id": "cattle-stampede-1943-colorized",
       "title": "Cattle Stampede 1943 colorized (Buster Crabbe)",
       "description": "Billy the Kid (Buster Crabbe) and Fuzzy Jones (Al St. John) are on the run from riders who hope to cash in on the reward money for their capture. They agree to join a cattle drive to the railroad junction, but rustlers stampede the herd so they can buy what's left at a discount. I colorized this using AI software that doesn't always get the colors right, but I think it looks fairly natural. Hopefully a more professional job will be done someday.",
       "fileSize": 449071002,
-      "id": "cattle-stampede-1943-colorized"
+      "addedAt": "2026-01-07T00:07:45.167Z",
+      "thumbnail": "https://archive.org/services/img/cattle-stampede-1943-colorized",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 1273
     }
   ],
   "metadata": {
@@ -43,115 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037728",
-      "title": "Gangster's Den",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035162",
-      "title": "Outlaws of Boulder Pass",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033393",
-      "title": "Billy the Kid's Fighting Pals",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033845",
-      "title": "The Lone Rider in Frontier Fury",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033394",
-      "title": "Billy the Kid's Range War",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035680",
-      "title": "Blazing Frontier",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036543",
-      "title": "Wolves of the Range",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035804",
+    "tt0035908",
+    "tt0036074",
+    "tt0035106",
+    "tt0033391",
+    "tt0037728",
+    "tt0035162",
+    "tt0033393",
+    "tt0033845",
+    "tt0033394",
+    "tt0035680",
+    "tt0036543"
   ],
   "collections": [],
   "is_curated": true,

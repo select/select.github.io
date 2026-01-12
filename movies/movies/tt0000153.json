@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Haunted_Castle_1896",
+      "id": "The_Haunted_Castle_1896",
       "title": "The Haunted Castle",
       "description": "The original French title is Le manoir du diable . IMDb Page",
       "fileSize": 73516531,
-      "id": "The_Haunted_Castle_1896"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Haunted_Castle_1896",
+      "language": "English",
+      "collection": "feature_films",
+      "downloads": 65756
     }
   ],
   "metadata": {
@@ -27,110 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000469",
-      "title": "The Sick Kitten",
-      "year": 1903,
-      "imdbRating": 5.8,
-      "imdbVotes": 1093,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1241242",
-      "title": "A Quick Shave and Brush Up",
-      "year": 1900,
-      "imdbRating": 4.5,
-      "imdbVotes": 64,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000313",
-      "title": "Let Me Dream Again",
-      "year": 1900,
-      "imdbRating": 5.8,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000451",
-      "title": "Mary Jane's Mishap",
-      "year": 1903,
-      "imdbRating": 6.5,
-      "imdbVotes": 1085,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454107",
-      "title": "Le cottage hanté",
-      "year": 1913,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0341378",
-      "title": "The Ghost Train",
-      "year": 1903,
-      "imdbRating": 5.4,
-      "imdbVotes": 264,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152497",
-      "title": "The Snow Man",
-      "year": 1940,
-      "imdbRating": 5.9,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2332641",
-      "title": "Gran especialista sacando muelas en el Hotel Europa",
-      "year": 1897,
-      "language": "None, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000069",
-      "title": "Post No Bills",
-      "year": 1896,
-      "imdbRating": 4.9,
-      "imdbVotes": 514,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0220288",
-      "title": "15,000 Soldiers Reviewed by the President at Camp Alger May 28",
-      "year": 1898,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0826831",
-      "title": "Tetherball, or Do-Do",
-      "year": 1898,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000469",
+    "tt0000301",
+    "tt1241242",
+    "tt0000313",
+    "tt0000451",
+    "tt0454107",
+    "tt0341378",
+    "tt0152497",
+    "tt2332641",
+    "tt0000069",
+    "tt0220288",
+    "tt0826831"
   ],
   "collections": [],
   "is_curated": true,

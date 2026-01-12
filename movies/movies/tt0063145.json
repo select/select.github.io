@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ItsAlive",
+      "id": "ItsAlive",
       "title": "It's Alive",
       "description": "In this sci-fi film a loony farmer finds a prehistoric monster hiding in a cavern on his land. To feed his newest critter, the farmer kidnaps three people. The three desperately try to escape and finally, one of them succeeds.",
       "fileSize": 2091550704,
-      "id": "ItsAlive"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/ItsAlive",
+      "year": 1969,
+      "collection": "feature_films",
+      "downloads": 93421
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ItsAlive1969",
+      "id": "ItsAlive1969",
       "title": "It's Alive (1969)",
       "description": "Atale of a crazed backwoods farmer who feeds tourists to his pet monster that he keeps in a cave. This movie was from a source other than Retromedia and is PD. Directed by Larry Buchanan and unlike most of his other films here, this one isn't a remake.",
       "fileSize": 1980392440,
-      "id": "ItsAlive1969"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/ItsAlive1969",
+      "collection": "feature_films",
+      "downloads": 35856
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0060536",
-      "title": "In the Year 2889",
-      "year": 1969,
-      "imdbRating": 2.9,
-      "imdbVotes": 1211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061529",
-      "title": "Creature of Destruction",
-      "year": 1968,
-      "imdbRating": 3.2,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060270",
-      "title": "Curse of the Swamp Creature",
-      "year": 1968,
-      "imdbRating": 2.5,
-      "imdbVotes": 822,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059161",
-      "title": "Attack of the Eye Creatures",
-      "year": 1967,
-      "imdbRating": 2.3,
-      "imdbVotes": 1477,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061217",
-      "title": "Zontar: The Thing from Venus",
-      "year": 1967,
-      "imdbRating": 3.2,
-      "imdbVotes": 1147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063195",
-      "title": "Genocide",
-      "year": 1968,
-      "imdbRating": 4.7,
-      "imdbVotes": 802,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063206",
-      "title": "Goke, Body Snatcher from Hell",
-      "year": 1968,
-      "imdbRating": 6.1,
-      "imdbVotes": 2055,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130633",
-      "title": "Body of the Prey",
-      "year": 1967,
-      "imdbRating": 2.7,
-      "imdbVotes": 695,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062036",
-      "title": "Night Fright",
-      "year": 1967,
-      "imdbRating": 2.7,
-      "imdbVotes": 986,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061683",
-      "title": "Frankenstein Created Woman",
-      "year": 1967,
-      "imdbRating": 6.5,
-      "imdbVotes": 5558,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067017",
-      "title": "Dracula vs. Frankenstein",
-      "year": 1971,
-      "imdbRating": 3.5,
-      "imdbVotes": 2290,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Films"
-    },
-    {
-      "imdbId": "tt0062168",
-      "title": "Quatermass and the Pit",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 11904,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0060536",
+    "tt0061529",
+    "tt0060270",
+    "tt0059161",
+    "tt0061217",
+    "tt0063195",
+    "tt0063206",
+    "tt0130633",
+    "tt0062036",
+    "tt0061683",
+    "tt0067017",
+    "tt0062168"
   ],
   "collections": [],
   "is_curated": true,

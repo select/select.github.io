@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jack-white-with-the-montrealers_1929",
+      "id": "jack-white-with-the-montrealers_1929",
       "title": "Jack White with the Montrealers",
       "fileSize": 553422633,
-      "id": "jack-white-with-the-montrealers_1929"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/jack-white-with-the-montrealers_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 100
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191809",
-      "title": "The Band Beautiful",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893199",
-      "title": "At the Party",
-      "year": 1929,
-      "imdbRating": 4.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0122388",
-      "title": "Baby Rose Marie the Child Wonder",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1874515",
-      "title": "Gossip",
-      "year": 1929,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019010",
-      "title": "Hollywood Bound",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019096",
-      "title": "Lights of New York",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1503085",
-      "title": "A Musicale Melange",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017896",
-      "title": "A Ziegfeld Midnight Frolic",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019701",
-      "title": "Black and Tan",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 626,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1131583",
+    "tt0191809",
+    "tt1893199",
+    "tt0122388",
+    "tt1874515",
+    "tt0019010",
+    "tt0019096",
+    "tt1503085",
+    "tt0017896",
+    "tt1706294",
+    "tt1698474",
+    "tt0019701"
   ],
   "collections": [],
   "is_curated": true,

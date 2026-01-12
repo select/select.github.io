@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-all-wet",
+      "id": "silent-all-wet",
       "title": "All Wet",
       "fileSize": 177235207,
-      "id": "silent-all-wet"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-all-wet",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 514
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0015921",
-      "title": "His Wooden Wedding",
-      "year": 1925,
-      "imdbRating": 7.4,
-      "imdbVotes": 186,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015956",
-      "title": "Isn't Life Terrible?",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 265,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018394",
-      "title": "Should Men Walk Home?",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 146,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130629",
-      "title": "Don't Tell Everything",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017855",
-      "title": "Eve's Love Letters",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 99,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130802",
-      "title": "Jewish Prudence",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019556",
-      "title": "We Faw Down",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 1139,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020094",
-      "title": "Liberty",
-      "year": 1929,
-      "imdbRating": 7.5,
-      "imdbVotes": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020607",
-      "title": "Wrong Again",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1022,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141405",
-      "title": "It's a Gift",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 213,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0015921",
+    "tt0015956",
+    "tt0018394",
+    "tt0130629",
+    "tt0017855",
+    "tt0130802",
+    "tt0019556",
+    "tt0020094",
+    "tt0020607",
+    "tt0141405",
+    "tt0015477",
+    "tt0014664"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/deadwood-76-1965",
+      "id": "deadwood-76-1965",
       "title": "Deadwood '76 (1965)",
       "description": "A young drifter is mistaken for Billy the Kid. The concequences prove deadly. Watch on RetroFlix:  https://retroflix.org/deadwood-76-1965/",
       "fileSize": 600690480,
-      "id": "deadwood-76-1965"
+      "addedAt": "2026-01-07T00:07:59.606Z",
+      "thumbnail": "https://archive.org/services/img/deadwood-76-1965",
+      "language": "eng",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 133
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=i1lvwfsosuA",
+      "id": "i1lvwfsosuA",
       "title": "Deadwood '76 (1965) ARCH HALL, JR.",
       "description": "Movie Class by PizzaFLIX: Arch Hall Jr. is an American actor and musician who appeared in six indie films during the 1960s all produced by Nicholas Merriwether, the pseudonym of his father Arch Hall Sr.\n\nStars: Arch Hall Jr., Jack Lester, La Donna Cottier \nDirector: James Landis\nWriters: Arch Hall Sr. , James Landis\n\nThe consequences prove deadly when a young drifter is mistaken for infamous outlaw Billy the Kid!",
-      "id": "i1lvwfsosuA",
+      "addedAt": "2025-12-26T23:48:56.270Z",
+      "thumbnail": "https://i.ytimg.com/vi/i1lvwfsosuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPgwXRA9Cjd3CUb7gQ6aJANu_kkw",
+      "duration": 5770,
+      "language": "en",
+      "year": 1965,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059178",
-      "title": "Finger on the Trigger",
-      "year": 1965,
-      "imdbRating": 4.9,
-      "imdbVotes": 161,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215842",
-      "title": "El hijo de Gabino Barrera",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060067",
-      "title": "Adiós gringo",
-      "year": 1965,
-      "imdbRating": 6,
-      "imdbVotes": 550,
-      "language": "Italian, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0059232",
-      "title": "The Glory Guys",
-      "year": 1965,
-      "imdbRating": 6.1,
-      "imdbVotes": 1098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0165081",
-      "title": "Airborne",
-      "year": 1962,
-      "imdbRating": 5.2,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057952",
-      "title": "Circus World",
-      "year": 1964,
-      "imdbRating": 6.1,
-      "imdbVotes": 3064,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060315",
-      "title": "Django",
-      "year": 1966,
-      "imdbRating": 7.2,
-      "imdbVotes": 33156,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060355",
-      "title": "Duel at Diablo",
-      "year": 1966,
-      "imdbRating": 6.5,
-      "imdbVotes": 4464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061846",
-      "title": "Johnny Yuma",
-      "year": 1966,
-      "imdbRating": 6.1,
-      "imdbVotes": 481,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0281941",
-      "title": "Juan Colorado",
-      "year": 1966,
-      "imdbRating": 6.7,
-      "imdbVotes": 31,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060748",
-      "title": "Nevada Smith",
-      "year": 1966,
-      "imdbRating": 6.9,
-      "imdbVotes": 9368,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060897",
-      "title": "Return of the Seven",
-      "year": 1966,
-      "imdbRating": 5.5,
-      "imdbVotes": 4991,
-      "language": "English, Spanish, Greek, Ancient (to 1453), Latin",
-      "sourceType": "archive.org"
-    }
+    "tt0059178",
+    "tt0215842",
+    "tt0060067",
+    "tt0059232",
+    "tt0165081",
+    "tt0057952",
+    "tt0060315",
+    "tt0060355",
+    "tt0061846",
+    "tt0281941",
+    "tt0060748",
+    "tt0060897"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mary59_gmx_916",
+      "id": "mary59_gmx_916",
       "title": "916",
       "description": "916",
       "fileSize": 2405883857,
-      "id": "mary59_gmx_916"
+      "addedAt": "2026-01-07T00:09:46.428Z",
+      "thumbnail": "https://archive.org/services/img/mary59_gmx_916",
+      "collection": "feature_films",
+      "downloads": 2125
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2334034",
-      "title": "The Private Life of Mr. & Mrs. M",
-      "year": 2012,
-      "imdbRating": 5.5,
-      "imdbVotes": 588,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2008633",
-      "title": "Radio Rebel",
-      "year": 2012,
-      "imdbRating": 5.7,
-      "imdbVotes": 11629,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2124162",
-      "title": "Decision of Faith",
-      "year": 2012,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2265088",
-      "title": "Gold Fools",
-      "year": 2012,
-      "imdbRating": 7.5,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2465246",
-      "title": "Worth: The Testimony of Johnny St. James",
-      "year": 2012,
-      "imdbRating": 6.2,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2535950",
-      "title": "Riot",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt2230936",
-      "title": "Edge of Salvation",
-      "year": 2012,
-      "imdbRating": 6.6,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2094146",
-      "title": "The Heart of Christmas",
-      "year": 2011,
-      "imdbRating": 6.8,
-      "imdbVotes": 1256,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2739338",
-      "title": "The Christmas Candle",
-      "year": 2013,
-      "imdbRating": 6.3,
-      "imdbVotes": 2870,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt1083448",
-      "title": "A Princess for Christmas",
-      "year": 2011,
-      "imdbRating": 6.3,
-      "imdbVotes": 9557,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1577038",
-      "title": "A Christmas Wish",
-      "year": 2011,
-      "imdbRating": 6.5,
-      "imdbVotes": 2247,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1797487",
-      "title": "Savannah",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1799,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt2334034",
+    "tt2008633",
+    "tt2124162",
+    "tt2265088",
+    "tt2465246",
+    "tt2535950",
+    "tt2230936",
+    "tt2094146",
+    "tt2739338",
+    "tt1083448",
+    "tt1577038",
+    "tt1797487"
   ],
   "collections": [],
   "is_curated": true,

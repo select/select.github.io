@@ -6,25 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OutWest",
+      "id": "OutWest",
       "title": "Out West",
       "description": "Out West (1918) A Fatty Arbuckle comedy including performances by Buster Keaton and Al St John. It is a parody of Western pictures of the way.",
       "fileSize": 429222958,
-      "id": "OutWest"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OutWest",
+      "collection": "feature_films",
+      "downloads": 14323
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OutWest1918",
+      "id": "OutWest1918",
       "title": "OUT WEST (1918) -- Roscoe Arbuckle, Buster Keaton, Al St. John",
       "description": "OUT WEST (1918) Starring: Roscoe Arbuckle, Buster Keaton, Al St. John, Alice Lake Written by Natalie Talmadge Photographed by George Peters Directed by Arbuckle Produced by Joseph M. Schenck Paramount Wm. Thomas Sherman, wts@gunjones.com, http://www.mn-hp.com",
       "fileSize": 537581895,
-      "id": "OutWest1918"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OutWest1918",
+      "collection": "feature_films",
+      "downloads": 1769
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-out-west",
+      "id": "silent-out-west",
       "title": "Out West",
       "fileSize": 4798267545,
-      "id": "silent-out-west"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-out-west",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 407
     }
   ],
   "metadata": {
@@ -42,114 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008874",
-      "title": "The Bell Boy",
-      "year": 1918,
-      "imdbRating": 6.7,
-      "imdbVotes": 1523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009389",
-      "title": "Moonshine",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 964,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008975",
-      "title": "The Cook",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1986,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009899",
-      "title": "Back Stage",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008377",
-      "title": "Oh Doctor!",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007819",
-      "title": "Coney Island",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008500",
-      "title": "A Reckless Romeo",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 244,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010221",
-      "title": "The Hayseed",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 991,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003943",
-      "title": "Fatty and Minnie He-Haw",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009123",
+    "tt0008874",
+    "tt0009389",
+    "tt0008975",
+    "tt0009899",
+    "tt0007761",
+    "tt0008112",
+    "tt0008377",
+    "tt0007819",
+    "tt0008500",
+    "tt0010221",
+    "tt0003943"
   ],
   "collections": [
     {

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/prinzessin-turandot-1934",
+      "id": "prinzessin-turandot-1934",
       "title": "Prinzessin Turandot ( 1934)",
       "description": "Film aus dem deutschen dritten Reich von 1934. Prinzessin Turandot ",
       "fileSize": 197435043,
-      "id": "prinzessin-turandot-1934"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/prinzessin-turandot-1934",
+      "language": "ger",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 187
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0251646",
-      "title": "Csibi, der Fratz",
-      "year": 1934,
-      "imdbRating": 4.6,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025336",
-      "title": "Der junge Baron Neuhaus",
-      "year": 1934,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031360",
-      "title": "Die Geliebte",
-      "year": 1939,
-      "imdbRating": 7.5,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026098",
-      "title": "Barcarole",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 24,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025245",
-      "title": "Der Herr ohne Wohnung",
-      "year": 1934,
-      "imdbRating": 7.2,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0252927",
-      "title": "Die Bande vom Hoheneck",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129200",
-      "title": "Die Liebe siegt",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025548",
-      "title": "Ein Mädchen mit Prokura",
-      "year": 1934,
-      "imdbRating": 7.8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025549",
-      "title": "Ein Mädel wirbelt durch die Welt",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129375",
-      "title": "Eine Siebzehnjährige",
-      "year": 1934,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025246",
-      "title": "Herz ist Trumpf",
-      "year": 1934,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024806",
-      "title": "...heute abend bei mir",
-      "year": 1934,
-      "imdbRating": 6.9,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0251646",
+    "tt0025336",
+    "tt0031360",
+    "tt0026098",
+    "tt0025245",
+    "tt0252927",
+    "tt0129200",
+    "tt0025548",
+    "tt0025549",
+    "tt0129375",
+    "tt0025246",
+    "tt0024806"
   ],
   "collections": [],
   "is_curated": true,

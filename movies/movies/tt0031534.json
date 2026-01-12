@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/king-of-chinatown-1939",
+      "id": "king-of-chinatown-1939",
       "title": "King Of Chinatown (1939)",
       "description": "Anna May Wong, Akim Tamiroff, J. Carroll Naish, Sidney Toler, Philip Ahn, Anthony Quinn  Directed by Nick Grinde",
       "fileSize": 838704657,
-      "id": "king-of-chinatown-1939"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/king-of-chinatown-1939",
+      "collection": "feature_films",
+      "downloads": 1560
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030049",
-      "title": "Delinquent Parents",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030122",
-      "title": "Federal Man-Hunt",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032784",
-      "title": "Mercy Plane",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031987",
-      "title": "Streets of New York",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032009",
-      "title": "Television Spy",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032021",
-      "title": "They Made Her a Spy",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031497",
-      "title": "Island of Lost Men",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028907",
-      "title": "Fugitive in the Sky",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030251",
-      "title": "Hunted Men",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030794",
-      "title": "State Police",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030049",
+    "tt0030122",
+    "tt0033822",
+    "tt0032784",
+    "tt0031987",
+    "tt0032009",
+    "tt0032021",
+    "tt0031497",
+    "tt0028907",
+    "tt0030168",
+    "tt0030251",
+    "tt0030794"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bywhosehand",
+      "id": "bywhosehand",
       "title": "By Whose Hand?",
       "description": "“Worth your time” “The best 63 minutes you’ll ever spend” “Surprisingly good B-movie” (IMDB reviews quotes). If you like mysteries set on long-distance trains, you’ll love this one. It’s a pre-code pip! Ben Lyon stars at the head of a good cast that includes Dwight Frye and Nat Pendleton in a straight dramatic role. The production values are excellent. Highly recommended even for those who aren’t mystery buffs. IMDB rating 6.9. Directed by Ben Stoloff. Released in 1932. Complete print.",
       "fileSize": 957728932,
-      "id": "bywhosehand"
+      "addedAt": "2026-01-07T00:07:45.165Z",
+      "thumbnail": "https://archive.org/services/img/bywhosehand",
+      "collection": "feature_films",
+      "downloads": 8879
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/by-whose-hand",
+      "id": "by-whose-hand",
       "title": "More Mystery Movie subtitles",
       "description": "English subtitles for mystery movies.",
       "fileSize": 842069,
-      "id": "by-whose-hand"
+      "addedAt": "2026-01-07T00:07:45.165Z",
+      "thumbnail": "https://archive.org/services/img/by-whose-hand",
+      "collection": "feature_films",
+      "downloads": 8943
     }
   ],
   "metadata": {
@@ -34,109 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003755",
-      "title": "The Car of Death",
-      "year": 1914,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004209",
-      "title": "The Last of the Line",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003734",
-      "title": "By the Sun's Rays",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 281,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1198545",
-      "title": "Blue Blood and Red",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003839",
-      "title": "Child of the Big City",
-      "year": 1914,
-      "imdbRating": 6.6,
-      "imdbVotes": 392,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2261397",
-      "title": "Christmas Day in the Workhouse",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2374618",
-      "title": "Den Fremmede",
-      "year": 1914,
-      "imdbRating": 5.5,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002198",
-      "title": "Le friquet",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 29,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463721",
-      "title": "Shep's Race with Death",
-      "year": 1914,
-      "imdbRating": 5.5,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0004028",
+    "tt0003755",
+    "tt0004209",
+    "tt0003734",
+    "tt2160081",
+    "tt1223220",
+    "tt1198545",
+    "tt0003839",
+    "tt2261397",
+    "tt2374618",
+    "tt0002198",
+    "tt0463721"
   ],
   "collections": [],
   "is_curated": true,

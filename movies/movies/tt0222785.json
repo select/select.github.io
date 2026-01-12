@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/A_Mesmerian_Experiment",
+      "id": "A_Mesmerian_Experiment",
       "title": "A Mesmerian Experiment",
       "description": "The original French title is Le baquet de Mesmer . IMDb Page",
       "fileSize": 71350872,
-      "id": "A_Mesmerian_Experiment"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/A_Mesmerian_Experiment",
+      "language": "English",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 12354
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215749",
-      "title": "The Enchanted Sedan Chair",
-      "year": 1905,
-      "imdbRating": 5.4,
-      "imdbVotes": 524,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228986",
-      "title": "Every Man His Own Cigar Lighter",
-      "year": 1904,
-      "imdbRating": 4.1,
-      "imdbVotes": 150,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222731",
-      "title": "The Fugitive Apparitions",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 183,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228014",
-      "title": "The Christmas Angel",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 243,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135122",
-      "title": "The Hilarious Posters",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 1176,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215992",
-      "title": "The Mermaid",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1349,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216016",
-      "title": "The Mysterious Retort",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 720,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135631",
-      "title": "The Untamable Whiskers",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1200,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223586",
-      "title": "The Wandering Jew",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 236,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216419",
-      "title": "The Wonderful Living Fan",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 689,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0215575",
+    "tt0215749",
+    "tt0228986",
+    "tt0222731",
+    "tt0228014",
+    "tt0215664",
+    "tt0135122",
+    "tt0215992",
+    "tt0216016",
+    "tt0135631",
+    "tt0223586",
+    "tt0216419"
   ],
   "collections": [],
   "is_curated": true,

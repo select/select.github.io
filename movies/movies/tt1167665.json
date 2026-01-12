@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LaPetiteFilleEtSonChat",
+      "id": "LaPetiteFilleEtSonChat",
       "title": "La Petite Fille et Son Chat",
       "description": "Director: Louis Lumière Writer: Louis Lumière Stars: Madeleine Koehler Country: France Release Date: 1899 (France) Also Known As (AKA) Filming Locations: Demeure Koehler - 29 Rue Guilloud, Monplasir, Lyon, Rhône, Rhône-Alpes, France A lány és a macska )Hungary)",
       "fileSize": 9713519,
-      "id": "LaPetiteFilleEtSonChat"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/LaPetiteFilleEtSonChat",
+      "collection": "feature_films",
+      "downloads": 3995
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0221900",
-      "title": "Danses espagnoles",
-      "year": 1900,
-      "imdbRating": 5.6,
-      "imdbVotes": 223,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6678602",
-      "title": "Vue prise d'une plate-forme mobile I",
-      "year": 1900,
-      "imdbRating": 5.5,
-      "imdbVotes": 68,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982613",
-      "title": "Arrivée de cyclistes à Turin",
-      "year": 1899,
-      "imdbRating": 5.2,
-      "imdbVotes": 86,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471069",
-      "title": "20,000 Employees Entering Lord Armstrong's Elswick Works, Newcastle-upon-Tyne",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310176",
-      "title": "A Storm at Sea",
-      "year": 1900,
-      "imdbRating": 5.6,
-      "imdbVotes": 256,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422604",
-      "title": "An Exciting Pillow Fight",
-      "year": 1900,
-      "imdbRating": 5.1,
-      "imdbVotes": 80,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302397",
-      "title": "Champs de Mars",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 227,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422634",
-      "title": "Cronje's Surrender to Lord Roberts",
-      "year": 1900,
-      "imdbRating": 4.8,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000296",
-      "title": "Danse serpentine",
-      "year": 1900,
-      "imdbRating": 5.8,
-      "imdbVotes": 284,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302525",
-      "title": "Eiffel Tower from Trocadero Palace",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 223,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982672",
-      "title": "Epinal: Les bords de la Moselle",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 95,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982761",
-      "title": "Le Roi Victor Emmanuel III se rendant au Sénat pour la cérémonie du Serment",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 69,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0221900",
+    "tt6678602",
+    "tt1982613",
+    "tt0471069",
+    "tt0310176",
+    "tt1422604",
+    "tt0302397",
+    "tt1422634",
+    "tt0000296",
+    "tt0302525",
+    "tt1982672",
+    "tt1982761"
   ],
   "collections": [],
   "is_curated": true,

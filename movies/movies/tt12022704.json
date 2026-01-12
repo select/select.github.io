@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_915",
+      "id": "rog56_mail_915",
       "title": "915",
       "description": "915",
       "fileSize": 6171697889,
-      "id": "rog56_mail_915"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_915",
+      "collection": "feature_films",
+      "downloads": 4194
     }
   ],
   "metadata": {
@@ -27,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt35934533",
-      "title": "Mordet på Olof Palme",
-      "year": 2020,
-      "imdbVotes": 6,
-      "language": "Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9012126",
-      "title": "Rinse at 590",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14556014",
-      "title": "Four Roads",
-      "year": 2020,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11905848",
-      "title": "The State of Texas vs. Melissa",
-      "year": 2020,
-      "imdbRating": 6,
-      "imdbVotes": 512,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt13525042",
-      "title": "Invasion U.S.A: American Business in the U.K",
-      "year": 2020,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt12287582",
-      "title": "Red Letter Media Behind the Scenes: Space Cop",
-      "year": 2020,
-      "imdbRating": 8.3,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt9447948",
-      "title": "317",
-      "year": 2020,
-      "language": "Greek, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14161232",
-      "title": "Thomas Kinkade",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt14551896",
-      "title": "Obama: Building the Dream",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt13071986",
-      "title": "Underground Kings",
-      "year": 2020,
-      "imdbRating": 7.6,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt12618064",
-      "title": "Buck Southworth: U.S. Air Force Flight Crew",
-      "year": 2021,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt10084944",
-      "title": "Der Stahlbaron: Hermann Röchling und die Völklinger Hütte",
-      "year": 2019,
-      "imdbRating": 6.8,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt35934533",
+    "tt9012126",
+    "tt14556014",
+    "tt11905848",
+    "tt13525042",
+    "tt12287582",
+    "tt9447948",
+    "tt14161232",
+    "tt14551896",
+    "tt13071986",
+    "tt12618064",
+    "tt10084944"
   ],
   "collections": [],
   "is_curated": true,

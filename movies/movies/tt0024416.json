@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/One_Year_Later_1933",
+      "id": "One_Year_Later_1933",
       "title": "One Year Later",
       "description": "First, a pair of blissful honeymooners traveling by train. Then, a year later, the same coach carrying the man to his place of execution. Although it seems hopeless, there are two wild cards on board: the man's wife and a terminally ill reporter. (The source DVD was somewhat botched. I'm guessing that the video had been rescaled vertically without allowing for interlacing.)",
       "fileSize": 1460031563,
-      "id": "One_Year_Later_1933"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/One_Year_Later_1933",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 10618
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=5_JkDETXdt0",
+      "id": "5_JkDETXdt0",
       "title": "One Year Later (1933) PRE-CODE HOLLYWOOD",
       "description": "Stars: Mary Brian, Russell Hopton, Don Dillaway\nDirector: E. Mason Hopper\n\nA man is convicted of killing his boss, whom he suspected of having an affair with his wife. On board a train taking him to prison, are a reporter with inside knowledge of crime, and the prisoner's wife who doesn't believe her husband is a killer!",
-      "id": "5_JkDETXdt0",
+      "addedAt": "2025-12-26T23:47:40.805Z",
+      "thumbnail": "https://i.ytimg.com/vi/5_JkDETXdt0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLAiO6M7JytXDBLBhGHctHB3bRBU4w",
+      "duration": 3984,
+      "language": "en",
+      "year": 1933,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0024394",
-      "title": "Notorious But Nice",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024857",
-      "title": "Back Page",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0020810",
-      "title": "Dangerous Paradise",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 141,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027775",
-      "title": "I Cover Chinatown",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023187",
-      "title": "Manhattan Tower",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023368",
-      "title": "Radio Patrol",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024568",
-      "title": "Sister to Judas",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020217",
-      "title": "New York Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021890",
-      "title": "The Front Page",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026489",
-      "title": "Hong Kong Nights",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054817",
-      "title": "Five Minutes to Live",
-      "year": 1961,
-      "imdbRating": 5.5,
-      "imdbVotes": 1009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041109",
-      "title": "Alimony",
-      "year": 1949,
-      "imdbRating": 5.3,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0024394",
+    "tt0024857",
+    "tt0020810",
+    "tt0027775",
+    "tt0023187",
+    "tt0023368",
+    "tt0024568",
+    "tt0020217",
+    "tt0021890",
+    "tt0026489",
+    "tt0054817",
+    "tt0041109"
   ],
   "collections": [],
   "is_curated": true,

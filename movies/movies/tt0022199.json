@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheNewCar_575",
+      "id": "TheNewCar_575",
       "title": "The New Car",
       "description": "A Flip The Frog animated cartoon by UbIwerks from 1931",
       "fileSize": 97980712,
-      "id": "TheNewCar_575"
+      "addedAt": "2026-01-07T00:07:05.034Z",
+      "thumbnail": "https://archive.org/services/img/TheNewCar_575",
+      "collection": "feature_films",
+      "downloads": 2512
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019677",
-      "title": "The Barnyard Battle",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019975",
-      "title": "Hell's Bells",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 884,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020167",
-      "title": "Mickey's Choo-Choo",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 611,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0141831",
-      "title": "Skeleton Frolic",
-      "year": 1937,
-      "imdbRating": 6.9,
-      "imdbVotes": 315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0181010",
-      "title": "Snowtime",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148099",
-      "title": "The Egg Hunt",
-      "year": 1940,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018925",
-      "title": "The Gallopin' Gaucho",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 1098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152780",
-      "title": "A Swiss Trick",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147620",
-      "title": "A Toytown Tale",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161222",
-      "title": "Aladdin's Lamp",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140855",
-      "title": "Blackboard Revue",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150028",
-      "title": "Canadian Capers",
-      "year": 1931,
-      "imdbRating": 4.9,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019677",
+    "tt0019975",
+    "tt0020167",
+    "tt0141831",
+    "tt0181010",
+    "tt0148099",
+    "tt0018925",
+    "tt0152780",
+    "tt0147620",
+    "tt0161222",
+    "tt0140855",
+    "tt0150028"
   ],
   "collections": [
     {

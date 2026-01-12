@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-love-everlasting",
+      "id": "silent-love-everlasting",
       "title": "Love Everlasting",
       "fileSize": 1449745221,
-      "id": "silent-love-everlasting"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-love-everlasting",
+      "language": "Italian",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 545
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003772",
-      "title": "Cinderella",
-      "year": 1914,
-      "imdbRating": 6.1,
-      "imdbVotes": 1070,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003167",
-      "title": "Home, Sweet Home",
-      "year": 1914,
-      "imdbRating": 5.8,
-      "imdbVotes": 274,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004181",
-      "title": "Judith of Bethulia",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 1469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004022",
-      "title": "Julius Caesar",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004635",
-      "title": "The Squaw Man",
-      "year": 1914,
-      "imdbRating": 5.7,
-      "imdbVotes": 1035,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004681",
-      "title": "Tess of the Storm Country",
-      "year": 1914,
-      "imdbRating": 6,
-      "imdbVotes": 279,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003643",
-      "title": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 1502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003755",
-      "title": "The Car of Death",
-      "year": 1914,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004209",
-      "title": "The Last of the Line",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003734",
-      "title": "By the Sun's Rays",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 281,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003740",
+    "tt0004028",
+    "tt0003772",
+    "tt0003167",
+    "tt0004181",
+    "tt0004022",
+    "tt0004635",
+    "tt0004681",
+    "tt0003643",
+    "tt0003755",
+    "tt0004209",
+    "tt0003734"
   ],
   "collections": [],
   "is_curated": true,

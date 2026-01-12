@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fly-frolic-1932",
+      "id": "fly-frolic-1932",
       "title": "Fly Frolic (1932)",
       "description": "An evil spider kidnaps a housefly from a cabaret and takes her to his secret lab. Watch on RetroFlix:  https://retroflix.org/fly-frolic-1932/",
       "fileSize": 101767939,
-      "id": "fly-frolic-1932"
+      "addedAt": "2026-01-07T00:08:24.396Z",
+      "thumbnail": "https://archive.org/services/img/fly-frolic-1932",
+      "language": "eng",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 39
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0146570",
-      "title": "College Capers",
-      "year": 1931,
-      "imdbRating": 4.3,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022301",
-      "title": "Red Riding Hood",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021877",
-      "title": "The Fly Guy",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024702",
-      "title": "Tumble Down Town",
-      "year": 1933,
-      "imdbRating": 5.1,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020767",
-      "title": "Circus Capers",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020907",
-      "title": "Frozen Frolics",
-      "year": 1930,
-      "imdbRating": 4.3,
-      "imdbVotes": 122,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146910",
-      "title": "Hot Tamale",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146738",
-      "title": "The Farmerette",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161580",
-      "title": "The Fly's Bride",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146563",
-      "title": "A Close Call",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152550",
-      "title": "A Spanish Twist",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149770",
-      "title": "The Bad Genius",
-      "year": 1932,
-      "imdbRating": 6.1,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0146570",
+    "tt0022301",
+    "tt0021877",
+    "tt0024702",
+    "tt0020767",
+    "tt0020907",
+    "tt0146910",
+    "tt0146738",
+    "tt0161580",
+    "tt0146563",
+    "tt0152550",
+    "tt0149770"
   ],
   "collections": [],
   "is_curated": true,

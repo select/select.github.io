@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/losojosdeamerica_201911",
+      "id": "losojosdeamerica_201911",
       "title": "Los Ojos De América",
       "description": "Realizado por Daiana Rosenfeld y Aníbal Garisto, rescata la historia de amor de América Scarfó y Severino di Giovanni –el anarquista más buscado del país en la década del 20 – y los ideales del movimiento político y social más importantes del país antes de la llegada del primer golpe militar de José Félix Uriburu en 1930. A partir de documentos personales, testimonios y cartas de amor, “Los ojos de América” desarrolla una de las historias de amor más apasionantes, polémicas y revolucionarias de la historia argentina, que durante varias décadas quedó olvidada.",
       "fileSize": 604488994,
-      "id": "losojosdeamerica_201911"
+      "addedAt": "2026-01-07T00:09:38.893Z",
+      "thumbnail": "https://archive.org/services/img/losojosdeamerica_201911",
+      "language": "spanish",
+      "collection": "feature_films",
+      "downloads": 766
     }
   ],
   "metadata": {
@@ -26,118 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3767682",
-      "title": "The Hitch",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5298960",
-      "title": "Alien Agenda Planet Earth: Rulers of Time and Space",
-      "year": 2014,
-      "imdbRating": 6.4,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt4206510",
-      "title": "The Maze Runner: Finding the Gang",
-      "year": 2014,
-      "imdbRating": 7.7,
-      "imdbVotes": 15954,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3457988",
-      "title": "Ein blinder Held - Die Liebe des Otto Weidt",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 75,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4576292",
-      "title": "África 815",
-      "year": 2014,
-      "imdbRating": 6.8,
-      "imdbVotes": 11,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4290988",
-      "title": "Blood Brothers",
-      "year": 2014,
-      "imdbRating": 5.4,
-      "imdbVotes": 29,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2256598",
-      "title": "The Battle of the Somme",
-      "year": 2014,
-      "imdbRating": 6.9,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4327424",
-      "title": "William the Conqueror",
-      "year": 2014,
-      "imdbRating": 6.9,
-      "imdbVotes": 27,
-      "language": "French, Latin, English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt6564690",
-      "title": "De vida y de muerte, testimonios de la Operación Cóndor",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 5,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt2673456",
-      "title": "My Stolen Revolution",
-      "year": 2013,
-      "imdbRating": 7.1,
-      "imdbVotes": 128,
-      "language": "Swedish, Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6326174",
-      "title": "Silent Hall of Fame Documentary Breaking the Silence",
-      "year": 2015,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt3767682",
+    "tt5298960",
+    "tt4206510",
+    "tt4189440",
+    "tt3457988",
+    "tt4576292",
+    "tt4290988",
+    "tt2256598",
+    "tt4327424",
+    "tt6564690",
+    "tt2673456",
+    "tt6326174"
   ],
   "collections": [],
   "is_curated": true,

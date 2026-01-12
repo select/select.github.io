@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FattyAndMabelAtTheSanDiegoExposition1915",
+      "id": "FattyAndMabelAtTheSanDiegoExposition1915",
       "title": "FATTY AND MABEL AT THE SAN DIEGO EXPOSITION (1915)",
       "description": "FATTY AND MABEL AT THE SAN DIEGO EXPOSITION Keystone-Mutual 1 reel, rel. Jan. 23, 1915 (Fatty and Mabel at the Fair) dir. Roscoe Arbuckle cast: Roscoe Arbuckle, Mabel Normand, Minta Durfee, Harry Gribbon, Edgar Kennedy, Frank Hayes finished: 1/11/1915 Location: San Diego, CA copyright: Jan. 23, 1915",
       "fileSize": 324111334,
-      "id": "FattyAndMabelAtTheSanDiegoExposition1915"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/FattyAndMabelAtTheSanDiegoExposition1915",
+      "collection": "feature_films",
+      "downloads": 1094
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fatty-and-mabel-at-the-san-diego-exposition",
+      "id": "silent-fatty-and-mabel-at-the-san-diego-exposition",
       "title": "Fatty and Mabel at the San Diego Exposition",
       "fileSize": 251131182,
-      "id": "silent-fatty-and-mabel-at-the-san-diego-exposition"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fatty-and-mabel-at-the-san-diego-exposition",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 327
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005310",
-      "title": "Mabel and Fatty's Married Life",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 312,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005676",
-      "title": "Fatty and Mabel's Simple Life",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005679",
-      "title": "Mabel, Fatty and the Law",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005677",
-      "title": "Mabel and Fatty's Wash Day",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006145",
-      "title": "That Little Band of Gold",
-      "year": 1915,
-      "imdbRating": 5.2,
-      "imdbVotes": 271,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006296",
-      "title": "Wished on Mabel",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005753",
-      "title": "Miss Fatty's Seaside Lovers",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004691",
-      "title": "Those Country Kids",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006668",
-      "title": "Fatty and Mabel Adrift",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007819",
-      "title": "Coney Island",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005312",
-      "title": "Fatty's Chance Acquaintance",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0005310",
+    "tt0005676",
+    "tt0005679",
+    "tt0005677",
+    "tt0006145",
+    "tt0006296",
+    "tt0005753",
+    "tt0006764",
+    "tt0004691",
+    "tt0006668",
+    "tt0007819",
+    "tt0005312"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ANightOfMagic",
+      "id": "ANightOfMagic",
       "title": "A Night of Magic",
       "description": "1944 London street performers made this movie to showcase their talents and break into the big time, but the only one you will probably recognize is Wilkins, the butler, played by Gerald Pring.",
       "fileSize": 910025857,
-      "id": "ANightOfMagic"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/ANightOfMagic",
+      "collection": "feature_films",
+      "downloads": 3673
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=iYap1olR-Sg",
+      "id": "iYap1olR-Sg",
       "title": "A Night of Magic (1944) HORROR-COMEDY",
       "description": "Stars: Robert Griffith, Gerald Pring, Billy 'Uke' Scott \nDirector: Herbert Wynne\n\nA British playboy receives an ancient sarcophagus from an uncle with a 3000-year old mummified Egyptian princess inside. To his surprise, the princess is very much alive and thrilled to find a man after all those years!",
-      "id": "iYap1olR-Sg",
+      "addedAt": "2025-12-26T23:47:25.117Z",
+      "thumbnail": "https://i.ytimg.com/vi/iYap1olR-Sg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLAV12Kn3SBxYVFxPEboVsf414OB3Q",
+      "duration": 3154,
+      "language": "en",
+      "year": 1944,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037514",
-      "title": "Anchors Aweigh",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 9841,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039337",
-      "title": "Down to Earth",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 1767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040869",
-      "title": "That Lady in Ermine",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036696",
-      "title": "The Canterville Ghost",
-      "year": 1944,
-      "imdbRating": 6.9,
-      "imdbVotes": 3442,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0036635",
-      "title": "Bees in Paradise",
-      "year": 1944,
-      "imdbRating": 4.9,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036962",
-      "title": "It Happened Tomorrow",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 3276,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021016",
-      "title": "Just Imagine",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 870,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0262883",
-      "title": "Le voyage dans la lune",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 343,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037399",
-      "title": "Trocadero",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 138,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036704",
-      "title": "Champagne Charlie",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036941",
-      "title": "I'm from Arkansas",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178368",
-      "title": "La danza de la fortuna",
-      "year": 1944,
-      "imdbRating": 7.8,
-      "imdbVotes": 31,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0037514",
+    "tt0039337",
+    "tt0040869",
+    "tt0036696",
+    "tt0036635",
+    "tt0036962",
+    "tt0021016",
+    "tt0262883",
+    "tt0037399",
+    "tt0036704",
+    "tt0036941",
+    "tt0178368"
   ],
   "collections": [],
   "is_curated": true,

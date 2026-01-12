@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-rip-van-winkle",
+      "id": "silent-rip-van-winkle",
       "title": "Rip Van Winkle",
       "fileSize": 96043068,
-      "id": "silent-rip-van-winkle"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-rip-van-winkle",
+      "year": 1903,
+      "collection": "feature_films",
+      "downloads": 355
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0777934",
-      "title": "Man Overboard! 'Indiana'",
-      "year": 1903,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256774",
-      "title": "The Georgetown Loop (Colorado)",
-      "year": 1903,
-      "imdbRating": 6.1,
-      "imdbVotes": 269,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0441389",
-      "title": "Native Women Washing Clothes at St. Vincent, B.W.I.",
-      "year": 1903,
-      "imdbRating": 3.5,
-      "imdbVotes": 56,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472673",
-      "title": "The American Soldier in Love and War: Number 2",
-      "year": 1903,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0472903",
-      "title": "A Scrap in Black and White",
-      "year": 1903,
-      "imdbRating": 5.1,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454994",
-      "title": "Akt-Skulpturen. Studienfilm für bildende Künstler",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 271,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422631",
-      "title": "Coronation Durbar at Delhi",
-      "year": 1903,
-      "imdbRating": 4.7,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0213632",
-      "title": "Egyptian Fakir with Dancing Monkey",
-      "year": 1903,
-      "imdbRating": 4.9,
-      "imdbVotes": 157,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982674",
-      "title": "Exercises de lances",
-      "year": 1903,
-      "imdbRating": 5,
-      "imdbVotes": 77,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422683",
-      "title": "The Kiddies' Cakewalk",
-      "year": 1903,
-      "imdbRating": 5.4,
-      "imdbVotes": 78,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0308284",
+    "tt2585250",
+    "tt0777934",
+    "tt0256774",
+    "tt0441389",
+    "tt0472673",
+    "tt0472903",
+    "tt0454994",
+    "tt1422631",
+    "tt0213632",
+    "tt1982674",
+    "tt1422683"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/blanchville4k",
+      "id": "blanchville4k",
       "title": "The Blancheville Monster (1963) [Colorized, 4K, 60FPS]",
       "description": "The Blancheville Monster is a 1963 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com    Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io    A.I. Upscaling to 4K:  https://ffmpeg.org    GPU: Google Colab.  This movie is in public domain category and it is Copyright free.",
       "fileSize": 6417749414,
-      "id": "blanchville4k"
+      "addedAt": "2026-01-07T00:07:38.718Z",
+      "thumbnail": "https://archive.org/services/img/blanchville4k",
+      "collection": "feature_films",
+      "downloads": 461
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-blancheville-monster",
+      "id": "the-blancheville-monster",
       "title": "The Blancheville Monster",
       "description": "The beautiful young daughter of a crazed count fears that she will fall victim to the family curse - to be sacrificed to fulfill an ancient family legend.",
       "fileSize": 198996941,
-      "id": "the-blancheville-monster"
+      "addedAt": "2026-01-07T00:11:57.680Z",
+      "thumbnail": "https://archive.org/services/img/the-blancheville-monster",
+      "collection": "feature_films",
+      "downloads": 768
     }
   ],
   "metadata": {
@@ -35,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0057465",
-      "title": "The Sadist",
-      "year": 1963,
-      "imdbRating": 6.6,
-      "imdbVotes": 3155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055894",
-      "title": "The Day of the Triffids",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 9170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057522",
-      "title": "The Ghost",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 1458,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057569",
-      "title": "The Terror",
-      "year": 1963,
-      "imdbRating": 5,
-      "imdbVotes": 8714,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057692",
-      "title": "The Strangler of Blackmoor Castle",
-      "year": 1963,
-      "imdbRating": 5.7,
-      "imdbVotes": 578,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057603",
-      "title": "Black Sabbath",
-      "year": 1963,
-      "imdbRating": 7,
-      "imdbVotes": 14526,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056875",
-      "title": "Blood Feast",
-      "year": 1963,
-      "imdbRating": 5,
-      "imdbVotes": 7546,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056983",
-      "title": "Dementia 13",
-      "year": 1963,
-      "imdbRating": 5.7,
-      "imdbVotes": 9661,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056993",
-      "title": "Diary of a Madman",
-      "year": 1963,
-      "imdbRating": 6.3,
-      "imdbVotes": 3289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056201",
-      "title": "Doctor of Doom",
-      "year": 1963,
-      "imdbRating": 4.9,
-      "imdbVotes": 384,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057646",
-      "title": "Horror Castle",
-      "year": 1963,
-      "imdbRating": 5.8,
-      "imdbVotes": 1235,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056219",
-      "title": "Maniac",
-      "year": 1963,
-      "imdbRating": 5.9,
-      "imdbVotes": 1613,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0057465",
+    "tt0055894",
+    "tt0057522",
+    "tt0057569",
+    "tt0057692",
+    "tt0057603",
+    "tt0056875",
+    "tt0056983",
+    "tt0056993",
+    "tt0056201",
+    "tt0057646",
+    "tt0056219"
   ],
   "collections": [],
   "is_curated": true,

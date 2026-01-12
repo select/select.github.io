@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-great-buster-2018-documentary-720p-2162471012891",
+      "id": "the-great-buster-2018-documentary-720p-2162471012891",
       "title": "The-Great-Buster.",
       "description": "A celebration of the life and career of one of America’s most influential and celebrated filmmakers and comedians—Buster Keaton—whose singular style and fertile output during the silent era created his legacy as a true cinematic visionary.",
       "fileSize": 3032875054,
-      "id": "the-great-buster-2018-documentary-720p-2162471012891"
+      "addedAt": "2026-01-07T00:12:10.587Z",
+      "thumbnail": "https://archive.org/services/img/the-great-buster-2018-documentary-720p-2162471012891",
+      "collection": "feature_films",
+      "downloads": 4503
     }
   ],
   "metadata": {
@@ -27,118 +31,18 @@
     "Awards": "1 win & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt9316022",
-      "title": "Struggle: The Life and Lost Art of Szukalski",
-      "year": 2018,
-      "imdbRating": 7.9,
-      "imdbVotes": 4682,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7295854",
-      "title": "Væbnet med ord & vinger",
-      "year": 2018,
-      "imdbRating": 7.1,
-      "imdbVotes": 53,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7188868",
-      "title": "Diana: In Her Own Words",
-      "year": 2017,
-      "imdbRating": 7.8,
-      "imdbVotes": 4008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5838396",
-      "title": "Kim Jong Un: The Unauthorized Biography",
-      "year": 2017,
-      "imdbRating": 6.7,
-      "imdbVotes": 244,
-      "language": "French, German, Korean, English, Japanese",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt3123418",
-      "title": "Bizarre: A Circus Story",
-      "year": 2016,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8020616",
-      "title": "Buster Keaton, the Genius Destroyed by Hollywood",
-      "year": 2016,
-      "imdbRating": 7.2,
-      "imdbVotes": 228,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14551896",
-      "title": "Obama: Building the Dream",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt11204094",
-      "title": "The Duke",
-      "year": 2020,
-      "imdbRating": 6.9,
-      "imdbVotes": 15225,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5442674",
-      "title": "The Babymooners",
-      "year": 2016,
-      "imdbRating": 7,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt2614776",
-      "title": "City of Gold",
-      "year": 2015,
-      "imdbRating": 7.2,
-      "imdbVotes": 1106,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2870648",
-      "title": "Amy",
-      "year": 2015,
-      "imdbRating": 7.8,
-      "imdbVotes": 56532,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3457988",
-      "title": "Ein blinder Held - Die Liebe des Otto Weidt",
-      "year": 2014,
-      "imdbRating": 7.5,
-      "imdbVotes": 75,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt9316022",
+    "tt7295854",
+    "tt7188868",
+    "tt5838396",
+    "tt3123418",
+    "tt8020616",
+    "tt14551896",
+    "tt11204094",
+    "tt5442674",
+    "tt2614776",
+    "tt2870648",
+    "tt3457988"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/miracle_kid",
+      "id": "miracle_kid",
       "title": "Miracle Kid, The",
       "description": "Taken from IMDB : A third-rate boxer who loses most of his fights suddenly finds himself knocking out almost every one of his opponents. His sleazy manager spreads the word that the fighter has \"the evil eye\" and casts a spell on the men he's fighting. A female reporter sets out to find the truth.",
       "fileSize": 1371348734,
-      "id": "miracle_kid"
+      "addedAt": "2026-01-07T00:09:54.327Z",
+      "thumbnail": "https://archive.org/services/img/miracle_kid",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 21475
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_miracle_kid",
+      "id": "the_miracle_kid",
       "title": "Miracle Kid, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5019481063,
-      "id": "the_miracle_kid"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_miracle_kid",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 4755
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=clKtzuNDbWQ",
+      "id": "clKtzuNDbWQ",
       "title": "The Miracle Kid (1942) FIGHT FILM",
       "description": "Stars: Tom Neal, Carol Hughes, Vickie Lester\nDirector: William Beaudine\n\nA third-rate boxer who loses most of his fights suddenly finds himself knocking out almost every one of his opponents. His sleazy manager spreads the word that the fighter has \"the evil eye\" and casts a spell on the men he's fighting. A female reporter sets out to find the truth.",
-      "id": "clKtzuNDbWQ",
+      "addedAt": "2025-12-26T23:55:51.526Z",
+      "thumbnail": "https://i.ytimg.com/vi/clKtzuNDbWQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gSAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLAw2_WrM0pvj3qM8B_BVNVsLQODPQ",
+      "duration": 4044,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032799",
-      "title": "Misbehaving Husbands",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033399",
-      "title": "Blonde Comet",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 112,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033963",
-      "title": "Nothing But the Truth",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1093,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036928",
-      "title": "Hot Rhythm",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033613",
-      "title": "Flying Wild",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 538,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0035089",
-      "title": "Mr. Celebrity",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035057",
-      "title": "Men of San Quentin",
-      "year": 1942,
-      "imdbRating": 4.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032690",
-      "title": "The Last Alarm",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 226,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033856",
-      "title": "Lucky Ghost",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035939",
-      "title": "Ghosts on the Loose",
-      "year": 1943,
-      "imdbRating": 5,
-      "imdbVotes": 1583,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    }
+    "tt0032799",
+    "tt0033399",
+    "tt0033963",
+    "tt0033526",
+    "tt0207407",
+    "tt0036928",
+    "tt0033613",
+    "tt0035089",
+    "tt0035057",
+    "tt0032690",
+    "tt0033856",
+    "tt0035939"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/cyrano-de-bergerac-1900-directed-by-clement-maurice",
+      "id": "cyrano-de-bergerac-1900-directed-by-clement-maurice",
       "title": "Cyrano De Bergerac (1900) Directed By Clément Maurice",
       "description": "Cyrano de Bergerac (1900) Director: Clément Maurice Cyrano de Bergerac is a 1900 French short drama film directed by Clément Maurice, featuring Benoit Constant Coquelin as Cyrano. It was shown at the 1900 Paris Universal Exposition. The film, tinted with color and synchronized to a wax cylinder recording, is thought to be the first film made with both color and sound.",
       "fileSize": 10912777,
-      "id": "cyrano-de-bergerac-1900-directed-by-clement-maurice"
+      "addedAt": "2026-01-07T00:07:51.627Z",
+      "thumbnail": "https://archive.org/services/img/cyrano-de-bergerac-1900-directed-by-clement-maurice",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 89
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cyrano-de-bergerac",
+      "id": "silent-cyrano-de-bergerac",
       "title": "Cyrano de Bergerac",
       "fileSize": 91108181,
-      "id": "silent-cyrano-de-bergerac"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cyrano-de-bergerac",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 698
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0288468",
-      "title": "Capture of Boer Battery by British",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 212,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132251",
-      "title": "Joan of Arc",
-      "year": 1900,
-      "imdbRating": 6.6,
-      "imdbVotes": 1518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000370",
-      "title": "Scrooge; or Marley's Ghost",
-      "year": 1901,
-      "imdbRating": 5.6,
-      "imdbVotes": 604,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000355",
-      "title": "Fire!",
-      "year": 1901,
-      "imdbRating": 6.2,
-      "imdbVotes": 804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225132",
-      "title": "Robinson Crusoe",
-      "year": 1902,
-      "imdbRating": 5.7,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000416",
-      "title": "Alcohol and Its Victims",
-      "year": 1902,
-      "imdbRating": 5.4,
-      "imdbVotes": 205,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0438165",
-      "title": "The Little Match Seller",
-      "year": 1902,
-      "imdbRating": 6.7,
-      "imdbVotes": 499,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445338",
-      "title": "The Dude and the Burglars",
-      "year": 1903,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132077",
-      "title": "Daylight Burglary",
-      "year": 1903,
-      "imdbRating": 6,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419034",
-      "title": "Passion Play: Christ Calling Zaccheus from the Tree",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0288468",
+    "tt0132251",
+    "tt0000370",
+    "tt0000355",
+    "tt1090274",
+    "tt0225132",
+    "tt0000416",
+    "tt0438165",
+    "tt0445338",
+    "tt0132077",
+    "tt0419034",
+    "tt0000471"
   ],
   "collections": [],
   "is_curated": true,

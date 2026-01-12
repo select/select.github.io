@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1941-soldaten-von-morgen-filmdokument-hitlerjugend",
+      "id": "1941-soldaten-von-morgen-filmdokument-hitlerjugend",
       "title": "1941 Soldaten Von Morgen ( Filmdokument, Hitlerjugend)",
       "description": "Film(Filmdokument) aus dem deutschen dritten Reich von 1941. Soldaten von Morgen. ",
       "fileSize": 719904034,
-      "id": "1941-soldaten-von-morgen-filmdokument-hitlerjugend"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1941-soldaten-von-morgen-filmdokument-hitlerjugend",
+      "language": "ger",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 203
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1669636",
-      "title": "Junges Europa - Filmschau der Hitlerjugend. Folge 4",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150362",
-      "title": "A Dog's Dream",
-      "year": 1941,
-      "imdbRating": 4.2,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153977",
-      "title": "A Yarn About Yarn",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149765",
-      "title": "Back to the Soil",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149959",
-      "title": "Bringing Home the Bacon",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150598",
-      "title": "Flying Fever",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1248947",
-      "title": "Sulle orme di Giacomo Leopardi",
-      "year": 1941,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161643",
-      "title": "Hairless Hector",
-      "year": 1941,
-      "imdbRating": 4.5,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146905",
-      "title": "Horsefly Opera",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151020",
-      "title": "Ice Carnival",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151596",
-      "title": "Mississippi Swing",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149887",
-      "title": "The Bird Tower",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1669636",
+    "tt0150362",
+    "tt0153977",
+    "tt0149765",
+    "tt0149959",
+    "tt0150598",
+    "tt1248947",
+    "tt0161643",
+    "tt0146905",
+    "tt0151020",
+    "tt0151596",
+    "tt0149887"
   ],
   "collections": [],
   "is_curated": true,

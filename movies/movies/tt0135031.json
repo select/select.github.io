@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/beautiful-days",
+      "id": "beautiful-days",
       "title": "Beautiful Days",
       "description": "BEAUTIFUL DAYS (1955, aka Uruwashiki Saigetsu) was one of a series of mainstream dramas and romances made by Kobayashi after his flirtation with independent film making on ROOM WITH THICK WALLS. A romantic drama, it put him back in the success column as a filmmaker, working in the popular realm of his mentor Keisuke Kinoshita, but now without the input of the latter or his relatives; and it also brought Kobayashi together with screenwriter Zenzo Matsuyama, with whom he would enjoy a rich creative partnership (culminating with THE HUMAN CONDITION I, II, and III) over the next few years, as he developed his own style and reputation within the studio system.",
       "fileSize": 9864204426,
-      "id": "beautiful-days"
+      "addedAt": "2026-01-07T00:07:31.714Z",
+      "thumbnail": "https://archive.org/services/img/beautiful-days",
+      "language": "jpn",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 3766
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0134286",
-      "title": "I Will Buy You",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 586,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134771",
-      "title": "Black River",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 1242,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053114",
-      "title": "The Human Condition I: No Greater Love",
-      "year": 1959,
-      "imdbRating": 8.5,
-      "imdbVotes": 10536,
-      "language": "Japanese, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056058",
-      "title": "Harakiri",
-      "year": 1962,
-      "imdbRating": 8.6,
-      "imdbVotes": 87601,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058279",
-      "title": "Kwaidan",
-      "year": 1964,
-      "imdbRating": 7.9,
-      "imdbVotes": 21660,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061847",
-      "title": "Samurai Rebellion",
-      "year": 1967,
-      "imdbRating": 8.3,
-      "imdbVotes": 15087,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056135",
-      "title": "The Inheritance",
-      "year": 1962,
-      "imdbRating": 7.4,
-      "imdbVotes": 1053,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048731",
-      "title": "The Tattered Wings",
-      "year": 1955,
-      "imdbRating": 6.7,
-      "imdbVotes": 127,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053134",
-      "title": "Good Morning",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 11823,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047178",
-      "title": "A Life at Stake",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 997,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt4887484",
-      "title": "Sailor Beware!",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047878",
-      "title": "The Big Combo",
-      "year": 1955,
-      "imdbRating": 7.3,
-      "imdbVotes": 9203,
-      "language": "English, Swedish, Latin, German",
-      "sourceType": "archive.org"
-    }
+    "tt0134286",
+    "tt0134771",
+    "tt0053114",
+    "tt0058279",
+    "tt0061847",
+    "tt0056135",
+    "tt0048731",
+    "tt0053134",
+    "tt0047178",
+    "tt4887484",
+    "tt0047878",
+    "tt0047900"
   ],
   "collections": [],
   "is_curated": true,

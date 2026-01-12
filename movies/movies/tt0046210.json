@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PrivateEyes",
+      "id": "PrivateEyes",
       "title": "Private Eyes",
       "description": "tr",
       "fileSize": 17248886,
-      "id": "PrivateEyes"
+      "addedAt": "2026-01-07T00:06:45.468Z",
+      "thumbnail": "https://archive.org/services/img/PrivateEyes",
+      "collection": "feature_films",
+      "downloads": 1538
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0046802",
-      "title": "The Bowery Boys Meet the Monsters",
-      "year": 1954,
-      "imdbRating": 5.9,
-      "imdbVotes": 777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049143",
-      "title": "Dig That Uranium",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046414",
-      "title": "Beat the Devil",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 10677,
-      "language": "Arabic, English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0046348",
-      "title": "South Sea Woman",
-      "year": 1953,
-      "imdbRating": 6.2,
-      "imdbVotes": 856,
-      "language": "English, French, Japanese, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045125",
-      "title": "Scaramouche",
-      "year": 1952,
-      "imdbRating": 7.5,
-      "imdbVotes": 6562,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044517",
-      "title": "The Crimson Pirate",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 7270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047795",
-      "title": "Abbott and Costello Meet the Mummy",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 6600,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041971",
-      "title": "The Torch",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 235,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0125761",
-      "title": "Gasoline Alley",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066565",
-      "title": "White Sun of the Desert",
-      "year": 1970,
-      "imdbRating": 7.7,
-      "imdbVotes": 8323,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0046802",
+    "tt0049143",
+    "tt0046414",
+    "tt0046348",
+    "tt0045125",
+    "tt0044517",
+    "tt0047795",
+    "tt0041971",
+    "tt0041098",
+    "tt0125761",
+    "tt0023243",
+    "tt0066565"
   ],
   "collections": [],
   "is_curated": true,

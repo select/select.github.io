@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Apollo17-OnTheShouldersOfGiants",
+      "id": "Apollo17-OnTheShouldersOfGiants",
       "title": "Apollo 17 - On The Shoulders of Giants",
       "description": "Official NASA film of the Apollo 17 Mission",
       "fileSize": 764203479,
-      "id": "Apollo17-OnTheShouldersOfGiants"
+      "addedAt": "2026-01-07T00:06:09.635Z",
+      "thumbnail": "https://archive.org/services/img/Apollo17-OnTheShouldersOfGiants",
+      "collection": "feature_films",
+      "downloads": 26166
     }
   ],
   "metadata": {
@@ -27,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt34700831",
-      "title": "Muzika sa Jasibare",
-      "year": 2011,
-      "language": "Serbian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0770802",
-      "title": "Samsara",
-      "year": 2011,
-      "imdbRating": 8.4,
-      "imdbVotes": 39134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2083126",
-      "title": "311",
-      "year": 2011,
-      "imdbRating": 6.8,
-      "imdbVotes": 20,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2296619",
-      "title": "804",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13572380",
-      "title": "The 1951 Festival of Britain: A Brave New World",
-      "year": 2011,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1935826",
-      "title": "Into the Fire",
-      "year": 2011,
-      "imdbRating": 7.8,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1809401",
-      "title": "Vanished from Alcatraz",
-      "year": 2011,
-      "imdbRating": 6.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2057384",
-      "title": "Das Erbe der Nibelungen",
-      "year": 2011,
-      "imdbRating": 6.4,
-      "imdbVotes": 47,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2095797",
-      "title": "The Most Courageous Raid of WWII",
-      "year": 2011,
-      "imdbRating": 7.3,
-      "imdbVotes": 27,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2234511",
-      "title": "The Secret Life of Ice",
-      "year": 2011,
-      "imdbRating": 7.3,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1699673",
-      "title": "More Than Meets the Eye",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt2113113",
-      "title": "Wild Horse, Wild Ride",
-      "year": 2011,
-      "imdbRating": 7.4,
-      "imdbVotes": 265,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt34700831",
+    "tt0770802",
+    "tt2083126",
+    "tt2296619",
+    "tt13572380",
+    "tt1935826",
+    "tt1809401",
+    "tt2057384",
+    "tt2095797",
+    "tt2234511",
+    "tt1699673",
+    "tt2113113"
   ],
   "collections": [],
   "is_curated": true,

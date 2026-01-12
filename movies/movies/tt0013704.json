@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheTrap_861",
+      "id": "TheTrap_861",
       "title": "The Trap",
       "description": "After his mine is stolen a miner becomes obseessed with plotting revenge against the man who stole his mine.",
       "fileSize": 949766233,
-      "id": "TheTrap_861"
+      "addedAt": "2026-01-07T00:07:05.037Z",
+      "thumbnail": "https://archive.org/services/img/TheTrap_861",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 9328
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013134",
-      "title": "Flesh and Blood",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013592",
-      "title": "Shadows",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014463",
-      "title": "The Shock",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 534,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014142",
-      "title": "The Hunchback of Notre Dame",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 6381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013909",
-      "title": "Cameo Kirby",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 382,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011513",
-      "title": "Nomads of the North",
-      "year": 1920,
-      "imdbRating": 5.8,
-      "imdbVotes": 297,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014972",
-      "title": "He Who Gets Slapped",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 4606,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013253",
-      "title": "Human Hearts",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013372",
-      "title": "Manslaughter",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 496,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012928",
-      "title": "Beauty's Worth",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013402",
-      "title": "Monte Cristo",
-      "year": 1922,
-      "imdbRating": 6.8,
-      "imdbVotes": 434,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0013134",
+    "tt0013592",
+    "tt0011904",
+    "tt0014463",
+    "tt0014142",
+    "tt0013909",
+    "tt0011513",
+    "tt0014972",
+    "tt0013253",
+    "tt0013372",
+    "tt0012928",
+    "tt0013402"
   ],
   "collections": [],
   "is_curated": true,

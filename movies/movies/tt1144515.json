@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-roof-garden-revue_1929",
+      "id": "the-roof-garden-revue_1929",
       "title": "The Roof Garden Revue",
       "fileSize": 395541393,
-      "id": "the-roof-garden-revue_1929"
+      "addedAt": "2026-01-07T00:12:22.158Z",
+      "thumbnail": "https://archive.org/services/img/the-roof-garden-revue_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 100
     }
   ],
   "metadata": {
@@ -26,113 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706329",
-      "title": "Cut Yourself a Piece of Cake",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132076",
-      "title": "Danses espagnoles",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430019",
-      "title": "Dick Rich and His Melodious Monarchs",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1538484",
-      "title": "Frances White",
-      "year": 1928,
-      "imdbRating": 5.1,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2527626",
-      "title": "Fuzzy Knight and His Little Piano",
-      "year": 1928,
-      "imdbRating": 3.8,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192101",
-      "title": "Gus Arnheim and His Ambassadors",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1053360",
-      "title": "Gus Van and Joe Schenck",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2527618",
-      "title": "Joseph Regan: Irish American Tenor",
-      "year": 1928,
-      "imdbRating": 4.4,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2527594",
-      "title": "Leo Beers: World Renowned Whistling Songster",
-      "year": 1928,
-      "imdbRating": 5.4,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019099",
-      "title": "Lingerie",
-      "year": 1928,
-      "imdbVotes": 10,
-      "language": "French, None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706486",
-      "title": "Marion Harris: Songbird of Jazz",
-      "year": 1928,
-      "imdbRating": 5.4,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1131583",
+    "tt1706329",
+    "tt0132076",
+    "tt0430019",
+    "tt1538484",
+    "tt2527626",
+    "tt0192101",
+    "tt1053360",
+    "tt2527618",
+    "tt2527594",
+    "tt0019099",
+    "tt1706486"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_8061",
+      "id": "dipwad2_zoho_8061",
       "title": "806",
       "description": "806",
       "fileSize": 4348460542,
-      "id": "dipwad2_zoho_8061"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_8061",
+      "collection": "feature_films",
+      "downloads": 1729
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_806",
+      "id": "rog56_mail_806",
       "title": "806",
       "description": "806",
       "fileSize": 5855715999,
-      "id": "rog56_mail_806"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_806",
+      "collection": "feature_films",
+      "downloads": 2877
     }
   ],
   "metadata": {
@@ -34,115 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0066495",
-      "title": "The Twelve Chairs",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 7268,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0066344",
-      "title": "Scrooge",
-      "year": 1970,
-      "imdbRating": 7.5,
-      "imdbVotes": 13318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148692",
-      "title": "Safar",
-      "year": 1970,
-      "imdbRating": 7.2,
-      "imdbVotes": 451,
-      "language": "Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065911",
-      "title": "Jane Eyre",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 1174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066049",
-      "title": "A Man Called Horse",
-      "year": 1970,
-      "imdbRating": 6.8,
-      "imdbVotes": 9898,
-      "language": "English, Sioux, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182701",
-      "title": "Amalio Reyes, un hombre",
-      "year": 1970,
-      "imdbRating": 5,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065451",
-      "title": "Barquero",
-      "year": 1970,
-      "imdbRating": 6.3,
-      "imdbVotes": 2131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065466",
-      "title": "Beyond the Valley of the Dolls",
-      "year": 1970,
-      "imdbRating": 6.1,
-      "imdbVotes": 12310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064093",
-      "title": "Black Water Gold",
-      "year": 1970,
-      "imdbRating": 5.8,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194709",
-      "title": "Blum",
-      "year": 1970,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064135",
-      "title": "Carter's Army",
-      "year": 1970,
-      "imdbRating": 5.1,
-      "imdbVotes": 623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066970",
-      "title": "Cold Sweat",
-      "year": 1970,
-      "imdbRating": 5.7,
-      "imdbVotes": 3201,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0066495",
+    "tt0066344",
+    "tt0148692",
+    "tt0065911",
+    "tt0066049",
+    "tt0182701",
+    "tt0065451",
+    "tt0065466",
+    "tt0064093",
+    "tt0194709",
+    "tt0064135",
+    "tt0066970"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/fanchon",
+      "id": "fanchon",
       "title": "Fanchon, The Cricket ( 1915)",
       "description": "Mary, Lottie, and Jack Pickford star in a silent film adaptation of  La Petite Fadette by George Sand.",
       "fileSize": 716828512,
-      "id": "fanchon"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/fanchon",
+      "language": "eng",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 767
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003772",
-      "title": "Cinderella",
-      "year": 1914,
-      "imdbRating": 6.1,
-      "imdbVotes": 1070,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007202",
-      "title": "Poor Little Peppina",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 80,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004681",
-      "title": "Tess of the Storm Country",
-      "year": 1914,
-      "imdbRating": 6,
-      "imdbVotes": 279,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003497",
-      "title": "The Unwelcome Guest",
-      "year": 1913,
-      "imdbRating": 6.6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008188",
-      "title": "The Little American",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008443",
-      "title": "The Poor Little Rich Girl",
-      "year": 1917,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008499",
-      "title": "Rebecca of Sunnybrook Farm",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004972",
-      "title": "The Birth of a Nation",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 26892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005423",
-      "title": "Greater Love Hath No Man",
-      "year": 1915,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005339",
-      "title": "A Fool There Was",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 1008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003772",
+    "tt0007202",
+    "tt0004681",
+    "tt0008519",
+    "tt0003497",
+    "tt0008188",
+    "tt0008443",
+    "tt0008499",
+    "tt0004972",
+    "tt0005423",
+    "tt0005339",
+    "tt0003803"
   ],
   "collections": [],
   "is_curated": true,

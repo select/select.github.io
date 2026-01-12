@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/leaves-of-grass-2009-dvdrip",
+      "id": "leaves-of-grass-2009-dvdrip",
       "title": "Leaves Of Grass",
       "description": "An Ivy League professor is lured back to his Oklahoma hometown, where his twin brother, a small-time pot grower, has concocted a scheme to take down a local drug lord.",
       "fileSize": 1313084187,
-      "id": "leaves-of-grass-2009-dvdrip"
+      "addedAt": "2026-01-07T00:09:38.889Z",
+      "thumbnail": "https://archive.org/services/img/leaves-of-grass-2009-dvdrip",
+      "language": "eng",
+      "year": 2009,
+      "collection": "feature_films",
+      "downloads": 64
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=sFhR1OCO_CM",
+      "id": "sFhR1OCO_CM",
       "title": "Leaves of Grass | Full Movie",
       "description": "A professor (Edward Norton) goes back to his hometown where his twin brother tries to take down a drug lord.",
-      "id": "sFhR1OCO_CM",
+      "addedAt": "2025-12-26T21:38:12.025Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/sFhR1OCO_CM/maxresdefault.webp?v=67db1368",
+      "duration": 6288,
+      "language": "en",
       "channelName": "FilmRise Movies",
       "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
       "regionRestriction": {
@@ -71,119 +81,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1341167",
-      "title": "Four Lions",
-      "year": 2010,
-      "imdbRating": 7.3,
-      "imdbVotes": 86936,
-      "language": "English, Urdu, Punjabi, Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1305008",
-      "title": "The Bill Collector",
-      "year": 2010,
-      "imdbRating": 3.2,
-      "imdbVotes": 461,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1401607",
-      "title": "The Con Artist",
-      "year": 2010,
-      "imdbRating": 4.7,
-      "imdbVotes": 1016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1220888",
-      "title": "Henry's Crime",
-      "year": 2010,
-      "imdbRating": 5.9,
-      "imdbVotes": 22105,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0425253",
-      "title": "Mini's First Time",
-      "year": 2006,
-      "imdbRating": 5.8,
-      "imdbVotes": 8685,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2389182",
-      "title": "Cheap Thrills",
-      "year": 2013,
-      "imdbRating": 6.7,
-      "imdbVotes": 21236,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0028346",
-      "title": "Reefer Madness",
-      "year": 1936,
-      "imdbRating": 3.7,
-      "imdbVotes": 9511,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068519",
-      "title": "Gentlemen of Fortune",
-      "year": 1971,
-      "imdbRating": 8.3,
-      "imdbVotes": 13658,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0032343",
-      "title": "City of Chance",
-      "year": 1940,
-      "imdbRating": 6.6,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038418",
-      "title": "A Close Call for Boston Blackie",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 409,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033871",
-      "title": "A Man Betrayed",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 643,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029199",
-      "title": "A Man Betrayed",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1341167",
+    "tt1305008",
+    "tt1401607",
+    "tt1220888",
+    "tt0425253",
+    "tt2389182",
+    "tt0028346",
+    "tt0068519",
+    "tt0032343",
+    "tt0038418",
+    "tt0033871",
+    "tt0029199"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/gentlemen-of-the-press_1929",
+      "id": "gentlemen-of-the-press_1929",
       "title": "Gentlemen of the Press",
       "fileSize": 2938004621,
-      "id": "gentlemen-of-the-press_1929"
+      "addedAt": "2026-01-07T00:08:32.017Z",
+      "thumbnail": "https://archive.org/services/img/gentlemen-of-the-press_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 284
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017832",
-      "title": "The Drop Kick",
-      "year": 1927,
-      "imdbRating": 5.4,
-      "imdbVotes": 284,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0020072",
-      "title": "The Lady Lies",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 118,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019800",
-      "title": "Dangerous Curves",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020620",
-      "title": "Abraham Lincoln",
-      "year": 1930,
-      "imdbRating": 5.6,
-      "imdbVotes": 1747,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021281",
-      "title": "Raffles",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 1169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021305",
-      "title": "Roadhouse Nights",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022536",
-      "title": "The Vice Squad",
-      "year": 1931,
-      "imdbRating": 6.6,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019933",
+    "tt0017832",
+    "tt0020072",
+    "tt0019800",
+    "tt0020620",
+    "tt0021281",
+    "tt0021305",
+    "tt0021770",
+    "tt0022536",
+    "tt0020030",
+    "tt0019644",
+    "tt0019765"
   ],
   "collections": [],
   "is_curated": true,

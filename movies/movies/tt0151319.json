@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-leaky-faucet-1959",
+      "id": "the-leaky-faucet-1959",
       "title": "The Leaky Faucet (1959)",
       "description": "The Leaky Faucet is a Terrytoons cartoon directed by Martin Taras. Watch on RetroFlix:  https://retroflix.org/the-leaky-faucet-1959/",
       "fileSize": 33783669,
-      "id": "the-leaky-faucet-1959"
+      "addedAt": "2026-01-07T00:12:10.591Z",
+      "thumbnail": "https://archive.org/services/img/the-leaky-faucet-1959",
+      "language": "eng",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 60
     }
   ],
   "metadata": {
@@ -26,102 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0149376",
-      "title": "Wild Life",
-      "year": 1959,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150871",
-      "title": "Hearts and Glowers",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149200",
-      "title": "Stunt Men",
-      "year": 1960,
-      "imdbRating": 4.6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149255",
-      "title": "Thousand Smile Check-Up",
-      "year": 1960,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153339",
-      "title": "Tusk, Tusk",
-      "year": 1960,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0324179",
-      "title": "Techniques of Animation",
-      "year": 1959,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148693",
-      "title": "Sailing and Village Band",
-      "year": 1958,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153669",
-      "title": "The Wayward Hat",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153104",
-      "title": "Tin Pan Alley Cat",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149287",
-      "title": "Trapeze Pleeze",
-      "year": 1960,
-      "imdbRating": 5.1,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150842",
-      "title": "A Hare-Breadth Finish",
-      "year": 1957,
-      "imdbRating": 4.7,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151398",
-      "title": "Love Is Blind",
-      "year": 1957,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0149376",
+    "tt0150871",
+    "tt0149200",
+    "tt0149255",
+    "tt0153339",
+    "tt0324179",
+    "tt0148693",
+    "tt0153669",
+    "tt0153104",
+    "tt0149287",
+    "tt0150842",
+    "tt0151398"
   ],
   "collections": [],
   "is_curated": true,

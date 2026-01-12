@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/escape_202106",
+      "id": "escape_202106",
       "title": "Escape!",
       "description": "A study of punitive justice: the fate of a man who has been shut up in Dartmoor Prison and socially ruined. What treatment awaits him when he turns fugitive?",
       "fileSize": 5591415491,
-      "id": "escape_202106"
+      "addedAt": "2026-01-07T00:08:24.392Z",
+      "thumbnail": "https://archive.org/services/img/escape_202106",
+      "language": "eng",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 1449
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020900",
-      "title": "Framed",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021092",
-      "title": "The Pay-Off",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020668",
-      "title": "The Bat Whispers",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 1270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020810",
-      "title": "Dangerous Paradise",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 141,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021281",
-      "title": "Raffles",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 1169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021305",
-      "title": "Roadhouse Nights",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021359",
-      "title": "Shadow of the Law",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021406",
-      "title": "That Night's Wife",
-      "year": 1930,
-      "imdbRating": 6.9,
-      "imdbVotes": 963,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020686",
-      "title": "The Big House",
-      "year": 1930,
-      "imdbRating": 7.1,
-      "imdbVotes": 2676,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020980",
-      "title": "Walk Cheerfully",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 776,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021198",
-      "title": "Officer O'Brien",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0020900",
+    "tt0021239",
+    "tt0021092",
+    "tt0020668",
+    "tt0020810",
+    "tt0021281",
+    "tt0021305",
+    "tt0021359",
+    "tt0021406",
+    "tt0020686",
+    "tt0020980",
+    "tt0021198"
   ],
   "collections": [],
   "is_curated": true,

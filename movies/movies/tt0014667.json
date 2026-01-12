@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-all-night-long",
+      "id": "silent-all-night-long",
       "title": "All Night Long",
       "fileSize": 341672218,
-      "id": "silent-all-night-long"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-all-night-long",
+      "language": "English",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 770
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014882",
-      "title": "Feet of Mud",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014967",
-      "title": "The Hansom Cabman",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 125,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015096",
-      "title": "The Luck o' the Foolish",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016851",
-      "title": "Fiddlesticks",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 199,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017944",
-      "title": "The Golf Nut",
-      "year": 1927,
-      "imdbRating": 5.5,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016971",
-      "title": "His First Flame",
-      "year": 1927,
-      "imdbRating": 5.8,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018744",
-      "title": "The Campus Vamp",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 156,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279784",
-      "title": "Dora's Dunking Doughnuts",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014992",
-      "title": "His New Mamma",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014903",
-      "title": "The First 100 Years",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 130,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020152",
-      "title": "Matchmaking Mamma",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 124,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015228",
-      "title": "Picking Peaches",
-      "year": 1924,
-      "imdbRating": 6.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0014882",
+    "tt0014967",
+    "tt0015096",
+    "tt0016851",
+    "tt0017944",
+    "tt0016971",
+    "tt0018744",
+    "tt0279784",
+    "tt0014992",
+    "tt0014903",
+    "tt0020152",
+    "tt0015228"
   ],
   "collections": [],
   "is_curated": true,

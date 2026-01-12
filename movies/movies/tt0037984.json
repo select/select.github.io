@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/phantom-speaks-1945",
+      "id": "phantom-speaks-1945",
       "title": "The Phantom Speaks (1945)",
       "description": "Richard Arlen Republic Pictures",
       "fileSize": 985841972,
-      "id": "phantom-speaks-1945"
+      "addedAt": "2026-01-07T00:10:12.699Z",
+      "thumbnail": "https://archive.org/services/img/phantom-speaks-1945",
+      "collection": "feature_films",
+      "downloads": 527
     }
   ],
   "metadata": {
@@ -27,117 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036690",
-      "title": "Call of the South Seas",
-      "year": 1944,
-      "imdbRating": 5.1,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037752",
-      "title": "Grissly's Millions",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038758",
-      "title": "Murder in the Music Hall",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037642",
-      "title": "Dick Tracy",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 1755,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056201",
-      "title": "Doctor of Doom",
-      "year": 1963,
-      "imdbRating": 4.9,
-      "imdbVotes": 384,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1043844",
-      "title": "Eyeborgs",
-      "year": 2009,
-      "imdbRating": 4.9,
-      "imdbVotes": 2308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037694",
-      "title": "Federal Operator 99",
-      "year": 1945,
-      "imdbRating": 7.4,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037038",
-      "title": "Main Street After Dark",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038071",
-      "title": "Sensation Hunters",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 260,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0105459",
-      "title": "Split Second",
-      "year": 1992,
-      "imdbRating": 6,
-      "imdbVotes": 18062,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt7086730",
-      "title": "Devil's Night: Dawn of the Nain Rouge",
-      "year": 2020,
-      "imdbRating": 3.3,
-      "imdbVotes": 343,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1848880",
-      "title": "Experiment 519",
-      "year": 2010,
-      "imdbRating": 4,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036690",
+    "tt0037752",
+    "tt0038758",
+    "tt0037642",
+    "tt0056201",
+    "tt1043844",
+    "tt0037694",
+    "tt0037038",
+    "tt0038071",
+    "tt0105459",
+    "tt7086730",
+    "tt1848880"
   ],
   "collections": [],
   "is_curated": true,

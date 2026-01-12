@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Flirting_with_Fate",
+      "id": "Flirting_with_Fate",
       "title": "Flirting with Fate",
       "description": "From IMDb : In the midst of an emotional depression, a man hires a murderer to kill him. But the despair soon passes, and the man must now escape the killer he's hired to end his life. Stars: Douglas Fairbanks, W. E. Lawrence, Jewel Carmen, Dorothy Haydel, George Beranger, and J. P. McCarty",
       "fileSize": 1096752086,
-      "id": "Flirting_with_Fate"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/Flirting_with_Fate",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 7712
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-flirting-with-fate",
+      "id": "silent-flirting-with-fate",
       "title": "Flirting with Fate",
       "fileSize": 1181856265,
-      "id": "silent-flirting-with-fate"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-flirting-with-fate",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 284
     }
   ],
   "metadata": {
@@ -34,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006357",
-      "title": "American Aristocracy",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036762",
-      "title": "Dixie Jamboree",
-      "year": 1944,
-      "imdbRating": 4.6,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008498",
-      "title": "Reaching for the Moon",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 111,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007031",
-      "title": "Manhattan Madness",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011474",
-      "title": "The Mollycoddle",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025681",
-      "title": "The Private Life of Don Juan",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 752,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032392",
-      "title": "The Devil's Pipeline",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031691",
-      "title": "Mutiny on the Blackhawk",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0006357",
+    "tt0036762",
+    "tt0008309",
+    "tt0008498",
+    "tt0009142",
+    "tt0007031",
+    "tt0008519",
+    "tt0011474",
+    "tt0023243",
+    "tt0025681",
+    "tt0032392",
+    "tt0031691"
   ],
   "collections": [],
   "is_curated": true,

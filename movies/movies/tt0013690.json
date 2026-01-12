@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-tommy-tuckers-tooth",
+      "id": "silent-tommy-tuckers-tooth",
       "title": "Tommy Tucker's Tooth",
       "fileSize": 84600848,
-      "id": "silent-tommy-tuckers-tooth"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-tommy-tuckers-tooth",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 458
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013014",
-      "title": "Cinderella",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 518,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2236486",
-      "title": "Jack the Giant Killer",
-      "year": 1922,
-      "imdbRating": 4.9,
-      "imdbVotes": 129,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013520",
-      "title": "Puss in Boots",
-      "year": 1922,
-      "imdbRating": 5.4,
-      "imdbVotes": 367,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013149",
-      "title": "The Four Musicians of Bremen",
-      "year": 1922,
-      "imdbRating": 5,
-      "imdbVotes": 385,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014664",
-      "title": "Alice's Spooky Adventure",
-      "year": 1924,
-      "imdbRating": 5.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014659",
-      "title": "Alice and the Dog Catcher",
-      "year": 1924,
-      "imdbRating": 4.9,
-      "imdbVotes": 220,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014660",
-      "title": "Alice and the Three Bears",
-      "year": 1924,
-      "imdbRating": 4.8,
-      "imdbVotes": 232,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014656",
-      "title": "Alice Gets in Dutch",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 268,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014661",
-      "title": "Alice the Peacemaker",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 91,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014658",
-      "title": "Alice the Piper",
-      "year": 1924,
-      "imdbRating": 6.5,
-      "imdbVotes": 68,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014662",
-      "title": "Alice's Day at Sea",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 282,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014663",
-      "title": "Alice's Fishy Story",
-      "year": 1924,
-      "imdbRating": 4.6,
-      "imdbVotes": 179,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    }
+    "tt0013014",
+    "tt2236486",
+    "tt0013520",
+    "tt0013149",
+    "tt0014664",
+    "tt0014659",
+    "tt0014660",
+    "tt0014656",
+    "tt0014661",
+    "tt0014658",
+    "tt0014662",
+    "tt0014663"
   ],
   "collections": [
     {

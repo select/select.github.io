@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheTamingOfTheShrew",
+      "id": "TheTamingOfTheShrew",
       "title": "The Taming of the Shrew",
       "description": "This is an old Mary Pickford and Samuel Taylor movie",
       "fileSize": 1396180043,
-      "id": "TheTamingOfTheShrew"
+      "addedAt": "2026-01-07T00:07:05.037Z",
+      "thumbnail": "https://archive.org/services/img/TheTamingOfTheShrew",
+      "collection": "feature_films",
+      "downloads": 37732
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheTamingOfTheShrew-Featurette",
+      "id": "TheTamingOfTheShrew-Featurette",
       "title": "The Taming of the Shrew - Featurette",
       "description": "Featurette featuring a short conversation between Richard Burton and Elizabeth Taylor and footage from the Royal Gall opening for the film.",
       "fileSize": 108575017,
-      "id": "TheTamingOfTheShrew-Featurette"
+      "addedAt": "2026-01-07T00:07:05.037Z",
+      "thumbnail": "https://archive.org/services/img/TheTamingOfTheShrew-Featurette",
+      "collection": "feature_films",
+      "downloads": 9070
     }
   ],
   "metadata": {
@@ -35,117 +43,18 @@
     "Awards": "Nominated for 2 Oscars. 7 wins & 7 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0063518",
-      "title": "Romeo and Juliet",
-      "year": 1968,
-      "imdbRating": 7.6,
-      "imdbVotes": 36409,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0061722",
-      "title": "The Graduate",
-      "year": 1967,
-      "imdbRating": 8,
-      "imdbVotes": 300245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060802",
-      "title": "Closely Watched Trains",
-      "year": 1966,
-      "imdbRating": 7.6,
-      "imdbVotes": 14604,
-      "language": "Czech, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0334192",
-      "title": "Póker de amantes para tres",
-      "year": 1969,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043526",
-      "title": "Father's Little Dividend",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 4427,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194709",
-      "title": "Blum",
-      "year": 1970,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059927",
-      "title": "The Yellow Rolls-Royce",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4263,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3101386",
-      "title": "The Christmas Spirit",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0063518",
+    "tt0060802",
+    "tt0334192",
+    "tt0043526",
+    "tt0194709",
+    "tt0059927",
+    "tt0032599",
+    "tt0027311",
+    "tt0033891",
+    "tt0027286",
+    "tt3101386",
+    "tt0028010"
   ],
   "collections": [
     {

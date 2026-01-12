@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/prison_shadows",
+      "id": "prison_shadows",
       "title": "Prison Shadows",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3982993580,
-      "id": "prison_shadows"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/prison_shadows",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 67079
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=vzGa422Zk6k",
+      "id": "vzGa422Zk6k",
       "title": "Prison Shadows (1936) FIGHT FILM",
       "description": "Stars: Edward J. Nugent, Lucille Lund, Joan Barclay\n Director: Robert F. Hill\n\n A boxer is framed for murder after an opponent dies in the ring.",
-      "id": "vzGa422Zk6k",
+      "addedAt": "2025-12-26T23:53:25.142Z",
+      "thumbnail": "https://i.ytimg.com/vi/vzGa422Zk6k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhnIGcoZzAP&rs=AOn4CLAbZGY4bd1LS3X-ZpZCMH8If6pLqg",
+      "duration": 4042,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027839",
-      "title": "Kelly of the Secret Service",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028241",
-      "title": "Shadow of Chinatown",
-      "year": 1936,
-      "imdbRating": 4.5,
-      "imdbVotes": 303,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029701",
-      "title": "Two Minutes to Play",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028637",
-      "title": "Blake of Scotland Yard",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029199",
-      "title": "A Man Betrayed",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028342",
-      "title": "Taming the Wild",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028396",
-      "title": "Too Much Beef",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026563",
-      "title": "Kentucky Blue Streak",
-      "year": 1935,
-      "imdbRating": 4,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030143",
-      "title": "Flying Fists",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025309",
-      "title": "Inside Information",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027697",
-      "title": "Great Guy",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027839",
+    "tt0028241",
+    "tt0029701",
+    "tt0028637",
+    "tt0029199",
+    "tt0028342",
+    "tt0028396",
+    "tt0026563",
+    "tt0030143",
+    "tt0025309",
+    "tt0028231",
+    "tt0027697"
   ],
   "collections": [],
   "is_curated": true,

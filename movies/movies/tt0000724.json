@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-merchant-of-venice",
+      "id": "silent-the-merchant-of-venice",
       "title": "The Merchant of Venice",
       "fileSize": 122413950,
-      "id": "silent-the-merchant-of-venice"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-merchant-of-venice",
+      "year": 1908,
+      "collection": "feature_films",
+      "downloads": 554
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0143357",
-      "title": "Lady Godiva",
-      "year": 1911,
-      "imdbRating": 5,
-      "imdbVotes": 108,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000553",
-      "title": "The Haunted Hotel",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 557,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0125564",
-      "title": "Twelfth Night",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 286,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1840952",
-      "title": "The Last Cartridge, an Incident of the Sepoy Rebellion in India",
-      "year": 1908,
-      "imdbRating": 4.7,
-      "imdbVotes": 102,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0288252",
-      "title": "The Thieving Hand",
-      "year": 1908,
-      "imdbRating": 6.6,
-      "imdbVotes": 678,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000928",
-      "title": "King Lear",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 98,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140331",
-      "title": "Lightning Sketches",
-      "year": 1907,
-      "imdbRating": 5.1,
-      "imdbVotes": 175,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001009",
-      "title": "Princess Nicotine; or, the Smoke Fairy",
-      "year": 1909,
-      "imdbRating": 6.5,
-      "imdbVotes": 981,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0258254",
-      "title": "A Tin-Type Romance",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000554",
-      "title": "Humorous Phases of Funny Faces",
-      "year": 1906,
-      "imdbRating": 6.3,
-      "imdbVotes": 1418,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000640",
-      "title": "An Awful Moment",
-      "year": 1908,
-      "imdbRating": 4.4,
-      "imdbVotes": 146,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000700",
-      "title": "Her First Adventure",
-      "year": 1908,
-      "imdbRating": 5.1,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0143357",
+    "tt0000553",
+    "tt0125564",
+    "tt1840952",
+    "tt0288252",
+    "tt0000928",
+    "tt0140331",
+    "tt0001009",
+    "tt0258254",
+    "tt0000554",
+    "tt0000640",
+    "tt0000700"
   ],
   "collections": [],
   "is_curated": true,

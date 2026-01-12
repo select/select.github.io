@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-thirsty-dead",
+      "id": "the-thirsty-dead",
       "title": "THE THIRSTY DEAD",
       "description": "Beautiful young girls are kidnapped off the streets of Manila by a death cult that needs their blood to remain immortal.",
       "fileSize": 562185077,
-      "id": "the-thirsty-dead"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-thirsty-dead",
+      "collection": "feature_films",
+      "downloads": 608
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=zsSrKNnKw7I",
+      "id": "zsSrKNnKw7I",
       "title": "The Thirsty Dead (1974) Blood Hunt",
       "description": "Stars: Jennifer Billingsley, Judith McConnell, John Considine\nWriter/Director: Terry Becker\n\nBeautiful young girls are kidnapped off the streets of Manila by a death cult that needs their blood to remain immortal.",
-      "id": "zsSrKNnKw7I",
+      "addedAt": "2025-12-26T23:56:51.472Z",
+      "thumbnail": "https://i.ytimg.com/vi/zsSrKNnKw7I/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB-gSAAuADigIMCAAQARhQIGUoLTAP&rs=AOn4CLAngoN4nfKZC2afOXgbh-Xo033UdQ",
+      "duration": 5400,
+      "language": "en",
+      "year": 1974,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,122 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0072231",
-      "title": "At Home Among Strangers, a Stranger Among His Own",
-      "year": 1974,
-      "imdbRating": 7.4,
-      "imdbVotes": 3763,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0023238",
-      "title": "The Most Dangerous Game",
-      "year": 1932,
-      "imdbRating": 7.1,
-      "imdbVotes": 14392,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071276",
-      "title": "Captain Kronos: Vampire Hunter",
-      "year": 1974,
-      "imdbRating": 6.3,
-      "imdbVotes": 6134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0112747",
-      "title": "Cruel Jaws",
-      "year": 1995,
-      "imdbRating": 3.3,
-      "imdbVotes": 969,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168838",
-      "title": "La gran aventura",
-      "year": 1974,
-      "imdbRating": 5.8,
-      "imdbVotes": 33,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0867286",
-      "title": "Eye of the Beast",
-      "year": 2007,
-      "imdbRating": 4.3,
-      "imdbVotes": 1554,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0896816",
-      "title": "Grizzly Rage",
-      "year": 2007,
-      "imdbRating": 2.6,
-      "imdbVotes": 1791,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt3705822",
-      "title": "Moontrap: Target Earth",
-      "year": 2017,
-      "imdbRating": 2.8,
-      "imdbVotes": 4903,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1094162",
-      "title": "AVH: Alien vs. Hunter",
-      "year": 2007,
-      "imdbRating": 1.5,
-      "imdbVotes": 3548,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4247682",
-      "title": "All Girls Weekend",
-      "year": 2016,
-      "imdbRating": 2.9,
-      "imdbVotes": 2220,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0022028",
-      "title": "King of the Wild",
-      "year": 1931,
-      "imdbRating": 6,
-      "imdbVotes": 141,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0221905",
-      "title": "Octopus",
-      "year": 2000,
-      "imdbRating": 3,
-      "imdbVotes": 1864,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0072231",
+    "tt0023238",
+    "tt0071276",
+    "tt0112747",
+    "tt0168838",
+    "tt0867286",
+    "tt0896816",
+    "tt3705822",
+    "tt1094162",
+    "tt4247682",
+    "tt0022028",
+    "tt0221905"
   ],
   "collections": [],
   "is_curated": true,

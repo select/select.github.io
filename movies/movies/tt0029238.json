@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/midnight-court-1937-fr",
+      "id": "midnight-court-1937-fr",
       "title": "Midnight Court (1937)",
       "description": "Ann Dvorak, John Litel ",
       "fileSize": 923580668,
-      "id": "midnight-court-1937-fr"
+      "addedAt": "2026-01-07T00:09:46.435Z",
+      "thumbnail": "https://archive.org/services/img/midnight-court-1937-fr",
+      "collection": "feature_films",
+      "downloads": 776
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029050",
-      "title": "Internes Can't Take Money",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 823,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029319",
-      "title": "Non-Stop New York",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028737",
-      "title": "Confession",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 1311,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0029362",
-      "title": "The Outer Gate",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029378",
-      "title": "Parole Racket",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029812",
-      "title": "Youth on Parole",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027568",
-      "title": "Ellis Island",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 89,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027784",
-      "title": "I'd Give My Life",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030648",
-      "title": "Racing Blood",
-      "year": 1936,
-      "imdbRating": 4.7,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028607",
+    "tt0028770",
+    "tt0029050",
+    "tt0029319",
+    "tt0028737",
+    "tt0029362",
+    "tt0029378",
+    "tt0029812",
+    "tt0027568",
+    "tt0027784",
+    "tt0030323",
+    "tt0030648"
   ],
   "collections": [],
   "is_curated": true,

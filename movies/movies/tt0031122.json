@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/bronze_buckaroo",
+      "id": "bronze_buckaroo",
       "title": "The Bronze Buckaroo",
       "description": "Taken from IMDB : Bob Blake and his boys arrive at Joe Jackson's ranch to find him missing. While Slim cheats Dusty out of his money using ventriloquism and marked cards, Blake tries to find Jackson. Learning that Thorne and his gang hold him prisoner, he and his men trail them. When Thorne's gang gets the drop on them, Slim puts his ventriloquism to work.",
       "fileSize": 1134863355,
-      "id": "bronze_buckaroo"
+      "addedAt": "2026-01-07T00:07:45.164Z",
+      "thumbnail": "https://archive.org/services/img/bronze_buckaroo",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 42813
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=D6ZDeKYjVSk",
+      "id": "D6ZDeKYjVSk",
       "title": "The Bronze Buckaroo (1939) WESTERN",
       "description": "BLACK HISTORY MONTH\nStars: Herb Jeffries, Lucius Brooks, Artie Young \n Writer/Director: Richard C. Kahn\n\n Bob Blake and his boys arrive at Joe Jackson's ranch to find him missing. While Slim cheats Dusty out of his money using ventriloquism and marked cards, Blake tries to find Jackson. Learning that Thorne and his gang hold him prisoner, he and his men trail them. When Thorne's gang gets the drop on them, Slim puts his ventriloquism to work.",
-      "id": "D6ZDeKYjVSk",
+      "addedAt": "2025-12-26T23:54:31.481Z",
+      "thumbnail": "https://i.ytimg.com/vi/D6ZDeKYjVSk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCn-fHfYdRQJrUN-xxStJ3TG1Zmug",
+      "duration": 3338,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135694",
-      "title": "Two-Gun Man from Harlem",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031406",
-      "title": "Harlem Rides the Range",
-      "year": 1939,
-      "imdbRating": 5,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031124",
-      "title": "Bulldog Drummond's Bride",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 542,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031207",
-      "title": "Daredevils of the Red Circle",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031177",
-      "title": "Conspiracy",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 198,
-      "language": "English, Esperanto",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021231",
-      "title": "Paradise Island",
-      "year": 1930,
-      "imdbRating": 4.6,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0033060",
-      "title": "Sky Patrol",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032137",
-      "title": "The Witness Vanishes",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032112",
-      "title": "Water Rustlers",
-      "year": 1939,
-      "imdbRating": 4.6,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032114",
-      "title": "Way Down South",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 247,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032164",
-      "title": "Zorro's Fighting Legion",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 480,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031703",
-      "title": "Mystery Plane",
-      "year": 1939,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0135694",
+    "tt0031406",
+    "tt0031124",
+    "tt0031207",
+    "tt0031177",
+    "tt0021231",
+    "tt0033060",
+    "tt0032137",
+    "tt0032112",
+    "tt0032114",
+    "tt0032164",
+    "tt0031703"
   ],
   "collections": [],
   "is_curated": true,

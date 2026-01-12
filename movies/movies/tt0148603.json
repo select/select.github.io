@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pickled-puss",
+      "id": "pickled-puss",
       "title": "Pickled Puss",
       "description": "The cat and mouse are in their usual game of chase-and-pursue until the mouse hides in a pickled-herring barrel. The cat gets intoxicated from inhaling the fumes and immediately becomes the mouse's newest best friend. He defends the mouse from a mean alley cat, and the mouse invites him to come home with him. There, the mouse takes care of him and sobers him up, and the cat immediately begins to chase him again. He reaches the barrel again and regains his newest best friend.",
       "fileSize": 82858711,
-      "id": "pickled-puss"
+      "addedAt": "2026-01-07T00:10:12.700Z",
+      "thumbnail": "https://archive.org/services/img/pickled-puss",
+      "collection": "feature_films",
+      "downloads": 372
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pickled-puss-1948",
+      "id": "pickled-puss-1948",
       "title": "Pickled Puss (1948)",
       "description": "The cat and mouse are in their usual game of chase-and-pursue until the mouse hides in a pickled-herring barrel. The cat gets intoxicated from inhaling the fumes and immediately becomes the mouse's newest best friend. He defends the mouse from a mean alley cat, and the mouse invites him to come home with him. There, the mouse takes care of him and sobers him up, and the cat immediately begins to chase him again. He reaches the barrel again and regains his newest best friend. Charlie Chaplin deserves an (uncredited) story listing. Watch on RetroFlix:  https://retroflix.org/pickled-puss-1948/",
       "fileSize": 82834407,
-      "id": "pickled-puss-1948"
+      "addedAt": "2026-01-07T00:10:12.700Z",
+      "thumbnail": "https://archive.org/services/img/pickled-puss-1948",
+      "language": "eng",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 199
     }
   ],
   "metadata": {
@@ -35,109 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0151321",
-      "title": "Leave Us Chase It",
-      "year": 1947,
-      "imdbRating": 5.2,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148419",
-      "title": "Loco Lobo",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149273",
-      "title": "Tooth or Consequences",
-      "year": 1947,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147949",
-      "title": "Cagey Bird",
-      "year": 1946,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036764",
-      "title": "Dog, Cat, and Canary",
-      "year": 1945,
-      "imdbRating": 5.6,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148310",
-      "title": "Hot Foot Lights",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045258",
-      "title": "Tree for Two",
-      "year": 1952,
-      "imdbRating": 7.4,
-      "imdbVotes": 325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148627",
-      "title": "Polar Playmates",
-      "year": 1946,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043082",
-      "title": "Two's a Crowd",
-      "year": 1950,
-      "imdbRating": 7.3,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149316",
-      "title": "Unsure Runts",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029502",
-      "title": "Rover's Rival",
-      "year": 1937,
-      "imdbRating": 6.5,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147957",
-      "title": "Carnival Courage",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0151321",
+    "tt0148419",
+    "tt0149273",
+    "tt0147949",
+    "tt0036764",
+    "tt0148310",
+    "tt0045258",
+    "tt0148627",
+    "tt0043082",
+    "tt0149316",
+    "tt0029502",
+    "tt0147957"
   ],
   "collections": [],
   "is_curated": true,

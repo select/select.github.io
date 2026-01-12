@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/I_Cant_Escape_1934",
+      "id": "I_Cant_Escape_1934",
       "title": "I Can't Escape",
       "description": "Finding it impossible to land a job, a man paroled from prison is used as a patsy by perpetrators of a financial scam.",
       "fileSize": 1245907299,
-      "id": "I_Cant_Escape_1934"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/I_Cant_Escape_1934",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 7018
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=2NVBXjLAp6M",
+      "id": "2NVBXjLAp6M",
       "title": "I Can't Escape (1934) CRIME DRAMA",
       "description": "Stars: Onslow Stevens, Lila Lee, Russell Gleason\nDirector: Otto Brower\n\nAn ex-convict, unable to get a good job because of his prison record, gets mixed up in a phony stock scam!",
-      "id": "2NVBXjLAp6M",
+      "addedAt": "2025-12-26T23:47:37.490Z",
+      "thumbnail": "https://i.ytimg.com/vi/2NVBXjLAp6M/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhcIFwoXDAP&rs=AOn4CLBd5rq1k8R1rdXOTkDuVdWysksh_w",
+      "duration": 3329,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028132",
-      "title": "Postal Inspector",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030684",
-      "title": "Road Demon",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024904",
-      "title": "Bombay Mail",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030164",
-      "title": "Fury Below",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024400",
-      "title": "Officer Thirteen",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027398",
-      "title": "The Bridge of Sighs",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027564",
-      "title": "Easy Money",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023368",
-      "title": "Radio Patrol",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022951",
-      "title": "Gold",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025518",
-      "title": "The Moth",
-      "year": 1934,
-      "imdbRating": 4.8,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028132",
+    "tt0030684",
+    "tt0024904",
+    "tt0030164",
+    "tt0024400",
+    "tt0027398",
+    "tt0027564",
+    "tt0023368",
+    "tt0022951",
+    "tt0024985",
+    "tt0027003",
+    "tt0025518"
   ],
   "collections": [],
   "is_curated": true,

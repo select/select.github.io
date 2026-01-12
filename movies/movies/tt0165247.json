@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/secret-ninja-roaring-tiger",
+      "id": "secret-ninja-roaring-tiger",
       "title": "Secret Ninja Roaring Tiger",
       "description": "Dragon Kong, a martial-arts champion, begins his most dangerous quest so far. Tiger, a legendary fighter, has kidnapped Susan, daughter of the millionaire who holds martial arts contests, and an unbelievable truth begins to reveal itself.",
       "fileSize": 785963839,
-      "id": "secret-ninja-roaring-tiger"
+      "addedAt": "2026-01-07T00:10:40.954Z",
+      "thumbnail": "https://archive.org/services/img/secret-ninja-roaring-tiger",
+      "collection": "feature_films",
+      "downloads": 661
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0082338",
-      "title": "Turkey Shoot",
-      "year": 1982,
-      "imdbRating": 5.9,
-      "imdbVotes": 4584,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2375289",
-      "title": "Maranatha",
-      "year": 1982,
-      "language": "Tagalog, Filipino",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079891",
-      "title": "The Shaolin Temple",
-      "year": 1982,
-      "imdbRating": 6.8,
-      "imdbVotes": 4984,
-      "language": "Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082622",
-      "title": "Knightriders",
-      "year": 1981,
-      "imdbRating": 6.3,
-      "imdbVotes": 5869,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0323649",
-      "title": "Pistoleros famosos",
-      "year": 1981,
-      "imdbRating": 7.3,
-      "imdbVotes": 31,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082332",
-      "title": "Enter the Ninja",
-      "year": 1981,
-      "imdbRating": 5.2,
-      "imdbVotes": 5946,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086192",
-      "title": "Revenge of the Ninja",
-      "year": 1983,
-      "imdbRating": 6,
-      "imdbVotes": 6416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230904",
-      "title": "The Jackals",
-      "year": 1981,
-      "imdbRating": 5.8,
-      "imdbVotes": 547,
-      "language": "Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0166016",
-      "title": "The Weapons of Death",
-      "year": 1981,
-      "imdbRating": 4.4,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082968",
-      "title": "Treasure of the Yankee Zephyr",
-      "year": 1981,
-      "imdbRating": 5.6,
-      "imdbVotes": 1184,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0352599",
-      "title": "Mujeres salvajes",
-      "year": 1984,
-      "imdbRating": 5.5,
-      "imdbVotes": 80,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186909",
-      "title": "The Guy with the Secret Kung Fu",
-      "year": 1980,
-      "imdbRating": 3.9,
-      "imdbVotes": 188,
-      "language": "Mandarin",
-      "sourceType": "archive.org"
-    }
+    "tt0082338",
+    "tt2375289",
+    "tt0079891",
+    "tt0082622",
+    "tt0323649",
+    "tt0082332",
+    "tt0086192",
+    "tt0230904",
+    "tt0166016",
+    "tt0082968",
+    "tt0352599",
+    "tt0186909"
   ],
   "collections": [],
   "is_curated": true,

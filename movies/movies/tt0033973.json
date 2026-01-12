@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kruger_202301",
+      "id": "kruger_202301",
       "title": "Krüger",
       "description": "Kamerad Krüger Ausschnitt am Ende Vorlesung von Geheimbefehl des Führers bzgl.SS Gestapo",
       "fileSize": 25582694,
-      "id": "kruger_202301"
+      "addedAt": "2026-01-07T00:09:24.701Z",
+      "thumbnail": "https://archive.org/services/img/kruger_202301",
+      "collection": "feature_films",
+      "downloads": 58
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036051",
-      "title": "Jack London",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 463,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031737",
-      "title": "Nurse Edith Cavell",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 416,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038120",
-      "title": "Story of G.I. Joe",
-      "year": 1945,
-      "imdbRating": 7.2,
-      "imdbVotes": 4206,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020620",
-      "title": "Abraham Lincoln",
-      "year": 1930,
-      "imdbRating": 5.6,
-      "imdbVotes": 1747,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033451",
-      "title": "Carl Peters",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048413",
-      "title": "Napoleon",
-      "year": 1955,
-      "imdbRating": 6,
-      "imdbVotes": 615,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051454",
-      "title": "Carve Her Name with Pride",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 1924,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2557276",
-      "title": "Against the Sun",
-      "year": 2014,
-      "imdbRating": 6.5,
-      "imdbVotes": 6827,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1316616",
-      "title": "There Be Dragons",
-      "year": 2011,
-      "imdbRating": 5.7,
-      "imdbVotes": 5176,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0047956",
-      "title": "The Court-Martial of Billy Mitchell",
-      "year": 1955,
-      "imdbRating": 6.8,
-      "imdbVotes": 2367,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051776",
-      "title": "The Inn of the Sixth Happiness",
-      "year": 1958,
-      "imdbRating": 7.2,
-      "imdbVotes": 5539,
-      "language": "English, Japanese, Mandarin, Russian, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055270",
-      "title": "The Outsider",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 1113,
-      "language": "English, North American Indian",
-      "sourceType": "archive.org"
-    }
+    "tt0036051",
+    "tt0031737",
+    "tt0038120",
+    "tt0020620",
+    "tt0033451",
+    "tt0048413",
+    "tt0051454",
+    "tt2557276",
+    "tt1316616",
+    "tt0047956",
+    "tt0051776",
+    "tt0055270"
   ],
   "collections": [],
   "is_curated": true,

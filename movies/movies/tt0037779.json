@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/his_brothers_ghost",
+      "id": "his_brothers_ghost",
       "title": "His Brother's Ghost",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4190744110,
-      "id": "his_brothers_ghost"
+      "addedAt": "2026-01-07T00:08:46.612Z",
+      "thumbnail": "https://archive.org/services/img/his_brothers_ghost",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 56559
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037728",
-      "title": "Gangster's Den",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038078",
-      "title": "Shadows of Death",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036844",
-      "title": "Fuzzy Settles Down",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037142",
-      "title": "Oath of Vengeance",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037237",
-      "title": "Rustlers' Hideout",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037464",
-      "title": "Wild Horse Phantom",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035680",
-      "title": "Blazing Frontier",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036523",
-      "title": "Western Cyclone",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037728",
+    "tt0038078",
+    "tt0036844",
+    "tt0037142",
+    "tt0037237",
+    "tt0037464",
+    "tt0035680",
+    "tt0035723",
+    "tt0035804",
+    "tt0035908",
+    "tt0036074",
+    "tt0036523"
   ],
   "collections": [],
   "is_curated": true,

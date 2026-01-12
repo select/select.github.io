@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-ride-on-a-runaway-train",
+      "id": "silent-ride-on-a-runaway-train",
       "title": "Ride on a Runaway Train",
       "fileSize": 114611456,
-      "id": "silent-ride-on-a-runaway-train"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-ride-on-a-runaway-train",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 466
     }
   ],
   "metadata": {
@@ -26,103 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0140524",
-      "title": "Running a Cinema",
-      "year": 1921,
-      "imdbRating": 5.2,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0166609",
-      "title": "The First Circus",
-      "year": 1921,
-      "imdbRating": 5.4,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1496023",
-      "title": "Uncle Sam Donates for Liberty Loans",
-      "year": 1919,
-      "imdbRating": 4.7,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419883",
-      "title": "Kinken chochiku Shiobara Tasuke",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 18,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1496006",
-      "title": "The United Snakes of America",
-      "year": 1917,
-      "imdbRating": 5.3,
-      "imdbVotes": 43,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146584",
-      "title": "Cracked Ice",
-      "year": 1927,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150344",
-      "title": "Dizzy Ducks",
-      "year": 1937,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0140524",
+    "tt0166609",
+    "tt1496023",
+    "tt0419883",
+    "tt1496006",
+    "tt0148531",
+    "tt14091630",
+    "tt12305226",
+    "tt12304756",
+    "tt1020989",
+    "tt0146584",
+    "tt0150344"
   ],
   "collections": [],
   "is_curated": true,

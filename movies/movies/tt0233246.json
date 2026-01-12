@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-at-bear-track-gulch",
+      "id": "silent-at-bear-track-gulch",
       "title": "At Bear Track Gulch",
       "fileSize": 348948160,
-      "id": "silent-at-bear-track-gulch"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-at-bear-track-gulch",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 248
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0329121",
-      "title": "The Girl Ranchers",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003943",
-      "title": "Fatty and Minnie He-Haw",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006801",
-      "title": "His Bitter Pill",
-      "year": 1916,
-      "imdbRating": 5.3,
-      "imdbVotes": 192,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006913",
-      "title": "Legal Advice",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0214588",
-      "title": "A Christmas Accident",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233498",
-      "title": "The Crime of Carelessness",
-      "year": 1912,
-      "imdbRating": 5.5,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000488",
-      "title": "The Land Beyond the Sunset",
-      "year": 1912,
-      "imdbRating": 6.9,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015477",
-      "title": "West of Hot Dog",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003177",
-      "title": "A Muddy Romance",
-      "year": 1913,
-      "imdbRating": 4.8,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003417",
-      "title": "A Strong Revenge",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 58,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002663",
-      "title": "Barney Oldfield's Race for a Life",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 419,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002755",
-      "title": "Cohen Saves the Flag",
-      "year": 1913,
-      "imdbRating": 4.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0329121",
+    "tt0003943",
+    "tt0006801",
+    "tt0006913",
+    "tt0214588",
+    "tt0233498",
+    "tt0000488",
+    "tt0015477",
+    "tt0003177",
+    "tt0003417",
+    "tt0002663",
+    "tt0002755"
   ],
   "collections": [],
   "is_curated": true,

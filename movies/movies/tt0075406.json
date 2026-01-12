@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/voyage-of-the-damned-1976",
+      "id": "voyage-of-the-damned-1976",
       "title": "Voyage Of The Damned (1976)",
       "description": "Voyage of the Damned is a 1976 drama film directed by Stuart Rosenberg. It  follows the true story of the MS St. Louis, which carried 937 Jewish refugees fleeing Nazi Germany in 1939, hoping to find asylum in Cuba. However, upon arrival, they are denied entry, and after being rejected by the United States and Canada, the ship is forced to return to Europe, where many of the passengers face tragic fates.",
       "fileSize": 1529573345,
-      "id": "voyage-of-the-damned-1976"
+      "addedAt": "2026-01-07T00:13:06.700Z",
+      "thumbnail": "https://archive.org/services/img/voyage-of-the-damned-1976",
+      "language": "eng",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 205
     }
   ],
   "metadata": {
@@ -27,118 +33,18 @@
     "Awards": "Nominated for 3 Oscars. 1 win & 10 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074400",
-      "title": "The Desert of the Tartars",
-      "year": 1976,
-      "imdbRating": 7.5,
-      "imdbVotes": 2726,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075404",
-      "title": "The Ascent",
-      "year": 1977,
-      "imdbRating": 8.2,
-      "imdbVotes": 11540,
-      "language": "Russian, German",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0075784",
-      "title": "A Bridge Too Far",
-      "year": 1977,
-      "imdbRating": 7.4,
-      "imdbVotes": 66372,
-      "language": "English, German, Dutch, Polish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074161",
-      "title": "Aty-baty, shli soldaty...",
-      "year": 1977,
-      "imdbRating": 7.7,
-      "imdbVotes": 1054,
-      "language": "Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074695",
-      "title": "Cross of Iron",
-      "year": 1977,
-      "imdbRating": 7.4,
-      "imdbVotes": 29786,
-      "language": "English, Russian, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073488",
-      "title": "They Fought for Their Country",
-      "year": 1975,
-      "imdbRating": 7.7,
-      "imdbVotes": 3298,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0077362",
-      "title": "Coming Home",
-      "year": 1978,
-      "imdbRating": 7.3,
-      "imdbVotes": 15594,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0061512",
-      "title": "Cool Hand Luke",
-      "year": 1967,
-      "imdbRating": 8,
-      "imdbVotes": 195369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074958",
-      "title": "Network",
-      "year": 1976,
-      "imdbRating": 8.1,
-      "imdbVotes": 176692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0078753",
-      "title": "All Quiet on the Western Front",
-      "year": 1979,
-      "imdbRating": 7.1,
-      "imdbVotes": 11174,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0171661",
-      "title": "Prishyol soldat s fronta",
-      "year": 1972,
-      "imdbRating": 7.7,
-      "imdbVotes": 55,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt8739606",
-      "title": "Oghneya Ala El Mamar",
-      "year": 1972,
-      "imdbRating": 6.7,
-      "imdbVotes": 81,
-      "language": "Arabic",
-      "sourceType": "archive.org"
-    }
+    "tt0074400",
+    "tt0075404",
+    "tt0075784",
+    "tt0074161",
+    "tt0074695",
+    "tt0073488",
+    "tt0077362",
+    "tt0061512",
+    "tt0074958",
+    "tt0078753",
+    "tt0171661",
+    "tt8739606"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheFaceAtTheWindow",
+      "id": "TheFaceAtTheWindow",
       "title": "The Face at the Window",
       "description": "Set in France in 1880. A series of murders is attributed to a Wolf Man.",
       "fileSize": 1107710488,
-      "id": "TheFaceAtTheWindow"
+      "addedAt": "2026-01-07T00:06:58.274Z",
+      "thumbnail": "https://archive.org/services/img/TheFaceAtTheWindow",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 28241
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027481",
-      "title": "The Crimes of Stephen Hawke",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 350,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259235",
-      "title": "The Case of the Frightened Lady",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031208",
-      "title": "The Human Monster",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 1604,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031449",
-      "title": "The House of Fear",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031951",
-      "title": "Son of Frankenstein",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 13067,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035452",
-      "title": "Tomorrow We Live",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 263,
-      "language": "German, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032412",
-      "title": "Dr. Cyclops",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 3034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032635",
-      "title": "The Invisible Man Returns",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 5530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030734",
-      "title": "Sexton Blake and the Hooded Terror",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033760",
-      "title": "Invisible Ghost",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 2719,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039821",
-      "title": "The Shop at Sly Corner",
-      "year": 1947,
-      "imdbRating": 6.6,
-      "imdbVotes": 422,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027481",
+    "tt0259235",
+    "tt0031208",
+    "tt0031449",
+    "tt0031951",
+    "tt0035452",
+    "tt0032406",
+    "tt0032412",
+    "tt0032635",
+    "tt0030734",
+    "tt0033760",
+    "tt0039821"
   ],
   "collections": [],
   "is_curated": true,

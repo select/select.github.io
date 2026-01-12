@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-bailiffs",
+      "id": "the-bailiffs",
       "title": "The Bailiffs",
       "description": "In one of their earliest films, Crazy Gang stars Flanagan and Allen star as a couple of incompetent broker’s men who take possession of the wrong house.",
       "fileSize": 2039842514,
-      "id": "the-bailiffs"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-bailiffs",
+      "language": "eng",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 798
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0829184",
-      "title": "Guests Wanted",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023669",
-      "title": "War Babies",
-      "year": 1932,
-      "imdbRating": 4.7,
-      "imdbVotes": 481,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149810",
-      "title": "Battle of the Barn",
-      "year": 1932,
-      "imdbRating": 4.6,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022669",
-      "title": "Betty Boop's Bizzy Bee",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022670",
-      "title": "Betty Boop's Museum",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 244,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021686",
-      "title": "Bosko's Dizzy Date",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022790",
-      "title": "Crosby, Columbo, and Vallee",
-      "year": 1932,
-      "imdbRating": 5.1,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022828",
-      "title": "Doctor's Orders",
-      "year": 1932,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150515",
-      "title": "Farmer Al Falfa's Ape Girl",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022914",
-      "title": "Freddy the Freshman",
-      "year": 1932,
-      "imdbRating": 5.3,
-      "imdbVotes": 267,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022956",
-      "title": "Goopy Geer",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023043",
-      "title": "I Love a Parade",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 247,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0829184",
+    "tt0023669",
+    "tt0149810",
+    "tt0022669",
+    "tt0022670",
+    "tt0021686",
+    "tt0022790",
+    "tt0022828",
+    "tt0150515",
+    "tt0022914",
+    "tt0022956",
+    "tt0023043"
   ],
   "collections": [],
   "is_curated": true,

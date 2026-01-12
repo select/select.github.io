@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-lights-and-shadows-in-a-city-of-a-million",
+      "id": "silent-lights-and-shadows-in-a-city-of-a-million",
       "title": "Lights and Shadows in a City of a Million",
       "fileSize": 117027905,
-      "id": "silent-lights-and-shadows-in-a-city-of-a-million"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-lights-and-shadows-in-a-city-of-a-million",
+      "language": "English",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 368
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0471648",
-      "title": "De-Light: Making an Electric Light Bulb",
-      "year": 1920,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1495996",
-      "title": "The Reawakening",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647254",
-      "title": "Trails That Lure",
-      "year": 1920,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0988639",
-      "title": "Chemical Inspiration",
-      "year": 1921,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0229789",
-      "title": "A Trip to Paramountown",
-      "year": 1922,
-      "imdbRating": 6.4,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1029374",
-      "title": "Seeing Stars",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178247",
-      "title": "Assembling a Generator",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0471648",
+    "tt1495996",
+    "tt2647254",
+    "tt1515754",
+    "tt0988639",
+    "tt0955263",
+    "tt2647224",
+    "tt0938705",
+    "tt0229789",
+    "tt1029374",
+    "tt0000537",
+    "tt0178247"
   ],
   "collections": [],
   "is_curated": true,

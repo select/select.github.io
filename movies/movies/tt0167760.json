@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/all-together-1942",
+      "id": "all-together-1942",
       "title": "All Together (1942)",
       "description": "The entire Disney menagerie appears in a parade urging the purchase of war bonds. Watch on RetroFlix:  https://retroflix.org/all-together-1942/",
       "fileSize": 68136785,
-      "id": "all-together-1942"
+      "addedAt": "2026-01-07T00:07:24.998Z",
+      "thumbnail": "https://archive.org/services/img/all-together-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 165
     }
   ],
   "metadata": {
@@ -27,106 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430147",
-      "title": "The Good Egg",
-      "year": 1945,
-      "imdbRating": 4.5,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009620",
-      "title": "The Sinking of the 'Lusitania'",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 1323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149809",
-      "title": "A Battle for a Bottle",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148294",
-      "title": "A Hollywood Detour",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035414",
-      "title": "A Tale of Two Kitties",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153194",
-      "title": "A Torrid Toreador",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149616",
-      "title": "All About Dogs",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034448",
-      "title": "All Out for 'V'",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 128,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140812",
-      "title": "Any Bonds Today?",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt12305226",
+    "tt12304756",
+    "tt0430147",
+    "tt0148531",
+    "tt0009620",
+    "tt0149809",
+    "tt0148294",
+    "tt0035414",
+    "tt0153194",
+    "tt0149616",
+    "tt0034448",
+    "tt0140812"
   ],
   "collections": [],
   "is_curated": true,

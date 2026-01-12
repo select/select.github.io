@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/big-bad-bobcat-1968",
+      "id": "big-bad-bobcat-1968",
       "title": "Big Bad Bobcat (1968)",
       "description": "Possible Possum and friends sit down to have hush puppies and have to save Macon Mouse from the Bobcat. Watch on RetroFlix:  https://retroflix.org/big-bad-bobcat-1968/",
       "fileSize": 30453012,
-      "id": "big-bad-bobcat-1968"
+      "addedAt": "2026-01-07T00:07:38.716Z",
+      "thumbnail": "https://archive.org/services/img/big-bad-bobcat-1968",
+      "language": "eng",
+      "year": 1968,
+      "collection": "feature_films",
+      "downloads": 77
     }
   ],
   "metadata": {
@@ -26,94 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0152688",
-      "title": "Suprisin' Exercisin'",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147687",
-      "title": "Weather Magic",
-      "year": 1965,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152213",
-      "title": "The Rock Hound",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153658",
-      "title": "Watch the Butterfly",
-      "year": 1966,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161528",
-      "title": "Dribble Drabble",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151154",
-      "title": "Judo Kudos",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151637",
-      "title": "Mount Piney",
-      "year": 1968,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1235803",
-      "title": "Sally Sargent",
-      "year": 1968,
-      "imdbRating": 5.8,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150503",
-      "title": "Fancy Plants",
-      "year": 1967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161617",
-      "title": "Give Me Liberty",
-      "year": 1967,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168995",
-      "title": "The Mark of Zero",
-      "year": 1967,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152240",
-      "title": "The Ruby Eye of the Monkey-God",
-      "year": 1969,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0152688",
+    "tt0147687",
+    "tt0152213",
+    "tt0153658",
+    "tt0161528",
+    "tt0151154",
+    "tt0151637",
+    "tt1235803",
+    "tt0150503",
+    "tt0161617",
+    "tt0168995",
+    "tt0152240"
   ],
   "collections": [],
   "is_curated": true,

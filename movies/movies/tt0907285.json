@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Secret_Evidence",
+      "id": "Secret_Evidence",
       "title": "Secret_Evidence",
       "description": "When lawyer David Harrison becomes the new District Attorney he asks Linda his secretary to become his fiancé, but soon Linda and her brother are falsely accused of shooting an ex-con that has eyes for Linda, and the ex-con would rather see Linda go to prison than to let her become the new D.A.'s wife.",
       "fileSize": 1054471796,
-      "id": "Secret_Evidence"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/Secret_Evidence",
+      "collection": "feature_films",
+      "downloads": 4227
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0479676",
-      "title": "Harold Lloyd Comedy Collection: Harold's Hollywood - Then and Now",
-      "year": 2005,
-      "imdbRating": 6.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3103732",
-      "title": "Women Without Shadows",
-      "year": 2005,
-      "imdbRating": 5.6,
-      "imdbVotes": 35,
-      "language": "Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0492337",
-      "title": "RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'",
-      "year": 2005,
-      "imdbRating": 8.5,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0484256",
-      "title": "Behind the Couch: Casting in Hollywood",
-      "year": 2005,
-      "imdbRating": 7.5,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0445936",
-      "title": "The Shield: Breaking Episode 315",
-      "year": 2005,
-      "imdbRating": 2.5,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0796992",
-      "title": "El hombre invisible",
-      "year": 2005,
-      "imdbRating": 8.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477133",
-      "title": "White Terror",
-      "year": 2005,
-      "imdbRating": 6.8,
-      "imdbVotes": 147,
-      "language": "English, French, German, Russian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0856228",
-      "title": "King of the Lost World: Behind the Scenes",
-      "year": 2005,
-      "imdbRating": 1.8,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1418793",
-      "title": "Ernst Udet - Fliegen wird zur Leidenschaft",
-      "year": 2004,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419100",
-      "title": "Route 66: Ein amerikanischer Albtraum",
-      "year": 2004,
-      "imdbRating": 6.5,
-      "imdbVotes": 92,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422757",
-      "title": "Steal This Film",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 489,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0790769",
-      "title": "Kurt Cobain About a Son",
-      "year": 2006,
-      "imdbRating": 7.2,
-      "imdbVotes": 3877,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0479676",
+    "tt3103732",
+    "tt0492337",
+    "tt0484256",
+    "tt0445936",
+    "tt0796992",
+    "tt0477133",
+    "tt0856228",
+    "tt1418793",
+    "tt0419100",
+    "tt1422757",
+    "tt0790769"
   ],
   "collections": [],
   "is_curated": true,

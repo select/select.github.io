@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Mastertouch",
+      "id": "Mastertouch",
       "title": "Master Touch",
       "description": "Un Uomo da rispettare A heist film with an outrageous car chase. For more info on this film see its IMDB.com entry",
       "fileSize": 921902136,
-      "id": "Mastertouch"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/Mastertouch",
+      "year": 1972,
+      "collection": "feature_films",
+      "downloads": 151006
     }
   ],
   "metadata": {
@@ -27,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0068997",
-      "title": "The New Centurions",
-      "year": 1972,
-      "imdbRating": 7,
-      "imdbVotes": 3222,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0158714",
-      "title": "Lady Snowblood",
-      "year": 1973,
-      "imdbRating": 7.6,
-      "imdbVotes": 16923,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0143428",
-      "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
-      "year": 1973,
-      "imdbRating": 7.5,
-      "imdbVotes": 4732,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069948",
-      "title": "The Day of the Wolves",
-      "year": 1971,
-      "imdbRating": 5.8,
-      "imdbVotes": 378,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066970",
-      "title": "Cold Sweat",
-      "year": 1970,
-      "imdbRating": 5.7,
-      "imdbVotes": 3201,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071402",
-      "title": "Death Wish",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 45235,
-      "language": "English, Italian, German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073755",
-      "title": "The Street Fighter's Last Revenge",
-      "year": 1974,
-      "imdbRating": 6,
-      "imdbVotes": 1518,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0070930",
-      "title": "The Wrestler",
-      "year": 1974,
-      "imdbRating": 5.2,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073396",
-      "title": "Mitchell",
-      "year": 1975,
-      "imdbRating": 2.8,
-      "imdbVotes": 4952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074836",
-      "title": "Mad Dog Morgan",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075263",
-      "title": "St. Ives",
-      "year": 1976,
-      "imdbRating": 6.2,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0068997",
+    "tt0158714",
+    "tt0143428",
+    "tt0069948",
+    "tt0066970",
+    "tt0071402",
+    "tt0073755",
+    "tt0070930",
+    "tt0073396",
+    "tt0074634",
+    "tt0074836",
+    "tt0075263"
   ],
   "collections": [],
   "is_curated": true,

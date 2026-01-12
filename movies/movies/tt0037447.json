@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WaterlooRoad",
+      "id": "WaterlooRoad",
       "title": "Waterloo Road",
       "description": "Title: Waterloo Road Summary: A drama set during World War II. A tale of adultery and desertion. Directed by: Sidney Gilliat Actors: John Mills, Stewart Granger, Alastair Sim Production Company: Gainsborough Pictures Release Date: 5 February 1945 (UK) Aspect Ratio: 1.37 : 1 During World War II, an Army Private hears rumors that his wife in London is becoming sweet on a smooth operator who has avoided being called up. The serviceman takes leave without permission to get to his house near Waterloo station to find out what's going on.",
       "fileSize": 579247000,
-      "id": "WaterlooRoad"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WaterlooRoad",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 5132
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/WaterlooRoad_201812",
+      "id": "WaterlooRoad_201812",
       "title": "Waterloo Road",
       "description": "“British wartime gem” “Enjoyable and underrated” “True to life” “Witty script” “Wonderful little film” “Well crafted and a must-see” (IMDB reviews quotes). A drama of love, the stress of separation and temptation in wartime London. Tight direction and good production values raises it well above the average for most second features. Its excellent cast includes John Mills, Stewart Granger and Alastair Sim. IMDB rating 6.7. Directer by Sidney Gilliat. UK release 1945. US release 1948. Complete print (PAL transfer).",
       "fileSize": 712079144,
-      "id": "WaterlooRoad_201812"
+      "addedAt": "2026-01-07T00:07:11.888Z",
+      "thumbnail": "https://archive.org/services/img/WaterlooRoad_201812",
+      "collection": "feature_films",
+      "downloads": 15886
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037811",
-      "title": "Identity Unknown",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 387,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036824",
-      "title": "The Fighting Seabees",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 4012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037280",
-      "title": "Since You Went Away",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 5182,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036868",
-      "title": "The Best Years of Our Lives",
-      "year": 1946,
-      "imdbRating": 8.1,
-      "imdbVotes": 72322,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036217",
-      "title": "The North Star",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 1832,
-      "language": "English, German, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036037",
-      "title": "Immortal Sergeant",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 1046,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036474",
-      "title": "The Underdog",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0040548",
-      "title": "Dulcimer Street",
-      "year": 1948,
-      "imdbRating": 6.9,
-      "imdbVotes": 480,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040109",
-      "title": "Arch of Triumph",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 1964,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034647",
-      "title": "Destination Unknown",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 54,
-      "language": "English, Chinese, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040623",
-      "title": "My Brother Jonathan",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035249",
-      "title": "Remember Pearl Harbor",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037811",
+    "tt0036824",
+    "tt0037280",
+    "tt0036868",
+    "tt0036217",
+    "tt0036037",
+    "tt0036474",
+    "tt0040548",
+    "tt0040109",
+    "tt0034647",
+    "tt0040623",
+    "tt0035249"
   ],
   "collections": [],
   "is_curated": true,

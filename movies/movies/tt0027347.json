@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-beloved-vagabond",
+      "id": "the-beloved-vagabond",
       "title": "The Beloved Vagabond",
       "description": "Maurice Chevalier stars as a poor aspiring architect who signs an agreement not to see his fiancée for two years, in order to save her father from financial ruin.",
       "fileSize": 6041878924,
-      "id": "the-beloved-vagabond"
+      "addedAt": "2026-01-07T00:11:46.533Z",
+      "thumbnail": "https://archive.org/services/img/the-beloved-vagabond",
+      "language": "eng",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 1460
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029626",
-      "title": "Swing High, Swing Low",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 926,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0030089",
-      "title": "The Duke Is Tops",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 391,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035969",
-      "title": "Happy Go Lucky",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023845",
-      "title": "Britannia of Billingsgate",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024083",
-      "title": "Hallelujah I'm a Bum",
-      "year": 1933,
-      "imdbRating": 6.9,
-      "imdbVotes": 858,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024159",
-      "title": "I Loved You Wednesday",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 63,
-      "language": "French, English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032410",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 1346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032847",
-      "title": "No, No, Nanette",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025493",
-      "title": "The Merry Widow",
-      "year": 1934,
-      "imdbRating": 7.2,
-      "imdbVotes": 3336,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0029626",
+    "tt0030089",
+    "tt0035969",
+    "tt0023845",
+    "tt0024083",
+    "tt0024159",
+    "tt0032410",
+    "tt0032847",
+    "tt0025493",
+    "tt0027311",
+    "tt0027286",
+    "tt0028010"
   ],
   "collections": [],
   "is_curated": true,

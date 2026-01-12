@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-uncle-sam-donates-for-liberty-loans",
+      "id": "silent-uncle-sam-donates-for-liberty-loans",
       "title": "Uncle Sam Donates for Liberty Loans",
       "fileSize": 30809251,
-      "id": "silent-uncle-sam-donates-for-liberty-loans"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-uncle-sam-donates-for-liberty-loans",
+      "language": "English",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 463
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0140524",
-      "title": "Running a Cinema",
-      "year": 1921,
-      "imdbRating": 5.2,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0166609",
-      "title": "The First Circus",
-      "year": 1921,
-      "imdbRating": 5.4,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1496006",
-      "title": "The United Snakes of America",
-      "year": 1917,
-      "imdbRating": 5.3,
-      "imdbVotes": 43,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146448",
-      "title": "Krazy Kat and Ignatz Mouse at the Circus",
-      "year": 1916,
-      "imdbRating": 5.1,
-      "imdbVotes": 225,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146968",
-      "title": "Krazy Kat Goes A-Wooing",
-      "year": 1916,
-      "imdbRating": 4.7,
-      "imdbVotes": 245,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245297",
-      "title": "Mr. Nobody Holme Buys a Jitney",
-      "year": 1916,
-      "imdbRating": 4.5,
-      "imdbVotes": 146,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159700",
-      "title": "Ride on a Runaway Train",
-      "year": 1921,
-      "imdbRating": 6.7,
-      "imdbVotes": 99,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148531",
-      "title": "The Night",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12305226",
-      "title": "A Few Quick Facts: Japan",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12304756",
-      "title": "A Few Quick Facts: Lend-Lease",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0140524",
+    "tt0166609",
+    "tt1496006",
+    "tt0146448",
+    "tt0146968",
+    "tt0245297",
+    "tt0159700",
+    "tt0148531",
+    "tt14091630",
+    "tt12305226",
+    "tt12304756",
+    "tt1020989"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FightingMad",
+      "id": "FightingMad",
       "title": "Fighting Mad",
       "description": "Fighting Mad (Death Force)",
       "fileSize": 1691485720,
-      "id": "FightingMad"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FightingMad",
+      "collection": "feature_films",
+      "downloads": 3273
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Fighting_Mad",
+      "id": "Fighting_Mad",
       "title": "Fighting_Mad",
       "description": "Download Unlimited DVD Movies @ www.ImoviesClubNow.com Fighting Mad a.k.a.Death Force (1978) 96 min - Action | Drama | Crime She's in PLAYBOY. He's out of PENITENTIARY. Jayne Kennedy and Leon Isaac in FIGHTING MAD Director: Cirio H. Santiago Writers: Howard R. Cohen (screenplay), Cirio H. Santiago (story) Stars: James Iglehart, Carmen Argenziano and Leon Isaac Kennedy Download Unlimited DVD Movies Get Instant Access @ www.ImoviesClubNow.com",
       "fileSize": 718860321,
-      "id": "Fighting_Mad"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/Fighting_Mad",
+      "collection": "feature_films",
+      "downloads": 8723
     }
   ],
   "metadata": {
@@ -35,116 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0333955",
-      "title": "La muerte del soplon",
-      "year": 1978,
-      "imdbRating": 7.2,
-      "imdbVotes": 17,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077594",
-      "title": "Game of Death",
-      "year": 1978,
-      "imdbRating": 5.9,
-      "imdbVotes": 23634,
-      "language": "English, Mandarin, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0074634",
-      "title": "Hollywood Man",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 340,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080573",
-      "title": "Cry of the Innocent",
-      "year": 1980,
-      "imdbRating": 5.1,
-      "imdbVotes": 225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074836",
-      "title": "Mad Dog Morgan",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075263",
-      "title": "St. Ives",
-      "year": 1976,
-      "imdbRating": 6.2,
-      "imdbVotes": 2905,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0073774",
-      "title": "The Swiss Conspiracy",
-      "year": 1976,
-      "imdbRating": 5,
-      "imdbVotes": 539,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0323649",
-      "title": "Pistoleros famosos",
-      "year": 1981,
-      "imdbRating": 7.3,
-      "imdbVotes": 31,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082332",
-      "title": "Enter the Ninja",
-      "year": 1981,
-      "imdbRating": 5.2,
-      "imdbVotes": 5946,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073396",
-      "title": "Mitchell",
-      "year": 1975,
-      "imdbRating": 2.8,
-      "imdbVotes": 4952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230904",
-      "title": "The Jackals",
-      "year": 1981,
-      "imdbRating": 5.8,
-      "imdbVotes": 547,
-      "language": "Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071402",
-      "title": "Death Wish",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 45235,
-      "language": "English, Italian, German, French",
-      "sourceType": "archive.org"
-    }
+    "tt0333955",
+    "tt0077594",
+    "tt0074634",
+    "tt0080573",
+    "tt0074836",
+    "tt0075263",
+    "tt0073774",
+    "tt0323649",
+    "tt0082332",
+    "tt0073396",
+    "tt0230904",
+    "tt0071402"
   ],
   "collections": [],
   "is_curated": true,

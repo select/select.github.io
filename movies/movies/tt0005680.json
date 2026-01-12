@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-marvelous-maciste",
+      "id": "silent-marvelous-maciste",
       "title": "Marvelous Maciste",
       "fileSize": 1150942646,
-      "id": "silent-marvelous-maciste"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-marvelous-maciste",
+      "language": "Italian",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 737
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005482",
-      "title": "The Hidden City",
-      "year": 1915,
-      "imdbRating": 4.8,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004873",
-      "title": "Alice in Wonderland",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 795,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006333",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 2172,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006357",
-      "title": "American Aristocracy",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006688",
-      "title": "Flirting with Fate",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 221,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004099",
-      "title": "His Majesty, the Scarecrow of Oz",
-      "year": 1914,
-      "imdbRating": 5.4,
-      "imdbVotes": 517,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004286",
-      "title": "The Magic Cloak of Oz",
-      "year": 1914,
-      "imdbRating": 5.2,
-      "imdbVotes": 356,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004457",
-      "title": "The Patchwork Girl of Oz",
-      "year": 1914,
-      "imdbRating": 5.5,
-      "imdbVotes": 581,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007260",
-      "title": "The Return of Draw Egan",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 194,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006409",
-      "title": "Beatrice Fairfax",
-      "year": 1916,
-      "imdbRating": 7.9,
-      "imdbVotes": 75,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003740",
+    "tt0005482",
+    "tt0004873",
+    "tt0006206",
+    "tt0006333",
+    "tt0006357",
+    "tt0006688",
+    "tt0004099",
+    "tt0004286",
+    "tt0004457",
+    "tt0007260",
+    "tt0006409"
   ],
   "collections": [],
   "is_curated": true,

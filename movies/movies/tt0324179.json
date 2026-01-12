@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_snow_queen_1959_animation",
+      "id": "the_snow_queen_1959_animation",
       "title": "The Snow Queen (Animation)",
       "description": "1959 US dubbed version of the classic 1957 animated Russian film Snezhnaya koroleva. This version features the very sentimental Christmas introduction by Art Linkletter. Features the voices of Sandra Dee, Louise Arthur, Tommy Kirk and Paul Frees. Based on a story by Hans Christian Andersen.",
       "fileSize": 1581924977,
-      "id": "the_snow_queen_1959_animation"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_snow_queen_1959_animation",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 161807
     }
   ],
   "metadata": {
@@ -26,104 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0151319",
-      "title": "The Leaky Faucet",
-      "year": 1959,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148693",
-      "title": "Sailing and Village Band",
-      "year": 1958,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153669",
-      "title": "The Wayward Hat",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153104",
-      "title": "Tin Pan Alley Cat",
-      "year": 1960,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149287",
-      "title": "Trapeze Pleeze",
-      "year": 1960,
-      "imdbRating": 5.1,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150842",
-      "title": "A Hare-Breadth Finish",
-      "year": 1957,
-      "imdbRating": 4.7,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151398",
-      "title": "Love Is Blind",
-      "year": 1957,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149919",
-      "title": "The Bone Ranger",
-      "year": 1957,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051108",
-      "title": "Trees and Jamaica Daddy",
-      "year": 1957,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053080",
-      "title": "Moonbird",
-      "year": 1959,
-      "imdbRating": 5.2,
-      "imdbVotes": 775,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150003",
-      "title": "Bwana Magoo",
-      "year": 1959,
-      "imdbRating": 6.1,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147963",
-      "title": "Casper's Birthday Party",
-      "year": 1959,
-      "imdbRating": 5.3,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0151319",
+    "tt0148693",
+    "tt0153669",
+    "tt0153104",
+    "tt0149287",
+    "tt0150842",
+    "tt0151398",
+    "tt0149919",
+    "tt0051108",
+    "tt0053080",
+    "tt0150003",
+    "tt0147963"
   ],
   "collections": [],
   "is_curated": true,

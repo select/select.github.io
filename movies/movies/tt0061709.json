@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DayOfAnger",
+      "id": "DayOfAnger",
       "title": "Day of anger",
       "description": "Day of anger",
       "fileSize": 1970875429,
-      "id": "DayOfAnger"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/DayOfAnger",
+      "language": "russian",
+      "collection": "feature_films",
+      "downloads": 2675
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/day-of-anger-1967-fll",
+      "id": "day-of-anger-1967-fll",
       "title": "Day Of Anger (1967)",
       "description": "Day of Anger is a 1967 Spaghetti Western film directed and co-written by Tonino Valerii and starring Lee Van Cleef and Giuliano Gemma, and features a musical score by Riz Ortolani.  The film credits the novel Der Tod ritt dienstags by Ron Barker as its basis and  follows Scott, a young street sweeper in the town of Clifton, who is mistreated by the townspeople due to his background. When the aging gunman Frank Talby arrives and takes Scott under his wing, they plot to take control of the town, leading to a violent confrontation that forces Scott to confront his mentor's ruthless ways and ultimately seek his own path.",
       "fileSize": 2854260409,
-      "id": "day-of-anger-1967-fll"
+      "addedAt": "2026-01-07T00:07:59.603Z",
+      "thumbnail": "https://archive.org/services/img/day-of-anger-1967-fll",
+      "language": "eng",
+      "year": 1967,
+      "collection": "feature_films",
+      "downloads": 230
     }
   ],
   "metadata": {
@@ -35,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0066105",
-      "title": "The Price of Power",
-      "year": 1969,
-      "imdbRating": 6.3,
-      "imdbVotes": 948,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060325",
-      "title": "A Stranger in Town",
-      "year": 1967,
-      "imdbRating": 5.9,
-      "imdbVotes": 760,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0060315",
-      "title": "Django",
-      "year": 1966,
-      "imdbRating": 7.2,
-      "imdbVotes": 33156,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061846",
-      "title": "Johnny Yuma",
-      "year": 1966,
-      "imdbRating": 6.1,
-      "imdbVotes": 481,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060897",
-      "title": "Return of the Seven",
-      "year": 1966,
-      "imdbRating": 5.5,
-      "imdbVotes": 4991,
-      "language": "English, Spanish, Greek, Ancient (to 1453), Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215842",
-      "title": "El hijo de Gabino Barrera",
-      "year": 1965,
-      "imdbRating": 5.5,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064395",
-      "title": "Guns of the Magnificent Seven",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 3327,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064208",
-      "title": "Death Rides a Horse",
-      "year": 1967,
-      "imdbRating": 7,
-      "imdbVotes": 9780,
-      "language": "Italian, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063501",
-      "title": "The Big Gundown",
-      "year": 1967,
-      "imdbRating": 7.4,
-      "imdbVotes": 7320,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216546",
-      "title": "Django and Sartana Are Coming... It's the End",
-      "year": 1970,
-      "imdbRating": 4.4,
-      "imdbVotes": 363,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0062819",
-      "title": "Commandos",
-      "year": 1968,
-      "imdbRating": 5.4,
-      "imdbVotes": 1083,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061458",
-      "title": "Taste of Killing",
-      "year": 1966,
-      "imdbRating": 5.8,
-      "imdbVotes": 371,
-      "language": "Italian, English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0066105",
+    "tt0060325",
+    "tt0060315",
+    "tt0061846",
+    "tt0060897",
+    "tt0215842",
+    "tt0064395",
+    "tt0064208",
+    "tt0063501",
+    "tt0216546",
+    "tt0062819",
+    "tt0061458"
   ],
   "collections": [
     {

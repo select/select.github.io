@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/untamed_1929",
+      "id": "untamed_1929",
       "title": "Untamed",
       "fileSize": 7232178766,
-      "id": "untamed_1929"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/untamed_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 2953
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/untamed_1929_202506",
+      "id": "untamed_1929_202506",
       "title": "Untamed (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Joan Crawford's first non-musical talking role; she stars as a young woman who grew up with her father exploring the jungles of South America. Now, as an adult, she has to return to New York and learn a new set of cultural rules. Reviews were mixed on release, but box office returns were excellent for this little romantic dramedy. ",
       "fileSize": 7170363641,
-      "id": "untamed_1929_202506"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/untamed_1929_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 107
     }
   ],
   "metadata": {
@@ -34,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018513",
-      "title": "Twelve Miles Out",
-      "year": 1927,
-      "imdbRating": 5.1,
-      "imdbVotes": 666,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020247",
-      "title": "Our Modern Maidens",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 962,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0019571",
-      "title": "While the City Sleeps",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016690",
-      "title": "Brown of Harvard",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 1540,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019811",
-      "title": "Desert Nights",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020425",
-      "title": "So This Is College",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 283,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020439",
-      "title": "Speedway",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 700,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019421",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "imdbRating": 7.8,
-      "imdbVotes": 16421,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019237",
-      "title": "Our Dancing Daughters",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 2016,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018795",
-      "title": "The Cossacks",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021198",
-      "title": "Officer O'Brien",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0018513",
+    "tt0020247",
+    "tt0019571",
+    "tt0016690",
+    "tt0018618",
+    "tt0019811",
+    "tt0020425",
+    "tt0020439",
+    "tt0019421",
+    "tt0019237",
+    "tt0018795",
+    "tt0021198"
   ],
   "collections": [],
   "is_curated": true,

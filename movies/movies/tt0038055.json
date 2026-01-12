@@ -6,26 +6,42 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TreasureOfFear45",
+      "id": "TreasureOfFear45",
       "title": "Scared Stiff",
       "description": "Title: Scared Stiff Summary: The jumpy chess editor at a newspaper accidentally gets involved in some murders at a sleazy tavern run by a pair of bizarre brothers. Directed by: Frank McDonald Actors: Jack Haley, Ann Savage, Barton MacLane Production Company: Pine-Thomas Productions Release Date: 22 June 1945 (USA) Aspect Ratio: 1.37 : 1 The jumpy chess editor at a newspaper accidentally gets involved in some murders at a sleazy tavern run by a pair of bizarre brothers.",
       "fileSize": 533176701,
-      "id": "TreasureOfFear45"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/TreasureOfFear45",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 4191
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/scared-stiff-1945",
+      "id": "scared-stiff-1945",
       "title": "Scared Stiff (1945)",
       "description": "A meek reporter happens upon a murder, an escaped gangster and a stolen jade chess set. Watch on RetroFlix:  https://retroflix.org/scared-stiff-1945/",
       "fileSize": 857448056,
-      "id": "scared-stiff-1945"
+      "addedAt": "2026-01-07T00:10:40.953Z",
+      "thumbnail": "https://archive.org/services/img/scared-stiff-1945",
+      "language": "eng",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 110
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Scared_Stiff",
+      "id": "Scared_Stiff",
       "title": "Scared Stiff (Treasure of Fear)",
       "description": "Jack Haley (the Tin Man of Oz) in a low-budget comedy. He's a chess-columnist who gets mixed up with hoodlums.",
       "fileSize": 1074149227,
-      "id": "Scared_Stiff"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/Scared_Stiff",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 17611
     }
   ],
   "metadata": {
@@ -43,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037151",
-      "title": "One Body Too Many",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 1582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037960",
-      "title": "Midnight Manhunt",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 456,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0037918",
-      "title": "The Missing Corpse",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036695",
-      "title": "A Canterbury Tale",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 6808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037267",
-      "title": "Shake Hands with Murder",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036774",
-      "title": "Double Exposure",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 268,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0175912",
-      "title": "Mi novia es un fantasma",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039050",
-      "title": "The Truth About Murder",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033958",
-      "title": "No Hands on the Clock",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033611",
-      "title": "Flying Blind",
-      "year": 1941,
-      "imdbRating": 4.6,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037151",
+    "tt0037960",
+    "tt0037918",
+    "tt0038577",
+    "tt0036695",
+    "tt0207407",
+    "tt0037267",
+    "tt0036774",
+    "tt0175912",
+    "tt0039050",
+    "tt0033958",
+    "tt0033611"
   ],
   "collections": [],
   "is_curated": true,

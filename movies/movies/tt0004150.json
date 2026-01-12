@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-in-the-land-of-the-head-hunters",
+      "id": "silent-in-the-land-of-the-head-hunters",
       "title": "In the Land of the Head Hunters",
       "fileSize": 1817891489,
-      "id": "silent-in-the-land-of-the-head-hunters"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-in-the-land-of-the-head-hunters",
+      "language": "English",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 2592
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003740",
-      "title": "Cabiria",
-      "year": 1914,
-      "imdbRating": 7.1,
-      "imdbVotes": 4056,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004022",
-      "title": "Julius Caesar",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005719",
-      "title": "Martyrs of the Alamo",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 212,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162496",
-      "title": "Nobleza gaucha",
-      "year": 1915,
-      "imdbRating": 6.3,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005460",
-      "title": "Hearts in Exile",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 73,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002445",
-      "title": "Quo Vadis?",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 408,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0393807",
-      "title": "Spartacus",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 91,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005149",
-      "title": "The Coward",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 338,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211075",
-      "title": "Tsar Ivan Vasilevich Groznyy",
-      "year": 1915,
-      "imdbRating": 6.9,
-      "imdbVotes": 42,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002101",
-      "title": "Cleopatra",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 571,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003740",
+    "tt0004022",
+    "tt1223220",
+    "tt0005719",
+    "tt0162496",
+    "tt0005460",
+    "tt0207954",
+    "tt0002445",
+    "tt0393807",
+    "tt0005149",
+    "tt0211075",
+    "tt0002101"
   ],
   "collections": [],
   "is_curated": true,

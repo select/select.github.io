@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hongxia_1929",
+      "id": "hongxia_1929",
       "title": "Hongxia",
       "fileSize": 3942115562,
-      "id": "hongxia_1929"
+      "addedAt": "2026-01-07T00:08:46.613Z",
+      "thumbnail": "https://archive.org/services/img/hongxia_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 67
     }
   ],
   "metadata": {
@@ -26,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020227",
-      "title": "Nothing But the Truth",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020500",
-      "title": "Thundering Thompson",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019630",
-      "title": "Alibi",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 987,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019676",
-      "title": "Barnum Was Right",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019711",
-      "title": "Border Romance",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 51,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019884",
-      "title": "Flight",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019987",
-      "title": "His First Command",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0261007",
-      "title": "Komunaris chibukhi",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020094",
-      "title": "Liberty",
-      "year": 1929,
-      "imdbRating": 7.5,
-      "imdbVotes": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020237",
-      "title": "The Old Barn",
-      "year": 1929,
-      "imdbRating": 4.2,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021147",
-      "title": "The Mighty",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0019765",
+    "tt0020227",
+    "tt0020500",
+    "tt0019630",
+    "tt0019676",
+    "tt0019711",
+    "tt0019884",
+    "tt0019987",
+    "tt0261007",
+    "tt0020094",
+    "tt0020237",
+    "tt0021147"
   ],
   "collections": [],
   "is_curated": true,

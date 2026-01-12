@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/c44578120",
+      "id": "c44578120",
       "title": "Carnival",
       "description": "Title: Carnival Summary: A dancer attempts to escape from the narrow conventions of society and from the fate foretold for her at her birth. Directed by: Stanley Haynes Actors: Sally Gray, Michael Wilding, Stanley Holloway Production Company: Two Cities Films Release Date: 2 December 1946 (UK) Aspect Ratio: 1.37 : 1 A dancer attempts to escape from the narrow conventions of society and from the fate foretold for her at her birth.",
       "fileSize": 740799405,
-      "id": "c44578120"
+      "addedAt": "2026-01-07T00:07:45.165Z",
+      "thumbnail": "https://archive.org/services/img/c44578120",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 1091
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/meherijaan",
+      "id": "meherijaan",
       "title": "Carnival",
       "description": "Title: Carnival Summary: A dancer attempts to escape from the narrow conventions of society and from the fate foretold for her at her birth. Directed by: Stanley Haynes Actors: Sally Gray, Michael Wilding, Stanley Holloway Production Company: Two Cities Films Release Date: 2 December 1946 (UK) Aspect Ratio: 1.37 : 1 A dancer attempts to escape from the narrow conventions of society and from the fate foretold for her at her birth.",
       "fileSize": 628616700,
-      "id": "meherijaan"
+      "addedAt": "2026-01-07T00:09:46.429Z",
+      "thumbnail": "https://archive.org/services/img/meherijaan",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 1238
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037558",
-      "title": "Brief Encounter",
-      "year": 1945,
-      "imdbRating": 8,
-      "imdbVotes": 47302,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038342",
-      "title": "Bedelia",
-      "year": 1946,
-      "imdbRating": 6.6,
-      "imdbVotes": 397,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038988",
-      "title": "The Strange Love of Martha Ivers",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 11780,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038990",
-      "title": "The Strange Woman",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 2520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038592",
-      "title": "Heartbeat",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039114",
-      "title": "Young Widow",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 338,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038733",
-      "title": "A Matter of Life and Death",
-      "year": 1946,
-      "imdbRating": 8,
-      "imdbVotes": 26640,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037578",
-      "title": "Caravan",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038492",
-      "title": "Dragonwyck",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 5595,
-      "language": "English, French, Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038499",
-      "title": "Duel in the Sun",
-      "year": 1946,
-      "imdbRating": 6.7,
-      "imdbVotes": 10129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038559",
-      "title": "Gilda",
-      "year": 1946,
-      "imdbRating": 7.6,
-      "imdbVotes": 37853,
-      "language": "English, Spanish, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038762",
-      "title": "My Darling Clementine",
-      "year": 1946,
-      "imdbRating": 7.7,
-      "imdbVotes": 27797,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    }
+    "tt0037558",
+    "tt0038342",
+    "tt0038988",
+    "tt0038990",
+    "tt0038592",
+    "tt0039114",
+    "tt0038733",
+    "tt0037578",
+    "tt0038492",
+    "tt0038499",
+    "tt0038559",
+    "tt0038762"
   ],
   "collections": [],
   "is_curated": true,

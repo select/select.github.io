@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ThePrisonerOfZenda",
+      "id": "ThePrisonerOfZenda",
       "title": "\"The Prisoner of Zenda\" (1922)",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"The Prisoner of Zenda\" is a drama, adventure, romance and a swashbuckler featuring Snitz Edwards, a star of Silent Hall of Fame. Directed by                Rex Ingram Produced by              Metro Pictures Corporation Scenario by                 Mary O’Hara Based on                     the novel The Prisoner of Zenda by Anthony Hope Starring                       Lewis Stone, Alice Terry, Robert Edeson, Stuart Holmes, Ramon Novarro, Barbara La Marr, Malcolm McGregor, Snitz Edwards Cinematography        John F. Seitz Distributed by           Metro Pictures Corporation Release date               September 11, 1922 Running time             113 min. Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 1213345395,
-      "id": "ThePrisonerOfZenda"
+      "addedAt": "2026-01-07T00:07:05.035Z",
+      "thumbnail": "https://archive.org/services/img/ThePrisonerOfZenda",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 18285
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-prisoner-of-zenda",
+      "id": "silent-the-prisoner-of-zenda",
       "title": "The Prisoner of Zenda",
       "fileSize": 4149129220,
-      "id": "silent-the-prisoner-of-zenda"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-prisoner-of-zenda",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 1336
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012190",
-      "title": "The Four Horsemen of the Apocalypse",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012068",
-      "title": "The Conquering Power",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013556",
-      "title": "Robin Hood",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 2583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012657",
-      "title": "The Sea Lion",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012675",
-      "title": "The Sheik",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 3751,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014496",
-      "title": "Soul of the Beast",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011439",
-      "title": "The Mark of Zorro",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 2866,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015310",
-      "title": "The Sea Hawk",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011474",
-      "title": "The Mollycoddle",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014679",
-      "title": "The Arab",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 46,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009900",
-      "title": "Back to God's Country",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 967,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0012190",
+    "tt0014440",
+    "tt0012068",
+    "tt0013556",
+    "tt0012657",
+    "tt0012675",
+    "tt0014496",
+    "tt0011439",
+    "tt0015310",
+    "tt0011474",
+    "tt0014679",
+    "tt0009900"
   ],
   "collections": [],
   "is_curated": true,

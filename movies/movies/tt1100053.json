@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tormented_201510",
+      "id": "tormented_201510",
       "title": "Tormented",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 322522807,
-      "id": "tormented_201510"
+      "addedAt": "2026-01-07T00:12:44.285Z",
+      "thumbnail": "https://archive.org/services/img/tormented_201510",
+      "collection": "feature_films",
+      "downloads": 1328
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Tormented-WeirdnessBadMovie",
+      "id": "Tormented-WeirdnessBadMovie",
       "title": "Tormented - Weirdness Bad Movie",
       "description": "Public Access TV show \"Weirdness Really Bad Movie\" hosts public domain movies and ads clean comedy sketches enjoyable for the whole family. Today's film is \"TORMENTED\" FROM 1960",
       "fileSize": 8946097852,
-      "id": "Tormented-WeirdnessBadMovie"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/Tormented-WeirdnessBadMovie",
+      "collection": "feature_films",
+      "downloads": 16171
     }
   ],
   "metadata": {
@@ -35,116 +43,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0013458",
-      "title": "One Exciting Night",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026819",
-      "title": "One Frightened Night",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037151",
-      "title": "One Body Too Many",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 1582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025169",
-      "title": "The Ghost Walks",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 663,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031143",
-      "title": "The Cat and the Canary",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 3911,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057156",
-      "title": "The Horror of It All",
-      "year": 1964,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016123",
-      "title": "The Monster",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 1334,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017739",
-      "title": "The Cat and the Canary",
-      "year": 1927,
-      "imdbRating": 7.1,
-      "imdbVotes": 3473,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056285",
-      "title": "No Place Like Homicide!",
-      "year": 1961,
-      "imdbRating": 6.3,
-      "imdbVotes": 1029,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1134674",
-      "title": "ZMD: Zombies of Mass Destruction",
-      "year": 2009,
-      "imdbRating": 5,
-      "imdbVotes": 4369,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0034850",
-      "title": "The Hidden Hand",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 686,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt2130142",
+    "tt0013458",
+    "tt0026819",
+    "tt0037151",
+    "tt0025169",
+    "tt0031143",
+    "tt0057156",
+    "tt0016123",
+    "tt0017739",
+    "tt0056285",
+    "tt1134674",
+    "tt0034850"
   ],
   "collections": [],
   "is_curated": true,

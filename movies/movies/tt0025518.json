@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheMoth_1",
+      "id": "TheMoth_1",
       "title": "The Moth",
       "description": "A wealthy girl runs away to New Orleans to have some fun and is befriended by a lady who turns out to be the infamous jewel thief, \"The Moth\"",
       "fileSize": 1157481736,
-      "id": "TheMoth_1"
+      "addedAt": "2026-01-07T00:07:05.034Z",
+      "thumbnail": "https://archive.org/services/img/TheMoth_1",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 78639
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0136560",
-      "title": "They Never Come Back",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 98,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026975",
-      "title": "Secrets of Chinatown",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022885",
-      "title": "The Fighting Gentleman",
-      "year": 1932,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0165322",
-      "title": "I Can't Escape",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024782",
-      "title": "The Woman Condemned",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 303,
-      "language": "Italian, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026003",
-      "title": "Woman in the Dark",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 688,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024904",
-      "title": "Bombay Mail",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025196",
-      "title": "Grand Canary",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025222",
-      "title": "Hat, Coat, and Glove",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025499",
-      "title": "Midnight",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 1273,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    }
+    "tt0136560",
+    "tt0026975",
+    "tt0026971",
+    "tt0022885",
+    "tt0024985",
+    "tt0165322",
+    "tt0027003",
+    "tt0024782",
+    "tt0026003",
+    "tt0024904",
+    "tt0025196",
+    "tt0025222"
   ],
   "collections": [],
   "is_curated": true,

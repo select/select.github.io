@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Tumbleweeds",
+      "id": "Tumbleweeds",
       "title": "Tumbleweeds",
       "description": "Tumbleweeds is a 1925 American Western film starring and produced by William S. Hart. It depicts the Cherokee Strip land rush of 1893. The film is said to have influenced the Oscar-winning 1931 Western Cimarron, which also depicts the land rush. In the Cherokee Strip of Oklahoma during the 1880's and early 1890's, the government lands that were leased to cattlemen were opened to settlement by homesteaders. To allow a fair chance for everyone, the prospective homesteaders were required to register and registrants were prohibited from entering into the Strip before the appointed time. Those who tried to get there beforehand were called \"Sooners\". Hence the nickname of Oklahoma is the Sooner State. When a cannon shot signaled the start of the land rush, a hundred thousand men and women tried to stake their claims. This was William S. Hart's last film. Dec.6 1864 -- June 23 1946.",
       "fileSize": 2140797988,
-      "id": "Tumbleweeds"
+      "addedAt": "2026-01-07T00:07:11.887Z",
+      "thumbnail": "https://archive.org/services/img/Tumbleweeds",
+      "collection": "feature_films",
+      "downloads": 20513
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TUMBLEWEEDS1925WilliamS.HartBarbaraBedford",
+      "id": "TUMBLEWEEDS1925WilliamS.HartBarbaraBedford",
       "title": "TUMBLEWEEDS ( 1925) William S. Hart, Barbara Bedford",
       "description": "TUMBLEWEEDS (1925)  with 1939 introduction by Hart Starring: William S. Hart, Barbara Bedford, Lucien Littlefield Directed by King Baggot William S. Hart Productions William Thomas Sherman, wts@gunjones.com, http://www.mn-hp.com",
       "fileSize": 716551529,
-      "id": "TUMBLEWEEDS1925WilliamS.HartBarbaraBedford"
+      "addedAt": "2026-01-07T00:06:58.271Z",
+      "thumbnail": "https://archive.org/services/img/TUMBLEWEEDS1925WilliamS.HartBarbaraBedford",
+      "collection": "feature_films",
+      "downloads": 2825
     }
   ],
   "metadata": {
@@ -35,122 +43,18 @@
     "Awards": "Nominated for 1 Oscar. 10 wins & 12 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0191821",
-      "title": "The White Suit",
-      "year": 1999,
-      "imdbRating": 5.8,
-      "imdbVotes": 1028,
-      "language": "Serbian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150992",
-      "title": "Straight from the Heart",
-      "year": 1999,
-      "imdbRating": 7.4,
-      "imdbVotes": 20475,
-      "language": "Hindi",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0151281",
-      "title": "Ladies Room",
-      "year": 1999,
-      "imdbRating": 4.6,
-      "imdbVotes": 630,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0185125",
-      "title": "All About My Mother",
-      "year": 1999,
-      "imdbRating": 7.8,
-      "imdbVotes": 107945,
-      "language": "Spanish, Catalan",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0180242",
-      "title": "A Texas Funeral",
-      "year": 1999,
-      "imdbRating": 6.3,
-      "imdbVotes": 839,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0181875",
-      "title": "Almost Famous",
-      "year": 2000,
-      "imdbRating": 7.9,
-      "imdbVotes": 307588,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235953",
-      "title": "Old No. 587: The Great Train Robbery",
-      "year": 2000,
-      "imdbRating": 5.4,
-      "imdbVotes": 928,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147612",
-      "title": "Happiness",
-      "year": 1998,
-      "imdbRating": 7.7,
-      "imdbVotes": 78716,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0203540",
-      "title": "Greenfingers",
-      "year": 2000,
-      "imdbRating": 6.8,
-      "imdbVotes": 6708,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0303243",
-      "title": "Happy Times",
-      "year": 2000,
-      "imdbRating": 7.3,
-      "imdbVotes": 4215,
-      "language": "Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0242848",
-      "title": "Once Upon a Christmas",
-      "year": 2000,
-      "imdbRating": 5.4,
-      "imdbVotes": 964,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0229397",
-      "title": "Forgive and Forget",
-      "year": 2000,
-      "imdbRating": 6.1,
-      "imdbVotes": 689,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0191821",
+    "tt0150992",
+    "tt0185125",
+    "tt0180242",
+    "tt0139151",
+    "tt0235953",
+    "tt0147612",
+    "tt0203540",
+    "tt0303243",
+    "tt0242848",
+    "tt0229397",
+    "tt0119670"
   ],
   "collections": [
     {

@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-across-the-mexican-line",
+      "id": "silent-across-the-mexican-line",
       "title": "Across the Mexican Line",
       "fileSize": 878099978,
-      "id": "silent-across-the-mexican-line"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-across-the-mexican-line",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 994
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210675",
-      "title": "Falling Leaves",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 1821,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256909",
-      "title": "Making an American Citizen",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 395,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1289621",
-      "title": "Officer Henderson",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002983",
-      "title": "A House Divided",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1389556",
-      "title": "A Severe Test",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210835",
-      "title": "Matrimony's Speed Limit",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001913",
-      "title": "Swords and Hearts",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001680",
-      "title": "His Trust: The Faithful Devotion and Self-Sacrifice of an Old Negro Servant",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 661,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002083",
-      "title": "The Fall of Troy",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 330,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001227",
-      "title": "The Fugitive",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 254,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0210599",
+    "tt0210675",
+    "tt0256909",
+    "tt1289621",
+    "tt0002983",
+    "tt1389556",
+    "tt0210835",
+    "tt0001913",
+    "tt0001680",
+    "tt0002083",
+    "tt0001265",
+    "tt0001227"
   ],
   "collections": [],
   "is_curated": true,

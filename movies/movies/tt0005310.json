@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FattyAndMabelsMarriedLife1915",
+      "id": "FattyAndMabelsMarriedLife1915",
       "title": "MABEL AND FATTY'S MARRIED LIFE (1915)",
       "description": "MABEL AND FATTY'S MARRIED LIFE Keystone-Mutual 1 reel, rel. Feb. 11, 1915 (The Monkey Scare) dir. Roscoe Arbuckle cast: Mabel Normand, Roscoe Arbuckle, Glen Cavender, Al St. John, Mae Busch, Cecile Arnold finished: 1/29/1915 Location: Keystone studio, Echo Park, Edendale Blvd. copyright: Feb. 11, 1915",
       "fileSize": 344878823,
-      "id": "FattyAndMabelsMarriedLife1915"
+      "addedAt": "2026-01-07T00:06:25.398Z",
+      "thumbnail": "https://archive.org/services/img/FattyAndMabelsMarriedLife1915",
+      "collection": "feature_films",
+      "downloads": 1458
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-mabel-and-fattys-married-life",
+      "id": "silent-mabel-and-fattys-married-life",
       "title": "Mabel and Fatty's Married Life",
       "fileSize": 331912008,
-      "id": "silent-mabel-and-fattys-married-life"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-mabel-and-fattys-married-life",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 534
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0005309",
-      "title": "Fatty and Mabel at the San Diego Exposition",
-      "year": 1915,
-      "imdbRating": 5.7,
-      "imdbVotes": 264,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005676",
-      "title": "Fatty and Mabel's Simple Life",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 291,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005679",
-      "title": "Mabel, Fatty and the Law",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005677",
-      "title": "Mabel and Fatty's Wash Day",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006145",
-      "title": "That Little Band of Gold",
-      "year": 1915,
-      "imdbRating": 5.2,
-      "imdbVotes": 271,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006296",
-      "title": "Wished on Mabel",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004691",
-      "title": "Those Country Kids",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 57,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006668",
-      "title": "Fatty and Mabel Adrift",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005753",
-      "title": "Miss Fatty's Seaside Lovers",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005312",
-      "title": "Fatty's Chance Acquaintance",
-      "year": 1915,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005313",
-      "title": "Fatty's Faithful Fido",
-      "year": 1915,
-      "imdbRating": 6,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0005309",
+    "tt0005676",
+    "tt0005679",
+    "tt0005677",
+    "tt0006145",
+    "tt0006296",
+    "tt0006764",
+    "tt0004691",
+    "tt0006668",
+    "tt0005753",
+    "tt0005312",
+    "tt0005313"
   ],
   "collections": [],
   "is_curated": true,

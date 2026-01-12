@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/oh_susanna",
+      "id": "oh_susanna",
       "title": "Oh, Susanna!",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4491059609,
-      "id": "oh_susanna"
+      "addedAt": "2026-01-07T00:10:02.901Z",
+      "thumbnail": "https://archive.org/services/img/oh_susanna",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 127557
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028054",
-      "title": "The Old Corral",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028181",
-      "title": "Ride, Ranger, Ride",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028934",
-      "title": "Git Along Little Dogies",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029445",
-      "title": "Public Cowboy No. 1",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029501",
-      "title": "Round-Up Time in Texas",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029602",
-      "title": "Springtime in the Rockies",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029801",
-      "title": "Yodelin' Kid from Pine Ridge",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030409",
-      "title": "Man from Music Mountain",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029337",
-      "title": "The Old Barn Dance",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0029915",
-      "title": "Billy the Kid Returns",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 316,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030910",
-      "title": "Under Western Stars",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028163",
-      "title": "Red River Valley",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028054",
+    "tt0028181",
+    "tt0028934",
+    "tt0029445",
+    "tt0029501",
+    "tt0029602",
+    "tt0029801",
+    "tt0030409",
+    "tt0029337",
+    "tt0029915",
+    "tt0030910",
+    "tt0028163"
   ],
   "collections": [],
   "is_curated": true,

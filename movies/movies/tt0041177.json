@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheBigSombrero",
+      "id": "TheBigSombrero",
       "title": "The Big Sombrero",
       "description": "Gene Autry is hired to be foreman of the Big Sombrero ranch by Jim Garland (Stephen Dunne), who is handling all the business affairs of the owner.",
       "fileSize": 1369462840,
-      "id": "TheBigSombrero"
+      "addedAt": "2026-01-07T00:06:58.272Z",
+      "thumbnail": "https://archive.org/services/img/TheBigSombrero",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 11580
     }
   ],
   "metadata": {
@@ -27,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038968",
-      "title": "Song of Arizona",
-      "year": 1946,
-      "imdbRating": 5.5,
-      "imdbVotes": 185,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037535",
-      "title": "Bells of Rosarita",
-      "year": 1945,
-      "imdbRating": 6.1,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041128",
-      "title": "Apache Chief",
-      "year": 1949,
-      "imdbRating": 5.5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0040543",
-      "title": "Loaded Pistols",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040333",
-      "title": "Eyes of Texas",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041347",
-      "title": "The Far Frontier",
-      "year": 1948,
-      "imdbRating": 6.2,
-      "imdbVotes": 157,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040644",
-      "title": "Nighttime in Nevada",
-      "year": 1948,
-      "imdbRating": 6.5,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179209",
-      "title": "The Hawk of Powder River",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040399",
-      "title": "Grand Canyon Trail",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0040385",
-      "title": "The Gay Ranchero",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0039157",
-      "title": "Apache Rose",
-      "year": 1947,
-      "imdbRating": 5.7,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039861",
-      "title": "Springtime in the Sierras",
-      "year": 1947,
-      "imdbRating": 6,
-      "imdbVotes": 238,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038968",
+    "tt0037535",
+    "tt0041128",
+    "tt0040543",
+    "tt0040333",
+    "tt0041347",
+    "tt0040644",
+    "tt0179209",
+    "tt0040399",
+    "tt0040385",
+    "tt0039157",
+    "tt0039861"
   ],
   "collections": [],
   "is_curated": true,

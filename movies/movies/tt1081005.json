@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-bride-of-the-nile",
+      "id": "silent-bride-of-the-nile",
       "title": "Bride of the Nile",
       "fileSize": 171616790,
-      "id": "silent-bride-of-the-nile"
+      "addedAt": "2026-01-07T00:10:59.114Z",
+      "thumbnail": "https://archive.org/services/img/silent-bride-of-the-nile",
+      "language": "Italian",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 595
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0240326",
-      "title": "Agrippina",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 93,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004022",
-      "title": "Julius Caesar",
-      "year": 1914,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002445",
-      "title": "Quo Vadis?",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 408,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8646230",
-      "title": "Barcelone et son parc",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 40,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001510",
-      "title": "Bobby, the Coward",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1041696",
-      "title": "Burgos",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 83,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001545",
-      "title": "Cinderella",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 149,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001613",
-      "title": "Fighting Blood",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 172,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0240326",
+    "tt0004022",
+    "tt0002445",
+    "tt0001987",
+    "tt8646230",
+    "tt0001510",
+    "tt1041696",
+    "tt0001545",
+    "tt0001593",
+    "tt0001613",
+    "tt0001915",
+    "tt1207008"
   ],
   "collections": [],
   "is_curated": true,

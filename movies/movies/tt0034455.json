@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/american-empire-1942",
+      "id": "american-empire-1942",
       "title": "American Empire (1942)",
       "description": "Richard Dix as Dan Taylor and Preston S. Foster as Paxton Bryce are two longtime friends seeking their fortune in Texas after the war. The two men decide, not without problems, to establish a cattle empire. Paxton becoming too ambitious, distances himself from Dan and Abby, Paxton's wife. It will only be after a personal tragedy that he will come back to his senses. Watch on RetroFlix:  https://retroflix.org/american-empire-1942/",
       "fileSize": 508016401,
-      "id": "american-empire-1942"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/american-empire-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 93
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/american_empire",
+      "id": "american_empire",
       "title": "American Empire",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5408768709,
-      "id": "american_empire"
+      "addedAt": "2026-01-07T00:07:24.999Z",
+      "thumbnail": "https://archive.org/services/img/american_empire",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 183636
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=6MAkb4jRotk",
+      "id": "6MAkb4jRotk",
       "title": "American Empire (1942) RICHARD DIX",
       "description": "Stars: Richard Dix, Leo Carrillo, Preston Foster\nDirector: William C. McGann\n\nWhen two men join forces to build a cattle empire, they battle rustlers, bad weather and each other.",
-      "id": "6MAkb4jRotk",
+      "addedAt": "2025-12-26T23:55:52.706Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/6MAkb4jRotk/maxresdefault.webp",
+      "duration": 4842,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +60,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035700",
-      "title": "Buckskin Frontier",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036065",
-      "title": "The Kansan",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034375",
-      "title": "We Go Fast",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032411",
-      "title": "Dr. Christian Meets the Women",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034505",
-      "title": "Below the Border",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 129,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034541",
-      "title": "Boot Hill Bandits",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034832",
-      "title": "Heart of the Golden West",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035255",
-      "title": "Ridin' Down the Canyon",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035263",
-      "title": "Rock River Renegades",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 95,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035316",
-      "title": "Sheriff of Sage Valley",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035397",
-      "title": "Sunset on the Desert",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035396",
-      "title": "Sunset Serenade",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035700",
+    "tt0036065",
+    "tt0034375",
+    "tt0032411",
+    "tt0034505",
+    "tt0034541",
+    "tt0034832",
+    "tt0035255",
+    "tt0035263",
+    "tt0035316",
+    "tt0035397",
+    "tt0035396"
   ],
   "collections": [],
   "is_curated": true,

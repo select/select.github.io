@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-wonderful-chance",
+      "id": "silent-the-wonderful-chance",
       "title": "The Wonderful Chance",
       "fileSize": 855870932,
-      "id": "silent-the-wonderful-chance"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-wonderful-chance",
+      "language": "English",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 490
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020900",
-      "title": "Framed",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011565",
-      "title": "The Penalty",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 2769,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010402",
-      "title": "Love's Prisoner",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010890",
-      "title": "The Wicked Darling",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 474,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191263",
-      "title": "The Man Beneath",
-      "year": 1919,
-      "imdbRating": 6.2,
-      "imdbVotes": 53,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012651",
-      "title": "The Haunted Castle",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 2022,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010791",
-      "title": "The Tong Man",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013705",
-      "title": "Trapped by the Mormons",
-      "year": 1922,
-      "imdbRating": 5.6,
-      "imdbVotes": 179,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020628",
-      "title": "Alias French Gertie",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 156,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042582",
-      "title": "Hunt the Man Down",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 1099,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023742",
-      "title": "After Tonight",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 426,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0020900",
+    "tt0011565",
+    "tt0011904",
+    "tt0010402",
+    "tt0010890",
+    "tt0191263",
+    "tt0012651",
+    "tt0010791",
+    "tt0013705",
+    "tt0020628",
+    "tt0042582",
+    "tt0023742"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,25 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/roar_of_the_press",
+      "id": "roar_of_the_press",
       "title": "Roar of the Press",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5297628835,
-      "id": "roar_of_the_press"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/roar_of_the_press",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 29504
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/roar_of_the_press_ipod",
+      "id": "roar_of_the_press_ipod",
       "title": "Roar of the Press",
       "description": "A newly wedded couple tries to get the scoop on fifth columnist.",
       "fileSize": 1347581889,
-      "id": "roar_of_the_press_ipod"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/roar_of_the_press_ipod",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 57388
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=FPdz0YQCTBY",
+      "id": "FPdz0YQCTBY",
       "title": "Roar of the Press (1941) WALLACE FORD",
       "description": "Stars: Jean Parker, Wallace Ford, Jed Prouty \nDirector: Phil Rosen\n\nWhile on their honeymoon, a reporter and his new bride stumble upon a ring of fifth columnists!",
-      "id": "FPdz0YQCTBY",
+      "addedAt": "2025-12-26T23:48:38.744Z",
+      "thumbnail": "https://i.ytimg.com/vi/FPdz0YQCTBY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gSAAuADigIMCAAQARhcIFwoXDAP&rs=AOn4CLAJQSmmsZWSUQq_d4PpIj7eieu7rg",
+      "duration": 4222,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,116 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033928",
-      "title": "Murder by Invitation",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034089",
-      "title": "Reg'lar Fellers",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033509",
-      "title": "A Dangerous Game",
-      "year": 1941,
-      "imdbRating": 4.5,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035028",
-      "title": "Man from Headquarters",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034853",
-      "title": "Highways by Night",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029054",
-      "title": "It Could Happen to You",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031058",
-      "title": "Ask a Policeman",
-      "year": 1939,
-      "imdbRating": 7.4,
-      "imdbVotes": 1010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024605",
-      "title": "The Sphinx",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 523,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024449",
-      "title": "Picture Brides",
-      "year": 1934,
-      "imdbRating": 5.8,
-      "imdbVotes": 103,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027807",
-      "title": "It Couldn't Have Happened (But It Did)",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034224",
-      "title": "Spooks Run Wild",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 1961,
-      "language": "English, French",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0033998",
-      "title": "Paper Bullets",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033928",
+    "tt0034089",
+    "tt0033509",
+    "tt0035028",
+    "tt0034853",
+    "tt0029054",
+    "tt0031058",
+    "tt0024605",
+    "tt0024449",
+    "tt0027807",
+    "tt0034224",
+    "tt0033998"
   ],
   "collections": [],
   "is_curated": true,

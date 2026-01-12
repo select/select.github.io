@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/culpable-1960",
+      "id": "culpable-1960",
       "title": "Culpable(1960)",
       "description": "Culpable  es una película en blanco y negro de  Argentina  dirigida por  Hugo del Carril  sobre el guion de  Eduardo Borrás  según su propia obra teatral que se estrenó el 2 de junio de 1960 y tuvo como protagonistas a  Hugo del Carril ,  Roberto Escalada ,  Elina Colomer  y  Myriam de Urquijo . (Wikipedia) Sinopsis Un delincuente enfrenta a la policía disparándoles con ametralladora desde un primer piso de un chalet de las afueras de Buenos Aires y de vez en cuando abate un policía. El pistolero tiene tiempo para reflexionar, para cargar su arma, para correr de una ventana a la otra. Quien dirige a la policía advierte la inutilidad de sus esfuerzos y suspende el fuego Reparto Actor Personaje Hugo del Carril Leo / Pablo Morán Roberto Escalada Carlos Elina Colomer Gloria / Isabel Myriam de Urquijo Aurora / Laura Diana Ingro María Aurelia Bisutti Novia de Leo Ernesto Bianco Conciencia María Esther Duckse Abuela Luis Otero Inspector Valerio Carlos Olivieri Raúl / Mario Mario Campodónico Mario Martín Yamandú Romero Adolfo Linvel Miembro de comité 2 Rogelio Romano Francisco Audenino Huelguista Carlos Cotto Miembro de comité 1 Gilberto Peyret Dueño de bote Alma Montiel Alberto Quiles Morales Claudio Lucero Camionero Humberto Martínez Violeta Curtois Extra",
       "fileSize": 1226846566,
-      "id": "culpable-1960"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/culpable-1960",
+      "language": "spa",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 92
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0186380",
-      "title": "Más allá del olvido",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 313,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185878",
-      "title": "Amorina",
-      "year": 1961,
-      "imdbRating": 7.7,
-      "imdbVotes": 59,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298322",
-      "title": "Esta tierra es mía",
-      "year": 1961,
-      "imdbRating": 8.8,
-      "imdbVotes": 26,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0185969",
-      "title": "La calesita",
-      "year": 1963,
-      "imdbRating": 8.2,
-      "imdbVotes": 44,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054058",
-      "title": "Man on a String",
-      "year": 1960,
-      "imdbRating": 6.2,
-      "imdbVotes": 506,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054084",
-      "title": "Midnight Lace",
-      "year": 1960,
-      "imdbRating": 6.8,
-      "imdbVotes": 6332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054102",
-      "title": "Murder, Inc.",
-      "year": 1960,
-      "imdbRating": 6.6,
-      "imdbVotes": 1687,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054295",
-      "title": "Seven Thieves",
-      "year": 1960,
-      "imdbRating": 6.5,
-      "imdbVotes": 1795,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054380",
-      "title": "The 3rd Voice",
-      "year": 1960,
-      "imdbRating": 6.8,
-      "imdbVotes": 229,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179823",
-      "title": "Get Outta Town",
-      "year": 1960,
-      "imdbRating": 6.1,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2017464",
-      "title": "Intimidation",
-      "year": 1960,
-      "imdbRating": 7.2,
-      "imdbVotes": 928,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054041",
-      "title": "Ma Barker's Killer Brood",
-      "year": 1960,
-      "imdbRating": 5.5,
-      "imdbVotes": 383,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0186380",
+    "tt0185878",
+    "tt0298322",
+    "tt0185969",
+    "tt0054058",
+    "tt0054084",
+    "tt0054102",
+    "tt0054295",
+    "tt0054380",
+    "tt0179823",
+    "tt2017464",
+    "tt0054041"
   ],
   "collections": [],
   "is_curated": true,

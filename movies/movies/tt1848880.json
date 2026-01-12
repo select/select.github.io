@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_519",
+      "id": "rog561b_netzero_519",
       "title": "519",
       "description": "519",
       "fileSize": 2328508238,
-      "id": "rog561b_netzero_519"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_519",
+      "collection": "feature_films",
+      "downloads": 1533
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_519",
+      "id": "rog56_mail_519",
       "title": "519",
       "description": "519",
       "fileSize": 2112907276,
-      "id": "rog56_mail_519"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_519",
+      "collection": "feature_films",
+      "downloads": 5651
     }
   ],
   "metadata": {
@@ -35,120 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1043844",
-      "title": "Eyeborgs",
-      "year": 2009,
-      "imdbRating": 4.9,
-      "imdbVotes": 2308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1411232",
-      "title": "Night Wolf",
-      "year": 2010,
-      "imdbRating": 4.3,
-      "imdbVotes": 3467,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1390397",
-      "title": "Baseline",
-      "year": 2010,
-      "imdbRating": 5.1,
-      "imdbVotes": 653,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056201",
-      "title": "Doctor of Doom",
-      "year": 1963,
-      "imdbRating": 4.9,
-      "imdbVotes": 384,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1331329",
-      "title": "The Final Storm",
-      "year": 2010,
-      "imdbRating": 3.7,
-      "imdbVotes": 2135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1080019",
-      "title": "Jerry Cotton",
-      "year": 2010,
-      "imdbRating": 5.2,
-      "imdbVotes": 995,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0423474",
-      "title": "Venus & Vegas",
-      "year": 2010,
-      "imdbRating": 4,
-      "imdbVotes": 677,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0105459",
-      "title": "Split Second",
-      "year": 1992,
-      "imdbRating": 6,
-      "imdbVotes": 18062,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt1815928",
-      "title": "Shades of a Killer",
-      "year": 2010,
-      "imdbRating": 3.9,
-      "imdbVotes": 26,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7086730",
-      "title": "Devil's Night: Dawn of the Nain Rouge",
-      "year": 2020,
-      "imdbRating": 3.3,
-      "imdbVotes": 343,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1294141",
-      "title": "Dancing Ninja",
-      "year": 2010,
-      "imdbRating": 3.8,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0037984",
-      "title": "The Phantom Speaks",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1043844",
+    "tt1411232",
+    "tt1390397",
+    "tt0056201",
+    "tt1331329",
+    "tt1080019",
+    "tt0423474",
+    "tt0105459",
+    "tt1815928",
+    "tt7086730",
+    "tt1294141",
+    "tt0037984"
   ],
   "collections": [],
   "is_curated": true,

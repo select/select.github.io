@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheMoneyMasters1996",
+      "id": "TheMoneyMasters1996",
       "title": "The Money Masters (1996)",
       "description": "The Money Masters (1996)",
       "fileSize": 2384692188,
-      "id": "TheMoneyMasters1996"
+      "addedAt": "2026-01-07T00:07:05.034Z",
+      "thumbnail": "https://archive.org/services/img/TheMoneyMasters1996",
+      "collection": "feature_films",
+      "downloads": 22790
     }
   ],
   "metadata": {
@@ -27,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0460978",
-      "title": "Velkommen hjem - Leila",
-      "year": 1996,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7322208",
-      "title": "Painting",
-      "year": 1996,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0848227",
-      "title": "Attenborough in Paradise",
-      "year": 1996,
-      "imdbRating": 8.5,
-      "imdbVotes": 953,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130445",
-      "title": "Alaska: Spirit of the Wild",
-      "year": 1997,
-      "imdbRating": 7.1,
-      "imdbVotes": 592,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0112631",
-      "title": "Carl Th. Dreyer: My Métier",
-      "year": 1995,
-      "imdbRating": 6.7,
-      "imdbVotes": 523,
-      "language": "Danish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235174",
-      "title": "Alien Encounters from New Tomorrowland",
-      "year": 1995,
-      "imdbRating": 6.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1289582",
-      "title": "Im Namen Gottes",
-      "year": 1997,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0447388",
-      "title": "Registro no. 1137: Máscara de muerte de Pancho Villa",
-      "year": 1997,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0398785",
-      "title": "The Blood Tide",
-      "year": 1998,
-      "imdbRating": 5.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1043731",
-      "title": "The Man Who Drew Bug-Eyed Monsters",
-      "year": 1994,
-      "imdbRating": 7.7,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0225448",
-      "title": "A Cry from the Grave",
-      "year": 1999,
-      "imdbRating": 7.8,
-      "imdbVotes": 352,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310597",
-      "title": "Ahmad Shamlou: Master Poet of Liberty",
-      "year": 1999,
-      "imdbRating": 7.7,
-      "imdbVotes": 82,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    }
+    "tt0460978",
+    "tt7322208",
+    "tt0848227",
+    "tt0130445",
+    "tt0112631",
+    "tt0235174",
+    "tt1289582",
+    "tt0447388",
+    "tt0398785",
+    "tt1043731",
+    "tt0225448",
+    "tt0310597"
   ],
   "collections": [],
   "is_curated": true,

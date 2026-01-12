@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-kino-pravda-no-2",
+      "id": "silent-kino-pravda-no-2",
       "title": "Kino-pravda no. 2",
       "fileSize": 252449750,
-      "id": "silent-kino-pravda-no-2"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-kino-pravda-no-2",
+      "language": "Russian",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 393
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0953454",
-      "title": "Kino-pravda no. 1",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 213,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953458",
-      "title": "Kino-Pravda No. 13: Yesterday, Today, Tomorrow. A Film Poem Dedicated to the October Revolution",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 107,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953465",
-      "title": "Kino-pravda no. 3",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 144,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953466",
-      "title": "Kino-pravda no. 4",
-      "year": 1922,
-      "imdbRating": 5.3,
-      "imdbVotes": 136,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953467",
-      "title": "Kino-pravda no. 5",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 136,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953468",
-      "title": "Kino-pravda no. 6",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 128,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0953460",
-      "title": "Kino-pravda no. 15",
-      "year": 1923,
-      "imdbRating": 5.5,
-      "imdbVotes": 119,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010328",
-      "title": "Kino-nedelya",
-      "year": 1918,
-      "imdbRating": 6.3,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308046",
-      "title": "Looney Lens: Pas de deux",
-      "year": 1924,
-      "imdbRating": 7,
-      "imdbVotes": 33,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308002",
-      "title": "Looney Lens: Split Skyscrapers",
-      "year": 1924,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3308008",
-      "title": "Looney Lens: Tenth Avenue, NYC",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471602",
-      "title": "C-V News: Filming Greed",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0953454",
+    "tt0953458",
+    "tt0953465",
+    "tt0953466",
+    "tt0953467",
+    "tt0953468",
+    "tt0953460",
+    "tt0010328",
+    "tt3308046",
+    "tt3308002",
+    "tt3308008",
+    "tt0471602"
   ],
   "collections": [],
   "is_curated": true,

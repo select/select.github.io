@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MarvellousMelbourne",
+      "id": "MarvellousMelbourne",
       "title": "Marvellous Melbourne",
       "description": "Full Title: Marvellous Melbourne - Queen City of the South An early documentary film about the City of Melbourne, then the interim capital city of Australia. Made in 1910. The director Charles Cozens Spencer was famous for his bushranger films: \"Captain Starlight\" (Robbery Under Arms), \"Captain Midgnight - The Bush King\", \"The Life and Adventures of John Vane, The Notorious Australian Bushranger\", \"Dan Morgan, The Terror of the Australian Bush\" (Mad Dog Morgan). He also made the 1915 Film \"The Shepherd of the Southern Cross.\" He introduced Australia's greatest silent film-maker, Raymond Longford, to the business. He died in September 1930 (he shot himself after going on a killing spree in Canada). Special contents of this edition copyright 2010 Shane I Sullivan. Permission to use these items is granted under creative commons licence.",
       "fileSize": 388805601,
-      "id": "MarvellousMelbourne"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/MarvellousMelbourne",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 98792
     }
   ],
   "metadata": {
@@ -26,110 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0257522",
-      "title": "A Day in the Life of a Coal Miner",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 288,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2194533",
-      "title": "Comment les pauvres mangent à Paris",
-      "year": 1910,
-      "imdbRating": 6.5,
-      "imdbVotes": 18,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477346",
-      "title": "New York of Today",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4745838",
-      "title": "The Seine Flood",
-      "year": 1910,
-      "imdbVotes": 23,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1187321",
-      "title": "Picturesque Colorado",
-      "year": 1911,
-      "imdbVotes": 8,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647246",
-      "title": "The War Bonnet Round-Up",
-      "year": 1912,
-      "imdbRating": 4.1,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1168660",
-      "title": "Whaling Afloat and Ashore",
-      "year": 1908,
-      "imdbRating": 6.3,
-      "imdbVotes": 96,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257371",
-      "title": "Aeroplane Flight and Wreck (Piloted by M. Cody)",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 421,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3658844",
-      "title": "Tôkyô ozumo katsudô shashin",
-      "year": 1907,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0885116",
-      "title": "Seven Ages of an Alligator",
-      "year": 1913,
-      "imdbRating": 5.8,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1187030",
-      "title": "Manhattan Trade School for Girls",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000537",
-      "title": "Arrival of Immigrants, Ellis Island",
-      "year": 1906,
-      "imdbRating": 4.4,
-      "imdbVotes": 94,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0257522",
+    "tt2194533",
+    "tt0477346",
+    "tt4745838",
+    "tt1187321",
+    "tt2647246",
+    "tt1168660",
+    "tt0257371",
+    "tt3658844",
+    "tt0885116",
+    "tt1187030",
+    "tt0000537"
   ],
   "collections": [],
   "is_curated": true,

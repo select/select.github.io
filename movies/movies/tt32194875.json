@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_3111",
+      "id": "rog561b_netzero_3111",
       "title": "311 1",
       "description": "311 1",
       "fileSize": 1573317293,
-      "id": "rog561b_netzero_3111"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_3111",
+      "collection": "feature_films",
+      "downloads": 1705
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_3111",
+      "id": "rog56_mail_3111",
       "title": "311 1",
       "description": "311 1",
       "fileSize": 901504404,
-      "id": "rog56_mail_3111"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_3111",
+      "collection": "feature_films",
+      "downloads": 846
     }
   ],
   "metadata": {
@@ -34,108 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt15374070",
-      "title": "Studio 666",
-      "year": 2022,
-      "imdbRating": 5.6,
-      "imdbVotes": 16671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14409624",
-      "title": "Purple Beatz",
-      "year": 2022,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt11976532",
-      "title": "Vengeance",
-      "year": 2022,
-      "imdbRating": 6.8,
-      "imdbVotes": 40883,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0149886",
-      "title": "Bird Symphony",
-      "year": 1955,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148026",
-      "title": "Croon Crazy",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1239453",
-      "title": "Quartetto K 589 di W. A. Mozart",
-      "year": 2007,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1504286",
-      "title": "Tales of Mystery and Imagination",
-      "year": 2009,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11192518",
-      "title": "River Phoenix",
-      "year": 2019,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt7662248",
-      "title": "Upbeat Instrumental Work Music: Happy Energetic Relaxing Music for Working Fast & Focus",
-      "year": 2017,
-      "imdbRating": 8.8,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4189440",
-      "title": "Finding Glory",
-      "year": 2014,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0140434",
-      "title": "Lichtspiel Opus 1.",
-      "year": 1921,
-      "imdbRating": 6.2,
-      "imdbVotes": 991,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051108",
-      "title": "Trees and Jamaica Daddy",
-      "year": 1957,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt15374070",
+    "tt14409624",
+    "tt11976532",
+    "tt0149886",
+    "tt0148026",
+    "tt1239453",
+    "tt1504286",
+    "tt11192518",
+    "tt7662248",
+    "tt4189440",
+    "tt0140434",
+    "tt0051108"
   ],
   "collections": [],
   "is_curated": true,

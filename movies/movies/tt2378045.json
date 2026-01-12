@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_2041",
+      "id": "dipwad2_zoho_2041",
       "title": "204",
       "description": "204 ",
       "fileSize": 8221670204,
-      "id": "dipwad2_zoho_2041"
+      "addedAt": "2026-01-07T00:08:07.356Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_2041",
+      "collection": "feature_films",
+      "downloads": 1823
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_204",
+      "id": "rog561b_netzero_204",
       "title": "204",
       "description": "204",
       "fileSize": 3538727744,
-      "id": "rog561b_netzero_204"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_204",
+      "collection": "feature_films",
+      "downloads": 6748
     }
   ],
   "metadata": {
@@ -34,101 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1779491",
-      "title": "The Accordion",
-      "year": 2010,
-      "imdbRating": 6.8,
-      "imdbVotes": 311,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1512093",
-      "title": "306",
-      "year": 2010,
-      "imdbRating": 6,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1763178",
-      "title": "403",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1699674",
-      "title": "My Happiness",
-      "year": 2010,
-      "imdbRating": 8.2,
-      "imdbVotes": 9,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1780962",
-      "title": "Room 712",
-      "year": 2010,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1581787",
-      "title": "307",
-      "year": 2010,
-      "imdbRating": 8.6,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1880353",
-      "title": "The Blind Man",
-      "year": 2011,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2148928",
-      "title": "406",
-      "year": 2011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7197090",
-      "title": "Stolen Lives: Bexley",
-      "year": 2009,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2213110",
-      "title": "Delete",
-      "year": 2011,
-      "imdbRating": 7.9,
-      "imdbVotes": 55,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1419606",
-      "title": "El refrigerador",
-      "year": 2008,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1779491",
+    "tt1512093",
+    "tt1763178",
+    "tt1699674",
+    "tt1780962",
+    "tt1581787",
+    "tt1880353",
+    "tt2148928",
+    "tt7197090",
+    "tt2213110",
+    "tt1419606",
+    "tt2509978"
   ],
   "collections": [],
   "is_curated": true,

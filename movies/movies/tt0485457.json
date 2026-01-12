@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_6211",
+      "id": "dipwad2_zoho_6211",
       "title": "621",
       "description": "621 ",
       "fileSize": 2631339333,
-      "id": "dipwad2_zoho_6211"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_6211",
+      "collection": "feature_films",
+      "downloads": 1297
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_6212",
+      "id": "dipwad2_zoho_6212",
       "title": "621",
       "description": "621 ",
       "fileSize": 2455533669,
-      "id": "dipwad2_zoho_6212"
+      "addedAt": "2026-01-07T00:08:07.358Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_6212",
+      "collection": "feature_films",
+      "downloads": 519
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_621",
+      "id": "rog56_mail_621",
       "title": "621",
       "description": "621",
       "fileSize": 2734079408,
-      "id": "rog56_mail_621"
+      "addedAt": "2026-01-07T00:10:30.757Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_621",
+      "collection": "feature_films",
+      "downloads": 2817
     }
   ],
   "metadata": {
@@ -42,112 +54,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001431",
-      "title": "The Unchanging Sea",
-      "year": 1910,
-      "imdbRating": 6.3,
-      "imdbVotes": 916,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1419606",
-      "title": "El refrigerador",
-      "year": 2008,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002054",
-      "title": "A Beast at Bay",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001150",
-      "title": "A Child of the Ghetto",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000832",
-      "title": "A Corner in Wheat",
-      "year": 1909,
-      "imdbRating": 6.6,
-      "imdbVotes": 2796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000852",
-      "title": "A Drunkard's Reformation",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001050",
-      "title": "A Strange Meeting",
-      "year": 1909,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0258254",
-      "title": "A Tin-Type Romance",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 26,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001072",
-      "title": "A Trap for Santa Claus",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 409,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001032",
+    "tt0001265",
+    "tt0001431",
+    "tt0002381",
+    "tt1419606",
+    "tt0002054",
+    "tt0001150",
+    "tt0000832",
+    "tt0000852",
+    "tt0001050",
+    "tt0258254",
+    "tt0001072"
   ],
   "collections": [],
   "is_curated": true,

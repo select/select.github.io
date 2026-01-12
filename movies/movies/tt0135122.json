@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Hilarious_Posters",
+      "id": "The_Hilarious_Posters",
       "title": "The Hilarious Posters",
       "description": "The original French title is Les Affiches en goguette . IMDb Page",
       "fileSize": 83301348,
-      "id": "The_Hilarious_Posters"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Hilarious_Posters",
+      "language": "English",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 4412
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216016",
-      "title": "The Mysterious Retort",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 720,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227536",
-      "title": "Up-to-Date Spiritualism",
-      "year": 1900,
-      "imdbRating": 5.7,
-      "imdbVotes": 373,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215817",
-      "title": "Good Glue Sticks",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 640,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215749",
-      "title": "The Enchanted Sedan Chair",
-      "year": 1905,
-      "imdbRating": 5.4,
-      "imdbVotes": 524,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000575",
-      "title": "20,000 Leagues Under the Sea",
-      "year": 1907,
-      "imdbRating": 5.7,
-      "imdbVotes": 636,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0222731",
-      "title": "The Fugitive Apparitions",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 183,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215992",
-      "title": "The Mermaid",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1349,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135631",
-      "title": "The Untamable Whiskers",
-      "year": 1904,
-      "imdbRating": 6.2,
-      "imdbVotes": 1200,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0216419",
-      "title": "The Wonderful Living Fan",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 689,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0215575",
+    "tt0215664",
+    "tt0216016",
+    "tt0227536",
+    "tt0215817",
+    "tt0215749",
+    "tt0000575",
+    "tt0222731",
+    "tt0215992",
+    "tt0135631",
+    "tt0216419",
+    "tt0228696"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/crimen-1962",
+      "id": "crimen-1962",
       "title": "Crimen (1962)",
       "description": "Título original Crimen Año 1962 Duración 8 min. País  Argentina Dirección Ricardo Becher Guion Sergio Mulet Reparto Sergio Mulet Fotografía Ricardo Aronovich  (B&W) Género Drama .  Intriga  |  Cortometraje Sinopsis Un obrero de la construcción tiene unos pensamientos terribles en su horario de descanso. (FILMAFFINITY)",
       "fileSize": 227340414,
-      "id": "crimen-1962"
+      "addedAt": "2026-01-07T00:07:51.625Z",
+      "thumbnail": "https://archive.org/services/img/crimen-1962",
+      "language": "spa",
+      "year": 1962,
+      "collection": "feature_films",
+      "downloads": 31
     }
   ],
   "metadata": {
@@ -27,104 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0180945",
-      "title": "Racconto",
-      "year": 1963,
-      "imdbRating": 5.7,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056075",
-      "title": "The Hole",
-      "year": 1962,
-      "imdbRating": 6.2,
-      "imdbVotes": 597,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259898",
-      "title": "Boys Beware",
-      "year": 1962,
-      "imdbRating": 3.2,
-      "imdbVotes": 629,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056066",
-      "title": "Happy Anniversary",
-      "year": 1962,
-      "imdbRating": 7.2,
-      "imdbVotes": 829,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt8268650",
-      "title": "Quema",
-      "year": 1962,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183898",
-      "title": "Tiro de gracia",
-      "year": 1969,
-      "imdbRating": 7.9,
-      "imdbVotes": 76,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12658952",
-      "title": "Town of the Times",
-      "year": 1963,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150058",
-      "title": "Cat Alarm",
-      "year": 1961,
-      "imdbRating": 5.5,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148028",
-      "title": "Crossing the Deleware",
-      "year": 1961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161530",
-      "title": "Drum Roll",
-      "year": 1961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148304",
-      "title": "Honorable Cat Story",
-      "year": 1961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057398",
-      "title": "La pampa gringa",
-      "year": 1963,
-      "imdbRating": 6.8,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0180945",
+    "tt0056075",
+    "tt0259898",
+    "tt0056066",
+    "tt8268650",
+    "tt0183898",
+    "tt12658952",
+    "tt0150058",
+    "tt0148028",
+    "tt0161530",
+    "tt0148304",
+    "tt0057398"
   ],
   "collections": [],
   "is_curated": true,

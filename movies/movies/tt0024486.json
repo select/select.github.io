@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rainbowoverbroadway",
+      "id": "rainbowoverbroadway",
       "title": "Rainbow over Broadway",
       "description": "“Poverty row surprise and delight” “Amusing” “Better than you’d expect” (IMDB reviews quotes). Laughs are the thing in this musical family feud that moves from Kansas City to New York City. Good cast. Lively screenplay. Surprising B-musical fun. IMDB rating 6.4. Directed by Richard Thorpe. Released in 1933. TV broadcast edit? AKA “Just off Broadway”",
       "fileSize": 531697231,
-      "id": "rainbowoverbroadway"
+      "addedAt": "2026-01-07T00:10:21.542Z",
+      "thumbnail": "https://archive.org/services/img/rainbowoverbroadway",
+      "collection": "feature_films",
+      "downloads": 2755
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=4QMEc5-zDxA",
+      "id": "4QMEc5-zDxA",
       "title": "Rainbow over Broadway (1933) PRE-CODE HOLLYWOOD",
       "description": "Stars: Joan Marsh, Frank Albertson, Lucien Littlefield\nDirector: Richard Thorpe\n\nWhen an ex-vaudeville performer makes a comeback, it threatens the ambitions of her two songwriting step-children.",
-      "id": "4QMEc5-zDxA",
+      "addedAt": "2025-12-26T23:45:16.396Z",
+      "thumbnail": "https://i.ytimg.com/vi/4QMEc5-zDxA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLACJqqJEyZ0Cg-xanmoiY16cvAfKw",
+      "duration": 3062,
+      "language": "en",
+      "year": 1933,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0024300",
-      "title": "A Man of Sentiment",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024031",
-      "title": "Forgotten",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026775",
-      "title": "The Night Is Young",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026301",
-      "title": "El día que me quieras",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 150,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024394",
-      "title": "Notorious But Nice",
-      "year": 1933,
-      "imdbRating": 6.2,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024619",
-      "title": "Strange People",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023930",
-      "title": "Daring Daughters",
-      "year": 1933,
-      "imdbRating": 5.7,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024985",
-      "title": "City Park",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022791",
-      "title": "Cross-Examination",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023218",
-      "title": "The Midnight Lady",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 97,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023247",
-      "title": "Murder at Dawn",
-      "year": 1932,
-      "imdbRating": 4.3,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025758",
-      "title": "Secret of the Chateau",
-      "year": 1934,
-      "imdbRating": 5.9,
-      "imdbVotes": 134,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0024300",
+    "tt0024031",
+    "tt0026775",
+    "tt0026301",
+    "tt0024394",
+    "tt0024619",
+    "tt0023930",
+    "tt0024985",
+    "tt0022791",
+    "tt0023218",
+    "tt0023247",
+    "tt0025758"
   ],
   "collections": [],
   "is_curated": true,

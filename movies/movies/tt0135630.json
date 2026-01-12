@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RocknRollRevue",
+      "id": "RocknRollRevue",
       "title": "Rock 'N Roll Revue",
       "description": "Master of ceremonies Willie Bryant hosts an eventful evening of music and comedy captured live at the Apollo Theater and featuring such popular artists as Nat King Cole, Duke Ellington, the Clovers, Dinah Washington, Martha Davis, and Mantan Moreland.",
       "fileSize": 1300560468,
-      "id": "RocknRollRevue"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/RocknRollRevue",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 9894
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rock-n-roll-revue-1955",
+      "id": "rock-n-roll-revue-1955",
       "title": "Rock 'n' Roll Revue (1955)",
       "description": "Rock'n Roll Revue is a 1955 American film directed by Joseph Kohn. The film was compiled for theatrical exhibition from the made-for-television short films produced by Snader and Studio Telescriptions, with newly-filmed host segments by Willie Bryant Watch on RetroFlix:  https://retroflix.org/rock-n-roll-revue-1955/",
       "fileSize": 232997414,
-      "id": "rock-n-roll-revue-1955"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rock-n-roll-revue-1955",
+      "language": "eng",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 121
     }
   ],
   "metadata": {
@@ -35,112 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135628",
-      "title": "Rhythm and Blues Revue",
-      "year": 1955,
-      "imdbRating": 7,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279784",
-      "title": "Dora's Dunking Doughnuts",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149886",
-      "title": "Bird Symphony",
-      "year": 1955,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135175",
-      "title": "Bubbling Over",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150123",
-      "title": "Christopher Crumpet's Playmate",
-      "year": 1955,
-      "imdbRating": 6.2,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706329",
-      "title": "Cut Yourself a Piece of Cake",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2527626",
-      "title": "Fuzzy Knight and His Little Piano",
-      "year": 1928,
-      "imdbRating": 3.8,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1053360",
-      "title": "Gus Van and Joe Schenck",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148369",
-      "title": "Keep Your Grin Up",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0135628",
+    "tt0279784",
+    "tt1706294",
+    "tt1698474",
+    "tt0149886",
+    "tt0135175",
+    "tt1131583",
+    "tt0150123",
+    "tt1706329",
+    "tt2527626",
+    "tt1053360",
+    "tt0148369"
   ],
   "collections": [],
   "is_curated": true,

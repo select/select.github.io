@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/devilmaycare_1929",
+      "id": "devilmaycare_1929",
       "title": "Devil-May-Care",
       "fileSize": 6894080114,
-      "id": "devilmaycare_1929"
+      "addedAt": "2026-01-07T00:08:07.354Z",
+      "thumbnail": "https://archive.org/services/img/devilmaycare_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 364
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/devilmaycare_1929_202506",
+      "id": "devilmaycare_1929_202506",
       "title": "Devil-May-Care (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. A post Napoleonic-France set musical whose claim to fame was the sound debut of heartthrob Ramon Novarro, Devil-May-Care also had a technicolor dance sequence and was a box office hit. Reviews were fine, though it was important to prove that Novarro could lead a talkie picture.",
       "fileSize": 6824122623,
-      "id": "devilmaycare_1929_202506"
+      "addedAt": "2026-01-07T00:08:07.354Z",
+      "thumbnail": "https://archive.org/services/img/devilmaycare_1929_202506",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 89
     }
   ],
   "metadata": {
@@ -34,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020589",
-      "title": "Wild Orchids",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 756,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019725",
-      "title": "Broadway",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020469",
-      "title": "Sweetie",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020446",
-      "title": "The Squall",
-      "year": 1929,
-      "imdbRating": 4.7,
-      "imdbVotes": 463,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016646",
-      "title": "Beverly of Graustark",
-      "year": 1926,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020866",
-      "title": "Extravagance",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021133",
-      "title": "Maybe It's Love",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020697",
-      "title": "The Blue Angel",
-      "year": 1930,
-      "imdbRating": 7.6,
-      "imdbVotes": 17200,
-      "language": "German, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021184",
-      "title": "Night Work",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021243",
-      "title": "Peacock Alley",
-      "year": 1930,
-      "imdbRating": 4.6,
-      "imdbVotes": 141,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0020589",
+    "tt0018297",
+    "tt0019725",
+    "tt0020469",
+    "tt0020446",
+    "tt0020602",
+    "tt0016646",
+    "tt0020866",
+    "tt0021133",
+    "tt0020697",
+    "tt0021184",
+    "tt0021243"
   ],
   "collections": [],
   "is_curated": true,

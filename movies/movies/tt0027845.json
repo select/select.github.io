@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kind-lady-1935",
+      "id": "kind-lady-1935",
       "title": "Kind Lady (1935)",
       "description": "Basil Rathbone",
       "fileSize": 1861093256,
-      "id": "kind-lady-1935"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/kind-lady-1935",
+      "collection": "feature_films",
+      "downloads": 1716
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026731",
-      "title": "Motive for Revenge",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027028",
-      "title": "The Spanish Cape Mystery",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022826",
-      "title": "Docks of San Francisco",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028231",
-      "title": "Secret Agent",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 9469,
-      "language": "English, French, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027003",
-      "title": "Sing Sing Nights",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024782",
-      "title": "The Woman Condemned",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 303,
-      "language": "Italian, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028511",
-      "title": "Winterset",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 482,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024904",
-      "title": "Bombay Mail",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025452",
-      "title": "The Man Who Knew Too Much",
-      "year": 1934,
-      "imdbRating": 6.7,
-      "imdbVotes": 22708,
-      "language": "English, German, Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027839",
-      "title": "Kelly of the Secret Service",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022206",
-      "title": "Night Beat",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026731",
+    "tt0027028",
+    "tt0022826",
+    "tt0028231",
+    "tt0027003",
+    "tt0024782",
+    "tt0028511",
+    "tt0024904",
+    "tt0025452",
+    "tt0027839",
+    "tt0021820",
+    "tt0022206"
   ],
   "collections": [],
   "is_curated": true,

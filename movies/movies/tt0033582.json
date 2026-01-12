@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1941-the-face-behind-the-mask-la-mascara-de-fuego-robert-florey",
+      "id": "1941-the-face-behind-the-mask-la-mascara-de-fuego-robert-florey",
       "title": "1941 - The Face Behind The Mask - La máscara de fuego - Robert Florey",
       "description": "1941 - The Face Behind The Mask - La máscara de fuego - Robert Florey",
       "fileSize": 705834475,
-      "id": "1941-the-face-behind-the-mask-la-mascara-de-fuego-robert-florey"
+      "addedAt": "2026-01-07T00:06:03.995Z",
+      "thumbnail": "https://archive.org/services/img/1941-the-face-behind-the-mask-la-mascara-de-fuego-robert-florey",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 2693
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-face-behind-the-mask-1941",
+      "id": "the-face-behind-the-mask-1941",
       "title": "The Face Behind The Mask (1941) Peter Lorre, Evelyn Keyes",
       "description": "The Face Behind the Mask is a 1941 American  FILM NOlR crime film. It stars Peter Lorre and Evelyn Keyes and was directed by Robert Florey.   You can find out more about this movie from Wikipedia and read an article from FILM NOlR of the Week .    ",
       "fileSize": 384835971,
-      "id": "the-face-behind-the-mask-1941"
+      "addedAt": "2026-01-07T00:11:57.686Z",
+      "thumbnail": "https://archive.org/services/img/the-face-behind-the-mask-1941",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 895
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034959",
-      "title": "Lady Gangster",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 846,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0031232",
-      "title": "Disbarred",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041269",
-      "title": "The Crooked Way",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042618",
-      "title": "Johnny One-Eye",
-      "year": 1950,
-      "imdbRating": 5.5,
-      "imdbVotes": 161,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033802",
-      "title": "Ladies in Retirement",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1845,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033107",
-      "title": "Stranger on the Third Floor",
-      "year": 1940,
-      "imdbRating": 6.8,
-      "imdbVotes": 4727,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033740",
-      "title": "I Wake Up Screaming",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 5587,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033998",
-      "title": "Paper Bullets",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034175",
-      "title": "The Shanghai Gesture",
-      "year": 1941,
-      "imdbRating": 6.6,
-      "imdbVotes": 3021,
-      "language": "English, French, Chinese, Russian, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0125737",
-      "title": "Escort Girl",
-      "year": 1941,
-      "imdbRating": 4.1,
-      "imdbVotes": 254,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034173",
-      "title": "Shadows on the Stairs",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 796,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033870",
-      "title": "The Maltese Falcon",
-      "year": 1941,
-      "imdbRating": 7.9,
-      "imdbVotes": 171879,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034959",
+    "tt0031232",
+    "tt0041269",
+    "tt0042618",
+    "tt0033802",
+    "tt0033107",
+    "tt0033740",
+    "tt0033998",
+    "tt0034175",
+    "tt0125737",
+    "tt0034173",
+    "tt0030039"
   ],
   "collections": [],
   "is_curated": true,

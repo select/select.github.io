@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/unrest-dvdrip",
+      "id": "unrest-dvdrip",
       "title": "Unrest (2006)",
       "description": "A young pathology med student suspects that the spirit of a dead cadaver in the hospital morgue where she works is killing off all those who handle or desecrate the body.",
       "fileSize": 2011041391,
-      "id": "unrest-dvdrip"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/unrest-dvdrip",
+      "language": "eng",
+      "year": 2006,
+      "collection": "feature_films",
+      "downloads": 220
     }
   ],
   "metadata": {
@@ -27,122 +33,18 @@
     "Awards": "4 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0470705",
-      "title": "Bug",
-      "year": 2006,
-      "imdbRating": 6.1,
-      "imdbVotes": 39008,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0475937",
-      "title": "The Abandoned",
-      "year": 2006,
-      "imdbRating": 5.5,
-      "imdbVotes": 13600,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0478165",
-      "title": "The Butcher",
-      "year": 2006,
-      "imdbRating": 3.6,
-      "imdbVotes": 1683,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454224",
-      "title": "Penny Dreadful",
-      "year": 2006,
-      "imdbRating": 4.8,
-      "imdbVotes": 6647,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0494199",
-      "title": "5ive Girls",
-      "year": 2006,
-      "imdbRating": 4.4,
-      "imdbVotes": 3722,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0995033",
-      "title": "Chicago Massacre: Richard Speck",
-      "year": 2007,
-      "imdbRating": 3.9,
-      "imdbVotes": 790,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0422272",
-      "title": "Fragile",
-      "year": 2005,
-      "imdbRating": 6,
-      "imdbVotes": 18169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0891520",
-      "title": "Carved: The Slit-Mouthed Woman",
-      "year": 2007,
-      "imdbRating": 5.4,
-      "imdbVotes": 3227,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0491145",
-      "title": "Shadow Puppets",
-      "year": 2007,
-      "imdbRating": 4.8,
-      "imdbVotes": 2696,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1094162",
-      "title": "AVH: Alien vs. Hunter",
-      "year": 2007,
-      "imdbRating": 1.5,
-      "imdbVotes": 3548,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0489318",
-      "title": "The Perfect Witness",
-      "year": 2007,
-      "imdbRating": 5.4,
-      "imdbVotes": 1443,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0470705",
+    "tt0475937",
+    "tt0478165",
+    "tt0454224",
+    "tt0494199",
+    "tt0843873",
+    "tt0995033",
+    "tt0422272",
+    "tt0891520",
+    "tt1094162",
+    "tt0489318",
+    "tt0485857"
   ],
   "collections": [],
   "is_curated": true,

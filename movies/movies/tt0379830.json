@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-interrupted-bathers",
+      "id": "silent-the-interrupted-bathers",
       "title": "The Interrupted Bathers",
       "fileSize": 33885803,
-      "id": "silent-the-interrupted-bathers"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-interrupted-bathers",
+      "year": 1902,
+      "collection": "feature_films",
+      "downloads": 539
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0367569",
-      "title": "The Burlesque Suicide, No. 2",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 212,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232216",
-      "title": "The Old Maid Having Her Picture Taken",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 250,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0324308",
-      "title": "Trapeze Disrobing Act",
-      "year": 1901,
-      "imdbRating": 5.7,
-      "imdbVotes": 362,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312017",
-      "title": "What Happened on Twenty-third Street, New York City",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 1131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245125",
-      "title": "Fun in a Bakery Shop",
-      "year": 1902,
-      "imdbRating": 5.9,
-      "imdbVotes": 430,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422664",
-      "title": "His Only Pair",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367570",
-      "title": "The Burlesque Suicide",
-      "year": 1902,
-      "imdbRating": 4.8,
-      "imdbVotes": 58,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212140",
-      "title": "The Extraordinary Waiter",
-      "year": 1902,
-      "imdbRating": 4.8,
-      "imdbVotes": 119,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000399",
-      "title": "Jack and the Beanstalk",
-      "year": 1902,
-      "imdbRating": 6.1,
-      "imdbVotes": 827,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000357",
-      "title": "The Haunted Curiosity Shop",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0367569",
+    "tt0232216",
+    "tt0324308",
+    "tt0312017",
+    "tt0245125",
+    "tt1422664",
+    "tt0367570",
+    "tt0212140",
+    "tt0000399",
+    "tt0308284",
+    "tt2585250",
+    "tt0000357"
   ],
   "collections": [],
   "is_curated": true,

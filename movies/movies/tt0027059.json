@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/letting-in-the-sunshine",
+      "id": "letting-in-the-sunshine",
       "title": "Letting In The Sunshine",
       "description": "A window cleaner bumps into an old flame, and the pair turn detective in an attempt to foil a gang of burglars.",
       "fileSize": 5934738013,
-      "id": "letting-in-the-sunshine"
+      "addedAt": "2026-01-07T00:09:38.890Z",
+      "thumbnail": "https://archive.org/services/img/letting-in-the-sunshine",
+      "language": "eng",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 731
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-sunshine-makers-1935",
+      "id": "the-sunshine-makers-1935",
       "title": "The Sunshine Makers (1935)",
       "description": "Happy sunshine-bottling gnomes battle gloomy swamp-dwellers. Watch on RetroFlix:  https://retroflix.org/the-sunshine-makers-1935/",
       "fileSize": 105547930,
-      "id": "the-sunshine-makers-1935"
+      "addedAt": "2026-01-07T00:12:33.204Z",
+      "thumbnail": "https://archive.org/services/img/the-sunshine-makers-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 167
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026207",
-      "title": "Japanese Lanterns",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026037",
-      "title": "Adventures of Popeye",
-      "year": 1935,
-      "imdbRating": 6.4,
-      "imdbVotes": 373,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026109",
-      "title": "Betty Boop and Grampy",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026210",
-      "title": "Choose Your 'Weppins'",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026573",
-      "title": "King of the Mardi Gras",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 281,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026503",
-      "title": "The 'Hyp-Nut-Tist'",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027031",
-      "title": "The Spinach Overture",
-      "year": 1935,
-      "imdbRating": 7.1,
-      "imdbVotes": 298,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027233",
-      "title": "You Gotta Be a Football Hero",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 270,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027448",
-      "title": "A Clean Shaven Man",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 259,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026310",
-      "title": "An Elephant Never Forgets",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 148,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027401",
-      "title": "Brotherly Love",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027699",
-      "title": "Greedy Humpty Dumpty",
-      "year": 1936,
-      "imdbRating": 7.1,
-      "imdbVotes": 215,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026207",
+    "tt0026037",
+    "tt0026109",
+    "tt0026210",
+    "tt0026573",
+    "tt0026503",
+    "tt0027031",
+    "tt0027233",
+    "tt0027448",
+    "tt0026310",
+    "tt0027401",
+    "tt0027699"
   ],
   "collections": [
     {

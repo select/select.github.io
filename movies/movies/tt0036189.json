@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mystery-of-the-13th-guest-1943",
+      "id": "mystery-of-the-13th-guest-1943",
       "title": "Mystery Of The 13th Guest (1943)",
       "description": "Helen Parish, Dick Purcell",
       "fileSize": 950822131,
-      "id": "mystery-of-the-13th-guest-1943"
+      "addedAt": "2026-01-07T00:09:54.335Z",
+      "thumbnail": "https://archive.org/services/img/mystery-of-the-13th-guest-1943",
+      "collection": "feature_films",
+      "downloads": 678
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035171",
-      "title": "The Panther's Claw",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033595",
-      "title": "Federal Fugitives",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035570",
-      "title": "X Marks the Spot",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0036928",
-      "title": "Hot Rhythm",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040394",
-      "title": "The Golden Eye",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 649,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035057",
-      "title": "Men of San Quentin",
-      "year": 1942,
-      "imdbRating": 4.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037441",
-      "title": "Voodoo Man",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 1282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031125",
-      "title": "Bulldog Drummond's Secret Police",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 672,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033613",
-      "title": "Flying Wild",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 538,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0207407",
+    "tt0035171",
+    "tt0033526",
+    "tt0033595",
+    "tt0035570",
+    "tt0036928",
+    "tt0040394",
+    "tt0035057",
+    "tt0037441",
+    "tt0034985",
+    "tt0031125",
+    "tt0033613"
   ],
   "collections": [],
   "is_curated": true,

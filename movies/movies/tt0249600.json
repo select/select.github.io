@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-an-interesting-story",
+      "id": "silent-an-interesting-story",
       "title": "An Interesting Story",
       "fileSize": 88449818,
-      "id": "silent-an-interesting-story"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-an-interesting-story",
+      "year": 1904,
+      "collection": "feature_films",
+      "downloads": 388
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0271697",
-      "title": "Our New Errand Boy",
-      "year": 1905,
-      "imdbRating": 5.4,
-      "imdbVotes": 132,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132534",
-      "title": "Stop Thief!",
-      "year": 1901,
-      "imdbRating": 5.6,
-      "imdbVotes": 667,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0438165",
-      "title": "The Little Match Seller",
-      "year": 1902,
-      "imdbRating": 6.7,
-      "imdbVotes": 499,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000492",
-      "title": "Personal",
-      "year": 1904,
-      "imdbRating": 4.8,
-      "imdbVotes": 143,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232946",
-      "title": "The Widow and the Only Man",
-      "year": 1904,
-      "imdbRating": 4.3,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232190",
-      "title": "A Nigger in the Woodpile",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 241,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1056050",
-      "title": "Diving Lucy",
-      "year": 1904,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0273542",
-      "title": "Dog Factory",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 443,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422644",
-      "title": "Drat That Boy",
-      "year": 1904,
-      "imdbRating": 5,
-      "imdbVotes": 67,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231758",
-      "title": "How a French Nobleman Got a Wife Through the 'New York Herald' Personal Columns",
-      "year": 1904,
-      "imdbRating": 5.3,
-      "imdbVotes": 287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235568",
-      "title": "Maniac Chase",
-      "year": 1904,
-      "imdbRating": 5.2,
-      "imdbVotes": 158,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422704",
-      "title": "Mr. Pecksniff Fetches the Doctor",
-      "year": 1904,
-      "imdbRating": 4.6,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0271697",
+    "tt0132534",
+    "tt0438165",
+    "tt0000492",
+    "tt0232946",
+    "tt0232190",
+    "tt1056050",
+    "tt0273542",
+    "tt1422644",
+    "tt0231758",
+    "tt0235568",
+    "tt1422704"
   ],
   "collections": [],
   "is_curated": true,

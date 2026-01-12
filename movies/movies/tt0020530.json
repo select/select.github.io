@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/un-chien-andalou_1929",
+      "id": "un-chien-andalou_1929",
       "title": "Un Chien Andalou",
       "fileSize": 1923349984,
-      "id": "un-chien-andalou_1929"
+      "addedAt": "2026-01-07T00:12:55.131Z",
+      "thumbnail": "https://archive.org/services/img/un-chien-andalou_1929",
+      "language": "French",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 1751
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/un-chien-andalou__1929-film__luis_bunuel",
+      "id": "un-chien-andalou__1929-film__luis_bunuel",
       "title": "Un Chien Andalou",
       "description": "Un Chien Andalou (English translation: \"An Andalusian Dog\") is a 1929 French silent short film directed by Luis Buñuel, and written by Buñuel and Salvador Dalí. Buñuel's first film, it was initially released in a limited capacity at Studio des Ursulines in Paris, but became popular and ran for eight months. Un Chien Andalou has no plot in the conventional sense of the word. With disjointed chronology, jumping from the initial \"once upon a time\" to \"eight years later\" without events or characters changing, it uses dream logic in narrative flow that can be described in terms of the then-popular Freudian free association, presenting a series of tenuously related scenes. Un Chien Andalou is a seminal work in the genre of surrealist cinema.   source In 1960, Luis Buñuel added a soundtrack to the film. It has been uploaded as a separate file .",
       "fileSize": 970768052,
-      "id": "un-chien-andalou__1929-film__luis_bunuel"
+      "addedAt": "2026-01-07T00:12:55.131Z",
+      "thumbnail": "https://archive.org/services/img/un-chien-andalou__1929-film__luis_bunuel",
+      "language": "fre",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 6194
     }
   ],
   "metadata": {
@@ -34,113 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001223",
-      "title": "Frankenstein",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 5022,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223755",
-      "title": "The Monster",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 1382,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2481878",
-      "title": "Absurd Encounter with Fear",
-      "year": 1967,
-      "imdbRating": 5.5,
-      "imdbVotes": 1329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000614",
-      "title": "The Red Spectre",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 1176,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0418797",
-      "title": "The Stolen Lump",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 195,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132076",
-      "title": "Danses espagnoles",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230324",
-      "title": "Impatience",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131461",
-      "title": "The Life and Death of 9413, a Hollywood Extra",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 1454,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019267",
-      "title": "The Little Match Girl",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 1600,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0001223",
+    "tt0000301",
+    "tt0223755",
+    "tt2481878",
+    "tt0000614",
+    "tt0418797",
+    "tt0132076",
+    "tt4135826",
+    "tt0230324",
+    "tt0017775",
+    "tt0131461",
+    "tt0019267"
   ],
   "collections": [
     {
@@ -150,9 +67,13 @@
     {
       "id": "1920s",
       "name": "1920s Cinema"
+    },
+    {
+      "id": "surrealist-cinema",
+      "name": "Surrealist Cinema"
     }
   ],
   "is_curated": true,
-  "verified": false,
-  "lastUpdated": "2026-01-07T00:12:55.131Z"
+  "verified": true,
+  "lastUpdated": "2026-01-11T23:22:22.426Z"
 }

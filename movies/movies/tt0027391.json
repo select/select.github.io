@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/boulder-dam-1936-",
+      "id": "boulder-dam-1936-",
       "title": "Boulder Dam (1936)",
       "description": "Ross Alexander, Patricia Ellis, Lyle Talbot",
       "fileSize": 1348956963,
-      "id": "boulder-dam-1936-"
+      "addedAt": "2026-01-07T00:07:38.720Z",
+      "thumbnail": "https://archive.org/services/img/boulder-dam-1936-",
+      "collection": "feature_films",
+      "downloads": 897
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028132",
-      "title": "Postal Inspector",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036845",
-      "title": "Gambler's Choice",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026206",
-      "title": "Chinatown Squad",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 70,
-      "language": "Cantonese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029238",
-      "title": "Midnight Court",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029961",
-      "title": "Call of the Yukon",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 152,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030342",
-      "title": "The Lady in the Morgue",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027354",
-      "title": "Beware of Ladies",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027366",
-      "title": "Black Gold",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030164",
-      "title": "Fury Below",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030777",
-      "title": "The Speed Reporter",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028132",
+    "tt0036845",
+    "tt0026206",
+    "tt0029238",
+    "tt0029961",
+    "tt0030342",
+    "tt0027354",
+    "tt0027366",
+    "tt0027406",
+    "tt0030164",
+    "tt0028525",
+    "tt0030777"
   ],
   "collections": [],
   "is_curated": true,

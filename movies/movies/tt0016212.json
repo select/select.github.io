@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-perfect-clown",
+      "id": "silent-the-perfect-clown",
       "title": "The Perfect Clown",
       "fileSize": 1044151292,
-      "id": "silent-the-perfect-clown"
+      "addedAt": "2026-01-07T00:11:24.923Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-perfect-clown",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 1804
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0268266",
-      "title": "The Dome Doctor",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013201",
-      "title": "Grandma's Boy",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 1999,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012499",
-      "title": "Never Weaken",
-      "year": 1921,
-      "imdbRating": 7.5,
-      "imdbVotes": 2147,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012642",
-      "title": "A Sailor-Made Man",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1285,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011922",
-      "title": "Among Those Present",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020356",
-      "title": "Sailor's Holiday",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0016544",
-      "title": "The Wizard of Oz",
-      "year": 1925,
-      "imdbRating": 4.9,
-      "imdbVotes": 1902,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248880",
-      "title": "Horseshoes",
-      "year": 1923,
-      "imdbRating": 6.6,
-      "imdbVotes": 75,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248427",
-      "title": "Ship Shape",
-      "year": 1925,
-      "imdbRating": 4.4,
-      "imdbVotes": 7,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016004",
-      "title": "Lady Windermere's Fan",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 1468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016346",
-      "title": "Shore Leave",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0268266",
+    "tt0013201",
+    "tt0012499",
+    "tt0012642",
+    "tt0011922",
+    "tt0020356",
+    "tt0016544",
+    "tt0248880",
+    "tt0248427",
+    "tt0016004",
+    "tt0016028",
+    "tt0016346"
   ],
   "collections": [],
   "is_curated": true,

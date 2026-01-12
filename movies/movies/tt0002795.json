@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DeathsMarathon_303",
+      "id": "DeathsMarathon_303",
       "title": "Death's Marathon",
       "description": "Death's Marathon was directed by D W Griffith in 1913. It stars Blanche Sweet as the woman loved by two rivals and the results.",
       "fileSize": 338601153,
-      "id": "DeathsMarathon_303"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/DeathsMarathon_303",
+      "collection": "feature_films",
+      "downloads": 2332
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-deaths-marathon",
+      "id": "silent-deaths-marathon",
       "title": "Death's Marathon",
       "fileSize": 156465473,
-      "id": "silent-deaths-marathon"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-deaths-marathon",
+      "language": "English",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 500
     }
   ],
   "metadata": {
@@ -34,113 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001740",
-      "title": "The Lonedale Operator",
-      "year": 1911,
-      "imdbRating": 6.5,
-      "imdbVotes": 1322,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002212",
-      "title": "The God Within",
-      "year": 1912,
-      "imdbRating": 5.6,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002512",
-      "title": "The Sunbeam",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 412,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003516",
-      "title": "The Wanderer",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003170",
-      "title": "The Mothering Heart",
-      "year": 1913,
-      "imdbRating": 6.4,
-      "imdbVotes": 849,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002968",
-      "title": "His Mother's Son",
-      "year": 1913,
-      "imdbVotes": 13,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001459",
-      "title": "Winning Back His Love",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002082",
-      "title": "The Burglar's Dilemma",
-      "year": 1912,
-      "imdbRating": 6,
-      "imdbVotes": 429,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002121",
-      "title": "A Cry for Help",
-      "year": 1912,
-      "imdbRating": 4.9,
-      "imdbVotes": 49,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002497",
-      "title": "So Near, Yet So Far",
-      "year": 1912,
-      "imdbRating": 6.3,
-      "imdbVotes": 119,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001740",
+    "tt0001371",
+    "tt0002212",
+    "tt0002512",
+    "tt0001978",
+    "tt0003516",
+    "tt0003170",
+    "tt0002968",
+    "tt0001459",
+    "tt0002082",
+    "tt0002121",
+    "tt0002497"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-last-coupon",
+      "id": "the-last-coupon",
       "title": "The Last Coupon",
       "description": "A frugal coal miner in the north of England turns into a spendthrift when he wins £20,000 on the football pools.",
       "fileSize": 6731149780,
-      "id": "the-last-coupon"
+      "addedAt": "2026-01-07T00:12:10.589Z",
+      "thumbnail": "https://archive.org/services/img/the-last-coupon",
+      "language": "eng",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 679
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038289",
-      "title": "I See a Dark Stranger",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 1873,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022727",
-      "title": "Brother Alfred",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0166646",
-      "title": "His Wife's Mother",
-      "year": 1932,
-      "imdbRating": 3,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023297",
-      "title": "Old Spanish Customers",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0128840",
-      "title": "Why Sailors Leave Home",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025612",
-      "title": "The Outcast",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023322",
-      "title": "The Passionate Plumber",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 599,
-      "language": "English, French, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023537",
-      "title": "A Successful Calamity",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022628",
-      "title": "The Animal Kingdom",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 1353,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022789",
-      "title": "Crooner",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0829184",
-      "title": "Guests Wanted",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038289",
+    "tt0022727",
+    "tt0166646",
+    "tt0023297",
+    "tt0128840",
+    "tt0025612",
+    "tt0023243",
+    "tt0023322",
+    "tt0023537",
+    "tt0022628",
+    "tt0022789",
+    "tt0829184"
   ],
   "collections": [],
   "is_curated": true,

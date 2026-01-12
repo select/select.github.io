@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MeetDr.Christian",
+      "id": "MeetDr.Christian",
       "title": "Meet Dr. Christian",
       "description": "Dr. Christian (Jean Hersholt) who runs the health department in a small town. He seeks to build a hospital, but is turned down by the mayor (Paul Harvey). The mayor decided that a highway would better suit the town than a new hospital.",
       "fileSize": 1441560806,
-      "id": "MeetDr.Christian"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/MeetDr.Christian",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 56707
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=W7X5mbbpYFw",
+      "id": "W7X5mbbpYFw",
       "title": "Meet Dr. Christian (1939) JEAN HERSHOLT",
       "description": "Stars: Jean Hersholt, Dorothy Lovett, Robert Baldwin\n Director: Bernard Vorhaus\n\n In the first film of the series, we are introduced to the kindly Dr. Christian, who runs a small clinic in the mythical town of Rivers End, Minnesota.",
-      "id": "W7X5mbbpYFw",
+      "addedAt": "2025-12-26T23:49:58.879Z",
+      "thumbnail": "https://i.ytimg.com/vi/W7X5mbbpYFw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhhIGEoYTAP&rs=AOn4CLBvUjdvtxV_-ajtztjydhIz4GSMiw",
+      "duration": 4072,
+      "language": "en",
+      "year": 1939,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032361",
-      "title": "The Courageous Dr. Christian",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031313",
-      "title": "Fisherman's Wharf",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 113,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033159",
-      "title": "Three Faces West",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1001,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033808",
-      "title": "Lady from Louisiana",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034279",
-      "title": "They Meet Again",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034878",
-      "title": "Hurricane Smith",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032411",
-      "title": "Dr. Christian Meets the Women",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039230",
-      "title": "Bury Me Dead",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 424,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033898",
-      "title": "Melody for Three",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028988",
-      "title": "Heidi",
-      "year": 1937,
-      "imdbRating": 7.2,
-      "imdbVotes": 5105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031580",
-      "title": "The Little Princess",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 6909,
-      "language": "English, Hindi",
-      "sourceType": "archive.org"
-    }
+    "tt0032361",
+    "tt0031313",
+    "tt0030323",
+    "tt0033159",
+    "tt0033808",
+    "tt0034279",
+    "tt0034878",
+    "tt0032411",
+    "tt0039230",
+    "tt0033898",
+    "tt0028988",
+    "tt0031580"
   ],
   "collections": [],
   "is_curated": true,

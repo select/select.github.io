@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheViolentYears",
+      "id": "TheViolentYears",
       "title": "The Violent Years",
       "description": "A newspaper publisher's daughter suffers from neglect by her parents. She and her friends turn to crime by dressing up like men, holding up gas stations, raping young men at gunpoint, and having makeout parties when her parents are away.",
       "fileSize": 1556405693,
-      "id": "TheViolentYears"
+      "addedAt": "2026-01-07T00:07:11.884Z",
+      "thumbnail": "https://archive.org/services/img/TheViolentYears",
+      "year": 1956,
+      "collection": "feature_films",
+      "downloads": 67596
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheViolentYears_201510",
+      "id": "TheViolentYears_201510",
       "title": "The Violent Years",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 1282879052,
-      "id": "TheViolentYears_201510"
+      "addedAt": "2026-01-07T00:07:11.884Z",
+      "thumbnail": "https://archive.org/services/img/TheViolentYears_201510",
+      "collection": "feature_films",
+      "downloads": 9380
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049340",
-      "title": "The Houston Story",
-      "year": 1956,
-      "imdbRating": 6.1,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049406",
-      "title": "The Killing",
-      "year": 1956,
-      "imdbRating": 7.9,
-      "imdbVotes": 102237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049904",
-      "title": "The Unguarded Moment",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049955",
-      "title": "The Wild Party",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049769",
-      "title": "Slightly Scarlet",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1315,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049636",
-      "title": "The Price of Fear",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 726,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050087",
-      "title": "5 Steps to Danger",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 1183,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050271",
-      "title": "Crime of Passion",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 3102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049621",
-      "title": "Please Murder Me!",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1693,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049718",
-      "title": "The Scarlet Hour",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 778,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049932",
-      "title": "Walk the Dark Street",
-      "year": 1956,
-      "imdbRating": 4.6,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049961",
-      "title": "A Woman's Devotion",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 352,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0049340",
+    "tt0049406",
+    "tt0049904",
+    "tt0049955",
+    "tt0049769",
+    "tt0049636",
+    "tt0050087",
+    "tt0050271",
+    "tt0049621",
+    "tt0049718",
+    "tt0049932",
+    "tt0049961"
   ],
   "collections": [],
   "is_curated": true,

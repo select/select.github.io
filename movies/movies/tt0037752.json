@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/grisslys-millions-1945",
+      "id": "grisslys-millions-1945",
       "title": "Grissly’s Millions (1945)",
       "description": "Paul Kelly Republic Pictures",
       "fileSize": 1165019922,
-      "id": "grisslys-millions-1945"
+      "addedAt": "2026-01-07T00:08:39.343Z",
+      "thumbnail": "https://archive.org/services/img/grisslys-millions-1945",
+      "collection": "feature_films",
+      "downloads": 878
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038758",
-      "title": "Murder in the Music Hall",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037691",
-      "title": "Fallen Angel",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 6860,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038110",
-      "title": "The Spider",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037985",
-      "title": "The Phantom of 42nd Street",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 441,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038640",
-      "title": "The Inner Circle",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036866",
-      "title": "The Girl Who Dared",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037130",
-      "title": "A Night of Adventure",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038828",
-      "title": "Passkey to Danger",
-      "year": 1946,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038958",
-      "title": "So Dark the Night",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1443,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039439",
-      "title": "The Guilty",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 816,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037505",
-      "title": "Allotment Wives",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 559,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038758",
+    "tt0037691",
+    "tt0038110",
+    "tt0037985",
+    "tt0037078",
+    "tt0038640",
+    "tt0036866",
+    "tt0037130",
+    "tt0038828",
+    "tt0038958",
+    "tt0039439",
+    "tt0037505"
   ],
   "collections": [],
   "is_curated": true,

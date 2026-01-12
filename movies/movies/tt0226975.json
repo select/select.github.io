@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-livingstone",
+      "id": "silent-livingstone",
       "title": "Livingstone",
       "fileSize": 1150663246,
-      "id": "silent-livingstone"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-livingstone",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 289
     }
   ],
   "metadata": {
@@ -26,122 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018054",
-      "title": "The King of Kings",
-      "year": 1927,
-      "imdbRating": 7.3,
-      "imdbVotes": 2581,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0014532",
-      "title": "The Ten Commandments",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 2731,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013571",
-      "title": "Salomé",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 1123,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0019823",
-      "title": "Disraeli",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 1411,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020620",
-      "title": "Abraham Lincoln",
-      "year": 1930,
-      "imdbRating": 5.6,
-      "imdbVotes": 1747,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037576",
-      "title": "Captain Kidd",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 2181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0287392",
-      "title": "Crossed Over",
-      "year": 2002,
-      "imdbRating": 5.4,
-      "imdbVotes": 466,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1659619",
-      "title": "The Odyssey",
-      "year": 2016,
-      "imdbRating": 6.6,
-      "imdbVotes": 6388,
-      "language": "French, English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0045473",
-      "title": "Admiral Ushakov",
-      "year": 1953,
-      "imdbRating": 7.3,
-      "imdbVotes": 224,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0029850",
-      "title": "Alexander Nevsky",
-      "year": 1938,
-      "imdbRating": 7.5,
-      "imdbVotes": 12505,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0071411",
-      "title": "Dersu Uzala",
-      "year": 1975,
-      "imdbRating": 8.2,
-      "imdbVotes": 35263,
-      "language": "Russian, Chinese",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0018054",
+    "tt0014532",
+    "tt0013571",
+    "tt0019823",
+    "tt0020620",
+    "tt0037576",
+    "tt0287392",
+    "tt1659619",
+    "tt1441953",
+    "tt0045473",
+    "tt0029850",
+    "tt0071411"
   ],
   "collections": [],
   "is_curated": true,

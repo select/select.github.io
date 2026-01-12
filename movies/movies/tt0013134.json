@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/FleshAndBlood1922",
+      "id": "FleshAndBlood1922",
       "title": "Flesh and Blood (1922)",
       "description": "David Webster escapes from prison after 15 years, having been framed by Fletcher Burton, a prominent businessman. He hides out with Li Fang, a Chinese politician and former friend of Webster's. In order to move about the city undetected, he disguises himself as a cripple, dragging himself about on a pair of crutches. At a local mission, he meets his daughter, a young girl known as \"The Angel Lady\" because of her many kindly deeds and good works. She befriends the cripple, unaware of his identity, and the two play songs together, he on violin and the girl on piano. Detective Doyle is determined to capture Webster and, learning that Li Fang knows his whereabouts, gives the Chinaman the third degree until he reveals his identity. Webster breaks in on Burton and forces him into signing a confession stating that he framed Webster; however, his victory is a hollow one, as he learns that his daughter plans to marry Ted Burton, the son of the elder Burton. Realizing that the imprisonment of Burton would ruin the son and destroy his daughter's happiness, Webster destroys Burton's confession and returns to prison. Stars Lon Chaney",
       "fileSize": 2299747474,
-      "id": "FleshAndBlood1922"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/FleshAndBlood1922",
+      "collection": "feature_films",
+      "downloads": 9517
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-flesh-and-blood",
+      "id": "silent-flesh-and-blood",
       "title": "Flesh and Blood",
       "fileSize": 1214853304,
-      "id": "silent-flesh-and-blood"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-flesh-and-blood",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 518
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013896",
-      "title": "Broken Hearts of Broadway",
-      "year": 1923,
-      "imdbRating": 6.1,
-      "imdbVotes": 76,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013704",
-      "title": "The Trap",
-      "year": 1922,
-      "imdbRating": 6,
-      "imdbVotes": 230,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032410",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 1346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025196",
-      "title": "Grand Canary",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032710",
-      "title": "Lillian Russell",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 592,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023267",
-      "title": "The Night Club Lady",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 106,
-      "language": "English, French, Russian, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013592",
-      "title": "Shadows",
-      "year": 1922,
-      "imdbRating": 6.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014463",
-      "title": "The Shock",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 534,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014142",
-      "title": "The Hunchback of Notre Dame",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 6381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012405",
-      "title": "Lotus Blossom",
-      "year": 1921,
-      "imdbRating": 5.3,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014496",
-      "title": "Soul of the Beast",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0013896",
+    "tt0013704",
+    "tt0032410",
+    "tt0025196",
+    "tt0032710",
+    "tt0023267",
+    "tt0013592",
+    "tt0011904",
+    "tt0014463",
+    "tt0014142",
+    "tt0012405",
+    "tt0014496"
   ],
   "collections": [],
   "is_curated": true,

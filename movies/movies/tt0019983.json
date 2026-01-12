@@ -6,24 +6,40 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/High_Voltage_",
+      "id": "High_Voltage_",
       "title": "High Voltage",
       "description": "A busload of passengers gets stranded in a snowstorm and take refuge in an abandoned church, where they run into a mysterious man who may be on the run from the law.",
       "fileSize": 1547848696,
-      "id": "High_Voltage_"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/High_Voltage_",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 61156
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/high-voltage_1929",
+      "id": "high-voltage_1929",
       "title": "High Voltage",
       "fileSize": 3260411030,
-      "id": "high-voltage_1929"
+      "addedAt": "2026-01-07T00:08:39.346Z",
+      "thumbnail": "https://archive.org/services/img/high-voltage_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 231
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=OQIZ0jSboaM",
+      "id": "OQIZ0jSboaM",
       "title": "High Voltage (1929) CAROLE LOMBARD",
       "description": "Stars: Carole Lombard, William Boyd, Owen Moore\nDirector: Howard Higgin\n\nA busload of passengers gets stranded in a snowstorm and take refuge in an abandoned church, where they run into a mysterious man who may be on the run from the law!",
-      "id": "OQIZ0jSboaM",
+      "addedAt": "2025-12-26T23:57:19.476Z",
+      "thumbnail": "https://i.ytimg.com/vi/OQIZ0jSboaM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLAPfYdn4xI3EF0LRyZpJiiFc0sHfg",
+      "duration": 3791,
+      "language": "en",
+      "year": 1929,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -43,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020305",
-      "title": "The Racketeer",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019398",
-      "title": "Skyscraper",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 135,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022991",
-      "title": "Hell's House",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 1398,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020074",
-      "title": "Lady of the Pavements",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019887",
-      "title": "The Flying Fool",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020866",
-      "title": "Extravagance",
-      "year": 1930,
-      "imdbRating": 5.7,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021198",
-      "title": "Officer O'Brien",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022243",
-      "title": "The Painted Desert",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 876,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017829",
-      "title": "Dress Parade",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020305",
+    "tt0019398",
+    "tt0022991",
+    "tt0020074",
+    "tt0019887",
+    "tt0020866",
+    "tt0021198",
+    "tt0022243",
+    "tt0021659",
+    "tt0017829",
+    "tt0020030",
+    "tt0019644"
   ],
   "collections": [],
   "is_curated": true,

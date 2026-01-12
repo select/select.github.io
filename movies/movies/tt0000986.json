@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NursingAViper",
+      "id": "NursingAViper",
       "title": "Nursing a Viper",
       "description": "Nursing a Viper, 1909, directed by D.W. Griffith, Camera by Billy Bitzer. Griffith is pretty much out of his depth when he tries the French Revolution, though he did it some years later in the feature, \"Orphans of the Storm\"",
       "fileSize": 244150285,
-      "id": "NursingAViper"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/NursingAViper",
+      "collection": "feature_films",
+      "downloads": 1484
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PreviewNursingAViper",
+      "id": "PreviewNursingAViper",
       "title": "\"Nursing A Viper\" (1909) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"Nursing a Viper\" is a short drama featuring Arthur V. Johnson and Robert Harron, stars of Silent Hall of Fame.   During the French Revolution a nobleman gives refuge to a man fleeing the mobs. Subsequently the man repays him by attacking his wife.   Directed by                       D.W. Griffith Cinematography by         Billy Bitzer Starring                             Arthur Johnson, Marion Leonard, Frank Powell Distributed by                   Biograph Company Release date                      November 4, 1909 Country                             United States Running time                    11 m.   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 14343017,
-      "id": "PreviewNursingAViper"
+      "addedAt": "2026-01-07T00:06:45.467Z",
+      "thumbnail": "https://archive.org/services/img/PreviewNursingAViper",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 1009
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000871",
-      "title": "Fools of Fate",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 119,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001016",
-      "title": "Resurrection",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 152,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000832",
-      "title": "A Corner in Wheat",
-      "year": 1909,
-      "imdbRating": 6.6,
-      "imdbVotes": 2796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000852",
-      "title": "A Drunkard's Reformation",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001050",
-      "title": "A Strange Meeting",
-      "year": 1909,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001072",
-      "title": "A Trap for Santa Claus",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 409,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000797",
-      "title": "At the Altar",
-      "year": 1909,
-      "imdbRating": 5.4,
-      "imdbVotes": 177,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000828",
-      "title": "Confidence",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 114,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000854",
-      "title": "Edgar Allan Poe",
-      "year": 1909,
-      "imdbRating": 5.9,
-      "imdbVotes": 573,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000942",
-      "title": "The Lonely Villa",
-      "year": 1909,
-      "imdbRating": 6.1,
-      "imdbVotes": 1054,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000945",
-      "title": "Lucky Jim",
-      "year": 1909,
-      "imdbRating": 4.6,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001032",
+    "tt0000871",
+    "tt0001016",
+    "tt0000832",
+    "tt0000852",
+    "tt0001050",
+    "tt0001072",
+    "tt0000797",
+    "tt0000828",
+    "tt0000854",
+    "tt0000942",
+    "tt0000945"
   ],
   "collections": [],
   "is_curated": true,

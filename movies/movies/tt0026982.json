@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/charlie-chan-in-shanghai-1935",
+      "id": "charlie-chan-in-shanghai-1935",
       "title": "Charlie Chan In Shanghai (1935)",
       "description": "CHARLIE CHAN EM SHANGHAI (Charlie Chan In Shanghai, 1935) ( Filme Completo / Legendado em Português ) Data de Lançamento:  11 de Outubro de 1935 » SOBRE O FILME: Charlie Chan é convidado a ir a Shanghai para investigar uma gangue de traficante de ópio. A trama envolvendo um jovem que poderá ser condenado a morte por tentativa de homicídio contra Charlie Chan. Somente a brilhante atuação de Charlie poderá resolver este caso. Um caso de traição, romance e morte. » » DIREÇÃO:  James Tinling GÊNERO: Comédia / Mistério ORIGEM: USA  DURAÇÃO: 71 minutos » » ELENCO PRINCIPAL: Warner Oland ... Charlie Chan Neil Fitzgerald ... Dakin Russell Hicks ... James Andrews Sammee Tong ... Waiter  Frederick Vogeding ... Burke Halliwell Hobbes ... Chief of Police Irene Hervey ... Diana Woodland Jon Hall ... Philip Nash Keye Luke ... Lee Chan",
       "fileSize": 2018099669,
-      "id": "charlie-chan-in-shanghai-1935"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/charlie-chan-in-shanghai-1935",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 5336
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shanghai-1935",
+      "id": "shanghai-1935",
       "title": "Shanghai",
       "description": "Title: Shanghai Summary: Shanghai is a 1935 film directed by James Flood, produced by Walter Wanger, distributed by Paramount Pictures, and starring Loretta Young and Charles Boyer. The picture's supporting cast ... Directed by: James Flood Actors: Loretta Young, Charles Boyer, Warner Oland Production Company: Walter Wanger Productions Release Date: 19 July 1935 (USA) Aspect Ratio: 1.37 : 1 Shanghai is a 1935 film directed by James Flood, produced by Walter Wanger, distributed by Paramount Pictures, and starring Loretta Young and Charles Boyer. The picture's supporting cast features Warner Oland, Alison Skipworth, Charley Grapewin, Olive Tell and Keye Luke, and the running time is 75 minutes.",
       "fileSize": 5384213106,
-      "id": "shanghai-1935"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/shanghai-1935",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 2333
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027951",
-      "title": "Mayerling",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 970,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028142",
-      "title": "Private Number",
-      "year": 1936,
-      "imdbRating": 6.7,
-      "imdbVotes": 506,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026104",
-      "title": "Becky Sharp",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 1302,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026083",
-      "title": "Artisten",
-      "year": 1935,
-      "imdbRating": 2.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026436",
-      "title": "Great God Gold",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026489",
-      "title": "Hong Kong Nights",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026562",
-      "title": "The Keeper of the Bees",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026775",
-      "title": "The Night Is Young",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026124",
-      "title": "Black Sheep",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026301",
-      "title": "El día que me quieras",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 150,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026438",
-      "title": "The Great Impersonation",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026867",
-      "title": "The Phantom Empire",
-      "year": 1935,
-      "imdbRating": 6.2,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027951",
+    "tt0028142",
+    "tt0026104",
+    "tt0026083",
+    "tt0026436",
+    "tt0026489",
+    "tt0026562",
+    "tt0026775",
+    "tt0026124",
+    "tt0026301",
+    "tt0026438",
+    "tt0026867"
   ],
   "collections": [],
   "is_curated": true,

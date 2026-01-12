@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/f-for-fake",
+      "id": "f-for-fake",
       "title": "F For Fake",
       "description": "Trickery. Deceit. Magic. In  F for Fake,  a free-form sort-of documentary by Orson Welles, the legendary filmmaker (and self-described charlatan) gleefully reengages with the central preoccupation of his career: the tenuous lines between illusion and truth, art and lies. Beginning with portraits of the world- renowned art forger Elmyr de Hory and his equally devious biographer, Clifford Irving, Welles embarks on a dizzying journey that simultaneously exposes and revels in fakery and fakers of all stripes—not the least of whom is Welles himself. Charming and inventive,  F for Fake  is an inspired prank and a clever examination of the essential duplicity of cinema.",
       "fileSize": 7297692876,
-      "id": "f-for-fake"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/f-for-fake",
+      "language": "eng",
+      "year": 1975,
+      "collection": "feature_films",
+      "downloads": 13595
     }
   ],
   "metadata": {
@@ -27,105 +33,18 @@
     "Awards": "3 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt12636104",
-      "title": "Wim Sonneveld met Willem Nijholt en Corrie van Gorp",
-      "year": 1973,
-      "language": "Dutch",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0223024",
-      "title": "Community Action Theater on Tour",
-      "year": 1973,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7322088",
-      "title": "Haircut",
-      "year": 1974,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071604",
-      "title": "Hearts and Minds",
-      "year": 1974,
-      "imdbRating": 8.2,
-      "imdbVotes": 6441,
-      "language": "English, French, Vietnamese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066759",
-      "title": "The American West of John Ford",
-      "year": 1971,
-      "imdbRating": 7.1,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0206649",
-      "title": "Cochengo Miranda",
-      "year": 1975,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201506",
-      "title": "El camino hacia la muerte del viejo Reales",
-      "year": 1971,
-      "imdbRating": 8.3,
-      "imdbVotes": 39,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073076",
-      "title": "Grey Gardens",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 16059,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302871",
-      "title": "Nosotros los monos",
-      "year": 1971,
-      "imdbRating": 7,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0304545",
-      "title": "Perón: La revolución justicialista",
-      "year": 1971,
-      "imdbRating": 7.4,
-      "imdbVotes": 31,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0279919",
-      "title": "The Legend of Bigfoot",
-      "year": 1975,
-      "imdbRating": 3.6,
-      "imdbVotes": 600,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13886998",
-      "title": "Zaat (1971)",
-      "year": 1971,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    }
+    "tt12636104",
+    "tt0223024",
+    "tt7322088",
+    "tt0071604",
+    "tt0066759",
+    "tt0206649",
+    "tt0201506",
+    "tt0073076",
+    "tt0302871",
+    "tt0304545",
+    "tt0279919",
+    "tt13886998"
   ],
   "collections": [
     {

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/puss-n-booty-1943",
+      "id": "puss-n-booty-1943",
       "title": "Puss N' Booty (1943)",
       "description": "When a woman's canary disappears, her hungry cat feigns sorrow while awaiting the arrival of another bird from the pet store. But the new bird outsmarts the cat.",
       "fileSize": 847704616,
-      "id": "puss-n-booty-1943"
+      "addedAt": "2026-01-07T00:10:21.540Z",
+      "thumbnail": "https://archive.org/services/img/puss-n-booty-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 402
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0154300",
-      "title": "Censored",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 357,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030602",
-      "title": "Porky at the Crocadero",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 355,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036271",
-      "title": "Porky Pig's Feat",
-      "year": 1943,
-      "imdbRating": 7.7,
-      "imdbVotes": 1027,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030605",
-      "title": "Porky the Fireman",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029424",
-      "title": "Porky's Building",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 178,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029425",
-      "title": "Porky's Double Trouble",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029429",
-      "title": "Porky's Railroad",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 605,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030613",
-      "title": "Porky's Spring Planting",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036334",
-      "title": "Scrap Happy Daffy",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 638,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154539",
-      "title": "The Goldbrick",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 281,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0154604",
-      "title": "The Home Front",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030975",
-      "title": "Wholly Smoke",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 401,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0154300",
+    "tt0030602",
+    "tt0036271",
+    "tt0030605",
+    "tt0029424",
+    "tt0029425",
+    "tt0029429",
+    "tt0030613",
+    "tt0036334",
+    "tt0154539",
+    "tt0154604",
+    "tt0030975"
   ],
   "collections": [],
   "is_curated": true,

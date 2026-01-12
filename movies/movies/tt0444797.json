@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-an-elusive-diamond",
+      "id": "silent-an-elusive-diamond",
       "title": "An Elusive Diamond",
       "fileSize": 288766957,
-      "id": "silent-an-elusive-diamond"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-an-elusive-diamond",
+      "language": "English",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 313
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259898",
-      "title": "Boys Beware",
-      "year": 1962,
-      "imdbRating": 3.2,
-      "imdbVotes": 629,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000497",
-      "title": "A Railway Tragedy",
-      "year": 1904,
-      "imdbRating": 5.1,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0486919",
-      "title": "A Tango Tangle",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0470339",
-      "title": "The Haunted Bedroom",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 27,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0463594",
-      "title": "The Marble Heart",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0330942",
-      "title": "The Struggle",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812323",
-      "title": "The Master of the Sword",
-      "year": 1915,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt6373988",
-      "title": "Frau Blechnudel will Kinoschauspielerin werden",
-      "year": 1915,
-      "imdbRating": 3.9,
-      "imdbVotes": 12,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366564",
-      "title": "Her Nephews from Labrador",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1283535",
+    "tt0259898",
+    "tt0000497",
+    "tt2160081",
+    "tt1223220",
+    "tt0486919",
+    "tt0470339",
+    "tt0463594",
+    "tt0330942",
+    "tt6373988",
+    "tt0366564",
+    "tt0482779"
   ],
   "collections": [],
   "is_curated": true,

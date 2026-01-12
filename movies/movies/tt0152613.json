@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/string-bean-jack-1938",
+      "id": "string-bean-jack-1938",
       "title": "String Bean Jack (1938)",
       "description": "A variation on the \"Jack and the Beanstalk\" story. Watch on RetroFlix:  https://retroflix.org/string-bean-jack-1938/",
       "fileSize": 39954748,
-      "id": "string-bean-jack-1938"
+      "addedAt": "2026-01-07T00:11:35.630Z",
+      "thumbnail": "https://archive.org/services/img/string-bean-jack-1938",
+      "language": "eng",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 78
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0148203",
-      "title": "Gandy the Goose",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161496",
-      "title": "Devil of the Deep",
-      "year": 1938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152207",
-      "title": "Robinson Crusoe's Broadcast",
-      "year": 1938,
-      "imdbRating": 4.1,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148226",
-      "title": "The Goose Flies High",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149879",
-      "title": "The Billy Goat's Whiskers",
-      "year": 1937,
-      "imdbRating": 4.2,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150266",
-      "title": "The Dancing Bear",
-      "year": 1937,
-      "imdbRating": 4.1,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148083",
-      "title": "Doomsday",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146851",
-      "title": "Happy Polo",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147206",
-      "title": "Radio Racket",
-      "year": 1931,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161590",
-      "title": "The Frame-Up",
-      "year": 1938,
-      "imdbRating": 4,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153891",
-      "title": "The Wolf's Side of the Story",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161333",
-      "title": "A Bully Romance",
-      "year": 1939,
-      "imdbRating": 4.9,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0148203",
+    "tt0161496",
+    "tt0152207",
+    "tt0148226",
+    "tt0149879",
+    "tt0150266",
+    "tt0148083",
+    "tt0146851",
+    "tt0147206",
+    "tt0161590",
+    "tt0153891",
+    "tt0161333"
   ],
   "collections": [],
   "is_curated": true,

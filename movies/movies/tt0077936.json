@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/les.-miserables.-1978",
+      "id": "les.-miserables.-1978",
       "title": "Les Miserables (1978)",
       "description": "Les Misérables is a 1978 British made-for-television film adaptation of the 1862 novel of the same name by Victor Hugo. The film was written by John Gay, produced by Lew Grade, and directed by Glenn Jordan. The film originally aired on US television on CBS on 27 December 1978. It  follows Jean Valjean, who is released from prison after serving nineteen years for stealing bread. The film chronicles his struggles for redemption while being pursued by the relentless Inspector Javert, highlighting his relationship with the orphaned Cosette and the social injustices of 19th-century France.",
       "fileSize": 2200706627,
-      "id": "les.-miserables.-1978"
+      "addedAt": "2026-01-07T00:09:38.889Z",
+      "thumbnail": "https://archive.org/services/img/les.-miserables.-1978",
+      "language": "eng",
+      "year": 1978,
+      "collection": "feature_films",
+      "downloads": 251
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "Nominated for 1 Primetime Emmy. 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0075784",
-      "title": "A Bridge Too Far",
-      "year": 1977,
-      "imdbRating": 7.4,
-      "imdbVotes": 66372,
-      "language": "English, German, Dutch, Polish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080310",
-      "title": "Breaker Morant",
-      "year": 1980,
-      "imdbRating": 7.8,
-      "imdbVotes": 15180,
-      "language": "English, Afrikaans",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080979",
-      "title": "Kagemusha: The Shadow Warrior",
-      "year": 1980,
-      "imdbRating": 7.9,
-      "imdbVotes": 40409,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074400",
-      "title": "The Desert of the Tartars",
-      "year": 1976,
-      "imdbRating": 7.5,
-      "imdbVotes": 2726,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179757",
-      "title": "Death of a Prophet",
-      "year": 1981,
-      "imdbRating": 4.4,
-      "imdbVotes": 308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0082443",
-      "title": "Genocide",
-      "year": 1982,
-      "imdbRating": 7.3,
-      "imdbVotes": 720,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0085622",
-      "title": "The Grey Fox",
-      "year": 1982,
-      "imdbRating": 7.3,
-      "imdbVotes": 2603,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092978",
-      "title": "Escape from Sobibor",
-      "year": 1987,
-      "imdbRating": 7.4,
-      "imdbVotes": 10404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt1441953",
-      "title": "Testament of Youth",
-      "year": 2014,
-      "imdbRating": 7.2,
-      "imdbVotes": 31170,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0092688",
-      "title": "Boris Godunov",
-      "year": 1986,
-      "imdbRating": 6.6,
-      "imdbVotes": 296,
-      "language": "Russian, French",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0075784",
+    "tt0080310",
+    "tt0080979",
+    "tt0074400",
+    "tt0179757",
+    "tt0082443",
+    "tt0085622",
+    "tt0092978",
+    "tt0020030",
+    "tt0027727",
+    "tt1441953",
+    "tt0092688"
   ],
   "collections": [],
   "is_curated": true,

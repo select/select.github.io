@@ -6,16 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Night_Beat_1931",
+      "id": "Night_Beat_1931",
       "title": "Night Beat",
       "fileSize": 1172744395,
-      "id": "Night_Beat_1931"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/Night_Beat_1931",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 7160
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=RmFo89T0eAo",
+      "id": "RmFo89T0eAo",
       "title": "Night Beat  (1931) PRE-CODE HOLLYWOOD",
       "description": "Stars: Jack Mulhall, Patsy Ruth Miller, Walter McGrail\nDirector: George B. Seitz\n\nA young couple finds themselves mixed up with mobsters planning to rob a warehouse",
-      "id": "RmFo89T0eAo",
+      "addedAt": "2025-12-26T23:47:22.881Z",
+      "thumbnail": "https://i.ytimg.com/vi/RmFo89T0eAo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBzDVKHhDurabhuVVF41ZmSKU_THQ",
+      "duration": 3328,
+      "language": "en",
+      "year": 1931,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -35,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021820",
-      "title": "The Drums of Jeopardy",
-      "year": 1931,
-      "imdbRating": 5.6,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022826",
-      "title": "Docks of San Francisco",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023247",
-      "title": "Murder at Dawn",
-      "year": 1932,
-      "imdbRating": 4.3,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020806",
-      "title": "Danger Lights",
-      "year": 1930,
-      "imdbRating": 6.1,
-      "imdbVotes": 671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022836",
-      "title": "Dragnet Patrol",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022418",
-      "title": "The Speckled Band",
-      "year": 1931,
-      "imdbRating": 5.3,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022469",
-      "title": "Ten Cents a Dance",
-      "year": 1931,
-      "imdbRating": 6.5,
-      "imdbVotes": 899,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021890",
-      "title": "The Front Page",
-      "year": 1931,
-      "imdbRating": 6.7,
-      "imdbVotes": 3541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021743",
-      "title": "Chinatown After Dark",
-      "year": 1931,
-      "imdbRating": 4.1,
-      "imdbVotes": 172,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0021820",
+    "tt0022826",
+    "tt0027845",
+    "tt0023247",
+    "tt0020806",
+    "tt0022836",
+    "tt0021770",
+    "tt0022418",
+    "tt0022469",
+    "tt0021890",
+    "tt0021659",
+    "tt0021743"
   ],
   "collections": [],
   "is_curated": true,

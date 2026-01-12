@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/maral",
+      "id": "maral",
       "title": "maral",
       "description": "maral",
       "fileSize": 1676651633,
-      "id": "maral"
+      "addedAt": "2026-01-07T00:09:46.427Z",
+      "thumbnail": "https://archive.org/services/img/maral",
+      "collection": "feature_films",
+      "downloads": 3471
     }
   ],
   "metadata": {
@@ -27,104 +31,18 @@
     "Awards": "2 wins & 1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt18761206",
-      "title": "209 Hui Lu/Pulse/Kairo (2001) japanuary",
-      "year": 2001,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt26820087",
-      "title": "Catch Me If You Can (2002)",
-      "year": 2002,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0325013",
-      "title": "Arthur: King of the Britons",
-      "year": 2002,
-      "imdbRating": 7.5,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt17977694",
-      "title": "Star Wars Episode II: Attack of the Clones (2002)",
-      "year": 2002,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt18761394",
-      "title": "123 D-Tox/Eye See You (2002)",
-      "year": 2002,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0389974",
-      "title": "Between Two Hurricanes",
-      "year": 2003,
-      "imdbRating": 7.8,
-      "imdbVotes": 57,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1933684",
-      "title": "The lost time",
-      "year": 1990,
-      "imdbRating": 5.9,
-      "imdbVotes": 17,
-      "language": "Persian",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0225989",
-      "title": "El inquietante caso de José Blum",
-      "year": 1998,
-      "imdbRating": 5.6,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0469153",
-      "title": "Panorama Ephemera",
-      "year": 2004,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0262201",
-      "title": "610, Bedford Drive",
-      "year": 1997,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0482962",
-      "title": "Fiona Cooper DVD 651",
-      "year": 2005,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5148080",
-      "title": "Katie Fforde - Das Weihnachtswunder von New York",
-      "year": 2015,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    }
+    "tt18761206",
+    "tt26820087",
+    "tt0325013",
+    "tt17977694",
+    "tt18761394",
+    "tt0389974",
+    "tt1933684",
+    "tt0225989",
+    "tt0469153",
+    "tt0262201",
+    "tt0482962",
+    "tt5148080"
   ],
   "collections": [],
   "is_curated": true,

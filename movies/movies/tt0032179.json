@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/21DaysTogether",
+      "id": "21DaysTogether",
       "title": "21 Days Together",
       "description": "EDIT: 1/9/19. A sharper print (\"21 DAYS TOGETER upgrade\") has been added.  “Superb suspense thriller” “Well played out story” “Well-worth watching” “Limp and unconvincing” “Disappointed” (IMDB reviews quotes). A romantic suspense thriller that failed to hit the mark, and thus its release was delayed for three years, that is until Olivier and Leigh were better known on both sides of the Atlantic. (see TRIVIA) Good supporting cast. IMDB rating 6.3. Directed by Basil Dean. Released in 1940 Complete print. TRIVIA: This was the second of three films Vivien Leigh and Laurence Olivier appeared in together. The other two were “Fire Over England” and “Lady Hamilton” (AKA “That Hamilton Woman”). A good print of “Fire Over England” is available here: https://archive.org/details/FireOverEnglandVideoQualityUpgrade  ",
       "fileSize": 2116792856,
-      "id": "21DaysTogether"
+      "addedAt": "2026-01-07T00:06:06.565Z",
+      "thumbnail": "https://archive.org/services/img/21DaysTogether",
+      "collection": "feature_films",
+      "downloads": 26520
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/21dffd5587",
+      "id": "21dffd5587",
       "title": "21 Days Together",
       "description": "Title: 21 Days Together Summary: After Larry Darrent accidentally kills his lover's blackmailing husband, someone else is arrested for the crime. Larry and Wanda have just three weeks together before the trial and if the ... Directed by: Basil Dean Basil Dean Actors: Vivien Leigh, Leslie Banks, Laurence Olivier Production Company: London Film Productions Release Date: 29 April 1940 (USA) Aspect Ratio: 1.37 : 1 Color: Black and White After Larry Darrent accidentally kills his lover's blackmailing husband, someone else is arrested for the crime. Larry and Wanda have just three weeks together before the trial and if the man is found guilty then Larry will give himself up and prevent an innocent man going to the gallows.",
       "fileSize": 1010949731,
-      "id": "21dffd5587"
+      "addedAt": "2026-01-07T00:06:06.565Z",
+      "thumbnail": "https://archive.org/services/img/21dffd5587",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 1874
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033526",
-      "title": "Desperate Cargo",
-      "year": 1941,
-      "imdbRating": 5.2,
-      "imdbVotes": 140,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033873",
-      "title": "Man Hunt",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 6586,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031863",
-      "title": "Rio",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 198,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031975",
-      "title": "Star Reporter",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034272",
-      "title": "That Hamilton Woman",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 5180,
-      "language": "English, French, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030323",
-      "title": "King of the Newsboys",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030981",
-      "title": "Wives Under Suspicion",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 550,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030122",
-      "title": "Federal Man-Hunt",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032976",
-      "title": "Rebecca",
-      "year": 1940,
-      "imdbRating": 8.1,
-      "imdbVotes": 160202,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029050",
-      "title": "Internes Can't Take Money",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 823,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033526",
+    "tt0033873",
+    "tt0031863",
+    "tt0031975",
+    "tt0034272",
+    "tt0030323",
+    "tt0030981",
+    "tt0030122",
+    "tt0032976",
+    "tt0028607",
+    "tt0028770",
+    "tt0029050"
   ],
   "collections": [],
   "is_curated": true,

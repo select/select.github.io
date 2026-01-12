@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Cabiria",
+      "id": "Cabiria",
       "title": "Cabiria",
       "description": "Silent (No soundtrack) From the Wikipedia entry for \"Cabiria\": Cabiria is a 1914 silent movie from the early years of Italy's movie industry, directed by Giovanni Pastrone (1883-1959). The movie is set in ancient Sicily and Carthage during the period of the Second Punic War (218-202 BC). It follows a melodramatic main plot about an abducted little girl, Cabiria, and features an eruption of Mt. Etna, heinous religious rituals in Carthage, the alpine trek of Hannibal, Archimedes' defeat of the Roman fleet at the Siege of Syracuse and Scipio in North Africa. Apart from being a classic on its own terms, the film is also notable for being the first film in which the long-running film character Maciste makes his debut. According to Martin Scorsese, in this work Pastrone invented the epic movie and deserves credit for many of the innovations often credited to D.W. Griffith and Cecil B. DeMille. Among those were the first use of the moving camera, thus freeing the narrative film from \"static gaze\". Original text can be found at http://en.wikipedia.org/wiki/Cabiria License terms may be found at http://creativecommons.org/licenses/by-sa/3.0/ -This is the 123 minute restored print version.",
       "fileSize": 2339362244,
-      "id": "Cabiria"
+      "addedAt": "2026-01-07T00:06:14.041Z",
+      "thumbnail": "https://archive.org/services/img/Cabiria",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 27478
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cabiria",
+      "id": "silent-cabiria",
       "title": "Cabiria",
       "fileSize": 1092891978,
-      "id": "silent-cabiria"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cabiria",
+      "language": "Italian",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 1562
     }
   ],
   "metadata": {
@@ -34,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0008150",
-      "title": "Joan the Woman",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 658,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173869",
-      "title": "Il fuoco (la favilla - la vampa - la cenere)",
-      "year": 1916,
-      "imdbRating": 7,
-      "imdbVotes": 148,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007459",
-      "title": "Tigre reale",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 127,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017667",
-      "title": "The Beloved Rogue",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055867",
-      "title": "Constantine and the Cross",
-      "year": 1961,
-      "imdbRating": 5.8,
-      "imdbVotes": 585,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060218",
-      "title": "Cast a Giant Shadow",
-      "year": 1966,
-      "imdbRating": 6.3,
-      "imdbVotes": 4231,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051398",
-      "title": "The Barbarian and the Geisha",
-      "year": 1958,
-      "imdbRating": 5.7,
-      "imdbVotes": 2244,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070250",
-      "title": "Juan Moreira",
-      "year": 1973,
-      "imdbRating": 7.4,
-      "imdbVotes": 498,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0250464",
-      "title": "Kastus Kalinovskiy",
-      "year": 1928,
-      "imdbRating": 7.1,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057225",
-      "title": "Kings of the Sun",
-      "year": 1963,
-      "imdbRating": 6.1,
-      "imdbVotes": 2338,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2071465",
-      "title": "Friends from France",
-      "year": 2013,
-      "imdbRating": 6,
-      "imdbVotes": 152,
-      "language": "French, Hebrew, Russian, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0008150",
+    "tt0173869",
+    "tt0007459",
+    "tt0020030",
+    "tt0017667",
+    "tt0055867",
+    "tt0060218",
+    "tt0051398",
+    "tt0070250",
+    "tt0250464",
+    "tt0057225",
+    "tt2071465"
   ],
   "collections": [
     {

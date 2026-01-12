@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AdventureIsland",
+      "id": "AdventureIsland",
       "title": "Adventure Island",
       "description": "Based on Robert Louis Stevenson's \"Ebb Tide,\" this adventure pits a group of shipwrecked sailors against the mad ruler of a jungle island.",
       "fileSize": 1748737004,
-      "id": "AdventureIsland"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/AdventureIsland",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 91069
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=wuDyOahf-qI",
+      "id": "wuDyOahf-qI",
       "title": "Adventure Island (1947) RORY CALHOUN",
       "description": "Stars: Rory Calhoun, Rhonda Fleming, Paul Kelly\n Director: Sam Newfield\n Writers: Robert Louis Stevenson (novel)\n\n Travelers find themselves marooned on an island with a maniacal self-made ruler.",
-      "id": "wuDyOahf-qI",
+      "addedAt": "2025-12-26T23:53:17.789Z",
+      "thumbnail": "https://i.ytimg.com/vi/wuDyOahf-qI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLAkqtBK3Ggn2143oqVDCIO9eewQsQ",
+      "duration": 3984,
+      "language": "en",
+      "year": 1947,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041918",
-      "title": "State Department: File 649",
-      "year": 1949,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039231",
-      "title": "Bush Christmas",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 535,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039339",
-      "title": "Dragnet",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037336",
-      "title": "Swing Hostess",
-      "year": 1944,
-      "imdbRating": 5.9,
-      "imdbVotes": 198,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040208",
-      "title": "Campus Sleuth",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039707",
-      "title": "The Pilgrim Lady",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040596",
-      "title": "Miraculous Journey",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 83,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036439",
-      "title": "Tiger Fangs",
-      "year": 1943,
-      "imdbRating": 4.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0164611",
-      "title": "Go-Get-'Em, Haines",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031305",
-      "title": "Fighting Mad",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0041918",
+    "tt0039231",
+    "tt0039339",
+    "tt0039580",
+    "tt0037336",
+    "tt0040208",
+    "tt0039707",
+    "tt0040596",
+    "tt0036439",
+    "tt0041098",
+    "tt0026223",
+    "tt0164611"
   ],
   "collections": [],
   "is_curated": true,

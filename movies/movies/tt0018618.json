@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/across-to-singapore-1928_202507",
+      "id": "across-to-singapore-1928_202507",
       "title": "Across To Singapore (1928)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Joan Crawford and Ramon Novarro star in this love triangle romance between Crawford's character and two feuding brothers. Reviews and box office don't seem to have been worth mentioning, though with Novarro's star power it would have to be assumed that it made at least a little money. Modern reviews appreciate the acting, but the overall story feels weak. ",
       "fileSize": 4708156807,
-      "id": "across-to-singapore-1928_202507"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/across-to-singapore-1928_202507",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 52
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/across-to-singapore_1928",
+      "id": "across-to-singapore_1928",
       "title": "Across to Singapore",
       "fileSize": 4769559885,
-      "id": "across-to-singapore_1928"
+      "addedAt": "2026-01-07T00:07:18.439Z",
+      "thumbnail": "https://archive.org/services/img/across-to-singapore_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 558
     }
   ],
   "metadata": {
@@ -34,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018179",
-      "title": "Mr. Wu",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 721,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020560",
-      "title": "The Voice of the City",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018362",
-      "title": "The Scar of Shame",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 454,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019811",
-      "title": "Desert Nights",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020980",
-      "title": "Walk Cheerfully",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 776,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028360",
-      "title": "The 13th Man",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029941",
-      "title": "Boy of the Streets",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026458",
-      "title": "The Headline Woman",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0018179",
+    "tt0019979",
+    "tt0020560",
+    "tt0018362",
+    "tt0019811",
+    "tt0021239",
+    "tt0020980",
+    "tt0028360",
+    "tt0029941",
+    "tt0032404",
+    "tt0026458",
+    "tt0024151"
   ],
   "collections": [],
   "is_curated": true,

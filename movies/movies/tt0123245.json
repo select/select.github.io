@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-romeo-and-juliet",
+      "id": "silent-romeo-and-juliet",
       "title": "Romeo and Juliet",
       "fileSize": 1003066247,
-      "id": "silent-romeo-and-juliet"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-romeo-and-juliet",
+      "language": "English",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 840
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0132221",
-      "title": "Hope, a Red Cross Seal Story",
-      "year": 1912,
-      "imdbRating": 5.1,
-      "imdbVotes": 69,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002421",
-      "title": "The Passer-by",
-      "year": 1912,
-      "imdbRating": 6.1,
-      "imdbVotes": 122,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002621",
-      "title": "The Ambassador's Daughter",
-      "year": 1913,
-      "imdbRating": 5.3,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001510",
-      "title": "Bobby, the Coward",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1207008",
-      "title": "Never Too Late to Mend",
-      "year": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001615",
-      "title": "Fisher Folks",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001499",
-      "title": "The Battle",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001701",
-      "title": "The Indian Brothers",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 80,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0132221",
+    "tt0002421",
+    "tt0002621",
+    "tt0001987",
+    "tt0001510",
+    "tt0001593",
+    "tt0001915",
+    "tt1207008",
+    "tt0001615",
+    "tt0001753",
+    "tt0001499",
+    "tt0001701"
   ],
   "collections": [],
   "is_curated": true,

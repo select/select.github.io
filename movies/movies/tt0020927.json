@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Golf_Specialist_1930",
+      "id": "Golf_Specialist_1930",
       "title": "The Golf Specialist",
       "description": "An early, short W.C. Fields film.",
       "fileSize": 446904996,
-      "id": "Golf_Specialist_1930"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/Golf_Specialist_1930",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 87086
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-golf-specialist-1930",
+      "id": "the-golf-specialist-1930",
       "title": "The Golf Specialist (1930)",
       "description": "At a Florida hotel, absconding miscreant J. Effingham Bellweather goes slapstick golfing with the house detective's flirtatious wife and an incompetent caddy. Watch on RetroFlix:  https://retroflix.org/the-golf-specialist-1930/",
       "fileSize": 128225442,
-      "id": "the-golf-specialist-1930"
+      "addedAt": "2026-01-07T00:11:57.688Z",
+      "thumbnail": "https://archive.org/services/img/the-golf-specialist-1930",
+      "language": "eng",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 82
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1031956",
-      "title": "The Plasterers",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022807",
-      "title": "The Dentist",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 1778,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023225",
-      "title": "Million Dollar Legs",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 1469,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005074",
-      "title": "The Champion",
-      "year": 1915,
-      "imdbRating": 6.7,
-      "imdbVotes": 2846,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003399",
-      "title": "The Speed Kings",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 321,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027097",
-      "title": "Three Little Beers",
-      "year": 1935,
-      "imdbRating": 8,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021590",
-      "title": "Ain't Nature Grand!",
-      "year": 1930,
-      "imdbRating": 5.3,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021660",
-      "title": "Big Man from the North",
-      "year": 1930,
-      "imdbRating": 5.8,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020705",
-      "title": "Box Car Blues",
-      "year": 1930,
-      "imdbRating": 5.3,
-      "imdbVotes": 236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132024",
-      "title": "Celles qui s'en font",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 179,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020767",
-      "title": "Circus Capers",
-      "year": 1930,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1031956",
+    "tt0022807",
+    "tt0023225",
+    "tt0021576",
+    "tt0005074",
+    "tt0003399",
+    "tt0027097",
+    "tt0021590",
+    "tt0021660",
+    "tt0020705",
+    "tt0132024",
+    "tt0020767"
   ],
   "collections": [
     {

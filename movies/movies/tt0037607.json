@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/colonel_effinghams_raid",
+      "id": "colonel_effinghams_raid",
       "title": "Colonel Effingham's Raid",
       "description": "Taken from IMDB : The story takes place in 1940. On the eve of America's entry in World War II, a colonel retired to his small Southern town, and discovers that there is a plan afoot to tear down Confederate Monument Square. He begins a campaign to rally the townspeople to save the square.",
       "fileSize": 6340139314,
-      "id": "colonel_effinghams_raid"
+      "addedAt": "2026-01-07T00:07:51.624Z",
+      "thumbnail": "https://archive.org/services/img/colonel_effinghams_raid",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 36473
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=UO9Dvels2ps",
+      "id": "UO9Dvels2ps",
       "title": "Colonel Effingham's Raid (1946) CHARLES COBURN",
       "description": "Stars: Charles Coburn, Joan Bennett, William Eythe\n Director: Irving Pichel\n\n When a retired colonel discovers that there is a plan afoot to tear down a Confederate Monument , he begins a campaign to rally the townspeople to save the square.",
-      "id": "UO9Dvels2ps",
+      "addedAt": "2025-12-26T23:52:24.443Z",
+      "thumbnail": "https://i.ytimg.com/vi/UO9Dvels2ps/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhfIF8oXzAP&rs=AOn4CLBGgeUmG89xIdew28H9B6VdQyBLGg",
+      "duration": 4213,
+      "language": "en",
+      "year": 1946,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034976",
-      "title": "Life Begins at Eight-Thirty",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042524",
-      "title": "The Great Rupert",
-      "year": 1950,
-      "imdbRating": 6.4,
-      "imdbVotes": 1599,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039015",
-      "title": "Temptation",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 394,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038418",
-      "title": "A Close Call for Boston Blackie",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 409,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038300",
-      "title": "Angel on My Shoulder",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 3242,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038592",
-      "title": "Heartbeat",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038289",
-      "title": "I See a Dark Stranger",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 1873,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038680",
-      "title": "Lady Luck",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 402,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038839",
-      "title": "The Phantom Thief",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 309,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038704",
-      "title": "Love Laughs at Andy Hardy",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149793",
-      "title": "Bargain Counter Attack",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034976",
+    "tt0042524",
+    "tt0039015",
+    "tt0038577",
+    "tt0038418",
+    "tt0038300",
+    "tt0038592",
+    "tt0038289",
+    "tt0038680",
+    "tt0038839",
+    "tt0038704",
+    "tt0149793"
   ],
   "collections": [],
   "is_curated": true,

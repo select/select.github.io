@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SepiaCinderella",
+      "id": "SepiaCinderella",
       "title": "Sepia Cinderella",
       "description": "In this all-black cast musical romance, Barbara (Sheila Guyse) must compete with a rich woman (Tondaleyo) for the man she loves. The man, singer and band leader Bob Jordan (Billy Daniel), tries to pursue his career, but soon comes to realize that there is more to life than being in high society.",
       "fileSize": 1436194836,
-      "id": "SepiaCinderella"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/SepiaCinderella",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 16188
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=caIuROL0EII",
+      "id": "caIuROL0EII",
       "title": "Sepia Cinderella (1947) BILLY DANIELS",
       "description": "BLACK HISTORY MONTH\nStars: Billy Daniels, Sheila Guyse, Tondaleyo\nDirector: Arthur H. Leonard\n\nWhen crooner is seduced by beautiful but brokenhearted woman, she becomes the inspiration behind his huge hit. Special appearance by Freddie Bartholomew!",
-      "id": "caIuROL0EII",
+      "addedAt": "2025-12-26T23:45:25.508Z",
+      "thumbnail": "https://i.ytimg.com/vi/caIuROL0EII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMBqZDvExMUrcovIZZQ8fTaK9swA",
+      "duration": 4046,
+      "language": "en",
+      "year": 1947,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,110 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0135169",
-      "title": "Boy! What a Girl!",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174168",
-      "title": "The Road to Hollywood",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 192,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039337",
-      "title": "Down to Earth",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 1767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0143291",
-      "title": "El hombre del sábado",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039776",
-      "title": "Road to Rio",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 3677,
-      "language": "Portuguese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199416",
-      "title": "Cinco besos",
-      "year": 1946,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038664",
-      "title": "Junior Prom",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 125,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038717",
-      "title": "La maja de los cantares",
-      "year": 1946,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178767",
-      "title": "Mosquita muerta",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178839",
-      "title": "Porteña de corazón",
-      "year": 1948,
-      "imdbRating": 7.6,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040869",
-      "title": "That Lady in Ermine",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037923",
-      "title": "Molly and Me",
-      "year": 1945,
-      "imdbRating": 6.9,
-      "imdbVotes": 591,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0135169",
+    "tt0174168",
+    "tt0039337",
+    "tt0143291",
+    "tt0039776",
+    "tt0199416",
+    "tt0038664",
+    "tt0038717",
+    "tt0178767",
+    "tt0178839",
+    "tt0040869",
+    "tt0038382"
   ],
   "collections": [],
   "is_curated": true,

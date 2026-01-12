@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/its-a-bet",
+      "id": "its-a-bet",
       "title": "It's A Bet",
       "description": "A young English reporter makes a bet with a wealthy publisher that he can disappear for a month. In his absence the publisher makes much of the mysterious disappearance in an attempt to boost the circulation of his newspaper.",
       "fileSize": 5552175558,
-      "id": "its-a-bet"
+      "addedAt": "2026-01-07T00:08:54.188Z",
+      "thumbnail": "https://archive.org/services/img/its-a-bet",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 718
     }
   ],
   "metadata": {
@@ -27,108 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0023130",
-      "title": "Let Me Explain, Dear",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024653",
-      "title": "Their Night Out",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0204800",
-      "title": "Alibi Bye Bye",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026085",
-      "title": "Atlantic Adventure",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026132",
-      "title": "Boys Will Be Boys",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026179",
-      "title": "Car of Dreams",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0133358",
-      "title": "Alles für die Firma",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026079",
-      "title": "April, April!",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 74,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194783",
-      "title": "Csardas: Her Wildest Night",
-      "year": 1935,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026309",
-      "title": "Das Einmaleins der Liebe",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026401",
-      "title": "Der Gefangene des Königs",
-      "year": 1935,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0023130",
+    "tt0024653",
+    "tt0204800",
+    "tt0026085",
+    "tt0026132",
+    "tt0026179",
+    "tt0133358",
+    "tt0026079",
+    "tt0194783",
+    "tt0026309",
+    "tt0026401",
+    "tt0129972"
   ],
   "collections": [],
   "is_curated": true,

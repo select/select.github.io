@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HoodooAnn",
+      "id": "HoodooAnn",
       "title": "\"Hoodoo Ann\" (1916) starring Mae Marsh and Robert Harron",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"Hoodoo Ann\" is a comedy-drama, included in our program to illustrate the work of Robert Harron, a star of Silent Hall of Fame. Directed by               Lloyd Ingraham Produced by             The Fine Arts Film Company Scenario by               Granville Warwick (D.W. Griffith)           Based on                    a screen story by Granville Warwick (D.W. Griffith) Starring                     Mae Marsh, Robert Harron Distributed by           Triangle Film Corporation Release date               March 26, 1916 Running time             64 min. Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 821795344,
-      "id": "HoodooAnn"
+      "addedAt": "2026-01-07T00:06:30.619Z",
+      "thumbnail": "https://archive.org/services/img/HoodooAnn",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 2522
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-hoodoo-ann",
+      "id": "silent-hoodoo-ann",
       "title": "Hoodoo Ann",
       "fileSize": 1030989884,
-      "id": "silent-hoodoo-ann"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-hoodoo-ann",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 470
     }
   ],
   "metadata": {
@@ -34,116 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006357",
-      "title": "American Aristocracy",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006505",
-      "title": "A Child of the Paris Streets",
-      "year": 1916,
-      "imdbRating": 7,
-      "imdbVotes": 17,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004825",
-      "title": "The Wishing Ring: An Idyll of Old England",
-      "year": 1914,
-      "imdbRating": 6.5,
-      "imdbVotes": 323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011652",
-      "title": "The Saphead",
-      "year": 1920,
-      "imdbRating": 6.1,
-      "imdbVotes": 1804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032599",
-      "title": "His Girl Friday",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 67176,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027286",
-      "title": "The Amazing Adventure",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 2215,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3101386",
-      "title": "The Christmas Spirit",
-      "year": 2013,
-      "imdbRating": 5.8,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0028010",
-      "title": "My Man Godfrey",
-      "year": 1936,
-      "imdbRating": 7.9,
-      "imdbVotes": 27078,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0006357",
+    "tt0006505",
+    "tt0010806",
+    "tt0004825",
+    "tt0011741",
+    "tt0011652",
+    "tt0032599",
+    "tt0027311",
+    "tt0033891",
+    "tt0027286",
+    "tt3101386",
+    "tt0028010"
   ],
   "collections": [],
   "is_curated": true,

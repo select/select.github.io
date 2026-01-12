@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lets-go-1937",
+      "id": "lets-go-1937",
       "title": "Let's Go (1937)",
       "description": "Let’s Go is a 1937 cartoon directed by Arthur Davis, Ben Harrison and Sid Marcus. Watch on RetroFlix:  https://retroflix.org/lets-go-1937/",
       "fileSize": 492515731,
-      "id": "lets-go-1937"
+      "addedAt": "2026-01-07T00:09:38.889Z",
+      "thumbnail": "https://archive.org/services/img/lets-go-1937",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 118
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0443314",
-      "title": "A Coach for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152560",
-      "title": "Spinning Mice",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153736",
-      "title": "What Happens at Night",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147865",
-      "title": "Babes at Sea",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148541",
-      "title": "The Novelty Shop",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150235",
-      "title": "The Crystal Gazer",
-      "year": 1941,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149270",
-      "title": "Tom Thumb's Brother",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148090",
-      "title": "Dreams on Ice",
-      "year": 1939,
-      "imdbRating": 4.8,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031813",
-      "title": "Porky's Hotel",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031308",
-      "title": "The Film Fan",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028692",
-      "title": "A Car-Tune Portrait",
-      "year": 1937,
-      "imdbRating": 6.3,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0443314",
+    "tt1020989",
+    "tt0152560",
+    "tt0153736",
+    "tt0147865",
+    "tt0148541",
+    "tt0150235",
+    "tt0149270",
+    "tt0148090",
+    "tt0031813",
+    "tt0031308",
+    "tt0028692"
   ],
   "collections": [
     {

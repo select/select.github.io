@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-liliya-belgii",
+      "id": "silent-liliya-belgii",
       "title": "Liliya Belgii",
       "fileSize": 199922540,
-      "id": "silent-liliya-belgii"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-liliya-belgii",
+      "language": "Russian",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 499
     }
   ],
   "metadata": {
@@ -26,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002056",
-      "title": "Prekrasnaya Lyukanida",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 198,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014584",
-      "title": "La voix du rossignol",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 413,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014063",
-      "title": "The Frogs Who Wanted a King",
-      "year": 1922,
-      "imdbRating": 7.1,
-      "imdbVotes": 631,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9592278",
-      "title": "Flight 655",
-      "year": 2018,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029151",
-      "title": "The Little Match Girl",
-      "year": 1937,
-      "imdbRating": 6.9,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6406878",
-      "title": "Nothing Happens",
-      "year": 2017,
-      "imdbRating": 6.8,
-      "imdbVotes": 81,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0145703",
-      "title": "Cartoons on Tour",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 83,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005114",
-      "title": "Colonel Heeza Liar at the Bat",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 96,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005220",
-      "title": "Dreamy Dud. He Resolves Not to Smoke.",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 165,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419902",
-      "title": "Kyoiku senga: Ubasute yama",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0001527",
+    "tt0002056",
+    "tt0014584",
+    "tt0014063",
+    "tt2509978",
+    "tt9592278",
+    "tt0029151",
+    "tt6406878",
+    "tt0145703",
+    "tt0005114",
+    "tt0005220",
+    "tt0419902"
   ],
   "collections": [],
   "is_curated": true,

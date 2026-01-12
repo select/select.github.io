@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-gertie-the-dinosaur",
+      "id": "silent-gertie-the-dinosaur",
       "title": "Gertie the Dinosaur",
       "fileSize": 593281557,
-      "id": "silent-gertie-the-dinosaur"
+      "addedAt": "2026-01-07T00:10:59.118Z",
+      "thumbnail": "https://archive.org/services/img/silent-gertie-the-dinosaur",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 730
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002260",
-      "title": "How a Mosquito Operates",
-      "year": 1912,
-      "imdbRating": 6.3,
-      "imdbVotes": 1322,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0126926",
-      "title": "Gertie on Tour",
-      "year": 1921,
-      "imdbRating": 6,
-      "imdbVotes": 333,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009620",
-      "title": "The Sinking of the 'Lusitania'",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 1323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003784",
-      "title": "Colonel Heeza Liar's African Hunt",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0145703",
-      "title": "Cartoons on Tour",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 83,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005114",
-      "title": "Colonel Heeza Liar at the Bat",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 96,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005220",
-      "title": "Dreamy Dud. He Resolves Not to Smoke.",
-      "year": 1915,
-      "imdbRating": 5.8,
-      "imdbVotes": 165,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0362950",
-      "title": "Pa Sees Some New Styles",
-      "year": 1915,
-      "imdbRating": 5.3,
-      "imdbVotes": 39,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0362535",
-      "title": "The Dancing Lesson",
-      "year": 1915,
-      "imdbRating": 5.5,
-      "imdbVotes": 75,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005198",
-      "title": "The Dinosaur and the Missing Link: A Prehistoric Tragedy",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 396,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006449",
-      "title": "Bobby Bumps Starts a Lodge",
-      "year": 1916,
-      "imdbRating": 5.5,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0002260",
+    "tt0126926",
+    "tt0009620",
+    "tt0003784",
+    "tt0145703",
+    "tt0005114",
+    "tt0005220",
+    "tt0362950",
+    "tt0362535",
+    "tt0005198",
+    "tt0001527",
+    "tt0006449"
   ],
   "collections": [
     {

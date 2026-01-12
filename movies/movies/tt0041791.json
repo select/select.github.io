@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/red-menace.-1949.",
+      "id": "red-menace.-1949.",
       "title": "Red Menace (1949)",
       "description": "Robert Rockwell Republic Pictures",
       "fileSize": 2294165348,
-      "id": "red-menace.-1949."
+      "addedAt": "2026-01-07T00:10:30.753Z",
+      "thumbnail": "https://archive.org/services/img/red-menace.-1949.",
+      "collection": "feature_films",
+      "downloads": 658
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/trm00988752",
+      "id": "trm00988752",
       "title": "The Red Menace",
       "description": "Title: The Red Menace Summary: A disillusioned, bitter ex-GI gets involved with the Communist party, and winds up falling in love with one of his \"instructors.\" At first true believers, they realize their mistake when ... Directed by: R.G. Springsteen Actors: Production Company: Republic Pictures (I) Release Date: 1 August 1949 (USA) Aspect Ratio: 1.37 : 1 A disillusioned, bitter ex-GI gets involved with the Communist party, and winds up falling in love with one of his \"instructors.\" At first true believers, they realize their mistake when they witness Party leaders murder a member who questions the party's principles. They try to leave the party, but are marked for murder and hunted by the party's assassins.",
       "fileSize": 634277545,
-      "id": "trm00988752"
+      "addedAt": "2026-01-07T00:12:55.130Z",
+      "thumbnail": "https://archive.org/services/img/trm00988752",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 2669
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042046",
-      "title": "The Window",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 5025,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0043938",
-      "title": "The Prowler",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 4414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043560",
-      "title": "Fourteen Hours",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 3240,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043340",
-      "title": "The Big Night",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 1101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043998",
-      "title": "The Scarf",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 671,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049947",
-      "title": "When Gangland Strikes",
-      "year": 1956,
-      "imdbRating": 6,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038986",
-      "title": "Strange Impersonation",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038937",
-      "title": "Shock",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 3476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039015",
-      "title": "Temptation",
-      "year": 1946,
-      "imdbRating": 6.5,
-      "imdbVotes": 394,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045309",
-      "title": "Walk East on Beacon!",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 584,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042392",
-      "title": "Destination Big House",
-      "year": 1950,
-      "imdbRating": 6.9,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040676",
-      "title": "Out of the Storm",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042046",
+    "tt0043938",
+    "tt0043560",
+    "tt0043340",
+    "tt0043998",
+    "tt0049947",
+    "tt0038986",
+    "tt0038937",
+    "tt0039015",
+    "tt0045309",
+    "tt0042392",
+    "tt0040676"
   ],
   "collections": [],
   "is_curated": true,

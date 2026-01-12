@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/secrets-of-scotland-yard-1944-",
+      "id": "secrets-of-scotland-yard-1944-",
       "title": "Secrets Of Scotland Yard (1944)",
       "description": "Edgar Barrier, Stephanie Bachelor, C. Aubrey Smith",
       "fileSize": 1213105300,
-      "id": "secrets-of-scotland-yard-1944-"
+      "addedAt": "2026-01-07T00:10:40.954Z",
+      "thumbnail": "https://archive.org/services/img/secrets-of-scotland-yard-1944-",
+      "collection": "feature_films",
+      "downloads": 1165
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038058",
-      "title": "Scotland Yard Investigator",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037262",
-      "title": "Seven Doors to Death",
-      "year": 1944,
-      "imdbRating": 4.4,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036824",
-      "title": "The Fighting Seabees",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 4012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037280",
-      "title": "Since You Went Away",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 5182,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036189",
-      "title": "The Mystery of the 13th Guest",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 725,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037722",
-      "title": "The Frozen Ghost",
-      "year": 1945,
-      "imdbRating": 5.8,
-      "imdbVotes": 1213,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037811",
-      "title": "Identity Unknown",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 387,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036217",
-      "title": "The North Star",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 1832,
-      "language": "English, German, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037447",
-      "title": "Waterloo Road",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 734,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036037",
-      "title": "Immortal Sergeant",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 1046,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036384",
-      "title": "Stage Door Canteen",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 1815,
-      "language": "English, Russian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0038058",
+    "tt0207407",
+    "tt0037262",
+    "tt0036824",
+    "tt0037280",
+    "tt0036189",
+    "tt0037722",
+    "tt0037811",
+    "tt0036217",
+    "tt0037447",
+    "tt0036037",
+    "tt0036384"
   ],
   "collections": [],
   "is_curated": true,

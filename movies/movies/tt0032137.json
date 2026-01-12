@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-witness-vanishes",
+      "id": "the-witness-vanishes",
       "title": "The Witness Vanishes",
       "description": "Crime Club movie 8 ",
       "fileSize": 878889420,
-      "id": "the-witness-vanishes"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-witness-vanishes",
+      "collection": "feature_films",
+      "downloads": 803
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030342",
-      "title": "The Lady in the Morgue",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029728",
-      "title": "What Price Vengeance",
-      "year": 1937,
-      "imdbRating": 4.8,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031207",
-      "title": "Daredevils of the Red Circle",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031703",
-      "title": "Mystery Plane",
-      "year": 1939,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029952",
-      "title": "Bulldog Drummond's Peril",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 627,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032790",
-      "title": "Midnight Limited",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030650",
-      "title": "Racket Busters",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 815,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033082",
-      "title": "South of Pago Pago",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029898",
-      "title": "Barefoot Boy",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033429",
-      "title": "Bowery Boy",
-      "year": 1940,
-      "imdbRating": 7.3,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029994",
-      "title": "Cipher Bureau",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0030342",
+    "tt0030037",
+    "tt0029728",
+    "tt0031207",
+    "tt0031703",
+    "tt0029952",
+    "tt0032790",
+    "tt0030650",
+    "tt0033082",
+    "tt0029898",
+    "tt0033429",
+    "tt0029994"
   ],
   "collections": [],
   "is_curated": true,

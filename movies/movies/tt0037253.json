@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/secret-command-1944-",
+      "id": "secret-command-1944-",
       "title": "Secret Command (1944)",
       "description": "Pat O’ Brien, Carole Landis, Chester Morris ",
       "fileSize": 1851135523,
-      "id": "secret-command-1944-"
+      "addedAt": "2026-01-07T00:10:40.954Z",
+      "thumbnail": "https://archive.org/services/img/secret-command-1944-",
+      "collection": "feature_films",
+      "downloads": 1258
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037409",
-      "title": "Two-Man Submarine",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037701",
-      "title": "First Yank Into Tokyo",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036449",
-      "title": "Tonight We Raid Calais",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 262,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032247",
-      "title": "Beyond Tomorrow",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 2497,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036845",
-      "title": "Gambler's Choice",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033399",
-      "title": "Blonde Comet",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 112,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040502",
-      "title": "Jungle Patrol",
-      "year": 1948,
-      "imdbRating": 6,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0034572",
-      "title": "Canal Zone",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027366",
-      "title": "Black Gold",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026489",
-      "title": "Hong Kong Nights",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037409",
+    "tt0037701",
+    "tt0036449",
+    "tt0032247",
+    "tt0036845",
+    "tt0033399",
+    "tt0040502",
+    "tt0034572",
+    "tt0028592",
+    "tt0028634",
+    "tt0027366",
+    "tt0026489"
   ],
   "collections": [],
   "is_curated": true,

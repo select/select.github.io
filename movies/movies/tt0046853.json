@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/childrengalore1954",
+      "id": "childrengalore1954",
       "title": "Children Galore (1955)",
       "description": "Children Galore  is a 1955  comedy  film directed by  Terence Fisher .  It stars  Eddie Byrne  and  June Thorburn .   A village squire offers to give away a cottage to a deserving family with the most grandchildren.",
       "fileSize": 443694509,
-      "id": "childrengalore1954"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/childrengalore1954",
+      "language": "eng",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 2444
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0057156",
-      "title": "The Horror of It All",
-      "year": 1964,
-      "imdbRating": 4.8,
-      "imdbVotes": 442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041641",
-      "title": "Marry Me",
-      "year": 1949,
-      "imdbRating": 6.2,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049433",
-      "title": "The Last Man to Hang",
-      "year": 1956,
-      "imdbRating": 5.9,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047634",
-      "title": "The Unholy Four",
-      "year": 1954,
-      "imdbRating": 5.6,
-      "imdbVotes": 537,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0045787",
-      "title": "Four Sided Triangle",
-      "year": 1953,
-      "imdbRating": 5.8,
-      "imdbVotes": 849,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045562",
-      "title": "Three Stops to Murder",
-      "year": 1953,
-      "imdbRating": 5.2,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048700",
-      "title": "Teaserama",
-      "year": 1955,
-      "imdbRating": 4.8,
-      "imdbVotes": 345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4887484",
-      "title": "Sailor Beware!",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047900",
-      "title": "Broadway Jungle",
-      "year": 1955,
-      "imdbRating": 2.6,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048001",
-      "title": "Doctor at Sea",
-      "year": 1955,
-      "imdbRating": 5.8,
-      "imdbVotes": 1124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048018",
-      "title": "Du bist die Richtige",
-      "year": 1955,
-      "imdbRating": 6.5,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048188",
-      "title": "I Am a Camera",
-      "year": 1955,
-      "imdbRating": 6.3,
-      "imdbVotes": 667,
-      "language": "English, German, French",
-      "sourceType": "archive.org"
-    }
+    "tt0057156",
+    "tt0041641",
+    "tt0049433",
+    "tt0047634",
+    "tt0045787",
+    "tt0045562",
+    "tt0048700",
+    "tt4887484",
+    "tt0047900",
+    "tt0048001",
+    "tt0048018",
+    "tt0048188"
   ],
   "collections": [],
   "is_curated": true,

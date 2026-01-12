@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SpeedReporter",
+      "id": "SpeedReporter",
       "title": "speed reporter",
       "description": "action",
       "fileSize": 531851031,
-      "id": "SpeedReporter"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/SpeedReporter",
+      "collection": "feature_films",
+      "downloads": 1122
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SpeedReporter_557",
+      "id": "SpeedReporter_557",
       "title": "The Speed Reporter",
       "description": "Title: The Speed Reporter Summary: Directed by: Bernard B. Ray Actors: Production Company: Reliable Pictures Corporation (I) Release Date: 14 May 1936 (USA) Aspect Ratio: 1.37 : 1 Add Full Plot",
       "fileSize": 401701775,
-      "id": "SpeedReporter_557"
+      "addedAt": "2026-01-07T00:06:51.870Z",
+      "thumbnail": "https://archive.org/services/img/SpeedReporter_557",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 1148
     }
   ],
   "metadata": {
@@ -35,115 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026771",
-      "title": "Never Too Late",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027354",
-      "title": "Beware of Ladies",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030164",
-      "title": "Fury Below",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028132",
-      "title": "Postal Inspector",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028523",
-      "title": "Yellowstone",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027769",
-      "title": "Human Cargo",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 210,
-      "language": "English, French, German, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027546",
-      "title": "The Drag-Net",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027537",
-      "title": "Don't Turn 'em Loose",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028719",
-      "title": "Circus Girl",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026771",
+    "tt0027354",
+    "tt0027406",
+    "tt0030164",
+    "tt0028525",
+    "tt0028132",
+    "tt0028523",
+    "tt0027769",
+    "tt0027546",
+    "tt0027537",
+    "tt0033822",
+    "tt0028719"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-buds-recruit",
+      "id": "silent-buds-recruit",
       "title": "Bud's Recruit",
       "fileSize": 975898903,
-      "id": "silent-buds-recruit"
+      "addedAt": "2026-01-07T00:10:59.114Z",
+      "thumbnail": "https://archive.org/services/img/silent-buds-recruit",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 393
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009018",
-      "title": "A Dog's Life",
-      "year": 1918,
-      "imdbRating": 7.6,
-      "imdbVotes": 10161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009629",
-      "title": "A Society Sensation",
-      "year": 1918,
-      "imdbRating": 5.5,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194858",
-      "title": "Exemplo Regenerador",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 72,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326184",
-      "title": "Somebody Lied",
-      "year": 1917,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007507",
-      "title": "The Vagabond",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 3287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004413",
-      "title": "The Ocean Waif",
-      "year": 1916,
-      "imdbRating": 6.3,
-      "imdbVotes": 510,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015500",
-      "title": "Wine of Youth",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 411,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010534",
-      "title": "The Other Half",
-      "year": 1919,
-      "imdbRating": 5.3,
-      "imdbVotes": 57,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0009018",
+    "tt0009629",
+    "tt0008133",
+    "tt0194858",
+    "tt0326184",
+    "tt0006764",
+    "tt0007507",
+    "tt0004413",
+    "tt0016251",
+    "tt0015500",
+    "tt0019258",
+    "tt0010534"
   ],
   "collections": [],
   "is_curated": true,

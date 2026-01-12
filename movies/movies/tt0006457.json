@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-bombs",
+      "id": "silent-bombs",
       "title": "Bombs!",
       "fileSize": 418171968,
-      "id": "silent-bombs"
+      "addedAt": "2026-01-07T00:10:50.369Z",
+      "thumbnail": "https://archive.org/services/img/silent-bombs",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 280
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0006671",
-      "title": "The Feathered Nest",
-      "year": 1916,
-      "imdbRating": 4.8,
-      "imdbVotes": 14,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005660",
-      "title": "Love, Loot and Crash",
-      "year": 1915,
-      "imdbRating": 5.3,
-      "imdbVotes": 150,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006150",
-      "title": "Their Social Splash",
-      "year": 1915,
-      "imdbRating": 5,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005475",
-      "title": "Her Painted Hero",
-      "year": 1915,
-      "imdbRating": 4.9,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005443",
-      "title": "A Hash House Fraud",
-      "year": 1915,
-      "imdbRating": 5.1,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139488",
-      "title": "A Natural Born Gambler",
-      "year": 1916,
-      "imdbRating": 5.4,
-      "imdbVotes": 163,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006414",
-      "title": "Behind the Screen",
-      "year": 1916,
-      "imdbRating": 6.9,
-      "imdbVotes": 3173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007194",
-      "title": "Police",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 2047,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006684",
-      "title": "The Fireman",
-      "year": 1916,
-      "imdbRating": 6.5,
-      "imdbVotes": 3032,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0236553",
-      "title": "One Too Many",
-      "year": 1916,
-      "imdbRating": 4.3,
-      "imdbVotes": 179,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006548",
-      "title": "The Count",
-      "year": 1916,
-      "imdbRating": 6.6,
-      "imdbVotes": 2527,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0006671",
+    "tt0005660",
+    "tt0006150",
+    "tt0005475",
+    "tt0005443",
+    "tt0139488",
+    "tt0006414",
+    "tt0007194",
+    "tt0006684",
+    "tt0006764",
+    "tt0236553",
+    "tt0006548"
   ],
   "collections": [],
   "is_curated": true,

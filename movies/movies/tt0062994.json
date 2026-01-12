@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/funny-girl-1968_202506",
+      "id": "funny-girl-1968_202506",
       "title": "Funny Girl (1968)",
       "description": "Funny Girl (1968)",
       "fileSize": 4922056411,
-      "id": "funny-girl-1968_202506"
+      "addedAt": "2026-01-07T00:08:32.016Z",
+      "thumbnail": "https://archive.org/services/img/funny-girl-1968_202506",
+      "language": "eng",
+      "year": 1968,
+      "collection": "feature_films",
+      "downloads": 241
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "Won 1 Oscar. 8 wins & 16 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0071085",
-      "title": "43: The Richard Petty Story",
-      "year": 1972,
-      "imdbRating": 6.4,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066181",
-      "title": "On a Clear Day You Can See Forever",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 4505,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038390",
-      "title": "Caesar and Cleopatra",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 3218,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0084044",
-      "title": "Hajji Washington",
-      "year": 1983,
-      "imdbRating": 7.1,
-      "imdbVotes": 785,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011267",
-      "title": "Headin' Home",
-      "year": 1920,
-      "imdbRating": 5.1,
-      "imdbVotes": 318,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048312",
-      "title": "The Long Gray Line",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 3392,
-      "language": "English, Irish Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5442674",
-      "title": "The Babymooners",
-      "year": 2016,
-      "imdbRating": 7,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0044735",
-      "title": "I Dream of Jeanie",
-      "year": 1952,
-      "imdbRating": 5.9,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0063186",
-      "title": "Kill!",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 3216,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063557",
-      "title": "The Scalphunters",
-      "year": 1968,
-      "imdbRating": 6.7,
-      "imdbVotes": 4910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059043",
-      "title": "The Collector",
-      "year": 1965,
-      "imdbRating": 7.5,
-      "imdbVotes": 12945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061809",
-      "title": "In Cold Blood",
-      "year": 1967,
-      "imdbRating": 7.9,
-      "imdbVotes": 30068,
-      "language": "English, French, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0071085",
+    "tt0066181",
+    "tt0038390",
+    "tt0084044",
+    "tt0011267",
+    "tt0048312",
+    "tt5442674",
+    "tt0044735",
+    "tt0063186",
+    "tt0063557",
+    "tt0059043",
+    "tt0061809"
   ],
   "collections": [
     {

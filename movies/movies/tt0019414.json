@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheSpieler1928AlanHaleReneeAdoreeFredKohlerAndClydeCook",
+      "id": "TheSpieler1928AlanHaleReneeAdoreeFredKohlerAndClydeCook",
       "title": "The Spieler (1928) Alan Hale, Renée Adorée, Fred Kohler and Clyde Cook",
       "description": "The Spieler (1928) Alan Hale, Renée Adorée, Fred Kohler and Clyde Cook",
       "fileSize": 2527671841,
-      "id": "TheSpieler1928AlanHaleReneeAdoreeFredKohlerAndClydeCook"
+      "addedAt": "2026-01-07T00:07:05.036Z",
+      "thumbnail": "https://archive.org/services/img/TheSpieler1928AlanHaleReneeAdoreeFredKohlerAndClydeCook",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 11101
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-spieler_1928",
+      "id": "the-spieler_1928",
       "title": "The Spieler",
       "fileSize": 3084670363,
-      "id": "the-spieler_1928"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-spieler_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 329
     }
   ],
   "metadata": {
@@ -34,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021198",
-      "title": "Officer O'Brien",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0043390",
-      "title": "Cause for Alarm!",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 2709,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033062",
-      "title": "Slightly Honorable",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 541,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020234",
-      "title": "Oh, Yeah?",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019887",
-      "title": "The Flying Fool",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018697",
-      "title": "The Big City",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 92,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018839",
-      "title": "The Docks of New York",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 5224,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018684",
-      "title": "Beggars of Life",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 1376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019035",
-      "title": "Interference",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019096",
-      "title": "Lights of New York",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 977,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019132",
-      "title": "The Man from Headquarters",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0021198",
+    "tt0043390",
+    "tt0033062",
+    "tt0020234",
+    "tt0019887",
+    "tt0018839",
+    "tt0018618",
+    "tt0018684",
+    "tt0019035",
+    "tt0019096",
+    "tt0019132",
+    "tt0019571"
   ],
   "collections": [],
   "is_curated": true,

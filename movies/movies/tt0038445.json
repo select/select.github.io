@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/la-dama-de-la-muerte-1946",
+      "id": "la-dama-de-la-muerte-1946",
       "title": "La Dama De La Muerte (1946)",
       "description": "La dama de la muerte  es una película chilena de 1946, dirigida por  Carlos Hugo Christensen  y escrita por  César Tiempo , basada en el libro  El club de los suicidas  del autor británico  Robert Louis Stevenson . La película tuvo como protagonistas principales a  Carlos Cores ,  Judith Sulian  y  Guillermo Battaglia . (Wikipedia) Sinopsis Un joven decide suicidarse tras perder todo su dinero en los juegos de azar, pero es interrumpido por un misterioso hombre para invitarle a unirse a un club de suicidas, donde, a través de cartas, se sortea quién va a morir. Reparto Carlos Cores  - Roberto Braun Judith Sulian  - Ofelia Guillermo Battaglia  - Hugo Clinton Juan Corona  - Presidente del club Mafalda Tinelli Plácido Martín Italo Martínez Agustín Orrequia Agustín Siré Carlos Morris Arturo Gonzalvez Domingo Tessier",
       "fileSize": 1184913859,
-      "id": "la-dama-de-la-muerte-1946"
+      "addedAt": "2026-01-07T00:09:24.701Z",
+      "thumbnail": "https://archive.org/services/img/la-dama-de-la-muerte-1946",
+      "language": "spa",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 59
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038975",
-      "title": "The Spiral Staircase",
-      "year": 1946,
-      "imdbRating": 7.3,
-      "imdbVotes": 11698,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037711",
-      "title": "Fog Island",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 1065,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037820",
-      "title": "Isle of the Dead",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 5415,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036733",
-      "title": "The Curse of the Cat People",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 7474,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121574",
-      "title": "La muerte camina en la lluvia",
-      "year": 1948,
-      "imdbRating": 7.1,
-      "imdbVotes": 157,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184326",
-      "title": "El canto del cisne",
-      "year": 1945,
-      "imdbRating": 6.9,
-      "imdbVotes": 26,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038574",
-      "title": "Great Expectations",
-      "year": 1946,
-      "imdbRating": 7.8,
-      "imdbVotes": 26805,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3778010",
-      "title": "Dead Awake",
-      "year": 2016,
-      "imdbRating": 4.6,
-      "imdbVotes": 3652,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1881060",
-      "title": "Static",
-      "year": 2012,
-      "imdbRating": 5.3,
-      "imdbVotes": 3645,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0038346",
-      "title": "Behind Green Lights",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 1068,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    }
+    "tt0038975",
+    "tt0037711",
+    "tt0037820",
+    "tt0036733",
+    "tt0121574",
+    "tt0184326",
+    "tt0038494",
+    "tt0038574",
+    "tt3778010",
+    "tt1881060",
+    "tt0038346",
+    "tt0032406"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_507",
+      "id": "dipwad2_zoho_507",
       "title": "507",
       "description": "507",
       "fileSize": 14425002451,
-      "id": "dipwad2_zoho_507"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_507",
+      "collection": "feature_films",
+      "downloads": 6154
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_507",
+      "id": "rog561b_netzero_507",
       "title": "507",
       "description": "507",
       "fileSize": 2965527521,
-      "id": "rog561b_netzero_507"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_507",
+      "collection": "feature_films",
+      "downloads": 1391
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_507",
+      "id": "rog56_mail_507",
       "title": "507",
       "description": "507",
       "fileSize": 6316370074,
-      "id": "rog56_mail_507"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_507",
+      "collection": "feature_films",
+      "downloads": 4646
     }
   ],
   "metadata": {
@@ -43,122 +55,18 @@
     "Awards": "10 wins & 4 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0295357",
-      "title": "Into the Flames",
-      "year": 2002,
-      "imdbRating": 5,
-      "imdbVotes": 113,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0269347",
-      "title": "The Hunted",
-      "year": 2003,
-      "imdbRating": 6.1,
-      "imdbVotes": 52548,
-      "language": "English, Serbo-Croatian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0339236",
-      "title": "Shark Zone",
-      "year": 2003,
-      "imdbRating": 2.7,
-      "imdbVotes": 848,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0428725",
-      "title": "Born to Fight",
-      "year": 2004,
-      "imdbRating": 6.1,
-      "imdbVotes": 3138,
-      "language": "Thai, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328993",
-      "title": "Face of Terror",
-      "year": 2004,
-      "imdbRating": 4.3,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0169989",
-      "title": "Hard Time: Hostage Hotel",
-      "year": 1999,
-      "imdbRating": 5,
-      "imdbVotes": 496,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0385622",
-      "title": "Crash Landing",
-      "year": 2005,
-      "imdbRating": 3.8,
-      "imdbVotes": 981,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0489070",
-      "title": "Hard Luck",
-      "year": 2006,
-      "imdbRating": 5.2,
-      "imdbVotes": 2942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162984",
-      "title": "Hard Time",
-      "year": 1998,
-      "imdbRating": 5.2,
-      "imdbVotes": 563,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0445946",
-      "title": "The Contract",
-      "year": 2006,
-      "imdbRating": 5.6,
-      "imdbVotes": 26990,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0143127",
-      "title": "Batman & Mr. Freeze: SubZero",
-      "year": 1998,
-      "imdbRating": 7.2,
-      "imdbVotes": 14445,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0488121",
-      "title": "The Front Line",
-      "year": 2006,
-      "imdbRating": 6.5,
-      "imdbVotes": 1003,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0295357",
+    "tt0269347",
+    "tt0339236",
+    "tt0428725",
+    "tt0328993",
+    "tt0169989",
+    "tt0385622",
+    "tt0489070",
+    "tt0162984",
+    "tt0445946",
+    "tt0143127",
+    "tt0488121"
   ],
   "collections": [],
   "is_curated": true,

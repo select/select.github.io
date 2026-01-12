@@ -6,16 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/benhur-a-tale-of-the-christ_1927",
+      "id": "benhur-a-tale-of-the-christ_1927",
       "title": "Ben-Hur: A Tale of the Christ",
       "fileSize": 4088480171,
-      "id": "benhur-a-tale-of-the-christ_1927"
+      "addedAt": "2026-01-07T00:07:31.715Z",
+      "thumbnail": "https://archive.org/services/img/benhur-a-tale-of-the-christ_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 4878
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-ben-hur-a-tale-of-the-christ-1925",
+      "id": "silent-ben-hur-a-tale-of-the-christ-1925",
       "title": "Ben Hur, A Tale Of The Christ (1925)",
       "fileSize": 3479172235,
-      "id": "silent-ben-hur-a-tale-of-the-christ-1925"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-ben-hur-a-tale-of-the-christ-1925",
+      "language": "eng",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 10186
     }
   ],
   "metadata": {
@@ -33,116 +45,18 @@
     "Awards": "4 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0133813",
-      "title": "The Grub Stake",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 74,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014321",
-      "title": "North of Hudson Bay",
-      "year": 1923,
-      "imdbRating": 5.1,
-      "imdbVotes": 126,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130218",
-      "title": "Regeneration",
-      "year": 1923,
-      "imdbRating": 4.8,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019434",
-      "title": "Submarine",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 319,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019489",
-      "title": "The Trail of '98",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 457,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0377062",
-      "title": "Flight of the Phoenix",
-      "year": 2004,
-      "imdbRating": 6.1,
-      "imdbVotes": 58208,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0072231",
-      "title": "At Home Among Strangers, a Stranger Among His Own",
-      "year": 1974,
-      "imdbRating": 7.4,
-      "imdbVotes": 3763,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0034428",
-      "title": "Across the Pacific",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 5563,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052604",
-      "title": "The Giant of Marathon",
-      "year": 1959,
-      "imdbRating": 5.1,
-      "imdbVotes": 1112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026223",
-      "title": "Code of the Mounted",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023938",
-      "title": "Deluge",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 746,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178515",
-      "title": "Hercules and the Masked Rider",
-      "year": 1963,
-      "imdbRating": 4.3,
-      "imdbVotes": 188,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0133813",
+    "tt0014321",
+    "tt0130218",
+    "tt0019434",
+    "tt0019489",
+    "tt0377062",
+    "tt0072231",
+    "tt0034428",
+    "tt0052604",
+    "tt0026223",
+    "tt0023938",
+    "tt0178515"
   ],
   "collections": [
     {

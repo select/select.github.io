@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-battles-of-coronel-and-falkland-islands_1928",
+      "id": "the-battles-of-coronel-and-falkland-islands_1928",
       "title": "The Battles of Coronel and Falkland Islands",
       "fileSize": 17089898534,
-      "id": "the-battles-of-coronel-and-falkland-islands_1928"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-battles-of-coronel-and-falkland-islands_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 487
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016558",
-      "title": "Ypres",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017623",
-      "title": "Am Rande der Welt",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 76,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018014",
-      "title": "Hotel Imperial",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 282,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018578",
-      "title": "Wings",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 15487,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018750",
-      "title": "Carry on, Sergeant!",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018862",
-      "title": "Caucasian Love",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 182,
-      "language": "None, Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018909",
-      "title": "Four Sons",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 923,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019098",
-      "title": "Lilac Time",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020223",
-      "title": "Noah's Ark",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 1019,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016643",
-      "title": "The Better 'Ole",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 311,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0016558",
+    "tt0017623",
+    "tt0017662",
+    "tt0018014",
+    "tt0018578",
+    "tt0018750",
+    "tt0018862",
+    "tt0018909",
+    "tt0018990",
+    "tt0019098",
+    "tt0020223",
+    "tt0016643"
   ],
   "collections": [],
   "is_curated": true,

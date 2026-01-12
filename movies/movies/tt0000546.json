@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DreamOfARarebitFiend",
+      "id": "DreamOfARarebitFiend",
       "title": "Dream of A Rarebit Fiend",
       "description": "This is the earliest version of this story. It was produced by the Edison Studios about 1908. There is a later version of this dream on the archive which features animation by the original author of the story, Windsor McCay",
       "fileSize": 177137265,
-      "id": "DreamOfARarebitFiend"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DreamOfARarebitFiend",
+      "collection": "feature_films",
+      "downloads": 3433
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DreamOfARarebitFiend1906",
+      "id": "DreamOfARarebitFiend1906",
       "title": "Dream Of A Rarebit Fiend (1906)",
       "description": "The fiend faces the spectacular mind-bending consequences of his free-wheeling rarebit binge. Stars Jack Brawn http://www.imdb.com/title/tt0000546/ Please watch Carport Theatre's amazing scored version of this film. You won't regret it. It's wonderful. http://archive.org/details/DreamOfARarebitFiend_381",
       "fileSize": 69827587,
-      "id": "DreamOfARarebitFiend1906"
+      "addedAt": "2026-01-07T00:06:19.369Z",
+      "thumbnail": "https://archive.org/services/img/DreamOfARarebitFiend1906",
+      "collection": "feature_films",
+      "downloads": 4786
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-dream-of-a-rarebit-fiend",
+      "id": "silent-dream-of-a-rarebit-fiend",
       "title": "Dream of a Rarebit Fiend",
       "fileSize": 174689654,
-      "id": "silent-dream-of-a-rarebit-fiend"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-dream-of-a-rarebit-fiend",
+      "language": "English",
+      "year": 1906,
+      "collection": "feature_films",
+      "downloads": 864
     }
   ],
   "metadata": {
@@ -42,114 +56,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0235057",
-      "title": "A Winter Straw Ride",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 300,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234865",
-      "title": "The Terrible Kids",
-      "year": 1906,
-      "imdbRating": 5.4,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140772",
-      "title": "The 'Teddy' Bears",
-      "year": 1907,
-      "imdbRating": 6,
-      "imdbVotes": 648,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235018",
-      "title": "The Watermelon Patch",
-      "year": 1905,
-      "imdbRating": 4.9,
-      "imdbVotes": 161,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135122",
-      "title": "The Hilarious Posters",
-      "year": 1906,
-      "imdbRating": 6.2,
-      "imdbVotes": 1176,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449181",
-      "title": "The Bewitched Shepherd",
-      "year": 1906,
-      "imdbRating": 5.2,
-      "imdbVotes": 179,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449308",
-      "title": "The House of Ghosts",
-      "year": 1906,
-      "imdbRating": 7,
-      "imdbVotes": 1604,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215737",
-      "title": "The Eclipse: Courtship of the Sun and Moon",
-      "year": 1907,
-      "imdbRating": 6.4,
-      "imdbVotes": 1442,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215575",
-      "title": "The Black Imp",
-      "year": 1905,
-      "imdbRating": 6.9,
-      "imdbVotes": 2341,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000621",
-      "title": "That Fatal Sneeze",
-      "year": 1907,
-      "imdbRating": 6.5,
-      "imdbVotes": 641,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215664",
-      "title": "The Cook in Trouble",
-      "year": 1904,
-      "imdbRating": 6,
-      "imdbVotes": 871,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000669",
-      "title": "Cupid's Pranks",
-      "year": 1908,
-      "imdbRating": 4.9,
-      "imdbVotes": 160,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0235057",
+    "tt0234865",
+    "tt0140772",
+    "tt0235018",
+    "tt0135122",
+    "tt0449181",
+    "tt0449308",
+    "tt0215575",
+    "tt0000621",
+    "tt0215664",
+    "tt0000669",
+    "tt0288252"
   ],
   "collections": [],
   "is_curated": true,

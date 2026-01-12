@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/murder-on-the-waterfront-1943",
+      "id": "murder-on-the-waterfront-1943",
       "title": "Murder On The Waterfront (1943)",
       "description": "Warren Douglas, John Loder",
       "fileSize": 780938725,
-      "id": "murder-on-the-waterfront-1943"
+      "addedAt": "2026-01-07T00:09:54.332Z",
+      "thumbnail": "https://archive.org/services/img/murder-on-the-waterfront-1943",
+      "collection": "feature_films",
+      "downloads": 559
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036262",
-      "title": "The Phantom",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 471,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0035371",
-      "title": "Spy Ship",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036377",
-      "title": "The Song of Bernadette",
-      "year": 1943,
-      "imdbRating": 7.6,
-      "imdbVotes": 7806,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035937",
-      "title": "The Ghost Ship",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 3833,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036695",
-      "title": "A Canterbury Tale",
-      "year": 1944,
-      "imdbRating": 7.3,
-      "imdbVotes": 6808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036886",
-      "title": "Guest in the House",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 1087,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036855",
-      "title": "Gaslight",
-      "year": 1944,
-      "imdbRating": 7.8,
-      "imdbVotes": 36259,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037267",
-      "title": "Shake Hands with Murder",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035448",
-      "title": "Today I Hang",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036745",
-      "title": "Dark Waters",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 1118,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0036262",
+    "tt0035371",
+    "tt0036377",
+    "tt0035937",
+    "tt0036695",
+    "tt0035694",
+    "tt0036886",
+    "tt0036855",
+    "tt0037267",
+    "tt0035121",
+    "tt0035448",
+    "tt0036745"
   ],
   "collections": [],
   "is_curated": true,

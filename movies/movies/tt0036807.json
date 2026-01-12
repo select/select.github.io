@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/experiment-perilous-1944-",
+      "id": "experiment-perilous-1944-",
       "title": "Experiment Perilous (1944)",
       "description": "Hedy Lamarr, George Brent Directed by Jacques Tourneur",
       "fileSize": 1304662093,
-      "id": "experiment-perilous-1944-"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/experiment-perilous-1944-",
+      "collection": "feature_films",
+      "downloads": 3674
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049552",
-      "title": "Nightfall",
-      "year": 1956,
-      "imdbRating": 7.1,
-      "imdbVotes": 4833,
-      "language": "English, Spanish, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051605",
-      "title": "The Fearmakers",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 869,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036104",
-      "title": "The Leopard Man",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 6122,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036743",
-      "title": "Dark Mountain",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036775",
-      "title": "Double Indemnity",
-      "year": 1944,
-      "imdbRating": 8.3,
-      "imdbVotes": 176771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037075",
-      "title": "Ministry of Fear",
-      "year": 1944,
-      "imdbRating": 7.1,
-      "imdbVotes": 9164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036260",
-      "title": "Phantom Lady",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 6069,
-      "language": "English, Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037318",
-      "title": "Strangers in the Night",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 848,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037469",
-      "title": "The Woman in the Window",
-      "year": 1944,
-      "imdbRating": 7.6,
-      "imdbVotes": 19130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036711",
-      "title": "Christmas Holiday",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 1678,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037078",
-      "title": "The Missing Juror",
-      "year": 1944,
-      "imdbRating": 6.2,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036790",
-      "title": "End of the Road",
-      "year": 1944,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0049552",
+    "tt0051605",
+    "tt0036104",
+    "tt0036743",
+    "tt0036775",
+    "tt0037075",
+    "tt0036260",
+    "tt0037318",
+    "tt0037469",
+    "tt0036711",
+    "tt0037078",
+    "tt0036790"
   ],
   "collections": [],
   "is_curated": true,

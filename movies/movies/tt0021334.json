@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sap-from-syracuse-1930-",
+      "id": "sap-from-syracuse-1930-",
       "title": "Sap From Syracuse (1930)",
       "description": "movie",
       "fileSize": 1669085292,
-      "id": "sap-from-syracuse-1930-"
+      "addedAt": "2026-01-07T00:10:40.952Z",
+      "thumbnail": "https://archive.org/services/img/sap-from-syracuse-1930-",
+      "collection": "feature_films",
+      "downloads": 965
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020278",
-      "title": "Pointed Heels",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021057",
-      "title": "Leathernecking",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022000",
-      "title": "Indiscreet",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 1610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022263",
-      "title": "Le petit café",
-      "year": 1931,
-      "imdbRating": 6.6,
-      "imdbVotes": 26,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020034",
-      "title": "It's a Great Life",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020112",
-      "title": "The Love Parade",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 2668,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020238",
-      "title": "On with the Show!",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 353,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019777",
-      "title": "The Cocoanuts",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 8359,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025784",
-      "title": "Shoot the Works",
-      "year": 1934,
-      "imdbRating": 6.4,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023580",
-      "title": "There Goes the Bride",
-      "year": 1932,
-      "imdbRating": 6.7,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023158",
-      "title": "Love Me Tonight",
-      "year": 1932,
-      "imdbRating": 7.5,
-      "imdbVotes": 4934,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032637",
-      "title": "The Invisible Woman",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 3517,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020278",
+    "tt0021057",
+    "tt0022000",
+    "tt0022263",
+    "tt0020034",
+    "tt0020112",
+    "tt0020238",
+    "tt0019777",
+    "tt0025784",
+    "tt0023580",
+    "tt0023158",
+    "tt0032637"
   ],
   "collections": [],
   "is_curated": true,

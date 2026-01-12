@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-nero-or-the-fall-of-rome-",
+      "id": "silent-nero-or-the-fall-of-rome-",
       "title": "Nero. Or the Fall of Rome.",
       "fileSize": 303472235,
-      "id": "silent-nero-or-the-fall-of-rome-"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-nero-or-the-fall-of-rome-",
+      "language": "Italian",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 672
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000776",
-      "title": "The Last Days of Pompeii",
-      "year": 1908,
-      "imdbRating": 5.6,
-      "imdbVotes": 137,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001032",
-      "title": "The Sealed Room",
-      "year": 1909,
-      "imdbRating": 6,
-      "imdbVotes": 985,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0434198",
-      "title": "The Death of the Duke D'Enghien",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 32,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191402",
-      "title": "La revolución de Mayo",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 94,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001117",
-      "title": "Cleopatra",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 15,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001915",
-      "title": "A Tale of Two Cities",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000832",
-      "title": "A Corner in Wheat",
-      "year": 1909,
-      "imdbRating": 6.6,
-      "imdbVotes": 2796,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000852",
-      "title": "A Drunkard's Reformation",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 261,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001050",
-      "title": "A Strange Meeting",
-      "year": 1909,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001072",
-      "title": "A Trap for Santa Claus",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 409,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000797",
-      "title": "At the Altar",
-      "year": 1909,
-      "imdbRating": 5.4,
-      "imdbVotes": 177,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000776",
+    "tt0001032",
+    "tt0434198",
+    "tt0191402",
+    "tt0001117",
+    "tt0001915",
+    "tt0207954",
+    "tt0000832",
+    "tt0000852",
+    "tt0001050",
+    "tt0001072",
+    "tt0000797"
   ],
   "collections": [],
   "is_curated": true,

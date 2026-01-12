@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/seven-keys-to-baldpate",
+      "id": "seven-keys-to-baldpate",
       "title": "Seven Keys To Baldpate (1929)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. A story that was adapted in film seven times, Seven Keys to Baldpate is a mystery drama that incorporates romance, mystique and drama. On release it was a critical and financial hit, although it has mostly been forgotten to time since then. ",
       "fileSize": 5308293115,
-      "id": "seven-keys-to-baldpate"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/seven-keys-to-baldpate",
+      "language": "eng",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 77
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/seven-keys-to-baldpate_1929",
+      "id": "seven-keys-to-baldpate_1929",
       "title": "Seven Keys to Baldpate",
       "fileSize": 3070034075,
-      "id": "seven-keys-to-baldpate_1929"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/seven-keys-to-baldpate_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 180
     }
   ],
   "metadata": {
@@ -34,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019757",
-      "title": "The Charlatan",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019690",
-      "title": "Big News",
-      "year": 1929,
-      "imdbRating": 5.4,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008561",
-      "title": "Seven Keys to Baldpate",
-      "year": 1917,
-      "imdbRating": 6,
-      "imdbVotes": 125,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027384",
-      "title": "The Border Patrolman",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032277",
-      "title": "Boys of the City",
-      "year": 1940,
-      "imdbRating": 5.6,
-      "imdbVotes": 660,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077233",
-      "title": "The Big Fix",
-      "year": 1978,
-      "imdbRating": 6.4,
-      "imdbVotes": 2448,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0020103",
-      "title": "The Locked Door",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020534",
-      "title": "The Unholy Night",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 413,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0406934",
-      "title": "The Limejuice Mystery or Who Spat in Grandfather's Porridge?",
-      "year": 1930,
-      "imdbRating": 4,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020785",
-      "title": "Conspiracy",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018825",
-      "title": "Detectives",
-      "year": 1928,
-      "imdbRating": 8.1,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0019757",
+    "tt0019690",
+    "tt0008561",
+    "tt0027384",
+    "tt0032277",
+    "tt0077233",
+    "tt2130142",
+    "tt0020103",
+    "tt0020534",
+    "tt0406934",
+    "tt0020785",
+    "tt0018825"
   ],
   "collections": [],
   "is_curated": true,

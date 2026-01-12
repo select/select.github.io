@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1983-turkey-shoot",
+      "id": "1983-turkey-shoot",
       "title": "1983 Turkey Shoot",
       "description": "1983 Turkey Shoot from Pipeline Skate Park in California. Low Res from an old copy of a DVD. Purely of interest to Skateboard fans. The top four guys were vying for $750 in combined price money.",
       "fileSize": 1133663949,
-      "id": "1983-turkey-shoot"
+      "addedAt": "2026-01-07T00:06:06.564Z",
+      "thumbnail": "https://archive.org/services/img/1983-turkey-shoot",
+      "language": "eng",
+      "year": 1983,
+      "collection": "feature_films",
+      "downloads": 516
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0487156",
-      "title": "In Her Line of Fire",
-      "year": 2006,
-      "imdbRating": 3.7,
-      "imdbVotes": 1152,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2179226",
-      "title": "Absolute Deception",
-      "year": 2013,
-      "imdbRating": 4.3,
-      "imdbVotes": 2124,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0089269",
-      "title": "Hellhole",
-      "year": 1985,
-      "imdbRating": 5,
-      "imdbVotes": 1194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024055",
-      "title": "The Ghoul",
-      "year": 1933,
-      "imdbRating": 5.8,
-      "imdbVotes": 3369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026047",
-      "title": "Air Hawks",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060168",
-      "title": "Billy the Kid Versus Dracula",
-      "year": 1966,
-      "imdbRating": 3.8,
-      "imdbVotes": 2326,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064240",
-      "title": "Django the Bastard",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 1307,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2375289",
-      "title": "Maranatha",
-      "year": 1982,
-      "language": "Tagalog, Filipino",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0287733",
-      "title": "Straight Into Darkness",
-      "year": 2004,
-      "imdbRating": 4.9,
-      "imdbVotes": 1432,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt11246434",
-      "title": "Lethal Virus",
-      "year": 2021,
-      "imdbRating": 1.8,
-      "imdbVotes": 1085,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt14912006",
-      "title": "Bull Shark",
-      "year": 2022,
-      "imdbRating": 2.7,
-      "imdbVotes": 812,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0165247",
-      "title": "Secret Ninja, Roaring Tiger",
-      "year": 1982,
-      "imdbRating": 4.9,
-      "imdbVotes": 162,
-      "language": "Cantonese, Korean, English",
-      "sourceType": "archive.org"
-    }
+    "tt0487156",
+    "tt2179226",
+    "tt0089269",
+    "tt0024055",
+    "tt0026047",
+    "tt0060168",
+    "tt0064240",
+    "tt2375289",
+    "tt0287733",
+    "tt11246434",
+    "tt14912006",
+    "tt0165247"
   ],
   "collections": [],
   "is_curated": true,

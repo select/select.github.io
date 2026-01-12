@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/DeathMachines",
+      "id": "DeathMachines",
       "title": "Death Machines",
       "description": "A trio of mind-controlled assassins are dispatched to help a crime boss seize control of her territory. You can find out more about this movie on its IMDB page .",
       "fileSize": 2740534553,
-      "id": "DeathMachines"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/DeathMachines",
+      "language": "eng",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 33613
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/death-machines-1976_202503",
+      "id": "death-machines-1976_202503",
       "title": "Death Machines (1976)",
       "description": "Madame Lu has created three \"Death Machines,\" a trio of martial arts experts who have been injected with a special serum, turning them into mindless zombies, capable only of murder, at Lu's command. Tasked with eliminating her enemies, the Death Machines go on a blood-soaked rampage, killing anyone in their path. After they massacre an entire dojo, leaving only one survivor, the Death Machines and Madame Lu herself become the targets of his vengeance... Watch on RetroFlix:  https://retroflix.org/death-machines-1976/",
       "fileSize": 575081506,
-      "id": "death-machines-1976_202503"
+      "addedAt": "2026-01-07T00:07:59.606Z",
+      "thumbnail": "https://archive.org/services/img/death-machines-1976_202503",
+      "language": "eng",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 501
     }
   ],
   "metadata": {
@@ -35,119 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074156",
-      "title": "Assault on Precinct 13",
-      "year": 1976,
-      "imdbRating": 7.3,
-      "imdbVotes": 58340,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075188",
-      "title": "The Sell-Out",
-      "year": 1976,
-      "imdbRating": 4.9,
-      "imdbVotes": 620,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073511",
-      "title": "Paper Tiger",
-      "year": 1975,
-      "imdbRating": 5.8,
-      "imdbVotes": 774,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0073756",
-      "title": "The Street Fighter",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 5803,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0071663",
-      "title": "The Internecine Project",
-      "year": 1974,
-      "imdbRating": 6.2,
-      "imdbVotes": 1157,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0077474",
-      "title": "The Driver",
-      "year": 1978,
-      "imdbRating": 7.1,
-      "imdbVotes": 20521,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0166016",
-      "title": "The Weapons of Death",
-      "year": 1981,
-      "imdbRating": 4.4,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13423326",
-      "title": "The Concrete Cowboys",
-      "year": 1979,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079056",
-      "title": "Disaster on the Coastliner",
-      "year": 1979,
-      "imdbRating": 5.8,
-      "imdbVotes": 664,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068902",
-      "title": "The Italian Connection",
-      "year": 1972,
-      "imdbRating": 7.1,
-      "imdbVotes": 2960,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0143348",
-      "title": "Lone Wolf and Cub: Baby Cart in Peril",
-      "year": 1972,
-      "imdbRating": 7.5,
-      "imdbVotes": 5102,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0167194",
-      "title": "Hijack",
-      "year": 1998,
-      "imdbRating": 4.1,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0074156",
+    "tt0075188",
+    "tt0073511",
+    "tt0073756",
+    "tt0071663",
+    "tt0077474",
+    "tt0166016",
+    "tt13423326",
+    "tt0079056",
+    "tt0068902",
+    "tt0143348",
+    "tt0167194"
   ],
   "collections": [],
   "is_curated": true,

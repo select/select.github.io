@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/feather-your-nest",
+      "id": "feather-your-nest",
       "title": "Feather Your Nest",
       "description": "Unseen since its original theatrical release, this George Formby vehicle stars George as a gramophone record factory worker who creates a hit song.",
       "fileSize": 6454907088,
-      "id": "feather-your-nest"
+      "addedAt": "2026-01-07T00:08:24.394Z",
+      "thumbnail": "https://archive.org/services/img/feather-your-nest",
+      "language": "eng",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 1355
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028496",
-      "title": "Where There's a Will",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 348,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028509",
-      "title": "Windbag the Sailor",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 437,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026132",
-      "title": "Boys Will Be Boys",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028918",
-      "title": "Gangway",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029336",
-      "title": "O-Kay for Sound",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029482",
-      "title": "Rhythm in the Clouds",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029588",
-      "title": "Something to Sing About",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 1052,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029628",
-      "title": "Swing It Professor",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029626",
-      "title": "Swing High, Swing Low",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 926,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0147356",
-      "title": "Scary Crows",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028931",
-      "title": "The Girl Said No",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029193",
-      "title": "Make a Wish",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0028496",
+    "tt0028509",
+    "tt0026132",
+    "tt0028918",
+    "tt0029336",
+    "tt0029482",
+    "tt0029588",
+    "tt0029628",
+    "tt0029626",
+    "tt0147356",
+    "tt0028931",
+    "tt0029193"
   ],
   "collections": [],
   "is_curated": true,

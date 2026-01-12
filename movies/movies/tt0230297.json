@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/histoire-de-detective_1929",
+      "id": "histoire-de-detective_1929",
       "title": "Histoire de détective",
       "fileSize": 2661193224,
-      "id": "histoire-de-detective_1929"
+      "addedAt": "2026-01-07T00:08:46.612Z",
+      "thumbnail": "https://archive.org/services/img/histoire-de-detective_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 71
     }
   ],
   "metadata": {
@@ -26,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0230324",
-      "title": "Impatience",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020305",
-      "title": "The Racketeer",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020103",
-      "title": "The Locked Door",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019702",
-      "title": "Blackmail",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 12379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138560",
-      "title": "Korkein voitto",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0794314",
-      "title": "Mocny czlowiek",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 268,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020197",
-      "title": "The Mysterious Dr. Fu Manchu",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020534",
-      "title": "The Unholy Night",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 413,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020388",
-      "title": "Seven Keys to Baldpate",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 451,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019757",
-      "title": "The Charlatan",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020581",
-      "title": "Where East Is East",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 710,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0230324",
+    "tt0020305",
+    "tt0020103",
+    "tt0019702",
+    "tt0138560",
+    "tt0794314",
+    "tt0020197",
+    "tt0020534",
+    "tt0020388",
+    "tt0019757",
+    "tt0020581",
+    "tt0018972"
   ],
   "collections": [],
   "is_curated": true,

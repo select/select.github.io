@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Rattlers_201511",
+      "id": "Rattlers_201511",
       "title": "Rattlers",
       "description": "This film has fallen into the Public Domain.",
       "fileSize": 631884507,
-      "id": "Rattlers_201511"
+      "addedAt": "2026-01-07T00:06:51.866Z",
+      "thumbnail": "https://archive.org/services/img/Rattlers_201511",
+      "collection": "feature_films",
+      "downloads": 14726
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rattlers",
+      "id": "rattlers",
       "title": "Rattlers",
       "description": "Title: Rattlers Summary: A herpetologist investigating a series of fatal rattlesnake attacks discovers that the creatures have been infected by a mysterious nerve gas disposed of in the desert by the military. Directed by: John McCauley Actors: Sam Chew Jr., Elisabeth Chauvet, Dan Priest Production Company: Boxoffice International Pictures (BIP) Release Date: 23 April 1976 (USA) Aspect Ratio: 1.85 : 1 A large number of chemically altered rattlesnakes become fearsome killers in this TV chiller. The tale is set in the Mojave Desert and centers upon Sam Parkinson, a noted herpetologist, who has come to investigate a series of strange deaths that began with two dead children found near their parents' campsites.",
       "fileSize": 572954231,
-      "id": "rattlers"
+      "addedAt": "2026-01-07T00:10:30.752Z",
+      "thumbnail": "https://archive.org/services/img/rattlers",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 1612
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0074920",
-      "title": "Bloodlust",
-      "year": 1976,
-      "imdbRating": 5.5,
-      "imdbVotes": 625,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076127",
-      "title": "Haunts",
-      "year": 1976,
-      "imdbRating": 4.7,
-      "imdbVotes": 689,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075343",
-      "title": "Track of the Moon Beast",
-      "year": 1976,
-      "imdbRating": 2.3,
-      "imdbVotes": 3835,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211971",
-      "title": "Born for Hell",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 1026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074875",
-      "title": "Massacre at Central High",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 2967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074475",
-      "title": "Embryo",
-      "year": 1976,
-      "imdbRating": 5.1,
-      "imdbVotes": 1842,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074691",
-      "title": "The Inugami Family",
-      "year": 1976,
-      "imdbRating": 7.2,
-      "imdbVotes": 1209,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074806",
-      "title": "The Little Girl Who Lives Down the Lane",
-      "year": 1976,
-      "imdbRating": 7,
-      "imdbVotes": 18888,
-      "language": "English, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075820",
-      "title": "Cathy's Curse",
-      "year": 1977,
-      "imdbRating": 4.5,
-      "imdbVotes": 1367,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074365",
-      "title": "Curse of Bigfoot",
-      "year": 1975,
-      "imdbRating": 1.8,
-      "imdbVotes": 764,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073582",
-      "title": "Deep Red",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 45677,
-      "language": "Italian, German, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075990",
-      "title": "End of the World",
-      "year": 1977,
-      "imdbRating": 3.1,
-      "imdbVotes": 1255,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0074920",
+    "tt0076127",
+    "tt0075343",
+    "tt0211971",
+    "tt0074875",
+    "tt0074475",
+    "tt0074691",
+    "tt0074806",
+    "tt0075820",
+    "tt0074365",
+    "tt0073582",
+    "tt0075990"
   ],
   "collections": [],
   "is_curated": true,

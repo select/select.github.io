@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-clash-of-the-wolves",
+      "id": "silent-clash-of-the-wolves",
       "title": "Clash of the Wolves",
       "fileSize": 1495796182,
-      "id": "silent-clash-of-the-wolves"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-clash-of-the-wolves",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2222
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013556",
-      "title": "Robin Hood",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 2583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015758",
-      "title": "Don Q Son of Zorro",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 579,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200457",
-      "title": "The Adventures of Robert Macaire",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 80,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016550",
-      "title": "Womanhandled",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 98,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015841",
-      "title": "The Freshman",
-      "year": 1925,
-      "imdbRating": 7.5,
-      "imdbVotes": 6373,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0015400",
-      "title": "The Thief of Bagdad",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 7374,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016804",
-      "title": "Don Juan",
-      "year": 1926,
-      "imdbRating": 7,
-      "imdbVotes": 1007,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015310",
-      "title": "The Sea Hawk",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015224",
-      "title": "Peter Pan",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 1317,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017416",
-      "title": "The Son of the Sheik",
-      "year": 1926,
-      "imdbRating": 6.6,
-      "imdbVotes": 2170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014611",
-      "title": "Why Worry?",
-      "year": 1923,
-      "imdbRating": 7.3,
-      "imdbVotes": 2102,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0014496",
-      "title": "Soul of the Beast",
-      "year": 1923,
-      "imdbRating": 6.7,
-      "imdbVotes": 64,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0013556",
+    "tt0015758",
+    "tt0200457",
+    "tt0016550",
+    "tt0015841",
+    "tt0015400",
+    "tt0016804",
+    "tt0015310",
+    "tt0015224",
+    "tt0017416",
+    "tt0014611",
+    "tt0014496"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MyMovie_20190211",
+      "id": "MyMovie_20190211",
       "title": "\"The Man without Desire\" (1923)",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems     This is a short preview. You can watch the whole film here: https://silent-hall-of-fame.org/index.php/gems-for-donation   \"The Man without Desire\" is a classic British drama. The film is both a swashbuckler and a modern drama, an absorbing story of romance, mystery and fantasy. The film features the renowned British star Ivor Novello. Directed by                    Adrian Brunel Produced by                  Atlas Biocraft Starring                          Ivor Novello, Nina Vanna, Sergio Mari, Chris Walker, Dorothy Warren Release date                   December 1923 Running time                 109 minutes Country                          Great Britain Language                        Silent film, English intertitles   Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 83229678,
-      "id": "MyMovie_20190211"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/MyMovie_20190211",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 7494
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014721",
-      "title": "Black Oxen",
-      "year": 1923,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016294",
-      "title": "The Road to Yesterday",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 166,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014604",
-      "title": "The White Rose",
-      "year": 1923,
-      "imdbRating": 6.2,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000966",
-      "title": "A Midsummer Night's Dream",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 355,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032247",
-      "title": "Beyond Tomorrow",
-      "year": 1940,
-      "imdbRating": 6.5,
-      "imdbVotes": 2497,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014440",
-      "title": "Scaramouche",
-      "year": 1923,
-      "imdbRating": 7.1,
-      "imdbVotes": 713,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161953",
-      "title": "Salome",
-      "year": 1923,
-      "imdbRating": 4.9,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014014",
-      "title": "The Hell Ship",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014142",
-      "title": "The Hunchback of Notre Dame",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 6381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038733",
-      "title": "A Matter of Life and Death",
-      "year": 1946,
-      "imdbRating": 8,
-      "imdbVotes": 26640,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5338222",
-      "title": "My Tomorrow, Your Yesterday",
-      "year": 2016,
-      "imdbRating": 7.4,
-      "imdbVotes": 5620,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7642542",
-      "title": "Magical Christmas Ornaments",
-      "year": 2017,
-      "imdbRating": 6.3,
-      "imdbVotes": 1990,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0014721",
+    "tt0016294",
+    "tt0014604",
+    "tt0000966",
+    "tt0032247",
+    "tt0014440",
+    "tt0161953",
+    "tt0014014",
+    "tt0014142",
+    "tt0038733",
+    "tt5338222",
+    "tt7642542"
   ],
   "collections": [],
   "is_curated": true,

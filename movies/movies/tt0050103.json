@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/affair-in-havana",
+      "id": "affair-in-havana",
       "title": "Affair In Havana (1957)",
       "description": "John Cassavetes, Raymond Burr, Sara Shane pangoligo",
       "fileSize": 1165971873,
-      "id": "affair-in-havana"
+      "addedAt": "2026-01-07T00:07:18.440Z",
+      "thumbnail": "https://archive.org/services/img/affair-in-havana",
+      "collection": "feature_films",
+      "downloads": 427
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041761",
-      "title": "Port of New York",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050271",
-      "title": "Crime of Passion",
-      "year": 1956,
-      "imdbRating": 6.4,
-      "imdbVotes": 3102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049621",
-      "title": "Please Murder Me!",
-      "year": 1956,
-      "imdbRating": 6.5,
-      "imdbVotes": 1693,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049846",
-      "title": "Three Bad Sisters",
-      "year": 1956,
-      "imdbRating": 5.8,
-      "imdbVotes": 297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050241",
-      "title": "Chain of Evidence",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051713",
-      "title": "Hell Drivers",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 4255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050526",
-      "title": "House of Numbers",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 612,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050847",
-      "title": "Plunder Road",
-      "year": 1957,
-      "imdbRating": 6.9,
-      "imdbVotes": 1353,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050964",
-      "title": "Short Cut to Hell",
-      "year": 1957,
-      "imdbRating": 6,
-      "imdbVotes": 388,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050213",
-      "title": "The Brothers Rico",
-      "year": 1957,
-      "imdbRating": 6.8,
-      "imdbVotes": 1666,
-      "language": "English, Italian, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050424",
-      "title": "The Garment Jungle",
-      "year": 1957,
-      "imdbRating": 6.6,
-      "imdbVotes": 1338,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050704",
-      "title": "The Midnight Story",
-      "year": 1957,
-      "imdbRating": 6.7,
-      "imdbVotes": 909,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0041761",
+    "tt0050271",
+    "tt0049621",
+    "tt0049846",
+    "tt0050241",
+    "tt0051713",
+    "tt0050526",
+    "tt0050847",
+    "tt0050964",
+    "tt0050213",
+    "tt0050424",
+    "tt0050704"
   ],
   "collections": [],
   "is_curated": true,

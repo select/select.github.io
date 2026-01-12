@@ -6,26 +6,38 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_214",
+      "id": "rog561b_netzero_214",
       "title": "214",
       "description": "214",
       "fileSize": 4441632251,
-      "id": "rog561b_netzero_214"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_214",
+      "collection": "feature_films",
+      "downloads": 2519
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_214",
+      "id": "rog56_mail_214",
       "title": "214",
       "description": "214",
       "fileSize": 3294318259,
-      "id": "rog56_mail_214"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_214",
+      "collection": "feature_films",
+      "downloads": 2521
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog56_mail_214_201607",
+      "id": "rog56_mail_214_201607",
       "title": "214",
       "description": "214",
       "fileSize": 11963068978,
-      "id": "rog56_mail_214_201607"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog56_mail_214_201607",
+      "collection": "feature_films",
+      "downloads": 6170
     }
   ],
   "metadata": {
@@ -43,118 +55,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt7685784",
-      "title": "The 2017 World Series",
-      "year": 2017,
-      "imdbRating": 7.1,
-      "imdbVotes": 33,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6618244",
-      "title": "UFC 210: Cormier vs. Johnson 2",
-      "year": 2017,
-      "imdbRating": 6.7,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7281464",
-      "title": "UFC 215: Nunes vs. Shevchenko 2",
-      "year": 2017,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7730996",
-      "title": "UFC 219: Cyborg vs. Holm",
-      "year": 2017,
-      "imdbRating": 6.6,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7676544",
-      "title": "200 MPH Club",
-      "year": 2017,
-      "imdbRating": 7,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt14409096",
-      "title": "Julia's Tabata Workout Part 5 - Week 3 Set 1 Intermediate/Advanced: Best for Toning and Fat Loss",
-      "year": 2016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5427194",
-      "title": "The Miracle Season",
-      "year": 2018,
-      "imdbRating": 6.5,
-      "imdbVotes": 6640,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3201736",
-      "title": "Run the Race",
-      "year": 2018,
-      "imdbRating": 6,
-      "imdbVotes": 1855,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt3543258",
-      "title": "A Sunday Horse",
-      "year": 2016,
-      "imdbRating": 6.1,
-      "imdbVotes": 1119,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4845544",
-      "title": "Crystal Lake",
-      "year": 2016,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1947969",
-      "title": "Battle B-Boy",
-      "year": 2016,
-      "imdbRating": 3.1,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2464690",
-      "title": "The Rack Pack",
-      "year": 2016,
-      "imdbRating": 7,
-      "imdbVotes": 1280,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt7685784",
+    "tt6618244",
+    "tt7281464",
+    "tt7730996",
+    "tt7676544",
+    "tt14409096",
+    "tt5427194",
+    "tt3201736",
+    "tt3543258",
+    "tt4845544",
+    "tt1947969",
+    "tt2464690"
   ],
   "collections": [],
   "is_curated": true,

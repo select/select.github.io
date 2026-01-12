@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rosf11244588",
+      "id": "rosf11244588",
       "title": "Rebecca of Sunnybrook Farm",
       "description": "Title: Rebecca of Sunnybrook Farm Summary: With her family in financial difficulties, Rebecca is sent to live with her two strict, unfeeling aunts, who do not appreciate the young girl's charm and energy. Rebecca must make new ... Directed by: Marshall Neilan Actors: Production Company: Mary Pickford Company Release Date: 22 September 1917 (USA) Aspect Ratio: 1.33 : 1 With her family in financial difficulties, Rebecca is sent to live with her two strict, unfeeling aunts, who do not appreciate the young girl's charm and energy. Rebecca must make new friends and must adjust to surroundings that are sometimes difficult. But she still finds time to think of numerous ways to help others in her new hometown.",
       "fileSize": 597409572,
-      "id": "rosf11244588"
+      "addedAt": "2026-01-07T00:10:40.950Z",
+      "thumbnail": "https://archive.org/services/img/rosf11244588",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 1072
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-rebecca-of-sunnybrook-farm",
+      "id": "silent-rebecca-of-sunnybrook-farm",
       "title": "Rebecca of Sunnybrook Farm",
       "fileSize": 906315396,
-      "id": "silent-rebecca-of-sunnybrook-farm"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-rebecca-of-sunnybrook-farm",
+      "language": "English",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 496
     }
   ],
   "metadata": {
@@ -34,111 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009326",
-      "title": "M'Liss",
-      "year": 1918,
-      "imdbRating": 6.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010040",
-      "title": "Daddy-Long-Legs",
-      "year": 1919,
-      "imdbRating": 6.6,
-      "imdbVotes": 1489,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008827",
-      "title": "Amarilly of Clothes-Line Alley",
-      "year": 1918,
-      "imdbRating": 6.1,
-      "imdbVotes": 814,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009652",
-      "title": "Stella Maris",
-      "year": 1918,
-      "imdbRating": 6.9,
-      "imdbVotes": 1657,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008519",
-      "title": "A Romance of the Redwoods",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 866,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008443",
-      "title": "The Poor Little Rich Girl",
-      "year": 1917,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007903",
-      "title": "An Even Break",
-      "year": 1917,
-      "imdbVotes": 22,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168593",
-      "title": "The Clodhopper",
-      "year": 1917,
-      "imdbRating": 6.5,
-      "imdbVotes": 56,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007964",
-      "title": "Fools for Luck",
-      "year": 1917,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326184",
-      "title": "Somebody Lied",
-      "year": 1917,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011588",
-      "title": "Pollyanna",
-      "year": 1920,
-      "imdbRating": 6.4,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0009326",
+    "tt0010040",
+    "tt0008827",
+    "tt0009652",
+    "tt0008519",
+    "tt0008443",
+    "tt0008133",
+    "tt0007903",
+    "tt0168593",
+    "tt0007964",
+    "tt0326184",
+    "tt0011588"
   ],
   "collections": [],
   "is_curated": true,

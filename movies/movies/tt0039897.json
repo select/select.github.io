@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ThingsHappenatNight",
+      "id": "ThingsHappenatNight",
       "title": "Things Happen at Night",
       "description": "A young girl finds herself possessed by the spirit of a mischievous demon.",
       "fileSize": 1592185289,
-      "id": "ThingsHappenatNight"
+      "addedAt": "2026-01-07T00:07:11.886Z",
+      "thumbnail": "https://archive.org/services/img/ThingsHappenatNight",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 10339
     }
   ],
   "metadata": {
@@ -27,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041085",
-      "title": "Bud Abbott Lou Costello Meet the Killer Boris Karloff",
-      "year": 1949,
-      "imdbRating": 6.7,
-      "imdbVotes": 4292,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0178774",
-      "title": "Una mujer sin cabeza",
-      "year": 1947,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043255",
-      "title": "Bud Abbott and Lou Costello Meet the Invisible Man",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 6470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038270",
-      "title": "Zombies on Broadway",
-      "year": 1945,
-      "imdbRating": 5.2,
-      "imdbVotes": 969,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044925",
-      "title": "Vampire Over London",
-      "year": 1952,
-      "imdbRating": 3.8,
-      "imdbVotes": 1012,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0044406",
-      "title": "Bela Lugosi Meets a Brooklyn Gorilla",
-      "year": 1952,
-      "imdbRating": 3.7,
-      "imdbVotes": 2596,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037151",
-      "title": "One Body Too Many",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 1582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040762",
-      "title": "Scudda Hoo! Scudda Hay!",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052655",
-      "title": "A Bucket of Blood",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 8366,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068370",
-      "title": "Children Shouldn't Play with Dead Things",
-      "year": 1972,
-      "imdbRating": 5.3,
-      "imdbVotes": 5302,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054768",
-      "title": "Creature from the Haunted Sea",
-      "year": 1961,
-      "imdbRating": 3.4,
-      "imdbVotes": 3416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035939",
-      "title": "Ghosts on the Loose",
-      "year": 1943,
-      "imdbRating": 5,
-      "imdbVotes": 1583,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    }
+    "tt0041085",
+    "tt0178774",
+    "tt0043255",
+    "tt0038270",
+    "tt0044925",
+    "tt0044406",
+    "tt0037151",
+    "tt0040762",
+    "tt0052655",
+    "tt0068370",
+    "tt0054768",
+    "tt0035939"
   ],
   "collections": [],
   "is_curated": true,

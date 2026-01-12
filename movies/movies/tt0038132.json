@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1945-der-stumme-gast",
+      "id": "1945-der-stumme-gast",
       "title": "1945 Der Stumme Gast",
       "description": "Film aus dem deutschen dritten Reich von 1945 Der stumme Gast.. U.a mit Rene Deltgen ",
       "fileSize": 1081530897,
-      "id": "1945-der-stumme-gast"
+      "addedAt": "2026-01-07T00:06:03.997Z",
+      "thumbnail": "https://archive.org/services/img/1945-der-stumme-gast",
+      "language": "ger",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 344
     }
   ],
   "metadata": {
@@ -27,103 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034823",
-      "title": "Hab mich lieb",
-      "year": 1942,
-      "imdbRating": 7.6,
-      "imdbVotes": 55,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035591",
-      "title": "Zwischen Himmel und Erde",
-      "year": 1942,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136247",
-      "title": "Das Hochzeitshotel",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036520",
-      "title": "Wenn der junge Wein blüht",
-      "year": 1943,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150475",
-      "title": "Der Erbförster",
-      "year": 1945,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234640",
-      "title": "Rätsel der Nacht",
-      "year": 1945,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038251",
-      "title": "Wie ein Dieb in der Nacht",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200480",
-      "title": "Besos perdidos",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198721",
-      "title": "María Celeste",
-      "year": 1945,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178906",
-      "title": "Son cartas de amor",
-      "year": 1945,
-      "imdbRating": 3.8,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036072",
-      "title": "Die keusche Sünderin",
-      "year": 1944,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0240883",
-      "title": "Ein schöner Tag",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0034823",
+    "tt0035591",
+    "tt0136247",
+    "tt0036520",
+    "tt0150475",
+    "tt0234640",
+    "tt0038251",
+    "tt0200480",
+    "tt0198721",
+    "tt0178906",
+    "tt0036072",
+    "tt0240883"
   ],
   "collections": [],
   "is_curated": true,

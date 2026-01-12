@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-concerning-one-thousand-dollars",
+      "id": "silent-concerning-one-thousand-dollars",
       "title": "Concerning One Thousand Dollars",
       "fileSize": 32364242,
-      "id": "silent-concerning-one-thousand-dollars"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-concerning-one-thousand-dollars",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 206
     }
   ],
   "metadata": {
@@ -26,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146448",
-      "title": "Krazy Kat and Ignatz Mouse at the Circus",
-      "year": 1916,
-      "imdbRating": 5.1,
-      "imdbVotes": 225,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146968",
-      "title": "Krazy Kat Goes A-Wooing",
-      "year": 1916,
-      "imdbRating": 4.7,
-      "imdbVotes": 245,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245297",
-      "title": "Mr. Nobody Holme Buys a Jitney",
-      "year": 1916,
-      "imdbRating": 4.5,
-      "imdbVotes": 146,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6373988",
-      "title": "Frau Blechnudel will Kinoschauspielerin werden",
-      "year": 1915,
-      "imdbRating": 3.9,
-      "imdbVotes": 12,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9837386",
-      "title": "Over the Top (A Battle with the Elements)",
-      "year": 1915,
-      "imdbVotes": 5,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1496006",
-      "title": "The United Snakes of America",
-      "year": 1917,
-      "imdbRating": 5.3,
-      "imdbVotes": 43,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477402",
-      "title": "The Wonders of Magnetism",
-      "year": 1915,
-      "imdbRating": 6.4,
-      "imdbVotes": 83,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1283535",
-      "title": "Venice",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt2647224",
+    "tt0146448",
+    "tt0146968",
+    "tt0938705",
+    "tt0245297",
+    "tt6373988",
+    "tt0955263",
+    "tt9837386",
+    "tt1496006",
+    "tt0477402",
+    "tt1283535",
+    "tt1223220"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Murder_with_Pictures_1936",
+      "id": "Murder_with_Pictures_1936",
       "title": "Murder with Pictures",
       "description": "Lew Ayres in a comic mystery.",
       "fileSize": 1655608644,
-      "id": "Murder_with_Pictures_1936"
+      "addedAt": "2026-01-07T00:06:38.753Z",
+      "thumbnail": "https://archive.org/services/img/Murder_with_Pictures_1936",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 26635
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=IQGQfDvvGHc",
+      "id": "IQGQfDvvGHc",
       "title": "Murder with Pictures (1936) CRIME-MYSTERY",
       "description": "Stars: Lew Ayres, Gail Patrick, Paul Kelly\n Director: Charles Barton\n\n Suspected crime boss Nate Girard beats a murder rap, and newspaper photog Kent Murdock is on the story!",
-      "id": "IQGQfDvvGHc",
+      "addedAt": "2025-12-26T23:53:57.906Z",
+      "thumbnail": "https://i.ytimg.com/vi/IQGQfDvvGHc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjgSAAoADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBX99N9FTjp8dYdtG7eMivSay3qvA",
+      "duration": 4204,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028748",
-      "title": "The Crime Nobody Saw",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038956",
-      "title": "Smooth as Silk",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030279",
-      "title": "Island in the Sky",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030057",
-      "title": "The Devil's Party",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027697",
-      "title": "Great Guy",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 1104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028433",
-      "title": "Two in the Dark",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 301,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031232",
-      "title": "Disbarred",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026416",
-      "title": "The Glass Key",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 490,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032641",
-      "title": "Island of Doomed Men",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030266",
-      "title": "Illegal Traffic",
-      "year": 1938,
-      "imdbRating": 6.1,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025499",
-      "title": "Midnight",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 1273,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038455",
-      "title": "The Dark Mirror",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 5810,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028748",
+    "tt0038956",
+    "tt0030279",
+    "tt0030057",
+    "tt0027697",
+    "tt0028433",
+    "tt0031232",
+    "tt0026416",
+    "tt0032641",
+    "tt0030266",
+    "tt0025499",
+    "tt0038455"
   ],
   "collections": [],
   "is_curated": true,

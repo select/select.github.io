@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/by_the_suns_rays",
+      "id": "by_the_suns_rays",
       "title": "By the Sun's Rays",
       "description": "Mine boss Seymour Hastings (John Davis) suspects an inside accomplice when gold shipments keep getting stolen, so he sends east for help and is sent detective Murdock MacQuarrie (John Murdock). The detective sets out before the next shipment with a posse and finds that mine clerk Lon Chaney (Frank Lawler) is using a mirror to signal the bandits that shipments have left the mine.\" Directed by Tod Browning, 1914. Film in the public domain. imdb",
       "fileSize": 171400290,
-      "id": "by_the_suns_rays"
+      "addedAt": "2026-01-07T00:07:45.165Z",
+      "thumbnail": "https://archive.org/services/img/by_the_suns_rays",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 10243
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-by-the-suns-rays",
+      "id": "silent-by-the-suns-rays",
       "title": "By the Sun's Rays",
       "fileSize": 192138979,
-      "id": "silent-by-the-suns-rays"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-by-the-suns-rays",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 187
     }
   ],
   "metadata": {
@@ -34,105 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001499",
-      "title": "The Battle",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004028",
-      "title": "The Good-for-Nothing",
-      "year": 1914,
-      "imdbRating": 4.1,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003755",
-      "title": "The Car of Death",
-      "year": 1914,
-      "imdbVotes": 10,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004209",
-      "title": "The Last of the Line",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 136,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1275552",
-      "title": "By Whose Hand",
-      "year": 1914,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12681346",
-      "title": "207",
-      "year": 2020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000355",
-      "title": "Fire!",
-      "year": 1901,
-      "imdbRating": 6.2,
-      "imdbVotes": 804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1223220",
-      "title": "Antony and Cleopatra",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1198545",
-      "title": "Blue Blood and Red",
-      "year": 1914,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003839",
-      "title": "Child of the Big City",
-      "year": 1914,
-      "imdbRating": 6.6,
-      "imdbVotes": 392,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2261397",
-      "title": "Christmas Day in the Workhouse",
-      "year": 1914,
-      "imdbRating": 5,
-      "imdbVotes": 16,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001499",
+    "tt0004028",
+    "tt0003755",
+    "tt0004209",
+    "tt1275552",
+    "tt12681346",
+    "tt0000355",
+    "tt2160081",
+    "tt1223220",
+    "tt1198545",
+    "tt0003839",
+    "tt2261397"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-adventures-of-billy",
+      "id": "silent-the-adventures-of-billy",
       "title": "The Adventures of Billy",
       "fileSize": 336330053,
-      "id": "silent-the-adventures-of-billy"
+      "addedAt": "2026-01-07T00:11:15.974Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-adventures-of-billy",
+      "language": "English",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 353
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/THEADVENTURESOFBILLY1911BiographD.W.Griffith",
+      "id": "THEADVENTURESOFBILLY1911BiographD.W.Griffith",
       "title": "THE ADVENTURES OF BILLY ( 1911) Biograph, D. W. Griffith",
       "description": "THE ADVENTURES OF BILLY (1911) Starring: Edna Foster, Donald Crisp, Joseph Graybill, Dell Henderson,  Claire McDowell, Kate Bruce, Frank Evans, W. Chrystie Miller Directed by D. W. Griffith American Mutoscope and Biograph Film Company William Thomas Sherman, wts@gunjones.com, http://www.mn-hp.com",
       "fileSize": 140021364,
-      "id": "THEADVENTURESOFBILLY1911BiographD.W.Griffith"
+      "addedAt": "2026-01-07T00:06:58.270Z",
+      "thumbnail": "https://archive.org/services/img/THEADVENTURESOFBILLY1911BiographD.W.Griffith",
+      "collection": "feature_films",
+      "downloads": 772
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001871",
-      "title": "Saved from Himself",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 61,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001284",
-      "title": "The Lesson",
-      "year": 1910,
-      "imdbRating": 4.9,
-      "imdbVotes": 53,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001510",
-      "title": "Bobby, the Coward",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001615",
-      "title": "Fisher Folks",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001499",
-      "title": "The Battle",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001701",
-      "title": "The Indian Brothers",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 80,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001733",
-      "title": "The Lily of the Tenements",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001741",
-      "title": "The Long Road",
-      "year": 1911,
-      "imdbRating": 4.4,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001949",
-      "title": "The Two Paths",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001871",
+    "tt0001284",
+    "tt0001987",
+    "tt0001510",
+    "tt0001593",
+    "tt0001615",
+    "tt0001753",
+    "tt0001499",
+    "tt0001701",
+    "tt0001733",
+    "tt0001741",
+    "tt0001949"
   ],
   "collections": [],
   "is_curated": true,

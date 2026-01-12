@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-boy-johnny-1944",
+      "id": "my-boy-johnny-1944",
       "title": "My Boy Johnny (1944)",
       "description": "In a departure from the usual Terrytoon, this short is based on predictions of things to come in the world after the end of World War II. It primarily deals with, in a comedy sense, what every \"G.I.\" Jonnny can expect when he returns home to civilian life. Watch on RetroFlix:  https://retroflix.org/my-boy-johnny-1944/",
       "fileSize": 38990957,
-      "id": "my-boy-johnny-1944"
+      "addedAt": "2026-01-07T00:09:54.333Z",
+      "thumbnail": "https://archive.org/services/img/my-boy-johnny-1944",
+      "language": "eng",
+      "year": 1944,
+      "collection": "feature_films",
+      "downloads": 82
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150279",
-      "title": "A Day in June",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149726",
-      "title": "At the Circus",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150293",
-      "title": "Dear Old Switzerland",
-      "year": 1944,
-      "imdbRating": 4.4,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150785",
-      "title": "The Green Line",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150879",
-      "title": "The Helicopter",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153363",
-      "title": "The Two Barbers",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151565",
-      "title": "Mighty Mouse and the Wolf",
-      "year": 1945,
-      "imdbRating": 6.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152406",
-      "title": "Shipyard Symphony",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147188",
-      "title": "The Port of Missing Mice",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152445",
-      "title": "The Silver Streak",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153985",
-      "title": "Yokel Ducks Makes Good",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149801",
-      "title": "Barnyard Waac",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150279",
+    "tt0149726",
+    "tt0150293",
+    "tt0150785",
+    "tt0150879",
+    "tt0153363",
+    "tt0151565",
+    "tt0152406",
+    "tt0147188",
+    "tt0152445",
+    "tt0153985",
+    "tt0149801"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kindly-scram-1943",
+      "id": "kindly-scram-1943",
       "title": "Kindly Scram (1943)",
       "description": "A bill poster encounters a mean bull. Watch on RetroFlix:  https://retroflix.org/kindly-scram-1943/",
       "fileSize": 80215104,
-      "id": "kindly-scram-1943"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/kindly-scram-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 72
     }
   ],
   "metadata": {
@@ -27,113 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0150118",
-      "title": "Cholly Polly",
-      "year": 1942,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036015",
-      "title": "Hop and Go",
-      "year": 1943,
-      "imdbRating": 5.2,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148922",
-      "title": "Slay It with Flowers",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150052",
-      "title": "The Case of the Screaming Bishop",
-      "year": 1944,
-      "imdbRating": 5,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149719",
-      "title": "As the Fly Flies",
-      "year": 1944,
-      "imdbRating": 4.2,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0162226",
-      "title": "Catnipped",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 7,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148009",
-      "title": "Concerto in B Flat Minor",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034654",
-      "title": "Ding Dog Daddy",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150352",
-      "title": "Dog Meets Dog",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150724",
-      "title": "Giddy-Yapping",
-      "year": 1944,
-      "imdbRating": 4.8,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168114",
-      "title": "Out of the Frying Pan Into the Firing Line",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 299,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149001",
-      "title": "Song of Victory",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0150118",
+    "tt0036015",
+    "tt0148922",
+    "tt0150052",
+    "tt0149719",
+    "tt0162226",
+    "tt0148009",
+    "tt0034654",
+    "tt0150352",
+    "tt0150724",
+    "tt0168114",
+    "tt0149001"
   ],
   "collections": [],
   "is_curated": true,

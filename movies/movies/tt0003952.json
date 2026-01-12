@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fantmas-the-false-magistrate",
+      "id": "silent-fantmas-the-false-magistrate",
       "title": "Fantômas: The False Magistrate",
       "fileSize": 6131133897,
-      "id": "silent-fantmas-the-false-magistrate"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fantmas-the-false-magistrate",
+      "language": "French",
+      "year": 1914,
+      "collection": "feature_films",
+      "downloads": 1034
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002844",
-      "title": "Fantômas: In the Shadow of the Guillotine",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 2634,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003165",
-      "title": "Fantômas: The Dead Man Who Killed",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 1306,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209437",
-      "title": "Le trust, ou les batailles de l'argent",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003643",
-      "title": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 1502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004555",
-      "title": "Salomy Jane",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208496",
-      "title": "La tare",
-      "year": 1911,
-      "imdbRating": 5.8,
-      "imdbVotes": 133,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173837",
-      "title": "Filibus",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 431,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004872",
-      "title": "Alias Jimmy Valentine",
-      "year": 1915,
-      "imdbRating": 6.6,
-      "imdbVotes": 247,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003883",
-      "title": "L'enfant de Paris",
-      "year": 1913,
-      "imdbRating": 7.2,
-      "imdbVotes": 469,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005960",
-      "title": "The Regeneration",
-      "year": 1915,
-      "imdbRating": 6.8,
-      "imdbVotes": 1464,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0002844",
+    "tt0003165",
+    "tt0207954",
+    "tt0209437",
+    "tt0006206",
+    "tt0003643",
+    "tt0004555",
+    "tt0208496",
+    "tt0173837",
+    "tt0004872",
+    "tt0003883",
+    "tt0005960"
   ],
   "collections": [],
   "is_curated": true,

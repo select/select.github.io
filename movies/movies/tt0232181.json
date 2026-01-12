@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-new-york-city-ghetto-fish-market",
+      "id": "silent-new-york-city-ghetto-fish-market",
       "title": "New York City 'Ghetto' Fish Market",
       "fileSize": 71405058,
-      "id": "silent-new-york-city-ghetto-fish-market"
+      "addedAt": "2026-01-07T00:11:07.410Z",
+      "thumbnail": "https://archive.org/services/img/silent-new-york-city-ghetto-fish-market",
+      "year": 1903,
+      "collection": "feature_films",
+      "downloads": 473
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0366268",
-      "title": "Burning of Durland's Riding Academy",
-      "year": 1902,
-      "imdbRating": 5.1,
-      "imdbVotes": 181,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233479",
-      "title": "Coney Island at Night",
-      "year": 1905,
-      "imdbRating": 6,
-      "imdbVotes": 379,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232263",
-      "title": "Pan-American Exposition by Night",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 570,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231523",
-      "title": "Electrocuting an Elephant",
-      "year": 1903,
-      "imdbRating": 2.7,
-      "imdbVotes": 1999,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477387",
-      "title": "Turning the Tables",
-      "year": 1903,
-      "imdbRating": 4.7,
-      "imdbVotes": 158,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0285265",
-      "title": "The Kiss",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 477,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0273542",
-      "title": "Dog Factory",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 443,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245125",
-      "title": "Fun in a Bakery Shop",
-      "year": 1902,
-      "imdbRating": 5.9,
-      "imdbVotes": 430,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231758",
-      "title": "How a French Nobleman Got a Wife Through the 'New York Herald' Personal Columns",
-      "year": 1904,
-      "imdbRating": 5.3,
-      "imdbVotes": 287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235568",
-      "title": "Maniac Chase",
-      "year": 1904,
-      "imdbRating": 5.2,
-      "imdbVotes": 158,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477366",
-      "title": "Rector's to Claremont",
-      "year": 1904,
-      "imdbRating": 4.6,
-      "imdbVotes": 140,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0366268",
+    "tt0233479",
+    "tt0232263",
+    "tt0231523",
+    "tt0477387",
+    "tt0000471",
+    "tt0285265",
+    "tt0273542",
+    "tt0245125",
+    "tt0231758",
+    "tt0235568",
+    "tt0477366"
   ],
   "collections": [],
   "is_curated": true,

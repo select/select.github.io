@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/propiedad-1962",
+      "id": "propiedad-1962",
       "title": "Propiedad (1962)",
       "description": "Propiedad  es una película en blanco y negro de  Argentina  dirigida por  Mario Soffici  sobre su propio guion escrito en colaboración con  Jaime Potenze  y  Dalmiro Sáenz  según el cuento homónimo de este que se estrenó el 13 de junio de 1962 y que tuvo como protagonistas a  Graciela Borges ,  Mario Soffici ,  Nathán Pinzón  y  Zelmar Gueñol . Fue el último film que dirigió Soffici.(Wikipedia) Sinopsis Una hermosa joven que es criticada por las viejas chismosas del pueblo y defendida por un sacerdote generoso, se relaciona amorosamente con un joven huérfano. Reparto Graciela Borges Mario Soffici Nathán Pinzón Zelmar Gueñol Horacio Nicolai Juan Carlos Galván Tato Bores Carlos Gómez Nelly Beltrán Maurice Jouvet Carmen Llambí",
       "fileSize": 4467300073,
-      "id": "propiedad-1962"
+      "addedAt": "2026-01-07T00:10:21.539Z",
+      "thumbnail": "https://archive.org/services/img/propiedad-1962",
+      "language": "spa",
+      "year": 1962,
+      "collection": "feature_films",
+      "downloads": 60
     }
   ],
   "metadata": {
@@ -26,107 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0200726",
-      "title": "Héroes sin fama",
-      "year": 1940,
-      "imdbRating": 6.7,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201295",
-      "title": "Vacaciones en el otro mundo",
-      "year": 1942,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178316",
-      "title": "Chafalonías",
-      "year": 1960,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056693",
-      "title": "Wild Guitar",
-      "year": 1962,
-      "imdbRating": 4.6,
-      "imdbVotes": 1098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054698",
-      "title": "Breakfast at Tiffany's",
-      "year": 1961,
-      "imdbRating": 7.5,
-      "imdbVotes": 201775,
-      "language": "English, Portuguese, French, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057251",
-      "title": "Lilies of the Field",
-      "year": 1963,
-      "imdbRating": 7.5,
-      "imdbVotes": 14784,
-      "language": "English, German, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184674",
-      "title": "Lindor Covas, el cimarrón",
-      "year": 1963,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054709",
-      "title": "Pigs and Battleships",
-      "year": 1961,
-      "imdbRating": 7.4,
-      "imdbVotes": 2663,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0411819",
-      "title": "Rupture",
-      "year": 1961,
-      "imdbRating": 7,
-      "imdbVotes": 664,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057643",
-      "title": "The Executioner",
-      "year": 1963,
-      "imdbRating": 7.9,
-      "imdbVotes": 7566,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192677",
-      "title": "Tiernas ilusiones",
-      "year": 1961,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200742",
-      "title": "Isla brava",
-      "year": 1958,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0200726",
+    "tt0201295",
+    "tt0178316",
+    "tt0056693",
+    "tt0054698",
+    "tt0057251",
+    "tt0184674",
+    "tt0054709",
+    "tt0411819",
+    "tt0057643",
+    "tt0192677",
+    "tt0200742"
   ],
   "collections": [],
   "is_curated": true,

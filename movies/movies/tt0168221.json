@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-thrifty-pig-1941",
+      "id": "the-thrifty-pig-1941",
       "title": "The Thrifty Pig (1941)",
       "description": "The Three Little Pigs sell Canadian war bonds. Watch on RetroFlix:  https://retroflix.org/the-thrifty-pig-1941/",
       "fileSize": 94405737,
-      "id": "the-thrifty-pig-1941"
+      "addedAt": "2026-01-07T00:12:33.205Z",
+      "thumbnail": "https://archive.org/services/img/the-thrifty-pig-1941",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 179
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033892",
-      "title": "Meet John Doughboy",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 407,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148665",
-      "title": "Red Riding Hood Rides Again",
-      "year": 1941,
-      "imdbRating": 7,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034376",
-      "title": "We, the Animals - Squeak!",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034631",
-      "title": "Daffy's Southern Exposure",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150352",
-      "title": "Dog Meets Dog",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148496",
-      "title": "Mouse Meets Lion",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035288",
-      "title": "Saps in Chaps",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148628",
-      "title": "The Pooch Parade",
-      "year": 1940,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151251",
-      "title": "Krazy's Bear Tale",
-      "year": 1939,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031805",
-      "title": "Polar Pals",
-      "year": 1939,
-      "imdbRating": 6.6,
-      "imdbVotes": 367,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031812",
-      "title": "Porky the Giant Killer",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031816",
-      "title": "Porky's Tire Trouble",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 215,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033892",
+    "tt0148665",
+    "tt0034376",
+    "tt0034631",
+    "tt0150352",
+    "tt0148496",
+    "tt0035288",
+    "tt0148628",
+    "tt0151251",
+    "tt0031805",
+    "tt0031812",
+    "tt0031816"
   ],
   "collections": [],
   "is_curated": true,

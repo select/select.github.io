@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LouisianaStory",
+      "id": "LouisianaStory",
       "title": "Louisiana Story",
       "description": "A young Cajun boy named Alexander Napolean Ulysses Latour (Joseph Boudreaux) spends his time on a Louisiana bayou. There he plays, fishes and hunts, worrying only about the alligators which infest its waters. The boy's innocent routine changes forever when his father (Lionel Le Blanc) signs a lease agreement with an oil company which brings a derrick into their corner of the bayou.",
       "fileSize": 1926909788,
-      "id": "LouisianaStory"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/LouisianaStory",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 73158
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=BOfHoOwWsfQ",
+      "id": "BOfHoOwWsfQ",
       "title": "Louisiana Story (1948) Adventure, Drama Full Length Movie",
       "description": "The idyllic life of a young Cajun boy and his pet raccoon is disrupted when the tranquility of the bayou is broken by an oil well drilling near his home.                                  \n\nDirector: Robert Flaherty\nWriter: Frances H. Flaherty\nStars:  Joseph Boudreaux, Lionel Le Blanc, E. Bienvenu\nGenre:  Adventure, Drama \nCCC fun fact: Financed by Standard Oil Company with a budget of $258,000.\n\nCCC CHAPTERS: in the general comments, tell us your favorite scene or line in the movie, with a time-stamp & we will add it here!\n00:00 Full Length Movie\n03:30 Huckleberry Finn of the bayou\n09:52 Gator huntin'\n13:50 Riverside life\n21:27 The drilling begins\n22:42 Meeting the new neighbors \n27:11 Working the drill\n\n@CultCinemaClassics:\nhttps://www.facebook.com/CultCinemaClassics \nhttps://www.tiktok.com/@cultcinemaclassics\nhttps://www.instagram.com/cultcinemaclassics",
-      "id": "BOfHoOwWsfQ",
+      "addedAt": "2025-12-27T00:46:20.163Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/BOfHoOwWsfQ/maxresdefault.webp?v=62b5b6b8",
+      "duration": 4706,
+      "language": "en",
+      "year": 1948,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -36,114 +46,18 @@
     "Awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040797",
-      "title": "16 Fathoms Deep",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040720",
-      "title": "Rachel and the Stranger",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 2821,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040269",
-      "title": "Daredevils of the Clouds",
-      "year": 1948,
-      "imdbRating": 6.1,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040567",
-      "title": "Man-Eater of Kumaon",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040616",
-      "title": "Mr. Reckless",
-      "year": 1948,
-      "imdbRating": 5.3,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040764",
-      "title": "Sealed Verdict",
-      "year": 1948,
-      "imdbRating": 6.6,
-      "imdbVotes": 79,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040552",
-      "title": "The Loves of Carmen",
-      "year": 1948,
-      "imdbRating": 6.1,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041715",
-      "title": "Omoo-Omoo the Shark God",
-      "year": 1949,
-      "imdbRating": 3.4,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041426",
-      "title": "The Great Dan Patch",
-      "year": 1949,
-      "imdbRating": 5.8,
-      "imdbVotes": 269,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041175",
-      "title": "The Big Cat",
-      "year": 1949,
-      "imdbRating": 5.5,
-      "imdbVotes": 279,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041100",
-      "title": "Air Hostess",
-      "year": 1949,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041918",
-      "title": "State Department: File 649",
-      "year": 1949,
-      "imdbRating": 4.8,
-      "imdbVotes": 212,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040797",
+    "tt0040720",
+    "tt0040269",
+    "tt0040567",
+    "tt0040616",
+    "tt0040764",
+    "tt0040552",
+    "tt0041715",
+    "tt0041426",
+    "tt0041175",
+    "tt0041100",
+    "tt0041918"
   ],
   "collections": [],
   "is_curated": true,

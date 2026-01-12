@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/on-a-clear-day-you-can-see-forever-1970",
+      "id": "on-a-clear-day-you-can-see-forever-1970",
       "title": "On a Clear Day You Can See Forever (1970)",
       "description": "On a Clear Day You Can See Forever (1970)",
       "fileSize": 1960107709,
-      "id": "on-a-clear-day-you-can-see-forever-1970"
+      "addedAt": "2026-01-07T00:10:02.902Z",
+      "thumbnail": "https://archive.org/services/img/on-a-clear-day-you-can-see-forever-1970",
+      "language": "eng",
+      "year": 1970,
+      "collection": "feature_films",
+      "downloads": 152
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043526",
-      "title": "Father's Little Dividend",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 4427,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037059",
-      "title": "Meet Me in St. Louis",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 29554,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062994",
-      "title": "Funny Girl",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 26170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0066495",
-      "title": "The Twelve Chairs",
-      "year": 1970,
-      "imdbRating": 6.4,
-      "imdbVotes": 7268,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0029322",
-      "title": "Nothing Sacred",
-      "year": 1937,
-      "imdbRating": 6.8,
-      "imdbVotes": 7569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035938",
-      "title": "The Ghost and the Guest",
-      "year": 1943,
-      "imdbRating": 4.5,
-      "imdbVotes": 286,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026854",
-      "title": "The Passing of the Third Floor Back",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182701",
-      "title": "Amalio Reyes, un hombre",
-      "year": 1970,
-      "imdbRating": 5,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065466",
-      "title": "Beyond the Valley of the Dolls",
-      "year": 1970,
-      "imdbRating": 6.1,
-      "imdbVotes": 12310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194709",
-      "title": "Blum",
-      "year": 1970,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065611",
-      "title": "Darling Lili",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 2584,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092850",
-      "title": "Deadtime Stories",
-      "year": 1986,
-      "imdbRating": 4.7,
-      "imdbVotes": 2761,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0043526",
+    "tt0037059",
+    "tt0062994",
+    "tt0066495",
+    "tt0029322",
+    "tt0035938",
+    "tt0026854",
+    "tt0182701",
+    "tt0065466",
+    "tt0194709",
+    "tt0065611",
+    "tt0092850"
   ],
   "collections": [],
   "is_curated": true,

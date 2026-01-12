@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-lagent-a-le-bras-long",
+      "id": "silent-lagent-a-le-bras-long",
       "title": "L'agent a le bras long",
       "fileSize": 96060206,
-      "id": "silent-lagent-a-le-bras-long"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-lagent-a-le-bras-long",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 239
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0480642",
-      "title": "Calino bureaucrate",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 34,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0480212",
-      "title": "Le tic",
-      "year": 1907,
-      "imdbRating": 5.7,
-      "imdbVotes": 35,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249454",
-      "title": "A Race for a Monkey",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1845834",
-      "title": "Medium Wanted as Son-in-Law",
-      "year": 1909,
-      "imdbRating": 4.7,
-      "imdbVotes": 8,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0855966",
-      "title": "Pickpock ne craint pas les entraves",
-      "year": 1909,
-      "imdbRating": 6.7,
-      "imdbVotes": 214,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000682",
-      "title": "A Fantasy",
-      "year": 1908,
-      "imdbRating": 6.9,
-      "imdbVotes": 2950,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449438",
-      "title": "A New Way of Traveling",
-      "year": 1908,
-      "imdbRating": 5.4,
-      "imdbVotes": 26,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477378",
-      "title": "A Suburbanite's Ingenious Alarm",
-      "year": 1908,
-      "imdbRating": 5.2,
-      "imdbVotes": 120,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257474",
-      "title": "The Runaway Horse",
-      "year": 1908,
-      "imdbRating": 6.2,
-      "imdbVotes": 472,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    }
+    "tt0480642",
+    "tt0480212",
+    "tt0432623",
+    "tt0249454",
+    "tt1845834",
+    "tt0855966",
+    "tt0131024",
+    "tt0000682",
+    "tt0449438",
+    "tt0477378",
+    "tt0139938",
+    "tt0257474"
   ],
   "collections": [],
   "is_curated": true,

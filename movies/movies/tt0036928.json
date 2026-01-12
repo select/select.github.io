@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hot-rhythm-1944-",
+      "id": "hot-rhythm-1944-",
       "title": "Hot Rhythm (1944)",
       "description": "Robert Lowery",
       "fileSize": 1281684537,
-      "id": "hot-rhythm-1944-"
+      "addedAt": "2026-01-07T00:08:46.613Z",
+      "thumbnail": "https://archive.org/services/img/hot-rhythm-1944-",
+      "collection": "feature_films",
+      "downloads": 918
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0207407",
-      "title": "Detective Kitty O'Day",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 331,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036382",
-      "title": "Spotlight Scandals",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036861",
-      "title": "Ghost Catchers",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036922",
-      "title": "Hollywood Canteen",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 2553,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035067",
-      "title": "The Miracle Kid",
-      "year": 1941,
-      "imdbRating": 5.6,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036189",
-      "title": "The Mystery of the 13th Guest",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 725,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032799",
-      "title": "Misbehaving Husbands",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 171,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034730",
-      "title": "Fiesta",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 150,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034115",
-      "title": "Road Show",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 540,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033749",
-      "title": "Ice-Capades",
-      "year": 1941,
-      "imdbRating": 5.4,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039799",
-      "title": "Sarge Goes to College",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035939",
-      "title": "Ghosts on the Loose",
-      "year": 1943,
-      "imdbRating": 5,
-      "imdbVotes": 1583,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    }
+    "tt0207407",
+    "tt0036382",
+    "tt0036861",
+    "tt0036922",
+    "tt0035067",
+    "tt0036189",
+    "tt0032799",
+    "tt0034730",
+    "tt0034115",
+    "tt0033749",
+    "tt0039799",
+    "tt0035939"
   ],
   "collections": [],
   "is_curated": true,

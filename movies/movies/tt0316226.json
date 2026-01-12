@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/The_Martyred_Presidents_1901",
+      "id": "The_Martyred_Presidents_1901",
       "title": "The Martyred Presidents - Lincoln, Garfield, McKinley",
       "description": "From an Edison film company catalog: \"The scene opens with a beautiful woman who represents Columbia seated at the altar of Justice. As if from out of space there slowly appears a perfect and lifelike picture of Abraham Lincoln. The forming of the picture is first noticed by the appearance of what seems to be a mere spot on the front of the altar. This spot slowly enlarges and is focused into shape, until, to the amazement of the audience, the face of the great emancipator is clearly shown. President Lincoln's likeness is allowed to remain upon the altar just long enough for recognition, when, in the same mysterious manner that it appeared, it slowly fades and in its place their grows the picture of President Garfield. This in a like manner fades away, and again as out of the dim distance comes the picture of our great martyred President, William McKinley. The tableau is then dissolved into a picture of an assassin kneeling before the throne of Justice. Here the tableau ends, leaving an impression of mingled sorrow and sublimity upon the audience.\" A film in Library of Congress Motion Picture, Broadcasting and Recorded Sound Division",
       "fileSize": 26321358,
-      "id": "The_Martyred_Presidents_1901"
+      "addedAt": "2026-01-07T00:07:11.885Z",
+      "thumbnail": "https://archive.org/services/img/The_Martyred_Presidents_1901",
+      "year": 1901,
+      "collection": "feature_films",
+      "downloads": 8192
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000346",
-      "title": "Another Job for the Undertaker",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 250,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232263",
-      "title": "Pan-American Exposition by Night",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 570,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0348794",
-      "title": "Why Mr. Nation Wants a Divorce",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 115,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000301",
-      "title": "Faust and Marguerite",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 437,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0366268",
-      "title": "Burning of Durland's Riding Academy",
-      "year": 1902,
-      "imdbRating": 5.1,
-      "imdbVotes": 181,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245125",
-      "title": "Fun in a Bakery Shop",
-      "year": 1902,
-      "imdbRating": 5.9,
-      "imdbVotes": 430,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000321",
-      "title": "The Mystic Swing",
-      "year": 1900,
-      "imdbRating": 4.9,
-      "imdbVotes": 229,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0232181",
-      "title": "New York City 'Ghetto' Fish Market",
-      "year": 1903,
-      "imdbRating": 5.1,
-      "imdbVotes": 255,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477387",
-      "title": "Turning the Tables",
-      "year": 1903,
-      "imdbRating": 4.7,
-      "imdbVotes": 158,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231868",
-      "title": "Kansas Saloon Smashers",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 175,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0273542",
-      "title": "Dog Factory",
-      "year": 1904,
-      "imdbRating": 5.6,
-      "imdbVotes": 443,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000346",
+    "tt0232263",
+    "tt0348794",
+    "tt0000301",
+    "tt0366268",
+    "tt0245125",
+    "tt0000321",
+    "tt0232181",
+    "tt0477387",
+    "tt0000471",
+    "tt0231868",
+    "tt0273542"
   ],
   "collections": [],
   "is_curated": true,

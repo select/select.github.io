@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-little-girl-who-lives-down-the-lane__jodie-foster-1976",
+      "id": "the-little-girl-who-lives-down-the-lane__jodie-foster-1976",
       "title": "The Little Girl Who Lives Down the Lane",
       "description": "https://web.archive.org/web/20230127065034/https://en.wikipedia.org/wiki/The_Little_Girl_Who_Lives_Down_the_Lane",
       "fileSize": 2099026692,
-      "id": "the-little-girl-who-lives-down-the-lane__jodie-foster-1976"
+      "addedAt": "2026-01-07T00:12:10.591Z",
+      "thumbnail": "https://archive.org/services/img/the-little-girl-who-lives-down-the-lane__jodie-foster-1976",
+      "language": "eng",
+      "year": 1976,
+      "collection": "feature_films",
+      "downloads": 60567
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "2 wins & 4 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0071722",
-      "title": "A Knife for the Ladies",
-      "year": 1974,
-      "imdbRating": 4.6,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0081250",
-      "title": "The Night of the Hunted",
-      "year": 1980,
-      "imdbRating": 5.5,
-      "imdbVotes": 2273,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069341",
-      "title": "Tales from the Crypt",
-      "year": 1972,
-      "imdbRating": 6.8,
-      "imdbVotes": 13808,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3778010",
-      "title": "Dead Awake",
-      "year": 2016,
-      "imdbRating": 4.6,
-      "imdbVotes": 3652,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1881060",
-      "title": "Static",
-      "year": 2012,
-      "imdbRating": 5.3,
-      "imdbVotes": 3645,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0032406",
-      "title": "Chamber of Horrors",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 731,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026230",
-      "title": "Condemned to Live",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074342",
-      "title": "Death Rage",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 935,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037711",
-      "title": "Fog Island",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 1065,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038975",
-      "title": "The Spiral Staircase",
-      "year": 1946,
-      "imdbRating": 7.3,
-      "imdbVotes": 11698,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067341",
-      "title": "Let's Scare Jessica to Death",
-      "year": 1971,
-      "imdbRating": 6.4,
-      "imdbVotes": 9632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026759",
-      "title": "Phantom Ship",
-      "year": 1935,
-      "imdbRating": 5.4,
-      "imdbVotes": 1092,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0071722",
+    "tt0081250",
+    "tt0069341",
+    "tt3778010",
+    "tt1881060",
+    "tt0032406",
+    "tt0026230",
+    "tt0074342",
+    "tt0037711",
+    "tt0038975",
+    "tt0067341",
+    "tt0026759"
   ],
   "collections": [
     {

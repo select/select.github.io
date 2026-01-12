@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1938-das-verlegenheitskind-ida-wust-josef-sieber-paul-klinger",
+      "id": "1938-das-verlegenheitskind-ida-wust-josef-sieber-paul-klinger",
       "title": "1938 Das Verlegenheitskind ( Ida Wüst, Josef Sieber, Paul Klinger)",
       "description": "Film aus dem deutschen dritten Reich von 1938. Das Verlegenheitskind.  U.a mit Ida Wüst und Paul Klinger ",
       "fileSize": 405078515,
-      "id": "1938-das-verlegenheitskind-ida-wust-josef-sieber-paul-klinger"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1938-das-verlegenheitskind-ida-wust-josef-sieber-paul-klinger",
+      "language": "ger",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 117
     }
   ],
   "metadata": {
@@ -26,106 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028548",
-      "title": "Abenteuer in Warschau",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030327",
-      "title": "Kleines Bezirksgericht",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 48,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033248",
-      "title": "Weltrekord im Seitensprung",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029853",
-      "title": "Alf's Button Afloat",
-      "year": 1938,
-      "imdbRating": 5.5,
-      "imdbVotes": 144,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029939",
-      "title": "Born to Be Wild",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0483126",
-      "title": "Das Protektionskind",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029045",
-      "title": "Ihr Leibhusar",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0451808",
-      "title": "Der Mann, der nicht nein sagen kann",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030425",
-      "title": "Der Maulkorb",
-      "year": 1938,
-      "imdbRating": 7.1,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030527",
-      "title": "Der Optimist",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030579",
-      "title": "Die Pfingstorgel",
-      "year": 1938,
-      "imdbRating": 2.8,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030148",
-      "title": "Fortsetzung folgt",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0028548",
+    "tt0030327",
+    "tt0033248",
+    "tt0029853",
+    "tt0029939",
+    "tt0483126",
+    "tt0029045",
+    "tt0451808",
+    "tt0030425",
+    "tt0030527",
+    "tt0030579",
+    "tt0030148"
   ],
   "collections": [],
   "is_curated": true,

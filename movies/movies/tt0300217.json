@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-move-on",
+      "id": "silent-move-on",
       "title": "Move On",
       "fileSize": 137057039,
-      "id": "silent-move-on"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-move-on",
+      "year": 1903,
+      "collection": "feature_films",
+      "downloads": 323
     }
   ],
   "metadata": {
@@ -26,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0419726",
-      "title": "Emigrants Landing at Ellis Island",
-      "year": 1903,
-      "imdbRating": 5.4,
-      "imdbVotes": 258,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0308284",
-      "title": "A Frontier Flirtation; or, How the Tenderfoot Won Out",
-      "year": 1903,
-      "imdbRating": 4.6,
-      "imdbVotes": 104,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2585250",
-      "title": "Happy Hooligan",
-      "year": 1903,
-      "imdbRating": 4.8,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000450",
-      "title": "La main du professeur Hamilton ou le roi des dollars",
-      "year": 1903,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0777934",
-      "title": "Man Overboard! 'Indiana'",
-      "year": 1903,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257186",
-      "title": "Skyscrapers of New York City, from the North River",
-      "year": 1903,
-      "imdbRating": 5.9,
-      "imdbVotes": 591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445338",
-      "title": "The Dude and the Burglars",
-      "year": 1903,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256774",
-      "title": "The Georgetown Loop (Colorado)",
-      "year": 1903,
-      "imdbRating": 6.1,
-      "imdbVotes": 269,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0441389",
-      "title": "Native Women Washing Clothes at St. Vincent, B.W.I.",
-      "year": 1903,
-      "imdbRating": 3.5,
-      "imdbVotes": 56,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0472673",
-      "title": "The American Soldier in Love and War: Number 2",
-      "year": 1903,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0472903",
-      "title": "A Scrap in Black and White",
-      "year": 1903,
-      "imdbRating": 5.1,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454994",
-      "title": "Akt-Skulpturen. Studienfilm für bildende Künstler",
-      "year": 1903,
-      "imdbRating": 6.3,
-      "imdbVotes": 271,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0419726",
+    "tt0308284",
+    "tt2585250",
+    "tt0000450",
+    "tt0777934",
+    "tt0257186",
+    "tt0445338",
+    "tt0256774",
+    "tt0441389",
+    "tt0472673",
+    "tt0472903",
+    "tt0454994"
   ],
   "collections": [],
   "is_curated": true,

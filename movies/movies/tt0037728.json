@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/GangstersDan",
+      "id": "GangstersDan",
       "title": "Gangster's Den",
       "description": "Black (George Chesebro) is after both Taylor's (Karl Hackett) saloon and the Lane (Sydney Logan) ranch. Fuzzy (Al St. John) takes the gold from his and Billy's (Buster Crabbe) mine and buys Taylor's saloon. This puts him and Billy in conflict with Black and his gang.",
       "fileSize": 1646861839,
-      "id": "GangstersDan"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/GangstersDan",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 25850
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/GangstersDen1945",
+      "id": "GangstersDen1945",
       "title": "Gangster's Den (1945)",
       "description": "Gangster's Den (1945) PD - No copyright renewal",
       "fileSize": 1487506364,
-      "id": "GangstersDen1945"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/GangstersDen1945",
+      "collection": "feature_films",
+      "downloads": 2248
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036844",
-      "title": "Fuzzy Settles Down",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037142",
-      "title": "Oath of Vengeance",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037464",
-      "title": "Wild Horse Phantom",
-      "year": 1944,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038078",
-      "title": "Shadows of Death",
-      "year": 1945,
-      "imdbRating": 5.9,
-      "imdbVotes": 101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037779",
-      "title": "His Brother's Ghost",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035162",
-      "title": "Outlaws of Boulder Pass",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035804",
+    "tt0035723",
+    "tt0035908",
+    "tt0036074",
+    "tt0035106",
+    "tt0036844",
+    "tt0037142",
+    "tt0037464",
+    "tt0033391",
+    "tt0038078",
+    "tt0037779",
+    "tt0035162"
   ],
   "collections": [],
   "is_curated": true,

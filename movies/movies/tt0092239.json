@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-worst-witch-1986_202304",
+      "id": "the-worst-witch-1986_202304",
       "title": "The Worst Witch (1986)",
       "description": "The Worst Witch is a 1986 British musical fantasy television film based on the 1974 children's book of the same name by Jill Murphy. Starring Fairuza Balk, Tim Curry, and Diana Rigg. ",
       "fileSize": 1824202633,
-      "id": "the-worst-witch-1986_202304"
+      "addedAt": "2026-01-07T00:12:33.207Z",
+      "thumbnail": "https://archive.org/services/img/the-worst-witch-1986_202304",
+      "language": "eng",
+      "year": 1986,
+      "collection": "feature_films",
+      "downloads": 16848
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "1 win & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0036696",
-      "title": "The Canterville Ghost",
-      "year": 1944,
-      "imdbRating": 6.9,
-      "imdbVotes": 3442,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0044762",
-      "title": "Jack and the Beanstalk",
-      "year": 1952,
-      "imdbRating": 5.8,
-      "imdbVotes": 3741,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0262883",
-      "title": "Le voyage dans la lune",
-      "year": 1986,
-      "imdbRating": 7.7,
-      "imdbVotes": 343,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029201",
-      "title": "The Man Who Could Work Miracles",
-      "year": 1936,
-      "imdbRating": 6.9,
-      "imdbVotes": 1563,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040068",
-      "title": "Abbott and Costello Meet Frankenstein",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 20804,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092850",
-      "title": "Deadtime Stories",
-      "year": 1986,
-      "imdbRating": 4.7,
-      "imdbVotes": 2761,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043562",
-      "title": "Francis Goes to the Races",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 580,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046995",
-      "title": "Francis Joins the WACS",
-      "year": 1954,
-      "imdbRating": 6.2,
-      "imdbVotes": 502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199057",
-      "title": "Los superagentes contra los fantasmas",
-      "year": 1986,
-      "imdbRating": 3.5,
-      "imdbVotes": 28,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024852",
-      "title": "March of the Wooden Soldiers",
-      "year": 1934,
-      "imdbRating": 7.1,
-      "imdbVotes": 7666,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0780126",
-      "title": "Re-Animated",
-      "year": 2006,
-      "imdbRating": 2.8,
-      "imdbVotes": 784,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0440877",
-      "title": "Tischlein deck dich, Eselein streck dich, Knüppel aus dem Sack",
-      "year": 1921,
-      "imdbRating": 6.6,
-      "imdbVotes": 50,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    }
+    "tt0036696",
+    "tt0044762",
+    "tt0262883",
+    "tt0029201",
+    "tt0040068",
+    "tt0092850",
+    "tt0043562",
+    "tt0046995",
+    "tt0199057",
+    "tt0024852",
+    "tt0780126",
+    "tt0440877"
   ],
   "collections": [],
   "is_curated": true,

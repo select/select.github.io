@@ -6,26 +6,42 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose",
+      "id": "1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose",
       "title": "1952 - Ruby Gentry - Pasión bajo la niebla - King Vidor - VOSE",
       "description": "For Academic / Educational Use Only",
       "fileSize": 554396749,
-      "id": "1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 885
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose_202010",
+      "id": "1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose_202010",
       "title": "1952 - Ruby Gentry - Pasión bajo la niebla- King Vidor - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 554399342,
-      "id": "1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose_202010"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1952-ruby-gentry-pasion-bajo-la-niebla-king-vidor-vose_202010",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 1805
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ruby-gentry-1952",
+      "id": "ruby-gentry-1952",
       "title": "Ruby Gentry (1952)",
       "description": "A sexy but poor young girl marries a rich man she doesn't love, but carries a torch for another man. Watch on RetroFlix:  https://retroflix.org/ruby-gentry-1952/",
       "fileSize": 796658889,
-      "id": "ruby-gentry-1952"
+      "addedAt": "2026-01-07T00:10:40.950Z",
+      "thumbnail": "https://archive.org/services/img/ruby-gentry-1952",
+      "language": "eng",
+      "year": 1952,
+      "collection": "feature_films",
+      "downloads": 147
     }
   ],
   "metadata": {
@@ -43,115 +59,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0049934",
-      "title": "War and Peace",
-      "year": 1956,
-      "imdbRating": 6.7,
-      "imdbVotes": 11288,
-      "language": "English, Russian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022689",
-      "title": "Bird of Paradise",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1646,
-      "language": "English, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025610",
-      "title": "Our Daily Bread",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 2233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022436",
-      "title": "Street Scene",
-      "year": 1931,
-      "imdbRating": 7.6,
-      "imdbVotes": 2176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018806",
-      "title": "The Crowd",
-      "year": 1928,
-      "imdbRating": 8.1,
-      "imdbVotes": 9436,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015498",
-      "title": "Wild Oranges",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 578,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042513",
-      "title": "Gone to Earth",
-      "year": 1950,
-      "imdbRating": 6.9,
-      "imdbVotes": 1580,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044330",
-      "title": "Affair in Monte Carlo",
-      "year": 1952,
-      "imdbRating": 5.1,
-      "imdbVotes": 196,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044509",
-      "title": "Come Back, Little Sheba",
-      "year": 1952,
-      "imdbRating": 7.5,
-      "imdbVotes": 5654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044937",
-      "title": "My Cousin Rachel",
-      "year": 1952,
-      "imdbRating": 7,
-      "imdbVotes": 3599,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0049934",
+    "tt0022689",
+    "tt0025610",
+    "tt0022436",
+    "tt0018806",
+    "tt0016251",
+    "tt0015498",
+    "tt0019258",
+    "tt0042513",
+    "tt0044330",
+    "tt0044509",
+    "tt0044937"
   ],
   "collections": [],
   "is_curated": true,

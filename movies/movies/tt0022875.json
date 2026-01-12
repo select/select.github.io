@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/false-faces-1932",
+      "id": "false-faces-1932",
       "title": "False Faces (1932)",
       "description": "Lowell Sherman",
       "fileSize": 1160054823,
-      "id": "false-faces-1932"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/false-faces-1932",
+      "collection": "feature_films",
+      "downloads": 243
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021092",
-      "title": "The Pay-Off",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024548",
-      "title": "She Done Him Wrong",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 7252,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022326",
-      "title": "The Royal Bed",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 251,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022866",
-      "title": "Exposure",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024400",
-      "title": "Officer Thirteen",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 119,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023641",
-      "title": "Unholy Love",
-      "year": 1932,
-      "imdbRating": 5.2,
-      "imdbVotes": 138,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023368",
-      "title": "Radio Patrol",
-      "year": 1932,
-      "imdbRating": 6.8,
-      "imdbVotes": 53,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022961",
-      "title": "The Greeks Had a Word for Them",
-      "year": 1932,
-      "imdbRating": 6.1,
-      "imdbVotes": 519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023938",
-      "title": "Deluge",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 746,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025155",
-      "title": "Fury of the Jungle",
-      "year": 1933,
-      "imdbRating": 5.9,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024857",
-      "title": "Back Page",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 174,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    }
+    "tt0021092",
+    "tt0024548",
+    "tt0022326",
+    "tt0022866",
+    "tt0023030",
+    "tt0024400",
+    "tt0023641",
+    "tt0023368",
+    "tt0022961",
+    "tt0023938",
+    "tt0025155",
+    "tt0024857"
   ],
   "collections": [],
   "is_curated": true,

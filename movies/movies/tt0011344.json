@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-jack-knife-man",
+      "id": "silent-the-jack-knife-man",
       "title": "The Jack-Knife Man",
       "fileSize": 1046642715,
-      "id": "silent-the-jack-knife-man"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-jack-knife-man",
+      "language": "English",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 517
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012409",
-      "title": "Love Never Dies",
-      "year": 1921,
-      "imdbRating": 6.7,
-      "imdbVotes": 130,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010534",
-      "title": "The Other Half",
-      "year": 1919,
-      "imdbRating": 5.3,
-      "imdbVotes": 57,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0421867",
-      "title": "Bud's Recruit",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 113,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015498",
-      "title": "Wild Oranges",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 578,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015500",
-      "title": "Wine of Youth",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 411,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022689",
-      "title": "Bird of Paradise",
-      "year": 1932,
-      "imdbRating": 6,
-      "imdbVotes": 1646,
-      "language": "English, Hawaiian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045109",
-      "title": "Ruby Gentry",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 1837,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025610",
-      "title": "Our Daily Bread",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 2233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022436",
-      "title": "Street Scene",
-      "year": 1931,
-      "imdbRating": 7.6,
-      "imdbVotes": 2176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019959",
-      "title": "Hallelujah",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 2083,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049934",
-      "title": "War and Peace",
-      "year": 1956,
-      "imdbRating": 6.7,
-      "imdbVotes": 11288,
-      "language": "English, Russian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018806",
-      "title": "The Crowd",
-      "year": 1928,
-      "imdbRating": 8.1,
-      "imdbVotes": 9436,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0012409",
+    "tt0010534",
+    "tt0421867",
+    "tt0015498",
+    "tt0015500",
+    "tt0022689",
+    "tt0045109",
+    "tt0025610",
+    "tt0022436",
+    "tt0019959",
+    "tt0049934",
+    "tt0018806"
   ],
   "collections": [],
   "is_curated": true,

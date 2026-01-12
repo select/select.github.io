@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Cowboy_from_Sundown",
+      "id": "Cowboy_from_Sundown",
       "title": "Cowboy from Sundown",
       "description": "A Tex Ritter western. Dave O'Brien appears also.",
       "fileSize": 916510907,
-      "id": "Cowboy_from_Sundown"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/Cowboy_from_Sundown",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 24929
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=OC3t2Zgdpm4",
+      "id": "OC3t2Zgdpm4",
       "title": "Cowboy from Sundown (1940) TEX RITTER",
       "description": "Stars: Tex Ritter, Roscoe Ates, Carleton Young\nDirector: Spencer Gordon Bennet\n\nDrought-plagued ranchers have to sell their cattle at a loss in order to meet mortgage payments to a corrupt banker. To make things worse, the cattle come down with hoof-and-mouth disease. Tex, the sheriff, is thrown into a fracas that pits him against his rancher friends. Is it really hoof-and-mouth disease?",
-      "id": "OC3t2Zgdpm4",
+      "addedAt": "2025-12-26T23:47:48.173Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/OC3t2Zgdpm4/maxresdefault.webp",
+      "duration": 3231,
+      "language": "en",
+      "year": 1940,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031860",
-      "title": "Riders of the Frontier",
-      "year": 1939,
-      "imdbRating": 6.2,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033351",
-      "title": "Arizona Bound",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031748",
-      "title": "Oklahoma Terror",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031018",
-      "title": "Across the Plains",
-      "year": 1939,
-      "imdbRating": 5.6,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033683",
-      "title": "The Gunman from Bodie",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033132",
-      "title": "Take Me Back to Oklahoma",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031247",
-      "title": "Down the Wyoming Trail",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030689",
-      "title": "Rollin' Plains",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032989",
-      "title": "Riders of Black Mountain",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021308",
-      "title": "Rogue of the Rio Grande",
-      "year": 1930,
-      "imdbRating": 4.5,
-      "imdbVotes": 124,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028582",
-      "title": "Arizona Days",
-      "year": 1937,
-      "imdbRating": 4.4,
-      "imdbVotes": 177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029005",
-      "title": "Hittin' the Trail",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031860",
+    "tt0033351",
+    "tt0031748",
+    "tt0031018",
+    "tt0033683",
+    "tt0033132",
+    "tt0031247",
+    "tt0030689",
+    "tt0032989",
+    "tt0021308",
+    "tt0028582",
+    "tt0029005"
   ],
   "collections": [],
   "is_curated": true,

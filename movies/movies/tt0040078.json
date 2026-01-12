@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Adventures_of_Gallant_Bess",
+      "id": "Adventures_of_Gallant_Bess",
       "title": "Adventures of Gallant Bess",
       "description": "Ted Daniels, a ranch hand working for a rodeo, captures a magnificent wild horse that he tames and trains",
       "fileSize": 1788562907,
-      "id": "Adventures_of_Gallant_Bess"
+      "addedAt": "2026-01-07T00:06:09.634Z",
+      "thumbnail": "https://archive.org/services/img/Adventures_of_Gallant_Bess",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 33674
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=4zxWr6CNlmo",
+      "id": "4zxWr6CNlmo",
       "title": "Adventures of Gallant Bess (1948) CAMERON MITCHELL",
       "description": "Stars: Cameron Mitchell, Fuzzy Knight, and Gallant Bess\nDirector: Lew Landers\n\nA heartwarming tale of a rodeo rider's love for his award-winning horse.",
-      "id": "4zxWr6CNlmo",
+      "addedAt": "2025-12-26T23:47:02.743Z",
+      "thumbnail": "https://i.ytimg.com/vi/4zxWr6CNlmo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB-gSAAuADigIMCAAQARhlIGAoHzAP&rs=AOn4CLC3laBrV27gSyZZDcBg2jp86slMAA",
+      "duration": 4374,
+      "language": "en",
+      "year": 1948,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041100",
-      "title": "Air Hostess",
-      "year": 1949,
-      "imdbRating": 5.4,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039152",
-      "title": "Angel and the Badman",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 7236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037409",
-      "title": "Two-Man Submarine",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042286",
-      "title": "Broken Arrow",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 10555,
-      "language": "English, Apache languages",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038499",
-      "title": "Duel in the Sun",
-      "year": 1946,
-      "imdbRating": 6.7,
-      "imdbVotes": 10129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038762",
-      "title": "My Darling Clementine",
-      "year": 1946,
-      "imdbRating": 7.7,
-      "imdbVotes": 27797,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039782",
-      "title": "Rolling Home",
-      "year": 1946,
-      "imdbRating": 5.8,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043017",
-      "title": "Surrender",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035378",
-      "title": "Stand by All Networks",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043959",
-      "title": "Rawhide",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 3273,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039815",
-      "title": "Seven Keys to Baldpate",
-      "year": 1947,
-      "imdbRating": 5.9,
-      "imdbVotes": 475,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0042383",
+    "tt0041100",
+    "tt0039152",
+    "tt0037409",
+    "tt0042286",
+    "tt0038499",
+    "tt0038762",
+    "tt0039782",
+    "tt0043017",
+    "tt0035378",
+    "tt0043959",
+    "tt0039815"
   ],
   "collections": [],
   "is_curated": true,

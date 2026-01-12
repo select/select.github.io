@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/night_alarm",
+      "id": "night_alarm",
       "title": "Night Alarm",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4391694349,
-      "id": "night_alarm"
+      "addedAt": "2026-01-07T00:10:02.898Z",
+      "thumbnail": "https://archive.org/services/img/night_alarm",
+      "year": 1934,
+      "collection": "feature_films",
+      "downloads": 62062
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=qQDgi3VYv9s",
+      "id": "qQDgi3VYv9s",
       "title": "Night Alarm (1934) BRUCE CABOT",
       "description": "Stars: Bruce Cabot, Judith Allen, H.B. Warner \n Director: Spencer Gordon Bennet\n\n A reporter itching to get off the boring gardening \"beat\" gets a chance to investigate a series of arson fires. He believes the fires are tied into a web of political corruption involving a wealthy businessman, the mayor and the police chief. Complications ensue when the girl assigned to help him turns out to be the businessman's daughter!",
-      "id": "qQDgi3VYv9s",
+      "addedAt": "2025-12-26T23:52:49.705Z",
+      "thumbnail": "https://i.ytimg.com/vi/qQDgi3VYv9s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDj9w0YX1hi7nUr6CGLypx81Mfd_Q",
+      "duration": 3668,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0282813",
-      "title": "The Oil Raider",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026405",
-      "title": "Get That Man",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024656",
-      "title": "This Day and Age",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025178",
-      "title": "A Girl of the Limberlost",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025016",
-      "title": "Cross Streets",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026367",
-      "title": "Flirtation",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025323",
-      "title": "Jane Eyre",
-      "year": 1934,
-      "imdbRating": 4.4,
-      "imdbVotes": 444,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025747",
-      "title": "The Scarlet Letter",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 522,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025463",
-      "title": "Manhattan Love Song",
-      "year": 1934,
-      "imdbRating": 6.1,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025472",
-      "title": "Marie Galante",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 398,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025610",
-      "title": "Our Daily Bread",
-      "year": 1934,
-      "imdbRating": 7,
-      "imdbVotes": 2233,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0282813",
+    "tt0026405",
+    "tt0024656",
+    "tt0025178",
+    "tt0025016",
+    "tt0026367",
+    "tt0025323",
+    "tt0025335",
+    "tt0025747",
+    "tt0025463",
+    "tt0025472",
+    "tt0025610"
   ],
   "collections": [],
   "is_curated": true,

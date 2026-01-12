@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-love-charm_1928",
+      "id": "the-love-charm_1928",
       "title": "The Love Charm",
       "fileSize": 676833831,
-      "id": "the-love-charm_1928"
+      "addedAt": "2026-01-07T00:12:10.592Z",
+      "thumbnail": "https://archive.org/services/img/the-love-charm_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 280
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002784",
-      "title": "Cymbeline",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002795",
-      "title": "Death's Marathon",
-      "year": 1913,
-      "imdbRating": 6.1,
-      "imdbVotes": 625,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001978",
-      "title": "When a Man Loves",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001371",
-      "title": "Ramona",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 449,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7865096",
-      "title": "Take Off",
-      "year": 2016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001459",
-      "title": "Winning Back His Love",
-      "year": 1910,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092819",
-      "title": "Damned If You Don't",
-      "year": 1987,
-      "imdbRating": 6.7,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019099",
-      "title": "Lingerie",
-      "year": 1928,
-      "imdbVotes": 10,
-      "language": "French, None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184737",
-      "title": "Los milagros de la Divina Pastora",
-      "year": 1928,
-      "imdbRating": 6.1,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002356",
-      "title": "The Melody of Love",
-      "year": 1912,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0000557",
-      "title": "Kathleen Mavourneen",
-      "year": 1906,
-      "imdbRating": 4.7,
-      "imdbVotes": 140,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002784",
+    "tt0002795",
+    "tt0001978",
+    "tt0001371",
+    "tt7865096",
+    "tt0001459",
+    "tt0092819",
+    "tt0017775",
+    "tt0019099",
+    "tt0184737",
+    "tt0002356",
+    "tt0000557"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-night-club",
+      "id": "silent-the-night-club",
       "title": "The Night Club",
       "fileSize": 1017817195,
-      "id": "silent-the-night-club"
+      "addedAt": "2026-01-07T00:11:24.921Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-night-club",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2494
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014538",
-      "title": "Three Ages",
-      "year": 1923,
-      "imdbRating": 7,
-      "imdbVotes": 5356,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248427",
-      "title": "Ship Shape",
-      "year": 1925,
-      "imdbRating": 4.4,
-      "imdbVotes": 7,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016004",
-      "title": "Lady Windermere's Fan",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 1468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016346",
-      "title": "Shore Leave",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016308",
-      "title": "Sally of the Sawdust",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 598,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015772",
-      "title": "The Eagle",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 2212,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016123",
-      "title": "The Monster",
-      "year": 1925,
-      "imdbRating": 6.2,
-      "imdbVotes": 1334,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016497",
-      "title": "Waking Up the Town",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015551",
-      "title": "Alice Cans the Cannibals",
-      "year": 1925,
-      "imdbRating": 4.4,
-      "imdbVotes": 152,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015552",
-      "title": "Alice Chops the Suey",
-      "year": 1925,
-      "imdbRating": 4.6,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015553",
-      "title": "Alice Gets Stung",
-      "year": 1925,
-      "imdbRating": 4.9,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0014538",
+    "tt0248427",
+    "tt0016004",
+    "tt0016028",
+    "tt0016346",
+    "tt0016308",
+    "tt0015772",
+    "tt0016123",
+    "tt0016497",
+    "tt0015551",
+    "tt0015552",
+    "tt0015553"
   ],
   "collections": [],
   "is_curated": true,

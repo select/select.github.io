@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Deadend_828",
+      "id": "Deadend_828",
       "title": "Deadend",
       "description": "tr",
       "fileSize": 16037748,
-      "id": "Deadend_828"
+      "addedAt": "2026-01-07T00:06:19.368Z",
+      "thumbnail": "https://archive.org/services/img/Deadend_828",
+      "collection": "feature_films",
+      "downloads": 792
     }
   ],
   "metadata": {
@@ -26,119 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt13818610",
-      "title": "AURORA 663",
-      "year": 2022,
-      "imdbRating": 4.1,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt15262370",
-      "title": "Maneater",
-      "year": 2022,
-      "imdbRating": 3.1,
-      "imdbVotes": 2189,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10323676",
-      "title": "The Contractor",
-      "year": 2022,
-      "imdbRating": 5.8,
-      "imdbVotes": 34042,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt19896522",
-      "title": "Hunting Day",
-      "year": 2022,
-      "imdbVotes": 10,
-      "language": "French",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt9193690",
-      "title": "Seize the Night",
-      "year": 2022,
-      "imdbRating": 5.6,
-      "imdbVotes": 110,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt14537176",
-      "title": "The Full Moon Fathers",
-      "year": 2022,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7133196",
-      "title": "The Assassination of Western Civilization",
-      "year": 2022,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt13112698",
-      "title": "Hillwalkers",
-      "year": 2022,
-      "imdbRating": 4.3,
-      "imdbVotes": 561,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt2580920",
-      "title": "Beverly H.",
-      "year": 2022,
-      "imdbRating": 6,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt15145268",
-      "title": "Extramundane",
-      "year": 2022,
-      "imdbRating": 6.4,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt3804376",
-      "title": "As a Prelude to Fear",
-      "year": 2022,
-      "imdbRating": 3.7,
-      "imdbVotes": 770,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt12273854",
-      "title": "Mile 19",
-      "year": 2022,
-      "imdbRating": 5.4,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt13818610",
+    "tt15262370",
+    "tt10323676",
+    "tt19896522",
+    "tt9193690",
+    "tt14537176",
+    "tt7133196",
+    "tt13112698",
+    "tt2580920",
+    "tt15145268",
+    "tt3804376",
+    "tt12273854"
   ],
   "collections": [],
   "is_curated": true,

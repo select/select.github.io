@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1949-criss-cross-el-abrazo-de-la-muerte-robert-siodmak-vose",
+      "id": "1949-criss-cross-el-abrazo-de-la-muerte-robert-siodmak-vose",
       "title": "1949 - Criss Cross - El abrazo de la muerte - Robert Siodmak - VOSE",
       "description": "For Academic / Educational Use Only",
       "fileSize": 483926004,
-      "id": "1949-criss-cross-el-abrazo-de-la-muerte-robert-siodmak-vose"
+      "addedAt": "2026-01-07T00:06:06.561Z",
+      "thumbnail": "https://archive.org/services/img/1949-criss-cross-el-abrazo-de-la-muerte-robert-siodmak-vose",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 2899
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/crisscross1949_202003",
+      "id": "crisscross1949_202003",
       "title": "Criss Cross (1949) Burt Lancaster, Yvonne De Carlo, Dan Duryea",
       "description": "Criss Cross is a 1949 American crime film noir directed by Robert Siodmak starring Burt Lancaster, Yvonne De Carlo and Dan Duryea, from Don Tracy's novel of the same name. This film was shot partly on location in the Bunker Hill section of Los Angeles.",
       "fileSize": 553597582,
-      "id": "crisscross1949_202003"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/crisscross1949_202003",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 36955
     }
   ],
   "metadata": {
@@ -35,114 +45,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041368",
-      "title": "The File on Thelma Jordon",
-      "year": 1949,
-      "imdbRating": 6.9,
-      "imdbVotes": 3308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038669",
-      "title": "The Killers",
-      "year": 1946,
-      "imdbRating": 7.7,
-      "imdbVotes": 25391,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040257",
-      "title": "Cry of the City",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 3838,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038455",
-      "title": "The Dark Mirror",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 5810,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036260",
-      "title": "Phantom Lady",
-      "year": 1944,
-      "imdbRating": 7.2,
-      "imdbVotes": 6069,
-      "language": "English, Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036711",
-      "title": "Christmas Holiday",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 1678,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041968",
-      "title": "Too Late for Tears",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 6166,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041631",
-      "title": "Manhandled",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 898,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040512",
-      "title": "Kiss the Blood Off My Hands",
-      "year": 1948,
-      "imdbRating": 6.8,
-      "imdbVotes": 2308,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042809",
-      "title": "One Way Street",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 953,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039550",
-      "title": "Larceny",
-      "year": 1948,
-      "imdbRating": 6.9,
-      "imdbVotes": 982,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039224",
-      "title": "Brute Force",
-      "year": 1947,
-      "imdbRating": 7.5,
-      "imdbVotes": 12259,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0041368",
+    "tt0038669",
+    "tt0040257",
+    "tt0038455",
+    "tt0036260",
+    "tt0036711",
+    "tt0041968",
+    "tt0041631",
+    "tt0040512",
+    "tt0042809",
+    "tt0039550",
+    "tt0039224"
   ],
   "collections": [
     {
@@ -151,6 +65,6 @@
     }
   ],
   "is_curated": true,
-  "verified": false,
-  "lastUpdated": "2026-01-07T00:07:51.626Z"
+  "verified": true,
+  "lastUpdated": "2026-01-11T20:59:30.165Z"
 }

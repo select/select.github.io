@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sounds-2008-dvdrip",
+      "id": "sounds-2008-dvdrip",
       "title": "Sounds (2008)",
       "description": "There's a guy who likes a girl who keeps vomiting up parasitic alien egg sacks who needs to be saved by two incompetent FBI agents who can't spell \"incompetent FBI agents\" who never fail to remind the fearful civilians of the impending ambiguous doom!",
       "fileSize": 1268972825,
-      "id": "sounds-2008-dvdrip"
+      "addedAt": "2026-01-07T00:11:35.626Z",
+      "thumbnail": "https://archive.org/services/img/sounds-2008-dvdrip",
+      "language": "eng",
+      "year": 2008,
+      "collection": "feature_films",
+      "downloads": 95
     }
   ],
   "metadata": {
@@ -27,121 +33,18 @@
     "Awards": "3 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1213644",
-      "title": "Disaster Movie",
-      "year": 2008,
-      "imdbRating": 1.9,
-      "imdbVotes": 96719,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1134674",
-      "title": "ZMD: Zombies of Mass Destruction",
-      "year": 2009,
-      "imdbRating": 5,
-      "imdbVotes": 4369,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0466664",
-      "title": "Alien Autopsy",
-      "year": 2006,
-      "imdbRating": 5.9,
-      "imdbVotes": 7741,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt1231587",
-      "title": "Hot Tub Time Machine",
-      "year": 2010,
-      "imdbRating": 6.4,
-      "imdbVotes": 194886,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1705773",
-      "title": "Mega Shark vs. Crocosaurus",
-      "year": 2010,
-      "imdbRating": 2.4,
-      "imdbVotes": 5081,
-      "language": "English, French, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0472566",
-      "title": "Star Wreck: In the Pirkinning",
-      "year": 2005,
-      "imdbRating": 6.6,
-      "imdbVotes": 5878,
-      "language": "Finnish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0383353",
-      "title": "Evil Aliens",
-      "year": 2005,
-      "imdbRating": 5.2,
-      "imdbVotes": 6156,
-      "language": "English, Welsh",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0409860",
-      "title": "Cutie Honey",
-      "year": 2004,
-      "imdbRating": 6.2,
-      "imdbVotes": 2052,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2130142",
-      "title": "Nazis at the Center of the Earth",
-      "year": 2012,
-      "imdbRating": 3.1,
-      "imdbVotes": 3573,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0058037",
-      "title": "Dr. Sex",
-      "year": 1964,
-      "imdbRating": 3.8,
-      "imdbVotes": 237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1172203",
-      "title": "Sita Sings the Blues",
-      "year": 2008,
-      "imdbRating": 7.6,
-      "imdbVotes": 5022,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1213644",
+    "tt1134674",
+    "tt0466664",
+    "tt0843873",
+    "tt1705773",
+    "tt0472566",
+    "tt0383353",
+    "tt0409860",
+    "tt2130142",
+    "tt0058037",
+    "tt1172203",
+    "tt0095687"
   ],
   "collections": [],
   "is_curated": true,

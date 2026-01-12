@@ -6,19 +6,28 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=U4Yj4odHxXs",
+      "id": "U4Yj4odHxXs",
       "title": "Port of Lost Dreams (1934) CRIME-THRILLER",
       "description": "Stars: William Boyd, Lola Lane, George F. Marion \n Director: Frank R. Strayer\n\n A gangster's girlfriend on the run from the police, who suspect her of helping her boyfriend commit a robbery, holes up in a waterfront bar. She stows away on a fishing boat headed out to sea, and winds up falling in love with and marrying one of the fishermen, but doesn't tell him about her past. However, a year after they're married and have a child, her ex-boyfriend gets out of jail and comes looking for her.",
-      "id": "U4Yj4odHxXs",
+      "addedAt": "2025-12-26T23:53:58.632Z",
+      "thumbnail": "https://i.ytimg.com/vi/U4Yj4odHxXs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCryPfbClGliScxD1NmuEau-ORmzQ",
+      "duration": 3329,
+      "language": "en",
+      "year": 1934,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/PortOfLostDreams-1934",
+      "id": "PortOfLostDreams-1934",
       "title": "Port of Lost Dreams-1934",
       "description": "William Boyd is a fisherman who discovers a gangsters girlfriend trying to escape the crimes of the big city, but her new life on the sea is threatened when the cops come looking for her.",
       "fileSize": 1038980280,
-      "id": "PortOfLostDreams-1934"
+      "addedAt": "2026-01-07T00:06:45.467Z",
+      "thumbnail": "https://archive.org/services/img/PortOfLostDreams-1934",
+      "collection": "feature_films",
+      "downloads": 7876
     }
   ],
   "metadata": {
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025016",
-      "title": "Cross Streets",
-      "year": 1934,
-      "imdbRating": 6.3,
-      "imdbVotes": 79,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025302",
-      "title": "In Love with Life",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025921",
-      "title": "Twin Husbands",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025306",
-      "title": "In the Money",
-      "year": 1933,
-      "imdbRating": 4.9,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0023187",
-      "title": "Manhattan Tower",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025196",
-      "title": "Grand Canary",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025580",
-      "title": "Now and Forever",
-      "year": 1934,
-      "imdbRating": 6.5,
-      "imdbVotes": 1197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022836",
-      "title": "Dragnet Patrol",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021659",
-      "title": "The Big Gamble",
-      "year": 1931,
-      "imdbRating": 5.8,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026436",
-      "title": "Great God Gold",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022662",
+    "tt0025016",
+    "tt0025302",
+    "tt0025921",
+    "tt0025306",
+    "tt0023187",
+    "tt0025196",
+    "tt0025580",
+    "tt0022836",
+    "tt0021659",
+    "tt0026436",
+    "tt0024151"
   ],
   "collections": [],
   "is_curated": true,

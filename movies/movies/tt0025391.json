@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LifeReturns",
+      "id": "LifeReturns",
       "title": "Life Returns",
       "description": "A doctor (Onslow Stevens) who has spent his career working on ways to revive the dead sees his chance to prove his theory by performing his procedures on a recently deceased dog.",
       "fileSize": 1366981682,
-      "id": "LifeReturns"
+      "addedAt": "2026-01-07T00:06:38.750Z",
+      "thumbnail": "https://archive.org/services/img/LifeReturns",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 15425
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=5PDuGtfdZT0",
+      "id": "5PDuGtfdZT0",
       "title": "Life Returns (1935) HORROR",
       "description": "Stars: Onslow Stevens, George P. Breakston, Lois Wilson \nDirectors: Eugene Frenke, James P. Hogan\n\n A doctor who has spent his career working on ways to revive the dead, sees his chance to prove his theory by performing procedures on a recently deceased dog.",
-      "id": "5PDuGtfdZT0",
+      "addedAt": "2025-12-26T23:54:36.590Z",
+      "thumbnail": "https://i.ytimg.com/vi/5PDuGtfdZT0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCpJTBK840Qx6A-iopbOHfgKNJhYA",
+      "duration": 3553,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027521",
-      "title": "The Devil-Doll",
-      "year": 1936,
-      "imdbRating": 7,
-      "imdbVotes": 5320,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021884",
-      "title": "Frankenstein",
-      "year": 1931,
-      "imdbRating": 7.7,
-      "imdbVotes": 86282,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011130",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 6415,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035640",
-      "title": "The Ape Man",
-      "year": 1943,
-      "imdbRating": 4.4,
-      "imdbVotes": 1572,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050720",
-      "title": "The Monolith Monsters",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 4168,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051020",
-      "title": "The Strange World of Planet X",
-      "year": 1958,
-      "imdbRating": 4.8,
-      "imdbVotes": 1381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049900",
-      "title": "Warning from Space",
-      "year": 1956,
-      "imdbRating": 4.8,
-      "imdbVotes": 1328,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235245",
-      "title": "Brain Twisters",
-      "year": 1991,
-      "imdbRating": 3.5,
-      "imdbVotes": 554,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025064",
-      "title": "Double Door",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0099582",
-      "title": "Flatliners",
-      "year": 1990,
-      "imdbRating": 6.6,
-      "imdbVotes": 97199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049366",
-      "title": "Invasion of the Body Snatchers",
-      "year": 1956,
-      "imdbRating": 7.7,
-      "imdbVotes": 58248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058700",
-      "title": "The Last Man on Earth",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 23253,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0027521",
+    "tt0021884",
+    "tt0011130",
+    "tt0035640",
+    "tt0050720",
+    "tt0051020",
+    "tt0049900",
+    "tt0235245",
+    "tt0025064",
+    "tt0099582",
+    "tt0049366",
+    "tt0058700"
   ],
   "collections": [],
   "is_curated": true,

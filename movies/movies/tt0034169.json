@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/theseventhsurvivor",
+      "id": "theseventhsurvivor",
       "title": "The Seventh Survivor",
       "description": "“A cross between ‘Phantom Light’ and ‘Lifeboat’” (IMDB review quote). From IMDB: Survivors from a torpedoed passenger vessel are rescued by a lighthouse crew. Ironically, the German captain responsible for the attack is also rescued and held prisoner, but an unknown spy among the survivors plans to help him escape. IMDB rating 6.4. Directed by Leslie Hiscott. Released in 1942 (UK only). Complete print.",
       "fileSize": 752349320,
-      "id": "theseventhsurvivor"
+      "addedAt": "2026-01-07T00:12:44.281Z",
+      "thumbnail": "https://archive.org/services/img/theseventhsurvivor",
+      "collection": "feature_films",
+      "downloads": 6453
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034512",
-      "title": "The Big Blockade",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 244,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035694",
-      "title": "The Boss of Big Town",
-      "year": 1942,
-      "imdbRating": 5.1,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034891",
-      "title": "In Which We Serve",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 6880,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036093",
-      "title": "Lady from Chungking",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035301",
-      "title": "Secret Mission",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 436,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035121",
-      "title": "The Next of Kin",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 293,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035448",
-      "title": "Today I Hang",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035494",
-      "title": "Unpublished Story",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034593",
-      "title": "China Girl",
-      "year": 1942,
-      "imdbRating": 6.2,
-      "imdbVotes": 662,
-      "language": "English, Mandarin, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034647",
-      "title": "Destination Unknown",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 54,
-      "language": "English, Chinese, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0034512",
+    "tt0035694",
+    "tt0136209",
+    "tt0159476",
+    "tt0034891",
+    "tt0036093",
+    "tt0035301",
+    "tt0035121",
+    "tt0035448",
+    "tt0035494",
+    "tt0034593",
+    "tt0034647"
   ],
   "collections": [],
   "is_curated": true,

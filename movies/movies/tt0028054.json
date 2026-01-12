@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheOldCorral",
+      "id": "TheOldCorral",
       "title": "The Old Corral",
       "description": "Starring Gene Autry, Smiley Burnette, Irene Manning (billed as \"Hope Manning\"), and Lon Chaney, Jr., and featuring an uncredited and unshaven Roy Rogers as the leader of the criminal \"O'Keefe Brothers\", played by the singing Sons of the Pioneers. Rogers' first appearance, in which he and his gang robs a busload of people, ends with Autry threatening to arrest Rogers as soon as he's back on a horse.",
       "fileSize": 1314195324,
-      "id": "TheOldCorral"
+      "addedAt": "2026-01-07T00:07:05.034Z",
+      "thumbnail": "https://archive.org/services/img/TheOldCorral",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 37930
     }
   ],
   "metadata": {
@@ -27,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028181",
-      "title": "Ride, Ranger, Ride",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028934",
-      "title": "Git Along Little Dogies",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029445",
-      "title": "Public Cowboy No. 1",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 181,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029501",
-      "title": "Round-Up Time in Texas",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029602",
-      "title": "Springtime in the Rockies",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029801",
-      "title": "Yodelin' Kid from Pine Ridge",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 150,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030409",
-      "title": "Man from Music Mountain",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029337",
-      "title": "The Old Barn Dance",
-      "year": 1938,
-      "imdbRating": 5.3,
-      "imdbVotes": 185,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0030006",
-      "title": "Come on, Rangers!",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 131,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030742",
-      "title": "Shine on Harvest Moon",
-      "year": 1938,
-      "imdbRating": 6.4,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027361",
-      "title": "The Big Show",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 305,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034832",
-      "title": "Heart of the Golden West",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 137,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028181",
+    "tt0028934",
+    "tt0029445",
+    "tt0029501",
+    "tt0029602",
+    "tt0029801",
+    "tt0030409",
+    "tt0029337",
+    "tt0030006",
+    "tt0030742",
+    "tt0027361",
+    "tt0034832"
   ],
   "collections": [],
   "is_curated": true,

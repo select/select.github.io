@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/vengeance-of-the-deep-1938",
+      "id": "vengeance-of-the-deep-1938",
       "title": "Vengeance Of The Deep (1938)",
       "description": "Lloyd Hughes",
       "fileSize": 2333439849,
-      "id": "vengeance-of-the-deep-1938"
+      "addedAt": "2026-01-07T00:12:55.133Z",
+      "thumbnail": "https://archive.org/services/img/vengeance-of-the-deep-1938",
+      "collection": "feature_films",
+      "downloads": 278
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/vengeance-of-the-deep-l-1938-k",
+      "id": "vengeance-of-the-deep-l-1938-k",
       "title": "Vengeance Of The Deep (1938)",
       "description": "Lloyd Hughes",
       "fileSize": 1689458319,
-      "id": "vengeance-of-the-deep-l-1938-k"
+      "addedAt": "2026-01-07T00:12:55.133Z",
+      "thumbnail": "https://archive.org/services/img/vengeance-of-the-deep-l-1938-k",
+      "collection": "feature_films",
+      "downloads": 220
     }
   ],
   "metadata": {
@@ -35,117 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030005",
-      "title": "Come on, Leathernecks!",
-      "year": 1938,
-      "imdbRating": 5.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030274",
-      "title": "International Settlement",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030541",
-      "title": "The Strange Case of Dr. Meade",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031082",
-      "title": "Barricade",
-      "year": 1939,
-      "imdbRating": 5.7,
-      "imdbVotes": 158,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029168",
-      "title": "Love Takes Flight",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0033297",
-      "title": "Zwischen Hamburg und Haiti",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032392",
-      "title": "The Devil's Pipeline",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028396",
-      "title": "Too Much Beef",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 49,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0033159",
-      "title": "Three Faces West",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 1001,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015310",
-      "title": "The Sea Hawk",
-      "year": 1924,
-      "imdbRating": 7.1,
-      "imdbVotes": 668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026083",
-      "title": "Artisten",
-      "year": 1935,
-      "imdbRating": 2.7,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034337",
-      "title": "Underground",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 598,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0030005",
+    "tt0030274",
+    "tt0030541",
+    "tt0031082",
+    "tt0029168",
+    "tt0033297",
+    "tt0032392",
+    "tt0028396",
+    "tt0033159",
+    "tt0015310",
+    "tt0026083",
+    "tt0034337"
   ],
   "collections": [],
   "is_curated": true,

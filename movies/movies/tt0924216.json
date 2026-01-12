@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cud-nad-wisla",
+      "id": "silent-cud-nad-wisla",
       "title": "Cud nad Wisla",
       "fileSize": 522790689,
-      "id": "silent-cud-nad-wisla"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cud-nad-wisla",
+      "language": "Polish",
+      "year": 1921,
+      "collection": "feature_films",
+      "downloads": 483
     }
   ],
   "metadata": {
@@ -26,118 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012190",
-      "title": "The Four Horsemen of the Apocalypse",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008188",
-      "title": "The Little American",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 789,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050634",
-      "title": "The Cranes Are Flying",
-      "year": 1957,
-      "imdbRating": 8.3,
-      "imdbVotes": 21499,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0049783",
-      "title": "The Forty-First",
-      "year": 1956,
-      "imdbRating": 7.5,
-      "imdbVotes": 1690,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0052600",
-      "title": "Ballad of a Soldier",
-      "year": 1959,
-      "imdbRating": 8.2,
-      "imdbVotes": 11927,
-      "language": "Russian, Ukrainian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0053712",
-      "title": "Clear Skies",
-      "year": 1961,
-      "imdbRating": 7.2,
-      "imdbVotes": 492,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0022879",
-      "title": "A Farewell to Arms",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 7225,
-      "language": "English, Italian, Latin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088734",
-      "title": "Arch of Triumph",
-      "year": 1984,
-      "imdbRating": 5.5,
-      "imdbVotes": 608,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026104",
-      "title": "Becky Sharp",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 1302,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt7915554",
-      "title": "Bomb: A Love Story",
-      "year": 2018,
-      "imdbRating": 6.5,
-      "imdbVotes": 3593,
-      "language": "Persian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012027",
-      "title": "Camille",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 1081,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0012190",
+    "tt0008188",
+    "tt0015624",
+    "tt0050634",
+    "tt0049783",
+    "tt0052600",
+    "tt0053712",
+    "tt0022879",
+    "tt0088734",
+    "tt0026104",
+    "tt7915554",
+    "tt0012027"
   ],
   "collections": [],
   "is_curated": true,

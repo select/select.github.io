@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-return.of.-captain.-nemo.",
+      "id": "the.-return.of.-captain.-nemo.",
       "title": "The Return of Captain Nemo",
       "description": "Jose Ferrerr, Burgess Meredith, Mel Ferrer",
       "fileSize": 2319738512,
-      "id": "the.-return.of.-captain.-nemo."
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-return.of.-captain.-nemo.",
+      "collection": "feature_films",
+      "downloads": 2839
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "Nominated for 1 Primetime Emmy. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0077877",
-      "title": "The Lucifer Complex",
-      "year": 1978,
-      "imdbRating": 2.4,
-      "imdbVotes": 406,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0087479",
-      "title": "The Astral Factor",
-      "year": 1978,
-      "imdbRating": 3.7,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077640",
-      "title": "The War of the Robots",
-      "year": 1978,
-      "imdbRating": 2.7,
-      "imdbVotes": 898,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0078067",
-      "title": "Patrick",
-      "year": 1978,
-      "imdbRating": 6.2,
-      "imdbVotes": 4268,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077588",
-      "title": "The Fury",
-      "year": 1978,
-      "imdbRating": 6.3,
-      "imdbVotes": 18328,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0077834",
-      "title": "Laserblast",
-      "year": 1978,
-      "imdbRating": 2.8,
-      "imdbVotes": 6818,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149677",
-      "title": "War of the Planets",
-      "year": 1977,
-      "imdbRating": 2.9,
-      "imdbVotes": 1013,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079944",
-      "title": "Stalker",
-      "year": 1979,
-      "imdbRating": 8,
-      "imdbVotes": 153633,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0075990",
-      "title": "End of the World",
-      "year": 1977,
-      "imdbRating": 3.1,
-      "imdbVotes": 1255,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076271",
-      "title": "Kingdom of the Spiders",
-      "year": 1977,
-      "imdbRating": 5.7,
-      "imdbVotes": 6411,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079068",
-      "title": "Dr. Jekyll Likes Them Hot",
-      "year": 1979,
-      "imdbRating": 5.1,
-      "imdbVotes": 455,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0079501",
-      "title": "Mad Max",
-      "year": 1979,
-      "imdbRating": 6.8,
-      "imdbVotes": 240676,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0077877",
+    "tt0087479",
+    "tt0077640",
+    "tt0078067",
+    "tt0077588",
+    "tt0077834",
+    "tt0149677",
+    "tt0079944",
+    "tt0075990",
+    "tt0076271",
+    "tt0079068",
+    "tt0079501"
   ],
   "collections": [],
   "is_curated": true,

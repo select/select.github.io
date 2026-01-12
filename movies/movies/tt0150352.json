@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dog-meets-dog-1942",
+      "id": "dog-meets-dog-1942",
       "title": "Dog Meets Dog (1942)",
       "description": "About a big bulldog who steals a cocker spaniel's dog license in order to avoid the dog catcher's wrath. Watch on RetroFlix:  https://retroflix.org/dog-meets-dog-1942/",
       "fileSize": 87514107,
-      "id": "dog-meets-dog-1942"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/dog-meets-dog-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 85
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0149809",
-      "title": "A Battle for a Bottle",
-      "year": 1942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147997",
-      "title": "Cinderella Goes to a Party",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147935",
-      "title": "The Bulldog and the Baby",
-      "year": 1942,
-      "imdbRating": 5.8,
-      "imdbVotes": 8,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0148009",
-      "title": "Concerto in B Flat Minor",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034631",
-      "title": "Daffy's Southern Exposure",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034654",
-      "title": "Ding Dog Daddy",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0168114",
-      "title": "Out of the Frying Pan Into the Firing Line",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 299,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035288",
-      "title": "Saps in Chaps",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035314",
-      "title": "The Sheepish Wolf",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 180,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033326",
-      "title": "All's Well",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033605",
-      "title": "Fire Cheese",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033643",
-      "title": "Gabby Goes Fishing",
-      "year": 1941,
-      "imdbRating": 5.5,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0149809",
+    "tt0147997",
+    "tt0147935",
+    "tt0148009",
+    "tt0034631",
+    "tt0034654",
+    "tt0168114",
+    "tt0035288",
+    "tt0035314",
+    "tt0033326",
+    "tt0033605",
+    "tt0033643"
   ],
   "collections": [],
   "is_curated": true,

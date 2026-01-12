@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HeartsOfTheWorld",
+      "id": "HeartsOfTheWorld",
       "title": "\"Hearts of the world\" (1918) director D. W. Griffith starring Lillian Gish and Robert Harron",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"Hearts of the World\" (1918) is a war drama, included in our program to illustrate the work of two of our stars: actor Robert Harron and cinematographer Billy Bitzer. Directed by               D. W. Griffith Produced by             D. W. Griffith Scenario by               M. Gaston de Tolignac (D.W. Griffith)          Starring                     Lillian Gish, Robert Harron, Dorothy Gish Cinematography        Billy Bitzer Editing by                  Rose Smith, James Smith Distributed by           Paramount Pictures Release date               12 March, 1918 Running time             1 hour, 58 minutes Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 1659268327,
-      "id": "HeartsOfTheWorld"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HeartsOfTheWorld",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 15253
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-hearts-of-the-world",
+      "id": "silent-hearts-of-the-world",
       "title": "Hearts of the World",
       "fileSize": 1174507676,
-      "id": "silent-hearts-of-the-world"
+      "addedAt": "2026-01-07T00:10:59.118Z",
+      "thumbnail": "https://archive.org/services/img/silent-hearts-of-the-world",
+      "language": "English",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 999
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004972",
-      "title": "The Birth of a Nation",
-      "year": 1915,
-      "imdbRating": 6.1,
-      "imdbVotes": 26892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009559",
-      "title": "A Romance of Happy Valley",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 441,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010193",
-      "title": "The Greatest Question",
-      "year": 1919,
-      "imdbRating": 6,
-      "imdbVotes": 745,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009109",
-      "title": "The Girl Who Stayed at Home",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006864",
-      "title": "Intolerance",
-      "year": 1916,
-      "imdbRating": 7.7,
-      "imdbVotes": 17618,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009968",
-      "title": "Broken Blossoms",
-      "year": 1919,
-      "imdbRating": 7.2,
-      "imdbVotes": 11297,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011841",
-      "title": "Way Down East",
-      "year": 1920,
-      "imdbRating": 7.3,
-      "imdbVotes": 6016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020620",
-      "title": "Abraham Lincoln",
-      "year": 1930,
-      "imdbRating": 5.6,
-      "imdbVotes": 1747,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001265",
-      "title": "In the Border States",
-      "year": 1910,
-      "imdbRating": 6.4,
-      "imdbVotes": 579,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0004972",
+    "tt0009559",
+    "tt0010193",
+    "tt0010806",
+    "tt0009109",
+    "tt0006864",
+    "tt0012532",
+    "tt0009968",
+    "tt0011841",
+    "tt0020620",
+    "tt0001265",
+    "tt0014672"
   ],
   "collections": [],
   "is_curated": true,

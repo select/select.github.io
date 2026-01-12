@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/wings.1927.1080p.bluray.x264-cinefile",
+      "id": "wings.1927.1080p.bluray.x264-cinefile",
       "title": "Wings (1927)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Best Picture winner Wings stars Clara Bow and Buddy Rogers. This remains the only fully silent film to win best picture, although it does have a synchronized soundtrack for music and effects.",
       "fileSize": 11450214121,
-      "id": "wings.1927.1080p.bluray.x264-cinefile"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/wings.1927.1080p.bluray.x264-cinefile",
+      "language": "eng",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 311
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/wings_1929",
+      "id": "wings_1929",
       "title": "Wings",
       "fileSize": 9760544772,
-      "id": "wings_1929"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/wings_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 7452
     }
   ],
   "metadata": {
@@ -34,115 +46,18 @@
     "Awards": "Won 2 Oscars. 9 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018862",
-      "title": "Caucasian Love",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 182,
-      "language": "None, Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019098",
-      "title": "Lilac Time",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 755,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019071",
-      "title": "The Last Command",
-      "year": 1928,
-      "imdbRating": 7.9,
-      "imdbVotes": 4676,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037811",
-      "title": "Identity Unknown",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 387,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021542",
-      "title": "Westfront 1918",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 2664,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021800",
-      "title": "Dishonored",
-      "year": 1931,
-      "imdbRating": 7.2,
-      "imdbVotes": 3287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019958",
-      "title": "Half Way to Heaven",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020590",
-      "title": "The Wild Party",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 588,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0017662",
+    "tt0018862",
+    "tt0018990",
+    "tt0019098",
+    "tt0019071",
+    "tt0020602",
+    "tt0015624",
+    "tt0037811",
+    "tt0021542",
+    "tt0021800",
+    "tt0019958",
+    "tt0020590"
   ],
   "collections": [
     {

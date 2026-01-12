@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kagemusha.-1980",
+      "id": "kagemusha.-1980",
       "title": "Kagemusha (1980)",
       "description": "Kagemusha is a 1980 Japanese epic jidaigeki film directed by Akira Kurosawa. It is set in the Sengoku period of Japanese history and tells the story of a lower-class petty thief who is taught to impersonate the dying daimyō Takeda Shingen to dissuade opposing lords from attacking the newly vulnerable clan.",
       "fileSize": 6356832205,
-      "id": "kagemusha.-1980"
+      "addedAt": "2026-01-07T00:09:15.998Z",
+      "thumbnail": "https://archive.org/services/img/kagemusha.-1980",
+      "language": "jpn (English subtitles)",
+      "year": 1980,
+      "collection": "feature_films",
+      "downloads": 492
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/kagemusha_202012",
+      "id": "kagemusha_202012",
       "title": "Kagemusha",
       "description": "When a warlord dies, a peasant thief is called upon to impersonate him, and then finds himself haunted by the warlord’s spirit as well as his own ambitions. In his late color masterpiece  Kagemusha, Akira Kurosawa returns to the samurai film and to a primary theme of his career—the play between illusion and reality. Sumptuously reconstructing the splendor of feudal Japan and the pageantry of war, Kurosawa creates a historical epic that is also a meditation on the nature of power.",
       "fileSize": 14876895215,
-      "id": "kagemusha_202012"
+      "addedAt": "2026-01-07T00:09:15.998Z",
+      "thumbnail": "https://archive.org/services/img/kagemusha_202012",
+      "language": "jpn",
+      "year": 1980,
+      "collection": "feature_films",
+      "downloads": 74759
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "Nominated for 2 Oscars. 20 wins & 5 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0080310",
-      "title": "Breaker Morant",
-      "year": 1980,
-      "imdbRating": 7.8,
-      "imdbVotes": 15180,
-      "language": "English, Afrikaans",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053114",
-      "title": "The Human Condition I: No Greater Love",
-      "year": 1959,
-      "imdbRating": 8.5,
-      "imdbVotes": 10536,
-      "language": "Japanese, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075784",
-      "title": "A Bridge Too Far",
-      "year": 1977,
-      "imdbRating": 7.4,
-      "imdbVotes": 66372,
-      "language": "English, German, Dutch, Polish, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0086251",
-      "title": "The Scarlet and the Black",
-      "year": 1983,
-      "imdbRating": 7.5,
-      "imdbVotes": 4073,
-      "language": "Latin, English, German, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074400",
-      "title": "The Desert of the Tartars",
-      "year": 1976,
-      "imdbRating": 7.5,
-      "imdbVotes": 2726,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092978",
-      "title": "Escape from Sobibor",
-      "year": 1987,
-      "imdbRating": 7.4,
-      "imdbVotes": 10404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057811",
-      "title": "633 Squadron",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4879,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044400",
-      "title": "Battles of Chief Pontiac",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 227,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227607",
-      "title": "Tannenberg",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 22,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043590",
-      "title": "Go for Broke!",
-      "year": 1951,
-      "imdbRating": 6.6,
-      "imdbVotes": 1952,
-      "language": "English, Japanese, Italian, Hawaiian, German, French",
-      "sourceType": "archive.org"
-    }
+    "tt0080310",
+    "tt0053114",
+    "tt0075784",
+    "tt0086251",
+    "tt0074400",
+    "tt0092978",
+    "tt0057811",
+    "tt0044400",
+    "tt0227607",
+    "tt0159476",
+    "tt0014672",
+    "tt0043590"
   ],
   "collections": [
     {

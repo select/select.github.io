@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-movie_20201213",
+      "id": "my-movie_20201213",
       "title": "\"The Habit of Happiness\" (1916) starring Douglas Fairbanks",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"The Habit of Happiness\" is a comedy. A cheerful fellow teaches gloomy old men how to laugh and be happy. Directed by                Allan Dwan Produced by              Fine Arts Film Company Scenario by                Allan Dwan, Shannon Fife          Starring                     Douglas Fairbanks, George Fawcett, Macey Harlam, Dorothy West, George Backus Cinematography        Victor Fleming Distributed by           Triangle Distributing Release date               March 12, 1916 Running time             37 min. Country                      United States Language                    Silent film, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"",
       "fileSize": 694423075,
-      "id": "my-movie_20201213"
+      "addedAt": "2026-01-07T00:09:54.333Z",
+      "thumbnail": "https://archive.org/services/img/my-movie_20201213",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 3629
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0007031",
-      "title": "Manhattan Madness",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006736",
-      "title": "The Good Bad-Man",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 270,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010162",
-      "title": "Getting Mary Married",
-      "year": 1919,
-      "imdbRating": 6.3,
-      "imdbVotes": 239,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006357",
-      "title": "American Aristocracy",
-      "year": 1916,
-      "imdbRating": 6.1,
-      "imdbVotes": 117,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006688",
-      "title": "Flirting with Fate",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 221,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006809",
-      "title": "His Picture in the Papers",
-      "year": 1916,
-      "imdbRating": 5.9,
-      "imdbVotes": 182,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031387",
-      "title": "The Gorilla",
-      "year": 1939,
-      "imdbRating": 4.8,
-      "imdbVotes": 1730,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007108",
-      "title": "The Mystery of the Leaping Fish",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 979,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015116",
-      "title": "Manhandled",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 1121,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007047",
-      "title": "The Matrimaniac",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 631,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0007031",
+    "tt0008309",
+    "tt0009142",
+    "tt0006736",
+    "tt0010162",
+    "tt0006357",
+    "tt0006688",
+    "tt0006809",
+    "tt0031387",
+    "tt0007108",
+    "tt0015116",
+    "tt0007047"
   ],
   "collections": [],
   "is_curated": true,

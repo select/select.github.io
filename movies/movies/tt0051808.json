@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-hidden-fortress",
+      "id": "the-hidden-fortress",
       "title": "The Hidden Fortress",
       "description": "The Hidden Fortress  stars the inimitable Toshiro Mifune as a general charged with guarding his defeated clan’s princess (a fierce Misa Uehara) as the two smuggle royal treasure across hostile territory. Accompanying them are a pair of bumbling, conniving peasants who may or may not be their friends. This rip-roaring ride is among the director’s most beloved films and was a primary influence on George Lucas’s  Star Wars.",
       "fileSize": 11359816187,
-      "id": "the-hidden-fortress"
+      "addedAt": "2026-01-07T00:12:10.588Z",
+      "thumbnail": "https://archive.org/services/img/the-hidden-fortress",
+      "language": "jpn",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 56079
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-hidden.-fortress.-1958",
+      "id": "the.-hidden.-fortress.-1958",
       "title": "The Hidden Fortress (1958)",
       "description": "The Hidden Fortress is a 1958 Japanese epic jidaigeki adventure film directed by Akira Kurosawa, with special effects by Eiji Tsuburaya. It tells the story of two peasants who agree to escort a man and a woman across enemy lines in return for gold without knowing that he is a general and the woman is a princess.",
       "fileSize": 4061928866,
-      "id": "the.-hidden.-fortress.-1958"
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-hidden.-fortress.-1958",
+      "language": "jpn (English subtitles)",
+      "collection": "feature_films",
+      "downloads": 244
     }
   ],
   "metadata": {
@@ -35,115 +46,18 @@
     "Awards": "4 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050613",
-      "title": "Throne of Blood",
-      "year": 1957,
-      "imdbRating": 8,
-      "imdbVotes": 59315,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050330",
-      "title": "The Lower Depths",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 6244,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071411",
-      "title": "Dersu Uzala",
-      "year": 1975,
-      "imdbRating": 8.2,
-      "imdbVotes": 35263,
-      "language": "Russian, Chinese",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0036400",
-      "title": "Sanshiro Sugata",
-      "year": 1943,
-      "imdbRating": 6.7,
-      "imdbVotes": 6102,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038268",
-      "title": "Sanshiro Sugata, Part Two",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2900,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055630",
-      "title": "Yojimbo",
-      "year": 1961,
-      "imdbRating": 8.2,
-      "imdbVotes": 140975,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056443",
-      "title": "Sanjuro",
-      "year": 1962,
-      "imdbRating": 8,
-      "imdbVotes": 43691,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052170",
-      "title": "Sea Fury",
-      "year": 1958,
-      "imdbRating": 6,
-      "imdbVotes": 228,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051702",
-      "title": "Harry Black and the Tiger",
-      "year": 1958,
-      "imdbRating": 6.2,
-      "imdbVotes": 346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051398",
-      "title": "The Barbarian and the Geisha",
-      "year": 1958,
-      "imdbRating": 5.7,
-      "imdbVotes": 2244,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053935",
-      "title": "Ice Cold in Alex",
-      "year": 1958,
-      "imdbRating": 7.7,
-      "imdbVotes": 6816,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052027",
-      "title": "The Old Man and the Sea",
-      "year": 1958,
-      "imdbRating": 6.9,
-      "imdbVotes": 8800,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050613",
+    "tt0050330",
+    "tt0071411",
+    "tt0036400",
+    "tt0038268",
+    "tt0055630",
+    "tt0056443",
+    "tt0052170",
+    "tt0051702",
+    "tt0051398",
+    "tt0053935",
+    "tt0052027"
   ],
   "collections": [
     {

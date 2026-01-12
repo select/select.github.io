@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1948-walk-a-crooked-mile-la-gran-amenaza-gordon-douglas-vose",
+      "id": "1948-walk-a-crooked-mile-la-gran-amenaza-gordon-douglas-vose",
       "title": "1948 - Walk a Crooked Mile - La gran amenaza - Gordon Douglas - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 432582661,
-      "id": "1948-walk-a-crooked-mile-la-gran-amenaza-gordon-douglas-vose"
+      "addedAt": "2026-01-07T00:06:06.561Z",
+      "thumbnail": "https://archive.org/services/img/1948-walk-a-crooked-mile-la-gran-amenaza-gordon-douglas-vose",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 4574
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/walk-a-crooked-mile",
+      "id": "walk-a-crooked-mile",
       "title": "Walk A Crooked Mile",
       "description": "Walk a Crooked Mile Louis Hayward, Dennis O'Keefe, Louise Allbritton, Carl Esmond, Raymond  Burr Columbia Pictures",
       "fileSize": 1587655410,
-      "id": "walk-a-crooked-mile"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/walk-a-crooked-mile",
+      "collection": "feature_films",
+      "downloads": 443
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/walk-a-crooked-mile-1948",
+      "id": "walk-a-crooked-mile-1948",
       "title": "Walk a Crooked Mile (1948)",
       "description": "A security leak is found at a Southern California atomic plant. The authorities stand in fear that the information leaked would go to a hostile nation. To investigate the case more efficiently, Dan O'Hara, an FBI agent, and Philip Grayson, a Scotland Yard sleuth, join forces. Will they manage to stop the spy ring from achieving their aim? Watch on RetroFlix.org:  https://retroflix.org/walk-a-crooked-mile-1948/",
       "fileSize": 166861826,
-      "id": "walk-a-crooked-mile-1948"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/walk-a-crooked-mile-1948",
+      "language": "eng",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 340
     }
   ],
   "metadata": {
@@ -43,117 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043665",
-      "title": "I Was a Communist for the F.B.I.",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 979,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040723",
-      "title": "Raw Deal",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 5802,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039325",
-      "title": "Mr. District Attorney",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0043142",
-      "title": "Woman on the Run",
-      "year": 1950,
-      "imdbRating": 7.2,
-      "imdbVotes": 4980,
-      "language": "English, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0042579",
-      "title": "House by the River",
-      "year": 1950,
-      "imdbRating": 7,
-      "imdbVotes": 4361,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042648",
-      "title": "Kiss Tomorrow Goodbye",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 2537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040779",
-      "title": "Shed No Tears",
-      "year": 1948,
-      "imdbRating": 6.3,
-      "imdbVotes": 473,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0039220",
-      "title": "Brighton Rock",
-      "year": 1948,
-      "imdbRating": 7.3,
-      "imdbVotes": 7156,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041187",
-      "title": "Blonde Ice",
-      "year": 1948,
-      "imdbRating": 6,
-      "imdbVotes": 1410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040237",
-      "title": "Close-Up",
-      "year": 1948,
-      "imdbRating": 5.7,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040257",
-      "title": "Cry of the City",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 3838,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040366",
-      "title": "Force of Evil",
-      "year": 1948,
-      "imdbRating": 7.2,
-      "imdbVotes": 8043,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0043665",
+    "tt0040723",
+    "tt0039325",
+    "tt0043142",
+    "tt0042579",
+    "tt0042648",
+    "tt0040779",
+    "tt0039220",
+    "tt0041187",
+    "tt0040237",
+    "tt0040257",
+    "tt0040366"
   ],
   "collections": [],
   "is_curated": true,

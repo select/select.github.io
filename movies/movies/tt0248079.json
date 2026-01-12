@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-her-bridal-night-mare",
+      "id": "silent-her-bridal-night-mare",
       "title": "Her Bridal Night-Mare",
       "fileSize": 657426922,
-      "id": "silent-her-bridal-night-mare"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-her-bridal-night-mare",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 488
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025187",
-      "title": "Going Spanish",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329121",
-      "title": "The Girl Ranchers",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 36,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011656",
-      "title": "The Scarecrow",
-      "year": 1920,
-      "imdbRating": 7.8,
-      "imdbVotes": 4866,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011071",
-      "title": "Convict 13",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 3668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0367898",
-      "title": "J-U-N-K",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1598572",
-      "title": "Leap Year",
-      "year": 1920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011508",
-      "title": "Neighbors",
-      "year": 1920,
-      "imdbRating": 7.6,
-      "imdbVotes": 4771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011521",
-      "title": "Number, Please?",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 1263,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011541",
-      "title": "One Week",
-      "year": 1920,
-      "imdbRating": 8.1,
-      "imdbVotes": 9535,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011263",
-      "title": "Haunted Spooks",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 1455,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011293",
-      "title": "High and Dizzy",
-      "year": 1920,
-      "imdbRating": 6.8,
-      "imdbVotes": 1494,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010258",
-      "title": "His Royal Slyness",
-      "year": 1920,
-      "imdbRating": 6.2,
-      "imdbVotes": 819,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0025187",
+    "tt0329121",
+    "tt0011656",
+    "tt0011071",
+    "tt0367898",
+    "tt1598572",
+    "tt0011508",
+    "tt0011521",
+    "tt0011541",
+    "tt0011263",
+    "tt0011293",
+    "tt0010258"
   ],
   "collections": [],
   "is_curated": true,

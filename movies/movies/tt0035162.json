@@ -6,24 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/outlaws_of_boulder_pass",
+      "id": "outlaws_of_boulder_pass",
       "title": "Outlaws of Boulder Pass",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 5115365841,
-      "id": "outlaws_of_boulder_pass"
+      "addedAt": "2026-01-07T00:10:12.693Z",
+      "thumbnail": "https://archive.org/services/img/outlaws_of_boulder_pass",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 120260
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/outlaws_of_boulder_pass_1942",
+      "id": "outlaws_of_boulder_pass_1942",
       "title": "Outlaws of Boulder Pass",
       "fileSize": 1215647981,
-      "id": "outlaws_of_boulder_pass_1942"
+      "addedAt": "2026-01-07T00:10:12.693Z",
+      "thumbnail": "https://archive.org/services/img/outlaws_of_boulder_pass_1942",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 20558
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=wlir5E_fCq4",
+      "id": "wlir5E_fCq4",
       "title": "Outlaws of Boulder Pass (1942) GEORGE HOUSTON",
       "description": "Stars: George Houston, Al St. John, Dennis Moore\nDirector: Sam Newfield\n\nHarkness controls Boulder Pass and his men are overcharging the ranches for its usage. When Tom Cameron steps in to rob the tollgate keepers and return the money to the ranchers, he gets caught.",
-      "id": "wlir5E_fCq4",
+      "addedAt": "2025-12-26T23:46:35.554Z",
+      "thumbnail": "https://i.ytimg.com/vi/wlir5E_fCq4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLAi_-Egt8QG-p3cksqsOzPWPeDreA",
+      "duration": 3595,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -43,116 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0033845",
-      "title": "The Lone Rider in Frontier Fury",
-      "year": 1941,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035106",
-      "title": "The Mysterious Rider",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034542",
-      "title": "Border Roundup",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0033393",
-      "title": "Billy the Kid's Fighting Pals",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033391",
-      "title": "Billy the Kid Wanted",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035723",
-      "title": "Cattle Stampede",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035804",
-      "title": "Devil Riders",
-      "year": 1943,
-      "imdbRating": 5.8,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035908",
-      "title": "Fugitive of the Plains",
-      "year": 1943,
-      "imdbRating": 5.3,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036074",
-      "title": "The Kid Rides Again",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033394",
-      "title": "Billy the Kid's Range War",
-      "year": 1941,
-      "imdbRating": 5.7,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0030159",
-      "title": "Frontier Scout",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 107,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135805",
-      "title": "Billy the Kid's Gun Justice",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 117,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0033845",
+    "tt0035106",
+    "tt0034542",
+    "tt0033393",
+    "tt0033391",
+    "tt0035723",
+    "tt0035804",
+    "tt0035908",
+    "tt0036074",
+    "tt0033394",
+    "tt0030159",
+    "tt0135805"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dragnet-girl",
+      "id": "dragnet-girl",
       "title": "Dragnet Girl",
       "description": "This formally accomplished and psychologically complex gangster tale pivots on the growing attraction between Joji, a hardened career criminal, and Kazuko, the sweet-natured older sister of a newly initiated young hoodlum—a relationship that provokes the jealousy of Joji’s otherwise patient moll, Tokiko. With effortlessly cool performances and visual inventiveness,  Dragnet Girl  is a bravura work from Yasujiro Ozu.",
       "fileSize": 8255632148,
-      "id": "dragnet-girl"
+      "addedAt": "2026-01-07T00:08:15.375Z",
+      "thumbnail": "https://archive.org/services/img/dragnet-girl",
+      "language": "jpn",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 5003
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020980",
-      "title": "Walk Cheerfully",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 776,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024628",
-      "title": "Sucker Money",
-      "year": 1933,
-      "imdbRating": 4.7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024656",
-      "title": "This Day and Age",
-      "year": 1933,
-      "imdbRating": 6.3,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021406",
-      "title": "That Night's Wife",
-      "year": 1930,
-      "imdbRating": 6.9,
-      "imdbVotes": 963,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022662",
-      "title": "Behind Stone Walls",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 111,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023025",
-      "title": "The Honor of the Press",
-      "year": 1932,
-      "imdbRating": 4.9,
-      "imdbVotes": 45,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023030",
-      "title": "Hotel Continental",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025196",
-      "title": "Grand Canary",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 115,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025580",
-      "title": "Now and Forever",
-      "year": 1934,
-      "imdbRating": 6.5,
-      "imdbVotes": 1197,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026882",
-      "title": "Port of Lost Dreams",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 65,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0021770",
-      "title": "The Criminal Code",
-      "year": 1931,
-      "imdbRating": 6.9,
-      "imdbVotes": 1535,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020980",
+    "tt0024151",
+    "tt0024628",
+    "tt0024656",
+    "tt0021406",
+    "tt0022662",
+    "tt0023025",
+    "tt0023030",
+    "tt0025196",
+    "tt0025580",
+    "tt0026882",
+    "tt0021770"
   ],
   "collections": [],
   "is_curated": true,

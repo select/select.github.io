@@ -6,9 +6,18 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mr-wu_1927",
+      "id": "mr-wu_1927",
       "title": "Mr. Wu",
       "fileSize": 5243133417,
-      "id": "mr-wu_1927"
+      "addedAt": "2026-01-07T00:09:54.331Z",
+      "thumbnail": "https://archive.org/services/img/mr-wu_1927",
+      "language": [
+        "English",
+        "Mandarin"
+      ],
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 1708
     }
   ],
   "metadata": {
@@ -26,117 +35,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030126",
-      "title": "Female Fugitive",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 78,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030170",
-      "title": "Gangster's Boy",
-      "year": 1938,
-      "imdbRating": 5.9,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030692",
-      "title": "Romance of the Limberlost",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018166",
-      "title": "Mockery",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 578,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018528",
-      "title": "The Unknown",
-      "year": 1927,
-      "imdbRating": 7.7,
-      "imdbVotes": 9487,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0036474",
-      "title": "The Underdog",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0018471",
-      "title": "Tell It to the Marines",
-      "year": 1926,
-      "imdbRating": 7.1,
-      "imdbVotes": 1677,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019811",
-      "title": "Desert Nights",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 1237,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016473",
-      "title": "The Unholy Three",
-      "year": 1925,
-      "imdbRating": 7.1,
-      "imdbVotes": 2348,
-      "language": "None, English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    }
+    "tt0018618",
+    "tt0028592",
+    "tt0028634",
+    "tt0030126",
+    "tt0030170",
+    "tt0030692",
+    "tt0018166",
+    "tt0018528",
+    "tt0036474",
+    "tt0018471",
+    "tt0019811",
+    "tt0016473"
   ],
   "collections": [],
   "is_curated": true,

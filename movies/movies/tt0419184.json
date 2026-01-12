@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/taro-san-no-kisha-1929",
+      "id": "taro-san-no-kisha-1929",
       "title": "Tarô-san no kisha (1929)",
       "description": "A combination of live action, traditional animation, and stop motion animation. A father buys his son a toy train, which he loves. When the boy goes to sleep, the train comes to life and crawls into the bed with the boy, giving him a dream about proper train etiquette. Watch on RetroFlix.org:  https://retroflix.org/taro-san-no-kisha-1929/",
       "fileSize": 55050603,
-      "id": "taro-san-no-kisha-1929"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/taro-san-no-kisha-1929",
+      "language": "jpn",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 289
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tarosan-no-kisha_1929",
+      "id": "tarosan-no-kisha_1929",
       "title": "Tarô-san no kisha",
       "fileSize": 417250571,
-      "id": "tarosan-no-kisha_1929"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/tarosan-no-kisha_1929",
+      "language": "Japanese",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 548
     }
   ],
   "metadata": {
@@ -34,113 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0418640",
-      "title": "Dobutsu olympic taikai",
-      "year": 1928,
-      "imdbRating": 5.6,
-      "imdbVotes": 21,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419115",
-      "title": "Sarukani-gassen",
-      "year": 1927,
-      "imdbVotes": 26,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146423",
-      "title": "Alpine Antics",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135836",
-      "title": "Chemical Ko-Ko",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 31,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146596",
-      "title": "Custard Pies",
-      "year": 1929,
-      "imdbRating": 4,
-      "imdbVotes": 30,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150513",
-      "title": "Farm Relief",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019014",
-      "title": "Homeless Homer",
-      "year": 1929,
-      "imdbRating": 4.1,
-      "imdbVotes": 32,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146913",
-      "title": "House Cleaning Time",
-      "year": 1929,
-      "imdbRating": 4.5,
-      "imdbVotes": 32,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0142419",
-      "title": "Jungle Jingles",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136324",
-      "title": "Ko-Ko's Harem Scarem",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 39,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146975",
-      "title": "Land o' Cotton",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 18,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0418640",
+    "tt0419115",
+    "tt0146423",
+    "tt0135836",
+    "tt0146596",
+    "tt0475080",
+    "tt0150513",
+    "tt0019014",
+    "tt0146913",
+    "tt0142419",
+    "tt0136324",
+    "tt0146975"
   ],
   "collections": [],
   "is_curated": true,

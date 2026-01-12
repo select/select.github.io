@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/london-by-night-1937_202112",
+      "id": "london-by-night-1937_202112",
       "title": "London By Night (1937)",
       "description": "George Murphy, Rita Johnson, Leo G. Carroll",
       "fileSize": 1010530805,
-      "id": "london-by-night-1937_202112"
+      "addedAt": "2026-01-07T00:09:38.892Z",
+      "thumbnail": "https://archive.org/services/img/london-by-night-1937_202112",
+      "collection": "feature_films",
+      "downloads": 968
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028360",
-      "title": "The 13th Man",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 145,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028668",
-      "title": "Bulldog Drummond Escapes",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 1020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028788",
-      "title": "Dinner at the Ritz",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029855",
-      "title": "Algiers",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 3341,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029012",
-      "title": "Hollywood Stadium Mystery",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 169,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030727",
-      "title": "Secrets of an Actress",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027923",
-      "title": "Mad Holiday",
-      "year": 1936,
-      "imdbRating": 6.1,
-      "imdbVotes": 211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028355",
-      "title": "Theodora Goes Wild",
-      "year": 1936,
-      "imdbRating": 7.1,
-      "imdbVotes": 3078,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027614",
-      "title": "Feud of the West",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 35,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0031125",
-      "title": "Bulldog Drummond's Secret Police",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 672,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026177",
-      "title": "Captured in Chinatown",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031495",
-      "title": "Irish Luck",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 224,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028360",
+    "tt0028668",
+    "tt0028788",
+    "tt0029855",
+    "tt0029012",
+    "tt0030727",
+    "tt0027923",
+    "tt0028355",
+    "tt0027614",
+    "tt0031125",
+    "tt0026177",
+    "tt0031495"
   ],
   "collections": [],
   "is_curated": true,

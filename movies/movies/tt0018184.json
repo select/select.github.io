@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/my-friend-from-india_1927",
+      "id": "my-friend-from-india_1927",
       "title": "My Friend from India",
       "fileSize": 4321121736,
-      "id": "my-friend-from-india_1927"
+      "addedAt": "2026-01-07T00:09:54.333Z",
+      "thumbnail": "https://archive.org/services/img/my-friend-from-india_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 1591
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019339",
-      "title": "The Rush Hour",
-      "year": 1927,
-      "imdbRating": 7.9,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019085",
-      "title": "Let 'Er Go Gallegher",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018710",
-      "title": "A Blonde for a Night",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020488",
-      "title": "Their Own Desire",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 779,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0440334",
-      "title": "A Dozen Socks",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017634",
-      "title": "Anything Once!",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017765",
-      "title": "College",
-      "year": 1927,
-      "imdbRating": 6.9,
-      "imdbVotes": 5578,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018394",
-      "title": "Should Men Walk Home?",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 146,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017739",
-      "title": "The Cat and the Canary",
-      "year": 1927,
-      "imdbRating": 7.1,
-      "imdbVotes": 3473,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017926",
-      "title": "A Gentleman of Paris",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017560",
-      "title": "A Wild Roomer",
-      "year": 1927,
-      "imdbRating": 7.2,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0019339",
+    "tt0019085",
+    "tt0018710",
+    "tt0020488",
+    "tt0440334",
+    "tt0017634",
+    "tt0312544",
+    "tt0017765",
+    "tt0018394",
+    "tt0017739",
+    "tt0017926",
+    "tt0017560"
   ],
   "collections": [],
   "is_curated": true,

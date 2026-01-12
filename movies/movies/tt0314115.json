@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/GoodNightNurse_44",
+      "id": "GoodNightNurse_44",
       "title": "Good Night Nurse",
       "description": "A silent short comedy from 1928 directed by and starring Fatty Arbuckle with help from Buster Keaton and Al St John.",
       "fileSize": 2071435982,
-      "id": "GoodNightNurse_44"
+      "addedAt": "2026-01-07T00:06:25.400Z",
+      "thumbnail": "https://archive.org/services/img/GoodNightNurse_44",
+      "collection": "feature_films",
+      "downloads": 13829
     }
   ],
   "metadata": {
@@ -27,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0248263",
-      "title": "Only Me",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256021",
-      "title": "Fandango",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248370",
-      "title": "Roaming Romeo",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146563",
-      "title": "A Close Call",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174101",
-      "title": "A Pair of Tights",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 151,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329729",
-      "title": "The Varsity Drag",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146423",
-      "title": "Alpine Antics",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019640",
-      "title": "Angora Love",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0349106",
-      "title": "Ask Dad",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893199",
-      "title": "At the Party",
-      "year": 1929,
-      "imdbRating": 4.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0248263",
+    "tt0256021",
+    "tt0248370",
+    "tt0146563",
+    "tt0174101",
+    "tt0329729",
+    "tt1706294",
+    "tt1698474",
+    "tt0146423",
+    "tt0019640",
+    "tt0349106",
+    "tt1893199"
   ],
   "collections": [],
   "is_curated": true,

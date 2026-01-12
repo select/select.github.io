@@ -6,17 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-wind-1928_202505",
+      "id": "the-wind-1928_202505",
       "title": "The Wind (1928)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Lead actress Lillian Gish decided that she would like to star in a film based on the 1925 novel, also titled The Wind. This tragedy drama has become increasingly beloved since it's release, and is frequently thought of as one of the greatest silent films.",
       "fileSize": 2053449053,
-      "id": "the-wind-1928_202505"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-wind-1928_202505",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 219
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-wind_1928",
+      "id": "the-wind_1928",
       "title": "The Wind",
       "fileSize": 4617448655,
-      "id": "the-wind_1928"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-wind_1928",
+      "language": "English",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 4097
     }
   ],
   "metadata": {
@@ -34,114 +46,18 @@
     "Awards": "3 wins"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018836",
-      "title": "The Divine Woman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021044",
-      "title": "A Lady to Love",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 260,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017350",
-      "title": "The Scarlet Letter",
-      "year": 1926,
-      "imdbRating": 7.6,
-      "imdbVotes": 1914,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0138560",
-      "title": "Korkein voitto",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 76,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020581",
-      "title": "Where East Is East",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 710,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014972",
-      "title": "He Who Gets Slapped",
-      "year": 1924,
-      "imdbRating": 7.7,
-      "imdbVotes": 4606,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014014",
-      "title": "The Hell Ship",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 153,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017632",
-      "title": "Annie Laurie",
-      "year": 1927,
-      "imdbRating": 6.7,
-      "imdbVotes": 534,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017735",
-      "title": "Captain Salvation",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037547",
-      "title": "Blood on the Sun",
-      "year": 1945,
-      "imdbRating": 6,
-      "imdbVotes": 2330,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0018836",
+    "tt0021044",
+    "tt0017350",
+    "tt0018972",
+    "tt0138560",
+    "tt0020581",
+    "tt0014972",
+    "tt0014014",
+    "tt0018990",
+    "tt0017632",
+    "tt0017735",
+    "tt0037547"
   ],
   "collections": [
     {

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/criminally-insane",
+      "id": "criminally-insane",
       "title": "Criminally Insane",
       "description": "An obese woman recently released from an insane asylum kills anyone who attempts to get her to stop eating.",
       "fileSize": 621740697,
-      "id": "criminally-insane"
+      "addedAt": "2026-01-07T00:07:51.626Z",
+      "thumbnail": "https://archive.org/services/img/criminally-insane",
+      "collection": "feature_films",
+      "downloads": 935
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0073582",
-      "title": "Deep Red",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 45677,
-      "language": "Italian, German, Hebrew",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071395",
-      "title": "The Dead Don't Die",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 393,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072179",
-      "title": "Sunburst",
-      "year": 1975,
-      "imdbRating": 3,
-      "imdbVotes": 439,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071120",
-      "title": "All the Kind Strangers",
-      "year": 1974,
-      "imdbRating": 5.6,
-      "imdbVotes": 984,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211971",
-      "title": "Born for Hell",
-      "year": 1976,
-      "imdbRating": 5.2,
-      "imdbVotes": 1026,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074875",
-      "title": "Massacre at Central High",
-      "year": 1976,
-      "imdbRating": 6.1,
-      "imdbVotes": 2967,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069838",
-      "title": "Bell from Hell",
-      "year": 1973,
-      "imdbRating": 5.6,
-      "imdbVotes": 1577,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069994",
-      "title": "Don't Look in the Basement",
-      "year": 1973,
-      "imdbRating": 4.9,
-      "imdbVotes": 3609,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076630",
-      "title": "Rituals",
-      "year": 1977,
-      "imdbRating": 6.2,
-      "imdbVotes": 2997,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0070917",
-      "title": "The Wicker Man",
-      "year": 1973,
-      "imdbRating": 7.5,
-      "imdbVotes": 102098,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0076068",
-      "title": "Watch Me When I Kill",
-      "year": 1977,
-      "imdbRating": 5.9,
-      "imdbVotes": 1552,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0068967",
-      "title": "Moon of the Wolf",
-      "year": 1972,
-      "imdbRating": 5.1,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0073582",
+    "tt0071395",
+    "tt0072179",
+    "tt0071120",
+    "tt0211971",
+    "tt0074875",
+    "tt0069838",
+    "tt0069994",
+    "tt0076630",
+    "tt0070917",
+    "tt0076068",
+    "tt0068967"
   ],
   "collections": [],
   "is_curated": true,

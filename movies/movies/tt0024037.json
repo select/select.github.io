@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Friday_the_Thirteenth_1933",
+      "id": "Friday_the_Thirteenth_1933",
       "title": "Friday the Thirteenth",
       "description": "Flashbacks tell the stories of the 13 passengers on a bus that crashes.",
       "fileSize": 1962259919,
-      "id": "Friday_the_Thirteenth_1933"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/Friday_the_Thirteenth_1933",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 46667
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025094",
-      "title": "Evergreen",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027810",
-      "title": "It's Love Again",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 344,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0024161",
-      "title": "I Was a Spy",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 235,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026694",
-      "title": "Me and Marlborough",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023845",
-      "title": "Britannia of Billingsgate",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024122",
-      "title": "His Double Life",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 389,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024421",
-      "title": "Our Betters",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024436",
-      "title": "Perfect Understanding",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 772,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024679",
-      "title": "Tomorrow at Seven",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 393,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023896",
-      "title": "Clear All Wires!",
-      "year": 1933,
-      "imdbRating": 6,
-      "imdbVotes": 185,
-      "language": "French, Russian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024083",
-      "title": "Hallelujah I'm a Bum",
-      "year": 1933,
-      "imdbRating": 6.9,
-      "imdbVotes": 858,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025094",
+    "tt0027810",
+    "tt0024161",
+    "tt0026694",
+    "tt0023845",
+    "tt0023955",
+    "tt0024122",
+    "tt0024421",
+    "tt0024436",
+    "tt0024679",
+    "tt0023896",
+    "tt0024083"
   ],
   "collections": [],
   "is_curated": true,

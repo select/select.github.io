@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-land-beyond-the-sunset",
+      "id": "silent-the-land-beyond-the-sunset",
       "title": "The Land Beyond the Sunset",
       "fileSize": 345675626,
-      "id": "silent-the-land-beyond-the-sunset"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-land-beyond-the-sunset",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 339
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0214588",
-      "title": "A Christmas Accident",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 305,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233498",
-      "title": "The Crime of Carelessness",
-      "year": 1912,
-      "imdbRating": 5.5,
-      "imdbVotes": 84,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0417062",
-      "title": "The Portrait of the Lady Anne",
-      "year": 1912,
-      "imdbRating": 6.8,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003516",
-      "title": "The Wanderer",
-      "year": 1913,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001544",
-      "title": "A Christmas Carol",
-      "year": 1910,
-      "imdbRating": 6,
-      "imdbVotes": 902,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191358",
-      "title": "Pikovaya dama",
-      "year": 1910,
-      "imdbRating": 5.4,
-      "imdbVotes": 202,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0405424",
-      "title": "The Usurer's Grip",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 75,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233246",
-      "title": "At Bear Track Gulch",
-      "year": 1913,
-      "imdbRating": 5.2,
-      "imdbVotes": 97,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233728",
-      "title": "Fireside Reminiscences",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0298570",
-      "title": "The Tempest",
-      "year": 1908,
-      "imdbRating": 5.8,
-      "imdbVotes": 279,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002054",
-      "title": "A Beast at Bay",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 220,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0214588",
+    "tt0233498",
+    "tt0417062",
+    "tt0003516",
+    "tt0001544",
+    "tt0191358",
+    "tt0405424",
+    "tt0233246",
+    "tt0233728",
+    "tt0298570",
+    "tt0002381",
+    "tt0002054"
   ],
   "collections": [],
   "is_curated": true,

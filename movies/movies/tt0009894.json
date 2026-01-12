@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-grey-automobile",
+      "id": "silent-the-grey-automobile",
       "title": "The Grey Automobile",
       "fileSize": 1127944956,
-      "id": "silent-the-grey-automobile"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-grey-automobile",
+      "language": "Spanish",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 537
     }
   ],
   "metadata": {
@@ -26,121 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0116374",
-      "title": "Fugitive Rage",
-      "year": 1996,
-      "imdbRating": 4.4,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt1060255",
-      "title": "The Horseman",
-      "year": 2008,
-      "imdbRating": 6.5,
-      "imdbVotes": 5465,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0489070",
-      "title": "Hard Luck",
-      "year": 2006,
-      "imdbRating": 5.2,
-      "imdbVotes": 2942,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1308729",
-      "title": "Bullet to the Head",
-      "year": 2012,
-      "imdbRating": 5.7,
-      "imdbVotes": 53382,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0074156",
-      "title": "Assault on Precinct 13",
-      "year": 1976,
-      "imdbRating": 7.3,
-      "imdbVotes": 58340,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454402",
-      "title": "Bad Guys",
-      "year": 2008,
-      "imdbRating": 4.1,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0285823",
-      "title": "Once Upon a Time in Mexico",
-      "year": 2003,
-      "imdbRating": 6.3,
-      "imdbVotes": 174213,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3540136",
-      "title": "Wolf Warrior",
-      "year": 2015,
-      "imdbRating": 5.3,
-      "imdbVotes": 6282,
-      "language": "Mandarin, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt5847286",
-      "title": "Shock Wave",
-      "year": 2017,
-      "imdbRating": 6.3,
-      "imdbVotes": 4191,
-      "language": "Cantonese, English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt7043534",
-      "title": "General Commander",
-      "year": 2019,
-      "imdbRating": 3.1,
-      "imdbVotes": 2122,
-      "language": "English, Italian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0463985",
-      "title": "The Fast and the Furious: Tokyo Drift",
-      "year": 2006,
-      "imdbRating": 6.1,
-      "imdbVotes": 324387,
-      "language": "English, Japanese, Portuguese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0073756",
-      "title": "The Street Fighter",
-      "year": 1974,
-      "imdbRating": 6.9,
-      "imdbVotes": 5803,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt0116374",
+    "tt1060255",
+    "tt0489070",
+    "tt1308729",
+    "tt0074156",
+    "tt0454402",
+    "tt3540136",
+    "tt5847286",
+    "tt7043534",
+    "tt0073756",
+    "tt0827521",
+    "tt0313724"
   ],
   "collections": [],
   "is_curated": true,

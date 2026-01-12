@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/MenOfTheForest",
+      "id": "MenOfTheForest",
       "title": "Men of the Forest",
       "description": "A paternalistic pseudo documentary produced by the US Information Service (see note) on the lives of of Georgia pulpwood loggers. The purpose of this film is unclear. Was it produced to discourage the postwar northward migration of southern rural blacks? Directed by Lawrence A Glesnes. Production date circa 1950. Complete print. NOTE: In 1953 the domestic US Information Service (USIS) became the US Information Agency (USIA) with an international mission.",
       "fileSize": 866574610,
-      "id": "MenOfTheForest"
+      "addedAt": "2026-01-07T00:06:38.752Z",
+      "thumbnail": "https://archive.org/services/img/MenOfTheForest",
+      "collection": "feature_films",
+      "downloads": 3628
     }
   ],
   "metadata": {
@@ -27,108 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1765974",
-      "title": "Operation Ivy",
-      "year": 1952,
-      "imdbRating": 7.1,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5172084",
-      "title": "The Real Miss America",
-      "year": 1952,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0213381",
-      "title": "Duck and Cover",
-      "year": 1952,
-      "imdbRating": 6,
-      "imdbVotes": 1124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4860278",
-      "title": "Rocky Marciano, Champion vs. Jersey Joe Walcott, Challenger",
-      "year": 1953,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212082",
-      "title": "Das war unser Rommel",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13721236",
-      "title": "The Senate Crime Investigations: Part One",
-      "year": 1951,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0141807",
-      "title": "Congolaise",
-      "year": 1950,
-      "imdbRating": 4.9,
-      "imdbVotes": 29,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14091630",
-      "title": "Target You",
-      "year": 1950,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt36044509",
-      "title": "Long John Silver - Ahoy!",
-      "year": 1954,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044493",
-      "title": "Champagne Safari",
-      "year": 1954,
-      "imdbRating": 6.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135628",
-      "title": "Rhythm and Blues Revue",
-      "year": 1955,
-      "imdbRating": 7,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041891",
-      "title": "So Much for So Little",
-      "year": 1949,
-      "imdbRating": 6.2,
-      "imdbVotes": 494,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1765974",
+    "tt5172084",
+    "tt0213381",
+    "tt4860278",
+    "tt0212082",
+    "tt13721236",
+    "tt0141807",
+    "tt14091630",
+    "tt36044509",
+    "tt0044493",
+    "tt0135628",
+    "tt0041891"
   ],
   "collections": [],
   "is_curated": true,

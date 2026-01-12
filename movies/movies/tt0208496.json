@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-la-tare",
+      "id": "silent-la-tare",
       "title": "La tare",
       "fileSize": 862836377,
-      "id": "silent-la-tare"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-la-tare",
+      "year": 1911,
+      "collection": "feature_films",
+      "downloads": 308
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0209437",
-      "title": "Le trust, ou les batailles de l'argent",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208195",
-      "title": "La hantise",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 140,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208372",
-      "title": "La Possession de l'enfant",
-      "year": 1909,
-      "imdbRating": 5.3,
-      "imdbVotes": 156,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208230",
-      "title": "L'intruse",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208059",
-      "title": "Le coeur et l'argent",
-      "year": 1912,
-      "imdbRating": 6.2,
-      "imdbVotes": 174,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208378",
-      "title": "Le printemps - Épisode 1: L'éveil des sources - L'éveil des nids",
-      "year": 1909,
-      "imdbRating": 5.6,
-      "imdbVotes": 173,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002844",
-      "title": "Fantômas: In the Shadow of the Guillotine",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 2634,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003165",
-      "title": "Fantômas: The Dead Man Who Killed",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 1306,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001987",
-      "title": "A Woman Scorned",
-      "year": 1911,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001510",
-      "title": "Bobby, the Coward",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001593",
-      "title": "Enoch Arden: Part I",
-      "year": 1911,
-      "imdbRating": 6.3,
-      "imdbVotes": 393,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0209437",
+    "tt0207954",
+    "tt0208195",
+    "tt0208372",
+    "tt0208230",
+    "tt0208059",
+    "tt0208378",
+    "tt0002844",
+    "tt0003165",
+    "tt0001987",
+    "tt0001510",
+    "tt0001593"
   ],
   "collections": [],
   "is_curated": true,

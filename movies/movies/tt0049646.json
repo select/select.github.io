@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-quatermass-xperiment",
+      "id": "the-quatermass-xperiment",
       "title": "The Quatermass Xperiment",
       "description": "Professor Bernard Quatermass' manned rocket ship returns to Earth, but two of the astronauts are missing and the survivor seems ill and unable to communicate.",
       "fileSize": 6415159641,
-      "id": "the-quatermass-xperiment"
+      "addedAt": "2026-01-07T00:12:22.157Z",
+      "thumbnail": "https://archive.org/services/img/the-quatermass-xperiment",
+      "language": "eng",
+      "year": 1955,
+      "collection": "feature_films",
+      "downloads": 13478
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0050873",
-      "title": "Quatermass 2",
-      "year": 1957,
-      "imdbRating": 6.8,
-      "imdbVotes": 5011,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050095",
-      "title": "The Abominable Snowman",
-      "year": 1957,
-      "imdbRating": 6.4,
-      "imdbVotes": 5162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048127",
-      "title": "Godzilla Raids Again",
-      "year": 1955,
-      "imdbRating": 5.7,
-      "imdbVotes": 9173,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048215",
-      "title": "It Came from Beneath the Sea",
-      "year": 1955,
-      "imdbRating": 5.9,
-      "imdbVotes": 6690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049615",
-      "title": "The Phantom from 10,000 Leagues",
-      "year": 1955,
-      "imdbRating": 3.6,
-      "imdbVotes": 2234,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0048256",
-      "title": "King Dinosaur",
-      "year": 1955,
-      "imdbRating": 2.2,
-      "imdbVotes": 1686,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0048554",
-      "title": "Revenge of the Creature",
-      "year": 1955,
-      "imdbRating": 5.6,
-      "imdbVotes": 7271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048696",
-      "title": "Tarantula",
-      "year": 1955,
-      "imdbRating": 6.4,
-      "imdbVotes": 11470,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047898",
-      "title": "Bride of the Monster",
-      "year": 1955,
-      "imdbRating": 4.1,
-      "imdbVotes": 7816,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0047149",
-      "title": "Killers from Space",
-      "year": 1954,
-      "imdbRating": 3.5,
-      "imdbVotes": 2632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0197521",
-      "title": "Godzilla: King of the Monsters!",
-      "year": 1956,
-      "imdbRating": 6.3,
-      "imdbVotes": 9321,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046907",
-      "title": "Devil Girl from Mars",
-      "year": 1954,
-      "imdbRating": 4.9,
-      "imdbVotes": 2235,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0050873",
+    "tt0050095",
+    "tt0048127",
+    "tt0048215",
+    "tt0049615",
+    "tt0048256",
+    "tt0048554",
+    "tt0048696",
+    "tt0047898",
+    "tt0047149",
+    "tt0197521",
+    "tt0046907"
   ],
   "collections": [
     {

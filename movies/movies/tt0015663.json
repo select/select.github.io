@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-california-straight-ahead",
+      "id": "silent-california-straight-ahead",
       "title": "California Straight Ahead",
       "fileSize": 1510749047,
-      "id": "silent-california-straight-ahead"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-california-straight-ahead",
+      "language": "English",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 2361
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018524",
-      "title": "Uncle Tom's Cabin",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 516,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016028",
-      "title": "Little Annie Rooney",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 1087,
-      "language": "English, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016548",
-      "title": "A Woman of the World",
-      "year": 1925,
-      "imdbRating": 6.8,
-      "imdbVotes": 189,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0016013",
-      "title": "Lazybones",
-      "year": 1925,
-      "imdbRating": 7.2,
-      "imdbVotes": 561,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015768",
-      "title": "Master of the House",
-      "year": 1925,
-      "imdbRating": 7,
-      "imdbVotes": 2506,
-      "language": "Danish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016241",
-      "title": "Pretty Ladies",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 273,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016251",
-      "title": "Proud Flesh",
-      "year": 1925,
-      "imdbRating": 5.1,
-      "imdbVotes": 215,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016051",
-      "title": "The Lucky Devil",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016258",
-      "title": "The Rag Man",
-      "year": 1925,
-      "imdbRating": 7,
-      "imdbVotes": 408,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017457",
-      "title": "That Model from Paris",
-      "year": 1926,
-      "imdbRating": 7.4,
-      "imdbVotes": 87,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014646",
-      "title": "Aelita, the Queen of Mars",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 3076,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016643",
-      "title": "The Better 'Ole",
-      "year": 1926,
-      "imdbRating": 6.2,
-      "imdbVotes": 311,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0018524",
+    "tt0016028",
+    "tt0016548",
+    "tt0016013",
+    "tt0015768",
+    "tt0016241",
+    "tt0016251",
+    "tt0016051",
+    "tt0016258",
+    "tt0017457",
+    "tt0014646",
+    "tt0016643"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1937-versprich-mir-nichts-luise-ullrich-viktor-de-kowa-heinrich-george",
+      "id": "1937-versprich-mir-nichts-luise-ullrich-viktor-de-kowa-heinrich-george",
       "title": "1937 Versprich Mir Nichts( Luise Ullrich, Viktor De Kowa, Heinrich George)",
       "description": "Film aus dem deutschen dritten Reich von 1937. Versprich mir nichts. U.a mit Viktor de Kowa,Luise Ullrich und Heinrich George ",
       "fileSize": 972343312,
-      "id": "1937-versprich-mir-nichts-luise-ullrich-viktor-de-kowa-heinrich-george"
+      "addedAt": "2026-01-07T00:06:02.055Z",
+      "thumbnail": "https://archive.org/services/img/1937-versprich-mir-nichts-luise-ullrich-viktor-de-kowa-heinrich-george",
+      "language": "ger",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 162
     }
   ],
   "metadata": {
@@ -27,107 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0030527",
-      "title": "Der Optimist",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030721",
-      "title": "Scheidungsreise",
-      "year": 1938,
-      "imdbVotes": 7,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030828",
-      "title": "Der Tag nach der Scheidung",
-      "year": 1938,
-      "imdbRating": 6.6,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030086",
-      "title": "Du und ich",
-      "year": 1938,
-      "imdbRating": 6.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031004",
-      "title": "Yvette",
-      "year": 1938,
-      "imdbRating": 6.9,
-      "imdbVotes": 17,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026309",
-      "title": "Das Einmaleins der Liebe",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 21,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028568",
-      "title": "All Over Town",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028574",
-      "title": "Amateur Crook",
-      "year": 1937,
-      "imdbRating": 5,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233667",
-      "title": "Der Etappenhase",
-      "year": 1937,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028018",
-      "title": "Ein Mädel vom Ballett",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029101",
-      "title": "Der Lachdoktor",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029521",
-      "title": "Der Schimmelkrieg in der Holledau",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0030527",
+    "tt0030721",
+    "tt0030828",
+    "tt0030086",
+    "tt0031004",
+    "tt0026309",
+    "tt0028568",
+    "tt0028574",
+    "tt0233667",
+    "tt0028018",
+    "tt0029101",
+    "tt0029521"
   ],
   "collections": [],
   "is_curated": true,

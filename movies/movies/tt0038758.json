@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/murder-in-the-music-hall-1946",
+      "id": "murder-in-the-music-hall-1946",
       "title": "Murder In The Music Hall (1946)",
       "description": "Vera Hruba Raltson, William Marshall Republic Pictures",
       "fileSize": 1414849273,
-      "id": "murder-in-the-music-hall-1946"
+      "addedAt": "2026-01-07T00:09:54.332Z",
+      "thumbnail": "https://archive.org/services/img/murder-in-the-music-hall-1946",
+      "collection": "feature_films",
+      "downloads": 1080
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0037752",
-      "title": "Grissly's Millions",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037984",
-      "title": "The Phantom Speaks",
-      "year": 1945,
-      "imdbRating": 5.7,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038212",
-      "title": "Utah",
-      "year": 1945,
-      "imdbRating": 5.5,
-      "imdbVotes": 193,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036690",
-      "title": "Call of the South Seas",
-      "year": 1944,
-      "imdbRating": 5.1,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037245",
-      "title": "San Fernando Valley",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040543",
-      "title": "Loaded Pistols",
-      "year": 1948,
-      "imdbRating": 5.8,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038494",
-      "title": "Dressed to Kill",
-      "year": 1946,
-      "imdbRating": 6.8,
-      "imdbVotes": 7431,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038577",
-      "title": "Green for Danger",
-      "year": 1946,
-      "imdbRating": 7.4,
-      "imdbVotes": 6052,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038640",
-      "title": "The Inner Circle",
-      "year": 1946,
-      "imdbRating": 6,
-      "imdbVotes": 523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039800",
-      "title": "Scared to Death",
-      "year": 1946,
-      "imdbRating": 4.1,
-      "imdbVotes": 1834,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024443",
-      "title": "The Phantom Broadcast",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038449",
-      "title": "Dangerous Money",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 1300,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0037752",
+    "tt0037984",
+    "tt0038212",
+    "tt0036690",
+    "tt0037245",
+    "tt0040543",
+    "tt0038494",
+    "tt0038577",
+    "tt0038640",
+    "tt0039800",
+    "tt0024443",
+    "tt0038449"
   ],
   "collections": [],
   "is_curated": true,

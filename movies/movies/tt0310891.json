@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-le-chrysanthme-rouge",
+      "id": "silent-le-chrysanthme-rouge",
       "title": "Le chrysanthème rouge",
       "fileSize": 219783023,
-      "id": "silent-le-chrysanthme-rouge"
+      "addedAt": "2026-01-07T00:11:07.408Z",
+      "thumbnail": "https://archive.org/services/img/silent-le-chrysanthme-rouge",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 228
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0438017",
-      "title": "The Matrimonial Express",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003059",
-      "title": "Léonce cinématographiste",
-      "year": 1913,
-      "imdbRating": 5.8,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1003515",
-      "title": "Oscar au bain",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 30,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215495",
-      "title": "Algie, the Miner",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 568,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234694",
-      "title": "A Serenade by Proxy",
-      "year": 1913,
-      "imdbRating": 5.5,
-      "imdbVotes": 89,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0437080",
-      "title": "L'automne du coeur",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 71,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0438472",
-      "title": "Sur la voie",
-      "year": 1913,
-      "imdbRating": 6.8,
-      "imdbVotes": 42,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003805",
-      "title": "Cruel, Cruel Love",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 1477,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001458",
-      "title": "Wilful Peggy",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001002",
-      "title": "The Politician's Love Story",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464747",
-      "title": "Those Bitter Sweets",
-      "year": 1915,
-      "imdbRating": 4.6,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0437960",
-      "title": "Les dents de fer",
-      "year": 1913,
-      "imdbRating": 6.8,
-      "imdbVotes": 60,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0438017",
+    "tt0003059",
+    "tt1003515",
+    "tt0215495",
+    "tt0234694",
+    "tt0437080",
+    "tt0438472",
+    "tt0003805",
+    "tt0001458",
+    "tt0001002",
+    "tt0464747",
+    "tt0437960"
   ],
   "collections": [],
   "is_curated": true,

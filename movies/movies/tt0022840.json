@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_drifter",
+      "id": "the_drifter",
       "title": "Drifter, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3937688913,
-      "id": "the_drifter"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_drifter",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 30509
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=4qJupdab3AI",
+      "id": "4qJupdab3AI",
       "title": "The Drifter (1932) WESTERN",
       "description": "Stars: William Farnum, Noah Beery, Phyllis Barrington\n Director: William A. O'Connor\n\n A man known as The Drifter returns home to his cabin in the woods and winds up getting involved with an escaped convict, a gunfighter, lumber company rivals, mysterious family ties and murder!",
-      "id": "4qJupdab3AI",
+      "addedAt": "2025-12-26T23:49:38.757Z",
+      "thumbnail": "https://i.ytimg.com/vi/4qJupdab3AI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAWAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCGqubXWOwDf4pUmOdVClSxvQ2pNA",
+      "duration": 3960,
+      "language": "en",
+      "year": 1932,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,118 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022470",
-      "title": "Ten Nights in a Bar-Room",
-      "year": 1931,
-      "imdbRating": 5.1,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0023512",
-      "title": "The Stoker",
-      "year": 1932,
-      "imdbRating": 5.6,
-      "imdbVotes": 60,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023309",
-      "title": "Out of Singapore",
-      "year": 1932,
-      "imdbRating": 5.1,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0024628",
-      "title": "Sucker Money",
-      "year": 1933,
-      "imdbRating": 4.7,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022243",
-      "title": "The Painted Desert",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 876,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023123",
-      "title": "The Law of the Sea",
-      "year": 1931,
-      "imdbRating": 4.9,
-      "imdbVotes": 57,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024834",
-      "title": "Are We Civilized?",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025903",
-      "title": "The Trail Beyond",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1064,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025220",
-      "title": "Happy Landing",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0022984",
-      "title": "Hearts of Humanity",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023183",
-      "title": "The Man from Hell's Edges",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022685",
-      "title": "A Bill of Divorcement",
-      "year": 1932,
-      "imdbRating": 6.5,
-      "imdbVotes": 2001,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0022470",
+    "tt0023512",
+    "tt0023309",
+    "tt0024628",
+    "tt0022243",
+    "tt0023123",
+    "tt0024834",
+    "tt0025903",
+    "tt0025220",
+    "tt0022984",
+    "tt0023183",
+    "tt0022685"
   ],
   "collections": [],
   "is_curated": true,

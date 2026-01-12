@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-house-of-cards",
+      "id": "silent-the-house-of-cards",
       "title": "The House of Cards",
       "fileSize": 338740873,
-      "id": "silent-the-house-of-cards"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-house-of-cards",
+      "year": 1909,
+      "collection": "feature_films",
+      "downloads": 384
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0477380",
-      "title": "Tale the Autumn Leaves Told",
-      "year": 1908,
-      "imdbRating": 4.6,
-      "imdbVotes": 105,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000557",
-      "title": "Kathleen Mavourneen",
-      "year": 1906,
-      "imdbRating": 4.7,
-      "imdbVotes": 140,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001351",
-      "title": "Over Silent Paths",
-      "year": 1910,
-      "imdbRating": 6,
-      "imdbVotes": 68,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0300652",
-      "title": "White Fawn's Devotion: A Play Acted by a Tribe of Red Indians in America",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 554,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000519",
-      "title": "The Kleptomaniac",
-      "year": 1905,
-      "imdbRating": 5.7,
-      "imdbVotes": 438,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228839",
-      "title": "The Seven Ages",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234913",
-      "title": "Train Wreckers",
-      "year": 1905,
-      "imdbRating": 5.7,
-      "imdbVotes": 161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001896",
-      "title": "The Squaw's Love",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001083",
-      "title": "The Violin Maker of Cremona",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 157,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001044",
-      "title": "The Son's Return",
-      "year": 1909,
-      "imdbRating": 5.7,
-      "imdbVotes": 115,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0445359",
-      "title": "The Ex-Convict",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 238,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000471",
-      "title": "Uncle Tom's Cabin",
-      "year": 1903,
-      "imdbRating": 5.2,
-      "imdbVotes": 520,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0477380",
+    "tt0000557",
+    "tt0001351",
+    "tt0300652",
+    "tt0000519",
+    "tt0228839",
+    "tt0234913",
+    "tt0001896",
+    "tt0001083",
+    "tt0001044",
+    "tt0445359",
+    "tt0000471"
   ],
   "collections": [],
   "is_curated": true,

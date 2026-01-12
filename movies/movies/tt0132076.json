@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/danses-espagnoles_1928",
+      "id": "danses-espagnoles_1928",
       "title": "Danses espagnoles",
       "fileSize": 198325166,
-      "id": "danses-espagnoles_1928"
+      "addedAt": "2026-01-07T00:07:51.629Z",
+      "thumbnail": "https://archive.org/services/img/danses-espagnoles_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 321
     }
   ],
   "metadata": {
@@ -26,111 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132024",
-      "title": "Celles qui s'en font",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 179,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1131583",
-      "title": "Chips of the Old Block",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706329",
-      "title": "Cut Yourself a Piece of Cake",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430019",
-      "title": "Dick Rich and His Melodious Monarchs",
-      "year": 1928,
-      "imdbRating": 5.5,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2509978",
-      "title": "588",
-      "year": 2012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1538484",
-      "title": "Frances White",
-      "year": 1928,
-      "imdbRating": 5.1,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2527626",
-      "title": "Fuzzy Knight and His Little Piano",
-      "year": 1928,
-      "imdbRating": 3.8,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192101",
-      "title": "Gus Arnheim and His Ambassadors",
-      "year": 1928,
-      "imdbRating": 6.3,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1053360",
-      "title": "Gus Van and Joe Schenck",
-      "year": 1928,
-      "imdbRating": 5.3,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230324",
-      "title": "Impatience",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0017775",
+    "tt0132024",
+    "tt1131583",
+    "tt1706329",
+    "tt0430019",
+    "tt2509978",
+    "tt1538484",
+    "tt2527626",
+    "tt4135826",
+    "tt0192101",
+    "tt1053360",
+    "tt0230324"
   ],
   "collections": [],
   "is_curated": true,

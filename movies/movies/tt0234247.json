@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-millers-daughter",
+      "id": "silent-the-millers-daughter",
       "title": "The Miller's Daughter",
       "fileSize": 434412980,
-      "id": "silent-the-millers-daughter"
+      "addedAt": "2026-01-07T00:11:15.978Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-millers-daughter",
+      "language": "English",
+      "year": 1905,
+      "collection": "feature_films",
+      "downloads": 785
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0234111",
-      "title": "Life of an American Policeman",
-      "year": 1905,
-      "imdbRating": 5,
-      "imdbVotes": 146,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0361120",
-      "title": "The White Caps",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 171,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235018",
-      "title": "The Watermelon Patch",
-      "year": 1905,
-      "imdbRating": 4.9,
-      "imdbVotes": 161,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0235057",
-      "title": "A Winter Straw Ride",
-      "year": 1906,
-      "imdbRating": 5.5,
-      "imdbVotes": 300,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477360",
-      "title": "Police Chasing Scorching Auto",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 128,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140772",
-      "title": "The 'Teddy' Bears",
-      "year": 1907,
-      "imdbRating": 6,
-      "imdbVotes": 648,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234029",
-      "title": "A Kentucky Feud",
-      "year": 1905,
-      "imdbRating": 5.1,
-      "imdbVotes": 62,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233823",
-      "title": "The Great Jewel Mystery",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234249",
-      "title": "Down in the Coal Mines",
-      "year": 1905,
-      "imdbRating": 5.9,
-      "imdbVotes": 79,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0228839",
-      "title": "The Seven Ages",
-      "year": 1905,
-      "imdbRating": 5.5,
-      "imdbVotes": 153,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231716",
-      "title": "The Hero of Liao-Yang",
-      "year": 1904,
-      "imdbRating": 5.8,
-      "imdbVotes": 74,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257676",
-      "title": "A Fire in a Burlesque Theatre",
-      "year": 1904,
-      "imdbRating": 4.5,
-      "imdbVotes": 268,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0234111",
+    "tt0361120",
+    "tt0235018",
+    "tt0235057",
+    "tt0477360",
+    "tt0140772",
+    "tt0234029",
+    "tt0233823",
+    "tt0234249",
+    "tt0228839",
+    "tt0231716",
+    "tt0257676"
   ],
   "collections": [],
   "is_curated": true,

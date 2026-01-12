@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/16.-the-marksman",
+      "id": "16.-the-marksman",
       "title": "16. The Marksman",
       "description": "16. The Marksman",
       "fileSize": 130815404,
-      "id": "16.-the-marksman"
+      "addedAt": "2026-01-07T00:06:00.051Z",
+      "thumbnail": "https://archive.org/services/img/16.-the-marksman",
+      "collection": "feature_films",
+      "downloads": 8419
     }
   ],
   "metadata": {
@@ -27,124 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt13818610",
-      "title": "AURORA 663",
-      "year": 2022,
-      "imdbRating": 4.1,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt10323676",
-      "title": "The Contractor",
-      "year": 2022,
-      "imdbRating": 5.8,
-      "imdbVotes": 34042,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt9037864",
-      "title": "Pistolera",
-      "year": 2020,
-      "imdbRating": 2.1,
-      "imdbVotes": 480,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt4667610",
-      "title": "American Badger",
-      "year": 2019,
-      "imdbRating": 3.7,
-      "imdbVotes": 616,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt10309088",
-      "title": "San Andreas Mega Quake",
-      "year": 2019,
-      "imdbRating": 2.4,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt4976192",
-      "title": "211",
-      "year": 2018,
-      "imdbRating": 4.4,
-      "imdbVotes": 10264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5781146",
-      "title": "Klippers",
-      "year": 2018,
-      "imdbRating": 3.4,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt7816392",
-      "title": "The Bouncer",
-      "year": 2018,
-      "imdbRating": 5.9,
-      "imdbVotes": 7205,
-      "language": "French, English, Flemish, Dutch, Italian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt7897478",
-      "title": "Damascus Under Fire",
-      "year": 2018,
-      "imdbRating": 5.3,
-      "imdbVotes": 2777,
-      "language": "Persian, English, Arabic, Russian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt5456104",
-      "title": "Rescue Under Fire",
-      "year": 2017,
-      "imdbRating": 6.2,
-      "imdbVotes": 1867,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt7204400",
-      "title": "Geo-Disaster",
-      "year": 2017,
-      "imdbRating": 2.8,
-      "imdbVotes": 873,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0116374",
-      "title": "Fugitive Rage",
-      "year": 1996,
-      "imdbRating": 4.4,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt13818610",
+    "tt10323676",
+    "tt9037864",
+    "tt6439748",
+    "tt4667610",
+    "tt10309088",
+    "tt4976192",
+    "tt5781146",
+    "tt7816392",
+    "tt7897478",
+    "tt5456104",
+    "tt7204400"
   ],
   "collections": [],
   "is_curated": true,

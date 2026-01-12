@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheFatSpy",
+      "id": "TheFatSpy",
       "title": "The Fat Spy",
       "description": "Off the coast of Florida, a nearly-deserted island is rumored to have the fountain of youth. A boatload of teenage kids are headed there for a scavenger hunt. Wellington, the island's wealthy owner, is none too happy about that, so he dispatches his daughter, Junior, to get rid of them. She's happy to go because her sweetie, Irving, is the island's only resident. Junior sends Irving to spy on the kids to find out what they know. Irving's twin brother, Herman, and Herman's high-school sweetheart, Camille Salamander, are also headed for the island with their own nefarious plans. Is the fountain of youth real, and if so, who will get to it first?",
       "fileSize": 1983434831,
-      "id": "TheFatSpy"
+      "addedAt": "2026-01-07T00:06:58.274Z",
+      "thumbnail": "https://archive.org/services/img/TheFatSpy",
+      "year": 1966,
+      "collection": "feature_films",
+      "downloads": 18630
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheFatSpyMPEG2",
+      "id": "TheFatSpyMPEG2",
       "title": "The Fat Spy",
       "fileSize": 2699781798,
-      "id": "TheFatSpyMPEG2"
+      "addedAt": "2026-01-07T00:06:58.274Z",
+      "thumbnail": "https://archive.org/services/img/TheFatSpyMPEG2",
+      "year": 1966,
+      "collection": "feature_films",
+      "downloads": 45406
     }
   ],
   "metadata": {
@@ -34,108 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0059909",
-      "title": "Who Killed Teddy Bear",
-      "year": 1965,
-      "imdbRating": 6.6,
-      "imdbVotes": 1071,
-      "language": "English, French, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061005",
-      "title": "She Beast",
-      "year": 1966,
-      "imdbRating": 4.7,
-      "imdbVotes": 1525,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061140",
-      "title": "The Undertaker and His Pals",
-      "year": 1966,
-      "imdbRating": 4.5,
-      "imdbVotes": 1264,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063371",
-      "title": "A Report on the Party and Guests",
-      "year": 1966,
-      "imdbRating": 7.1,
-      "imdbVotes": 1866,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061728",
-      "title": "What's Cooking in Paris",
-      "year": 1966,
-      "imdbRating": 6.7,
-      "imdbVotes": 7205,
-      "language": "French, German, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207145",
-      "title": "As Long as You've Got Your Health",
-      "year": 1966,
-      "imdbRating": 7.1,
-      "imdbVotes": 914,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309401",
-      "title": "Buenos Aires, verano 1912",
-      "year": 1966,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060802",
-      "title": "Closely Watched Trains",
-      "year": 1966,
-      "imdbRating": 7.6,
-      "imdbVotes": 14604,
-      "language": "Czech, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182029",
-      "title": "¡Cómo te extraño...!",
-      "year": 1966,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0318372",
-      "title": "Con el más puro amor",
-      "year": 1966,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060959",
-      "title": "Daisies",
-      "year": 1966,
-      "imdbRating": 7.3,
-      "imdbVotes": 16026,
-      "language": "Czech",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060286",
-      "title": "De profesión, sospechosos",
-      "year": 1966,
-      "imdbRating": 5.4,
-      "imdbVotes": 12,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0059909",
+    "tt0061005",
+    "tt0061140",
+    "tt0063371",
+    "tt0061728",
+    "tt0207145",
+    "tt0309401",
+    "tt0060802",
+    "tt0182029",
+    "tt0318372",
+    "tt0060959",
+    "tt0060286"
   ],
   "collections": [],
   "is_curated": true,

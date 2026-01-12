@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/africa-before-dark-1928",
+      "id": "africa-before-dark-1928",
       "title": "Africa Before Dark (1928)",
       "description": "Oswald goes big game hunting in Africa. Watch on RetroFlix:  https://retroflix.org/africa-before-dark-1928/",
       "fileSize": 151085347,
-      "id": "africa-before-dark-1928"
+      "addedAt": "2026-01-07T00:07:18.440Z",
+      "thumbnail": "https://archive.org/services/img/africa-before-dark-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 67
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/africa-before-dark_1928",
+      "id": "africa-before-dark_1928",
       "title": "Africa Before Dark",
       "fileSize": 865599595,
-      "id": "africa-before-dark_1928"
+      "addedAt": "2026-01-07T00:07:24.994Z",
+      "thumbnail": "https://archive.org/services/img/africa-before-dark_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 492
     }
   ],
   "metadata": {
@@ -34,113 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019227",
-      "title": "Oh What a Knight",
-      "year": 1928,
-      "imdbRating": 6.4,
-      "imdbVotes": 301,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019397",
-      "title": "Sky Scrappers",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 248,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019399",
-      "title": "Sleigh Bells",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 36,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017847",
-      "title": "Empty Socks",
-      "year": 1927,
-      "imdbRating": 6.8,
-      "imdbVotes": 52,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018212",
-      "title": "The Ocean Hop",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 264,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020041",
-      "title": "The Jazz Fool",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 476,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020053",
-      "title": "The Karnival Kid",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 995,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018721",
-      "title": "Bright Lights",
-      "year": 1928,
-      "imdbRating": 6,
-      "imdbVotes": 254,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140909",
-      "title": "Comicalamities",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018885",
-      "title": "Fiery Fireman",
-      "year": 1928,
-      "imdbRating": 5.7,
-      "imdbVotes": 55,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018997",
-      "title": "High Up",
-      "year": 1928,
-      "imdbVotes": 14,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0019227",
+    "tt0019397",
+    "tt0019399",
+    "tt0017618",
+    "tt0017847",
+    "tt0018212",
+    "tt0020041",
+    "tt0020053",
+    "tt0018721",
+    "tt0140909",
+    "tt0018885",
+    "tt0018997"
   ],
   "collections": [
     {

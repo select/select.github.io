@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-mad-love",
+      "id": "silent-mad-love",
       "title": "Mad Love",
       "fileSize": 927745962,
-      "id": "silent-mad-love"
+      "addedAt": "2026-01-07T00:11:07.409Z",
+      "thumbnail": "https://archive.org/services/img/silent-mad-love",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 755
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0012092",
-      "title": "Danton",
-      "year": 1921,
-      "imdbRating": 6.7,
-      "imdbVotes": 46,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011960",
-      "title": "The Wildcat",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1336,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013496",
-      "title": "Phantom",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 1978,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012027",
-      "title": "Camille",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 1081,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012190",
-      "title": "The Four Horsemen of the Apocalypse",
-      "year": 1921,
-      "imdbRating": 7.1,
-      "imdbVotes": 3594,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012397",
-      "title": "Little Lord Fauntleroy",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 334,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012465",
-      "title": "Miss Lulu Bett",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 405,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011953",
-      "title": "Beau Revel",
-      "year": 1921,
-      "imdbRating": 5.1,
-      "imdbVotes": 56,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011907",
-      "title": "The Adventures of Sherlock Holmes",
-      "year": 1921,
-      "imdbRating": 4.3,
-      "imdbVotes": 16,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012068",
-      "title": "The Conquering Power",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 491,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0012092",
+    "tt0011960",
+    "tt0013496",
+    "tt0011904",
+    "tt0012027",
+    "tt0012190",
+    "tt0012397",
+    "tt0012465",
+    "tt0012532",
+    "tt0011953",
+    "tt0011907",
+    "tt0012068"
   ],
   "collections": [],
   "is_curated": true,

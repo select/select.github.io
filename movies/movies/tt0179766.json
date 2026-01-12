@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-didums-diddles-the-pliceman",
+      "id": "silent-didums-diddles-the-pliceman",
       "title": "Did'ums Diddles the P'liceman",
       "fileSize": 172848486,
-      "id": "silent-didums-diddles-the-pliceman"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-didums-diddles-the-pliceman",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 276
     }
   ],
   "metadata": {
@@ -25,109 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0001527",
-      "title": "The Cameraman's Revenge",
-      "year": 1912,
-      "imdbRating": 7.7,
-      "imdbVotes": 3431,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1247273",
-      "title": "Princess Charming",
-      "year": 1911,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0454107",
-      "title": "Le cottage hanté",
-      "year": 1913,
-      "imdbVotes": 13,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131024",
-      "title": "The Hasher's Delirium",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 538,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003784",
-      "title": "Colonel Heeza Liar's African Hunt",
-      "year": 1914,
-      "imdbRating": 5.3,
-      "imdbVotes": 29,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139938",
-      "title": "The Clown and His Donkey",
-      "year": 1910,
-      "imdbRating": 4.5,
-      "imdbVotes": 30,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0486919",
-      "title": "A Tango Tangle",
-      "year": 1914,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002501",
-      "title": "A Spanish Dilemma",
-      "year": 1912,
-      "imdbRating": 4.2,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0215495",
-      "title": "Algie, the Miner",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 568,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002280",
-      "title": "An Interrupted Elopement",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0001527",
+    "tt1247273",
+    "tt0454107",
+    "tt0131024",
+    "tt0003784",
+    "tt0139938",
+    "tt0486919",
+    "tt0002133",
+    "tt0002501",
+    "tt0215495",
+    "tt0002280",
+    "tt0210599"
   ],
   "collections": [],
   "is_curated": true,

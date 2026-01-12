@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1935-donaumelodien-joe-stockel-wolfgang-liebeneiner-maria-andergast-oscar-sabo",
+      "id": "1935-donaumelodien-joe-stockel-wolfgang-liebeneiner-maria-andergast-oscar-sabo",
       "title": "1935 Donaumelodien( Joe Stöckel, Wolfgang Liebeneiner, Maria Andergast, Oscar Sabo)",
       "description": "Film aus dem deutschen dritten Reich von 1935. Donaumelodien.  U.a mit Joe Stöckel und Wolfgang Liebeneiner ",
       "fileSize": 751185195,
-      "id": "1935-donaumelodien-joe-stockel-wolfgang-liebeneiner-maria-andergast-oscar-sabo"
+      "addedAt": "2026-01-07T00:06:00.054Z",
+      "thumbnail": "https://archive.org/services/img/1935-donaumelodien-joe-stockel-wolfgang-liebeneiner-maria-andergast-oscar-sabo",
+      "language": "ger",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 139
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028062",
-      "title": "One Rainy Afternoon",
-      "year": 1936,
-      "imdbRating": 5.9,
-      "imdbVotes": 321,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027519",
-      "title": "The Devil on Horseback",
-      "year": 1936,
-      "imdbRating": 5,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026775",
-      "title": "The Night Is Young",
-      "year": 1935,
-      "imdbRating": 6.3,
-      "imdbVotes": 291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027037",
-      "title": "Squibs",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0191794",
-      "title": "Así es el tango",
-      "year": 1937,
-      "imdbVotes": 14,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026301",
-      "title": "El día que me quieras",
-      "year": 1935,
-      "imdbRating": 7,
-      "imdbVotes": 150,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028931",
-      "title": "The Girl Said No",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 119,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029193",
-      "title": "Make a Wish",
-      "year": 1937,
-      "imdbRating": 5.4,
-      "imdbVotes": 201,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025094",
-      "title": "Evergreen",
-      "year": 1934,
-      "imdbRating": 6.6,
-      "imdbVotes": 647,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025349",
-      "title": "King Kelly of the U.S.A.",
-      "year": 1934,
-      "imdbRating": 4.7,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030540",
-      "title": "Outside of Paradise",
-      "year": 1938,
-      "imdbRating": 5.4,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029885",
-      "title": "Artists and Models Abroad",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 139,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    }
+    "tt0028062",
+    "tt0027519",
+    "tt0026775",
+    "tt0027037",
+    "tt0191794",
+    "tt0026301",
+    "tt0028931",
+    "tt0029193",
+    "tt0025094",
+    "tt0025349",
+    "tt0030540",
+    "tt0029885"
   ],
   "collections": [],
   "is_curated": true,

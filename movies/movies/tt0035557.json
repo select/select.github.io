@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/whos-who-in-the-zoo-1942",
+      "id": "whos-who-in-the-zoo-1942",
       "title": "Who's Who in the Zoo (1942)",
       "description": "Who’s Who in the Zoo is a 1942 Warner Bros. Looney Tunes cartoon directed by Norman McCabe. The short was released on February 14, 1942. Watch on RetroFlix.org:  https://retroflix.org/whos-who-in-the-zoo-1942/",
       "fileSize": 45197370,
-      "id": "whos-who-in-the-zoo-1942"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/whos-who-in-the-zoo-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 1584
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/whos-who-in-the-zoo-1942_202408",
+      "id": "whos-who-in-the-zoo-1942_202408",
       "title": "Who's Who In The Zoo (1942)",
       "description": "A wacky travelogue takes us to the zoo, where Porky Pig is the keeper and goofy animals provide the basis for a series of black-out gags.",
       "fileSize": 819111101,
-      "id": "whos-who-in-the-zoo-1942_202408"
+      "addedAt": "2026-01-07T00:13:06.704Z",
+      "thumbnail": "https://archive.org/services/img/whos-who-in-the-zoo-1942_202408",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 178
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034858",
-      "title": "Hobby Horse-Laffs",
-      "year": 1942,
-      "imdbRating": 4.8,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034121",
-      "title": "Robinson Crusoe Jr.",
-      "year": 1941,
-      "imdbRating": 5.3,
-      "imdbVotes": 165,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034631",
-      "title": "Daffy's Southern Exposure",
-      "year": 1942,
-      "imdbRating": 6.8,
-      "imdbVotes": 346,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034802",
-      "title": "Gopher Goofy",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 153,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034630",
-      "title": "The Daffy Duckaroo",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 243,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034888",
-      "title": "The Impatient Patient",
-      "year": 1942,
-      "imdbRating": 6.6,
-      "imdbVotes": 272,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036015",
-      "title": "Hop and Go",
-      "year": 1943,
-      "imdbRating": 5.2,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035202",
-      "title": "Porky's Cafe",
-      "year": 1942,
-      "imdbRating": 6.3,
-      "imdbVotes": 295,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034685",
-      "title": "The Ducktators",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 814,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035750",
-      "title": "Confusions of a Nutzy Spy",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 373,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033589",
-      "title": "Farm Frolics",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036446",
-      "title": "Tokio Jokio",
-      "year": 1943,
-      "imdbRating": 4.4,
-      "imdbVotes": 446,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034858",
+    "tt0034121",
+    "tt0034631",
+    "tt0034802",
+    "tt0034630",
+    "tt0034888",
+    "tt0036015",
+    "tt0035202",
+    "tt0034685",
+    "tt0035750",
+    "tt0033589",
+    "tt0036446"
   ],
   "collections": [],
   "is_curated": true,

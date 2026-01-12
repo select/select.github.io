@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/midnight-1930",
+      "id": "midnight-1930",
       "title": "Midnight (1930)",
       "description": "Midnight is an Aesop Fables cartoon directed by Mannie Davis, John Foster. Watch on RetroFlix:  https://retroflix.org/midnight-1930/",
       "fileSize": 124424226,
-      "id": "midnight-1930"
+      "addedAt": "2026-01-07T00:09:46.434Z",
+      "thumbnail": "https://archive.org/services/img/midnight-1930",
+      "language": "eng",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 63
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0146845",
-      "title": "Gypped in Egypt",
-      "year": 1930,
-      "imdbRating": 6,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146953",
-      "title": "Jungle Fool",
-      "year": 1929,
-      "imdbRating": 4.4,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147274",
-      "title": "A Romeo Robin",
-      "year": 1930,
-      "imdbRating": 4.9,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161750",
-      "title": "Laundry Blues",
-      "year": 1930,
-      "imdbRating": 4.1,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147096",
-      "title": "Noah Knew His Ark",
-      "year": 1930,
-      "imdbRating": 4.9,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147506",
-      "title": "Singing Saps",
-      "year": 1930,
-      "imdbRating": 4.2,
-      "imdbVotes": 34,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147620",
-      "title": "A Toytown Tale",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 66,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146582",
-      "title": "Cowboy Cabaret",
-      "year": 1931,
-      "imdbRating": 4.3,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146719",
-      "title": "The Family Shoe",
-      "year": 1931,
-      "imdbRating": 5.1,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0161433",
-      "title": "Chinese Jinks",
-      "year": 1932,
-      "imdbRating": 4.5,
-      "imdbVotes": 27,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147534",
-      "title": "Spring Antics",
-      "year": 1932,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021722",
-      "title": "The Cat's Canary",
-      "year": 1932,
-      "imdbRating": 5.7,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0146845",
+    "tt0146953",
+    "tt0147274",
+    "tt0161750",
+    "tt0147096",
+    "tt0147506",
+    "tt0147620",
+    "tt0146582",
+    "tt0146719",
+    "tt0161433",
+    "tt0147534",
+    "tt0021722"
   ],
   "collections": [
     {

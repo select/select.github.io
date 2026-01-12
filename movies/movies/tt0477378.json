@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-a-suburbanites-ingenious-alarm",
+      "id": "silent-a-suburbanites-ingenious-alarm",
       "title": "A Suburbanite's Ingenious Alarm",
       "fileSize": 151805849,
-      "id": "silent-a-suburbanites-ingenious-alarm"
+      "addedAt": "2026-01-07T00:10:50.367Z",
+      "thumbnail": "https://archive.org/services/img/silent-a-suburbanites-ingenious-alarm",
+      "year": 1908,
+      "collection": "feature_films",
+      "downloads": 242
     }
   ],
   "metadata": {
@@ -26,112 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000682",
-      "title": "A Fantasy",
-      "year": 1908,
-      "imdbRating": 6.9,
-      "imdbVotes": 2950,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449438",
-      "title": "A New Way of Traveling",
-      "year": 1908,
-      "imdbRating": 5.4,
-      "imdbVotes": 26,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233728",
-      "title": "Fireside Reminiscences",
-      "year": 1908,
-      "imdbRating": 4.5,
-      "imdbVotes": 132,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257474",
-      "title": "The Runaway Horse",
-      "year": 1908,
-      "imdbRating": 6.2,
-      "imdbVotes": 472,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3110548",
-      "title": "The Bad Boy's Joke at a Wedding Party",
-      "year": 1907,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227396",
-      "title": "Robert Macaire and Bertrand",
-      "year": 1907,
-      "imdbRating": 5.8,
-      "imdbVotes": 148,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234922",
-      "title": "Trial Marriages",
-      "year": 1907,
-      "imdbRating": 5.4,
-      "imdbVotes": 88,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0477330",
-      "title": "A Little Girl Who Did Not Believe in Santa Claus",
-      "year": 1907,
-      "imdbRating": 6,
-      "imdbVotes": 211,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0432623",
-      "title": "A Panicky Picnic",
-      "year": 1909,
-      "imdbRating": 6.4,
-      "imdbVotes": 320,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0249454",
-      "title": "A Race for a Monkey",
-      "year": 1909,
-      "imdbRating": 5.1,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212884",
-      "title": "Cohen's Fire Sale",
-      "year": 1907,
-      "imdbRating": 4.5,
-      "imdbVotes": 158,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759516",
-      "title": "Course à la saucisse",
-      "year": 1907,
-      "imdbRating": 6.1,
-      "imdbVotes": 323,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0000682",
+    "tt0449438",
+    "tt0233728",
+    "tt0257474",
+    "tt3110548",
+    "tt0227396",
+    "tt0234922",
+    "tt0477330",
+    "tt0432623",
+    "tt0249454",
+    "tt0212884",
+    "tt0759516"
   ],
   "collections": [],
   "is_curated": true,

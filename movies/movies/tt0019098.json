@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lilac-t-1928",
+      "id": "lilac-t-1928",
       "title": "Lilac Time (1928)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. Colleen Moore's first synchronized sound film had no audible dialogue, but still was lively enough that audiences flocked to it to the tune of over 1.5 million dollars. The plot follows seven English pilots who are lodging at a French farm during WWI. One of the pilots falls in love with the farmer's daughter, though he is eventually shot down during a mission.",
       "fileSize": 1472089094,
-      "id": "lilac-t-1928"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/lilac-t-1928",
+      "language": "eng",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 78
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lilac-time_1928",
+      "id": "lilac-time_1928",
       "title": "Lilac Time",
       "fileSize": 1602962265,
-      "id": "lilac-time_1928"
+      "addedAt": "2026-01-07T00:09:38.891Z",
+      "thumbnail": "https://archive.org/services/img/lilac-time_1928",
+      "year": 1928,
+      "collection": "feature_films",
+      "downloads": 558
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "2 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0018862",
-      "title": "Caucasian Love",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 182,
-      "language": "None, Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018990",
-      "title": "Homecoming",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 213,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019071",
-      "title": "The Last Command",
-      "year": 1928,
-      "imdbRating": 7.9,
-      "imdbVotes": 4676,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020602",
-      "title": "Woman to Woman",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 122,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017662",
-      "title": "Barbed Wire",
-      "year": 1927,
-      "imdbRating": 7,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018578",
-      "title": "Wings",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 15487,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022879",
-      "title": "A Farewell to Arms",
-      "year": 1932,
-      "imdbRating": 6.4,
-      "imdbVotes": 7225,
-      "language": "English, Italian, Latin, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021542",
-      "title": "Westfront 1918",
-      "year": 1930,
-      "imdbRating": 7.3,
-      "imdbVotes": 2664,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018846",
-      "title": "Doomsday",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 127,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021800",
-      "title": "Dishonored",
-      "year": 1931,
-      "imdbRating": 7.2,
-      "imdbVotes": 3287,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015624",
-      "title": "The Big Parade",
-      "year": 1925,
-      "imdbRating": 7.9,
-      "imdbVotes": 7452,
-      "language": "None, English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021156",
-      "title": "Morocco",
-      "year": 1930,
-      "imdbRating": 7,
-      "imdbVotes": 7738,
-      "language": "English, French, Spanish, Arabic, Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0018862",
+    "tt0018990",
+    "tt0019071",
+    "tt0020602",
+    "tt0017662",
+    "tt0018578",
+    "tt0022879",
+    "tt0021542",
+    "tt0018846",
+    "tt0021800",
+    "tt0015624",
+    "tt0021156"
   ],
   "collections": [],
   "is_curated": true,

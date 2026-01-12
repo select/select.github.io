@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Sunny_",
+      "id": "Sunny_",
       "title": "Sunny",
       "description": "Anna Neagle plays Sunny O'Sullivan, the star of a small, upscale circus run by Bunny Billings (Ray Bolger). In New Orleans during Mardi Gras she meets by accident Larry Warren (John Carroll), handsome scion of the wealthy Warrens of Waverly Hall. They fall in love, but Sunny has to deal with the conflicts between his snooty family and her down-to-earth circus pals.",
       "fileSize": 2189194318,
-      "id": "Sunny_"
+      "addedAt": "2026-01-07T00:06:58.270Z",
+      "thumbnail": "https://archive.org/services/img/Sunny_",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 21313
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=_lbl7WmTd84",
+      "id": "_lbl7WmTd84",
       "title": "Sunny (1941) RAY BOLGER",
       "description": "Stars: Ray Bolger,Anna Neagle, Edward Everett Horton\nDirector: Herbert Wilcox\nWriters: Oscar Hammerstein II (play)\n\nThe beautiful Anna Neagle stars as a circus performer who falls in love with a rich car dealer's son, against her family's wishes. Features spirited dance numbers with WIZARD OF OZ Scarecrow, Ray Bolger!",
-      "id": "_lbl7WmTd84",
+      "addedAt": "2025-12-26T23:49:12.085Z",
+      "thumbnail": "https://i.ytimg.com/vi/_lbl7WmTd84/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8ASAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBJyhkiGAZ3DMUX6cJTmnU_COh7Qg",
+      "duration": 5716,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "Nominated for 1 Oscar. 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032847",
-      "title": "No, No, Nanette",
-      "year": 1940,
-      "imdbRating": 5.2,
-      "imdbVotes": 233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033878",
-      "title": "Immer nur Du",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034265",
-      "title": "Tanz mit dem Kaiser",
-      "year": 1941,
-      "imdbRating": 6.7,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034055",
-      "title": "Pot o' Gold",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 2141,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035261",
-      "title": "Road to Happiness",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 141,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032624",
-      "title": "If I Had My Way",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033029",
-      "title": "Second Chorus",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 1798,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0035576",
-      "title": "The Yanks Are Coming",
-      "year": 1942,
-      "imdbRating": 4,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035583",
-      "title": "You Were Never Lovelier",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 4225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031763",
-      "title": "Opernball",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 91,
-      "language": "German, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0032847",
+    "tt0033632",
+    "tt0033878",
+    "tt0034265",
+    "tt0034055",
+    "tt0035261",
+    "tt0032624",
+    "tt0033029",
+    "tt0035576",
+    "tt0035583",
+    "tt0031763",
+    "tt0036066"
   ],
   "collections": [],
   "is_curated": true,

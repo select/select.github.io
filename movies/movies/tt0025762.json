@@ -6,25 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sensation-hunters-1933",
+      "id": "sensation-hunters-1933",
       "title": "Sensation Hunters (1933)",
       "description": "Dale Jordan is first accepted by the aristocratic first-cabin passengers on a south-bound Panama-Pacific liner until they discover she is a member of a troupe of cabaret girls led by Trixie Snell en route for the Bull Ring Cabaret in Panama City. Watch on RetroFlix:  https://retroflix.org/sensation-hunters-1933/",
       "fileSize": 443131182,
-      "id": "sensation-hunters-1933"
+      "addedAt": "2026-01-07T00:10:50.364Z",
+      "thumbnail": "https://archive.org/services/img/sensation-hunters-1933",
+      "language": "eng",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 80
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/sensation_hunters",
+      "id": "sensation_hunters",
       "title": "Sensation Hunters",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4243327907,
-      "id": "sensation_hunters"
+      "addedAt": "2026-01-07T00:10:50.364Z",
+      "thumbnail": "https://archive.org/services/img/sensation_hunters",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 33888
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=ke_qXLY893s",
+      "id": "ke_qXLY893s",
       "title": "Sensation Hunters (1933) PRE-CODE HOLLYWOOD",
       "description": "Stars: Arline Judge, Preston Foster, Marion Burns\nDirector: Charles Vidor\n\nThis brisk Pre-Code melodrama is peppered with rapid-fire slang and snappy musical numbers from the era. Look for a young Walter Brennan as a tongue-tied waiter in The Bull Ring Cafe.",
-      "id": "ke_qXLY893s",
+      "addedAt": "2025-12-26T23:57:43.011Z",
+      "thumbnail": "https://i.ytimg.com/vi/ke_qXLY893s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBVa-q4DgNIQ3PSWG7VmEj5PTt-Bw",
+      "duration": 4253,
+      "language": "en",
+      "year": 1933,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +60,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025064",
-      "title": "Double Door",
-      "year": 1934,
-      "imdbRating": 6.8,
-      "imdbVotes": 381,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019723",
-      "title": "The Bridge",
-      "year": 1929,
-      "imdbRating": 7.3,
-      "imdbVotes": 185,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024139",
-      "title": "Hoopla",
-      "year": 1933,
-      "imdbRating": 6.6,
-      "imdbVotes": 304,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038559",
-      "title": "Gilda",
-      "year": 1946,
-      "imdbRating": 7.6,
-      "imdbVotes": 37853,
-      "language": "English, Spanish, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033802",
-      "title": "Ladies in Retirement",
-      "year": 1941,
-      "imdbRating": 7.1,
-      "imdbVotes": 1845,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032686",
-      "title": "The Lady in Question",
-      "year": 1940,
-      "imdbRating": 6.3,
-      "imdbVotes": 912,
-      "language": "English, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040552",
-      "title": "The Loves of Carmen",
-      "year": 1948,
-      "imdbRating": 6.1,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023117",
-      "title": "The Last Mile",
-      "year": 1932,
-      "imdbRating": 6.2,
-      "imdbVotes": 406,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023202",
-      "title": "Me and My Gal",
-      "year": 1932,
-      "imdbRating": 6.6,
-      "imdbVotes": 1442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025972",
-      "title": "Wharf Angel",
-      "year": 1934,
-      "imdbRating": 6.5,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026267",
-      "title": "The Dawn Rider",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026846",
-      "title": "Paradise Canyon",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1086,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025064",
+    "tt0019723",
+    "tt0024139",
+    "tt0038559",
+    "tt0033802",
+    "tt0032686",
+    "tt0040552",
+    "tt0023117",
+    "tt0023202",
+    "tt0025972",
+    "tt0026267",
+    "tt0026846"
   ],
   "collections": [],
   "is_curated": true,

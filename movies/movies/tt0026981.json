@@ -6,25 +6,39 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheShadowofSilkLennox",
+      "id": "TheShadowofSilkLennox",
       "title": "The Shadow of Silk Lennox",
       "description": "A crooked nightclub owner (Lon Chaney Jr.), pretending to go straight, is forced to kill a henchman when the latter tries to run off with the gang's latest haul.",
       "fileSize": 1649870298,
-      "id": "TheShadowofSilkLennox"
+      "addedAt": "2026-01-07T00:07:05.036Z",
+      "thumbnail": "https://archive.org/services/img/TheShadowofSilkLennox",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 17880
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shadow-of-silk-lennox",
+      "id": "shadow-of-silk-lennox",
       "title": "Shadow Of Silk Lennox (1936)",
       "description": "Lon Chaney Jr.",
       "fileSize": 844921375,
-      "id": "shadow-of-silk-lennox"
+      "addedAt": "2026-01-07T00:10:50.365Z",
+      "thumbnail": "https://archive.org/services/img/shadow-of-silk-lennox",
+      "collection": "feature_films",
+      "downloads": 291
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=1Vq3qDtAzc0",
+      "id": "1Vq3qDtAzc0",
       "title": "The Shadow of Silk Lennox (1935) LON CHANEY JR",
       "description": "Stars: Lon Chaney Jr., Dean Benton, Marie Burton \nDirectors: Ray Kirkwood\n\nA crooked nightclub owner, pretending to go straight, is forced to kill a henchman when the latter tries to run off with the gang's latest haul.",
-      "id": "1Vq3qDtAzc0",
+      "addedAt": "2025-12-26T23:46:47.304Z",
+      "thumbnail": "https://i.ytimg.com/vi/1Vq3qDtAzc0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLA5pKO6fLno3EApMpgqeoLI2ssIDg",
+      "duration": 3601,
+      "language": "en",
+      "year": 1935,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -44,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026436",
-      "title": "Great God Gold",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 82,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026458",
-      "title": "The Headline Woman",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026610",
-      "title": "Late Extra",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 104,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026731",
-      "title": "Motive for Revenge",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 59,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026743",
-      "title": "Maria Marten, or the Murder in the Red Barn",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026771",
-      "title": "Never Too Late",
-      "year": 1935,
-      "imdbRating": 5.3,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026360",
-      "title": "The Fire-Trap",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027028",
-      "title": "The Spanish Cape Mystery",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026206",
-      "title": "Chinatown Squad",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 70,
-      "language": "Cantonese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026259",
-      "title": "Danger Ahead",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026563",
-      "title": "Kentucky Blue Streak",
-      "year": 1935,
-      "imdbRating": 4,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027845",
-      "title": "Kind Lady",
-      "year": 1935,
-      "imdbRating": 6.9,
-      "imdbVotes": 654,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026436",
+    "tt0026458",
+    "tt0026610",
+    "tt0026731",
+    "tt0026743",
+    "tt0026771",
+    "tt0026360",
+    "tt0027028",
+    "tt0026206",
+    "tt0026259",
+    "tt0026563",
+    "tt0027845"
   ],
   "collections": [],
   "is_curated": true,

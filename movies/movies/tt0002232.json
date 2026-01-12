@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/HelensMarriage1912",
+      "id": "HelensMarriage1912",
       "title": "HELEN'S MARRIAGE (1912)",
       "description": "HELEN'S MARRIAGE Biograph Company, 425 ft., rel. May 23, 1912 dir. Mack Sennett, auth. Earl Hodge, cam. Percy Higginson cast: Mabel Normand, Eddie Dillon, Frank Opperman, Grace Henderson, Fred Mace, Dell Henderson, Wm. J. Butler, Charles H. West, Frank Evans, J. Jiquel Lanoe, Mack Sennett, William Beaudine filmed: 3/1912 Location: CA copyright: May 22, 1912",
       "fileSize": 220921323,
-      "id": "HelensMarriage1912"
+      "addedAt": "2026-01-07T00:06:25.401Z",
+      "thumbnail": "https://archive.org/services/img/HelensMarriage1912",
+      "collection": "feature_films",
+      "downloads": 1062
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-helens-marriage",
+      "id": "silent-helens-marriage",
       "title": "Helen's Marriage",
       "fileSize": 134434321,
-      "id": "silent-helens-marriage"
+      "addedAt": "2026-01-07T00:10:59.119Z",
+      "thumbnail": "https://archive.org/services/img/silent-helens-marriage",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 227
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002280",
-      "title": "An Interrupted Elopement",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 44,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002398",
-      "title": "Oh, Those Eyes",
-      "year": 1912,
-      "imdbRating": 5.2,
-      "imdbVotes": 56,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002159",
-      "title": "The Engagement Ring",
-      "year": 1912,
-      "imdbRating": 4.4,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002501",
-      "title": "A Spanish Dilemma",
-      "year": 1912,
-      "imdbRating": 4.2,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002255",
-      "title": "Hot Stuff",
-      "year": 1912,
-      "imdbRating": 4.5,
-      "imdbVotes": 54,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002290",
-      "title": "Katchem Kate",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002387",
-      "title": "Neighbors",
-      "year": 1912,
-      "imdbRating": 4.5,
-      "imdbVotes": 56,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002203",
-      "title": "The Furs",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002533",
-      "title": "The Tourists",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002569",
-      "title": "The Water Nymph",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002528",
-      "title": "Tomboy Bessie",
-      "year": 1912,
-      "imdbRating": 5,
-      "imdbVotes": 66,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0002280",
+    "tt0002398",
+    "tt0002159",
+    "tt0002133",
+    "tt0002501",
+    "tt0002255",
+    "tt0002290",
+    "tt0002387",
+    "tt0002203",
+    "tt0002533",
+    "tt0002569",
+    "tt0002528"
   ],
   "collections": [],
   "is_curated": true,

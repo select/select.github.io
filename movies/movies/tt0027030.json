@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/speed-devils-1935",
+      "id": "speed-devils-1935",
       "title": "Speed Devils (1935)",
       "description": "A race car driver, injured during an accident, opens up a repair shop only to become the target of crooked government agents. Watch on RetroFlix:  https://retroflix.org/speed-devils-1935/",
       "fileSize": 374553800,
-      "id": "speed-devils-1935"
+      "addedAt": "2026-01-07T00:11:35.626Z",
+      "thumbnail": "https://archive.org/services/img/speed-devils-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 64
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0021387",
-      "title": "The Skull Murder Mystery",
-      "year": 1932,
-      "imdbRating": 5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015693",
-      "title": "Cobra",
-      "year": 1925,
-      "imdbRating": 6.4,
-      "imdbVotes": 793,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027202",
-      "title": "When a Man's a Man",
-      "year": 1935,
-      "imdbRating": 6.6,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027544",
-      "title": "Down to the Sea",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028004",
-      "title": "Murder with Pictures",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 412,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029378",
-      "title": "Parole Racket",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026164",
-      "title": "Call of the Wild",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 2715,
-      "language": "English, German",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0026104",
-      "title": "Becky Sharp",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 1302,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024883",
-      "title": "Between Men",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026133",
-      "title": "Branded a Coward",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 132,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026213",
-      "title": "Circumstantial Evidence",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 112,
-      "language": "Latin, English",
-      "sourceType": "archive.org"
-    }
+    "tt0021387",
+    "tt0015693",
+    "tt0027202",
+    "tt0027544",
+    "tt0028004",
+    "tt0029378",
+    "tt0027087",
+    "tt0026164",
+    "tt0026104",
+    "tt0024883",
+    "tt0026133",
+    "tt0026213"
   ],
   "collections": [],
   "is_curated": true,

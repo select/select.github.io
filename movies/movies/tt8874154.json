@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/war-dept-ef-5-its-your-america-1945",
+      "id": "war-dept-ef-5-its-your-america-1945",
       "title": "It's Your America (1945)",
       "description": "EF-5 // An American soldier, during his combat career, realizes the greatness of his country and determines to assume his share of the responsibilities of good citizenship upon his return to civilian life.",
       "fileSize": 273941360,
-      "id": "war-dept-ef-5-its-your-america-1945"
+      "addedAt": "2026-01-07T00:13:06.701Z",
+      "thumbnail": "https://archive.org/services/img/war-dept-ef-5-its-your-america-1945",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 17
     }
   ],
   "metadata": {
@@ -27,111 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0038115",
-      "title": "Star in the Night",
-      "year": 1945,
-      "imdbRating": 7.7,
-      "imdbVotes": 1234,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037792",
-      "title": "The House I Live In",
-      "year": 1945,
-      "imdbRating": 6.4,
-      "imdbVotes": 700,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3315452",
-      "title": "Combat Fatigue Irritability",
-      "year": 1945,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2015402",
-      "title": "Insomnia",
-      "year": 1945,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034498",
-      "title": "The Battle of Midway",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 2325,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0139491",
-      "title": "The Negro Soldier",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 850,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040886",
-      "title": "To the Public Danger",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 146,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009977",
-      "title": "By Indian Post",
-      "year": 1919,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017463",
-      "title": "3 Bad Men",
-      "year": 1926,
-      "imdbRating": 7.5,
-      "imdbVotes": 1537,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023955",
-      "title": "Doctor Bull",
-      "year": 1933,
-      "imdbRating": 6.4,
-      "imdbVotes": 721,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018972",
-      "title": "Hangman's House",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 549,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025335",
-      "title": "Judge Priest",
-      "year": 1934,
-      "imdbRating": 6.2,
-      "imdbVotes": 2705,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0038115",
+    "tt0037792",
+    "tt3315452",
+    "tt2015402",
+    "tt0034498",
+    "tt0139491",
+    "tt0040886",
+    "tt0009977",
+    "tt0017463",
+    "tt0023955",
+    "tt0018972",
+    "tt0025335"
   ],
   "collections": [],
   "is_curated": true,

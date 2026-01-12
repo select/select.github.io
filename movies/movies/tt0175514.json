@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tcocp",
+      "id": "tcocp",
       "title": "The Case of Charles Peace",
       "description": "Title: The Case of Charles Peace Summary: Businessman Charles Peace leads a double life--by day he's a respected local businessman, but by night he's a professional thief who lets nothing, not even murder, stop him from getting what he wants. Directed by: Norman Lee Actors: Michael Martin Harvey, Chili Bouchier, Valentine Dyall Production Company: John Argyle Productions Release Date: March 1949 (UK) Aspect Ratio: 1.37 : 1 Businessman Charles Peace leads a double life--by day he's a respected local businessman, but by night he's a professional thief who lets nothing, not even murder, stop him from getting what he wants.",
       "fileSize": 711285863,
-      "id": "tcocp"
+      "addedAt": "2026-01-07T00:11:46.528Z",
+      "thumbnail": "https://archive.org/services/img/tcocp",
+      "year": 1949,
+      "collection": "feature_films",
+      "downloads": 2135
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041503",
-      "title": "Impact",
-      "year": 1949,
-      "imdbRating": 7,
-      "imdbVotes": 5035,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041109",
-      "title": "Alimony",
-      "year": 1949,
-      "imdbRating": 5.3,
-      "imdbVotes": 175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041268",
-      "title": "Criss Cross",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 10070,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041555",
-      "title": "Knock on Any Door",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 4414,
-      "language": "English, Italian, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041761",
-      "title": "Port of New York",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041269",
-      "title": "The Crooked Way",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1671,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041786",
-      "title": "The Reckless Moment",
-      "year": 1949,
-      "imdbRating": 7.1,
-      "imdbVotes": 6042,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042006",
-      "title": "The Undercover Man",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1454,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041958",
-      "title": "Thieves' Highway",
-      "year": 1949,
-      "imdbRating": 7.5,
-      "imdbVotes": 7130,
-      "language": "English, Italian, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041967",
-      "title": "Tokyo Joe",
-      "year": 1949,
-      "imdbRating": 6.3,
-      "imdbVotes": 2918,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041968",
-      "title": "Too Late for Tears",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 6166,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041243",
-      "title": "Chicago Deadline",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 375,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0041503",
+    "tt0041109",
+    "tt0041268",
+    "tt0041555",
+    "tt0041761",
+    "tt0041269",
+    "tt0041786",
+    "tt0042006",
+    "tt0041958",
+    "tt0041967",
+    "tt0041968",
+    "tt0041243"
   ],
   "collections": [],
   "is_curated": true,

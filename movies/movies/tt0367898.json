@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/J-U-N-K",
+      "id": "J-U-N-K",
       "title": "J-U-N-K",
       "description": "Hank Mann plays a laborer at the junkyard in this turbulent silent comedy short",
       "fileSize": 945662304,
-      "id": "J-U-N-K"
+      "addedAt": "2026-01-07T00:06:30.621Z",
+      "thumbnail": "https://archive.org/services/img/J-U-N-K",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 4462
     }
   ],
   "metadata": {
@@ -27,108 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0248567",
-      "title": "Traps and Tangles",
-      "year": 1919,
-      "imdbRating": 4.6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0268254",
-      "title": "Dunces and Dangers",
-      "year": 1918,
-      "imdbRating": 6.3,
-      "imdbVotes": 59,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277342",
-      "title": "Spies and Spills",
-      "year": 1918,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174483",
-      "title": "Babes and Boobs",
-      "year": 1918,
-      "imdbRating": 6.8,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0277438",
-      "title": "Whistles and Windows",
-      "year": 1918,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009563",
-      "title": "Romans and Rascals",
-      "year": 1918,
-      "imdbRating": 4.3,
-      "imdbVotes": 40,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011656",
-      "title": "The Scarecrow",
-      "year": 1920,
-      "imdbRating": 7.8,
-      "imdbVotes": 4866,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011071",
-      "title": "Convict 13",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 3668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1598572",
-      "title": "Leap Year",
-      "year": 1920,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011508",
-      "title": "Neighbors",
-      "year": 1920,
-      "imdbRating": 7.6,
-      "imdbVotes": 4771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011521",
-      "title": "Number, Please?",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 1263,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011541",
-      "title": "One Week",
-      "year": 1920,
-      "imdbRating": 8.1,
-      "imdbVotes": 9535,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0248567",
+    "tt0268254",
+    "tt0277342",
+    "tt0174483",
+    "tt0277438",
+    "tt0009563",
+    "tt0011656",
+    "tt0011071",
+    "tt1598572",
+    "tt0011508",
+    "tt0011521",
+    "tt0011541"
   ],
   "collections": [],
   "is_curated": true,

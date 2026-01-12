@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/negrosoldier",
+      "id": "negrosoldier",
       "title": "The Negro Soldier",
       "description": "WWII recruitment film aimed at African Americans. The film opens with an African American minister in church telling his flock why they should join the armed forces to fight the Nazis. We see historical re-enactments of African Americans as valued participants in US armed conflicts dating from the American Revolution. The balance of the film deals with the African American experience within the present war effort, the conditions of their living and training, with special attention paid to the respect and dignity they will have. The quality of the original film is very good, however there are a few \"issues\" apparent in this copy, which was made from a video in the National Achives' collection: - the original work was made up of 5 seperate film reels, there are some noticable breaks in continuity when the reels switch - the framing of the film to video transfer was a bit off, so there is a border visible throughout - there is occassional video dropout, probably due either to the age of the video tape at the National Archives NAIL Control Number: NWDNM(m)-111-M-6022 ARC Identifier: 35956",
       "fileSize": 1059533353,
-      "id": "negrosoldier"
+      "addedAt": "2026-01-07T00:10:02.897Z",
+      "thumbnail": "https://archive.org/services/img/negrosoldier",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 30129
     }
   ],
   "metadata": {
@@ -27,103 +32,18 @@
     "Awards": "1 win"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034798",
-      "title": "The Glass Key",
-      "year": 1942,
-      "imdbRating": 7,
-      "imdbVotes": 7712,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2152805",
-      "title": "Panzer im Angriff",
-      "year": 1944,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6710554",
-      "title": "Flak",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1966357",
-      "title": "Basic Typing, Part I: Methods",
-      "year": 1944,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6056976",
-      "title": "Camouflage",
-      "year": 1944,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3516888",
-      "title": "Return to Guam",
-      "year": 1944,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2160081",
-      "title": "Ammunition Smuggling on the Mexican Border: Incidents of the Mexican Revolution",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 24,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6240486",
-      "title": "Voting for Service Men Overseas",
-      "year": 1944,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033337",
-      "title": "Among the Living",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 873,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039840",
-      "title": "Smash-Up: The Story of a Woman",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 1714,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0812201",
-      "title": "Asse zur See",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt13364232",
-      "title": "Im Wald von Katyn",
-      "year": 1943,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0034798",
+    "tt2152805",
+    "tt6710554",
+    "tt1966357",
+    "tt6056976",
+    "tt3516888",
+    "tt2160081",
+    "tt6240486",
+    "tt0033337",
+    "tt0039840",
+    "tt0812201",
+    "tt13364232"
   ],
   "collections": [],
   "is_curated": true,

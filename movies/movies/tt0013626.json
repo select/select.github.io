@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-smiling-madame-beudet",
+      "id": "silent-the-smiling-madame-beudet",
       "title": "The Smiling Madame Beudet",
       "fileSize": 1865192036,
-      "id": "silent-the-smiling-madame-beudet"
+      "addedAt": "2026-01-07T00:11:24.924Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-smiling-madame-beudet",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 830
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-smiling-madame-beudet",
+      "id": "the-smiling-madame-beudet",
       "title": "The Smiling Madame Beudet (1923)",
       "description": "I've been researching newly public domain films from 1929 and earlier, so I'm uploading the best possible copies that I can find. La Souriante Madame Beudet, or, The Smiling Madame Beudet in English, has been classified as one of the earliest feminist films. It's not difficult to see why this might have been the case, as the woman plots to kill her loveless and possibly abusive husband. What director Germaine Dulac is most remembered for however is her impressionist style of direction that is on full display in this visually interesting picture. ",
       "fileSize": 1940825905,
-      "id": "the-smiling-madame-beudet"
+      "addedAt": "2026-01-07T00:12:22.159Z",
+      "thumbnail": "https://archive.org/services/img/the-smiling-madame-beudet",
+      "language": "fre",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 93
     }
   ],
   "metadata": {
@@ -34,112 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0017775",
-      "title": "The Seashell and the Clergyman",
-      "year": 1928,
-      "imdbRating": 7,
-      "imdbVotes": 2330,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1320272",
-      "title": "Kosuzume tôge",
-      "year": 1923,
-      "imdbRating": 6.4,
-      "imdbVotes": 27,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014904",
-      "title": "Egy fiúnak a fele",
-      "year": 1924,
-      "imdbRating": 5.7,
-      "imdbVotes": 26,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0205957",
-      "title": "The Ballad of Fisher's Boarding House",
-      "year": 1922,
-      "imdbRating": 5.5,
-      "imdbVotes": 198,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1727500",
-      "title": "Episodes in the Life of a Gin Bottle",
-      "year": 1925,
-      "imdbRating": 5,
-      "imdbVotes": 59,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012175",
-      "title": "Fièvre",
-      "year": 1921,
-      "imdbRating": 6.4,
-      "imdbVotes": 360,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0419902",
-      "title": "Kyoiku senga: Ubasute yama",
-      "year": 1925,
-      "imdbRating": 6.6,
-      "imdbVotes": 34,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159700",
-      "title": "Ride on a Runaway Train",
-      "year": 1921,
-      "imdbRating": 6.7,
-      "imdbVotes": 99,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132024",
-      "title": "Celles qui s'en font",
-      "year": 1930,
-      "imdbRating": 6.6,
-      "imdbVotes": 179,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0132076",
-      "title": "Danses espagnoles",
-      "year": 1928,
-      "imdbRating": 5.9,
-      "imdbVotes": 88,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0434198",
-      "title": "The Death of the Duke D'Enghien",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 32,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0317876",
-      "title": "The Light on Lookout Mountain",
-      "year": 1926,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0017775",
+    "tt1320272",
+    "tt0014904",
+    "tt0205957",
+    "tt1727500",
+    "tt0012175",
+    "tt0419902",
+    "tt0159700",
+    "tt0132024",
+    "tt0132076",
+    "tt0434198",
+    "tt0317876"
   ],
   "collections": [
     {

@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-at-325",
+      "id": "silent-at-325",
       "title": "At 3:25",
       "fileSize": 1081523059,
-      "id": "silent-at-325"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-at-325",
+      "language": "French",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 959
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0014872",
-      "title": "Entr'acte",
-      "year": 1924,
-      "imdbRating": 7.3,
-      "imdbVotes": 4264,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016049",
-      "title": "Luch smerti",
-      "year": 1925,
-      "imdbRating": 6,
-      "imdbVotes": 128,
-      "language": "None, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016338",
-      "title": "She",
-      "year": 1925,
-      "imdbRating": 5.5,
-      "imdbVotes": 180,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179489",
-      "title": "La tour",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 199,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018523",
-      "title": "The Horse Ate the Hat",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 910,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018826",
-      "title": "Two Timid Souls",
-      "year": 1928,
-      "imdbRating": 6.8,
-      "imdbVotes": 226,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201528",
-      "title": "The City Struck by Lightning",
-      "year": 1924,
-      "imdbRating": 5.6,
-      "imdbVotes": 43,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015431",
-      "title": "Trip to Mars",
-      "year": 1924,
-      "imdbRating": 6.7,
-      "imdbVotes": 204,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017136",
-      "title": "Metropolis",
-      "year": 1927,
-      "imdbRating": 8.2,
-      "imdbVotes": 198926,
-      "language": "German, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036962",
-      "title": "It Happened Tomorrow",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 3276,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034881",
-      "title": "I Married a Witch",
-      "year": 1942,
-      "imdbRating": 7.1,
-      "imdbVotes": 10422,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037515",
-      "title": "And Then There Were None",
-      "year": 1945,
-      "imdbRating": 7.3,
-      "imdbVotes": 18010,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0014872",
+    "tt0016049",
+    "tt0016338",
+    "tt0179489",
+    "tt0018523",
+    "tt0018826",
+    "tt0201528",
+    "tt0015431",
+    "tt0017136",
+    "tt0036962",
+    "tt0034881",
+    "tt0037515"
   ],
   "collections": [
     {

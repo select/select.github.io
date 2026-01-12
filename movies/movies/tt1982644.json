@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-cirque-de-gavarni-caravane",
+      "id": "silent-cirque-de-gavarni-caravane",
       "title": "Cirque de Gavarni: Caravane",
       "fileSize": 22484884,
-      "id": "silent-cirque-de-gavarni-caravane"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-cirque-de-gavarni-caravane",
+      "language": "French",
+      "year": 1901,
+      "collection": "feature_films",
+      "downloads": 483
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1982752",
-      "title": "La Plage et la Mer",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 92,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982795",
-      "title": "Nice: Panorama sur la ligne de Baulieu à Monaco",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 84,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982796",
-      "title": "Nice: Sa Majesté Carnaval et le char des Limonadiers",
-      "year": 1901,
-      "imdbRating": 5.4,
-      "imdbVotes": 85,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982813",
-      "title": "Pau: La Terrasse",
-      "year": 1901,
-      "imdbRating": 5,
-      "imdbVotes": 65,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0316226",
-      "title": "The Martyred Presidents",
-      "year": 1901,
-      "imdbRating": 3.8,
-      "imdbVotes": 202,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000357",
-      "title": "The Haunted Curiosity Shop",
-      "year": 1901,
-      "imdbRating": 5.8,
-      "imdbVotes": 465,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000355",
-      "title": "Fire!",
-      "year": 1901,
-      "imdbRating": 6.2,
-      "imdbVotes": 804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0231733",
-      "title": "A Holiday Pageant at Home",
-      "year": 1901,
-      "imdbRating": 4.6,
-      "imdbVotes": 280,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471071",
-      "title": "Alfred Butterworth and Sons, Glebe Mills, Hollinwood",
-      "year": 1901,
-      "imdbRating": 5.5,
-      "imdbVotes": 134,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000346",
-      "title": "Another Job for the Undertaker",
-      "year": 1901,
-      "imdbRating": 4.8,
-      "imdbVotes": 250,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0211928",
-      "title": "Artistic Creation",
-      "year": 1901,
-      "imdbRating": 6.4,
-      "imdbVotes": 201,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt1982752",
+    "tt1982795",
+    "tt1982796",
+    "tt1982813",
+    "tt0316226",
+    "tt0000357",
+    "tt0000355",
+    "tt0231733",
+    "tt1090274",
+    "tt0471071",
+    "tt0000346",
+    "tt0211928"
   ],
   "collections": [],
   "is_curated": true,

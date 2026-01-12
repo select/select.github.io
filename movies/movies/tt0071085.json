@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/43TheRichardPettyStory_201301",
+      "id": "43TheRichardPettyStory_201301",
       "title": "43: The Richard Petty Story",
       "description": "1974 dramatized biographical movie about racecar driver Richard Petty.",
       "fileSize": 675689464,
-      "id": "43TheRichardPettyStory_201301"
+      "addedAt": "2026-01-07T00:06:09.631Z",
+      "thumbnail": "https://archive.org/services/img/43TheRichardPettyStory_201301",
+      "language": "eng",
+      "year": 1974,
+      "collection": "feature_films",
+      "downloads": 82555
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0062994",
-      "title": "Funny Girl",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 26170,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038390",
-      "title": "Caesar and Cleopatra",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 3218,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0084044",
-      "title": "Hajji Washington",
-      "year": 1983,
-      "imdbRating": 7.1,
-      "imdbVotes": 785,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011267",
-      "title": "Headin' Home",
-      "year": 1920,
-      "imdbRating": 5.1,
-      "imdbVotes": 318,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069057",
-      "title": "Pancho Villa",
-      "year": 1972,
-      "imdbRating": 4.6,
-      "imdbVotes": 698,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048312",
-      "title": "The Long Gray Line",
-      "year": 1955,
-      "imdbRating": 7.2,
-      "imdbVotes": 3392,
-      "language": "English, Irish Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5442674",
-      "title": "The Babymooners",
-      "year": 2016,
-      "imdbRating": 7,
-      "imdbVotes": 31,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0044735",
-      "title": "I Dream of Jeanie",
-      "year": 1952,
-      "imdbRating": 5.9,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0068539",
-      "title": "It Can Be Done Amigo",
-      "year": 1972,
-      "imdbRating": 5.7,
-      "imdbVotes": 1837,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0069223",
-      "title": "La sartén por el mango",
-      "year": 1972,
-      "imdbRating": 6,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0067069",
-      "title": "Evel Knievel",
-      "year": 1971,
-      "imdbRating": 5.2,
-      "imdbVotes": 1034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0068519",
-      "title": "Gentlemen of Fortune",
-      "year": 1971,
-      "imdbRating": 8.3,
-      "imdbVotes": 13658,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0062994",
+    "tt0038390",
+    "tt0084044",
+    "tt0011267",
+    "tt0069057",
+    "tt0048312",
+    "tt5442674",
+    "tt0044735",
+    "tt0068539",
+    "tt0069223",
+    "tt0067069",
+    "tt0068519"
   ],
   "collections": [],
   "is_curated": true,

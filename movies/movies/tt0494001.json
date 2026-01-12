@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ungarische-rhapsodie_1929",
+      "id": "ungarische-rhapsodie_1929",
       "title": "Ungarische Rhapsodie",
       "fileSize": 5269262211,
-      "id": "ungarische-rhapsodie_1929"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/ungarische-rhapsodie_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 677
     }
   ],
   "metadata": {
@@ -25,114 +30,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0475080",
-      "title": "Exhibition Reel of Two Color Film",
-      "year": 1929,
-      "imdbRating": 4.9,
-      "imdbVotes": 38,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019881",
-      "title": "Finding His Voice",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 203,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0192102",
-      "title": "H2O",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 801,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0206174",
-      "title": "Nogent, Eldorado du dimanche",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 131,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0351759",
-      "title": "Skyscraper Symphony",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 354,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0337245",
-      "title": "Stramilano",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0145923",
-      "title": "The Mysteries of the Chateau de De",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 747,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021576",
-      "title": "À Propos de Nice",
-      "year": 1930,
-      "imdbRating": 7.4,
-      "imdbVotes": 4591,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309243",
-      "title": "Accuracy First",
-      "year": 1928,
-      "imdbRating": 4.8,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174772",
-      "title": "In the Shadow of the Machine",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123117",
-      "title": "Inflation",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 324,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0179489",
-      "title": "La tour",
-      "year": 1928,
-      "imdbRating": 6.6,
-      "imdbVotes": 199,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0475080",
+    "tt0019881",
+    "tt0192102",
+    "tt0206174",
+    "tt0351759",
+    "tt0337245",
+    "tt0145923",
+    "tt0021576",
+    "tt0309243",
+    "tt0174772",
+    "tt0123117",
+    "tt0179489"
   ],
   "collections": [],
   "is_curated": true,

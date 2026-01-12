@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/late-autumn",
+      "id": "late-autumn",
       "title": "Late Autumn",
       "description": "The great actress and Ozu regular Setsuko Hara plays a mother gently trying to persuade her daughter to marry in this glowing portrait of family love and conflict—a reworking of Ozu's 1949 masterpiece  Late Spring .",
       "fileSize": 10528213560,
-      "id": "late-autumn"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/late-autumn",
+      "language": "jpn",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 4483
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/late-autumn_202108",
+      "id": "late-autumn_202108",
       "title": "Late Autumn",
       "description": "The great actress and Ozu regular Setsuko Hara plays a mother gently trying to persuade her daughter to marry in this glowing portrait of family love and conflict—a reworking of Ozu's 1949 masterpiece  Late Spring .",
       "fileSize": 10553522060,
-      "id": "late-autumn_202108"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/late-autumn_202108",
+      "language": "jpn",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 10004
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "3 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0053134",
-      "title": "Good Morning",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 11823,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055052",
-      "title": "The End of Summer",
-      "year": 1961,
-      "imdbRating": 7.7,
-      "imdbVotes": 4794,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051720",
-      "title": "Equinox Flower",
-      "year": 1958,
-      "imdbRating": 7.8,
-      "imdbVotes": 4993,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043313",
-      "title": "Early Summer",
-      "year": 1951,
-      "imdbRating": 8.1,
-      "imdbVotes": 9910,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023634",
-      "title": "I Was Born, But...",
-      "year": 1932,
-      "imdbRating": 7.9,
-      "imdbVotes": 6611,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022485",
-      "title": "Tokyo Chorus",
-      "year": 1931,
-      "imdbRating": 7.1,
-      "imdbVotes": 1608,
-      "language": "None, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051093",
-      "title": "Tokyo Twilight",
-      "year": 1957,
-      "imdbRating": 8.1,
-      "imdbVotes": 5385,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056444",
-      "title": "An Autumn Afternoon",
-      "year": 1962,
-      "imdbRating": 8,
-      "imdbVotes": 11140,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054230",
-      "title": "The Rat Race",
-      "year": 1960,
-      "imdbRating": 6.6,
-      "imdbVotes": 1528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054195",
-      "title": "Pollyanna",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 11681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144150",
-      "title": "El crack",
-      "year": 1960,
-      "imdbRating": 7,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053810",
-      "title": "The Facts of Life",
-      "year": 1960,
-      "imdbRating": 6.3,
-      "imdbVotes": 1760,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0053134",
+    "tt0055052",
+    "tt0051720",
+    "tt0043313",
+    "tt0023634",
+    "tt0022485",
+    "tt0051093",
+    "tt0056444",
+    "tt0054230",
+    "tt0054195",
+    "tt0144150",
+    "tt0053810"
   ],
   "collections": [
     {

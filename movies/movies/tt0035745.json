@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/CombatAmerica",
+      "id": "CombatAmerica",
       "title": "Combat America",
       "description": "A feature-length documentary on the experiences and operations of the 351st Bombardment Group of the USAAF's 8th Air Force based in England, Presented and narrated by Clark Gable. Director unknown. Released in 1943. Complete print. CAST NOTE: Clark Gable flew five combat missions over Europe as a B-17 waist gunner.",
       "fileSize": 854303438,
-      "id": "CombatAmerica"
+      "addedAt": "2026-01-07T00:06:19.367Z",
+      "thumbnail": "https://archive.org/services/img/CombatAmerica",
+      "collection": "feature_films",
+      "downloads": 11349
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/combat-america-1943",
+      "id": "combat-america-1943",
       "title": "Combat America (1943)",
       "description": "Produced in 1943 under the guidance of Army Air Force Lieutenant Clark Gable, this film follows a single 8th Air Force B-17 crew from training through a series of missions over Europe.",
       "fileSize": 386543589,
-      "id": "combat-america-1943"
+      "addedAt": "2026-01-07T00:07:51.624Z",
+      "thumbnail": "https://archive.org/services/img/combat-america-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 44
     }
   ],
   "metadata": {
@@ -35,107 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0185893",
-      "title": "Attack! Battle of New Britain",
-      "year": 1944,
-      "imdbRating": 6.3,
-      "imdbVotes": 116,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0276783",
-      "title": "Attack in the Pacific",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0246953",
-      "title": "The Stilwell Road",
-      "year": 1945,
-      "imdbRating": 6.4,
-      "imdbVotes": 89,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038175",
-      "title": "To the Shores of Iwo Jima",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 179,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0896825",
-      "title": "Junker der Waffen-SS",
-      "year": 1943,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036019",
-      "title": "How to Fly the B-17 (Part 2, Flight Operations)",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12816892",
-      "title": "Pacific Milk Run",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0183205",
-      "title": "How to Fly the P-47: Ground Handling, Take Off, Normal Flight",
-      "year": 1943,
-      "imdbRating": 6.8,
-      "imdbVotes": 6,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt12606824",
-      "title": "Fog",
-      "year": 1943,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1615446",
-      "title": "Don't Kill Your Friends",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0184967",
-      "title": "Troop Train",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 22,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0185893",
+    "tt0276783",
+    "tt0246953",
+    "tt0038175",
+    "tt1515754",
+    "tt0896825",
+    "tt0036019",
+    "tt12816892",
+    "tt0183205",
+    "tt12606824",
+    "tt1615446",
+    "tt0184967"
   ],
   "collections": [],
   "is_curated": true,

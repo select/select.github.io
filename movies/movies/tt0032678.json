@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1940-krambambuli-sepp-rist-rudolf-prack",
+      "id": "1940-krambambuli-sepp-rist-rudolf-prack",
       "title": "1940 Krambambuli ( Sepp Rist, Rudolf Prack)",
       "description": "Film aus dem deutschen dritten Reich von 1940. Krambambuli. u.a mit Sepp Rist und Rudolf Prack",
       "fileSize": 1641918398,
-      "id": "1940-krambambuli-sepp-rist-rudolf-prack"
+      "addedAt": "2026-01-07T00:06:02.058Z",
+      "thumbnail": "https://archive.org/services/img/1940-krambambuli-sepp-rist-rudolf-prack",
+      "language": "ger",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 149
     }
   ],
   "metadata": {
@@ -27,102 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032982",
-      "title": "Der rettende Engel",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036903",
-      "title": "Die heimlichen Bräute",
-      "year": 1942,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031524",
-      "title": "Das jüngste Gericht",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033217",
-      "title": "Verwandte sind auch Menschen",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194586",
-      "title": "Zwielicht",
-      "year": 1940,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032208",
-      "title": "Angelika",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0160238",
-      "title": "Der dunkle Punkt",
-      "year": 1940,
-      "imdbRating": 7.8,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032704",
-      "title": "Der liebe Augustin",
-      "year": 1940,
-      "imdbRating": 6.1,
-      "imdbVotes": 16,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130751",
-      "title": "Die gute Sieben",
-      "year": 1940,
-      "imdbRating": 7.4,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248006",
-      "title": "Fahrt ins Leben",
-      "year": 1940,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130680",
-      "title": "Falschmünzer",
-      "year": 1940,
-      "imdbRating": 7.5,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248027",
-      "title": "Für die Katz'",
-      "year": 1940,
-      "imdbVotes": 6,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0032982",
+    "tt0036903",
+    "tt0031524",
+    "tt0033217",
+    "tt0194586",
+    "tt0032208",
+    "tt0160238",
+    "tt0032704",
+    "tt0130751",
+    "tt0248006",
+    "tt0130680",
+    "tt0248027"
   ],
   "collections": [],
   "is_curated": true,

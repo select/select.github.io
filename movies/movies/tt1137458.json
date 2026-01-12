@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/goodbyeamerica2006",
+      "id": "goodbyeamerica2006",
       "title": "Goodbye, America",
       "description": "A Sergio Oksman film.",
       "fileSize": 1622302631,
-      "id": "goodbyeamerica2006"
+      "addedAt": "2026-01-07T00:08:32.019Z",
+      "thumbnail": "https://archive.org/services/img/goodbyeamerica2006",
+      "language": "English, Spanish",
+      "year": 2006,
+      "collection": "feature_films",
+      "downloads": 53169
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1422757",
-      "title": "Steal This Film",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 489,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0790769",
-      "title": "Kurt Cobain About a Son",
-      "year": 2006,
-      "imdbRating": 7.2,
-      "imdbVotes": 3877,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0775438",
-      "title": "Buy the Ticket, Take the Ride: Hunter S. Thompson on Film",
-      "year": 2006,
-      "imdbRating": 7.1,
-      "imdbVotes": 1168,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0782076",
-      "title": "Rap Sheet: Hip-Hop and the Cops",
-      "year": 2006,
-      "imdbRating": 6.4,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0762133",
-      "title": "Shadow Company",
-      "year": 2006,
-      "imdbRating": 7.4,
-      "imdbVotes": 824,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1127851",
-      "title": "Marc Bolan: The Final Word",
-      "year": 2007,
-      "imdbRating": 7.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2213002",
-      "title": "Unter falscher Flagge",
-      "year": 2007,
-      "imdbRating": 7.2,
-      "imdbVotes": 15,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0479676",
-      "title": "Harold Lloyd Comedy Collection: Harold's Hollywood - Then and Now",
-      "year": 2005,
-      "imdbRating": 6.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0907285",
-      "title": "UFO's: The Secret Evidence",
-      "year": 2005,
-      "imdbRating": 7.5,
-      "imdbVotes": 99,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422758",
-      "title": "Steal This Film II",
-      "year": 2007,
-      "imdbRating": 7.3,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3103732",
-      "title": "Women Without Shadows",
-      "year": 2005,
-      "imdbRating": 5.6,
-      "imdbVotes": 35,
-      "language": "Arabic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1166827",
-      "title": "Zeitgeist",
-      "year": 2007,
-      "imdbRating": 8.1,
-      "imdbVotes": 48342,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt1422757",
+    "tt0790769",
+    "tt0775438",
+    "tt0782076",
+    "tt0762133",
+    "tt1127851",
+    "tt2213002",
+    "tt0479676",
+    "tt0907285",
+    "tt1422758",
+    "tt3103732",
+    "tt1166827"
   ],
   "collections": [],
   "is_curated": true,

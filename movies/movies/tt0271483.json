@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/EightWitnesses",
+      "id": "EightWitnesses",
       "title": "Eight Witnesses.",
       "description": "A cold war suspense drama costarring Dennis Price and Peggy Ann Garner. This is a TV movie filmed in West Germany by a German production company, and with a mostly German supporting cast. The opening and closing scenes appear to have been shot separately and added later, possibly for its US release. The most interesting aspect of this film is the peculiar nature of its production. Directed by Lawrence Huntington Released in 1954 CAST NOTE: Dennis Price is probably best known for starring in the black comedy, \"Kind Hearts and Coronets,\" in which Alec Guinness plays eight different characters.",
       "fileSize": 838645224,
-      "id": "EightWitnesses"
+      "addedAt": "2026-01-07T00:06:19.370Z",
+      "thumbnail": "https://archive.org/services/img/EightWitnesses",
+      "collection": "feature_films",
+      "downloads": 9721
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=7sP9YUDq5cc",
+      "id": "7sP9YUDq5cc",
       "title": "Eight Witnesses (1954) COLD WAR THRILLER",
       "description": "It's Friday@PizzaFLIX \nStarring: Peggy Ann Garner, Dennis Price, Wolfgang Büttner\nDirector: Lawrence Huntington\n\nWhen a Soviet scientist defects to the West, his daughter and a British agent must ensure his secrets don't fall into the wrong hands. Baby, it's cold outside.",
-      "id": "7sP9YUDq5cc",
+      "addedAt": "2025-12-24T01:06:21.245Z",
+      "thumbnail": "https://i.ytimg.com/vi/7sP9YUDq5cc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyLFzzgc1vQ3wZDP1Hyc5vPN6xyg",
+      "duration": 3659,
+      "language": "en",
+      "year": 1954,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048301",
-      "title": "A Life in the Balance",
-      "year": 1955,
-      "imdbRating": 6.1,
-      "imdbVotes": 256,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045931",
-      "title": "Jennifer",
-      "year": 1953,
-      "imdbRating": 5.8,
-      "imdbVotes": 482,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047209",
-      "title": "Man in the Attic",
-      "year": 1953,
-      "imdbRating": 6.1,
-      "imdbVotes": 2000,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048919",
-      "title": "23 Paces to Baker Street",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 3020,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0062463",
-      "title": "The Vulture",
-      "year": 1966,
-      "imdbRating": 4.2,
-      "imdbVotes": 386,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035462",
-      "title": "Tower of Terror",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 216,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051569",
-      "title": "Lake of the Dead",
-      "year": 1958,
-      "imdbRating": 6.8,
-      "imdbVotes": 2701,
-      "language": "Norwegian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042935",
-      "title": "The Secret Fury",
-      "year": 1950,
-      "imdbRating": 6.6,
-      "imdbVotes": 1246,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047149",
-      "title": "Killers from Space",
-      "year": 1954,
-      "imdbRating": 3.5,
-      "imdbVotes": 2632,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047594",
-      "title": "The Invisible Avenger",
-      "year": 1954,
-      "imdbRating": 5.8,
-      "imdbVotes": 161,
-      "language": "Japanese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037179",
-      "title": "A Place of One's Own",
-      "year": 1945,
-      "imdbRating": 6.2,
-      "imdbVotes": 904,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0048301",
+    "tt0045931",
+    "tt0047209",
+    "tt0048919",
+    "tt0062463",
+    "tt0035462",
+    "tt0051569",
+    "tt0042935",
+    "tt0047149",
+    "tt0047594",
+    "tt9214844",
+    "tt0037179"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/softsd",
+      "id": "softsd",
       "title": "Season of Passion",
       "description": "Title: Season of Passion Summary: Two Australian sugarcane cutters spend their annual five-month vacations in Sydney with their mistresses. Directed by: Leslie Norman Actors: Ernest Borgnine, Anne Baxter, John Mills Production Company: Hill-Hecht-Lancaster Productions Release Date: 16 December 1961 (USA) Aspect Ratio: REMOVE_TAG Two Australian sugarcane cutters spend their annual five-month vacations in Sydney with their mistresses.",
       "fileSize": 708612830,
-      "id": "softsd"
+      "addedAt": "2026-01-07T00:11:35.623Z",
+      "thumbnail": "https://archive.org/services/img/softsd",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 1120
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0051565",
-      "title": "Dunkirk",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 3775,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050961",
-      "title": "The Shiralee",
-      "year": 1957,
-      "imdbRating": 6.7,
-      "imdbVotes": 423,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0188938",
-      "title": "El negoción",
-      "year": 1959,
-      "imdbRating": 7.2,
-      "imdbVotes": 24,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053134",
-      "title": "Good Morning",
-      "year": 1959,
-      "imdbRating": 7.8,
-      "imdbVotes": 11823,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051815",
-      "title": "Kermesse",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053354",
-      "title": "The 39 Steps",
-      "year": 1959,
-      "imdbRating": 6.6,
-      "imdbVotes": 2517,
-      "language": "English, French, Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054230",
-      "title": "The Rat Race",
-      "year": 1960,
-      "imdbRating": 6.6,
-      "imdbVotes": 1528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054195",
-      "title": "Pollyanna",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 11681,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144150",
-      "title": "El crack",
-      "year": 1960,
-      "imdbRating": 7,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051720",
-      "title": "Equinox Flower",
-      "year": 1958,
-      "imdbRating": 7.8,
-      "imdbVotes": 4993,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051666",
-      "title": "God's Little Acre",
-      "year": 1958,
-      "imdbRating": 6.5,
-      "imdbVotes": 2105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053579",
-      "title": "Late Autumn",
-      "year": 1960,
-      "imdbRating": 7.9,
-      "imdbVotes": 6577,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0051565",
+    "tt0050961",
+    "tt0188938",
+    "tt0053134",
+    "tt0051815",
+    "tt0053354",
+    "tt0054230",
+    "tt0054195",
+    "tt0144150",
+    "tt0051720",
+    "tt0051666",
+    "tt0053579"
   ],
   "collections": [],
   "is_curated": true,

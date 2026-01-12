@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Gangs_of_New_York_1938",
+      "id": "Gangs_of_New_York_1938",
       "title": "Gangs of New York",
       "description": "An imprisoned mob boss controls his organization by means of a shortwave receiver in his cell and a bribed prison guard.",
       "fileSize": 1159391455,
-      "id": "Gangs_of_New_York_1938"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/Gangs_of_New_York_1938",
+      "year": 1938,
+      "collection": "feature_films",
+      "downloads": 34980
     }
   ],
   "metadata": {
@@ -27,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0029799",
-      "title": "The Wrong Road",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024151",
-      "title": "I Cover the Waterfront",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 799,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030627",
-      "title": "Prison Nurse",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030005",
-      "title": "Come on, Leathernecks!",
-      "year": 1938,
-      "imdbRating": 5.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031690",
-      "title": "Mutiny in the Big House",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028770",
-      "title": "Daughter of Shanghai",
-      "year": 1937,
-      "imdbRating": 6.6,
-      "imdbVotes": 628,
-      "language": "French, English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029238",
-      "title": "Midnight Court",
-      "year": 1937,
-      "imdbRating": 5.9,
-      "imdbVotes": 124,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028589",
-      "title": "Assassin of Youth",
-      "year": 1938,
-      "imdbRating": 4.5,
-      "imdbVotes": 472,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0259235",
-      "title": "The Case of the Frightened Lady",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030037",
-      "title": "Danger on the Air",
-      "year": 1938,
-      "imdbRating": 6.3,
-      "imdbVotes": 221,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030049",
-      "title": "Delinquent Parents",
-      "year": 1938,
-      "imdbRating": 5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0029799",
+    "tt0024151",
+    "tt0030627",
+    "tt0030005",
+    "tt0031690",
+    "tt0028770",
+    "tt0029238",
+    "tt0028589",
+    "tt0259235",
+    "tt0030037",
+    "tt0030049",
+    "tt0030168"
   ],
   "collections": [],
   "is_curated": true,

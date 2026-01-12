@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Fury_Below_1936",
+      "id": "Fury_Below_1936",
       "title": "Fury Below",
       "description": "A movie about miners.",
       "fileSize": 1154257901,
-      "id": "Fury_Below_1936"
+      "addedAt": "2026-01-07T00:06:25.399Z",
+      "thumbnail": "https://archive.org/services/img/Fury_Below_1936",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 3056
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=VpvA5S3VroE",
+      "id": "VpvA5S3VroE",
       "title": "Fury Below (1936) CRIME DRAMA",
       "description": "Stars: Russell Gleason, Maxine Doyle, LeRoy Mason \nDirector: Harry L. Fraser\n\nAn heir to a mining operation, suffering from unexplained low production, is facing a strike by the miners. He will lose the mine if production doesn't increase, but an office-secretary accidentally learns of a plot to force the mine to be sold!",
-      "id": "VpvA5S3VroE",
+      "addedAt": "2025-12-26T23:47:36.708Z",
+      "thumbnail": "https://i.ytimg.com/vi/VpvA5S3VroE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gOAAoADigIMCAAQARhcIFwoXDAP&rs=AOn4CLBOss2_3V8lpcyBrX-TwX41Oe2qDA",
+      "duration": 3968,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,116 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0183796",
-      "title": "Social Error",
-      "year": 1935,
-      "imdbRating": 4.3,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0025699",
-      "title": "Randy Rides Alone",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0169253",
-      "title": "Songs and Saddles",
-      "year": 1938,
-      "imdbRating": 4.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027354",
-      "title": "Beware of Ladies",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028132",
-      "title": "Postal Inspector",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030777",
-      "title": "The Speed Reporter",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028523",
-      "title": "Yellowstone",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027769",
-      "title": "Human Cargo",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 210,
-      "language": "English, French, German, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027546",
-      "title": "The Drag-Net",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027537",
-      "title": "Don't Turn 'em Loose",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 151,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0183796",
+    "tt0025699",
+    "tt0169253",
+    "tt0027354",
+    "tt0027406",
+    "tt0028525",
+    "tt0028132",
+    "tt0030777",
+    "tt0028523",
+    "tt0027769",
+    "tt0027546",
+    "tt0027537"
   ],
   "collections": [],
   "is_curated": true,

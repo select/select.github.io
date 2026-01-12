@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-battle-of-el-alamein-1969",
+      "id": "the-battle-of-el-alamein-1969",
       "title": "The Battle Of El Alamein (1969)",
       "description": "World war two drama about the 1942 North Africa battle at El Alamein between the Allies and the Axis forces.",
       "fileSize": 1428601560,
-      "id": "the-battle-of-el-alamein-1969"
+      "addedAt": "2026-01-07T00:11:46.532Z",
+      "thumbnail": "https://archive.org/services/img/the-battle-of-el-alamein-1969",
+      "collection": "feature_films",
+      "downloads": 5546
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0064067",
-      "title": "Have Sword, Will Travel",
-      "year": 1969,
-      "imdbRating": 6.9,
-      "imdbVotes": 779,
-      "language": "Mandarin",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0064571",
-      "title": "Eagles Over London",
-      "year": 1969,
-      "imdbRating": 5.6,
-      "imdbVotes": 845,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056042",
-      "title": "The Trojan Horse",
-      "year": 1961,
-      "imdbRating": 5.9,
-      "imdbVotes": 675,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059263",
-      "title": "The Heroes of Telemark",
-      "year": 1965,
-      "imdbRating": 6.5,
-      "imdbVotes": 8479,
-      "language": "English, German, Norwegian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0054436",
-      "title": "Revenge of the Barbarians",
-      "year": 1960,
-      "imdbRating": 5.8,
-      "imdbVotes": 65,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041940",
-      "title": "Sword in the Desert",
-      "year": 1949,
-      "imdbRating": 6.5,
-      "imdbVotes": 324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064137",
-      "title": "Castle Keep",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 3578,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020558",
-      "title": "Centurion",
-      "year": 2010,
-      "imdbRating": 6.3,
-      "imdbVotes": 88560,
-      "language": "English, Gaelic",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055884",
-      "title": "Damn the Defiant!",
-      "year": 1962,
-      "imdbRating": 7.1,
-      "imdbVotes": 3108,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064240",
-      "title": "Django the Bastard",
-      "year": 1969,
-      "imdbRating": 6.1,
-      "imdbVotes": 1307,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051565",
-      "title": "Dunkirk",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 3775,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064395",
-      "title": "Guns of the Magnificent Seven",
-      "year": 1969,
-      "imdbRating": 5.7,
-      "imdbVotes": 3327,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0064067",
+    "tt0064571",
+    "tt0056042",
+    "tt0059263",
+    "tt0054436",
+    "tt0041940",
+    "tt0064137",
+    "tt1020558",
+    "tt0055884",
+    "tt0064240",
+    "tt0051565",
+    "tt0064395"
   ],
   "collections": [],
   "is_curated": true,

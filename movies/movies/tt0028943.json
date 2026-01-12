@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TheGoldRacket",
+      "id": "TheGoldRacket",
       "title": "The Gold Racket",
       "description": "The U.S. goes off of the 'Gold Standard' and because of rising prices Gold is being smuggled into the U.S. from Mexico. A G-man and a nosey reporter gal go to Mexico to infiltrate and capture the gang.",
       "fileSize": 1121216562,
-      "id": "TheGoldRacket"
+      "addedAt": "2026-01-07T00:07:05.032Z",
+      "thumbnail": "https://archive.org/services/img/TheGoldRacket",
+      "collection": "feature_films",
+      "downloads": 3932
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=eGKzwxgqGd4",
+      "id": "eGKzwxgqGd4",
       "title": "The Gold Racket (1937) CRIME-NOIR",
       "description": "Stars: Conrad Nagel, Eleanor Hunt, Fuzzy Knight \nDirectors: Louis J. Gasnier\n\nAt the request of the Mexican government, a federal agent and a lady reporter team up to catch a gang that has been smuggling gold from Mexico to the U.S. and then selling it to the U.S. government.",
-      "id": "eGKzwxgqGd4",
+      "addedAt": "2025-12-26T23:46:55.237Z",
+      "thumbnail": "https://i.ytimg.com/vi/eGKzwxgqGd4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDq5Q0Q3LXloUvJ5EUMNln0DU4tzw",
+      "duration": 3866,
+      "language": "en",
+      "year": 1937,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028719",
-      "title": "Circus Girl",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029112",
-      "title": "Larceny on the Air",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 133,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029799",
-      "title": "The Wrong Road",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030898",
-      "title": "Trouble at Midnight",
-      "year": 1937,
-      "imdbRating": 7,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028607",
-      "title": "Bank Alarm",
-      "year": 1937,
-      "imdbRating": 5.3,
-      "imdbVotes": 296,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027354",
-      "title": "Beware of Ladies",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027406",
-      "title": "Bulldog Edition",
-      "year": 1936,
-      "imdbRating": 5.5,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030164",
-      "title": "Fury Below",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030168",
-      "title": "Gang Bullets",
-      "year": 1938,
-      "imdbRating": 5.6,
-      "imdbVotes": 231,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028525",
-      "title": "You May Be Next!",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028132",
-      "title": "Postal Inspector",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 280,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030777",
-      "title": "The Speed Reporter",
-      "year": 1936,
-      "imdbRating": 5.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028719",
+    "tt0029112",
+    "tt0029799",
+    "tt0030898",
+    "tt0028607",
+    "tt0027354",
+    "tt0027406",
+    "tt0030164",
+    "tt0030168",
+    "tt0028525",
+    "tt0028132",
+    "tt0030777"
   ],
   "collections": [],
   "is_curated": true,

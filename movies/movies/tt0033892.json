@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/meet-john-doughboy-1941",
+      "id": "meet-john-doughboy-1941",
       "title": "Meet John Doughboy (1941)",
       "description": "Meet John Doughboy is a 1941 Looney Tunes short directed by Bob Clampett. Watch on RetroFlix.org:  https://retroflix.org/meet-john-doughboy-1941/",
       "fileSize": 23490699,
-      "id": "meet-john-doughboy-1941"
+      "addedAt": "2026-01-07T00:09:46.429Z",
+      "thumbnail": "https://archive.org/services/img/meet-john-doughboy-1941",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 859
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/meet-john-doughboy-1941_202409",
+      "id": "meet-john-doughboy-1941_202409",
       "title": "Meet John Doughboy (1941)",
       "description": "Porky introduces a newsreel of wartime spot gags, including a spoof of the RKO Pictures logo, and caricatures of Jack Benny and Rochester.",
       "fileSize": 804095024,
-      "id": "meet-john-doughboy-1941_202409"
+      "addedAt": "2026-01-07T00:09:46.429Z",
+      "thumbnail": "https://archive.org/services/img/meet-john-doughboy-1941_202409",
+      "language": "eng",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 190
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034376",
-      "title": "We, the Animals - Squeak!",
-      "year": 1941,
-      "imdbRating": 6.1,
-      "imdbVotes": 191,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032909",
-      "title": "Pilgrim Porky",
-      "year": 1940,
-      "imdbRating": 5.8,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140864",
-      "title": "Booby Traps",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030272",
-      "title": "Injun Trouble",
-      "year": 1938,
-      "imdbRating": 6.5,
-      "imdbVotes": 194,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030604",
-      "title": "Porky in Wackyland",
-      "year": 1938,
-      "imdbRating": 7.6,
-      "imdbVotes": 2342,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0140812",
-      "title": "Any Bonds Today?",
-      "year": 1942,
-      "imdbRating": 5.2,
-      "imdbVotes": 417,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035141",
-      "title": "Nutty News",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 160,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035529",
-      "title": "The Wacky Wabbit",
-      "year": 1942,
-      "imdbRating": 7.3,
-      "imdbVotes": 1210,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033589",
-      "title": "Farm Frolics",
-      "year": 1941,
-      "imdbRating": 6.4,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030601",
-      "title": "Porky & Daffy",
-      "year": 1938,
-      "imdbRating": 7,
-      "imdbVotes": 518,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030603",
-      "title": "Porky in Egypt",
-      "year": 1938,
-      "imdbRating": 6.2,
-      "imdbVotes": 517,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030963",
-      "title": "What Price Porky",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 374,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034376",
+    "tt0032909",
+    "tt0140864",
+    "tt0030272",
+    "tt0030604",
+    "tt0140812",
+    "tt0035141",
+    "tt0035529",
+    "tt0033589",
+    "tt0030601",
+    "tt0030603",
+    "tt0030963"
   ],
   "collections": [
     {

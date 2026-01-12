@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/phoenix_202103",
+      "id": "phoenix_202103",
       "title": "Phoenix",
       "description": "Somewhat reminiscent of Kinoshita's most famous film, Twenty-Four Eyes, in that its story takes place in two time periods, before the war and after it. A war widow, Kinuyo Tanaka (who starred in Ugetsu, Red Beard and Equinox Flower, among others), reminisces about her short courtship with her soldier husband (Keiji Sada, who also starred in several Ozu films, as well as The Human Condition).",
       "fileSize": 6751398654,
-      "id": "phoenix_202103"
+      "addedAt": "2026-01-07T00:10:12.700Z",
+      "thumbnail": "https://archive.org/services/img/phoenix_202103",
+      "language": "jpn",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 2869
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048731",
-      "title": "The Tattered Wings",
-      "year": 1955,
-      "imdbRating": 6.7,
-      "imdbVotes": 127,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052981",
-      "title": "Thus Another Day",
-      "year": 1959,
-      "imdbRating": 6.8,
-      "imdbVotes": 118,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038810",
-      "title": "Morning for the Osone Family",
-      "year": 1946,
-      "imdbRating": 6.9,
-      "imdbVotes": 346,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039694",
-      "title": "The Paradine Case",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 12601,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039370",
-      "title": "The Farmer's Daughter",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 2999,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039686",
-      "title": "The Other Love",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 927,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039698",
-      "title": "The Perils of Pauline",
-      "year": 1947,
-      "imdbRating": 6.4,
-      "imdbVotes": 1278,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039152",
-      "title": "Angel and the Badman",
-      "year": 1947,
-      "imdbRating": 6.8,
-      "imdbVotes": 7236,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040481",
-      "title": "It Always Rains on Sunday",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 2505,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039567",
-      "title": "Lighthouse",
-      "year": 1947,
-      "imdbRating": 6.2,
-      "imdbVotes": 199,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0199735",
-      "title": "Madame Bovary",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 49,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039871",
-      "title": "One Wonderful Sunday",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 3976,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0048731",
+    "tt0052981",
+    "tt0038810",
+    "tt0039694",
+    "tt0039370",
+    "tt0039686",
+    "tt0039698",
+    "tt0039152",
+    "tt0040481",
+    "tt0039567",
+    "tt0199735",
+    "tt0039871"
   ],
   "collections": [],
   "is_curated": true,

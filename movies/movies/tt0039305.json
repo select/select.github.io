@@ -6,26 +6,41 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1947-dead-reckoning-maldita-mujer-john-cromwell-vose",
+      "id": "1947-dead-reckoning-maldita-mujer-john-cromwell-vose",
       "title": "1947 - Dead Reckoning - Callejón sin salida - Maldita mujer - John Cromwell - VOSE",
       "description": "For Academic / Educational Use Only derechonoir.wordpress.com",
       "fileSize": 359005588,
-      "id": "1947-dead-reckoning-maldita-mujer-john-cromwell-vose"
+      "addedAt": "2026-01-07T00:06:03.998Z",
+      "thumbnail": "https://archive.org/services/img/1947-dead-reckoning-maldita-mujer-john-cromwell-vose",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 2328
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dead-reckoning-1947",
+      "id": "dead-reckoning-1947",
       "title": "Dead Reckoning (1947) Humphrey Bogart, Lizabeth Scott, Morris Carnovsky",
       "description": "Dead Reckoning is a 1947 American FILM NOlR starring Humphrey Bogart and Lizabeth Scott and featuring Morris Carnovsky. The picture was directed by John Cromwell and written by Steve Fisher and Oliver H.P. Garrett based on a story by Gerald Drayson Adams and Sidney Biddell, adapted by Allen Rivkin.   You can find out more about this movie from Wikipedia . A detailed article from Off Screen  may still be available. ",
       "fileSize": 971594163,
-      "id": "dead-reckoning-1947"
+      "addedAt": "2026-01-07T00:07:59.605Z",
+      "thumbnail": "https://archive.org/services/img/dead-reckoning-1947",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 20491
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dead-reckoning-bogart",
+      "id": "dead-reckoning-bogart",
       "title": "Dead Reckoning ( BOGART)",
       "description": "Bogart plays an ex army officer helping an old army buddy after WW2. This is the 2nd movie of his with this theme.  Key Largo, the other one, is my favorite.",
       "fileSize": 80403601,
-      "id": "dead-reckoning-bogart"
+      "addedAt": "2026-01-07T00:07:59.605Z",
+      "thumbnail": "https://archive.org/services/img/dead-reckoning-bogart",
+      "year": 1946,
+      "collection": "feature_films",
+      "downloads": 241
     }
   ],
   "metadata": {
@@ -43,114 +58,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039311",
-      "title": "Desert Fury",
-      "year": 1947,
-      "imdbRating": 6.5,
-      "imdbVotes": 2289,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039482",
-      "title": "I Walk Alone",
-      "year": 1947,
-      "imdbRating": 7,
-      "imdbVotes": 3652,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038991",
-      "title": "The Stranger",
-      "year": 1946,
-      "imdbRating": 7.3,
-      "imdbVotes": 30317,
-      "language": "English, Spanish, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038455",
-      "title": "The Dark Mirror",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 5810,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038956",
-      "title": "Smooth as Silk",
-      "year": 1946,
-      "imdbRating": 6.3,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038965",
-      "title": "Somewhere in the Night",
-      "year": 1946,
-      "imdbRating": 7,
-      "imdbVotes": 3770,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039017",
-      "title": "Terror by Night",
-      "year": 1946,
-      "imdbRating": 6.7,
-      "imdbVotes": 7518,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038409",
-      "title": "The Chase",
-      "year": 1946,
-      "imdbRating": 6.4,
-      "imdbVotes": 3046,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038453",
-      "title": "The Dark Corner",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 5366,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038669",
-      "title": "The Killers",
-      "year": 1946,
-      "imdbRating": 7.7,
-      "imdbVotes": 25391,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039101",
-      "title": "Whistle Stop",
-      "year": 1946,
-      "imdbRating": 5.5,
-      "imdbVotes": 1351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038369",
-      "title": "The Blue Dahlia",
-      "year": 1946,
-      "imdbRating": 7.1,
-      "imdbVotes": 10171,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039311",
+    "tt0039482",
+    "tt0038991",
+    "tt0038455",
+    "tt0038956",
+    "tt0038965",
+    "tt0039017",
+    "tt0038409",
+    "tt0038453",
+    "tt0038669",
+    "tt0039101",
+    "tt0038369"
   ],
   "collections": [
     {

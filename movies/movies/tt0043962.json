@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_119",
+      "id": "rog561b_netzero_119",
       "title": "Red Mountain",
       "description": "119",
       "fileSize": 7226308648,
-      "id": "rog561b_netzero_119"
+      "addedAt": "2026-01-07T00:10:30.755Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_119",
+      "collection": "feature_films",
+      "downloads": 7286
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043885",
-      "title": "Only the Valiant",
-      "year": 1951,
-      "imdbRating": 6.5,
-      "imdbVotes": 1891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043829",
-      "title": "My Outlaw Brother",
-      "year": 1951,
-      "imdbRating": 5.2,
-      "imdbVotes": 340,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043849",
-      "title": "New Mexico",
-      "year": 1951,
-      "imdbRating": 5.6,
-      "imdbVotes": 220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043895",
-      "title": "The Painted Hills",
-      "year": 1951,
-      "imdbRating": 4.2,
-      "imdbVotes": 1269,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043853",
-      "title": "Night Riders of Montana",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 87,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043959",
-      "title": "Rawhide",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 3273,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043626",
-      "title": "Heart of the Rockies",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0042232",
-      "title": "Battling Marshal",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044506",
-      "title": "Colorado Sundown",
-      "year": 1952,
-      "imdbRating": 6.2,
-      "imdbVotes": 188,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044795",
-      "title": "The Kid from Broken Gun",
-      "year": 1952,
-      "imdbRating": 5.9,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043013",
-      "title": "The Sundowners",
-      "year": 1950,
-      "imdbRating": 5.6,
-      "imdbVotes": 567,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0043885",
+    "tt0043829",
+    "tt0043849",
+    "tt0043895",
+    "tt0043853",
+    "tt0043959",
+    "tt0043626",
+    "tt0042232",
+    "tt0044506",
+    "tt0042383",
+    "tt0044795",
+    "tt0043013"
   ],
   "collections": [],
   "is_curated": true,

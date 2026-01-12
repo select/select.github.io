@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/samurai-rebellion",
+      "id": "samurai-rebellion",
       "title": "Samurai Rebellion",
       "description": "Toshiro Mifune stars as Isaburo Sasahara, an aging swordsman living a quiet life until his clan lord orders that his son marry the lord's mistress, who has recently displeased the ruler. Reluctantly, father and son take in the woman, and, to the family’s surprise, the young couple fall in love. But the lord soon reverses his decision and demands the mistress’s return. Against all expectations, Isaburo and his son refuse, risking the destruction of their entire family. Director Masaki Kobayashi's  Samurai Rebellion  is the gripping story of a peaceful man who finally decides to take a stand against injustice.",
       "fileSize": 9979844126,
-      "id": "samurai-rebellion"
+      "addedAt": "2026-01-07T00:10:40.952Z",
+      "thumbnail": "https://archive.org/services/img/samurai-rebellion",
+      "language": "jpn",
+      "year": 1967,
+      "collection": "feature_films",
+      "downloads": 25027
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "7 wins & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0058279",
-      "title": "Kwaidan",
-      "year": 1964,
-      "imdbRating": 7.9,
-      "imdbVotes": 21660,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135031",
-      "title": "Beautiful Days",
-      "year": 1955,
-      "imdbRating": 6.9,
-      "imdbVotes": 200,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134771",
-      "title": "Black River",
-      "year": 1957,
-      "imdbRating": 7.2,
-      "imdbVotes": 1242,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056058",
-      "title": "Harakiri",
-      "year": 1962,
-      "imdbRating": 8.6,
-      "imdbVotes": 87601,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134286",
-      "title": "I Will Buy You",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 586,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053114",
-      "title": "The Human Condition I: No Greater Love",
-      "year": 1959,
-      "imdbRating": 8.5,
-      "imdbVotes": 10536,
-      "language": "Japanese, Mandarin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056135",
-      "title": "The Inheritance",
-      "year": 1962,
-      "imdbRating": 7.4,
-      "imdbVotes": 1053,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058888",
-      "title": "Red Beard",
-      "year": 1965,
-      "imdbRating": 8.3,
-      "imdbVotes": 22731,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200768",
-      "title": "Sword of the Beast",
-      "year": 1965,
-      "imdbRating": 7.5,
-      "imdbVotes": 3152,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060584",
-      "title": "Kidnapping, Caucasian Style",
-      "year": 1967,
-      "imdbRating": 8.3,
-      "imdbVotes": 13967,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0171408",
-      "title": "July Rain",
-      "year": 1967,
-      "imdbRating": 7.5,
-      "imdbVotes": 1187,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0062453",
-      "title": "Viy",
-      "year": 1967,
-      "imdbRating": 7.2,
-      "imdbVotes": 10735,
-      "language": "Russian, Ukrainian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    }
+    "tt0058279",
+    "tt0135031",
+    "tt0134771",
+    "tt0134286",
+    "tt0053114",
+    "tt0056135",
+    "tt0058888",
+    "tt0200768",
+    "tt0060584",
+    "tt0171408",
+    "tt0062453",
+    "tt0061709"
   ],
   "collections": [
     {

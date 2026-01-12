@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-mummys-hand",
+      "id": "the-mummys-hand",
       "title": "The Mummy's Hand (1940)",
       "description": "In Cairo, archaeologist Steve Banning (Dick Foran) unearths a vase that he believes could lead him to the ancient tomb of Princess Ananka. Unknown to Steve, his colleague, Professor Andoheb (George Zucco), is also the High Priest of Karnac who holds the secrets of Karas, a mummy who guards Ananka's  tomb. Upon receiving funds from magician Solvani (Cecil Kellaway) and his daughter, Marta (Peggy Moran), Steve and the Solvanis embark on an expedition to the grave site, where Karas awaits.",
       "fileSize": 5483651247,
-      "id": "the-mummys-hand"
+      "addedAt": "2026-01-07T00:12:22.155Z",
+      "thumbnail": "https://archive.org/services/img/the-mummys-hand",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 16023
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-mummys.-hand.-1940",
+      "id": "the.-mummys.-hand.-1940",
       "title": "The Mummy's Hand (1940)",
       "description": "The Mummy's Hand is a 1940 American horror film directed by Christy Cabanne and produced by Ben Pivar. It  follows archaeologists Steve Banning and Babe Jenson as they search for the tomb of Princess Ananka in Egypt. They awaken the mummy Kharis, who is controlled by the High Priest Andoheb, leading to a series of deadly encounters as they uncover ancient secrets and face the mummy's wrath.",
       "fileSize": 1125827349,
-      "id": "the.-mummys.-hand.-1940"
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-mummys.-hand.-1940",
+      "language": "eng",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 191
     }
   ],
   "metadata": {
@@ -35,117 +47,18 @@
     "Awards": "1 nomination"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0032392",
-      "title": "The Devil's Pipeline",
-      "year": 1940,
-      "imdbRating": 6.2,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031691",
-      "title": "Mutiny on the Blackhawk",
-      "year": 1939,
-      "imdbRating": 6.4,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035096",
-      "title": "The Mummy's Tomb",
-      "year": 1942,
-      "imdbRating": 5.5,
-      "imdbVotes": 4249,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016039",
-      "title": "The Lost World",
-      "year": 1925,
-      "imdbRating": 6.9,
-      "imdbVotes": 6175,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049516",
-      "title": "The Mole People",
-      "year": 1956,
-      "imdbRating": 5,
-      "imdbVotes": 4090,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032412",
-      "title": "Dr. Cyclops",
-      "year": 1940,
-      "imdbRating": 6.4,
-      "imdbVotes": 3034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054850",
-      "title": "Hercules in the Haunted World",
-      "year": 1961,
-      "imdbRating": 6.2,
-      "imdbVotes": 2478,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032871",
-      "title": "One Million B.C.",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 1724,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4219706",
-      "title": "Demon Squad",
-      "year": 2019,
-      "imdbRating": 3.1,
-      "imdbVotes": 267,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0843873",
-      "title": "Snakes on a Train",
-      "year": 2006,
-      "imdbRating": 2.2,
-      "imdbVotes": 2216,
-      "language": "English, Spanish",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt1132130",
-      "title": "2012 Doomsday",
-      "year": 2008,
-      "imdbRating": 1.7,
-      "imdbVotes": 7209,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0032380",
-      "title": "Danger on Wheels",
-      "year": 1940,
-      "imdbRating": 5.3,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0032392",
+    "tt0031691",
+    "tt0035096",
+    "tt0016039",
+    "tt0049516",
+    "tt0032412",
+    "tt0054850",
+    "tt0032871",
+    "tt4219706",
+    "tt0843873",
+    "tt1132130",
+    "tt3343136"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/mirage-1965",
+      "id": "mirage-1965",
       "title": "Mirage (1965) Gregory Peck, Diane Baker",
       "description": "Gregory Peck witnessed a murder but doesn't remember it.",
       "fileSize": 1706192787,
-      "id": "mirage-1965"
+      "addedAt": "2026-01-07T00:09:54.328Z",
+      "thumbnail": "https://archive.org/services/img/mirage-1965",
+      "language": "eng",
+      "year": 1965,
+      "collection": "feature_films",
+      "downloads": 471
     }
   ],
   "metadata": {
@@ -27,116 +33,18 @@
     "Awards": "1 win total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0058405",
-      "title": "Nightmare",
-      "year": 1964,
-      "imdbRating": 6.7,
-      "imdbVotes": 2654,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0061811",
-      "title": "In the Heat of the Night",
-      "year": 1967,
-      "imdbRating": 7.9,
-      "imdbVotes": 87737,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057495",
-      "title": "Shock Corridor",
-      "year": 1963,
-      "imdbRating": 7.3,
-      "imdbVotes": 13813,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041460",
-      "title": "The Hidden Room",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 3067,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055470",
-      "title": "Espiritismo",
-      "year": 1962,
-      "imdbRating": 5.3,
-      "imdbVotes": 123,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0058620",
-      "title": "Strait-Jacket",
-      "year": 1964,
-      "imdbRating": 6.8,
-      "imdbVotes": 6892,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060095",
-      "title": "Alvarez Kelly",
-      "year": 1966,
-      "imdbRating": 6.3,
-      "imdbVotes": 2820,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0057917",
-      "title": "The Carpetbaggers",
-      "year": 1964,
-      "imdbRating": 6.5,
-      "imdbVotes": 2560,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150524",
-      "title": "Fear No More",
-      "year": 1961,
-      "imdbRating": 6.3,
-      "imdbVotes": 318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0064186",
-      "title": "So Sweet... So Perverse",
-      "year": 1969,
-      "imdbRating": 6,
-      "imdbVotes": 1324,
-      "language": "Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0056923",
-      "title": "Charade",
-      "year": 1963,
-      "imdbRating": 7.8,
-      "imdbVotes": 88013,
-      "language": "English, French, German, Italian, Spanish",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt9214844",
-      "title": "12 Suicidal Teens",
-      "year": 2019,
-      "imdbRating": 5.8,
-      "imdbVotes": 1181,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    }
+    "tt0058405",
+    "tt0061811",
+    "tt0057495",
+    "tt0041460",
+    "tt0055470",
+    "tt0058620",
+    "tt0060095",
+    "tt0057917",
+    "tt0150524",
+    "tt0064186",
+    "tt0056923",
+    "tt9214844"
   ],
   "collections": [
     {

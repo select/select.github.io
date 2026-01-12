@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-hayseed",
+      "id": "silent-the-hayseed",
       "title": "The Hayseed",
       "fileSize": 5002743688,
-      "id": "silent-the-hayseed"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-hayseed",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 415
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-hayseed",
+      "id": "the-hayseed",
       "title": "The Hayseed",
       "description": "Buster manages the store while Roscoe delivers the mail, taking time out for hide-and-seek with Molly. The constable, also interested in Molly, steals $300 while being observed by Buster. ",
       "fileSize": 1791829878,
-      "id": "the-hayseed"
+      "addedAt": "2026-01-07T00:12:10.587Z",
+      "thumbnail": "https://archive.org/services/img/the-hayseed",
+      "language": "english-handwritten",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 1074
     }
   ],
   "metadata": {
@@ -34,114 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010155",
-      "title": "The Garage",
-      "year": 1920,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009899",
-      "title": "Back Stage",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 1446,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009123",
-      "title": "Good Night, Nurse!",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009466",
-      "title": "Out West",
-      "year": 1918,
-      "imdbRating": 6.4,
-      "imdbVotes": 1360,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008874",
-      "title": "The Bell Boy",
-      "year": 1918,
-      "imdbRating": 6.7,
-      "imdbVotes": 1523,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009389",
-      "title": "Moonshine",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 964,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008975",
-      "title": "The Cook",
-      "year": 1918,
-      "imdbRating": 6.6,
-      "imdbVotes": 1986,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007761",
-      "title": "The Butcher Boy",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1929,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007819",
-      "title": "Coney Island",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 1911,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008112",
-      "title": "His Wedding Night",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1306,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008500",
-      "title": "A Reckless Romeo",
-      "year": 1917,
-      "imdbRating": 6.2,
-      "imdbVotes": 244,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008377",
-      "title": "Oh Doctor!",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 1176,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0010155",
+    "tt0009899",
+    "tt0009123",
+    "tt0009466",
+    "tt0008874",
+    "tt0009389",
+    "tt0008975",
+    "tt0007761",
+    "tt0007819",
+    "tt0008112",
+    "tt0008500",
+    "tt0008377"
   ],
   "collections": [
     {

@@ -6,18 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/konga.-1961",
+      "id": "konga.-1961",
       "title": "Konga (1961)",
       "description": "Konga is a British-American science fiction horror film released in 1961. Directed by John Lemont, it features Michael Gough as Dr. Charles Decker, a botanist who returns from Africa with a baby chimpanzee named Konga.  The story follows Dr. Decker, who discovers a serum that can enlarge plants and animals. He uses this serum on Konga, transforming the chimp into a giant ape to eliminate his enemies. As Konga grows, he wreaks havoc in London, leading to a climactic confrontation with the military.",
       "fileSize": 869642333,
-      "id": "konga.-1961"
+      "addedAt": "2026-01-07T00:09:24.700Z",
+      "thumbnail": "https://archive.org/services/img/konga.-1961",
+      "language": "eng",
+      "year": 1961,
+      "collection": "feature_films",
+      "downloads": 710
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Konga-Trailer",
+      "id": "Konga-Trailer",
       "title": "Konga - Trailer",
       "description": "Original theatrical trailer for the film Konga",
       "fileSize": 130197743,
-      "id": "Konga-Trailer"
+      "addedAt": "2026-01-07T00:06:30.622Z",
+      "thumbnail": "https://archive.org/services/img/Konga-Trailer",
+      "collection": "feature_films",
+      "downloads": 3295
     }
   ],
   "metadata": {
@@ -35,115 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0053337",
-      "title": "Teenagers from Outer Space",
-      "year": 1959,
-      "imdbRating": 3.9,
-      "imdbVotes": 3938,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052846",
-      "title": "The Giant Gila Monster",
-      "year": 1959,
-      "imdbRating": 3.7,
-      "imdbVotes": 4520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052228",
-      "title": "Space Master X-7",
-      "year": 1958,
-      "imdbRating": 5.2,
-      "imdbVotes": 454,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050210",
-      "title": "The Brain from Planet Arous",
-      "year": 1957,
-      "imdbRating": 5.2,
-      "imdbVotes": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054950",
-      "title": "Battle of the Worlds",
-      "year": 1961,
-      "imdbRating": 4.3,
-      "imdbVotes": 1020,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054673",
-      "title": "The Beast of Yucca Flats",
-      "year": 1961,
-      "imdbRating": 1.9,
-      "imdbVotes": 10508,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054691",
-      "title": "Bloodlust!",
-      "year": 1961,
-      "imdbRating": 3.6,
-      "imdbVotes": 2640,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0060536",
-      "title": "In the Year 2889",
-      "year": 1969,
-      "imdbRating": 2.9,
-      "imdbVotes": 1211,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080354",
-      "title": "Alligator",
-      "year": 1980,
-      "imdbRating": 6.1,
-      "imdbVotes": 17623,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1789724",
-      "title": "Cell Count",
-      "year": 2012,
-      "imdbRating": 3.7,
-      "imdbVotes": 764,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1386583",
-      "title": "Infection: The Invasion Begins",
-      "year": 2011,
-      "imdbRating": 2.5,
-      "imdbVotes": 539,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0203139",
-      "title": "Silent Predators",
-      "year": 1999,
-      "imdbRating": 4.3,
-      "imdbVotes": 1206,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    }
+    "tt0053337",
+    "tt0052846",
+    "tt0052228",
+    "tt0050210",
+    "tt0054950",
+    "tt0054673",
+    "tt0054691",
+    "tt0060536",
+    "tt0080354",
+    "tt1789724",
+    "tt1386583",
+    "tt0203139"
   ],
   "collections": [],
   "is_curated": true,

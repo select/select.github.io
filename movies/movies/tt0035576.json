@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/yanks_are_coming",
+      "id": "yanks_are_coming",
       "title": "Yanks Are Coming",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3354794676,
-      "id": "yanks_are_coming"
+      "addedAt": "2026-01-07T00:13:17.038Z",
+      "thumbnail": "https://archive.org/services/img/yanks_are_coming",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 86225
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=J_eE679EJ1s",
+      "id": "J_eE679EJ1s",
       "title": "The Yanks Are Coming (1942) WWII COMEDY",
       "description": "Stars: Henry King, Mary Healy, Jack Heller\n Director: Alexis Thurn-Taxis\n\n In this upbeat WW II comedy, a popular band joins the army with the idea of putting on shows for troops overseas. During rehearsals, a battle erupts and the musicians must exchange their musical instruments for guns and fight.",
-      "id": "J_eE679EJ1s",
+      "addedAt": "2025-12-26T23:53:21.023Z",
+      "thumbnail": "https://i.ytimg.com/vi/J_eE679EJ1s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB8gSAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLBN3z2qiSPIq5MxS1B8ZzVh878Ieg",
+      "duration": 3868,
+      "language": "en",
+      "year": 1942,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0035583",
-      "title": "You Were Never Lovelier",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 4225,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033632",
-      "title": "Frau Luna",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 25,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033878",
-      "title": "Immer nur Du",
-      "year": 1941,
-      "imdbRating": 7.3,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034265",
-      "title": "Tanz mit dem Kaiser",
-      "year": 1941,
-      "imdbRating": 6.7,
-      "imdbVotes": 32,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036066",
-      "title": "Karneval der Liebe",
-      "year": 1943,
-      "imdbRating": 6.3,
-      "imdbVotes": 57,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035969",
-      "title": "Happy Go Lucky",
-      "year": 1943,
-      "imdbRating": 6.1,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0178299",
-      "title": "Carmen",
-      "year": 1943,
-      "imdbRating": 7,
-      "imdbVotes": 25,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034055",
-      "title": "Pot o' Gold",
-      "year": 1941,
-      "imdbRating": 6,
-      "imdbVotes": 2141,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035289",
-      "title": "Sarong Girl",
-      "year": 1943,
-      "imdbRating": 5.4,
-      "imdbVotes": 68,
-      "language": "Spanish, German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032624",
-      "title": "If I Had My Way",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 205,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033029",
-      "title": "Second Chorus",
-      "year": 1940,
-      "imdbRating": 5.7,
-      "imdbVotes": 1798,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Colorized Public Domain"
-    },
-    {
-      "imdbId": "tt0037175",
-      "title": "Pin Up Girl",
-      "year": 1944,
-      "imdbRating": 6,
-      "imdbVotes": 858,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0035583",
+    "tt0033632",
+    "tt0033878",
+    "tt0034265",
+    "tt0036066",
+    "tt0035969",
+    "tt0178299",
+    "tt0034055",
+    "tt0035289",
+    "tt0032624",
+    "tt0033029",
+    "tt0037175"
   ],
   "collections": [],
   "is_curated": true,

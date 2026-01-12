@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/capture-of-boer-battery-by-british-1900-directed-by-james-h.-white",
+      "id": "capture-of-boer-battery-by-british-1900-directed-by-james-h.-white",
       "title": "Capture Of Boer Battery By British (1900)",
       "description": "Capture Of Boer Battery By British (1900) Capture of Boer Battery by British is a black-and-white silent short docu-fiction film produced by James H. White for Edison Manufacturing Company in 1900. It is one minute in length and depicts the resistance of the Gordon Highlanders to the oncoming fire of the Boer's advance during the Boer War. It was filmed in West Orange, New Jersey USA and released April 14, 1900.",
       "fileSize": 4416962,
-      "id": "capture-of-boer-battery-by-british-1900-directed-by-james-h.-white"
+      "addedAt": "2026-01-07T00:07:45.166Z",
+      "thumbnail": "https://archive.org/services/img/capture-of-boer-battery-by-british-1900-directed-by-james-h.-white",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 73
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-capture-of-boer-battery-by-british",
+      "id": "silent-capture-of-boer-battery-by-british",
       "title": "Capture of Boer Battery by British",
       "fileSize": 50230765,
-      "id": "silent-capture-of-boer-battery-by-british"
+      "addedAt": "2026-01-07T00:10:59.115Z",
+      "thumbnail": "https://archive.org/services/img/silent-capture-of-boer-battery-by-british",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 733
     }
   ],
   "metadata": {
@@ -34,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt1090274",
-      "title": "A Sneaky Boer",
-      "year": 1901,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0288455",
-      "title": "Boers Bringing in British Prisoners",
-      "year": 1900,
-      "imdbRating": 3.7,
-      "imdbVotes": 95,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310176",
-      "title": "A Storm at Sea",
-      "year": 1900,
-      "imdbRating": 5.6,
-      "imdbVotes": 256,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302397",
-      "title": "Champs de Mars",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 227,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302525",
-      "title": "Eiffel Tower from Trocadero Palace",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 223,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0291379",
-      "title": "New Black Diamond Express",
-      "year": 1900,
-      "imdbRating": 4.5,
-      "imdbVotes": 164,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309973",
-      "title": "Palace of Electricity",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 208,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230613",
-      "title": "Panorama of Eiffel Tower",
-      "year": 1900,
-      "imdbRating": 5.7,
-      "imdbVotes": 352,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0291411",
-      "title": "Panorama of Gorge Railway",
-      "year": 1900,
-      "imdbRating": 4.4,
-      "imdbVotes": 85,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310118",
-      "title": "Scene from the Elevator Ascending Eiffel Tower",
-      "year": 1900,
-      "imdbRating": 5.9,
-      "imdbVotes": 284,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0287119",
-      "title": "Watermelon Contest",
-      "year": 1900,
-      "imdbRating": 3.8,
-      "imdbVotes": 158,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0230973",
-      "title": "Why Mrs. Jones Got a Divorce",
-      "year": 1900,
-      "imdbRating": 5.1,
-      "imdbVotes": 167,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt1090274",
+    "tt0288455",
+    "tt0310176",
+    "tt0302397",
+    "tt0302525",
+    "tt0291379",
+    "tt0309973",
+    "tt0230613",
+    "tt0291411",
+    "tt0287119",
+    "tt0230973",
+    "tt0231716"
   ],
   "collections": [],
   "is_curated": true,

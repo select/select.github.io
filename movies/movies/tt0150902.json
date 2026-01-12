@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/hey-diddle-diddle-1935",
+      "id": "hey-diddle-diddle-1935",
       "title": "Hey Diddle Diddle (1935)",
       "description": "Hey Diddle Diddle is a Terrytoons cartoon directed by Frank Moser, Paul Terry. Watch on RetroFlix:  https://retroflix.org/hey-diddle-diddle-1935/",
       "fileSize": 33222543,
-      "id": "hey-diddle-diddle-1935"
+      "addedAt": "2026-01-07T00:08:39.345Z",
+      "thumbnail": "https://archive.org/services/img/hey-diddle-diddle-1935",
+      "language": "eng",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 39
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0151159",
-      "title": "A June Bride",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151605",
-      "title": "A Modern Red Riding Hood",
-      "year": 1935,
-      "imdbRating": 4.4,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149891",
-      "title": "Birdland",
-      "year": 1935,
-      "imdbRating": 3.8,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150133",
-      "title": "Circus Days",
-      "year": 1935,
-      "imdbRating": 4.6,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150560",
-      "title": "Fireman, Save My Child",
-      "year": 1935,
-      "imdbRating": 4.7,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150573",
-      "title": "Five Puplets",
-      "year": 1935,
-      "imdbRating": 4.7,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150601",
-      "title": "Flying Oil",
-      "year": 1935,
-      "imdbRating": 5,
-      "imdbVotes": 9,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150608",
-      "title": "Football",
-      "year": 1935,
-      "imdbRating": 5.5,
-      "imdbVotes": 18,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151215",
-      "title": "King Looney XIV",
-      "year": 1935,
-      "imdbRating": 3.8,
-      "imdbVotes": 14,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151602",
-      "title": "Moans and Groans",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151816",
-      "title": "Old Dog Tray",
-      "year": 1935,
-      "imdbRating": 4,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151934",
-      "title": "Peg Leg Pete, the Pirate",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0151159",
+    "tt0151605",
+    "tt0149891",
+    "tt0150133",
+    "tt0150560",
+    "tt0150573",
+    "tt0150601",
+    "tt0150608",
+    "tt0151215",
+    "tt0151602",
+    "tt0151816",
+    "tt0151934"
   ],
   "collections": [],
   "is_curated": true,

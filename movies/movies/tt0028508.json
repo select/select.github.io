@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Wildcat_Trooper",
+      "id": "Wildcat_Trooper",
       "title": "Wildcat_Trooper",
       "description": "See IMDB http://www.imdb.com/title/tt0028508/ Writers: James Oliver Curwood (novel), Joseph O'Donnell (screenplay) Stars: Kermit Maynard, Hobart Bosworth and Fuzzy Knight",
       "fileSize": 901531405,
-      "id": "Wildcat_Trooper"
+      "addedAt": "2026-01-07T00:07:18.436Z",
+      "thumbnail": "https://archive.org/services/img/Wildcat_Trooper",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 7139
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=fYsqEyYOd5o",
+      "id": "fYsqEyYOd5o",
       "title": "Wildcat Trooper (1936) KERMIT MAYNARD",
       "description": "Stars: Kermit Maynard, Hobart Bosworth, Fuzzy Knight \n Director: Elmer Clifton\n\n A Royal Canadian Mountie is assigned to bring in a criminal called \"The Raven.\" The problem is that no one has ever seen him.",
-      "id": "fYsqEyYOd5o",
+      "addedAt": "2025-12-26T23:49:42.679Z",
+      "thumbnail": "https://i.ytimg.com/vi/fYsqEyYOd5o/maxresdefault.jpg",
+      "duration": 3484,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,119 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026952",
-      "title": "Rough Riding Ranger",
-      "year": 1935,
-      "imdbRating": 4.8,
-      "imdbVotes": 62,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026349",
-      "title": "Fighting Caballero",
-      "year": 1935,
-      "imdbRating": 4.9,
-      "imdbVotes": 36,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026254",
-      "title": "Cyclone of the Saddle",
-      "year": 1935,
-      "imdbRating": 5.2,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026843",
-      "title": "Pals of the Range",
-      "year": 1935,
-      "imdbVotes": 15,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0031190",
-      "title": "Crashing Thru",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036664",
-      "title": "Boss of Rawhide",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 74,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036847",
-      "title": "Gangsters of the Frontier",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 123,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036888",
-      "title": "Guns of the Law",
-      "year": 1944,
-      "imdbRating": 5.6,
-      "imdbVotes": 81,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037304",
-      "title": "Spook Town",
-      "year": 1944,
-      "imdbRating": 5.4,
-      "imdbVotes": 73,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134216",
-      "title": "Wild Horse Round-Up",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0037176",
-      "title": "The Pinto Bandit",
-      "year": 1944,
-      "imdbRating": 5.2,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0028098",
-      "title": "Phantom Patrol",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 98,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026952",
+    "tt0026349",
+    "tt0026254",
+    "tt0026843",
+    "tt0031190",
+    "tt0036664",
+    "tt0036847",
+    "tt0036888",
+    "tt0037304",
+    "tt0134216",
+    "tt0037176",
+    "tt0028098"
   ],
   "collections": [],
   "is_curated": true,

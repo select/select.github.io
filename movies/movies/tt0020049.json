@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/jungle-rhythm_1929",
+      "id": "jungle-rhythm_1929",
       "title": "Jungle Rhythm",
       "fileSize": 312807833,
-      "id": "jungle-rhythm_1929"
+      "addedAt": "2026-01-07T00:09:15.997Z",
+      "thumbnail": "https://archive.org/services/img/jungle-rhythm_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 245
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020484",
-      "title": "El terrible toreador",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 456,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020168",
-      "title": "Mickey's Follies",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020445",
-      "title": "Springtime",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 558,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020164",
-      "title": "The Merry Dwarfs",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 492,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018675",
-      "title": "The Barn Dance",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 1016,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020276",
-      "title": "The Plowboy",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 456,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020414",
-      "title": "The Skeleton Dance",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 6692,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016589",
-      "title": "Alice's Balloon Race",
-      "year": 1926,
-      "imdbRating": 5.3,
-      "imdbVotes": 234,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015559",
-      "title": "Alice Wins the Derby",
-      "year": 1925,
-      "imdbRating": 5.2,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015563",
-      "title": "Alice's Egg Plant",
-      "year": 1925,
-      "imdbRating": 5.7,
-      "imdbVotes": 337,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013323",
-      "title": "Little Red Riding Hood",
-      "year": 1922,
-      "imdbRating": 5.1,
-      "imdbVotes": 517,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020580",
-      "title": "When the Cat's Away",
-      "year": 1929,
-      "imdbRating": 5.9,
-      "imdbVotes": 709,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020484",
+    "tt0020168",
+    "tt0020445",
+    "tt0020164",
+    "tt0018675",
+    "tt0020276",
+    "tt0020414",
+    "tt0016589",
+    "tt0015559",
+    "tt0015563",
+    "tt0013323",
+    "tt0020580"
   ],
   "collections": [
     {

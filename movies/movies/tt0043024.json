@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/tarnished-1950-h",
+      "id": "tarnished-1950-h",
       "title": "Tarnished (1950)",
       "description": "Dorothy Patrick, Arthur Franz, Barbra Fuller Republic Pictures",
       "fileSize": 1075692653,
-      "id": "tarnished-1950-h"
+      "addedAt": "2026-01-07T00:11:46.527Z",
+      "thumbnail": "https://archive.org/services/img/tarnished-1950-h",
+      "collection": "feature_films",
+      "downloads": 812
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0042261",
-      "title": "The Blonde Bandit",
-      "year": 1949,
-      "imdbRating": 6.5,
-      "imdbVotes": 68,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042453",
-      "title": "Federal Agent at Large",
-      "year": 1950,
-      "imdbRating": 5.9,
-      "imdbVotes": 70,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042543",
-      "title": "Harbor of Missing Men",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 76,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt32559869",
-      "title": "Commando Cody: Sky Marshal of the Universe",
-      "year": 1953,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0041547",
-      "title": "King of the Rocket Men",
-      "year": 1949,
-      "imdbRating": 6.9,
-      "imdbVotes": 973,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041822",
-      "title": "Rope of Sand",
-      "year": 1949,
-      "imdbRating": 6.6,
-      "imdbVotes": 1860,
-      "language": "English, Afrikaans",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044209",
-      "title": "The Whip Hand",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 764,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040447",
-      "title": "Homicide for Three",
-      "year": 1948,
-      "imdbRating": 5.3,
-      "imdbVotes": 135,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040500",
-      "title": "Jungle Goddess",
-      "year": 1948,
-      "imdbRating": 2.2,
-      "imdbVotes": 877,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0045668",
-      "title": "Dance Hall Racket",
-      "year": 1953,
-      "imdbRating": 3.4,
-      "imdbVotes": 250,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039914",
-      "title": "The Trespasser",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039972",
-      "title": "Web of Danger",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 47,
-      "language": "English, Mandarin",
-      "sourceType": "archive.org"
-    }
+    "tt0042261",
+    "tt0042453",
+    "tt0042543",
+    "tt32559869",
+    "tt0041547",
+    "tt0041822",
+    "tt0044209",
+    "tt0040447",
+    "tt0040500",
+    "tt0045668",
+    "tt0039914",
+    "tt0039972"
   ],
   "collections": [],
   "is_curated": true,

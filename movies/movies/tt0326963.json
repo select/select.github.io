@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/i-lived-but-2-hour-ozu-doc",
+      "id": "i-lived-but-2-hour-ozu-doc",
       "title": "I Lived But,...",
       "description": "The movie is a mixture of interviews with people who worked with Ozu and clips from Ozu's movies. One actor interviewed was Chishû Ryû, who appeared in 52 of Ozu's 54 films.",
       "fileSize": 10075491938,
-      "id": "i-lived-but-2-hour-ozu-doc"
+      "addedAt": "2026-01-07T00:08:46.615Z",
+      "thumbnail": "https://archive.org/services/img/i-lived-but-2-hour-ozu-doc",
+      "language": "jpn",
+      "year": 1983,
+      "collection": "feature_films",
+      "downloads": 1644
     }
   ],
   "metadata": {
@@ -27,112 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0205255",
-      "title": "Mercedes Sosa: como un pájaro libre",
-      "year": 1983,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt14439688",
-      "title": "Liberación",
-      "year": 1983,
-      "language": "Spanish",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0082443",
-      "title": "Genocide",
-      "year": 1982,
-      "imdbRating": 7.3,
-      "imdbVotes": 720,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0075788",
-      "title": "Bruce Lee, the Legend",
-      "year": 1984,
-      "imdbRating": 7.1,
-      "imdbVotes": 1296,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0163649",
-      "title": "Gospel According to Al Green",
-      "year": 1984,
-      "imdbRating": 8,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt0381626",
-      "title": "Storm Riders",
-      "year": 1982,
-      "imdbRating": 8,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt14825238",
-      "title": "Lion of the Desert (1981)",
-      "year": 1981,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0949880",
-      "title": "The KGB Connections",
-      "year": 1981,
-      "imdbRating": 7.8,
-      "imdbVotes": 47,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0157894",
-      "title": "The Killing of America",
-      "year": 1981,
-      "imdbRating": 7.5,
-      "imdbVotes": 2716,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0268602",
-      "title": "AFI Life Achievement Award: A Tribute to Gene Kelly",
-      "year": 1985,
-      "imdbRating": 7,
-      "imdbVotes": 164,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt2116884",
-      "title": "Focus on Wildlife",
-      "year": 1986,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0080741",
-      "title": "Fist of Fear, Touch of Death",
-      "year": 1980,
-      "imdbRating": 2.4,
-      "imdbVotes": 1284,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0205255",
+    "tt14439688",
+    "tt0082443",
+    "tt0075788",
+    "tt0163649",
+    "tt0381626",
+    "tt14825238",
+    "tt0949880",
+    "tt0157894",
+    "tt0268602",
+    "tt2116884",
+    "tt0080741"
   ],
   "collections": [],
   "is_curated": true,

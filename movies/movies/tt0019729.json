@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-broadway-melody_1929",
+      "id": "the-broadway-melody_1929",
       "title": "The Broadway Melody",
       "fileSize": 22013562368,
-      "id": "the-broadway-melody_1929"
+      "addedAt": "2026-01-07T00:11:57.681Z",
+      "thumbnail": "https://archive.org/services/img/the-broadway-melody_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 1985
     }
   ],
   "metadata": {
@@ -26,116 +32,18 @@
     "Awards": "Won 1 Oscar. 5 wins & 2 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020439",
-      "title": "Speedway",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 700,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019946",
-      "title": "The Great Gabbo",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 1027,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020143",
-      "title": "Marianne",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 1281,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020458",
-      "title": "Street Girl",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 487,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020402",
-      "title": "Show Boat",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014702",
-      "title": "Beau Brummel",
-      "year": 1924,
-      "imdbRating": 6.6,
-      "imdbVotes": 530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019886",
-      "title": "The Flying Fleet",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019237",
-      "title": "Our Dancing Daughters",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 2016,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0024486",
-      "title": "Rainbow Over Broadway",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017829",
-      "title": "Dress Parade",
-      "year": 1927,
-      "imdbRating": 7.5,
-      "imdbVotes": 103,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020439",
+    "tt0019644",
+    "tt0019946",
+    "tt0020143",
+    "tt0020458",
+    "tt0020402",
+    "tt0014702",
+    "tt0019886",
+    "tt0019237",
+    "tt0024486",
+    "tt0017829",
+    "tt0019933"
   ],
   "collections": [],
   "is_curated": true,

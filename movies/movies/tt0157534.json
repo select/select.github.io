@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-yellow-ticket",
+      "id": "silent-the-yellow-ticket",
       "title": "The Yellow Ticket",
       "fileSize": 1009480845,
-      "id": "silent-the-yellow-ticket"
+      "addedAt": "2026-01-07T00:11:24.926Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-yellow-ticket",
+      "language": "German",
+      "year": 1918,
+      "collection": "feature_films",
+      "downloads": 482
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0009018",
-      "title": "A Dog's Life",
-      "year": 1918,
-      "imdbRating": 7.6,
-      "imdbVotes": 10161,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009629",
-      "title": "A Society Sensation",
-      "year": 1918,
-      "imdbRating": 5.5,
-      "imdbVotes": 127,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0421867",
-      "title": "Bud's Recruit",
-      "year": 1918,
-      "imdbRating": 5.8,
-      "imdbVotes": 113,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008133",
-      "title": "The Immigrant",
-      "year": 1917,
-      "imdbRating": 7.5,
-      "imdbVotes": 9530,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006494",
-      "title": "Cenere",
-      "year": 1917,
-      "imdbRating": 5.9,
-      "imdbVotes": 204,
-      "language": "None, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0194858",
-      "title": "Exemplo Regenerador",
-      "year": 1919,
-      "imdbRating": 5.8,
-      "imdbVotes": 72,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0326184",
-      "title": "Somebody Lied",
-      "year": 1917,
-      "imdbRating": 4.2,
-      "imdbVotes": 21,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006764",
-      "title": "He Did and He Didn't",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 303,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007507",
-      "title": "The Vagabond",
-      "year": 1916,
-      "imdbRating": 6.8,
-      "imdbVotes": 3287,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0498013",
-      "title": "Mirazhi",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004413",
-      "title": "The Ocean Waif",
-      "year": 1916,
-      "imdbRating": 6.3,
-      "imdbVotes": 510,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003803",
-      "title": "Crossed Wires",
-      "year": 1915,
-      "imdbRating": 6.2,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0009018",
+    "tt0009629",
+    "tt0421867",
+    "tt0008133",
+    "tt0006494",
+    "tt0194858",
+    "tt0326184",
+    "tt0006764",
+    "tt0007507",
+    "tt0498013",
+    "tt0004413",
+    "tt0003803"
   ],
   "collections": [],
   "is_curated": true,

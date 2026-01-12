@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/RainbowValley",
+      "id": "RainbowValley",
       "title": "Rainbow Valley",
       "description": "John Martin (John Wayne) is a government agent working under cover. Leading citizen Morgan calls in gunman Butch Galt (Buffalo Bill Jr.) who blows Martin's cover.",
       "fileSize": 1405652028,
-      "id": "RainbowValley"
+      "addedAt": "2026-01-07T00:06:51.866Z",
+      "thumbnail": "https://archive.org/services/img/RainbowValley",
+      "year": 1935,
+      "collection": "feature_films",
+      "downloads": 131805
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=3LQU8yoKvps",
+      "id": "3LQU8yoKvps",
       "title": "Rainbow Valley (1935) John Wayne - Action, Romance, Western",
       "description": "John Martin is a government agent working under cover. Leading citizen Morgan calls in gunman Galt who blows Martin's cover.\n\nDirector: Robert N. Bradbury \nWriters: Lindsley Parsons, Lindsley Parsons \nStars: John Wayne, Lucile Browne, George 'Gabby' Hayes \nGenres: Action, Romance, Western\n\n@CCC socials:\nhttps://www.facebook.com/CultCinemaClassics \nhttps://www.instagram.com/cultcinemaclassics \nhttps://www.twitch.tv/cultcinema",
-      "id": "3LQU8yoKvps",
+      "addedAt": "2025-12-27T00:49:48.056Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/3LQU8yoKvps/maxresdefault.webp?v=60ae42cd",
+      "duration": 2924,
+      "language": "en",
+      "year": 1935,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027087",
-      "title": "Texas Terror",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1079,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024902",
-      "title": "Blue Steel",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1796,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025373",
-      "title": "The Lawless Frontier",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1162,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026267",
-      "title": "The Dawn Rider",
-      "year": 1935,
-      "imdbRating": 5.1,
-      "imdbVotes": 1351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025455",
-      "title": "The Man from Utah",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1291,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025903",
-      "title": "The Trail Beyond",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1064,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024047",
-      "title": "Galloping Romeo",
-      "year": 1933,
-      "imdbRating": 6.1,
-      "imdbVotes": 63,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024883",
-      "title": "Between Men",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 126,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025830",
-      "title": "The Star Packer",
-      "year": 1934,
-      "imdbRating": 5.1,
-      "imdbVotes": 1323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028968",
-      "title": "The Gun Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025440",
-      "title": "The Lucky Texan",
-      "year": 1934,
-      "imdbRating": 5.6,
-      "imdbVotes": 1429,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025969",
-      "title": "West of the Divide",
-      "year": 1934,
-      "imdbRating": 5.3,
-      "imdbVotes": 1095,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027087",
+    "tt0024902",
+    "tt0025373",
+    "tt0026267",
+    "tt0025455",
+    "tt0025903",
+    "tt0024047",
+    "tt0024883",
+    "tt0025830",
+    "tt0028968",
+    "tt0025440",
+    "tt0025969"
   ],
   "collections": [],
   "is_curated": true,

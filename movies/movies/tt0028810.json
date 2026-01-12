@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dl112029",
+      "id": "dl112029",
       "title": "Dreaming Lips",
       "description": "Title: Dreaming Lips Summary: Directed by: Paul Czinner Actors: Elisabeth Bergner, Raymond Massey, Romney Brent Production Company: Trafalgar Film Productions Ltd. Release Date: 19 May 1937 (USA) Aspect Ratio: 1.37 : 1 Add Full Plot",
       "fileSize": 526664763,
-      "id": "dl112029"
+      "addedAt": "2026-01-07T00:08:07.359Z",
+      "thumbnail": "https://archive.org/services/img/dl112029",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 1330
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0028795",
-      "title": "The Dominant Sex",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028358",
-      "title": "Things to Come",
-      "year": 1936,
-      "imdbRating": 6.6,
-      "imdbVotes": 9634,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031757",
-      "title": "The Fugitive",
-      "year": 1939,
-      "imdbRating": 6.5,
-      "imdbVotes": 306,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028827",
-      "title": "Elephant Boy",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 856,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0029606",
-      "title": "A Star Is Born",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 11515,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0134289",
-      "title": "Anything for a Thrill",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028582",
-      "title": "Arizona Days",
-      "year": 1937,
-      "imdbRating": 4.4,
-      "imdbVotes": 177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028629",
-      "title": "Big Fella",
-      "year": 1937,
-      "imdbRating": 5.8,
-      "imdbVotes": 217,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028635",
-      "title": "Black Aces",
-      "year": 1937,
-      "imdbRating": 6,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0028795",
+    "tt0027311",
+    "tt0028358",
+    "tt0031757",
+    "tt0028827",
+    "tt0029606",
+    "tt0134289",
+    "tt0028582",
+    "tt0028592",
+    "tt0028629",
+    "tt0028634",
+    "tt0028635"
   ],
   "collections": [],
   "is_curated": true,

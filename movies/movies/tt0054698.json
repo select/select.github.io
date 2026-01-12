@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/breakfast-at-tiffanys-1961_202508",
+      "id": "breakfast-at-tiffanys-1961_202508",
       "title": "Breakfast at Tiffany's (1961)",
       "description": "Breakfast at Tiffany's (1961)",
       "fileSize": 4582528666,
-      "id": "breakfast-at-tiffanys-1961_202508"
+      "addedAt": "2026-01-07T00:07:38.720Z",
+      "thumbnail": "https://archive.org/services/img/breakfast-at-tiffanys-1961_202508",
+      "language": "eng",
+      "year": 1961,
+      "collection": "feature_films",
+      "downloads": 318
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "Won 2 Oscars. 12 wins & 13 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0054230",
-      "title": "The Rat Race",
-      "year": 1960,
-      "imdbRating": 6.6,
-      "imdbVotes": 1528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144150",
-      "title": "El crack",
-      "year": 1960,
-      "imdbRating": 7,
-      "imdbVotes": 48,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053810",
-      "title": "The Facts of Life",
-      "year": 1960,
-      "imdbRating": 6.3,
-      "imdbVotes": 1760,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054086",
-      "title": "The Millionairess",
-      "year": 1960,
-      "imdbRating": 5.4,
-      "imdbVotes": 2042,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0092666",
-      "title": "Blind Date",
-      "year": 1987,
-      "imdbRating": 6,
-      "imdbVotes": 25220,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0065611",
-      "title": "Darling Lili",
-      "year": 1970,
-      "imdbRating": 6,
-      "imdbVotes": 2584,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0047437",
-      "title": "Sabrina",
-      "year": 1954,
-      "imdbRating": 7.6,
-      "imdbVotes": 73444,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0063415",
-      "title": "The Party",
-      "year": 1968,
-      "imdbRating": 7.4,
-      "imdbVotes": 45770,
-      "language": "English, Italian, Russian, French, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054743",
-      "title": "The Children's Hour",
-      "year": 1961,
-      "imdbRating": 7.8,
-      "imdbVotes": 19924,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051666",
-      "title": "God's Little Acre",
-      "year": 1958,
-      "imdbRating": 6.5,
-      "imdbVotes": 2105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059927",
-      "title": "The Yellow Rolls-Royce",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 4263,
-      "language": "English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0054428",
-      "title": "The Unforgiven",
-      "year": 1960,
-      "imdbRating": 6.5,
-      "imdbVotes": 10446,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0054230",
+    "tt0144150",
+    "tt0053810",
+    "tt0054086",
+    "tt0092666",
+    "tt0065611",
+    "tt0047437",
+    "tt0063415",
+    "tt0054743",
+    "tt0051666",
+    "tt0059927",
+    "tt0054428"
   ],
   "collections": [
     {
@@ -148,6 +57,6 @@
     }
   ],
   "is_curated": true,
-  "verified": false,
-  "lastUpdated": "2026-01-07T00:07:38.720Z"
+  "verified": true,
+  "lastUpdated": "2026-01-11T22:10:01.275Z"
 }

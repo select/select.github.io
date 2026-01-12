@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/LuckyTerror",
+      "id": "LuckyTerror",
       "title": "Lucky Terror",
       "description": "A sharpshooter (Hoot Gibson) in a traveling sideshow is falsely accused of murdering a local miner.",
       "fileSize": 1362757197,
-      "id": "LuckyTerror"
+      "addedAt": "2026-01-07T00:06:38.751Z",
+      "thumbnail": "https://archive.org/services/img/LuckyTerror",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 17039
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=c0QCPc7LQe4",
+      "id": "c0QCPc7LQe4",
       "title": "Lucky Terror (1936) HOOT GIBSON",
       "description": "Stars: Hoot Gibson, Charles Hill, Lona Andre\n Director: Alan James\n\n A sharpshooter in a traveling sideshow is falsely accused of murdering a local miner.",
-      "id": "c0QCPc7LQe4",
+      "addedAt": "2025-12-26T23:51:48.773Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/c0QCPc7LQe4/maxresdefault.webp",
+      "duration": 3629,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0134216",
-      "title": "Wild Horse Round-Up",
-      "year": 1936,
-      "imdbRating": 6.4,
-      "imdbVotes": 17,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027165",
-      "title": "Valley of Wanted Men",
-      "year": 1935,
-      "imdbRating": 5.7,
-      "imdbVotes": 50,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025269",
-      "title": "Honor of the Range",
-      "year": 1934,
-      "imdbRating": 6.4,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030959",
-      "title": "West of Rainbow's End",
-      "year": 1938,
-      "imdbRating": 5.8,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0036101",
-      "title": "The Law Rides Again",
-      "year": 1943,
-      "imdbRating": 5.6,
-      "imdbVotes": 139,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024267",
-      "title": "The Lone Avenger",
-      "year": 1933,
-      "imdbRating": 6.5,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024444",
-      "title": "Phantom Thunderbolt",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 143,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023604",
-      "title": "Tombstone Canyon",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 214,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0172155",
-      "title": "Back Fire",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027434",
-      "title": "Cavalcade of the West",
-      "year": 1936,
-      "imdbRating": 5.3,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029367",
-      "title": "The Painted Stallion",
-      "year": 1937,
-      "imdbRating": 6.4,
-      "imdbVotes": 200,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026909",
-      "title": "Rainbow's End",
-      "year": 1935,
-      "imdbRating": 5.2,
-      "imdbVotes": 58,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0134216",
+    "tt0027165",
+    "tt0025269",
+    "tt0030959",
+    "tt0036101",
+    "tt0024267",
+    "tt0024444",
+    "tt0023604",
+    "tt0172155",
+    "tt0027434",
+    "tt0029367",
+    "tt0026909"
   ],
   "collections": [],
   "is_curated": true,

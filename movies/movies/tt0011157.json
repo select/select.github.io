@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-erotikon",
+      "id": "silent-erotikon",
       "title": "Erotikon",
       "fileSize": 1183478172,
-      "id": "silent-erotikon"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-erotikon",
+      "language": "Swedish",
+      "year": 1920,
+      "collection": "feature_films",
+      "downloads": 2365
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011508",
-      "title": "Neighbors",
-      "year": 1920,
-      "imdbRating": 7.6,
-      "imdbVotes": 4771,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011521",
-      "title": "Number, Please?",
-      "year": 1920,
-      "imdbRating": 6.9,
-      "imdbVotes": 1263,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011741",
-      "title": "Suds",
-      "year": 1920,
-      "imdbRating": 6.3,
-      "imdbVotes": 294,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011193",
-      "title": "The Flapper",
-      "year": 1920,
-      "imdbRating": 6.4,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011848",
-      "title": "What Happened to Rosa",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 110,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011371",
-      "title": "Kohlhiesel's Daughters",
-      "year": 1920,
-      "imdbRating": 6.5,
-      "imdbVotes": 477,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011474",
-      "title": "The Mollycoddle",
-      "year": 1920,
-      "imdbRating": 6.6,
-      "imdbVotes": 206,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011652",
-      "title": "The Saphead",
-      "year": 1920,
-      "imdbRating": 6.1,
-      "imdbVotes": 1804,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012701",
-      "title": "A Small Town Idol",
-      "year": 1921,
-      "imdbRating": 6.3,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012513",
-      "title": "The Nut",
-      "year": 1921,
-      "imdbRating": 6.5,
-      "imdbVotes": 307,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011960",
-      "title": "The Wildcat",
-      "year": 1921,
-      "imdbRating": 6.9,
-      "imdbVotes": 1336,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0011508",
+    "tt0011521",
+    "tt0011741",
+    "tt0011193",
+    "tt0011848",
+    "tt0011371",
+    "tt0011474",
+    "tt0011652",
+    "tt0012701",
+    "tt0012513",
+    "tt0010806",
+    "tt0011960"
   ],
   "collections": [],
   "is_curated": true,

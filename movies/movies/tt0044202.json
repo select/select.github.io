@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1951-the-well-el-pozo-de-la-angustia-russell-rouse",
+      "id": "1951-the-well-el-pozo-de-la-angustia-russell-rouse",
       "title": "1951 - The Well - El pozo de la angustia - Russell Rouse",
       "description": "1951 - The Well - El pozo de la angustia  - Russell Rouse",
       "fileSize": 1518314094,
-      "id": "1951-the-well-el-pozo-de-la-angustia-russell-rouse"
+      "addedAt": "2026-01-07T00:06:06.562Z",
+      "thumbnail": "https://archive.org/services/img/1951-the-well-el-pozo-de-la-angustia-russell-rouse",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 1292
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-well-1951",
+      "id": "the-well-1951",
       "title": "The Well (1951)",
       "description": "In a racially mixed American town, a five-year-old black girl falls unnoticed into a hidden, forgotten well on her way to school. Having nothing better to go on, the police follow up a report that the child was seen with a white stranger, and rumors run wild. Before hapless, innocent Claude Packard is even found, popular hysteria has him tried and convicted. But is he guilty? Watch on RetroFlix:  https://retroflix.org/the-well-1951/",
       "fileSize": 227410276,
-      "id": "the-well-1951"
+      "addedAt": "2026-01-07T00:12:33.206Z",
+      "thumbnail": "https://archive.org/services/img/the-well-1951",
+      "language": "eng",
+      "year": 1951,
+      "collection": "feature_films",
+      "downloads": 332
     }
   ],
   "metadata": {
@@ -35,114 +46,18 @@
     "Awards": "Nominated for 2 Oscars. 4 nominations total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0043938",
-      "title": "The Prowler",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 4414,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043560",
-      "title": "Fourteen Hours",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 3240,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043340",
-      "title": "The Big Night",
-      "year": 1951,
-      "imdbRating": 6.3,
-      "imdbVotes": 1101,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043998",
-      "title": "The Scarf",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 671,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043637",
-      "title": "High Treason",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 442,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042900",
-      "title": "Rogue River",
-      "year": 1951,
-      "imdbRating": 7.1,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042005",
-      "title": "Under My Skin",
-      "year": 1950,
-      "imdbRating": 6.5,
-      "imdbVotes": 393,
-      "language": "English, Italian, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045758",
-      "title": "Fear and Desire",
-      "year": 1952,
-      "imdbRating": 5.3,
-      "imdbVotes": 14612,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044379",
-      "title": "Assignment: Paris",
-      "year": 1952,
-      "imdbRating": 6.1,
-      "imdbVotes": 672,
-      "language": "English, French, Hungarian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044596",
-      "title": "I'll Get You",
-      "year": 1952,
-      "imdbRating": 5.5,
-      "imdbVotes": 456,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044827",
-      "title": "Last Train from Bombay",
-      "year": 1952,
-      "imdbRating": 5.2,
-      "imdbVotes": 109,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045309",
-      "title": "Walk East on Beacon!",
-      "year": 1952,
-      "imdbRating": 5.7,
-      "imdbVotes": 584,
-      "language": "English, Russian",
-      "sourceType": "archive.org"
-    }
+    "tt0043938",
+    "tt0043560",
+    "tt0043340",
+    "tt0043998",
+    "tt0043637",
+    "tt0042900",
+    "tt0042005",
+    "tt0045758",
+    "tt0044379",
+    "tt0044596",
+    "tt0044827",
+    "tt0045309"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/old-spanish-customers",
+      "id": "old-spanish-customers",
       "title": "Old Spanish Customers",
       "description": "Bill, a bumbling, dim-witted fellow and his shrewish wife win a holiday to Spain at a Whist tournament. Along the way, he and a famous Matador named Tormito get into an altercation, leaving Bill in the bullfighter's clothes. Separated from his wife, he's taken for Tormito by the natives, and forced into a match at the local arena.",
       "fileSize": 5478068677,
-      "id": "old-spanish-customers"
+      "addedAt": "2026-01-07T00:10:02.901Z",
+      "thumbnail": "https://archive.org/services/img/old-spanish-customers",
+      "language": "eng",
+      "year": 1932,
+      "collection": "feature_films",
+      "downloads": 723
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0314115",
-      "title": "Good Night Nurse",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248263",
-      "title": "Only Me",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 93,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256021",
-      "title": "Fandango",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248370",
-      "title": "Roaming Romeo",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023114",
-      "title": "The Last Coupon",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0128840",
-      "title": "Why Sailors Leave Home",
-      "year": 1930,
-      "imdbRating": 6.3,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025612",
-      "title": "The Outcast",
-      "year": 1934,
-      "imdbRating": 5.5,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023322",
-      "title": "The Passionate Plumber",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 599,
-      "language": "English, French, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023537",
-      "title": "A Successful Calamity",
-      "year": 1932,
-      "imdbRating": 6.9,
-      "imdbVotes": 528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022628",
-      "title": "The Animal Kingdom",
-      "year": 1932,
-      "imdbRating": 6.3,
-      "imdbVotes": 1353,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022789",
-      "title": "Crooner",
-      "year": 1932,
-      "imdbRating": 5.9,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0314115",
+    "tt0248263",
+    "tt0256021",
+    "tt0248370",
+    "tt0023114",
+    "tt0128840",
+    "tt0025612",
+    "tt0023243",
+    "tt0023322",
+    "tt0023537",
+    "tt0022628",
+    "tt0022789"
   ],
   "collections": [],
   "is_curated": true,

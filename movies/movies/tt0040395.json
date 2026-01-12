@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/good-sam-1948",
+      "id": "good-sam-1948",
       "title": "Good Sam (1948)",
       "description": "Sam Clayton has a good heart and likes to help out people in need. In fact, he likes to help them out so much that he often finds himself broke and unable to help his own family buy the things they need--like a house. Watch on RetroFlix:  https://retroflix.org/good-sam-1948/",
       "fileSize": 583145825,
-      "id": "good-sam-1948"
+      "addedAt": "2026-01-07T00:08:32.019Z",
+      "thumbnail": "https://archive.org/services/img/good-sam-1948",
+      "language": "eng",
+      "year": 1948,
+      "collection": "feature_films",
+      "downloads": 131
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031593",
-      "title": "Love Affair",
-      "year": 1939,
-      "imdbRating": 7.3,
-      "imdbVotes": 6880,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040762",
-      "title": "Scudda Hoo! Scudda Hay!",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040474",
-      "title": "The Inside Story",
-      "year": 1948,
-      "imdbRating": 6.6,
-      "imdbVotes": 318,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039370",
-      "title": "The Farmer's Daughter",
-      "year": 1947,
-      "imdbRating": 7.2,
-      "imdbVotes": 2999,
-      "language": "English, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041587",
-      "title": "A Letter to Three Wives",
-      "year": 1949,
-      "imdbRating": 7.7,
-      "imdbVotes": 11343,
-      "language": "English, Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038592",
-      "title": "Heartbeat",
-      "year": 1946,
-      "imdbRating": 5.9,
-      "imdbVotes": 853,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042665",
-      "title": "Last Holiday",
-      "year": 1950,
-      "imdbRating": 7.3,
-      "imdbVotes": 2266,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033891",
-      "title": "Meet John Doe",
-      "year": 1941,
-      "imdbRating": 7.6,
-      "imdbVotes": 16080,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022000",
-      "title": "Indiscreet",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 1610,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027996",
-      "title": "Mr. Deeds Goes to Town",
-      "year": 1936,
-      "imdbRating": 7.8,
-      "imdbVotes": 23599,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032132",
-      "title": "Winter Carnival",
-      "year": 1939,
-      "imdbRating": 5.5,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043651",
-      "title": "Home Town Story",
-      "year": 1951,
-      "imdbRating": 5,
-      "imdbVotes": 1128,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031593",
+    "tt0040762",
+    "tt0040474",
+    "tt0039370",
+    "tt0041587",
+    "tt0038592",
+    "tt0042665",
+    "tt0033891",
+    "tt0022000",
+    "tt0027996",
+    "tt0032132",
+    "tt0043651"
   ],
   "collections": [],
   "is_curated": true,

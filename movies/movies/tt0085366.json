@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/order-of-death",
+      "id": "order-of-death",
       "title": "Order Of Death",
       "description": "An Italian NYC movie with Harvey Keitel playing a corrupt lieutenant and John Lydon playing a stalker. Could it be that one of New York's cops is a cop killer? A psycho who stalks his victims before killing them but when Lt. O'Connor meets the man stalking him meets it leads to kidnapping and torture.",
       "fileSize": 1684845726,
-      "id": "order-of-death"
+      "addedAt": "2026-01-07T00:10:12.693Z",
+      "thumbnail": "https://archive.org/services/img/order-of-death",
+      "collection": "feature_films",
+      "downloads": 934
     }
   ],
   "metadata": {
@@ -27,121 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0086877",
-      "title": "Alphabet City",
-      "year": 1984,
-      "imdbRating": 5.2,
-      "imdbVotes": 1195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0311659",
-      "title": "Las pobres ilegales",
-      "year": 1982,
-      "imdbRating": 5.4,
-      "imdbVotes": 7,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0252266",
-      "title": "Beeper",
-      "year": 2002,
-      "imdbRating": 4.4,
-      "imdbVotes": 475,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0091474",
-      "title": "Manhunter",
-      "year": 1986,
-      "imdbRating": 7.2,
-      "imdbVotes": 89050,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0088828",
-      "title": "Bloody Wednesday",
-      "year": 1987,
-      "imdbRating": 3.9,
-      "imdbVotes": 559,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1650535",
-      "title": "The Entitled",
-      "year": 2011,
-      "imdbRating": 6.1,
-      "imdbVotes": 6927,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt2543702",
-      "title": "By the Gun",
-      "year": 2014,
-      "imdbRating": 4.8,
-      "imdbVotes": 3051,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0116374",
-      "title": "Fugitive Rage",
-      "year": 1996,
-      "imdbRating": 4.4,
-      "imdbVotes": 242,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Popcornflix"
-    },
-    {
-      "imdbId": "tt27919777",
-      "title": "Coney Island Cousins",
-      "year": 2025,
-      "imdbRating": 9.5,
-      "imdbVotes": 6,
-      "language": "English, Russian",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0040427",
-      "title": "He Walked by Night",
-      "year": 1948,
-      "imdbRating": 7,
-      "imdbVotes": 6948,
-      "language": "English, Spanish, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt1060255",
-      "title": "The Horseman",
-      "year": 2008,
-      "imdbRating": 6.5,
-      "imdbVotes": 5465,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0048919",
-      "title": "23 Paces to Baker Street",
-      "year": 1956,
-      "imdbRating": 6.9,
-      "imdbVotes": 3020,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0086877",
+    "tt0311659",
+    "tt0252266",
+    "tt0091474",
+    "tt0088828",
+    "tt1650535",
+    "tt2543702",
+    "tt0116374",
+    "tt27919777",
+    "tt0040427",
+    "tt1060255",
+    "tt0048919"
   ],
   "collections": [],
   "is_curated": true,

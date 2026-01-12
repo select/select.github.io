@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-good-bad-man",
+      "id": "silent-the-good-bad-man",
       "title": "The Good Bad Man",
       "fileSize": 4540178460,
-      "id": "silent-the-good-bad-man"
+      "addedAt": "2026-01-07T00:11:15.976Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-good-bad-man",
+      "language": "English",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 498
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0007031",
-      "title": "Manhattan Madness",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008309",
-      "title": "A Modern Musketeer",
-      "year": 1917,
-      "imdbRating": 6.6,
-      "imdbVotes": 342,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013556",
-      "title": "Robin Hood",
-      "year": 1922,
-      "imdbRating": 7,
-      "imdbVotes": 2583,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001925",
-      "title": "Three Million Dollars",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 48,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043017",
-      "title": "Surrender",
-      "year": 1950,
-      "imdbRating": 6.1,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008775",
-      "title": "Wild and Woolly",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 675,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006780",
-      "title": "Hell's Hinges",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 1061,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006751",
-      "title": "The Habit of Happiness",
-      "year": 1916,
-      "imdbRating": 5.8,
-      "imdbVotes": 72,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011439",
-      "title": "The Mark of Zorro",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 2866,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0412344",
-      "title": "Man's Calling",
-      "year": 1912,
-      "imdbRating": 5.5,
-      "imdbVotes": 47,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026124",
-      "title": "Black Sheep",
-      "year": 1935,
-      "imdbRating": 6.8,
-      "imdbVotes": 414,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0007031",
+    "tt0008309",
+    "tt0009142",
+    "tt0013556",
+    "tt0001925",
+    "tt0043017",
+    "tt0008775",
+    "tt0006780",
+    "tt0006751",
+    "tt0011439",
+    "tt0412344",
+    "tt0026124"
   ],
   "collections": [
     {

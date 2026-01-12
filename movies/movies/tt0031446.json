@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-hotel-sacher-sybille-schmitz-willy-birgel-wolf-albach-retty-hedwig-bleibtreu-herbert-hubner",
+      "id": "1939-hotel-sacher-sybille-schmitz-willy-birgel-wolf-albach-retty-hedwig-bleibtreu-herbert-hubner",
       "title": "1939 Hotel Sacher ( Sybille Schmitz, Willy Birgel, Wolf Albach Retty, Hedwig Bleibtreu, Herbert Hübner)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Hotel Sacher.  U.a mit Willy Birgel und Sybille Schmitz ",
       "fileSize": 3073983207,
-      "id": "1939-hotel-sacher-sybille-schmitz-willy-birgel-wolf-albach-retty-hedwig-bleibtreu-herbert-hubner"
+      "addedAt": "2026-01-07T00:06:02.057Z",
+      "thumbnail": "https://archive.org/services/img/1939-hotel-sacher-sybille-schmitz-willy-birgel-wolf-albach-retty-hedwig-bleibtreu-herbert-hubner",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 136
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026026",
-      "title": "...nur ein Komödiant",
-      "year": 1935,
-      "imdbRating": 6.2,
-      "imdbVotes": 14,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031628",
-      "title": "Maria Ilona",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030425",
-      "title": "Der Maulkorb",
-      "year": 1938,
-      "imdbRating": 7.1,
-      "imdbVotes": 36,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033207",
-      "title": "Unser Fräulein Doktor",
-      "year": 1940,
-      "imdbRating": 7.5,
-      "imdbVotes": 48,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029095",
-      "title": "Die Kronzeugin",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028851",
-      "title": "Fanny Elssler",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033303",
-      "title": "...reitet für Deutschland",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 42,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136277",
-      "title": "Kameraden",
-      "year": 1941,
-      "imdbRating": 8,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034385",
-      "title": "Wetterleuchten um Barbara",
-      "year": 1941,
-      "imdbRating": 5.9,
-      "imdbVotes": 10,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028922",
-      "title": "Gefährliches Spiel",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031580",
-      "title": "The Little Princess",
-      "year": 1939,
-      "imdbRating": 7.1,
-      "imdbVotes": 6909,
-      "language": "English, Hindi",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031925",
-      "title": "Silver on the Sage",
-      "year": 1939,
-      "imdbRating": 7,
-      "imdbVotes": 207,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0026026",
+    "tt0031628",
+    "tt0030425",
+    "tt0033207",
+    "tt0029095",
+    "tt0028851",
+    "tt0033303",
+    "tt0136277",
+    "tt0034385",
+    "tt0028922",
+    "tt0031580",
+    "tt0031925"
   ],
   "collections": [],
   "is_curated": true,

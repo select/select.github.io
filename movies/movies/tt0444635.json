@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-das-geheimnis-des-amerika-docks",
+      "id": "silent-das-geheimnis-des-amerika-docks",
       "title": "Das Geheimnis des Amerika-Docks",
       "fileSize": 984783059,
-      "id": "silent-das-geheimnis-des-amerika-docks"
+      "addedAt": "2026-01-07T00:10:59.116Z",
+      "thumbnail": "https://archive.org/services/img/silent-das-geheimnis-des-amerika-docks",
+      "language": "German",
+      "year": 1919,
+      "collection": "feature_films",
+      "downloads": 392
     }
   ],
   "metadata": {
@@ -26,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0010729",
-      "title": "A Sporting Chance",
-      "year": 1919,
-      "imdbRating": 6.4,
-      "imdbVotes": 29,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010821",
-      "title": "Eerie Tales",
-      "year": 1919,
-      "imdbRating": 6.5,
-      "imdbVotes": 676,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010853",
-      "title": "Wagon Tracks",
-      "year": 1919,
-      "imdbRating": 6.7,
-      "imdbVotes": 258,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011753",
-      "title": "Terror Island",
-      "year": 1920,
-      "imdbRating": 5.4,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009701",
-      "title": "Tih Minh",
-      "year": 1918,
-      "imdbRating": 7.1,
-      "imdbVotes": 497,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010323",
-      "title": "The Cabinet of Dr. Caligari",
-      "year": 1920,
-      "imdbRating": 8,
-      "imdbVotes": 74697,
-      "language": "None, German",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0010446",
-      "title": "The Master Mystery",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 159,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013830",
-      "title": "This Ancient Law",
-      "year": 1923,
-      "imdbRating": 7.2,
-      "imdbVotes": 263,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0187895",
-      "title": "The House of Mystery",
-      "year": 1921,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011904",
-      "title": "The Ace of Hearts",
-      "year": 1921,
-      "imdbRating": 6.8,
-      "imdbVotes": 1314,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008561",
-      "title": "Seven Keys to Baldpate",
-      "year": 1917,
-      "imdbRating": 6,
-      "imdbVotes": 125,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011907",
-      "title": "The Adventures of Sherlock Holmes",
-      "year": 1921,
-      "imdbRating": 4.3,
-      "imdbVotes": 16,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0010729",
+    "tt0010821",
+    "tt0010853",
+    "tt0011753",
+    "tt0009701",
+    "tt0010323",
+    "tt0010446",
+    "tt0013830",
+    "tt0187895",
+    "tt0011904",
+    "tt0008561",
+    "tt0011907"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/shipyard-symphony-1943",
+      "id": "shipyard-symphony-1943",
       "title": "Shipyard Symphony (1943)",
       "description": "A World War II-themed story about how to save time and effort while building Victory ships in the naval yard. A collage of naval images is accompanied by Navy patriotic music. Watch on RetroFlix:  https://retroflix.org/shipyard-symphony-1943/",
       "fileSize": 38690967,
-      "id": "shipyard-symphony-1943"
+      "addedAt": "2026-01-07T00:10:50.366Z",
+      "thumbnail": "https://archive.org/services/img/shipyard-symphony-1943",
+      "language": "eng",
+      "year": 1943,
+      "collection": "feature_films",
+      "downloads": 74
     }
   ],
   "metadata": {
@@ -27,114 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0153985",
-      "title": "Yokel Ducks Makes Good",
-      "year": 1943,
-      "imdbRating": 5.1,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150279",
-      "title": "A Day in June",
-      "year": 1944,
-      "imdbRating": 6.5,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149726",
-      "title": "At the Circus",
-      "year": 1944,
-      "imdbRating": 7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0149801",
-      "title": "Barnyard Waac",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150293",
-      "title": "Dear Old Switzerland",
-      "year": 1944,
-      "imdbRating": 4.4,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037108",
-      "title": "My Boy Johnny",
-      "year": 1944,
-      "imdbRating": 5.5,
-      "imdbVotes": 113,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152301",
-      "title": "School Daze",
-      "year": 1942,
-      "imdbRating": 4.7,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150785",
-      "title": "The Green Line",
-      "year": 1944,
-      "imdbRating": 6.1,
-      "imdbVotes": 41,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150879",
-      "title": "The Helicopter",
-      "year": 1944,
-      "imdbRating": 6.7,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152601",
-      "title": "The Stork's Mistake",
-      "year": 1942,
-      "imdbRating": 4.5,
-      "imdbVotes": 10,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0153363",
-      "title": "The Two Barbers",
-      "year": 1944,
-      "imdbRating": 5.8,
-      "imdbVotes": 30,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150362",
-      "title": "A Dog's Dream",
-      "year": 1941,
-      "imdbRating": 4.2,
-      "imdbVotes": 16,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0153985",
+    "tt0150279",
+    "tt0149726",
+    "tt0149801",
+    "tt0150293",
+    "tt0037108",
+    "tt0152301",
+    "tt0150785",
+    "tt0150879",
+    "tt0152601",
+    "tt0153363",
+    "tt0150362"
   ],
   "collections": [],
   "is_curated": true,

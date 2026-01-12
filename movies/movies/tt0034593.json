@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/china-girl-1942_202507",
+      "id": "china-girl-1942_202507",
       "title": "China Girl (1942)",
       "description": "Two-fisted newsreel photographer Johnny Williams is stationed in Burma and China in the early stage of WW II. Captured by the Japanese, he escapes from a concentration camp with the aid of beautiful, enigmatic 'China Girl' Miss Young. The two arduously make their way back to friendly lines so that Johnny can deliver the vital military information he's managed to glean from his captors. Watch on RetroFlix:  https://retroflix.org/china-girl-1942/",
       "fileSize": 1132703911,
-      "id": "china-girl-1942_202507"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/china-girl-1942_202507",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 152
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/china-girl-1942",
+      "id": "china-girl-1942",
       "title": "China Girl 1942 colorized (Gene Tierney, George Montgomery)",
       "description": "China Girl (1942) Twentieth Century Fox Drama, War In November 1941, with America still neutral in Japan's war against China, an American news photographer in the far east is offered an opportunity to join the Flying Tigers and film the activity along the strategic Burma Road, but falls in love with a woman whose father runs a school in China that is about to be bombed by the Japanese. Gene Tierney as Miss Haoli Young George Montgomery as Johnny Williams Lynn Bari as Captain Fifi Victor McLaglen as Maj. Bull Weed Alan Baxter as Bill Jones Sig Ruman as Jarubi Myron McCormick as Shorty McGuire Robert Blake as Chandu Ann Pennington as Entertainer Philip Ahn as Dr. Young I colorized this using AI software that doesn't always get the colors right, but I think it looks fairly natural. Hopefully a more professional job will be done someday.",
       "fileSize": 846336204,
-      "id": "china-girl-1942"
+      "addedAt": "2026-01-07T00:07:45.168Z",
+      "thumbnail": "https://archive.org/services/img/china-girl-1942",
+      "language": "eng",
+      "year": 1942,
+      "collection": "feature_films",
+      "downloads": 3066
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034242",
-      "title": "Sundown",
-      "year": 1941,
-      "imdbRating": 5.6,
-      "imdbVotes": 1061,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032651",
-      "title": "Johnny Apollo",
-      "year": 1940,
-      "imdbRating": 6.9,
-      "imdbVotes": 1566,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136209",
-      "title": "Fronttheater",
-      "year": 1942,
-      "imdbRating": 5.7,
-      "imdbVotes": 27,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0159476",
-      "title": "Himmelhunde",
-      "year": 1942,
-      "imdbRating": 5,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034891",
-      "title": "In Which We Serve",
-      "year": 1942,
-      "imdbRating": 7.2,
-      "imdbVotes": 6880,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036093",
-      "title": "Lady from Chungking",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 332,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035301",
-      "title": "Secret Mission",
-      "year": 1942,
-      "imdbRating": 5.4,
-      "imdbVotes": 436,
-      "language": "English, French, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035494",
-      "title": "Unpublished Story",
-      "year": 1942,
-      "imdbRating": 6.5,
-      "imdbVotes": 248,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034647",
-      "title": "Destination Unknown",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 54,
-      "language": "English, Chinese, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034748",
-      "title": "Foreign Agent",
-      "year": 1942,
-      "imdbRating": 4.7,
-      "imdbVotes": 100,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035033",
-      "title": "Manila Calling",
-      "year": 1942,
-      "imdbRating": 6.9,
-      "imdbVotes": 167,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035249",
-      "title": "Remember Pearl Harbor",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034242",
+    "tt0032651",
+    "tt0136209",
+    "tt0159476",
+    "tt0034891",
+    "tt0036093",
+    "tt0035301",
+    "tt0035494",
+    "tt0034647",
+    "tt0034748",
+    "tt0035033",
+    "tt0035249"
   ],
   "collections": [],
   "is_curated": true,

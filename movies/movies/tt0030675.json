@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ReturnoftheScarletPimpernel",
+      "id": "ReturnoftheScarletPimpernel",
       "title": "Return of the Scarlet Pimpernel",
       "description": "Sir Percy Blakeney (Barry K. Barnes), aka the Scarlet Pimpernel, has left off rescuing the French nobility from the guillotine, having promised his wife (Sophie Stewart) never to return to Paris. But the villainous Robespierre (Henry Oscar) and his henchman are determined to get hold of Blakeney any way they can and lop off his head from crimes against France. They lure him to France by kidnapping his wife, a French aristocrat, and sentencing her to death, knowing that Blakeney and his gang will be forced to come to her rescue.",
       "fileSize": 1857301360,
-      "id": "ReturnoftheScarletPimpernel"
+      "addedAt": "2026-01-07T00:06:51.867Z",
+      "thumbnail": "https://archive.org/services/img/ReturnoftheScarletPimpernel",
+      "year": 1937,
+      "collection": "feature_films",
+      "downloads": 88765
     }
   ],
   "metadata": {
@@ -27,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027727",
-      "title": "Hearts in Bondage",
-      "year": 1936,
-      "imdbRating": 5.6,
-      "imdbVotes": 245,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0135746",
-      "title": "Achtung! Feind hört mit!",
-      "year": 1940,
-      "imdbRating": 6,
-      "imdbVotes": 40,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0025746",
-      "title": "The Scarlet Empress",
-      "year": 1934,
-      "imdbRating": 7.5,
-      "imdbVotes": 7478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027311",
-      "title": "As You Like It",
-      "year": 1936,
-      "imdbRating": 5.8,
-      "imdbVotes": 882,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034272",
-      "title": "That Hamilton Woman",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 5180,
-      "language": "English, French, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029606",
-      "title": "A Star Is Born",
-      "year": 1937,
-      "imdbRating": 7.3,
-      "imdbVotes": 11515,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028851",
-      "title": "Fanny Elssler",
-      "year": 1937,
-      "imdbRating": 6.1,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035294",
-      "title": "Schicksal",
-      "year": 1942,
-      "imdbRating": 7.5,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030460",
-      "title": "Moonlight Sonata",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 118,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012532",
-      "title": "Orphans of the Storm",
-      "year": 1921,
-      "imdbRating": 7.3,
-      "imdbVotes": 5577,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0027727",
+    "tt0135746",
+    "tt0025746",
+    "tt0027311",
+    "tt0034272",
+    "tt0029606",
+    "tt0028592",
+    "tt0028634",
+    "tt0028851",
+    "tt0035294",
+    "tt0030460",
+    "tt0012532"
   ],
   "collections": [],
   "is_curated": true,

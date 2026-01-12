@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/a-pair-of-tights_1929",
+      "id": "a-pair-of-tights_1929",
       "title": "A Pair of Tights",
       "fileSize": 1949522480,
-      "id": "a-pair-of-tights_1929"
+      "addedAt": "2026-01-07T00:07:18.438Z",
+      "thumbnail": "https://archive.org/services/img/a-pair-of-tights_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 175
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0208994",
-      "title": "Going Ga-Ga",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 33,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0295048",
-      "title": "You Drive Me Crazy",
-      "year": 1945,
-      "imdbRating": 7,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018881",
-      "title": "Feed 'em and Weep",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 60,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019670",
-      "title": "Bacon Grabbers",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 786,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020264",
-      "title": "Perfect Day",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1782,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020531",
-      "title": "Unaccustomed As We Are",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1383,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256021",
-      "title": "Fandango",
-      "year": 1928,
-      "imdbRating": 5.8,
-      "imdbVotes": 29,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248370",
-      "title": "Roaming Romeo",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 35,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019376",
-      "title": "Should Married Men Go Home?",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 784,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0130517",
-      "title": "The Boy Friend",
-      "year": 1928,
-      "imdbRating": 6.5,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019465",
-      "title": "Their Purple Moment",
-      "year": 1928,
-      "imdbRating": 6.7,
-      "imdbVotes": 842,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019504",
-      "title": "Two Tars",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 1666,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0208994",
+    "tt0295048",
+    "tt0018881",
+    "tt0019670",
+    "tt0020264",
+    "tt0020531",
+    "tt0256021",
+    "tt0248370",
+    "tt0019376",
+    "tt0130517",
+    "tt0019465",
+    "tt0019504"
   ],
   "collections": [],
   "is_curated": true,

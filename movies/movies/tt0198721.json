@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/maria-celeste-1945",
+      "id": "maria-celeste-1945",
       "title": "Maria Celeste (1945)",
       "description": "María Celeste  es una película en blanco y negro de  Argentina  dirigida por  Julio Saraceni  sobre el guion de  Alejandro Casona  según la obra teatral  El misterio del María Celeste  de Casona y  Alfonso Hernández Catá  que se estrenó el 5 de abril de 1945 y que tuvo como protagonistas a  Pedro López Lagar ,  Mirtha Legrand ,  Eduardo Cuitiño  e  Ilde Pirovano . La obra toma como punto de partida  un hecho real sucedido en 1872 : la aparición frente a  Gibraltar  de un barco de carga que había sido abandonado por su tripulación compuesta por el capitán, su mujer, su hija de dos años y siete marinos sin que exista ninguna hipótesis corroborada acerca de lo sucedido. Los exteriores fueron filmados en  Mar del Plata . (Wikipedia) Sinopsis Una tormenta hace naufragar un barco y sus tripulantes consiguen llegar a una isla paradisíaca donde los hombres disputarán el amor de una única mujer. Reparto Pedro López Lagar  ... Juan Mirtha Legrand  ... María Eduardo Cuitiño  ... Contramestre Tomás Ilde Pirovano  ... Esposa del capitán Luis Otero  ... Pedro Alberto Terrones  ... Capitán del María Celeste Tito Alonso  ... Marino Roberto Bordoni  ... Teniente naval Jorge Villoldo",
       "fileSize": 1200763344,
-      "id": "maria-celeste-1945"
+      "addedAt": "2026-01-07T00:09:46.427Z",
+      "thumbnail": "https://archive.org/services/img/maria-celeste-1945",
+      "language": "spa",
+      "year": 1945,
+      "collection": "feature_films",
+      "downloads": 156
     }
   ],
   "metadata": {
@@ -26,105 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0198395",
-      "title": "Cumbres de hidalguía",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0175941",
-      "title": "Nace la libertad",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123006",
-      "title": "La caraba",
-      "year": 1947,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051526",
-      "title": "Del cuplé al tango",
-      "year": 1958,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198332",
-      "title": "La barra de la esquina",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 45,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0198919",
-      "title": "Por cuatro días locos",
-      "year": 1953,
-      "imdbRating": 6,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0123307",
-      "title": "Los tres mosqueteros",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 18,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0150475",
-      "title": "Der Erbförster",
-      "year": 1945,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038132",
-      "title": "Der stumme Gast",
-      "year": 1945,
-      "imdbRating": 6.7,
-      "imdbVotes": 18,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0234640",
-      "title": "Rätsel der Nacht",
-      "year": 1945,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038251",
-      "title": "Wie ein Dieb in der Nacht",
-      "year": 1945,
-      "imdbRating": 5.4,
-      "imdbVotes": 9,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200480",
-      "title": "Besos perdidos",
-      "year": 1945,
-      "imdbRating": 5.1,
-      "imdbVotes": 15,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0198395",
+    "tt0175941",
+    "tt0123006",
+    "tt0051526",
+    "tt0198332",
+    "tt0198919",
+    "tt0123307",
+    "tt0150475",
+    "tt0038132",
+    "tt0234640",
+    "tt0038251",
+    "tt0200480"
   ],
   "collections": [],
   "is_curated": true,

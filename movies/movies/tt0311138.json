@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/flashing-oars_1927",
+      "id": "flashing-oars_1927",
       "title": "Flashing Oars",
       "fileSize": 940597782,
-      "id": "flashing-oars_1927"
+      "addedAt": "2026-01-07T00:08:24.396Z",
+      "thumbnail": "https://archive.org/services/img/flashing-oars_1927",
+      "language": "English",
+      "year": 1927,
+      "collection": "feature_films",
+      "downloads": 387
     }
   ],
   "metadata": {
@@ -26,112 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0329729",
-      "title": "The Varsity Drag",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0016226",
-      "title": "The Plastic Age",
-      "year": 1925,
-      "imdbRating": 6,
-      "imdbVotes": 404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0440334",
-      "title": "A Dozen Socks",
-      "year": 1927,
-      "imdbRating": 6.2,
-      "imdbVotes": 19,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017634",
-      "title": "Anything Once!",
-      "year": 1927,
-      "imdbRating": 6.3,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0312544",
-      "title": "Chasing Choo Choos",
-      "year": 1927,
-      "imdbRating": 7.4,
-      "imdbVotes": 103,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018394",
-      "title": "Should Men Walk Home?",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 146,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017560",
-      "title": "A Wild Roomer",
-      "year": 1927,
-      "imdbRating": 7.2,
-      "imdbVotes": 116,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017604",
-      "title": "Alice in the Big League",
-      "year": 1927,
-      "imdbRating": 5.6,
-      "imdbVotes": 56,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017610",
-      "title": "Alice's Auto Race",
-      "year": 1927,
-      "imdbRating": 6,
-      "imdbVotes": 34,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017612",
-      "title": "Alice's Circus Daze",
-      "year": 1927,
-      "imdbRating": 4.5,
-      "imdbVotes": 110,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017618",
-      "title": "All Wet",
-      "year": 1927,
-      "imdbRating": 6.1,
-      "imdbVotes": 537,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017706",
-      "title": "Broke in China",
-      "year": 1927,
-      "imdbRating": 5.7,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0329729",
+    "tt0016226",
+    "tt0440334",
+    "tt0017634",
+    "tt0312544",
+    "tt0018394",
+    "tt0017560",
+    "tt0017604",
+    "tt0017610",
+    "tt0017612",
+    "tt0017618",
+    "tt0017706"
   ],
   "collections": [],
   "is_curated": true,

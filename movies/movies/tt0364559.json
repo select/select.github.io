@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dansa-serpentina-1900",
+      "id": "dansa-serpentina-1900",
       "title": "Serpentine Dance (1900) Directed by Alice Guy-Blaché",
       "description": "Serpentine Dance (1900) 'Dansa Serpentina' Director: Alice Guy-Blaché",
       "fileSize": 5936536,
-      "id": "dansa-serpentina-1900"
+      "addedAt": "2026-01-07T00:07:51.629Z",
+      "thumbnail": "https://archive.org/services/img/dansa-serpentina-1900",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 222
     }
   ],
   "metadata": {
@@ -27,113 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt3100486",
-      "title": "Automobiling Among the Clouds",
-      "year": 1904,
-      "imdbRating": 4,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0218458",
-      "title": "Neptune's Daughters",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 152,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1020989",
-      "title": "A Ride for Cinderella",
-      "year": 1937,
-      "imdbRating": 5.5,
-      "imdbVotes": 44,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4135826",
-      "title": "Goldilocks and the Three Bears",
-      "year": 1928,
-      "imdbVotes": 6,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090191",
-      "title": "Bradford Coronation Procession",
-      "year": 1902,
-      "imdbRating": 4.7,
-      "imdbVotes": 67,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471108",
-      "title": "Burnley v Manchester United",
-      "year": 1902,
-      "imdbRating": 5.3,
-      "imdbVotes": 116,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1090193",
-      "title": "Comic Pictures in High Street, West Bromwich",
-      "year": 1902,
-      "imdbRating": 5.5,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1741513",
-      "title": "Danse indienne",
-      "year": 1902,
-      "imdbRating": 4.4,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982655",
-      "title": "Danseuses Cambodgiennes du roi Norodom",
-      "year": 1902,
-      "imdbRating": 5.6,
-      "imdbVotes": 43,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471148",
-      "title": "Dewsbury v Manningham",
-      "year": 1902,
-      "imdbRating": 5.3,
-      "imdbVotes": 59,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471163",
-      "title": "Electric Tram Rides from Forster Square, Bradford",
-      "year": 1902,
-      "imdbRating": 5.6,
-      "imdbVotes": 117,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422664",
-      "title": "His Only Pair",
-      "year": 1902,
-      "imdbRating": 4.5,
-      "imdbVotes": 73,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt3100486",
+    "tt0218458",
+    "tt1020989",
+    "tt4135826",
+    "tt1090191",
+    "tt0471108",
+    "tt1090193",
+    "tt1741513",
+    "tt1982655",
+    "tt0471148",
+    "tt0471163",
+    "tt1422664"
   ],
   "collections": [],
   "is_curated": true,

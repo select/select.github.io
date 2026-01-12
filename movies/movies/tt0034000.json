@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/parachute_battalion",
+      "id": "parachute_battalion",
       "title": "Parachute Battalion",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 4513624357,
-      "id": "parachute_battalion"
+      "addedAt": "2026-01-07T00:10:12.695Z",
+      "thumbnail": "https://archive.org/services/img/parachute_battalion",
+      "year": 1941,
+      "collection": "feature_films",
+      "downloads": 86640
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=RHoGcRUgON8",
+      "id": "RHoGcRUgON8",
       "title": "Parachute Battalion (1941) BUDDY EBSEN",
       "description": "Stars: Buddy Ebsen, Robert Preston, Edmond O'Brien\nDirector: Leslie Goodwins\n\nIn this patriotic war drama, a unit of Army recruits train for a parachute corps. One is an arrogant football star, another is a coward who eventually finds his courage. Finally there is a chronic bumbler. The coward and jock find themselves competing for the affections of an indecisive young woman. \n\nThe filmmakers of this movie paid careful attention to detail and was made with the cooperation of the 501st Parachute Battalion at Fort Benning, Georgia using actual paratroopers. The viewer is taken through every stage of a jump including folding the chute at the beginning.",
-      "id": "RHoGcRUgON8",
+      "addedAt": "2025-12-26T23:48:01.412Z",
+      "thumbnail": "https://i.ytimg.com/vi/RHoGcRUgON8/maxresdefault.jpg",
+      "duration": 4506,
+      "language": "en",
+      "year": 1941,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034092",
-      "title": "Remember the Day",
-      "year": 1941,
-      "imdbRating": 7.2,
-      "imdbVotes": 582,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034647",
-      "title": "Destination Unknown",
-      "year": 1942,
-      "imdbRating": 6.7,
-      "imdbVotes": 54,
-      "language": "English, Chinese, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035249",
-      "title": "Remember Pearl Harbor",
-      "year": 1942,
-      "imdbRating": 6,
-      "imdbVotes": 72,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035431",
-      "title": "This Above All",
-      "year": 1942,
-      "imdbRating": 6.6,
-      "imdbVotes": 1456,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036217",
-      "title": "The North Star",
-      "year": 1943,
-      "imdbRating": 5.9,
-      "imdbVotes": 1832,
-      "language": "English, German, Russian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031381",
-      "title": "Gone with the Wind",
-      "year": 1939,
-      "imdbRating": 8.2,
-      "imdbVotes": 350271,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036037",
-      "title": "Immortal Sergeant",
-      "year": 1943,
-      "imdbRating": 6.6,
-      "imdbVotes": 1046,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036474",
-      "title": "The Underdog",
-      "year": 1943,
-      "imdbRating": 5.7,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0036824",
-      "title": "The Fighting Seabees",
-      "year": 1944,
-      "imdbRating": 6.4,
-      "imdbVotes": 4012,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037280",
-      "title": "Since You Went Away",
-      "year": 1944,
-      "imdbRating": 7.5,
-      "imdbVotes": 5182,
-      "language": "English, Yiddish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037811",
-      "title": "Identity Unknown",
-      "year": 1945,
-      "imdbRating": 6.3,
-      "imdbVotes": 387,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037447",
-      "title": "Waterloo Road",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 734,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0034092",
+    "tt0034647",
+    "tt0035249",
+    "tt0035431",
+    "tt0036217",
+    "tt0036037",
+    "tt0036474",
+    "tt0036824",
+    "tt0037280",
+    "tt0037811",
+    "tt0037447",
+    "tt0033891"
   ],
   "collections": [],
   "is_curated": true,

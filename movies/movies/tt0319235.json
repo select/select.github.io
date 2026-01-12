@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/el-cuatrero",
+      "id": "el-cuatrero",
       "title": "El Cuatrero(1989)",
       "description": "The cheater Álvaro and his accomplice Mariana deceive the powerful rancher Lázaro by taking away a truck and a valuable horse that they paint in black to mislead and named it Satanás.",
       "fileSize": 272317643,
-      "id": "el-cuatrero"
+      "addedAt": "2026-01-07T00:08:15.378Z",
+      "thumbnail": "https://archive.org/services/img/el-cuatrero",
+      "language": "spa",
+      "year": 1989,
+      "collection": "feature_films",
+      "downloads": 5286
     }
   ],
   "metadata": {
@@ -27,117 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0093278",
-      "title": "Ishtar",
-      "year": 1987,
-      "imdbRating": 4.7,
-      "imdbVotes": 12345,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0257543",
-      "title": "El diablo, el santo y el tonto",
-      "year": 1987,
-      "imdbRating": 6.4,
-      "imdbVotes": 68,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0090728",
-      "title": "Big Trouble in Little China",
-      "year": 1986,
-      "imdbRating": 7.2,
-      "imdbVotes": 164238,
-      "language": "English, Cantonese",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0023243",
-      "title": "Mr. Robinson Crusoe",
-      "year": 1932,
-      "imdbRating": 5.5,
-      "imdbVotes": 520,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041098",
-      "title": "Africa Screams",
-      "year": 1949,
-      "imdbRating": 6,
-      "imdbVotes": 4134,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046414",
-      "title": "Beat the Devil",
-      "year": 1953,
-      "imdbRating": 6.4,
-      "imdbVotes": 10677,
-      "language": "Arabic, English, Italian",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    },
-    {
-      "imdbId": "tt0066565",
-      "title": "White Sun of the Desert",
-      "year": 1970,
-      "imdbRating": 7.7,
-      "imdbVotes": 8323,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0039133",
-      "title": "Adventure Island",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 219,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023808",
-      "title": "The Big Chance",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 195,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031124",
-      "title": "Bulldog Drummond's Bride",
-      "year": 1939,
-      "imdbRating": 5.9,
-      "imdbVotes": 542,
-      "language": "French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0017925",
-      "title": "The General",
-      "year": 1926,
-      "imdbRating": 8.1,
-      "imdbVotes": 104099,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056026",
-      "title": "Gladiator of Rome",
-      "year": 1962,
-      "imdbRating": 4.7,
-      "imdbVotes": 179,
-      "language": "Italian",
-      "sourceType": "archive.org"
-    }
+    "tt0093278",
+    "tt0257543",
+    "tt0023243",
+    "tt0041098",
+    "tt0046414",
+    "tt0066565",
+    "tt0039133",
+    "tt0023808",
+    "tt0031124",
+    "tt0017925",
+    "tt0056026",
+    "tt0099978"
   ],
   "collections": [],
   "is_curated": true,

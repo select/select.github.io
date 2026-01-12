@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/It_Couldnt_Have_Happened",
+      "id": "It_Couldnt_Have_Happened",
       "title": "It Couldn't Have Happened, But It Did",
       "description": "Playwright turns crimesolver when the play's two producers are murdered.",
       "fileSize": 2373688028,
-      "id": "It_Couldnt_Have_Happened"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/It_Couldnt_Have_Happened",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 12808
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=Hya0uPdAUVE",
+      "id": "Hya0uPdAUVE",
       "title": "It Couldn't Have Happened...But It Did (1936) JACK LA RUE",
       "description": "Stars: Reginald Denny, Evelyn Brent, Jack La Rue \nDirector: Phil Rosen\n\n When a play's two producers are murdered, the playwright tries to solve the crime. Watch for a young Hugh Marlowe, billed here as John.",
-      "id": "Hya0uPdAUVE",
+      "addedAt": "2025-12-26T23:54:08.110Z",
+      "thumbnail": "https://i.ytimg.com/vi/Hya0uPdAUVE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhiIGIoYjAP&rs=AOn4CLB1k0e1OOxUaO49d0Iq565onEN_nA",
+      "duration": 4200,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0027568",
-      "title": "Ellis Island",
-      "year": 1936,
-      "imdbRating": 5.4,
-      "imdbVotes": 89,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027398",
-      "title": "The Bridge of Sighs",
-      "year": 1936,
-      "imdbRating": 5.1,
-      "imdbVotes": 77,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024443",
-      "title": "The Phantom Broadcast",
-      "year": 1933,
-      "imdbRating": 5.5,
-      "imdbVotes": 176,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024605",
-      "title": "The Sphinx",
-      "year": 1933,
-      "imdbRating": 5.6,
-      "imdbVotes": 523,
-      "language": "English, American Sign ",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030857",
-      "title": "There's Always a Woman",
-      "year": 1938,
-      "imdbRating": 6.7,
-      "imdbVotes": 992,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032017",
-      "title": "There's That Woman Again",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 261,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033928",
-      "title": "Murder by Invitation",
-      "year": 1941,
-      "imdbRating": 5.8,
-      "imdbVotes": 479,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028375",
-      "title": "Three of a Kind",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 129,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034117",
-      "title": "Roar of the Press",
-      "year": 1941,
-      "imdbRating": 5.6,
-      "imdbVotes": 149,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027974",
-      "title": "Missing Girls",
-      "year": 1936,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020267",
-      "title": "The Phantom in the House",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027564",
-      "title": "Easy Money",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0027568",
+    "tt0027398",
+    "tt0024443",
+    "tt0024605",
+    "tt0030857",
+    "tt0032017",
+    "tt0033928",
+    "tt0028375",
+    "tt0034117",
+    "tt0027974",
+    "tt0020267",
+    "tt0027564"
   ],
   "collections": [],
   "is_curated": true,

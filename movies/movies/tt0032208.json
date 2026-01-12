@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1940-angelika-olga-tschechowa-albrecht-schonhals-friedrich-kayssler",
+      "id": "1940-angelika-olga-tschechowa-albrecht-schonhals-friedrich-kayssler",
       "title": "1940 Angelika ( Olga Tschechowa, Albrecht Schönhals, Friedrich Kayssler)",
       "description": "Film aus dem deutschen dritten Reich von 1940. Angelika.  U.a mit Albrecht Schönhals und Olga Tschechowa ",
       "fileSize": 985903735,
-      "id": "1940-angelika-olga-tschechowa-albrecht-schonhals-friedrich-kayssler"
+      "addedAt": "2026-01-07T00:06:02.057Z",
+      "thumbnail": "https://archive.org/services/img/1940-angelika-olga-tschechowa-albrecht-schonhals-friedrich-kayssler",
+      "language": "ger",
+      "year": 1940,
+      "collection": "feature_films",
+      "downloads": 120
     }
   ],
   "metadata": {
@@ -27,101 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0131582",
-      "title": "Sechs Tage Heimaturlaub",
-      "year": 1941,
-      "imdbRating": 4.9,
-      "imdbVotes": 12,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034219",
-      "title": "Sonntagskinder",
-      "year": 1941,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131420",
-      "title": "Heimweh",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031472",
-      "title": "Ich verweigere die Aussage",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031788",
-      "title": "Parkstrasse 13",
-      "year": 1939,
-      "imdbRating": 6.9,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131567",
-      "title": "Roman eines Arztes",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032079",
-      "title": "Die unheimlichen Wünsche",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131410",
-      "title": "Das Gewehr über",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033334",
-      "title": "Am Abend auf der Heide",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0446329",
-      "title": "Der falsche Admiral",
-      "year": 1939,
-      "language": "N/A",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0131414",
-      "title": "Das große Abenteuer",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0136382",
-      "title": "Maja zwischen zwei Ehen",
-      "year": 1938,
-      "language": "German",
-      "sourceType": "archive.org"
-    }
+    "tt0131582",
+    "tt0034219",
+    "tt0131420",
+    "tt0031472",
+    "tt0031788",
+    "tt0131567",
+    "tt0032079",
+    "tt0131410",
+    "tt0033334",
+    "tt0446329",
+    "tt0131414",
+    "tt0136382"
   ],
   "collections": [],
   "is_curated": true,

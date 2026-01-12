@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-white-horse-rapids",
+      "id": "silent-white-horse-rapids",
       "title": "White Horse Rapids",
       "fileSize": 17457513,
-      "id": "silent-white-horse-rapids"
+      "addedAt": "2026-01-07T00:11:24.927Z",
+      "thumbnail": "https://archive.org/services/img/silent-white-horse-rapids",
+      "year": 1900,
+      "collection": "feature_films",
+      "downloads": 497
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0471069",
-      "title": "20,000 Employees Entering Lord Armstrong's Elswick Works, Newcastle-upon-Tyne",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 100,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0310176",
-      "title": "A Storm at Sea",
-      "year": 1900,
-      "imdbRating": 5.6,
-      "imdbVotes": 256,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422604",
-      "title": "An Exciting Pillow Fight",
-      "year": 1900,
-      "imdbRating": 5.1,
-      "imdbVotes": 80,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302397",
-      "title": "Champs de Mars",
-      "year": 1900,
-      "imdbRating": 5.2,
-      "imdbVotes": 227,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0221900",
-      "title": "Danses espagnoles",
-      "year": 1900,
-      "imdbRating": 5.6,
-      "imdbVotes": 223,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0302525",
-      "title": "Eiffel Tower from Trocadero Palace",
-      "year": 1900,
-      "imdbRating": 4.6,
-      "imdbVotes": 223,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982672",
-      "title": "Epinal: Les bords de la Moselle",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 95,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1982761",
-      "title": "Le Roi Victor Emmanuel III se rendant au Sénat pour la cérémonie du Serment",
-      "year": 1900,
-      "imdbRating": 5,
-      "imdbVotes": 69,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1219715",
-      "title": "Le village de Namo - Panorama pris d'une chaise à porteurs",
-      "year": 1900,
-      "imdbRating": 6.3,
-      "imdbVotes": 526,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0471265",
-      "title": "Messrs Lumb and Co Leaving the Works, Huddersfield",
-      "year": 1900,
-      "imdbRating": 5.4,
-      "imdbVotes": 108,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0291379",
-      "title": "New Black Diamond Express",
-      "year": 1900,
-      "imdbRating": 4.5,
-      "imdbVotes": 164,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0309973",
-      "title": "Palace of Electricity",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 208,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0471069",
+    "tt0310176",
+    "tt1422604",
+    "tt0302397",
+    "tt0221900",
+    "tt0302525",
+    "tt1982672",
+    "tt1982761",
+    "tt1219715",
+    "tt0471265",
+    "tt0291379",
+    "tt0309973"
   ],
   "collections": [],
   "is_curated": true,

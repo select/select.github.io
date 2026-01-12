@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/thus-another-day",
+      "id": "thus-another-day",
       "title": "Thus Another Day",
       "description": "A young wife loses patience with her career-minded husband and returns to her parents' home while an unpaid mortgage force the couple to rent their home for the summer.",
       "fileSize": 6043762718,
-      "id": "thus-another-day"
+      "addedAt": "2026-01-07T00:12:44.284Z",
+      "thumbnail": "https://archive.org/services/img/thus-another-day",
+      "language": "jpn",
+      "year": 1959,
+      "collection": "feature_films",
+      "downloads": 2280
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0048731",
-      "title": "The Tattered Wings",
-      "year": 1955,
-      "imdbRating": 6.7,
-      "imdbVotes": 127,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039406",
-      "title": "Phoenix",
-      "year": 1947,
-      "imdbRating": 6.7,
-      "imdbVotes": 138,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052600",
-      "title": "Ballad of a Soldier",
-      "year": 1959,
-      "imdbRating": 8.2,
-      "imdbVotes": 11927,
-      "language": "Russian, Ukrainian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0053399",
-      "title": "Up Periscope",
-      "year": 1959,
-      "imdbRating": 6.4,
-      "imdbVotes": 2314,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053137",
-      "title": "On the Beach",
-      "year": 1959,
-      "imdbRating": 7.1,
-      "imdbVotes": 15437,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053341",
-      "title": "Ten Seconds to Hell",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 1241,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052902",
-      "title": "The Horse Soldiers",
-      "year": 1959,
-      "imdbRating": 7.1,
-      "imdbVotes": 12576,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053450",
-      "title": "Woman Obsessed",
-      "year": 1959,
-      "imdbRating": 6,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052420",
-      "title": "Zafra",
-      "year": 1959,
-      "imdbRating": 6.5,
-      "imdbVotes": 18,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054230",
-      "title": "The Rat Race",
-      "year": 1960,
-      "imdbRating": 6.6,
-      "imdbVotes": 1528,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051429",
-      "title": "Bonjour Tristesse",
-      "year": 1958,
-      "imdbRating": 6.9,
-      "imdbVotes": 5828,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051476",
-      "title": "China Doll",
-      "year": 1958,
-      "imdbRating": 6,
-      "imdbVotes": 652,
-      "language": "English, Chinese",
-      "sourceType": "archive.org"
-    }
+    "tt0048731",
+    "tt0039406",
+    "tt0052600",
+    "tt0053399",
+    "tt0053137",
+    "tt0053341",
+    "tt0052902",
+    "tt0053450",
+    "tt0052420",
+    "tt0054230",
+    "tt0051429",
+    "tt0051476"
   ],
   "collections": [],
   "is_curated": true,

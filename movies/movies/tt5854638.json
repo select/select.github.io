@@ -6,10 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/TenNightsinaBarroom",
+      "id": "TenNightsinaBarroom",
       "title": "Ten Nights in a Barroom",
       "description": "A man's (William Farnum) heavy drinking drives away his family and threatens to destroy his relationship with his little daughter (Peggy Lou Lynd).",
       "fileSize": 1669248056,
-      "id": "TenNightsinaBarroom"
+      "addedAt": "2026-01-07T00:06:58.271Z",
+      "thumbnail": "https://archive.org/services/img/TenNightsinaBarroom",
+      "year": 1931,
+      "collection": "feature_films",
+      "downloads": 42619
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0228331",
-      "title": "Ghost Parade",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 120,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0829208",
-      "title": "Julius Sizzer",
-      "year": 1931,
-      "imdbRating": 3.6,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022402",
-      "title": "The Stolen Jools",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 1177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021687",
-      "title": "Bosko the Doughboy",
-      "year": 1931,
-      "imdbRating": 5.7,
-      "imdbVotes": 348,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146799",
-      "title": "Go West, Big Boy",
-      "year": 1931,
-      "imdbRating": 4.8,
-      "imdbVotes": 28,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021964",
-      "title": "Hittin' the Trail for Hallelujah Land",
-      "year": 1931,
-      "imdbRating": 5.2,
-      "imdbVotes": 404,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0151161",
-      "title": "Jungle Jam",
-      "year": 1931,
-      "imdbRating": 4.6,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022152",
-      "title": "Minding the Baby",
-      "year": 1931,
-      "imdbRating": 6.3,
-      "imdbVotes": 163,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0147211",
-      "title": "Razzberries",
-      "year": 1931,
-      "imdbRating": 4.2,
-      "imdbVotes": 25,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022300",
-      "title": "Red-Headed Baby",
-      "year": 1931,
-      "imdbRating": 5.3,
-      "imdbVotes": 369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0022301",
-      "title": "Red Riding Hood",
-      "year": 1931,
-      "imdbRating": 6.1,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0152429",
-      "title": "Showing Off",
-      "year": 1931,
-      "imdbRating": 4.4,
-      "imdbVotes": 23,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0228331",
+    "tt0829208",
+    "tt0022402",
+    "tt0021687",
+    "tt0146799",
+    "tt0021964",
+    "tt0151161",
+    "tt0022152",
+    "tt0147211",
+    "tt0022300",
+    "tt0022301",
+    "tt0152429"
   ],
   "collections": [],
   "is_curated": true,

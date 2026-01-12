@@ -6,18 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dipwad2_zoho_4071",
+      "id": "dipwad2_zoho_4071",
       "title": "407",
       "description": "407 ",
       "fileSize": 4427786966,
-      "id": "dipwad2_zoho_4071"
+      "addedAt": "2026-01-07T00:08:07.357Z",
+      "thumbnail": "https://archive.org/services/img/dipwad2_zoho_4071",
+      "collection": "feature_films",
+      "downloads": 2712
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/rog561b_netzero_407",
+      "id": "rog561b_netzero_407",
       "title": "407",
       "description": "407",
       "fileSize": 2594854976,
-      "id": "rog561b_netzero_407"
+      "addedAt": "2026-01-07T00:10:30.756Z",
+      "thumbnail": "https://archive.org/services/img/rog561b_netzero_407",
+      "collection": "feature_films",
+      "downloads": 10437
     }
   ],
   "metadata": {
@@ -34,102 +42,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt27001610",
-      "title": "Darband",
-      "year": 2007,
-      "language": "Persian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1381651",
-      "title": "Pin Down Girl: The Story of Ethel Brown",
-      "year": 2008,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt20672840",
-      "title": "Cornered",
-      "year": 2008,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1176433",
-      "title": "Interstate",
-      "year": 2006,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt3207354",
-      "title": "The Wash",
-      "year": 2006,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt11863308",
-      "title": "905 Streetball Vol. 3",
-      "year": 2006,
-      "imdbRating": 7.2,
-      "imdbVotes": 395,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt9898676",
-      "title": "930",
-      "year": 2006,
-      "imdbRating": 5.4,
-      "imdbVotes": 12,
-      "language": "French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2564730",
-      "title": "Room 710",
-      "year": 2005,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1422758",
-      "title": "Steal This Film II",
-      "year": 2007,
-      "imdbRating": 7.3,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1120912",
-      "title": "Room 602",
-      "year": 2007,
-      "imdbRating": 4.8,
-      "imdbVotes": 5,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1837662",
-      "title": "Soulfood",
-      "year": 2007,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt1127711",
-      "title": "Resident Evil: Diary of an Apocalypse",
-      "year": 2007,
-      "imdbRating": 7,
-      "imdbVotes": 21,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt27001610",
+    "tt1381651",
+    "tt20672840",
+    "tt1176433",
+    "tt3207354",
+    "tt11863308",
+    "tt9898676",
+    "tt2564730",
+    "tt1422758",
+    "tt1120912",
+    "tt1837662",
+    "tt1127711"
   ],
   "collections": [],
   "is_curated": true,

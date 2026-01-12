@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/SherlockHolmesBaffled",
+      "id": "SherlockHolmesBaffled",
       "title": "Sherlock Holmes Baffled",
       "description": "The very first Sherlock Holmes film. About a minute long, this features Holmes confused by a disappearing bandit.",
       "fileSize": 15713378,
-      "id": "SherlockHolmesBaffled"
+      "addedAt": "2026-01-07T00:06:51.868Z",
+      "thumbnail": "https://archive.org/services/img/SherlockHolmesBaffled",
+      "collection": "feature_films",
+      "downloads": 17261
     }
   ],
   "metadata": {
@@ -27,116 +31,25 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
+    "tt0231757",
+    "tt0002133",
+    "tt0233391",
+    "tt0011071",
+    "tt0227396",
+    "tt0000300",
+    "tt1241242",
+    "tt0027529",
+    "tt0000309",
+    "tt0000313",
+    "tt0328661",
+    "tt0000273"
+  ],
+  "collections": [
     {
-      "imdbId": "tt0231757",
-      "title": "How They Rob Men in Chicago",
-      "year": 1900,
-      "imdbRating": 5.8,
-      "imdbVotes": 165,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002133",
-      "title": "A Dash Through the Clouds",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 217,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0233391",
-      "title": "The Burglar's Slide for Life",
-      "year": 1905,
-      "imdbRating": 4.8,
-      "imdbVotes": 107,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011071",
-      "title": "Convict 13",
-      "year": 1920,
-      "imdbRating": 7.1,
-      "imdbVotes": 3668,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0227396",
-      "title": "Robert Macaire and Bertrand",
-      "year": 1907,
-      "imdbRating": 5.8,
-      "imdbVotes": 148,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000300",
-      "title": "The Enchanted Drawing",
-      "year": 1900,
-      "imdbRating": 6.9,
-      "imdbVotes": 1380,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1241242",
-      "title": "A Quick Shave and Brush Up",
-      "year": 1900,
-      "imdbRating": 4.5,
-      "imdbVotes": 64,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027529",
-      "title": "Disorder in the Court",
-      "year": 1936,
-      "imdbRating": 8,
-      "imdbVotes": 2359,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000309",
-      "title": "How It Feels to Be Run Over",
-      "year": 1900,
-      "imdbRating": 6.1,
-      "imdbVotes": 1043,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000313",
-      "title": "Let Me Dream Again",
-      "year": 1900,
-      "imdbRating": 5.8,
-      "imdbVotes": 831,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0328661",
-      "title": "A Wringing Good Joke",
-      "year": 1900,
-      "imdbRating": 6.2,
-      "imdbVotes": 41,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000273",
-      "title": "Attack on a China Mission",
-      "year": 1900,
-      "imdbRating": 5.5,
-      "imdbVotes": 665,
-      "language": "None",
-      "sourceType": "archive.org"
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
     }
   ],
-  "collections": [],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:06:51.868Z"

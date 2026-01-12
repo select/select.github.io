@@ -6,9 +6,18 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/madchen-am-kreuz_1929",
+      "id": "madchen-am-kreuz_1929",
       "title": "Mädchen am Kreuz",
       "fileSize": 10189978414,
-      "id": "madchen-am-kreuz_1929"
+      "addedAt": "2026-01-07T00:09:46.421Z",
+      "thumbnail": "https://archive.org/services/img/madchen-am-kreuz_1929",
+      "language": [
+        "None",
+        "German"
+      ],
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 136
     }
   ],
   "metadata": {
@@ -26,114 +35,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020030",
-      "title": "The Iron Mask",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 1491,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019983",
-      "title": "High Voltage",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 448,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020514",
-      "title": "The Trespasser",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 1455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020305",
-      "title": "The Racketeer",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019798",
-      "title": "The Dance of Life",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 352,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020092",
-      "title": "The Letter",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 891,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020103",
-      "title": "The Locked Door",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0020030",
+    "tt0019644",
+    "tt0019765",
+    "tt0019933",
+    "tt0019957",
+    "tt0019979",
+    "tt0019983",
+    "tt0020514",
+    "tt0020305",
+    "tt0019798",
+    "tt0020092",
+    "tt0020103"
   ],
   "collections": [],
   "is_curated": true,

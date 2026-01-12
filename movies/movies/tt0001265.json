@@ -6,18 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/10InTheBorderStates",
+      "id": "10InTheBorderStates",
       "title": "\"In The Border States\" (1910) director D. W. Griffith, cinematographer Billy Bitzer",
       "description": "  This gem is presented by Silent Hall of Fame.   Please visit https://silent-hall-of-fame.org/   to support our non-profit mission and the legacy of silent movie stars by making a tax deductible contribution.   FEEL FREE TO FOLLOW US ON TWITTER @SilentFilmGems   \"In the Border States\" is a short Civil War drama. This film illustrates the work of cinematographer Billy Bitzer, a star of Silent Hall of Fame.  \"In the Border States\" deals with the human aspect of the war.  Representatives from both conflicting sides are forced to choose between the loyalty to their banner and the higher moral obligation to humanity. Directed by                          D.W. Griffith Produced by                        Biograph Company Scenario by                         Stanner E.V. Taylor Cinematography                Billy Bitzer Starring                               Charles West, Henry Walthall, Gladys Egan Distributed by                     Biograph Company Release date                        June 13, 1910 Running time                      15 min. Country                               United States Language                             Silent, English intertitles Copyright Disclaimer Under Section 107 of the Copyright Act 1976: \"Allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"    ",
       "fileSize": 187419775,
-      "id": "10InTheBorderStates"
+      "addedAt": "2026-01-07T00:06:00.050Z",
+      "thumbnail": "https://archive.org/services/img/10InTheBorderStates",
+      "year": 1910,
+      "collection": "feature_films",
+      "downloads": 2221
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/InTheBorderStates",
+      "id": "InTheBorderStates",
       "title": "In The Border States",
       "description": "In The Border States was directed by D.W. Griffith in 1910. Griffith was born in Kentucky in 1875 so as a youth he must have heard many tales of the Civil War. He went back to that war for many of his films including this one which tells an interesting little story of a young girl who saves he life of a Southern soldier and is later rewarded..",
       "fileSize": 337554678,
-      "id": "InTheBorderStates"
+      "addedAt": "2026-01-07T00:06:30.620Z",
+      "thumbnail": "https://archive.org/services/img/InTheBorderStates",
+      "collection": "feature_films",
+      "downloads": 1442
     }
   ],
   "metadata": {
@@ -35,114 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0000895",
-      "title": "The Hessian Renegades",
-      "year": 1909,
-      "imdbRating": 5.5,
-      "imdbVotes": 211,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001227",
-      "title": "The Fugitive",
-      "year": 1910,
-      "imdbRating": 5.8,
-      "imdbVotes": 254,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001256",
-      "title": "The House with Closed Shutters",
-      "year": 1910,
-      "imdbRating": 5.9,
-      "imdbVotes": 590,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001913",
-      "title": "Swords and Hearts",
-      "year": 1911,
-      "imdbRating": 5.4,
-      "imdbVotes": 253,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001680",
-      "title": "His Trust: The Faithful Devotion and Self-Sacrifice of an Old Negro Servant",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 661,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001245",
-      "title": "Her Terrible Ordeal",
-      "year": 1910,
-      "imdbRating": 5.7,
-      "imdbVotes": 79,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001283",
-      "title": "The Last Deal",
-      "year": 1910,
-      "imdbRating": 6.2,
-      "imdbVotes": 25,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001315",
-      "title": "The Message of the Violin",
-      "year": 1910,
-      "imdbRating": 6.9,
-      "imdbVotes": 23,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001083",
-      "title": "The Violin Maker of Cremona",
-      "year": 1909,
-      "imdbRating": 5,
-      "imdbVotes": 157,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000972",
-      "title": "The Mountaineer's Honor",
-      "year": 1909,
-      "imdbRating": 5.8,
-      "imdbVotes": 98,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001753",
-      "title": "Love in the Hills",
-      "year": 1911,
-      "imdbRating": 6,
-      "imdbVotes": 18,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001499",
-      "title": "The Battle",
-      "year": 1911,
-      "imdbRating": 5.7,
-      "imdbVotes": 368,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0000895",
+    "tt0001227",
+    "tt0001256",
+    "tt0001913",
+    "tt0001680",
+    "tt0001245",
+    "tt0001283",
+    "tt0001315",
+    "tt0001083",
+    "tt0000972",
+    "tt0001753",
+    "tt0001499"
   ],
   "collections": [],
   "is_curated": true,

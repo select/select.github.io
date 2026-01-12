@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-return-of-the-rat_1929",
+      "id": "the-return-of-the-rat_1929",
       "title": "The Return of the Rat",
       "fileSize": 5099013408,
-      "id": "the-return-of-the-rat_1929"
+      "addedAt": "2026-01-07T00:12:22.157Z",
+      "thumbnail": "https://archive.org/services/img/the-return-of-the-rat_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 139
     }
   ],
   "metadata": {
@@ -26,117 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019630",
-      "title": "Alibi",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 987,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019725",
-      "title": "Broadway",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020197",
-      "title": "The Mysterious Dr. Fu Manchu",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 377,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020560",
-      "title": "The Voice of the City",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020255",
-      "title": "Painted Faces",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 93,
-      "language": "German, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0018362",
-      "title": "The Scar of Shame",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 454,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023469",
-      "title": "The Sign of Four: Sherlock Holmes' Greatest Case",
-      "year": 1932,
-      "imdbRating": 5.8,
-      "imdbVotes": 679,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021239",
-      "title": "Party Girl",
-      "year": 1930,
-      "imdbRating": 5.1,
-      "imdbVotes": 320,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018618",
-      "title": "Across to Singapore",
-      "year": 1928,
-      "imdbRating": 6.2,
-      "imdbVotes": 1173,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018882",
-      "title": "Feel My Pulse",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 241,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020980",
-      "title": "Walk Cheerfully",
-      "year": 1930,
-      "imdbRating": 6.4,
-      "imdbVotes": 776,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0019979",
+    "tt0019630",
+    "tt0019725",
+    "tt0020197",
+    "tt0020560",
+    "tt0020255",
+    "tt0018362",
+    "tt0023469",
+    "tt0021239",
+    "tt0018618",
+    "tt0018882",
+    "tt0020980"
   ],
   "collections": [],
   "is_curated": true,

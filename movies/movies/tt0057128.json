@@ -6,18 +6,30 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-haunted-palace",
+      "id": "the-haunted-palace",
       "title": "The Haunted Palace",
       "description": "Charles Dexter Ward travels with his wife to Arkham to inspect a large house he has inherited. It was once owned by his great grandfather Joseph Curwen, a disciple of the devil, who cursed the local villagers as they burned him at the stake. Everyone is hostile to Ward, blaming the curse for the number of mutants in the village. Indeed, Ward's arrival allows Curwen to take over his body and restart his evil ways by revenging himself on the descendants of those who killed him.",
       "fileSize": 7153760274,
-      "id": "the-haunted-palace"
+      "addedAt": "2026-01-07T00:12:10.587Z",
+      "thumbnail": "https://archive.org/services/img/the-haunted-palace",
+      "language": "eng",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 15887
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the.-haunted.-palace.-1963",
+      "id": "the.-haunted.-palace.-1963",
       "title": "The Haunted Palace (1963)",
       "description": "The Haunted Palace is a 1963 Gothic fantasy horror film released by American International Pictures, starring Vincent Price, Lon Chaney Jr. and Debra Paget, in a story about a village held in the grip of a dead necromancer.  It follows Charles Dexter Ward and his wife Anne as they inherit a mansion in the cursed town of Arkham, where Charles discovers he is the descendant of a warlock named Joseph Curwen. As he becomes increasingly obsessed with Curwen's portrait, dark forces awaken, leading to horrific events as the townspeople confront the evil that has returned.",
       "fileSize": 2464069269,
-      "id": "the.-haunted.-palace.-1963"
+      "addedAt": "2026-01-07T00:12:33.208Z",
+      "thumbnail": "https://archive.org/services/img/the.-haunted.-palace.-1963",
+      "language": "eng",
+      "year": 1963,
+      "collection": "feature_films",
+      "downloads": 275
     }
   ],
   "metadata": {
@@ -35,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0058333",
-      "title": "The Masque of the Red Death",
-      "year": 1964,
-      "imdbRating": 6.9,
-      "imdbVotes": 17022,
-      "language": "English, Latin",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0059821",
-      "title": "The Tomb of Ligeia",
-      "year": 1964,
-      "imdbRating": 6.4,
-      "imdbVotes": 7190,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0056606",
-      "title": "Tower of London",
-      "year": 1962,
-      "imdbRating": 6.3,
-      "imdbVotes": 2748,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0055304",
-      "title": "The Pit and the Pendulum",
-      "year": 1961,
-      "imdbRating": 7,
-      "imdbVotes": 17260,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0053925",
-      "title": "House of Usher",
-      "year": 1960,
-      "imdbRating": 6.9,
-      "imdbVotes": 16233,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054768",
-      "title": "Creature from the Haunted Sea",
-      "year": 1961,
-      "imdbRating": 3.4,
-      "imdbVotes": 3416,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054033",
-      "title": "The Little Shop of Horrors",
-      "year": 1960,
-      "imdbRating": 6.2,
-      "imdbVotes": 20527,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054017",
-      "title": "Last Woman on Earth",
-      "year": 1960,
-      "imdbRating": 4.8,
-      "imdbVotes": 2220,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052655",
-      "title": "A Bucket of Blood",
-      "year": 1959,
-      "imdbRating": 6.7,
-      "imdbVotes": 8366,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0054462",
-      "title": "The Wasp Woman",
-      "year": 1959,
-      "imdbRating": 4.8,
-      "imdbVotes": 5840,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0049370",
-      "title": "It Conquered the World",
-      "year": 1956,
-      "imdbRating": 4.9,
-      "imdbVotes": 2754,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0052379",
-      "title": "War of the Satellites",
-      "year": 1958,
-      "imdbRating": 5.1,
-      "imdbVotes": 1247,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0058333",
+    "tt0059821",
+    "tt0056606",
+    "tt0055304",
+    "tt0053925",
+    "tt0054768",
+    "tt0054033",
+    "tt0054017",
+    "tt0052655",
+    "tt0054462",
+    "tt0049370",
+    "tt0052379"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/OfficerHenderson",
+      "id": "OfficerHenderson",
       "title": "Officer Henderson",
       "description": "This short film by Alice Guy (pronounced Alees ghee)Blache is another example of her playing with sexual stereotypes. In it the two policemen are required to dress as women to catch pickpockets. Notice that, though they have male faces they are accepted as women by everyone. Also the cloning in the police department is interesting as the officers do the mincing walk of that is more like cross dressers than like women. It was made in the Solex Company which Guy owned along with her husband about 1911. See Algie the Miner also in the Archive.",
       "fileSize": 274162953,
-      "id": "OfficerHenderson"
+      "addedAt": "2026-01-07T00:06:45.465Z",
+      "thumbnail": "https://archive.org/services/img/OfficerHenderson",
+      "collection": "feature_films",
+      "downloads": 1965
     }
   ],
   "metadata": {
@@ -27,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0002983",
-      "title": "A House Divided",
-      "year": 1913,
-      "imdbRating": 6,
-      "imdbVotes": 569,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210835",
-      "title": "Matrimony's Speed Limit",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 469,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1389556",
-      "title": "A Severe Test",
-      "year": 1913,
-      "imdbRating": 4.7,
-      "imdbVotes": 20,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210599",
-      "title": "Canned Harmony",
-      "year": 1912,
-      "imdbRating": 5.7,
-      "imdbVotes": 263,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0256909",
-      "title": "Making an American Citizen",
-      "year": 1912,
-      "imdbRating": 5.3,
-      "imdbVotes": 395,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004413",
-      "title": "The Ocean Waif",
-      "year": 1916,
-      "imdbRating": 6.3,
-      "imdbVotes": 510,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0210675",
-      "title": "Falling Leaves",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 1821,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0759516",
-      "title": "Course à la saucisse",
-      "year": 1907,
-      "imdbRating": 6.1,
-      "imdbVotes": 323,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0000288",
-      "title": "La concierge",
-      "year": 1900,
-      "imdbRating": 5.3,
-      "imdbVotes": 209,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649427",
-      "title": "Une course d'obstacle",
-      "year": 1906,
-      "imdbRating": 5.3,
-      "imdbVotes": 145,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1649428",
-      "title": "Une histoire roulante",
-      "year": 1906,
-      "imdbRating": 5.8,
-      "imdbVotes": 310,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0372119",
-      "title": "Across the Mexican Line",
-      "year": 1911,
-      "imdbRating": 5.6,
-      "imdbVotes": 31,
-      "language": "None",
-      "sourceType": "archive.org"
-    }
+    "tt0002983",
+    "tt0210835",
+    "tt1389556",
+    "tt0210599",
+    "tt0256909",
+    "tt0004413",
+    "tt0210675",
+    "tt0759516",
+    "tt0000288",
+    "tt1649427",
+    "tt1649428",
+    "tt0372119"
   ],
   "collections": [],
   "is_curated": true,

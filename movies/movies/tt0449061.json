@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/AWindowInLondon",
+      "id": "AWindowInLondon",
       "title": "A Window in London",
       "description": "“Part thriller, part emotional drama” “Between life and death in London” “Unusual murder mystery” (IMDB reviews quotes). A unique thriller with a good Anglo-Hungarian cast and views of life in London that unknowingly was on the eve of war. Good production values. Remake of the French drama “Metropolitain” (1939). IMDB rating 6.9. Directed by Herbert Mason. Released in 1940.. Complete print (original UK release). AKA “Lady in Distress”",
       "fileSize": 1072667886,
-      "id": "AWindowInLondon"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/AWindowInLondon",
+      "collection": "feature_films",
+      "downloads": 5522
     }
   ],
   "metadata": {
@@ -27,122 +31,18 @@
     "Awards": "1 win & 1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0856775",
-      "title": "Cafuné",
-      "year": 2005,
-      "imdbRating": 6.2,
-      "imdbVotes": 60,
-      "language": "Portuguese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0382810",
-      "title": "Little Fish",
-      "year": 2005,
-      "imdbRating": 6.1,
-      "imdbVotes": 9368,
-      "language": "English, Vietnamese",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0872022",
-      "title": "Heavenly Forest",
-      "year": 2006,
-      "imdbRating": 7.4,
-      "imdbVotes": 3653,
-      "language": "Japanese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0870944",
-      "title": "Tears for You",
-      "year": 2006,
-      "imdbRating": 6.7,
-      "imdbVotes": 1216,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0882791",
-      "title": "Nana 2",
-      "year": 2006,
-      "imdbRating": 6,
-      "imdbVotes": 1207,
-      "language": "Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0483726",
-      "title": "Man of the Year",
-      "year": 2006,
-      "imdbRating": 6.2,
-      "imdbVotes": 36553,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0814197",
-      "title": "Love & Dance",
-      "year": 2006,
-      "imdbRating": 6.9,
-      "imdbVotes": 299,
-      "language": "Hebrew",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0414993",
-      "title": "The Fountain",
-      "year": 2006,
-      "imdbRating": 7.1,
-      "imdbVotes": 255646,
-      "language": "English, Maya",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0425326",
-      "title": "Outsourced",
-      "year": 2006,
-      "imdbRating": 7,
-      "imdbVotes": 12386,
-      "language": "English, Hindi",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0315206",
-      "title": "Ball & Chain",
-      "year": 2004,
-      "imdbRating": 4.5,
-      "imdbVotes": 630,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "FilmRise Movies"
-    },
-    {
-      "imdbId": "tt0410297",
-      "title": "The Lake House",
-      "year": 2006,
-      "imdbRating": 6.8,
-      "imdbVotes": 162880,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0452594",
-      "title": "The Break-Up",
-      "year": 2006,
-      "imdbRating": 5.8,
-      "imdbVotes": 144078,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    }
+    "tt0856775",
+    "tt0382810",
+    "tt0872022",
+    "tt0870944",
+    "tt0882791",
+    "tt0483726",
+    "tt0814197",
+    "tt0414993",
+    "tt0425326",
+    "tt0315206",
+    "tt0410297",
+    "tt0452594"
   ],
   "collections": [],
   "is_curated": true,

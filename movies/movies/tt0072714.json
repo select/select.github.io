@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-cop-in-blue-jeans",
+      "id": "the-cop-in-blue-jeans",
       "title": "The Cop In Blue Jeans",
       "description": "An undercover police officer follows the trail of a series of purse snatchers to track down a crime lord accused of stealing five million dollars.",
       "fileSize": 965260889,
-      "id": "the-cop-in-blue-jeans"
+      "addedAt": "2026-01-07T00:11:57.682Z",
+      "thumbnail": "https://archive.org/services/img/the-cop-in-blue-jeans",
+      "collection": "feature_films",
+      "downloads": 9476
     }
   ],
   "metadata": {
@@ -27,116 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0071411",
-      "title": "Dersu Uzala",
-      "year": 1975,
-      "imdbRating": 8.2,
-      "imdbVotes": 35263,
-      "language": "Russian, Chinese",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0072613",
-      "title": "Afonya",
-      "year": 1975,
-      "imdbRating": 7.7,
-      "imdbVotes": 5439,
-      "language": "Russian",
-      "sourceType": "youtube",
-      "channelName": "Mosfilm"
-    },
-    {
-      "imdbId": "tt0072730",
-      "title": "A Boy and His Dog",
-      "year": 1975,
-      "imdbRating": 6.4,
-      "imdbVotes": 20560,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072615",
-      "title": "Against a Crooked Sky",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 773,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0071112",
-      "title": "El albañil",
-      "year": 1975,
-      "imdbRating": 5.7,
-      "imdbVotes": 37,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073418",
-      "title": "Murder on Flight 502",
-      "year": 1975,
-      "imdbRating": 5.4,
-      "imdbVotes": 932,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0299568",
-      "title": "Bodas de cristal",
-      "year": 1975,
-      "imdbRating": 7.2,
-      "imdbVotes": 9,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0325263",
-      "title": "Difunta Correa",
-      "year": 1975,
-      "imdbRating": 5.8,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189406",
-      "title": "El buho",
-      "year": 1975,
-      "imdbRating": 5.8,
-      "imdbVotes": 6,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072648",
-      "title": "Fear of Fear",
-      "year": 1975,
-      "imdbRating": 7.4,
-      "imdbVotes": 2031,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0073076",
-      "title": "Grey Gardens",
-      "year": 1975,
-      "imdbRating": 7.5,
-      "imdbVotes": 16059,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0072878",
-      "title": "La guerra del cerdo",
-      "year": 1975,
-      "imdbRating": 7.2,
-      "imdbVotes": 88,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0071411",
+    "tt0072613",
+    "tt0072730",
+    "tt0072615",
+    "tt0071112",
+    "tt0073418",
+    "tt0299568",
+    "tt0325263",
+    "tt0189406",
+    "tt0072648",
+    "tt0073076",
+    "tt0072878"
   ],
   "collections": [],
   "is_curated": true,

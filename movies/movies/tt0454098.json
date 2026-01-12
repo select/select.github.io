@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-hunting-marabout-in-abyssinia",
+      "id": "silent-hunting-marabout-in-abyssinia",
       "title": "Hunting Marabout in Abyssinia",
       "fileSize": 32167150,
-      "id": "silent-hunting-marabout-in-abyssinia"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-hunting-marabout-in-abyssinia",
+      "language": "French",
+      "year": 1912,
+      "collection": "feature_films",
+      "downloads": 406
     }
   ],
   "metadata": {
@@ -26,110 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt8646230",
-      "title": "Barcelone et son parc",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 40,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977594",
-      "title": "Panorama Na Grevena",
-      "year": 1911,
-      "imdbVotes": 110,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1187321",
-      "title": "Picturesque Colorado",
-      "year": 1911,
-      "imdbVotes": 8,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977612",
-      "title": "Romanska delegacija vo poseta na Bitola",
-      "year": 1911,
-      "imdbRating": 4.9,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977626",
-      "title": "Romanska delegacija vo poseta na Gopes",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 81,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977610",
-      "title": "Romanska delegacija vo poseta na Resen",
-      "year": 1911,
-      "imdbRating": 5,
-      "imdbVotes": 75,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977628",
-      "title": "Turskiot sultan Mehmed V Resad vo poseta na Bitola",
-      "year": 1911,
-      "imdbRating": 5.1,
-      "imdbVotes": 82,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977618",
-      "title": "Turskiot sultan Mehmed V Resad vo poseta na Solun",
-      "year": 1911,
-      "imdbRating": 5.3,
-      "imdbVotes": 77,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2977596",
-      "title": "Zakop na mitropolitot Emilijanos od Grevena",
-      "year": 1911,
-      "imdbRating": 4.8,
-      "imdbVotes": 82,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0001762",
-      "title": "Mrs. Pussy Loves Animals",
-      "year": 1911,
-      "imdbRating": 4.6,
-      "imdbVotes": 82,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0449817",
-      "title": "L'antique Tolède",
-      "year": 1912,
-      "imdbRating": 4.9,
-      "imdbVotes": 79,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt5328220",
-      "title": "Marvellous Melbourne",
-      "year": 1910,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt8646230",
+    "tt2977594",
+    "tt1187321",
+    "tt2977612",
+    "tt2977626",
+    "tt2977610",
+    "tt2977628",
+    "tt2977618",
+    "tt2977596",
+    "tt0001762",
+    "tt0449817",
+    "tt5328220"
   ],
   "collections": [],
   "is_curated": true,

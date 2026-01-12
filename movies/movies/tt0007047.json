@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-matrimaniac",
+      "id": "silent-the-matrimaniac",
       "title": "The Matrimaniac",
       "fileSize": 679164377,
-      "id": "silent-the-matrimaniac"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-matrimaniac",
+      "year": 1916,
+      "collection": "feature_films",
+      "downloads": 352
     }
   ],
   "metadata": {
@@ -26,114 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0007031",
-      "title": "Manhattan Madness",
-      "year": 1916,
-      "imdbRating": 6,
-      "imdbVotes": 102,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007873",
-      "title": "Down to Earth",
-      "year": 1917,
-      "imdbRating": 6.3,
-      "imdbVotes": 82,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008775",
-      "title": "Wild and Woolly",
-      "year": 1917,
-      "imdbRating": 6.4,
-      "imdbVotes": 675,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008822",
-      "title": "All Night",
-      "year": 1918,
-      "imdbRating": 6,
-      "imdbVotes": 105,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009142",
-      "title": "He Comes Up Smiling",
-      "year": 1918,
-      "imdbRating": 6.2,
-      "imdbVotes": 65,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006414",
-      "title": "Behind the Screen",
-      "year": 1916,
-      "imdbRating": 6.9,
-      "imdbVotes": 3173,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006826",
-      "title": "Hoodoo Ann",
-      "year": 1916,
-      "imdbRating": 5.9,
-      "imdbVotes": 903,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0007567",
-      "title": "Wife and Auto Trouble",
-      "year": 1916,
-      "imdbRating": 5.3,
-      "imdbVotes": 197,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010806",
-      "title": "True Heart Susie",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 2034,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0010879",
-      "title": "When the Clouds Roll by",
-      "year": 1919,
-      "imdbRating": 6.9,
-      "imdbVotes": 1005,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0464747",
-      "title": "Those Bitter Sweets",
-      "year": 1915,
-      "imdbRating": 4.6,
-      "imdbVotes": 41,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0011588",
-      "title": "Pollyanna",
-      "year": 1920,
-      "imdbRating": 6.4,
-      "imdbVotes": 489,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0007031",
+    "tt0007873",
+    "tt0008775",
+    "tt0008822",
+    "tt0009142",
+    "tt0006414",
+    "tt0006826",
+    "tt0007567",
+    "tt0010806",
+    "tt0010879",
+    "tt0464747",
+    "tt0011588"
   ],
   "collections": [],
   "is_curated": true,

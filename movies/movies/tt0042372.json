@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/dallas-1950",
+      "id": "dallas-1950",
       "title": "Dallas (1950) Gary Cooper · Ruth Roman · Barbara Payton",
       "description": "Gary Cooper, a Southerner, ensures law and order in Dallas...",
       "fileSize": 683986933,
-      "id": "dallas-1950"
+      "addedAt": "2026-01-07T00:07:51.627Z",
+      "thumbnail": "https://archive.org/services/img/dallas-1950",
+      "language": "eng",
+      "year": 1950,
+      "collection": "feature_films",
+      "downloads": 274
     }
   ],
   "metadata": {
@@ -27,115 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041994",
-      "title": "Tulsa",
-      "year": 1949,
-      "imdbRating": 6.1,
-      "imdbVotes": 1372,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037508",
-      "title": "Along Came Jones",
-      "year": 1945,
-      "imdbRating": 6.5,
-      "imdbVotes": 2468,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041967",
-      "title": "Tokyo Joe",
-      "year": 1949,
-      "imdbRating": 6.3,
-      "imdbVotes": 2918,
-      "language": "English, Japanese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045184",
-      "title": "Springfield Rifle",
-      "year": 1952,
-      "imdbRating": 6.6,
-      "imdbVotes": 2338,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042232",
-      "title": "Battling Marshal",
-      "year": 1950,
-      "imdbRating": 7.9,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042383",
-      "title": "Davy Crockett, Indian Scout",
-      "year": 1950,
-      "imdbRating": 5.4,
-      "imdbVotes": 376,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042552",
-      "title": "High Lonesome",
-      "year": 1950,
-      "imdbRating": 5.3,
-      "imdbVotes": 322,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043013",
-      "title": "The Sundowners",
-      "year": 1950,
-      "imdbRating": 5.6,
-      "imdbVotes": 567,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042782",
-      "title": "The Nevadan",
-      "year": 1950,
-      "imdbRating": 6.3,
-      "imdbVotes": 1311,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042313",
-      "title": "The Capture",
-      "year": 1950,
-      "imdbRating": 5.9,
-      "imdbVotes": 680,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042286",
-      "title": "Broken Arrow",
-      "year": 1950,
-      "imdbRating": 7.1,
-      "imdbVotes": 10555,
-      "language": "English, Apache languages",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042224",
-      "title": "Bandit Queen",
-      "year": 1950,
-      "imdbRating": 5.8,
-      "imdbVotes": 113,
-      "language": "Spanish, English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0041994",
+    "tt0037508",
+    "tt0041967",
+    "tt0045184",
+    "tt0042232",
+    "tt0042383",
+    "tt0042552",
+    "tt0043013",
+    "tt0042782",
+    "tt0042313",
+    "tt0042286",
+    "tt0042224"
   ],
   "collections": [],
   "is_curated": true,

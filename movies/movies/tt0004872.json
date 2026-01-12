@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-alias-jimmy-valentine",
+      "id": "silent-alias-jimmy-valentine",
       "title": "Alias Jimmy Valentine",
       "fileSize": 1481503117,
-      "id": "silent-alias-jimmy-valentine"
+      "addedAt": "2026-01-07T00:10:50.368Z",
+      "thumbnail": "https://archive.org/services/img/silent-alias-jimmy-valentine",
+      "language": "English",
+      "year": 1915,
+      "collection": "feature_films",
+      "downloads": 632
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0004825",
-      "title": "The Wishing Ring: An Idyll of Old England",
-      "year": 1914,
-      "imdbRating": 6.5,
-      "imdbVotes": 323,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002198",
-      "title": "Le friquet",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 29,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008443",
-      "title": "The Poor Little Rich Girl",
-      "year": 1917,
-      "imdbRating": 6.7,
-      "imdbVotes": 1573,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0493556",
-      "title": "La bergère d'Ivry",
-      "year": 1913,
-      "imdbRating": 6.2,
-      "imdbVotes": 38,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0008764",
-      "title": "The Whip",
-      "year": 1917,
-      "imdbRating": 5.5,
-      "imdbVotes": 61,
-      "language": "None",
-      "sourceType": "youtube",
-      "channelName": "Cult Cinema Classics"
-    },
-    {
-      "imdbId": "tt0173837",
-      "title": "Filibus",
-      "year": 1915,
-      "imdbRating": 6.5,
-      "imdbVotes": 431,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005960",
-      "title": "The Regeneration",
-      "year": 1915,
-      "imdbRating": 6.8,
-      "imdbVotes": 1464,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003643",
-      "title": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 1502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0005529",
-      "title": "Blind Justice",
-      "year": 1916,
-      "imdbRating": 6.7,
-      "imdbVotes": 425,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003952",
-      "title": "Fantômas: The False Magistrate",
-      "year": 1914,
-      "imdbRating": 6.7,
-      "imdbVotes": 1231,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006745",
-      "title": "Gretchen the Greenhorn",
-      "year": 1916,
-      "imdbRating": 6.4,
-      "imdbVotes": 523,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0004555",
-      "title": "Salomy Jane",
-      "year": 1914,
-      "imdbRating": 5.9,
-      "imdbVotes": 78,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0004825",
+    "tt0002198",
+    "tt0008443",
+    "tt0493556",
+    "tt0008764",
+    "tt0173837",
+    "tt0005960",
+    "tt0003643",
+    "tt0005529",
+    "tt0003952",
+    "tt0006745",
+    "tt0004555"
   ],
   "collections": [],
   "is_curated": true,

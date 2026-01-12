@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/Reet_Petite_and_Gone",
+      "id": "Reet_Petite_and_Gone",
       "title": "Reet, Petite and Gone",
       "description": "There isn't so much story here that it gets in the way of the music. If you're a Louis Jordan fan, this one's for you. This one's all about the music, with three full Louis Jordan swing numbers before the storyline even starts. In a 67-minute running you get 14 songs by Louis with his Tympany Five, June Richmond, Mabel Lee, and Bea Griffith.",
       "fileSize": 1917179490,
-      "id": "Reet_Petite_and_Gone"
+      "addedAt": "2026-01-07T00:06:51.866Z",
+      "thumbnail": "https://archive.org/services/img/Reet_Petite_and_Gone",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 23197
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/reet-petite-and-gone-1947",
+      "id": "reet-petite-and-gone-1947",
       "title": "Reet, Petite, and Gone (1947)",
       "description": "Old-time musical star Schyler Jarvis, now wealthy, is dying; his last act is a visionary plan for the future happiness of his son, swing bandleader Louis Jarvis, and Honey Carter, daughter of his long-lost love. But crooked lawyer Talbot has a nefarious scheme to get his hands on the Jarvis money...and it doesn't include any happiness for Louis and Honey. Plenty of swing from Louis Jordan's Tympany Five. Watch on RetroFlix:  https://retroflix.org/reet-petite-and-gone-1947/",
       "fileSize": 437663377,
-      "id": "reet-petite-and-gone-1947"
+      "addedAt": "2026-01-07T00:10:30.753Z",
+      "thumbnail": "https://archive.org/services/img/reet-petite-and-gone-1947",
+      "language": "eng",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 63
     }
   ],
   "metadata": {
@@ -35,112 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0039365",
-      "title": "The Fabulous Dorseys",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 642,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174168",
-      "title": "The Road to Hollywood",
-      "year": 1947,
-      "imdbRating": 4.7,
-      "imdbVotes": 192,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039812",
-      "title": "Sepia Cinderella",
-      "year": 1947,
-      "imdbRating": 5.4,
-      "imdbVotes": 136,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135169",
-      "title": "Boy! What a Girl!",
-      "year": 1947,
-      "imdbRating": 5.6,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039236",
-      "title": "Calendar Girl",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 285,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039337",
-      "title": "Down to Earth",
-      "year": 1947,
-      "imdbRating": 6.1,
-      "imdbVotes": 1767,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0143291",
-      "title": "El hombre del sábado",
-      "year": 1947,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039460",
-      "title": "Hi De Ho",
-      "year": 1947,
-      "imdbRating": 5.8,
-      "imdbVotes": 329,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039776",
-      "title": "Road to Rio",
-      "year": 1947,
-      "imdbRating": 6.9,
-      "imdbVotes": 3677,
-      "language": "Portuguese, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039188",
-      "title": "Bill and Coo",
-      "year": 1948,
-      "imdbRating": 5.5,
-      "imdbVotes": 322,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040176",
-      "title": "Boarding House Blues",
-      "year": 1948,
-      "imdbRating": 6.6,
-      "imdbVotes": 158,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038480",
-      "title": "Dirty Gertie from Harlem U.S.A.",
-      "year": 1946,
-      "imdbRating": 5.2,
-      "imdbVotes": 327,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0039365",
+    "tt0174168",
+    "tt0039812",
+    "tt0135169",
+    "tt0039236",
+    "tt0039337",
+    "tt0143291",
+    "tt0039460",
+    "tt0039776",
+    "tt0039188",
+    "tt0040176",
+    "tt0038480"
   ],
   "collections": [],
   "is_curated": true,

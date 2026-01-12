@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-shine-em-up",
+      "id": "silent-shine-em-up",
       "title": "Shine 'em Up!",
       "fileSize": 221695948,
-      "id": "silent-shine-em-up"
+      "addedAt": "2026-01-07T00:11:15.973Z",
+      "thumbnail": "https://archive.org/services/img/silent-shine-em-up",
+      "language": "English",
+      "year": 1922,
+      "collection": "feature_films",
+      "downloads": 316
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0011545",
-      "title": "Oranges and Lemons",
-      "year": 1923,
-      "imdbRating": 5.7,
-      "imdbVotes": 504,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013025",
-      "title": "Cops",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 7075,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012543",
-      "title": "The Paleface",
-      "year": 1922,
-      "imdbRating": 6.8,
-      "imdbVotes": 3429,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013055",
-      "title": "Day Dreams",
-      "year": 1922,
-      "imdbRating": 6.8,
-      "imdbVotes": 2738,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013416",
-      "title": "Mud and Sand",
-      "year": 1922,
-      "imdbRating": 5.7,
-      "imdbVotes": 420,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013422",
-      "title": "My Wife's Relations",
-      "year": 1922,
-      "imdbRating": 6.6,
-      "imdbVotes": 2465,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0248433",
-      "title": "The Show",
-      "year": 1922,
-      "imdbRating": 5.8,
-      "imdbVotes": 147,
-      "language": "English, None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012945",
-      "title": "The Blacksmith",
-      "year": 1922,
-      "imdbRating": 6.8,
-      "imdbVotes": 3137,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013099",
-      "title": "The Electric House",
-      "year": 1922,
-      "imdbRating": 7.1,
-      "imdbVotes": 3216,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013158",
-      "title": "The Frozen North",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 2700,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012646",
-      "title": "The Sawmill",
-      "year": 1922,
-      "imdbRating": 5.8,
-      "imdbVotes": 255,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013472",
-      "title": "Our Gang",
-      "year": 1922,
-      "imdbRating": 7.6,
-      "imdbVotes": 558,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0011545",
+    "tt0013025",
+    "tt0012543",
+    "tt0013055",
+    "tt0013416",
+    "tt0013422",
+    "tt0248433",
+    "tt0012945",
+    "tt0013099",
+    "tt0013158",
+    "tt0012646",
+    "tt0013472"
   ],
   "collections": [],
   "is_curated": true,

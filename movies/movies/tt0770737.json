@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ADayCalledx",
+      "id": "ADayCalledx",
       "title": "A Day Called \"X\"",
       "description": "The complete CBS nuclear disaster preparation special.",
       "fileSize": 626310810,
-      "id": "ADayCalledx"
+      "addedAt": "2026-01-07T00:06:09.633Z",
+      "thumbnail": "https://archive.org/services/img/ADayCalledx",
+      "collection": "feature_films",
+      "downloads": 15794
     }
   ],
   "metadata": {
@@ -27,109 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt6963416",
-      "title": "Zoo am Rande der Nordsee",
-      "year": 1957,
-      "language": "German",
-      "sourceType": "youtube",
-      "channelName": "Moviedome"
-    },
-    {
-      "imdbId": "tt0499562",
-      "title": "The Secret Life of Adolf Hitler",
-      "year": 1958,
-      "imdbRating": 6.3,
-      "imdbVotes": 137,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt32880563",
-      "title": "Management of Mass Casualties, Part X: Management of Psychological Casualties",
-      "year": 1958,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0443784",
-      "title": "Working Dollars",
-      "year": 1956,
-      "imdbRating": 4.9,
-      "imdbVotes": 19,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0135628",
-      "title": "Rhythm and Blues Revue",
-      "year": 1955,
-      "imdbRating": 7,
-      "imdbVotes": 140,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt36044509",
-      "title": "Long John Silver - Ahoy!",
-      "year": 1954,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0044493",
-      "title": "Champagne Safari",
-      "year": 1954,
-      "imdbRating": 6.8,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt4860278",
-      "title": "Rocky Marciano, Champion vs. Jersey Joe Walcott, Challenger",
-      "year": 1953,
-      "imdbVotes": 11,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0212082",
-      "title": "Das war unser Rommel",
-      "year": 1953,
-      "imdbRating": 8.1,
-      "imdbVotes": 20,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0048789",
-      "title": "The Violent Men",
-      "year": 1955,
-      "imdbRating": 6.9,
-      "imdbVotes": 3456,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0247568",
-      "title": "Nazi Concentration and Prison Camps",
-      "year": 1945,
-      "imdbRating": 8.3,
-      "imdbVotes": 1690,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0173731",
-      "title": "Christmas at Home",
-      "year": 1990,
-      "imdbRating": 8.2,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    }
+    "tt6963416",
+    "tt0499562",
+    "tt32880563",
+    "tt0443784",
+    "tt0135628",
+    "tt0050086",
+    "tt36044509",
+    "tt0044493",
+    "tt4860278",
+    "tt0212082",
+    "tt0048789",
+    "tt0247568"
   ],
   "collections": [],
   "is_curated": true,

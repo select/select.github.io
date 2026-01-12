@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the_law_rides",
+      "id": "the_law_rides",
       "title": "Law Rides, The",
       "description": "You can find more information regarding this film on its IMDb page .",
       "fileSize": 3513733522,
-      "id": "the_law_rides"
+      "addedAt": "2026-01-07T00:12:44.280Z",
+      "thumbnail": "https://archive.org/services/img/the_law_rides",
+      "year": 1936,
+      "collection": "feature_films",
+      "downloads": 27683
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=UkfJ2xWNBe4",
+      "id": "UkfJ2xWNBe4",
       "title": "The Law Rides (1936) BOB STEELE",
       "description": "Stars: Bob Steele, Harley Wood, Buck Connors \nDirector: Robert N. Bradbury\n\nHank Davis kills Jack Lewis to get his gold mine. Bruce Conway brings him in but then realizes Davis is the only one that knows where the mine is. Bruce and his pal Whitey rescue Davis from the lynch mob only to have Davis' gang catch them and leave them in the desert to die.",
-      "id": "UkfJ2xWNBe4",
+      "addedAt": "2025-12-26T23:50:34.644Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/UkfJ2xWNBe4/maxresdefault.webp",
+      "duration": 3383,
+      "language": "en",
+      "year": 1936,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -36,117 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0026052",
-      "title": "Alias John Law",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 114,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026785",
-      "title": "No Man's Range",
-      "year": 1935,
-      "imdbRating": 6.1,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027393",
-      "title": "Brand of the Outlaws",
-      "year": 1936,
-      "imdbRating": 5.7,
-      "imdbVotes": 64,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027436",
-      "title": "Cavalry",
-      "year": 1936,
-      "imdbRating": 6,
-      "imdbVotes": 112,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028968",
-      "title": "The Gun Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027870",
-      "title": "Last of the Warrens",
-      "year": 1936,
-      "imdbRating": 6.3,
-      "imdbVotes": 86,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027842",
-      "title": "The Kid Ranger",
-      "year": 1936,
-      "imdbRating": 6.2,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0026114",
-      "title": "Big Calibre",
-      "year": 1935,
-      "imdbRating": 5.6,
-      "imdbVotes": 71,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026929",
-      "title": "The Rider of the Law",
-      "year": 1935,
-      "imdbRating": 6,
-      "imdbVotes": 88,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028324",
-      "title": "Sundown Saunders",
-      "year": 1935,
-      "imdbRating": 5.9,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0027015",
-      "title": "Smokey Smith",
-      "year": 1935,
-      "imdbRating": 6.5,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0027128",
-      "title": "Trail of Terror",
-      "year": 1935,
-      "imdbRating": 6.7,
-      "imdbVotes": 56,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0026052",
+    "tt0026785",
+    "tt0027393",
+    "tt0027436",
+    "tt0028968",
+    "tt0027870",
+    "tt0027842",
+    "tt0026114",
+    "tt0026929",
+    "tt0028324",
+    "tt0027015",
+    "tt0027128"
   ],
   "collections": [],
   "is_curated": true,

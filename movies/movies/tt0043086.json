@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/under-the-gun-1951",
+      "id": "under-the-gun-1951",
       "title": "Under The Gun (1951)",
       "description": "Richard Conte, Audrey Totter",
       "fileSize": 1193915950,
-      "id": "under-the-gun-1951"
+      "addedAt": "2026-01-07T00:12:55.131Z",
+      "thumbnail": "https://archive.org/services/img/under-the-gun-1951",
+      "collection": "feature_films",
+      "downloads": 2096
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0041527",
-      "title": "Johnny Allegro",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 777,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043646",
-      "title": "Hollywood Story",
-      "year": 1951,
-      "imdbRating": 6.7,
-      "imdbVotes": 1060,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043516",
-      "title": "F.B.I. Girl",
-      "year": 1951,
-      "imdbRating": 6,
-      "imdbVotes": 323,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042039",
-      "title": "Whirlpool",
-      "year": 1950,
-      "imdbRating": 6.7,
-      "imdbVotes": 4900,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041958",
-      "title": "Thieves' Highway",
-      "year": 1949,
-      "imdbRating": 7.5,
-      "imdbVotes": 7130,
-      "language": "English, Italian, Greek",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041487",
-      "title": "House of Strangers",
-      "year": 1949,
-      "imdbRating": 7.3,
-      "imdbVotes": 4307,
-      "language": "English, Italian",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0045564",
-      "title": "The Blue Gardenia",
-      "year": 1953,
-      "imdbRating": 6.8,
-      "imdbVotes": 6423,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0046036",
-      "title": "Man in the Dark",
-      "year": 1953,
-      "imdbRating": 6.2,
-      "imdbVotes": 830,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042046",
-      "title": "The Window",
-      "year": 1949,
-      "imdbRating": 7.4,
-      "imdbVotes": 5025,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Movie Central"
-    },
-    {
-      "imdbId": "tt0044364",
-      "title": "Another Man's Poison",
-      "year": 1951,
-      "imdbRating": 6.8,
-      "imdbVotes": 3699,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043435",
-      "title": "Cry Danger",
-      "year": 1951,
-      "imdbRating": 7.3,
-      "imdbVotes": 3004,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043390",
-      "title": "Cause for Alarm!",
-      "year": 1951,
-      "imdbRating": 6.4,
-      "imdbVotes": 2709,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0041527",
+    "tt0043646",
+    "tt0043516",
+    "tt0042039",
+    "tt0041958",
+    "tt0041487",
+    "tt0045564",
+    "tt0046036",
+    "tt0042046",
+    "tt0044364",
+    "tt0043435",
+    "tt0043390"
   ],
   "collections": [],
   "is_curated": true,

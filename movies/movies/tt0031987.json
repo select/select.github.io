@@ -6,17 +6,28 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/streets-of-new-york-1939",
+      "id": "streets-of-new-york-1939",
       "title": "Streets of New York (1939)",
       "description": "Jimmy, an idealistic and hard-working young man, has just arrived in New York City with dreams of making his fortune. Along the way he faces numerous obstacles, opportunities and temptations, but through it all, he considers the actions of his hero, Abraham Lincoln, for guidance. Will Jimmy see his dreams come true, or will he be another of the countless hopefuls chewed up and spit out by New York's mean streets? Watch on RetroFlix:  https://retroflix.org/streets-of-new-york-1939/",
       "fileSize": 401979756,
-      "id": "streets-of-new-york-1939"
+      "addedAt": "2026-01-07T00:11:35.630Z",
+      "thumbnail": "https://archive.org/services/img/streets-of-new-york-1939",
+      "language": "eng",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 94
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=SGcQ6-he_8A",
+      "id": "SGcQ6-he_8A",
       "title": "Streets of New York (1939) The story of a kid who was tough enough to go straight!",
       "description": "Jimmy Keenan (Jackie Cooper) battles to stay on the straight and narrow, fending off gang pressure and his criminal brother Tap (Dick Purcell) while chasing his dream of becoming a lawyer. When Tap’s crimes hit too close to home, Jimmy takes a stand, proving he’s tougher than the streets trying to break him.\n\nOriginal title: Streets of New York (1939) \n\nColorized version: https://youtu.be/WNMkGHUXdpI\n\n\nDirector: William Nigh https://www.youtube.com/playlist?list=PL2gsu7VGzgdZXzNlrriwdV2VH5iA9980j\nWriter: Robert Hardy Andrews\nActors: Jackie Cooper, Martin Spellman, Marjorie Reynolds, Dick Purcell\n\nGenres: Action, Crime, Drama\nRelease date: April 12, 1939\nFilming location: United States\n\n\n@CultCinemaClassics",
-      "id": "SGcQ6-he_8A",
+      "addedAt": "2025-12-27T00:31:47.355Z",
+      "thumbnail": "https://i.ytimg.com/vi_webp/SGcQ6-he_8A/maxresdefault.webp?v=67e0a709",
+      "duration": 4104,
+      "language": "en",
+      "year": 1939,
       "channelName": "Cult Cinema Classics",
       "channelId": "UCycDFnpMeWzaITQSD1dWsOA"
     }
@@ -36,114 +47,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0031680",
-      "title": "Mr. Wong in Chinatown",
-      "year": 1939,
-      "imdbRating": 5.8,
-      "imdbVotes": 975,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030253",
-      "title": "I Am a Criminal",
-      "year": 1938,
-      "imdbRating": 5.7,
-      "imdbVotes": 69,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026458",
-      "title": "The Headline Woman",
-      "year": 1935,
-      "imdbRating": 5.8,
-      "imdbVotes": 135,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029941",
-      "title": "Boy of the Streets",
-      "year": 1937,
-      "imdbRating": 5.7,
-      "imdbVotes": 183,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034164",
-      "title": "Secret Evidence",
-      "year": 1941,
-      "imdbRating": 4.6,
-      "imdbVotes": 75,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031690",
-      "title": "Mutiny in the Big House",
-      "year": 1939,
-      "imdbRating": 5.2,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0030473",
-      "title": "Mr. Wong, Detective",
-      "year": 1938,
-      "imdbRating": 6,
-      "imdbVotes": 1262,
-      "language": "English, Cantonese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028592",
-      "title": "Atlantic Flight",
-      "year": 1937,
-      "imdbRating": 4.6,
-      "imdbVotes": 92,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028634",
-      "title": "Bill Cracks Down",
-      "year": 1937,
-      "imdbRating": 5.6,
-      "imdbVotes": 108,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032784",
-      "title": "Mercy Plane",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0031680",
+    "tt0032404",
+    "tt0030253",
+    "tt0026458",
+    "tt0029941",
+    "tt0034164",
+    "tt0031690",
+    "tt0030473",
+    "tt0028592",
+    "tt0028634",
+    "tt0033822",
+    "tt0032784"
   ],
   "collections": [],
   "is_curated": true,

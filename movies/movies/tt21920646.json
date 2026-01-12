@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/unfinished_task",
+      "id": "unfinished_task",
       "title": "Unfinished Task",
       "description": "Also known as \"I'll Give My Life\" You can find more information regarding this film on its IMDb page .",
       "fileSize": 5297178307,
-      "id": "unfinished_task"
+      "addedAt": "2026-01-07T00:12:55.132Z",
+      "thumbnail": "https://archive.org/services/img/unfinished_task",
+      "year": 1960,
+      "collection": "feature_films",
+      "downloads": 9927
     },
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=GykuDNYG9cE",
+      "id": "GykuDNYG9cE",
       "title": "Unfinished Task (1960) ANGIE DICKINSON",
       "description": "Stars: Ray Collins, John Bryant, Angie Dickinson\nDirector: William F. Claxton\n\nThe head of a successful engineering firm expects his son Bryan to join him at the firm, but gets the shock of his life when Bryant tells him that after his war service he plans to go to the seminary and become a minister. (a.k.a I'll Give My Life)",
-      "id": "GykuDNYG9cE",
+      "addedAt": "2025-12-26T23:44:24.384Z",
+      "thumbnail": "https://i.ytimg.com/vi/GykuDNYG9cE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGQBYAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLC7KT4iO8S2Mbf0uR9octsOnh7tiA",
+      "duration": 4263,
+      "language": "en",
+      "year": 1960,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     }
@@ -35,103 +45,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0055001",
-      "title": "I'll Give My Life",
-      "year": 1960,
-      "imdbRating": 5.9,
-      "imdbVotes": 98,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0182689",
-      "title": "Álamos talados",
-      "year": 1960,
-      "imdbRating": 7.4,
-      "imdbVotes": 10,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0186324",
-      "title": "Luna Park",
-      "year": 1960,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043275",
-      "title": "All That I Have",
-      "year": 1951,
-      "imdbRating": 6.2,
-      "imdbVotes": 42,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0201507",
-      "title": "Campo virgen",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0201567",
-      "title": "El dinero de Dios",
-      "year": 1959,
-      "imdbRating": 6.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0189510",
-      "title": "Evangelina",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0195227",
-      "title": "Salitre",
-      "year": 1959,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt24820646",
-      "title": "West Side Story (1961)",
-      "year": 1961,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0051526",
-      "title": "Del cuplé al tango",
-      "year": 1958,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0050310",
-      "title": "Detrás de un largo muro",
-      "year": 1958,
-      "imdbRating": 7.1,
-      "imdbVotes": 20,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0144177",
-      "title": "Dos basuras",
-      "year": 1958,
-      "imdbRating": 5.3,
-      "imdbVotes": 8,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    }
+    "tt0055001",
+    "tt0182689",
+    "tt0186324",
+    "tt0043275",
+    "tt0201507",
+    "tt0201567",
+    "tt0189510",
+    "tt0195227",
+    "tt24820646",
+    "tt0051526",
+    "tt0050310",
+    "tt0144177"
   ],
   "collections": [],
   "is_curated": true,

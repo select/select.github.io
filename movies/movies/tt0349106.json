@@ -6,17 +6,27 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ask-dad_1929",
+      "id": "ask-dad_1929",
       "title": "Ask Dad",
       "fileSize": 1120820783,
-      "id": "ask-dad_1929"
+      "addedAt": "2026-01-07T00:07:25.000Z",
+      "thumbnail": "https://archive.org/services/img/ask-dad_1929",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 67
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/ask_dad",
+      "id": "ask_dad",
       "title": "Ask Dad",
       "description": "Comedic short starring Edward Everett Horton. You can find more information regarding this film on its IMDb page .",
       "fileSize": 1339337070,
-      "id": "ask_dad"
+      "addedAt": "2026-01-07T00:07:31.710Z",
+      "thumbnail": "https://archive.org/services/img/ask_dad",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 62797
     }
   ],
   "metadata": {
@@ -34,112 +44,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0314115",
-      "title": "Good Night Nurse",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 21,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146563",
-      "title": "A Close Call",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 68,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0174101",
-      "title": "A Pair of Tights",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 151,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0329729",
-      "title": "The Varsity Drag",
-      "year": 1929,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1706294",
-      "title": "After the Round-Up",
-      "year": 1929,
-      "imdbRating": 3.8,
-      "imdbVotes": 13,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1698474",
-      "title": "Al Lyons and His Four Horsemen",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146423",
-      "title": "Alpine Antics",
-      "year": 1929,
-      "imdbRating": 7.2,
-      "imdbVotes": 48,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019640",
-      "title": "Angora Love",
-      "year": 1929,
-      "imdbRating": 6.8,
-      "imdbVotes": 961,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1893199",
-      "title": "At the Party",
-      "year": 1929,
-      "imdbRating": 4.3,
-      "imdbVotes": 12,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0430596",
-      "title": "At the Seashore",
-      "year": 1929,
-      "imdbRating": 5.8,
-      "imdbVotes": 54,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019670",
-      "title": "Bacon Grabbers",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 786,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019688",
-      "title": "Big Business",
-      "year": 1929,
-      "imdbRating": 7.6,
-      "imdbVotes": 3445,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0314115",
+    "tt0146563",
+    "tt0174101",
+    "tt0329729",
+    "tt1706294",
+    "tt1698474",
+    "tt0146423",
+    "tt0019640",
+    "tt1893199",
+    "tt0430596",
+    "tt0019670",
+    "tt0019688"
   ],
   "collections": [],
   "is_curated": true,

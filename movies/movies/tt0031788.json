@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1939-parkstrasse-13-olga-tschechowa-hilde-hildebrand-curt-vespermann-theodor-loos-hans-brausewetter",
+      "id": "1939-parkstrasse-13-olga-tschechowa-hilde-hildebrand-curt-vespermann-theodor-loos-hans-brausewetter",
       "title": "1939 Parkstraße 13 ( Olga Tschechowa, Hilde Hildebrand, Curt Vespermann, Theodor Loos, Hans Brausewetter)",
       "description": "Film aus dem deutschen dritten Reich von 1939. Parkstrasse 13. U.a mit Olga Tschechowa und Theodor Loos ",
       "fileSize": 1744520449,
-      "id": "1939-parkstrasse-13-olga-tschechowa-hilde-hildebrand-curt-vespermann-theodor-loos-hans-brausewetter"
+      "addedAt": "2026-01-07T00:06:02.057Z",
+      "thumbnail": "https://archive.org/services/img/1939-parkstrasse-13-olga-tschechowa-hilde-hildebrand-curt-vespermann-theodor-loos-hans-brausewetter",
+      "language": "ger",
+      "year": 1939,
+      "collection": "feature_films",
+      "downloads": 193
     }
   ],
   "metadata": {
@@ -27,110 +33,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0131410",
-      "title": "Das Gewehr über",
-      "year": 1939,
-      "imdbRating": 6.7,
-      "imdbVotes": 23,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0131567",
-      "title": "Roman eines Arztes",
-      "year": 1939,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0029095",
-      "title": "Die Kronzeugin",
-      "year": 1937,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033334",
-      "title": "Am Abend auf der Heide",
-      "year": 1941,
-      "imdbRating": 6.3,
-      "imdbVotes": 11,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031068",
-      "title": "Back Door to Heaven",
-      "year": 1939,
-      "imdbRating": 6,
-      "imdbVotes": 177,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032022",
-      "title": "They Made Me a Criminal",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 2630,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031338",
-      "title": "Frau im Strom",
-      "year": 1939,
-      "imdbRating": 8,
-      "imdbVotes": 8,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031490",
-      "title": "Inspector Hornleigh on Holiday",
-      "year": 1939,
-      "imdbRating": 6.8,
-      "imdbVotes": 254,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031505",
-      "title": "Jamaica Inn",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 11887,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0033822",
-      "title": "Law of the Wolf",
-      "year": 1939,
-      "imdbRating": 4.2,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032784",
-      "title": "Mercy Plane",
-      "year": 1939,
-      "imdbRating": 5.3,
-      "imdbVotes": 37,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031668",
-      "title": "Moon Over Harlem",
-      "year": 1939,
-      "imdbRating": 4.8,
-      "imdbVotes": 229,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0131410",
+    "tt0131567",
+    "tt0029095",
+    "tt0033334",
+    "tt0031068",
+    "tt0032022",
+    "tt0031338",
+    "tt0031490",
+    "tt0031505",
+    "tt0033822",
+    "tt0032784",
+    "tt0031668"
   ],
   "collections": [],
   "is_curated": true,

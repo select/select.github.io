@@ -6,19 +6,29 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=8VBDpMOgmlE",
+      "id": "8VBDpMOgmlE",
       "title": "Night Work (1930) PRE-CODE HOLLYWOOD",
       "description": "Stars: Eddie Quillan, Sally Starr, Frances Upton \nDirector: Russell Mack\n\nAn assistant window-dresser, inadvertently adopts a four-year-old orphan at a cost of ten-dollars a week, but Willie doesn't make ten-dollars a week. With the help of a beautiful young nurse, our hero manages to turn some corners and improve his life, albeit with some skids along the way.",
-      "id": "8VBDpMOgmlE",
+      "addedAt": "2025-12-26T23:46:49.815Z",
+      "thumbnail": "https://i.ytimg.com/vi/8VBDpMOgmlE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCsIgIDOf9rUULdUWdmy1D3Dov1Ug",
+      "duration": 4993,
+      "language": "en",
+      "year": 1930,
       "channelName": "PizzaFlix",
       "channelId": "UCE34fwgW7kWr7tc7YiOWtRw"
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/NightWork1930EddieQuillanSallyStarrFrancesUpton",
+      "id": "NightWork1930EddieQuillanSallyStarrFrancesUpton",
       "title": "Night Work 1930 Eddie Quillan, Sally Starr, Frances Upton",
       "description": "Night Work 1930 Eddie Quillan, Sally Starr, Frances Upton",
       "fileSize": 1690103513,
-      "id": "NightWork1930EddieQuillanSallyStarrFrancesUpton"
+      "addedAt": "2026-01-07T00:06:45.464Z",
+      "thumbnail": "https://archive.org/services/img/NightWork1930EddieQuillanSallyStarrFrancesUpton",
+      "year": 1930,
+      "collection": "feature_films",
+      "downloads": 2815
     }
   ],
   "metadata": {
@@ -36,114 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0022086",
-      "title": "Lonely Wives",
-      "year": 1931,
-      "imdbRating": 6.2,
-      "imdbVotes": 478,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021133",
-      "title": "Maybe It's Love",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 356,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021233",
-      "title": "Pardon My Gun",
-      "year": 1930,
-      "imdbRating": 4.3,
-      "imdbVotes": 67,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024808",
-      "title": "365 Nights in Hollywood",
-      "year": 1934,
-      "imdbRating": 5.7,
-      "imdbVotes": 166,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0026019",
-      "title": "Young and Beautiful",
-      "year": 1934,
-      "imdbRating": 5.4,
-      "imdbVotes": 333,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031440",
-      "title": "Honeymoon in Bali",
-      "year": 1939,
-      "imdbRating": 6.3,
-      "imdbVotes": 436,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020809",
-      "title": "Dangerous Nan McGrew",
-      "year": 1930,
-      "imdbRating": 4.7,
-      "imdbVotes": 80,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020828",
-      "title": "Dixiana",
-      "year": 1930,
-      "imdbRating": 5.2,
-      "imdbVotes": 440,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034730",
-      "title": "Fiesta",
-      "year": 1941,
-      "imdbRating": 4.8,
-      "imdbVotes": 150,
-      "language": "Spanish, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028999",
-      "title": "High Hat",
-      "year": 1937,
-      "imdbRating": 6.2,
-      "imdbVotes": 40,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020988",
-      "title": "Hot Curves",
-      "year": 1930,
-      "imdbRating": 5,
-      "imdbVotes": 53,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0021287",
-      "title": "Reaching for the Moon",
-      "year": 1930,
-      "imdbRating": 5.5,
-      "imdbVotes": 477,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    }
+    "tt0022086",
+    "tt0021133",
+    "tt0021233",
+    "tt0024808",
+    "tt0026019",
+    "tt0031440",
+    "tt0020809",
+    "tt0020828",
+    "tt0034730",
+    "tt0028999",
+    "tt0020988",
+    "tt0021287"
   ],
   "collections": [],
   "is_curated": true,

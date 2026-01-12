@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-la-belle-nivernaise",
+      "id": "silent-la-belle-nivernaise",
       "title": "La belle Nivernaise",
       "fileSize": 2030074184,
-      "id": "silent-la-belle-nivernaise"
+      "addedAt": "2026-01-07T00:11:07.407Z",
+      "thumbnail": "https://archive.org/services/img/silent-la-belle-nivernaise",
+      "language": "French",
+      "year": 1924,
+      "collection": "feature_films",
+      "downloads": 2474
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0013933",
-      "title": "The Faithful Heart",
-      "year": 1923,
-      "imdbRating": 7.4,
-      "imdbVotes": 1467,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013846",
-      "title": "The Red Inn",
-      "year": 1923,
-      "imdbRating": 6.8,
-      "imdbVotes": 146,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018770",
-      "title": "The Fall of the House of Usher",
-      "year": 1928,
-      "imdbRating": 7.2,
-      "imdbVotes": 4830,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0295259",
-      "title": "Finis terrae",
-      "year": 1929,
-      "imdbRating": 7.3,
-      "imdbVotes": 670,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0200457",
-      "title": "The Adventures of Robert Macaire",
-      "year": 1925,
-      "imdbRating": 6.3,
-      "imdbVotes": 80,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014854",
-      "title": "Dorothy Vernon of Haddon Hall",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 186,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015022",
-      "title": "Janice Meredith",
-      "year": 1924,
-      "imdbRating": 5.5,
-      "imdbVotes": 725,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015312",
-      "title": "Secrets",
-      "year": 1924,
-      "imdbRating": 6.4,
-      "imdbVotes": 257,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014689",
-      "title": "The Average Woman",
-      "year": 1924,
-      "imdbRating": 5.8,
-      "imdbVotes": 39,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014869",
-      "title": "The Enchanted Cottage",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 698,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0013933",
+    "tt0013846",
+    "tt0018770",
+    "tt0295259",
+    "tt0200457",
+    "tt0014672",
+    "tt0015018",
+    "tt0014854",
+    "tt0015022",
+    "tt0015312",
+    "tt0014689",
+    "tt0014869"
   ],
   "collections": [],
   "is_curated": true,

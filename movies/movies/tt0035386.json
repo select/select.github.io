@@ -6,10 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/strange-case-of-doctor-rx-1942",
+      "id": "strange-case-of-doctor-rx-1942",
       "title": "Strange Case Of Doctor Rx (1942)",
       "description": "movie",
       "fileSize": 1740465460,
-      "id": "strange-case-of-doctor-rx-1942"
+      "addedAt": "2026-01-07T00:11:35.629Z",
+      "thumbnail": "https://archive.org/services/img/strange-case-of-doctor-rx-1942",
+      "collection": "feature_films",
+      "downloads": 989
     }
   ],
   "metadata": {
@@ -27,115 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0034521",
-      "title": "Black Dragons",
-      "year": 1942,
-      "imdbRating": 4.3,
-      "imdbVotes": 1324,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018867",
-      "title": "Escape from Hong Kong",
-      "year": 1942,
-      "imdbRating": 5.6,
-      "imdbVotes": 38,
-      "language": "English, German, Chinese",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032215",
-      "title": "The Ape",
-      "year": 1940,
-      "imdbRating": 4.6,
-      "imdbVotes": 2092,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032404",
-      "title": "Doomed to Die",
-      "year": 1940,
-      "imdbRating": 5.5,
-      "imdbVotes": 1465,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0032457",
-      "title": "The Fatal Hour",
-      "year": 1940,
-      "imdbRating": 5.4,
-      "imdbVotes": 1328,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034985",
-      "title": "The Living Ghost",
-      "year": 1942,
-      "imdbRating": 5.3,
-      "imdbVotes": 695,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034681",
-      "title": "Dr. Renault's Secret",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 540,
-      "language": "English, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035318",
-      "title": "Sherlock Holmes and the Voice of Terror",
-      "year": 1942,
-      "imdbRating": 6.4,
-      "imdbVotes": 5557,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0034850",
-      "title": "The Hidden Hand",
-      "year": 1942,
-      "imdbRating": 6.1,
-      "imdbVotes": 686,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0037711",
-      "title": "Fog Island",
-      "year": 1945,
-      "imdbRating": 5.3,
-      "imdbVotes": 1065,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0031704",
-      "title": "The Mystery of Mr. Wong",
-      "year": 1939,
-      "imdbRating": 6.1,
-      "imdbVotes": 1028,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0035679",
-      "title": "The Black Raven",
-      "year": 1943,
-      "imdbRating": 5.5,
-      "imdbVotes": 839,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Timeless Classic Movies"
-    }
+    "tt0034521",
+    "tt0018867",
+    "tt0032215",
+    "tt0032404",
+    "tt0032457",
+    "tt0034985",
+    "tt0034681",
+    "tt0035318",
+    "tt0034850",
+    "tt0037711",
+    "tt0031704",
+    "tt0035679"
   ],
   "collections": [],
   "is_curated": true,

@@ -6,17 +6,26 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/lastlaugh4k",
+      "id": "lastlaugh4k",
       "title": "The Last Laugh (1924) [Colorized, 4K, 60FPS]",
       "description": "The Last Laugh is a 1924 black and white movie film which has been colorised, upscaled to 4K, and frames per second boosted to 60 FPS in 2022 using Artificial Intelligence (A.I) and Google Colab @  https://colab.research.google.com   Technologies used: A.I. Colorizing:  https://github.com/jantic/DeOldify  A.I. Increasing frame rate 60 FPS:  https://rife-vfi.github.io   A.I. Upscaling to 4K:  https://ffmpeg.org   GPU: Google Colab. This movie is in public domain category and it is Copyright free.",
       "fileSize": 7347927184,
-      "id": "lastlaugh4k"
+      "addedAt": "2026-01-07T00:09:38.888Z",
+      "thumbnail": "https://archive.org/services/img/lastlaugh4k",
+      "collection": "feature_films",
+      "downloads": 224
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-the-last-laugh",
+      "id": "silent-the-last-laugh",
       "title": "The Last Laugh",
       "fileSize": 8936288330,
-      "id": "silent-the-last-laugh"
+      "addedAt": "2026-01-07T00:11:15.977Z",
+      "thumbnail": "https://archive.org/services/img/silent-the-last-laugh",
+      "year": 1925,
+      "collection": "feature_films",
+      "downloads": 1989
     }
   ],
   "metadata": {
@@ -34,114 +43,18 @@
     "Awards": "2 wins total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0016847",
-      "title": "Faust",
-      "year": 1926,
-      "imdbRating": 8.1,
-      "imdbVotes": 17097,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013373",
-      "title": "Marizza",
-      "year": 1922,
-      "imdbRating": 6.3,
-      "imdbVotes": 115,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013496",
-      "title": "Phantom",
-      "year": 1922,
-      "imdbRating": 6.7,
-      "imdbVotes": 1978,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012973",
-      "title": "The Burning Soil",
-      "year": 1922,
-      "imdbRating": 6.9,
-      "imdbVotes": 790,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0012651",
-      "title": "The Haunted Castle",
-      "year": 1921,
-      "imdbRating": 6.1,
-      "imdbVotes": 2022,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018455",
-      "title": "Sunrise",
-      "year": 1927,
-      "imdbRating": 8.1,
-      "imdbVotes": 55712,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014900",
-      "title": "Finances of the Grand Duke",
-      "year": 1924,
-      "imdbRating": 6.2,
-      "imdbVotes": 1001,
-      "language": "German, Swedish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013825",
-      "title": "All for Money",
-      "year": 1923,
-      "imdbRating": 5.2,
-      "imdbVotes": 19,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013741",
-      "title": "The Loves of Pharaoh",
-      "year": 1922,
-      "imdbRating": 6.5,
-      "imdbVotes": 688,
-      "language": "None, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0013442",
-      "title": "Nosferatu: A Symphony of Horror",
-      "year": 1922,
-      "imdbRating": 7.8,
-      "imdbVotes": 120332,
-      "language": "German, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0014672",
-      "title": "America",
-      "year": 1924,
-      "imdbRating": 6.3,
-      "imdbVotes": 459,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0015018",
-      "title": "Isn't Life Wonderful",
-      "year": 1924,
-      "imdbRating": 6.8,
-      "imdbVotes": 410,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0016847",
+    "tt0013373",
+    "tt0013496",
+    "tt0012973",
+    "tt0012651",
+    "tt0018455",
+    "tt0014900",
+    "tt0013825",
+    "tt0013741",
+    "tt0013442",
+    "tt0014672",
+    "tt0015018"
   ],
   "collections": [
     {

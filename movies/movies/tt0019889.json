@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/the-flying-scotsman_1929",
+      "id": "the-flying-scotsman_1929",
       "title": "The Flying Scotsman",
       "fileSize": 4207957520,
-      "id": "the-flying-scotsman_1929"
+      "addedAt": "2026-01-07T00:11:57.687Z",
+      "thumbnail": "https://archive.org/services/img/the-flying-scotsman_1929",
+      "language": "English",
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 492
     }
   ],
   "metadata": {
@@ -26,118 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0020073",
-      "title": "The Lady from the Sea",
-      "year": 1929,
-      "imdbRating": 6.4,
-      "imdbVotes": 28,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019765",
-      "title": "Chinatown Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019979",
-      "title": "Her Private Affair",
-      "year": 1929,
-      "imdbRating": 5.1,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020305",
-      "title": "The Racketeer",
-      "year": 1929,
-      "imdbRating": 5.3,
-      "imdbVotes": 455,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020267",
-      "title": "The Phantom in the House",
-      "year": 1929,
-      "imdbRating": 5,
-      "imdbVotes": 147,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019702",
-      "title": "Blackmail",
-      "year": 1929,
-      "imdbRating": 6.9,
-      "imdbVotes": 12379,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019735",
-      "title": "Bulldog Drummond",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 1369,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0794314",
-      "title": "Mocny czlowiek",
-      "year": 1929,
-      "imdbRating": 7,
-      "imdbVotes": 268,
-      "language": "None, Polish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020004",
-      "title": "Seven Footprints to Satan",
-      "year": 1929,
-      "imdbRating": 6.6,
-      "imdbVotes": 500,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020217",
-      "title": "New York Nights",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 276,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020499",
-      "title": "Thunderbolt",
-      "year": 1929,
-      "imdbRating": 6.5,
-      "imdbVotes": 920,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020560",
-      "title": "The Voice of the City",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 96,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    }
+    "tt0020073",
+    "tt0019765",
+    "tt0019979",
+    "tt0020305",
+    "tt0020267",
+    "tt0019702",
+    "tt0019735",
+    "tt0794314",
+    "tt0020004",
+    "tt0020217",
+    "tt0020499",
+    "tt0020560"
   ],
   "collections": [],
   "is_curated": true,

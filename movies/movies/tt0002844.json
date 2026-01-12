@@ -6,9 +6,15 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-fantmas-in-the-shadow-of-the-guillotine",
+      "id": "silent-fantmas-in-the-shadow-of-the-guillotine",
       "title": "Fantômas: In the Shadow of the Guillotine",
       "fileSize": 5307252861,
-      "id": "silent-fantmas-in-the-shadow-of-the-guillotine"
+      "addedAt": "2026-01-07T00:10:59.117Z",
+      "thumbnail": "https://archive.org/services/img/silent-fantmas-in-the-shadow-of-the-guillotine",
+      "language": "French",
+      "year": 1913,
+      "collection": "feature_films",
+      "downloads": 1391
     }
   ],
   "metadata": {
@@ -26,114 +32,18 @@
     "Awards": "1 nomination total"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0003165",
-      "title": "Fantômas: The Dead Man Who Killed",
-      "year": 1913,
-      "imdbRating": 6.9,
-      "imdbVotes": 1306,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003952",
-      "title": "Fantômas: The False Magistrate",
-      "year": 1914,
-      "imdbRating": 6.7,
-      "imdbVotes": 1231,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0207954",
-      "title": "L'agonie de Byzance",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 172,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0209437",
-      "title": "Le trust, ou les batailles de l'argent",
-      "year": 1911,
-      "imdbRating": 6.1,
-      "imdbVotes": 143,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0006206",
-      "title": "Les Vampires",
-      "year": 1915,
-      "imdbRating": 7.3,
-      "imdbVotes": 5474,
-      "language": "None, French, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208496",
-      "title": "La tare",
-      "year": 1911,
-      "imdbRating": 5.8,
-      "imdbVotes": 133,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003883",
-      "title": "L'enfant de Paris",
-      "year": 1913,
-      "imdbRating": 7.2,
-      "imdbVotes": 469,
-      "language": "None, French",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003471",
-      "title": "Traffic in Souls",
-      "year": 1913,
-      "imdbRating": 5.9,
-      "imdbVotes": 757,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0208230",
-      "title": "L'intruse",
-      "year": 1913,
-      "imdbRating": 5.1,
-      "imdbVotes": 20,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002381",
-      "title": "The Musketeers of Pig Alley",
-      "year": 1912,
-      "imdbRating": 6.6,
-      "imdbVotes": 2540,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0003643",
-      "title": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
-      "year": 1914,
-      "imdbRating": 6.4,
-      "imdbVotes": 1502,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0002415",
-      "title": "The Painted Lady",
-      "year": 1912,
-      "imdbRating": 5.8,
-      "imdbVotes": 659,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0003165",
+    "tt0003952",
+    "tt0207954",
+    "tt0209437",
+    "tt0006206",
+    "tt0208496",
+    "tt0003883",
+    "tt0003471",
+    "tt0208230",
+    "tt0002381",
+    "tt0003643",
+    "tt0002415"
   ],
   "collections": [],
   "is_curated": true,

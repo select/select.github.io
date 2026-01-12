@@ -6,9 +6,18 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/marianne_1929",
+      "id": "marianne_1929",
       "title": "Marianne",
       "fileSize": 5005878504,
-      "id": "marianne_1929"
+      "addedAt": "2026-01-07T00:09:46.427Z",
+      "thumbnail": "https://archive.org/services/img/marianne_1929",
+      "language": [
+        "English",
+        "French"
+      ],
+      "year": 1929,
+      "collection": "feature_films",
+      "downloads": 303
     }
   ],
   "metadata": {
@@ -26,115 +35,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0019067",
-      "title": "A Lady of Chance",
-      "year": 1928,
-      "imdbRating": 6.9,
-      "imdbVotes": 547,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019644",
-      "title": "Applause",
-      "year": 1929,
-      "imdbRating": 7.1,
-      "imdbVotes": 1519,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019946",
-      "title": "The Great Gabbo",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 1027,
-      "language": "English, German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020458",
-      "title": "Street Girl",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 487,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0020402",
-      "title": "Show Boat",
-      "year": 1929,
-      "imdbRating": 6.1,
-      "imdbVotes": 310,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019729",
-      "title": "The Broadway Melody",
-      "year": 1929,
-      "imdbRating": 5.6,
-      "imdbVotes": 8274,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020034",
-      "title": "It's a Great Life",
-      "year": 1929,
-      "imdbRating": 6,
-      "imdbVotes": 313,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019258",
-      "title": "The Patsy",
-      "year": 1928,
-      "imdbRating": 7.5,
-      "imdbVotes": 2728,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024486",
-      "title": "Rainbow Over Broadway",
-      "year": 1933,
-      "imdbRating": 5.4,
-      "imdbVotes": 51,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0018297",
-      "title": "Quality Street",
-      "year": 1927,
-      "imdbRating": 6.6,
-      "imdbVotes": 803,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019933",
-      "title": "Glorifying the American Girl",
-      "year": 1929,
-      "imdbRating": 5.7,
-      "imdbVotes": 836,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0019957",
-      "title": "Half Marriage",
-      "year": 1929,
-      "imdbRating": 5.5,
-      "imdbVotes": 159,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0019067",
+    "tt0019644",
+    "tt0019946",
+    "tt0020458",
+    "tt0020402",
+    "tt0019729",
+    "tt0020034",
+    "tt0019258",
+    "tt0024486",
+    "tt0018297",
+    "tt0019933",
+    "tt0019957"
   ],
   "collections": [],
   "is_curated": true,

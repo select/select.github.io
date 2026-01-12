@@ -6,18 +6,29 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/exposed-1947",
+      "id": "exposed-1947",
       "title": "Exposed (1947)",
       "description": "A private eye and her sidekick solve the case of a dead client. Watch on RetroFlix:  https://retroflix.org/exposed-1947/",
       "fileSize": 136308226,
-      "id": "exposed-1947"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/exposed-1947",
+      "language": "eng",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 348
     },
     {
       "type": "archive.org",
       "url": "https://archive.org/details/exposed-republic",
+      "id": "exposed-republic",
       "title": "Exposed",
       "description": "Title: Exposed Summary: A beautiful female private detective is hired by a wealthy businessman to check up on his stepson--the heir to the family fortune--who has been withdrawing large amounts of money from his bank account. Directed by: George Blair Actors: Adele Mara, Mark Roberts, Lorna Gray Production Company: Republic Pictures (I) Release Date: 8 September 1947 (USA) Aspect Ratio: 1.37 : 1 Colonel Bentry hires private-eye Belinda Prentice to investigate his stepson and heir Bill Forestman. Bill has withdrawn large sums of money from his account, according to the Colonel, rented an apartment in the city and stoutly refuses to explain his actions. On their way to the Bentry estate, Belinda and her assistant, Iggy Broty, stop near Bill's apartment and their attention is attracted by two suspicious-looking characters. Iggs stays to check them out while Belinda goes on to Bentry's. She is admitted by Severance, the butler, who goes to the library to announce her arrival. She hears a cry from Severance, goes to the library and finds the Butler standing over the dead body of his employer. Belinda picks up a hypodermic needle lying near the body. Inspector Prentice of Homicide, Belinda's father, arrives to take over. He questions Bill, his sister Judith Forester, Jonathan Lowell, the family lawyer...and Severance, who confesses that he is a reformed drunk AND a disbarred lawyer...",
       "fileSize": 3589138969,
-      "id": "exposed-republic"
+      "addedAt": "2026-01-07T00:08:24.393Z",
+      "thumbnail": "https://archive.org/services/img/exposed-republic",
+      "year": 1947,
+      "collection": "feature_films",
+      "downloads": 1535
     }
   ],
   "metadata": {
@@ -35,115 +46,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0040561",
-      "title": "Madonna of the Desert",
-      "year": 1948,
-      "imdbRating": 6.4,
-      "imdbVotes": 102,
-      "language": "Italian, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0041765",
-      "title": "Post Office Investigator",
-      "year": 1949,
-      "imdbRating": 5.6,
-      "imdbVotes": 55,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0039504",
-      "title": "Ivy",
-      "year": 1947,
-      "imdbRating": 7.1,
-      "imdbVotes": 1155,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042392",
-      "title": "Destination Big House",
-      "year": 1950,
-      "imdbRating": 6.9,
-      "imdbVotes": 43,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0036790",
-      "title": "End of the Road",
-      "year": 1944,
-      "imdbRating": 5.7,
-      "imdbVotes": 84,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0043144",
-      "title": "Women from Headquarters",
-      "year": 1950,
-      "imdbRating": 5.1,
-      "imdbVotes": 46,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0040386",
-      "title": "The Gentleman from Nowhere",
-      "year": 1948,
-      "imdbRating": 5.9,
-      "imdbVotes": 60,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0038430",
-      "title": "Crime Doctor's Man Hunt",
-      "year": 1946,
-      "imdbRating": 6.2,
-      "imdbVotes": 351,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0128271",
-      "title": "Insurance Investigator",
-      "year": 1951,
-      "imdbRating": 6.1,
-      "imdbVotes": 106,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0121570",
-      "title": "Morir en su ley",
-      "year": 1949,
-      "imdbRating": 5.9,
-      "imdbVotes": 19,
-      "language": "Spanish",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0042310",
-      "title": "Captain Carey, U.S.A.",
-      "year": 1949,
-      "imdbRating": 6.4,
-      "imdbVotes": 693,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "Netzkino"
-    },
-    {
-      "imdbId": "tt0039914",
-      "title": "The Trespasser",
-      "year": 1947,
-      "imdbRating": 6.3,
-      "imdbVotes": 61,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0040561",
+    "tt0041765",
+    "tt0039504",
+    "tt0042392",
+    "tt0036790",
+    "tt0043144",
+    "tt0040386",
+    "tt0038430",
+    "tt0128271",
+    "tt0121570",
+    "tt0042310",
+    "tt0039914"
   ],
   "collections": [],
   "is_curated": true,

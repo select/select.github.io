@@ -6,9 +6,14 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/silent-how-the-cowboy-makes-his-lariat",
+      "id": "silent-how-the-cowboy-makes-his-lariat",
       "title": "How the Cowboy Makes His Lariat",
       "fileSize": 99053852,
-      "id": "silent-how-the-cowboy-makes-his-lariat"
+      "addedAt": "2026-01-07T00:10:59.120Z",
+      "thumbnail": "https://archive.org/services/img/silent-how-the-cowboy-makes-his-lariat",
+      "year": 1917,
+      "collection": "feature_films",
+      "downloads": 282
     }
   ],
   "metadata": {
@@ -26,107 +31,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0955263",
-      "title": "Geysers of the Yellowstone",
-      "year": 1917,
-      "imdbRating": 5,
-      "imdbVotes": 15,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1496006",
-      "title": "The United Snakes of America",
-      "year": 1917,
-      "imdbRating": 5.3,
-      "imdbVotes": 43,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647224",
-      "title": "Beauty Spots in America: Castle Hot Springs, Arizona",
-      "year": 1916,
-      "imdbVotes": 9,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0345073",
-      "title": "Concerning One Thousand Dollars",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 13,
-      "language": "N/A",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt6528876",
-      "title": "Everett True Breaks Into the Movies",
-      "year": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146448",
-      "title": "Krazy Kat and Ignatz Mouse at the Circus",
-      "year": 1916,
-      "imdbRating": 5.1,
-      "imdbVotes": 225,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0146968",
-      "title": "Krazy Kat Goes A-Wooing",
-      "year": 1916,
-      "imdbRating": 4.7,
-      "imdbVotes": 245,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0938705",
-      "title": "Lake Tahoe, Cal.",
-      "year": 1916,
-      "imdbRating": 6.2,
-      "imdbVotes": 17,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0245297",
-      "title": "Mr. Nobody Holme Buys a Jitney",
-      "year": 1916,
-      "imdbRating": 4.5,
-      "imdbVotes": 146,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt2647252",
-      "title": "Seeing Yosemite with David A. Curry",
-      "year": 1916,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0009806",
-      "title": "Why Pick on Me?",
-      "year": 1918,
-      "imdbRating": 6.3,
-      "imdbVotes": 90,
-      "language": "None",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt1515754",
-      "title": "Chateau Thierry and Beyond",
-      "year": 1919,
-      "language": "None, English",
-      "sourceType": "archive.org"
-    }
+    "tt0955263",
+    "tt1496006",
+    "tt2647224",
+    "tt0345073",
+    "tt6528876",
+    "tt0146448",
+    "tt0146968",
+    "tt0938705",
+    "tt0245297",
+    "tt2647252",
+    "tt0009806",
+    "tt1515754"
   ],
   "collections": [],
   "is_curated": true,

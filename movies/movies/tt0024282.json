@@ -6,10 +6,16 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/1933-der-laufer-von-marathon-brigitte-helm-viktor-de-kowa-oscar-sabo-ursula-grab",
+      "id": "1933-der-laufer-von-marathon-brigitte-helm-viktor-de-kowa-oscar-sabo-ursula-grab",
       "title": "1933 Der Läufer Von Marathon ( Brigitte Helm, Viktor De Kowa, Oscar Sabo, Ursula Grabley, Hans Brausewetter, Paul Hartmann)",
       "description": "Film aus dem deutschen dritten Reich von 1933. Der Läufer von Marathon.  U.a mit Brigitte Helm und Viktor de Kowa",
       "fileSize": 2183353588,
-      "id": "1933-der-laufer-von-marathon-brigitte-helm-viktor-de-kowa-oscar-sabo-ursula-grab"
+      "addedAt": "2026-01-07T00:06:00.052Z",
+      "thumbnail": "https://archive.org/services/img/1933-der-laufer-von-marathon-brigitte-helm-viktor-de-kowa-oscar-sabo-ursula-grab",
+      "language": "ger",
+      "year": 1933,
+      "collection": "feature_films",
+      "downloads": 293
     }
   ],
   "metadata": {
@@ -26,115 +32,18 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
-    {
-      "imdbId": "tt0025302",
-      "title": "In Love with Life",
-      "year": 1934,
-      "imdbRating": 5.2,
-      "imdbVotes": 85,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0129972",
-      "title": "Großreinemachen",
-      "year": 1935,
-      "imdbVotes": 13,
-      "language": "German",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0028507",
-      "title": "Wildcat Saunders",
-      "year": 1936,
-      "imdbRating": 4.9,
-      "imdbVotes": 32,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt9731440",
-      "title": "The Mistress of Atlantis",
-      "year": 1932,
-      "imdbRating": 5.4,
-      "imdbVotes": 70,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020469",
-      "title": "Sweetie",
-      "year": 1929,
-      "imdbRating": 6.2,
-      "imdbVotes": 93,
-      "language": "English",
-      "sourceType": "youtube",
-      "channelName": "PizzaFlix"
-    },
-    {
-      "imdbId": "tt0029364",
-      "title": "Over the Goal",
-      "year": 1937,
-      "imdbRating": 4.7,
-      "imdbVotes": 184,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020359",
-      "title": "Salute",
-      "year": 1929,
-      "imdbRating": 5.2,
-      "imdbVotes": 238,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020439",
-      "title": "Speedway",
-      "year": 1929,
-      "imdbRating": 6.3,
-      "imdbVotes": 700,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0020392",
-      "title": "The Shakedown",
-      "year": 1929,
-      "imdbRating": 6.7,
-      "imdbVotes": 301,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024554",
-      "title": "A Shriek in the Night",
-      "year": 1933,
-      "imdbRating": 5.3,
-      "imdbVotes": 1105,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0024300",
-      "title": "A Man of Sentiment",
-      "year": 1933,
-      "imdbRating": 4.8,
-      "imdbVotes": 52,
-      "language": "English",
-      "sourceType": "archive.org"
-    },
-    {
-      "imdbId": "tt0023791",
-      "title": "Before Morning",
-      "year": 1933,
-      "imdbRating": 5.1,
-      "imdbVotes": 100,
-      "language": "English",
-      "sourceType": "archive.org"
-    }
+    "tt0025302",
+    "tt0129972",
+    "tt0028507",
+    "tt9731440",
+    "tt0020469",
+    "tt0029364",
+    "tt0020359",
+    "tt0020439",
+    "tt0020392",
+    "tt0024554",
+    "tt0024300",
+    "tt0023791"
   ],
   "collections": [],
   "is_curated": true,
