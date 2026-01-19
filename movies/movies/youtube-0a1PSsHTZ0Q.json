@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-0a1PSsHTZ0Q",
+  "movieId": "youtube-0a1PSsHTZ0Q",
   "title": "Dracula 2 - Die Rückkehr der Blutfürsten (Horror in voller Länge)",
   "sources": [
     {
@@ -26,7 +26,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:15:30.642Z"

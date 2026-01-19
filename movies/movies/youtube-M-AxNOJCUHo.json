@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-M-AxNOJCUHo",
+  "movieId": "youtube-M-AxNOJCUHo",
   "title": "Age Of The Living Dead | Full Movie | Complete Series | Apocalyptic Vampire",
   "sources": [
     {
@@ -67,7 +67,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-27T00:04:05.102Z"

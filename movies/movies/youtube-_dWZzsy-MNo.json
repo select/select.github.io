@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-_dWZzsy-MNo",
+  "movieId": "youtube-_dWZzsy-MNo",
   "title": "Ambrogio: The First Vampire | 2025 Gothic Horror Romance | Vampire Love Movie",
   "year": 2025,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T01:36:10.612Z"

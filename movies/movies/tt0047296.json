@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0047296",
+  "movieId": "tt0047296",
   "title": "On the Waterfront",
   "year": 1954,
   "sources": [
@@ -59,6 +59,7 @@
   "relatedMovies": [
     "tt0046040",
     "tt0047040",
+    "tt0039208",
     "tt0045681",
     "tt0048087",
     "tt0042832",
@@ -67,8 +68,7 @@
     "tt0044596",
     "tt0044649",
     "tt0050097",
-    "tt0221319",
-    "tt0127562"
+    "tt0221319"
   ],
   "collections": [
     {
@@ -78,6 +78,10 @@
     {
       "id": "criterion-collection",
       "name": "The Criterion Collection"
+    },
+    {
+      "id": "elia-kazan",
+      "name": "Elia Kazan"
     },
     {
       "id": "thriller",

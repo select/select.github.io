@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-5ZwKV-ST7NE",
+  "movieId": "youtube-5ZwKV-ST7NE",
   "title": "The Vampire Bat (1933, Horror) Lionel Atwill, Fay Wray | Full Movie",
   "sources": [
     {
@@ -17,7 +17,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-27T00:43:39.668Z"

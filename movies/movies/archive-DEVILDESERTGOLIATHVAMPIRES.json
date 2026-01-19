@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-DEVILDESERTGOLIATHVAMPIRES",
+  "movieId": "archive-DEVILDESERTGOLIATHVAMPIRES",
   "title": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT - VENUS MEETS THE SON OF HERCULES / THE SON OF HERCULES IN THE LAND OF DARKNESS",
   "sources": [
     {
@@ -17,7 +17,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:06:19.368Z"

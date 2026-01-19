@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt1165285",
+  "movieId": "tt1165285",
   "title": "Gyakuryû",
   "year": 1924,
   "sources": [
@@ -45,7 +45,12 @@
     "tt0014656",
     "tt0014661"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:10:59.118Z"

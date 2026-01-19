@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-NsgT7dqLG1U",
+  "movieId": "youtube-NsgT7dqLG1U",
   "title": "Atom Age Vampire, 1960",
   "year": 1960,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:55:49.434Z"

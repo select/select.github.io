@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0988045",
+  "movieId": "tt0988045",
   "title": "Sherlock Holmes",
   "year": 2009,
   "sources": [
@@ -83,6 +83,10 @@
   ],
   "collections": [
     {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
+    },
+    {
       "id": "adventure",
       "name": "Adventure"
     },
@@ -93,10 +97,6 @@
     {
       "id": "2000s",
       "name": "2000s Cinema"
-    },
-    {
-      "id": "sherlock-holmes",
-      "name": "Sherlock Holmes"
     }
   ],
   "is_curated": true,

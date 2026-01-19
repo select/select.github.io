@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt4401006",
+  "movieId": "tt4401006",
   "title": "Eat Locals",
   "year": 2017,
   "sources": [
@@ -51,7 +51,12 @@
     "tt3121200",
     "tt6359082"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:23:40.384Z"

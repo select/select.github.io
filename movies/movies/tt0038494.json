@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0038494",
+  "movieId": "tt0038494",
   "title": "Dressed to Kill",
   "year": 1946,
   "sources": [
@@ -127,12 +127,12 @@
   ],
   "collections": [
     {
-      "id": "mystery",
-      "name": "Mystery"
-    },
-    {
       "id": "sherlock-holmes",
       "name": "Sherlock Holmes"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
     }
   ],
   "is_curated": true,

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt24733392",
+  "movieId": "tt24733392",
   "title": "Abraham Lincoln: Vampire Hunter (2012)",
   "year": 2012,
   "sources": [
@@ -43,7 +43,12 @@
     "tt24820788",
     "tt25681212"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:09:38.891Z"

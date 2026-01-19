@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-wKO6n8KiKvc",
+  "movieId": "youtube-wKO6n8KiKvc",
   "title": "Vampire in Vegas | Tony Todd | Full Movie",
   "sources": [
     {
@@ -52,7 +52,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-26T21:37:48.709Z"

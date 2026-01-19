@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-jfaFNpb-35M",
+  "movieId": "youtube-jfaFNpb-35M",
   "title": "Love Bites (FRENCH VAMPIRE FILM with ASIA ARGENTO Films German Complete Full Length 2023)",
   "sources": [
     {
@@ -23,7 +23,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-23T23:58:04.680Z"

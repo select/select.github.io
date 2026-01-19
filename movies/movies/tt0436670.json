@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0436670",
+  "movieId": "tt0436670",
   "title": "Le pied qui étreint",
   "year": 1916,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0062759",
     "tt0028346"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:11:07.408Z"

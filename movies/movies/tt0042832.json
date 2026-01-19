@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0042832",
+  "movieId": "tt0042832",
   "title": "Panic in the Streets",
   "year": 1950,
   "sources": [
@@ -32,6 +32,7 @@
     "Awards": "Won 1 Oscar. 4 wins & 3 nominations total"
   },
   "relatedMovies": [
+    "tt0039208",
     "tt0042792",
     "tt0040221",
     "tt0042869",
@@ -42,10 +43,13 @@
     "tt0042379",
     "tt0042428",
     "tt0042579",
-    "tt0042809",
-    "tt0042669"
+    "tt0042809"
   ],
   "collections": [
+    {
+      "id": "elia-kazan",
+      "name": "Elia Kazan"
+    },
     {
       "id": "film-noir",
       "name": "Film Noir"

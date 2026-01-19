@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-171tNN5CuqE",
+  "movieId": "youtube-171tNN5CuqE",
   "title": "Gamera gegen Zigra – Frankenstein's Weltraumbestie schlägt zu (Fantasy, ganzer Film)",
   "sources": [
     {
@@ -26,7 +26,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:15:50.774Z"

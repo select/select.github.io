@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0445212",
+  "movieId": "tt0445212",
   "title": "Intimate Interviews: Bela Lugosi",
   "year": 1931,
   "sources": [
@@ -60,7 +60,12 @@
     "tt15529086",
     "tt0309243"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:13:06.704Z"

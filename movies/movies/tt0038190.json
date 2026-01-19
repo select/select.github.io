@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0038190",
+  "movieId": "tt0038190",
   "title": "A Tree Grows in Brooklyn",
   "year": 1945,
   "sources": [
@@ -34,6 +34,8 @@
   },
   "relatedMovies": [
     "tt0036940",
+    "tt0054476",
+    "tt0039208",
     "tt0037547",
     "tt0037865",
     "tt0037811",
@@ -42,14 +44,16 @@
     "tt0037447",
     "tt0037701",
     "tt0037558",
-    "tt0037588",
-    "tt0184326",
-    "tt0037702"
+    "tt0037588"
   ],
   "collections": [
     {
       "id": "top-movies",
       "name": "Top Movies"
+    },
+    {
+      "id": "elia-kazan",
+      "name": "Elia Kazan"
     },
     {
       "id": "romance",

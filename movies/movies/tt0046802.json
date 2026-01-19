@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0046802",
+  "movieId": "tt0046802",
   "title": "The Bowery Boys Meet the Monsters",
   "year": 1954,
   "sources": [
@@ -44,7 +44,12 @@
     "tt1134674",
     "tt0337377"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:11:57.681Z"

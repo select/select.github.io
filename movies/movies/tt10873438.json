@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt10873438",
+  "movieId": "tt10873438",
   "title": "The Barcelona Vampiress",
   "year": 2020,
   "sources": [
@@ -47,11 +47,16 @@
     "tt7157146",
     "tt10510416",
     "tt11404762",
+    "tt9760852",
     "tt9071322",
-    "tt7336182",
-    "tt6681478"
+    "tt7336182"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-28T07:26:29.781Z"

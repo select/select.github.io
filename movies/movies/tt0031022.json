@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0031022",
+  "movieId": "tt0031022",
   "title": "The Adventures of Sherlock Holmes",
   "year": 1939,
   "sources": [
@@ -48,6 +48,10 @@
   ],
   "collections": [
     {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
+    },
+    {
       "id": "mystery",
       "name": "Mystery"
     },
@@ -58,10 +62,6 @@
     {
       "id": "1930s",
       "name": "1930s Cinema"
-    },
-    {
-      "id": "sherlock-holmes",
-      "name": "Sherlock Holmes"
     }
   ],
   "is_curated": true,

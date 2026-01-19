@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-noTRODcPm50",
+  "movieId": "youtube-noTRODcPm50",
   "title": "Dracula: Reborn – Die Legende lebt (Horrorfilme in voller Länge, ganze Filme auf Deutsch) *HD*",
   "sources": [
     {
@@ -24,7 +24,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:13:30.395Z"

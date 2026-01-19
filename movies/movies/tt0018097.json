@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0018097",
+  "movieId": "tt0018097",
   "title": "London After Midnight",
   "year": 1927,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0053719",
     "tt2364774"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:09:38.892Z"

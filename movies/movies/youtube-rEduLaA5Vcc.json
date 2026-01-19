@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-rEduLaA5Vcc",
+  "movieId": "youtube-rEduLaA5Vcc",
   "title": "Dracula: Reborn – Die Legende lebt (VAMPIR HORROR ganzer Film, Vampirfilme, Horrorfilme auf Deutsch)",
   "sources": [
     {
@@ -23,7 +23,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:01:30.773Z"

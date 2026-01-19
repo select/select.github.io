@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0011221",
+  "movieId": "tt0011221",
   "title": "Genuine: The Tragedy of a Vampire",
   "year": 1920,
   "sources": [
@@ -57,7 +57,12 @@
     "tt0014509",
     "tt0005951"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T18:24:55.496Z"

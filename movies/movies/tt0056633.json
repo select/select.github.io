@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0056633",
+  "movieId": "tt0056633",
   "title": "The Playgirls and the Vampire",
   "year": 1960,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0054116",
     "tt0054067"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:10:21.536Z"

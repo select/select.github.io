@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt5886388",
+  "movieId": "tt5886388",
   "title": "House of Demons",
   "year": 2018,
   "sources": [
@@ -51,7 +51,12 @@
     "tt0016847",
     "tt0070078"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:18:20.765Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0006206",
+  "movieId": "tt0006206",
   "title": "Les Vampires",
   "year": 1915,
   "sources": [
@@ -228,6 +228,10 @@
     "tt0045668"
   ],
   "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    },
     {
       "id": "adventure",
       "name": "Adventure"

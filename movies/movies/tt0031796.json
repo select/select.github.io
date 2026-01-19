@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0031796",
+  "movieId": "tt0031796",
   "title": "The Phantom Creeps",
   "year": 1939,
   "sources": [
@@ -73,7 +73,12 @@
     "tt0031208",
     "tt0031449"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:22.156Z"

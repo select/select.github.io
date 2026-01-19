@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-draculas-daughter-colorized-1936-720p",
+  "movieId": "archive-draculas-daughter-colorized-1936-720p",
   "title": "Dracula's Daughter ( Colorized, 1936)",
   "year": 1936,
   "sources": [
@@ -22,7 +22,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:15.375Z"

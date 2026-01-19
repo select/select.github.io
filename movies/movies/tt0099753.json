@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0099753",
+  "movieId": "tt0099753",
   "title": "Heaven and Earth",
   "year": 1990,
   "sources": [
@@ -46,7 +46,12 @@
     "tt2139851",
     "tt0030143"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:39.345Z"

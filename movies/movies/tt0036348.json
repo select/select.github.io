@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0036348",
+  "movieId": "tt0036348",
   "title": "Sherlock Holmes Faces Death",
   "year": 1943,
   "sources": [
@@ -62,12 +62,12 @@
   ],
   "collections": [
     {
-      "id": "mystery",
-      "name": "Mystery"
-    },
-    {
       "id": "sherlock-holmes",
       "name": "Sherlock Holmes"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery"
     }
   ],
   "is_curated": true,

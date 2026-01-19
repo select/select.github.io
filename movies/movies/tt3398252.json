@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt3398252",
+  "movieId": "tt3398252",
   "title": "Samurai Cop 2: Deadly Vengeance",
   "year": 2015,
   "sources": [
@@ -40,7 +40,6 @@
   },
   "relatedMovies": [
     "tt3540136",
-    "tt3848892",
     "tt2268433",
     "tt3903852",
     "tt5847286",
@@ -50,9 +49,15 @@
     "tt1308729",
     "tt1329232",
     "tt2239096",
-    "tt7043534"
+    "tt7043534",
+    "tt1653700"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:13:40.434Z"

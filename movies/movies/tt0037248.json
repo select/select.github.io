@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0037248",
+  "movieId": "tt0037248",
   "title": "The Scarlet Claw",
   "year": 1944,
   "sources": [
@@ -76,16 +76,16 @@
   ],
   "collections": [
     {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
+    },
+    {
       "id": "horror",
       "name": "Horror"
     },
     {
       "id": "mystery",
       "name": "Mystery"
-    },
-    {
-      "id": "sherlock-holmes",
-      "name": "Sherlock Holmes"
     }
   ],
   "is_curated": true,

@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-uFL5GK7qzy4",
+  "movieId": "youtube-uFL5GK7qzy4",
   "title": "Gamera – Frankensteins Monster aus dem Eis (Fantasy, ganzer Film)",
   "sources": [
     {
@@ -25,7 +25,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:15:59.424Z"

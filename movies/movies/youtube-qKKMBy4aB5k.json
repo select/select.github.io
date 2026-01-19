@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-qKKMBy4aB5k",
+  "movieId": "youtube-qKKMBy4aB5k",
   "title": "The Floating Castle – Fortress of the Samurai (ACTION ADVENTURE Films German Complete)",
   "sources": [
     {
@@ -23,7 +23,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-23T23:59:14.238Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-moUHNMXUBGM",
+  "movieId": "youtube-moUHNMXUBGM",
   "title": "Young Hannah, Queen of the Vampires (1973) CRYPT OF THE LIVING DEAD",
   "year": 1973,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T01:08:08.580Z"

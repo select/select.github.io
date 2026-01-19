@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0013442",
+  "movieId": "tt0013442",
   "title": "Nosferatu: A Symphony of Horror",
   "year": 1922,
   "sources": [
@@ -125,6 +125,10 @@
     "tt0010821"
   ],
   "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    },
     {
       "id": "horror",
       "name": "Horror"

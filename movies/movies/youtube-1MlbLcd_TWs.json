@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-1MlbLcd_TWs",
+  "movieId": "youtube-1MlbLcd_TWs",
   "title": "Gameras Kampf gegen Frankensteins Monster (Fantasy, ganzer Film)",
   "sources": [
     {
@@ -26,7 +26,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:15:27.147Z"

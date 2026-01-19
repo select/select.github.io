@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-9dLbFna6d4s",
+  "movieId": "youtube-9dLbFna6d4s",
   "title": "NO SRT 2004 - Vampires: Out for Blood - When the rave turns grave, the fangs come out!",
   "sources": [
     {
@@ -17,7 +17,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:59:09.328Z"

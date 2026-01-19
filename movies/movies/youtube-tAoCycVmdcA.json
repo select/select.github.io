@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-tAoCycVmdcA",
+  "movieId": "youtube-tAoCycVmdcA",
   "title": "Vampire vergessen nie – Desert of Fear (Horrorfilm in voller Länge, ganze Filme auf Deutsch schauen)",
   "sources": [
     {
@@ -25,7 +25,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:11:21.570Z"

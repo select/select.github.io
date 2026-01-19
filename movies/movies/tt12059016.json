@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt12059016",
+  "movieId": "tt12059016",
   "title": "Red Snow",
   "year": 2021,
   "sources": [
@@ -51,7 +51,12 @@
     "tt13835046",
     "tt11760236"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:09:59.197Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0044925",
+  "movieId": "tt0044925",
   "title": "Vampire Over London",
   "year": 1952,
   "sources": [
@@ -78,7 +78,12 @@
     "tt0183070",
     "tt0041085"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:07:11.887Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0158780",
+  "movieId": "tt0158780",
   "title": "The Mighty Kong",
   "year": 1998,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0031397",
     "tt1217213"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:33.208Z"

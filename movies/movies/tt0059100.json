@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0059100",
+  "movieId": "tt0059100",
   "title": "Devils of Darkness",
   "year": 1965,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0060049",
     "tt0057987"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:49:45.159Z"

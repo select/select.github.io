@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-AptpRjLrK60",
+  "movieId": "youtube-AptpRjLrK60",
   "title": "A Vampire Must Hunt For Survival | The Last Nosferatu | Horror Thriller",
   "sources": [
     {
@@ -22,7 +22,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T01:34:23.300Z"

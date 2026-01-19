@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt6554976",
+  "movieId": "tt6554976",
   "title": "Montrak",
   "year": 2017,
   "sources": [
@@ -51,7 +51,12 @@
     "tt1132130",
     "tt4401006"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-28T07:30:02.773Z"

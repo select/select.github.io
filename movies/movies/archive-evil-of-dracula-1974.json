@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-evil-of-dracula-1974",
+  "movieId": "archive-evil-of-dracula-1974",
   "title": "ドラキュラの悪 Evil Of Dracula 1974",
   "year": 1974,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:24.393Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0055650",
+  "movieId": "tt0055650",
   "title": "Bring Me the Vampire",
   "year": 1963,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0056219",
     "tt0057859"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:53:03.394Z"

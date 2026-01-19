@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-gamera-tai-daiakuju-giron-1969",
+  "movieId": "archive-gamera-tai-daiakuju-giron-1969",
   "title": "Gamera tai daiakuju Giron (1969)",
   "year": 1969,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:32.017Z"

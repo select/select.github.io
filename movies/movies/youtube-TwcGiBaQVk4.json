@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-TwcGiBaQVk4",
+  "movieId": "youtube-TwcGiBaQVk4",
   "title": "Gamera gegen Jiggar (Fantasy, ganzer Film, deutsch, Godzilla-Art) *Monsterfilme auf YouTube*",
   "sources": [
     {
@@ -26,7 +26,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:15:52.453Z"

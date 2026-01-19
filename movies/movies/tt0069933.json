@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0069933",
+  "movieId": "tt0069933",
   "title": "Crypt of the Living Dead",
   "year": 1973,
   "sources": [
@@ -45,7 +45,12 @@
     "tt0071508",
     "tt0122722"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:06:19.368Z"

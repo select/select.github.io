@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-CPYfv-rOQcI",
+  "movieId": "youtube-CPYfv-rOQcI",
   "title": "Vampire vergessen nie – Desert of Fear (kompletter Horrorfilm auf deutsch, Mystery Vampierfilm)",
   "sources": [
     {
@@ -26,7 +26,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:09:43.713Z"

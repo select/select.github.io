@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0081107",
+  "movieId": "tt0081107",
   "title": "Mama Dracula",
   "year": 1980,
   "sources": [
@@ -60,7 +60,12 @@
     "tt0035939",
     "tt5931338"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:55.134Z"

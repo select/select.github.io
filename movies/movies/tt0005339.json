@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0005339",
+  "movieId": "tt0005339",
   "title": "A Fool There Was",
   "year": 1915,
   "sources": [
@@ -72,7 +72,12 @@
     "tt0005302",
     "tt0173837"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:10:50.367Z"

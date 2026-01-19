@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0087796",
+  "movieId": "tt0087796",
   "title": "Mutant",
   "year": 1984,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0055058",
     "tt0203139"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-11T22:00:52.612Z"

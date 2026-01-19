@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0062957",
+  "movieId": "tt0062957",
   "title": "Fangs of the Living Dead",
   "year": 1969,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0065206",
     "tt0066495"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:02:29.072Z"

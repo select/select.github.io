@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-the-satanic-rites-of-dracula-1973",
+  "movieId": "archive-the-satanic-rites-of-dracula-1973",
   "title": "The Satanic Rites Of Dracula 1973",
   "year": 1973,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:22.158Z"

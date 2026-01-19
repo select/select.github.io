@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-vampire-circus-1972_202406",
+  "movieId": "archive-vampire-circus-1972_202406",
   "title": "Vampire Circus 1972",
   "year": 1972,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:55.133Z"

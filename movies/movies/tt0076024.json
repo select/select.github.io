@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0076024",
+  "movieId": "tt0076024",
   "title": "Fighting Mad",
   "year": 1978,
   "sources": [
@@ -56,7 +56,12 @@
     "tt0230904",
     "tt0071402"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:06:25.399Z"

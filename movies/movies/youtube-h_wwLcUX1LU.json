@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-h_wwLcUX1LU",
+  "movieId": "youtube-h_wwLcUX1LU",
   "title": "Gamera gegen Gaos (KAIJU KLASSIKER digital remastert Monster Filme Deutsch komplett in voller Länge)",
   "sources": [
     {
@@ -23,7 +23,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:02:28.499Z"

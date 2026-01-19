@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0024727",
+  "movieId": "tt0024727",
   "title": "The Vampire Bat",
   "year": 1933,
   "sources": [
@@ -214,7 +214,12 @@
     "tt0037711",
     "tt0025921"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T18:39:05.088Z"

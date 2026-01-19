@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-zoltan-hound-of-dracula-1977",
+  "movieId": "archive-zoltan-hound-of-dracula-1977",
   "title": "Zoltan, Hound Of Dracula 1977",
   "year": 1977,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:13:17.039Z"

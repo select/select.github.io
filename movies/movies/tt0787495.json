@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0787495",
+  "movieId": "tt0787495",
   "title": "Netherbeast Incorporated",
   "year": 2007,
   "sources": [
@@ -65,7 +65,12 @@
     "tt1172203",
     "tt0780126"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:15:52.902Z"

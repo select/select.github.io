@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0036034",
+  "movieId": "tt0036034",
   "title": "The Living Magoroku",
   "year": 1943,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0034636",
     "tt0035622"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:10.591Z"

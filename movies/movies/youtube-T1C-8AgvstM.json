@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-T1C-8AgvstM",
+  "movieId": "youtube-T1C-8AgvstM",
   "title": "Blood Angels (FKA Thralls) | Full Movie | 2005 | Horror, Sexy Vampires | Lorenzo Lamas, Leah Cairns",
   "year": 2005,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-26T21:51:26.532Z"

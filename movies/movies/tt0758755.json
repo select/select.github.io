@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0758755",
+  "movieId": "tt0758755",
   "title": "Immortally Yours",
   "year": 2009,
   "sources": [
@@ -57,7 +57,12 @@
     "tt1285217",
     "tt0034681"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:21:55.850Z"

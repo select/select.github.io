@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-ATOMAGESPIDERISLAND",
+  "movieId": "archive-ATOMAGESPIDERISLAND",
   "title": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: ATOM AGE VAMPIRE & HORRORS OF SPIDER ISLAND",
   "sources": [
     {
@@ -17,7 +17,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:06:09.633Z"

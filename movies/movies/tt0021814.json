@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0021814",
+  "movieId": "tt0021814",
   "title": "Dracula",
   "year": 1931,
   "sources": [
@@ -59,6 +59,10 @@
     "tt0021884"
   ],
   "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    },
     {
       "id": "horror",
       "name": "Horror"

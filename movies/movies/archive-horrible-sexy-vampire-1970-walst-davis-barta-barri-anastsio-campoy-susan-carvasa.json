@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-horrible-sexy-vampire-1970-walst-davis-barta-barri-anastsio-campoy-susan-carvasa",
+  "movieId": "archive-horrible-sexy-vampire-1970-walst-davis-barta-barri-anastsio-campoy-susan-carvasa",
   "title": "Horrible Sexy Vampire, 1970 Walst Davis, Barta Barri, Anastsio Campoy, Susan Carvasal, Luis Induni, Patricia Loran, Ada Tauler, Mary Trovar + Jose Luis Madrid",
   "year": 1971,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:46.613Z"

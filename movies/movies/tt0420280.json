@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0420280",
+  "movieId": "tt0420280",
   "title": "Ugokie kori no tatehiki",
   "year": 1933,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0148036",
     "tt0146594"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:55.131Z"

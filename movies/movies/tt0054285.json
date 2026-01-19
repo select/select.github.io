@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0054285",
+  "movieId": "tt0054285",
   "title": "Atom Age Vampire",
   "year": 1960,
   "sources": [
@@ -98,7 +98,12 @@
     "tt0054462",
     "tt0052969"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:07:31.712Z"

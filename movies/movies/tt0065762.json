@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0065762",
+  "movieId": "tt0065762",
   "title": "The Vampire Happening",
   "year": 1971,
   "sources": [
@@ -46,7 +46,12 @@
     "tt0059161",
     "tt0058606"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:33.205Z"

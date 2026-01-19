@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-lust-for-a-vampire-1971_202405",
+  "movieId": "archive-lust-for-a-vampire-1971_202405",
   "title": "Lust for a Vampire (1971)",
   "year": 1971,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:09:46.420Z"

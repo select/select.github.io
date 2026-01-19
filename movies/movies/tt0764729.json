@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0764729",
+  "movieId": "tt0764729",
   "title": "Les chansons ont leur destin",
   "year": 1908,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0449438",
     "tt0477378"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:11:07.408Z"

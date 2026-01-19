@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0814302",
+  "movieId": "tt0814302",
   "title": "Saturday Night Live: The Best of John Belushi",
   "year": 2005,
   "sources": [
@@ -45,7 +45,12 @@
     "tt0270882",
     "tt0455583"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-28T07:20:37.517Z"

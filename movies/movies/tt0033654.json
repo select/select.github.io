@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0033654",
+  "movieId": "tt0033654",
   "title": "The 47 Ronin",
   "year": 1941,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0035958",
     "tt0036506"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:06:58.272Z"

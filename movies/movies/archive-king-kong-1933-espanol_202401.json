@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-king-kong-1933-espanol_202401",
+  "movieId": "archive-king-kong-1933-espanol_202401",
   "title": "King Kong 1933 Español",
   "year": 1933,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:09:24.700Z"

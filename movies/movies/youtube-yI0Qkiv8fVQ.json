@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-yI0Qkiv8fVQ",
+  "movieId": "youtube-yI0Qkiv8fVQ",
   "title": "Gamera gegen Viras (Fantasy, ganzer Film)",
   "sources": [
     {
@@ -26,7 +26,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:15:54.068Z"

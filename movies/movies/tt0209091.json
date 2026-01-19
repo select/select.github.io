@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0209091",
+  "movieId": "tt0209091",
   "title": "Lagourdette, gentleman cambrioleur",
   "year": 1916,
   "sources": [
@@ -44,7 +44,12 @@
     "tt0006689",
     "tt0907746"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:11:07.407Z"

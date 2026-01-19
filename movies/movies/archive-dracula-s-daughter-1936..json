@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-dracula-s-daughter-1936.",
+  "movieId": "archive-dracula-s-daughter-1936.",
   "title": "DRACULA' S DAUGHTER 1936.colorized",
   "year": 1936,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:15.375Z"

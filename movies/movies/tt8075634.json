@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt8075634",
+  "movieId": "tt8075634",
   "title": "Blood from Stone",
   "year": 2020,
   "sources": [
@@ -45,7 +45,12 @@
     "tt0038990",
     "tt0041796"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-28T14:55:49.474Z"

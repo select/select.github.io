@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0130236",
+  "movieId": "tt0130236",
   "title": "Samurai Cop",
   "year": 1991,
   "sources": [
@@ -52,7 +52,12 @@
     "tt7043534",
     "tt0073756"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-29T02:13:46.985Z"

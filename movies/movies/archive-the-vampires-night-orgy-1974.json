@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-the-vampires-night-orgy-1974",
+  "movieId": "archive-the-vampires-night-orgy-1974",
   "title": "The Vampires Night Orgy 1974",
   "year": 1974,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:33.205Z"

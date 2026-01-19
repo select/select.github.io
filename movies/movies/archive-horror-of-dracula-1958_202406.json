@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-horror-of-dracula-1958_202406",
+  "movieId": "archive-horror-of-dracula-1958_202406",
   "title": "Horror Of Dracula 1958",
   "year": 1958,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:08:46.613Z"

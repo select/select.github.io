@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0037794",
+  "movieId": "tt0037794",
   "title": "The House of Fear",
   "year": 1945,
   "sources": [
@@ -74,12 +74,12 @@
   ],
   "collections": [
     {
-      "id": "film-noir",
-      "name": "Film Noir"
-    },
-    {
       "id": "sherlock-holmes",
       "name": "Sherlock Holmes"
+    },
+    {
+      "id": "film-noir",
+      "name": "Film Noir"
     }
   ],
   "is_curated": true,

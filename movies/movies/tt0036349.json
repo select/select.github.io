@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0036349",
+  "movieId": "tt0036349",
   "title": "Sherlock Holmes in Washington",
   "year": 1943,
   "sources": [
@@ -116,16 +116,16 @@
   ],
   "collections": [
     {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes"
+    },
+    {
       "id": "mystery",
       "name": "Mystery"
     },
     {
       "id": "thriller",
       "name": "Thriller"
-    },
-    {
-      "id": "sherlock-holmes",
-      "name": "Sherlock Holmes"
     }
   ],
   "is_curated": true,

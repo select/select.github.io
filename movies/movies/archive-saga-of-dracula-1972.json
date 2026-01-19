@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-saga-of-dracula-1972",
+  "movieId": "archive-saga-of-dracula-1972",
   "title": "Saga Of Dracula 1972",
   "year": 1972,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:10:40.951Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0197521",
+  "movieId": "tt0197521",
   "title": "Godzilla: King of the Monsters!",
   "year": 1956,
   "sources": [
@@ -30,6 +30,8 @@
   },
   "relatedMovies": [
     "tt0048127",
+    "tt1543211",
+    "tt0047034",
     "tt0121694",
     "tt1920846",
     "tt0896040",
@@ -38,11 +40,14 @@
     "tt0221905",
     "tt8439934",
     "tt6724510",
-    "tt6710826",
-    "tt0426556",
-    "tt0489018"
+    "tt6710826"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": true,
   "verified": true,
   "lastUpdated": "2025-12-22T21:59:32.059Z"

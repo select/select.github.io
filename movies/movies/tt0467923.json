@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0467923",
+  "movieId": "tt0467923",
   "title": "Gamera the Brave",
   "year": 2005,
   "sources": [
@@ -54,7 +54,12 @@
     "tt0457489",
     "tt0426556"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2025-12-28T14:18:27.100Z"

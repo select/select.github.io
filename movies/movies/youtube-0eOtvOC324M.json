@@ -1,5 +1,5 @@
 {
-  "imdbId": "youtube-0eOtvOC324M",
+  "movieId": "youtube-0eOtvOC324M",
   "title": "Gamera - Guardian of the Universe (Abenteuer, Sci-Fi, ganzer Abenteuerfilm Deutsch, Film Deutsch)",
   "sources": [
     {
@@ -24,7 +24,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "monster-madness",
+      "name": "Monster Madness"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2025-12-24T00:12:45.070Z"

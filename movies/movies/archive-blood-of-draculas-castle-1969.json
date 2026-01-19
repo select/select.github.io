@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-blood-of-draculas-castle-1969",
+  "movieId": "archive-blood-of-draculas-castle-1969",
   "title": "Blood Of Dracula's Castle 1969",
   "year": 1969,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:07:38.718Z"

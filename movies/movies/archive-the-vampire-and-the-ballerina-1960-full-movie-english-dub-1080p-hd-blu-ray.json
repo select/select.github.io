@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-the-vampire-and-the-ballerina-1960-full-movie-english-dub-1080p-hd-blu-ray",
+  "movieId": "archive-the-vampire-and-the-ballerina-1960-full-movie-english-dub-1080p-hd-blu-ray",
   "title": "The Vampire And The Ballerina 1960",
   "year": 1960,
   "sources": [
@@ -18,7 +18,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:12:33.205Z"

@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt29418698",
+  "movieId": "tt29418698",
   "title": "Dracula vs Frankenstein (Los monstruos del terror)",
   "year": 1969,
   "sources": [
@@ -45,7 +45,12 @@
     "tt25681212",
     "tt26820087"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": true,
   "verified": false,
   "lastUpdated": "2026-01-07T00:09:38.893Z"

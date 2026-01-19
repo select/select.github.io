@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-mark-of-the-vampire-1935_202507",
+  "movieId": "archive-mark-of-the-vampire-1935_202507",
   "title": "Mark of the Vampire 1935",
   "year": 1935,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:09:46.427Z"

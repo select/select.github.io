@@ -1,5 +1,5 @@
 {
-  "imdbId": "archive-young-hannah-queen-of-the-vampires-1973",
+  "movieId": "archive-young-hannah-queen-of-the-vampires-1973",
   "title": "Young Hannah, Queen Of The Vampires 1973",
   "year": 1973,
   "sources": [
@@ -19,7 +19,12 @@
     }
   ],
   "relatedMovies": [],
-  "collections": [],
+  "collections": [
+    {
+      "id": "vampire-movies",
+      "name": "Vampire Movies"
+    }
+  ],
   "is_curated": false,
   "verified": false,
   "lastUpdated": "2026-01-07T00:13:17.038Z"

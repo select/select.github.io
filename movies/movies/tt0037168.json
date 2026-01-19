@@ -1,5 +1,5 @@
 {
-  "imdbId": "tt0037168",
+  "movieId": "tt0037168",
   "title": "The Pearl of Death",
   "year": 1944,
   "sources": [
@@ -76,12 +76,12 @@
   ],
   "collections": [
     {
-      "id": "horror",
-      "name": "Horror"
-    },
-    {
       "id": "sherlock-holmes",
       "name": "Sherlock Holmes"
+    },
+    {
+      "id": "horror",
+      "name": "Horror"
     }
   ],
   "is_curated": true,
