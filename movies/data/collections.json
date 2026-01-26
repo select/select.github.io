@@ -2,7 +2,7 @@
   "_schema": {
     "version": "1.1.0",
     "description": "Movie collections database",
-    "lastUpdated": "2026-01-19T00:09:10.338Z"
+    "lastUpdated": "2026-01-25T20:37:07.921Z"
   },
   "top-movies": {
     "id": "top-movies",
@@ -15,11 +15,9 @@
       "tt0050825",
       "tt0051201",
       "tt0057012",
-      "tt0056592",
       "tt0017136",
       "tt0036775",
       "tt0091251",
-      "tt0071853",
       "tt0053291",
       "tt0057115",
       "tt0042192",
@@ -70,7 +68,6 @@
       "tt0068519",
       "tt0015881",
       "tt3390572",
-      "tt0056058",
       "tt0071604",
       "tt0023042",
       "tt0058604",
@@ -118,7 +115,6 @@
       "tt0056049",
       "tt0036244",
       "tt0012364",
-      "tt0040725",
       "tt0059527",
       "tt0053976",
       "tt0046268",
@@ -128,7 +124,6 @@
       "tt0051093",
       "tt0047281",
       "tt0046478",
-      "tt0055601",
       "tt1185616",
       "tt0054144",
       "tt0057358",
@@ -136,7 +131,7 @@
       "tt1332128"
     ],
     "createdAt": "2025-12-29T00:00:00.000Z",
-    "updatedAt": "2026-01-11T01:02:08.699Z",
+    "updatedAt": "2026-01-24T17:46:19.276Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -426,14 +421,14 @@
       "tt0076162",
       "tt0077594",
       "tt0077711",
-      "tt0078771",
+      "tt2428166",
       "tt0079041",
       "tt0079095",
       "tt0079672",
       "tt0079704",
       "tt0079944",
       "tt0080310",
-      "tt0080661",
+      "tt0038494",
       "tt0080979",
       "tt0081455",
       "tt0082671",
@@ -472,7 +467,7 @@
       "tt6777170"
     ],
     "createdAt": "2025-12-31T02:45:00.000Z",
-    "updatedAt": "2026-01-11T01:09:26.024Z",
+    "updatedAt": "2026-01-21T03:51:45.924Z",
     "savedQueries": [],
     "tags": [
       "classics",
@@ -480,103 +475,6 @@
       "prestigious",
       "restored",
       "cinema-history"
-    ]
-  },
-  "charlie-chaplin": {
-    "id": "charlie-chaplin",
-    "name": "Charlie Chaplin",
-    "description": "Classic films featuring the legendary Charlie Chaplin, from his early shorts to his greatest masterpieces.",
-    "movieIds": [
-      "archive-CC_1915_10_04_CharlieShanghaied",
-      "archive-charlie_chaplin_film_fest",
-      "archive-AGentlemanOfNerve1914",
-      "archive-BETWEENSHOWERS1914CharlieChaplinFordSterlingChesterConklin",
-      "archive-CC_1914_02_07_KidsAutoRaceAtVenice",
-      "archive-CC_1914_02_09_MabelsStrangePredicament",
-      "archive-CC_1914_03_02_FilmJohnny",
-      "archive-CC_1914_03_16_HisFavoritePasttime",
-      "archive-CC_1914_04_04_TheLandladysPet",
-      "archive-CC_1914_04_27_CaughtinaCaberet",
-      "archive-CC_1914_06_20_CharlottEtLeMannequin",
-      "archive-CC_1914_07_09_LaffingGas",
-      "archive-CC_1914_08_01_CharolotGargonDeTheater",
-      "archive-CC_1914_08_13_CharliesRecreation",
-      "archive-CC_1914_10_10_TheRivalMashers",
-      "archive-CC_1914_10_29_CharlottMabelAuxCourses",
-      "archive-CC_1914_11_07_MusicalTramps",
-      "archive-CC_1914_11_14_TilliesPuncturedRomance",
-      "archive-CC_1916_08_07_One_A_M",
-      "archive-CC_1918_xx_xx_TripleTrouble",
-      "archive-CharlieChaplinsTheRink",
-      "archive-GentlemanofNerve",
-      "archive-GettingAcquainted1914",
-      "archive-InTheParktinted",
-      "archive-ScenesOfCityLife-dushifengguang",
-      "archive-THECHAMPION1915CharlieChaplinEdnaPurviance",
-      "archive-THEFACEONTHEBARROOMFLOOR1914CharlieChaplin",
-      "archive-THETRAMP1915CharlieChaplinEdnaPurviance",
-      "archive-a-days-pleasure-1919",
-      "archive-charlie-chaplin-.-a-night-in-the-show-1915-classic-short-colourized-bw-mix",
-      "archive-charlie-chaplin-.-mabels-strange-predicament-1914-restored-short-silent-film-noir-comedy",
-      "archive-charlie-chaplin-.-the-champion-1915-classic-silent-film-noir-dramady",
-      "archive-charlie-chaplin-.-the-cure-1917-classic-siletnt-film-noir-comedy",
-      "archive-charlie-chaplin-in-making-a-living-1914-colorized",
-      "archive-charolot-gargon-de-theater-1914",
-      "archive-getting-acquainted-1914-directed-by-charlie-chaplin-colorized",
-      "archive-his-favorite-pasttime-1914",
-      "archive-his-trysting-places-1914-directed-by-charles-chaplin",
-      "archive-laffing-gas-1914",
-      "archive-musical-tramps-1914",
-      "archive-one-a.-m.-1916-directed-by-charlie-chaplin",
-      "tt0003758",
-      "tt0004936",
-      "tt9459600",
-      "youtube-N9lDRiNJz3k",
-      "youtube-HKjr9MSZnPo",
-      "tt0004282",
-      "tt0004284",
-      "tt1283535",
-      "tt0004707",
-      "tt0009018",
-      "tt0470941",
-      "tt0003760",
-      "tt0004091",
-      "tt0004100",
-      "tt0192120",
-      "tt0004210",
-      "tt0004277",
-      "tt0007145",
-      "tt0015841",
-      "tt0013486",
-      "tt0029430",
-      "tt0004518",
-      "tt0009611",
-      "tt0486919",
-      "tt0012304",
-      "tt0012349",
-      "tt0014358",
-      "tt0004637"
-    ],
-    "createdAt": "2025-12-29T00:00:00.000Z",
-    "updatedAt": "2026-01-05T23:47:01.907Z",
-    "savedQueries": [
-      {
-        "searchQuery": "Charlie Chaplin",
-        "filterState": {
-          "searchQuery": "Charlie Chaplin",
-          "sort": {
-            "field": "relevance",
-            "direction": "desc"
-          }
-        }
-      }
-    ],
-    "tags": [
-      "comedy",
-      "silent-film",
-      "slapstick",
-      "classic-hollywood",
-      "shorts"
     ]
   },
   "animation-shorts": {
@@ -1736,15 +1634,193 @@
       "tt0161945",
       "tt0161951",
       "tt0161963",
-      "youtube-u92t2pNOoqM"
+      "youtube-u92t2pNOoqM",
+      "tt0150031",
+      "tt0153753",
+      "tt0153339",
+      "tt0151948",
+      "tt0161333",
+      "tt0150275",
+      "tt0150279",
+      "tt0153194",
+      "tt0149592",
+      "tt0161646",
+      "tt0147829",
+      "tt0149726",
+      "tt0149765",
+      "tt0149801",
+      "tt0149847",
+      "tt0147936",
+      "tt0150122",
+      "tt0148036",
+      "tt0150293",
+      "tt0150569",
+      "tt0150591",
+      "tt0148201",
+      "tt0150794",
+      "tt0148246",
+      "tt0150831",
+      "tt0150841",
+      "tt0150865",
+      "tt0150895",
+      "tt0150963",
+      "tt0150974",
+      "tt0150981",
+      "tt0150983",
+      "tt0151020",
+      "tt0151029",
+      "tt0151060",
+      "tt0161729",
+      "tt0151315",
+      "tt0148404",
+      "tt0151362",
+      "tt0148443",
+      "tt0151563",
+      "tt0151565",
+      "tt0151642",
+      "tt0151673",
+      "tt0037108",
+      "tt0151692",
+      "tt0151747",
+      "tt0151842",
+      "tt0148610",
+      "tt0152301",
+      "tt0161929",
+      "tt0152406",
+      "tt0148905",
+      "tt0152489",
+      "tt0152597",
+      "tt0152716",
+      "tt0161998",
+      "tt0150001",
+      "tt0150072",
+      "tt0150215",
+      "tt0150286",
+      "tt0148190",
+      "tt0150785",
+      "tt0150826",
+      "tt0150854",
+      "tt0150879",
+      "tt0148339",
+      "tt0161735",
+      "tt0148407",
+      "tt0151519",
+      "tt0148563",
+      "tt0151943",
+      "tt0152445",
+      "tt0152601",
+      "tt0149212",
+      "tt0149263",
+      "tt0153363",
+      "tt0149264",
+      "tt0149293",
+      "tt0153299",
+      "tt0153345",
+      "tt0153740",
+      "tt0149373",
+      "tt0149375",
+      "tt0153862",
+      "tt0153985",
+      "tt1020989",
+      "tt0014560",
+      "archive-max-fleischers-gabby-the-complete-collection-1940-41",
+      "tt0019881",
+      "tt0152446",
+      "tt0151637",
+      "tt0148028",
+      "tt0150391",
+      "tt0161528",
+      "tt0150503",
+      "tt0150732",
+      "tt0161617",
+      "tt0150908",
+      "tt0151154",
+      "tt0152210",
+      "tt0148984",
+      "tt0150743",
+      "tt0152138",
+      "tt0149315",
+      "tt0150871",
+      "tt0151319",
+      "tt0149255",
+      "tt0149376",
+      "tt0150213",
+      "tt0148044",
+      "tt0148058",
+      "tt0161530",
+      "tt0150606",
+      "tt0151410",
+      "tt0151413",
+      "tt0148474",
+      "tt0147054",
+      "tt0151865",
+      "tt0149760",
+      "tt0148137",
+      "tt0148475",
+      "tt0152160",
+      "tt0152213",
+      "tt0147509",
+      "tt0153104",
+      "tt0153387",
+      "tt0153658"
     ],
     "createdAt": "2025-12-29T00:00:00.000Z",
-    "updatedAt": "2026-01-05T23:46:48.485Z",
+    "updatedAt": "2026-01-25T20:37:07.921Z",
     "savedQueries": [
       {
         "searchQuery": "Popey",
         "filterState": {
           "searchQuery": "Popey",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Eddie Donnelly",
+        "filterState": {
+          "searchQuery": "Eddie Donnelly",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Max Fleischer",
+        "filterState": {
+          "searchQuery": "Max Fleischer",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Art Bartsch",
+        "filterState": {
+          "searchQuery": "Art Bartsch",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Martin Taras",
+        "filterState": {
+          "searchQuery": "Martin Taras",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Dave Tendlar",
+        "filterState": {
+          "searchQuery": "Dave Tendlar",
           "sort": {
             "field": "relevance",
             "direction": "desc"
@@ -1758,81 +1834,6 @@
       "golden-age",
       "cartoons",
       "family"
-    ]
-  },
-  "monster-madness": {
-    "id": "monster-madness",
-    "name": "Monster Madness",
-    "description": "Giant monster movies featuring the legendary kaiju: Godzilla, King Kong, and Gamera. Classic creature features from Japan and beyond.",
-    "movieIds": [
-      "youtube-TwcGiBaQVk4",
-      "tt0047034",
-      "tt1543211",
-      "archive-godzilla-1954-colorization-2020",
-      "tt0048127",
-      "tt0197521",
-      "tt0059346",
-      "youtube-0eOtvOC324M",
-      "youtube-uFL5GK7qzy4",
-      "youtube-kor6ghJ344I",
-      "youtube-AZWDlEHIi_4",
-      "tt0116390",
-      "tt0184503",
-      "youtube-h_wwLcUX1LU",
-      "youtube-1MlbLcd_TWs",
-      "tt0113142",
-      "tt0467923",
-      "archive-gamera-tai-uchu-kaiju-bairasu-1968",
-      "archive-gamera-tai-daiakuju-giron-1969",
-      "youtube-171tNN5CuqE",
-      "youtube-yI0Qkiv8fVQ",
-      "tt0024216",
-      "archive-king-kong-1933-espanol_202401",
-      "tt0158780",
-      "archive-Fire_Monsters_Against_The_Son_of_Hercules",
-      "archive-MonsterA.k.a.Monstroid"
-    ],
-    "createdAt": "2026-01-19T00:50:00.000Z",
-    "updatedAt": "2026-01-18T23:57:04.505Z",
-    "savedQueries": [
-      {
-        "searchQuery": "Godzilla",
-        "filterState": {
-          "searchQuery": "Godzilla",
-          "sort": {
-            "field": "relevance",
-            "direction": "desc"
-          }
-        }
-      },
-      {
-        "searchQuery": "King Kong",
-        "filterState": {
-          "searchQuery": "King Kong",
-          "sort": {
-            "field": "relevance",
-            "direction": "desc"
-          }
-        }
-      },
-      {
-        "searchQuery": "Gamera",
-        "filterState": {
-          "searchQuery": "Gamera",
-          "sort": {
-            "field": "relevance",
-            "direction": "desc"
-          }
-        }
-      }
-    ],
-    "tags": [
-      "kaiju",
-      "monsters",
-      "giant-creatures",
-      "japanese-cinema",
-      "sci-fi",
-      "action"
     ]
   },
   "sherlock-holmes": {
@@ -1849,12 +1850,10 @@
       "tt0988045",
       "tt0007338",
       "tt0013597",
-      "archive-SherlockHolmes-TheManWhoDisappearedfailedPilot",
       "youtube-kBpqVDtQyuc",
-      "youtube-psU0YDidS6o",
+      "tt0038494",
       "youtube-f46uuHG6SYw",
       "youtube-inDZjZTLL1c",
-      "youtube-hdGNbzud_Xk",
       "archive-Sherlock_Holmes_1954",
       "tt0035317",
       "tt0035318",
@@ -1886,7 +1885,7 @@
       "tt0406934"
     ],
     "createdAt": "2026-01-11T19:30:00.000Z",
-    "updatedAt": "2026-01-11T22:35:46.781Z",
+    "updatedAt": "2026-01-21T02:48:32.211Z",
     "savedQueries": [
       {
         "searchQuery": "Sherlock Holmes",
@@ -1920,11 +1919,8 @@
       "youtube-_dWZzsy-MNo",
       "tt0207145",
       "tt0054285",
-      "archive-AtomAgeVampireSmaller",
-      "youtube-NsgT7dqLG1U",
       "youtube-ZjQWYUlNSAA",
       "tt0057603",
-      "youtube-T1C-8AgvstM",
       "tt8075634",
       "archive-DEVILDESERTGOLIATHVAMPIRES",
       "archive-ATOMAGESPIDERISLAND",
@@ -1978,7 +1974,6 @@
       "tt0065762",
       "archive-the-vampires-night-orgy-1974",
       "archive-the-werewolf-vs-the-vampire-woman-1971",
-      "archive-the-werewolf-vs-the-vampire-woman_202407",
       "tt0090196",
       "tt0053340",
       "archive-vampire-circus-1972_202406",
@@ -1996,7 +1991,6 @@
       "archive-blood-of-draculas-castle",
       "archive-blood-of-draculas-castle-1969",
       "archive-bram-stokers-dracula-1992_202108",
-      "youtube-4k7ujejgchU",
       "youtube-0a1PSsHTZ0Q",
       "youtube-KwZyXhUkVws",
       "tt29418698",
@@ -2009,23 +2003,19 @@
       "archive-draculas-daughter-colorized-1936-720p",
       "archive-horror-of-dracula-1958_202406",
       "archive-house-of-dracula",
-      "archive-HouseOfDracula-Trailer",
       "tt0445212",
       "archive-saga-of-dracula-1972",
       "tt0067713",
-      "archive-scars-of-dracula-1970_202406",
       "archive-son-of-dracula-1943_202406",
-      "archive-the-brides-of-dracula-1960_202406",
       "tt0031796",
       "tt0070634",
       "archive-the-satanic-rites-of-dracula-1973",
       "archive-zoltan-hound-of-dracula-1977",
-      "archive-evil-of-dracula-1974",
       "archive-lake-of-dracula-1971",
       "tt0040068"
     ],
     "createdAt": "2026-01-18T20:56:00.000Z",
-    "updatedAt": "2026-01-19T00:09:10.338Z",
+    "updatedAt": "2026-01-21T02:47:08.303Z",
     "savedQueries": [
       {
         "searchQuery": "vampire",
@@ -2057,62 +2047,236 @@
     ],
     "enabled": true
   },
-  "martial-arts": {
-    "id": "martial-arts",
-    "name": "Martial Arts",
-    "description": "A collection of classic martial arts, kung fu, samurai, and ninja movies from around the world.",
+  "cloak-and-dagger": {
+    "id": "cloak-and-dagger",
+    "name": "Cloak and Dagger",
+    "description": "Swashbuckling adventures of intrigue, espionage, and swordplay - from musketeers and masked avengers to spies and secret agents in historical settings.",
     "movieIds": [
-      "tt0398913",
-      "archive-shoguns-ninja-sonny-chiba",
-      "archive-the-little-dragons-karate-kids-usa-1979-family-action-comedy",
-      "archive-rningai--daiichiwa-utsukushiki-emono-aka-jobless-samurai_1928",
-      "youtube-9eGWe1THw14",
-      "youtube--LEoqYF0X7I",
-      "archive-meng-jiao-di-she-long-nu-1973",
-      "archive-xiao-quan-wang-1972",
-      "tt0056058",
-      "archive-JackieChanFirstMovieBigAndLittleWongTinBar",
-      "tt0079509",
-      "tt0085127",
-      "tt0089374",
-      "tt0091655",
-      "tt0095403",
-      "tt0099812",
-      "tt0103950",
-      "tt18757236",
-      "tt4687848",
-      "youtube-izJVVBjIN3Q",
-      "youtube-PdVMOvOzZNw",
-      "youtube-PofsGjGYfUs",
-      "youtube-xU9eLFJ6ZJ4",
-      "archive-LADYWHIRLWIND1973_1",
-      "tt0095937",
-      "tt1442571",
-      "tt6083388",
-      "youtube-Fm229Xcte1A",
-      "tt0079891",
-      "tt0099818",
-      "tt0103285",
-      "tt0108624",
-      "tt0328113",
-      "tt0342258",
-      "tt0913968",
-      "tt1686784",
-      "tt2644714",
-      "youtube-iGGk97eT384",
-      "youtube-bmHFoKFsxjQ",
-      "youtube-ZjKwt3FgkvY",
-      "youtube-2u-Le5E7v6U",
-      "tt0133226",
+      "tt0012752",
+      "tt0024663",
+      "tt1977681",
+      "tt15711350",
+      "tt0031619",
+      "youtube-d28LWwGYNHg",
+      "tt0246544",
+      "tt0008309",
+      "tt0153019",
+      "tt0140680",
+      "tt0021751",
+      "tt0015758",
+      "tt0194584",
+      "tt0027007",
+      "tt0011439",
+      "archive-mark-of-zorro-1940",
+      "tt0029818",
+      "youtube-a8RSKsl3sXc",
+      "archive-zorro-s-black-whip-1944-colorized",
+      "tt0032164",
+      "tt0037481",
+      "tt0027377",
+      "tt0042367",
+      "tt0395983",
+      "archive-svtplay-8E4oVbN",
+      "archive-cyranodebergerac_sdrodrian",
+      "tt0046388",
+      "tt0025004",
+      "tt0033076",
+      "tt0149712",
+      "tt0013556",
+      "tt0152201",
+      "tt0031869",
+      "tt0039779",
+      "tt0034120",
+      "tt0040741",
+      "youtube-2-WTMJ_qR8o",
+      "tt0044104",
+      "tt0040166",
+      "tt0064892",
+      "tt0030675",
+      "tt0025748",
+      "tt0013674"
+    ],
+    "createdAt": "2026-01-24T00:00:00.000Z",
+    "updatedAt": "2026-01-24T17:14:55.090Z",
+    "savedQueries": [
+      {
+        "searchQuery": "Three Musketeers",
+        "filterState": {
+          "searchQuery": "Three Musketeers",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "D'Artagnan",
+        "filterState": {
+          "searchQuery": "D'Artagnan",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Zorro",
+        "filterState": {
+          "searchQuery": "Zorro",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Scarlet Pimpernel",
+        "filterState": {
+          "searchQuery": "Scarlet Pimpernel",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "swashbuckler",
+        "filterState": {
+          "searchQuery": "swashbuckler",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "swordsman",
+        "filterState": {
+          "searchQuery": "swordsman",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "masked avenger",
+        "filterState": {
+          "searchQuery": "masked avenger",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Count of Monte Cristo",
+        "filterState": {
+          "searchQuery": "Count of Monte Cristo",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Robin Hood",
+        "filterState": {
+          "searchQuery": "Robin Hood",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Cyrano",
+        "filterState": {
+          "searchQuery": "Cyrano",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "adventure",
+      "swashbuckler",
+      "intrigue",
+      "action",
+      "historical",
+      "espionage"
+    ]
+  },
+  "ninja": {
+    "id": "ninja",
+    "name": "Ninja",
+    "description": "Action-packed ninja films featuring martial arts, stealth, and ancient warrior traditions.",
+    "movieIds": [
+      "youtube-eCMeway-jTg",
+      "tt0106257",
+      "tt0109280",
+      "tt1294141",
+      "tt0165755",
+      "tt0082332",
+      "tt0488015",
+      "tt0164635",
+      "youtube-85UxL-AJdpQ",
+      "youtube-4qibUC40OCo",
+      "youtube-SXUbp1Nn4dw",
+      "youtube-pabciQ-MJD0",
+      "archive-ninja-assassins-1979",
+      "tt0199814",
+      "archive-NinjaDeathTrilogy",
+      "tt0087805",
+      "tt0199849",
+      "tt0199861",
+      "tt0084674",
+      "tt2458106",
+      "youtube-k_wRylWxgo0",
+      "tt0086192",
+      "tt0165247",
+      "archive-shoguns-ninja-sonny-chiba"
+    ],
+    "createdAt": "2026-01-21T00:00:00.000Z",
+    "updatedAt": "2026-01-21T02:45:26.765Z",
+    "savedQueries": [
+      {
+        "searchQuery": "ninja",
+        "filterState": {
+          "searchQuery": "ninja",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "martial-arts",
+      "action",
+      "ninja",
+      "japanese-cinema",
+      "warriors"
+    ]
+  },
+  "samurai": {
+    "id": "samurai",
+    "name": "Samurai",
+    "description": "Epic samurai films showcasing the way of the warrior, honor, and legendary swordsmen from feudal Japan.",
+    "movieIds": [
       "archive-le-samurai-vose-sellada",
       "tt0076024",
       "tt0045935",
       "tt1165285",
+      "tt0056058",
       "tt0099753",
       "tt0063186",
       "tt0058279",
       "tt0143348",
       "tt0058430",
+      "archive-rningai--daiichiwa-utsukushiki-emono-aka-jobless-samurai_1928",
       "tt0130236",
       "tt3398252",
       "tt0047444",
@@ -2123,7 +2287,6 @@
       "tt0061847",
       "tt0059303",
       "tt0056443",
-      "tt0814302",
       "tt0033654",
       "youtube-qKKMBy4aB5k",
       "tt0036034",
@@ -2132,18 +2295,289 @@
       "tt0420280",
       "tt0055630"
     ],
-    "createdAt": "2025-12-29T16:08:00.000Z",
-    "updatedAt": "2026-01-12T00:28:15.424Z",
-    "savedQueries": [],
-    "tags": [
-      "action",
-      "kung-fu",
-      "martial-arts",
-      "asian-cinema",
-      "fight-scenes",
-      "samurai"
+    "createdAt": "2026-01-21T00:00:00.000Z",
+    "updatedAt": "2026-01-24T17:20:38.539Z",
+    "savedQueries": [
+      {
+        "searchQuery": "samurai",
+        "filterState": {
+          "searchQuery": "samurai",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
     ],
-    "enabled": true
+    "tags": [
+      "samurai",
+      "japanese-cinema",
+      "martial-arts",
+      "historical",
+      "warriors",
+      "honor"
+    ]
+  },
+  "knights-and-vikings": {
+    "id": "knights-and-vikings",
+    "name": "Knights & Vikings",
+    "description": "Epic tales of medieval knights and Norse warriors, featuring battles, honor, quests, and legendary heroes from the age of swords and shields.",
+    "movieIds": [
+      "tt8444480",
+      "tt0047365",
+      "archive-tarkan-viking-kani_movie",
+      "tt8284860",
+      "tt0529758",
+      "tt0019532",
+      "tt0052365",
+      "archive-AwesomePower",
+      "tt7718636",
+      "tt3451956",
+      "tt1785669",
+      "tt0325013",
+      "tt3466816",
+      "tt6735670",
+      "tt0073244",
+      "tt0057547",
+      "tt0225797",
+      "archive-the-vagabond-king_1930",
+      "archive-silent-the-life-and-death-of-king-richard-iii",
+      "tt0001857",
+      "archive-lancelot-and-guinevere-1963",
+      "youtube-x38I1bWOxb8",
+      "youtube-JUzf0L8I98c",
+      "tt0053861",
+      "tt13117446",
+      "youtube-_Ku-49beN1U",
+      "tt1135493",
+      "tt6603378",
+      "tt4738360",
+      "tt1113818",
+      "tt0056211"
+    ],
+    "createdAt": "2026-01-21T00:00:00.000Z",
+    "updatedAt": "2026-01-24T16:47:40.337Z",
+    "savedQueries": [
+      {
+        "searchQuery": "knight",
+        "filterState": {
+          "searchQuery": "knight",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "viking",
+        "filterState": {
+          "searchQuery": "viking",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "lancelot",
+        "filterState": {
+          "searchQuery": "lancelot",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "medieval",
+      "knights",
+      "vikings",
+      "norse",
+      "chivalry",
+      "historical",
+      "adventure",
+      "warriors"
+    ]
+  },
+  "monster-madness": {
+    "id": "monster-madness",
+    "name": "Monster Madness",
+    "description": "Giant monster movies featuring the legendary kaiju: Godzilla, King Kong, and Gamera. Classic creature features from Japan and beyond.",
+    "movieIds": [
+      "youtube-TwcGiBaQVk4",
+      "tt0047034",
+      "tt1543211",
+      "archive-godzilla-1954-colorization-2020",
+      "tt0048127",
+      "tt0197521",
+      "tt0059346",
+      "youtube-0eOtvOC324M",
+      "youtube-uFL5GK7qzy4",
+      "youtube-kor6ghJ344I",
+      "tt0113142",
+      "tt0116390",
+      "tt0184503",
+      "tt0061695",
+      "youtube-1MlbLcd_TWs",
+      "tt0113142",
+      "tt0467923",
+      "tt0063000",
+      "tt0064360",
+      "youtube-171tNN5CuqE",
+      "youtube-yI0Qkiv8fVQ",
+      "tt0024216",
+      "archive-king-kong-1933-espanol_202401",
+      "tt0158780",
+      "archive-Fire_Monsters_Against_The_Son_of_Hercules",
+      "archive-MonsterA.k.a.Monstroid",
+      "tt21097864",
+      "tt16429984",
+      "tt24221914",
+      "tt18937574",
+      "tt0471561",
+      "tt0221905",
+      "tt0048215"
+    ],
+    "createdAt": "2026-01-19T00:50:00.000Z",
+    "updatedAt": "2026-01-24T17:18:08.690Z",
+    "savedQueries": [
+      {
+        "searchQuery": "Godzilla",
+        "filterState": {
+          "searchQuery": "Godzilla",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "King Kong",
+        "filterState": {
+          "searchQuery": "King Kong",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      },
+      {
+        "searchQuery": "Gamera",
+        "filterState": {
+          "searchQuery": "Gamera",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "kaiju",
+      "monsters",
+      "giant-creatures",
+      "japanese-cinema",
+      "sci-fi",
+      "action"
+    ]
+  },
+  "charlie-chaplin": {
+    "id": "charlie-chaplin",
+    "name": "Charlie Chaplin",
+    "description": "Classic films featuring the legendary Charlie Chaplin, from his early shorts to his greatest masterpieces.",
+    "movieIds": [
+      "archive-CC_1915_10_04_CharlieShanghaied",
+      "archive-charlie_chaplin_film_fest",
+      "archive-AGentlemanOfNerve1914",
+      "archive-BETWEENSHOWERS1914CharlieChaplinFordSterlingChesterConklin",
+      "archive-CC_1914_02_07_KidsAutoRaceAtVenice",
+      "archive-CC_1914_02_09_MabelsStrangePredicament",
+      "archive-CC_1914_03_02_FilmJohnny",
+      "archive-CC_1914_03_16_HisFavoritePasttime",
+      "archive-CC_1914_04_04_TheLandladysPet",
+      "archive-CC_1914_04_27_CaughtinaCaberet",
+      "archive-CC_1914_06_20_CharlottEtLeMannequin",
+      "archive-CC_1914_07_09_LaffingGas",
+      "archive-CC_1914_08_01_CharolotGargonDeTheater",
+      "archive-CC_1914_08_13_CharliesRecreation",
+      "archive-CC_1914_10_10_TheRivalMashers",
+      "archive-CC_1914_10_29_CharlottMabelAuxCourses",
+      "archive-CC_1914_11_07_MusicalTramps",
+      "archive-CC_1914_11_14_TilliesPuncturedRomance",
+      "archive-CC_1916_08_07_One_A_M",
+      "archive-CC_1918_xx_xx_TripleTrouble",
+      "archive-CharlieChaplinsTheRink",
+      "archive-GentlemanofNerve",
+      "archive-GettingAcquainted1914",
+      "archive-InTheParktinted",
+      "archive-ScenesOfCityLife-dushifengguang",
+      "archive-THECHAMPION1915CharlieChaplinEdnaPurviance",
+      "archive-THEFACEONTHEBARROOMFLOOR1914CharlieChaplin",
+      "archive-THETRAMP1915CharlieChaplinEdnaPurviance",
+      "archive-a-days-pleasure-1919",
+      "archive-charlie-chaplin-.-a-night-in-the-show-1915-classic-short-colourized-bw-mix",
+      "archive-charlie-chaplin-.-mabels-strange-predicament-1914-restored-short-silent-film-noir-comedy",
+      "archive-charlie-chaplin-.-the-champion-1915-classic-silent-film-noir-dramady",
+      "archive-charlie-chaplin-.-the-cure-1917-classic-siletnt-film-noir-comedy",
+      "archive-charlie-chaplin-in-making-a-living-1914-colorized",
+      "archive-charolot-gargon-de-theater-1914",
+      "archive-getting-acquainted-1914-directed-by-charlie-chaplin-colorized",
+      "archive-his-favorite-pasttime-1914",
+      "archive-his-trysting-places-1914-directed-by-charles-chaplin",
+      "archive-laffing-gas-1914",
+      "archive-musical-tramps-1914",
+      "archive-one-a.-m.-1916-directed-by-charlie-chaplin",
+      "tt0003758",
+      "tt0004936",
+      "tt9459600",
+      "youtube-N9lDRiNJz3k",
+      "youtube-HKjr9MSZnPo",
+      "tt0004282",
+      "tt0004284",
+      "tt1283535",
+      "tt0004707",
+      "tt0009018",
+      "tt0470941",
+      "tt0003760",
+      "tt0004091",
+      "tt0004100",
+      "tt0192120",
+      "tt0004210",
+      "tt0004277",
+      "tt0007145",
+      "tt0015841",
+      "tt0013486",
+      "tt0029430",
+      "tt0004518",
+      "tt0009611",
+      "tt0486919",
+      "tt0012304",
+      "tt0012349",
+      "tt0014358",
+      "tt0004637"
+    ],
+    "createdAt": "2025-12-29T00:00:00.000Z",
+    "updatedAt": "2026-01-05T23:47:01.907Z",
+    "savedQueries": [
+      {
+        "searchQuery": "Charlie Chaplin",
+        "filterState": {
+          "searchQuery": "Charlie Chaplin",
+          "sort": {
+            "field": "relevance",
+            "direction": "desc"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "comedy",
+      "silent-film",
+      "slapstick",
+      "classic-hollywood",
+      "shorts"
+    ]
   },
   "buster-keaton": {
     "id": "buster-keaton",
@@ -2446,29 +2880,109 @@
       "auteur"
     ]
   },
+  "martial-arts": {
+    "id": "martial-arts",
+    "name": "Martial Arts",
+    "description": "A collection of classic martial arts, kung fu, samurai, and ninja movies from around the world.",
+    "movieIds": [
+      "tt0398913",
+      "archive-shoguns-ninja-sonny-chiba",
+      "archive-the-little-dragons-karate-kids-usa-1979-family-action-comedy",
+      "archive-rningai--daiichiwa-utsukushiki-emono-aka-jobless-samurai_1928",
+      "youtube-9eGWe1THw14",
+      "youtube--LEoqYF0X7I",
+      "archive-meng-jiao-di-she-long-nu-1973",
+      "archive-xiao-quan-wang-1972",
+      "tt0056058",
+      "archive-JackieChanFirstMovieBigAndLittleWongTinBar",
+      "tt0079509",
+      "tt0085127",
+      "tt0089374",
+      "tt0091655",
+      "tt0095403",
+      "tt0099812",
+      "tt0103950",
+      "tt18757236",
+      "tt4687848",
+      "youtube-izJVVBjIN3Q",
+      "youtube-PdVMOvOzZNw",
+      "youtube-PofsGjGYfUs",
+      "youtube-xU9eLFJ6ZJ4",
+      "archive-LADYWHIRLWIND1973_1",
+      "tt0095937",
+      "tt1442571",
+      "tt6083388",
+      "youtube-Fm229Xcte1A",
+      "tt0079891",
+      "tt0099818",
+      "tt0103285",
+      "tt0108624",
+      "tt0328113",
+      "tt0342258",
+      "tt0913968",
+      "tt1686784",
+      "tt2644714",
+      "youtube-iGGk97eT384",
+      "youtube-bmHFoKFsxjQ",
+      "youtube-ZjKwt3FgkvY",
+      "youtube-2u-Le5E7v6U",
+      "tt0133226",
+      "archive-le-samurai-vose-sellada",
+      "tt0076024",
+      "tt0045935",
+      "tt1165285",
+      "tt0099753",
+      "tt0063186",
+      "tt0058279",
+      "tt0143348",
+      "tt0058430",
+      "tt0130236",
+      "tt3398252",
+      "tt0047444",
+      "tt0048579",
+      "tt0049710",
+      "youtube-wXpCUmh4ka0",
+      "youtube-_GT-W6r28hQ",
+      "tt0061847",
+      "tt0059303",
+      "tt0056443",
+      "tt0033654",
+      "youtube-qKKMBy4aB5k",
+      "tt0036034",
+      "tt0004838",
+      "tt0046478",
+      "tt0420280",
+      "tt0055630"
+    ],
+    "createdAt": "2025-12-29T16:08:00.000Z",
+    "updatedAt": "2026-01-24T17:20:37.056Z",
+    "savedQueries": [],
+    "tags": [
+      "action",
+      "kung-fu",
+      "martial-arts",
+      "asian-cinema",
+      "fight-scenes",
+      "samurai"
+    ],
+    "enabled": true
+  },
   "sci-fi": {
     "id": "sci-fi",
     "name": "Science Fiction",
     "description": "Explore the future, space, and beyond with classic and contemporary science fiction films.",
     "movieIds": [
       "tt0087803",
-      "tt0062622",
-      "tt12385804",
       "tt3460068",
-      "tt0120591",
       "tt0015214",
       "tt0092610",
       "tt0143127",
-      "tt0068270",
-      "tt0085267",
       "tt4759544",
       "tt6264824",
-      "tt0458339",
-      "tt1843866",
       "tt0252973",
       "tt0184342",
       "tt6613878",
-      "tt26584495",
+      "tt12093604",
       "tt0046876",
       "tt0011130",
       "tt0022835",
@@ -2485,7 +2999,6 @@
       "tt0045920",
       "tt0041514",
       "tt0070233",
-      "tt5442430",
       "tt0026663",
       "tt0079501",
       "tt0017136",
@@ -2496,7 +3009,6 @@
       "tt35667868",
       "tt0050873",
       "tt0062168",
-      "tt0433035",
       "tt0081455",
       "tt2433494",
       "tt0031951",
@@ -2514,7 +3026,6 @@
       "tt3986820",
       "tt0133751",
       "tt0051622",
-      "tt0050539",
       "tt0024184",
       "tt0058700",
       "tt0044876",
@@ -2532,11 +3043,10 @@
       "tt0098546",
       "tt0122111",
       "tt0407304",
-      "tt0348366",
-      "tt0044207"
+      "tt0348366"
     ],
     "createdAt": "2026-01-07T01:00:00.000Z",
-    "updatedAt": "2026-01-09T00:49:04.369Z",
+    "updatedAt": "2026-01-21T02:26:36.180Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -2561,6 +3071,42 @@
       "technology",
       "aliens"
     ]
+  },
+  "animation-features": {
+    "id": "animation-features",
+    "name": "Animation Features",
+    "description": "Full-length animated feature films spanning classic Disney, anime, and modern computer-generated masterpieces.",
+    "movieIds": [
+      "tt1620449",
+      "tt1272051",
+      "youtube-xat8ZmhrG5o"
+    ],
+    "createdAt": "2026-01-21T00:00:00.000Z",
+    "updatedAt": "2026-01-24T18:01:33.320Z",
+    "savedQueries": [
+      {
+        "searchQuery": "",
+        "filterState": {
+          "searchQuery": "",
+          "sort": {
+            "field": "year",
+            "direction": "desc"
+          },
+          "genres": [
+            "Animation"
+          ],
+          "minRuntime": 60
+        }
+      }
+    ],
+    "tags": [
+      "animation",
+      "feature-length",
+      "family",
+      "anime",
+      "animated-films"
+    ],
+    "enabled": false
   },
   "horror": {
     "id": "horror",
@@ -2924,7 +3470,7 @@
       "tt0087650",
       "tt0364517",
       "tt0023158",
-      "tt0078771",
+      "tt2428166",
       "tt0026663",
       "tt0033873",
       "tt0058324",
@@ -3026,7 +3572,7 @@
       "tt0035583"
     ],
     "createdAt": "2026-01-07T01:00:00.000Z",
-    "updatedAt": "2026-01-08T22:24:15.311Z",
+    "updatedAt": "2026-01-21T03:16:01.369Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -3059,30 +3605,21 @@
     "description": "Epic adventures and thrilling journeys across land, sea, and time.",
     "movieIds": [
       "tt0046672",
-      "tt0062622",
       "tt0000417",
       "tt0068182",
-      "tt0437086",
-      "tt0181875",
       "tt0072231",
-      "tt1630029",
       "tt0016641",
-      "tt0090728",
-      "tt0055796",
       "tt0101465",
       "tt0237534",
       "tt0064115",
       "tt0003740",
-      "tt1843866",
       "tt0042367",
       "tt0002130",
       "tt0071411",
       "tt0015174",
       "tt0015175",
       "tt0070030",
-      "tt0461770",
       "tt0049223",
-      "tt0057076",
       "tt0045808",
       "tt0038574",
       "tt0063056",
@@ -3096,9 +3633,7 @@
       "tt0052948",
       "tt0065938",
       "tt0060584",
-      "tt0446724",
       "tt0024216",
-      "tt0056172",
       "tt0006206",
       "tt0053106",
       "tt0164085",
@@ -3107,15 +3642,11 @@
       "tt0068815",
       "tt0029162",
       "tt0049513",
-      "tt0071853",
       "tt0026752",
       "tt0844457",
       "tt0053126",
-      "tt0190590",
       "tt0037954",
       "tt0031742",
-      "tt0464913",
-      "tt0383574",
       "tt0028119",
       "tt0085127",
       "tt0082484",
@@ -3124,14 +3655,11 @@
       "tt0048579",
       "tt0049710",
       "tt0045125",
-      "tt6864046",
       "tt0023458",
       "tt0988045",
       "tt1127715",
-      "tt0053285",
       "tt0069293",
       "tt0054331",
-      "tt0031971",
       "tt0020691",
       "tt0050212",
       "tt0025004",
@@ -3171,7 +3699,7 @@
       "tt0066565"
     ],
     "createdAt": "2026-01-07T01:00:00.000Z",
-    "updatedAt": "2026-01-11T22:17:32.090Z",
+    "updatedAt": "2026-01-21T02:20:33.988Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -3227,7 +3755,7 @@
       "tt0013086",
       "tt0038492",
       "tt0038494",
-      "tt0080661",
+      "tt0038494",
       "tt0120907",
       "tt0037691",
       "tt0036855",
@@ -3341,7 +3869,7 @@
       "tt0029811"
     ],
     "createdAt": "2026-01-07T01:00:00.000Z",
-    "updatedAt": "2026-01-11T21:21:07.824Z",
+    "updatedAt": "2026-01-21T03:51:45.924Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -3397,7 +3925,7 @@
       "tt0071315",
       "tt0074312",
       "tt0091251",
-      "tt26584495",
+      "tt12093604",
       "tt0073582",
       "tt0013086",
       "tt0067023",
@@ -3514,7 +4042,7 @@
       "tt0055630"
     ],
     "createdAt": "2026-01-07T01:00:00.000Z",
-    "updatedAt": "2026-01-11T21:21:04.984Z",
+    "updatedAt": "2026-01-21T02:26:36.180Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -4698,7 +5226,7 @@
       "tt0143348",
       "tt0143428",
       "tt0068815",
-      "tt0078771",
+      "tt2428166",
       "tt0079501",
       "tt0079522",
       "tt0070374",
@@ -4749,7 +5277,7 @@
       "tt0072431"
     ],
     "createdAt": "2026-01-07T02:00:00.000Z",
-    "updatedAt": "2026-01-11T22:56:01.706Z",
+    "updatedAt": "2026-01-21T03:16:01.369Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -4795,7 +5323,7 @@
       "tt0083767",
       "tt0082235",
       "tt0082096",
-      "tt0080661",
+      "tt0038494",
       "tt0092965",
       "tt0092978",
       "tt0087821",
@@ -4812,7 +5340,7 @@
       "tt0084412"
     ],
     "createdAt": "2026-01-07T02:00:00.000Z",
-    "updatedAt": "2026-01-11T22:55:45.172Z",
+    "updatedAt": "2026-01-21T03:51:45.924Z",
     "savedQueries": [
       {
         "searchQuery": "",
@@ -5183,7 +5711,7 @@
     "movieIds": [
       "tt22687790",
       "tt28362963",
-      "tt26584495",
+      "tt12093604",
       "tt13649700",
       "tt32308418",
       "tt15392282",
@@ -5197,7 +5725,7 @@
       "tt11976532"
     ],
     "createdAt": "2026-01-07T02:00:00.000Z",
-    "updatedAt": "2026-01-11T22:38:26.929Z",
+    "updatedAt": "2026-01-21T02:26:36.180Z",
     "savedQueries": [
       {
         "searchQuery": "",

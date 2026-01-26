@@ -42,6 +42,28 @@
       "year": 1921,
       "collection": "feature_films",
       "downloads": 98
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=v8W3WUyskfg",
+      "id": "v8W3WUyskfg",
+      "title": "The Three Musketeers (1921 film) 1080p",
+      "addedAt": "2025-12-24T00:55:19.838Z",
+      "thumbnail": "https://i.ytimg.com/vi/v8W3WUyskfg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCu_yyhhG3hKxLvauCpPmqIwW1OVw",
+      "duration": 7132,
+      "language": "en",
+      "channelName": "Public Domain Movies - Classic Old Movies",
+      "channelId": "UCT6gOjzXtqeb_oE-wZVHlFA",
+      "regionRestriction": {
+        "blocked": [
+          "AD",
+          "BE",
+          "FR",
+          "LU",
+          "MC",
+          "WF"
+        ]
+      }
     }
   ],
   "metadata": {
@@ -72,8 +94,13 @@
     "tt0012642",
     "tt0032475"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "cloak-and-dagger",
+      "name": "Cloak and Dagger"
+    }
+  ],
   "is_curated": true,
   "verified": false,
-  "lastUpdated": "2026-01-07T00:12:33.208Z"
+  "lastUpdated": "2026-01-24T16:27:00.652Z"
 }
