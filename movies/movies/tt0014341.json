@@ -64,6 +64,19 @@
       "thumbnail": "https://archive.org/services/img/ourhospitality4k",
       "collection": "feature_films",
       "downloads": 161
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/ptp_our-hospitality_john-g-blystone_m2ts_bd50_1080i_219697",
+      "id": "ptp_our-hospitality_john-g-blystone_m2ts_bd50_1080i_219697",
+      "title": "Our Hospitality / John G. Blystone / Buster Keaton / Blu-ray / BD50 / m2ts",
+      "description": "No description",
+      "fileSize": 45191876733,
+      "addedAt": "2026-01-07T00:10:21.540Z",
+      "thumbnail": "https://archive.org/services/img/ptp_our-hospitality_john-g-blystone_m2ts_bd50_1080i_219697",
+      "year": 1923,
+      "collection": "feature_films",
+      "downloads": 1131
     }
   ],
   "metadata": {
@@ -88,13 +101,17 @@
     "tt0014429",
     "tt0014205",
     "tt0014497",
+    "tt5457840",
     "tt0011508",
     "tt0013512",
     "tt0012928",
-    "tt0013099",
-    "tt0013075"
+    "tt0013099"
   ],
   "collections": [
+    {
+      "id": "buster-keaton",
+      "name": "Buster Keaton"
+    },
     {
       "id": "buster-keaton",
       "name": "Buster Keaton"
@@ -114,5 +131,5 @@
   ],
   "is_curated": true,
   "verified": false,
-  "lastUpdated": "2026-01-07T00:10:12.693Z"
+  "lastUpdated": "2026-02-02T00:22:06.916Z"
 }

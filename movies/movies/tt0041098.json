@@ -80,6 +80,31 @@
       "thumbnail": "https://archive.org/services/img/africa-screams-4-k",
       "collection": "feature_films",
       "downloads": 516
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/moonlight-moovies-4",
+      "id": "moonlight-moovies-4",
+      "title": "MOONLIGHT MOOVIES # 4",
+      "description": "A complete virtual drive-in show, featuring \"Africa Screams\" and \"Bela Lugosi Meets a Brooklyn Gorilla.\"",
+      "fileSize": 11065212912,
+      "addedAt": "2026-01-07T00:09:54.330Z",
+      "thumbnail": "https://archive.org/services/img/moonlight-moovies-4",
+      "language": "eng",
+      "collection": "feature_films",
+      "downloads": 2155
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=u95Au5SqU10",
+      "id": "u95Au5SqU10",
+      "title": "Abbott and Costello's Africa Screams",
+      "addedAt": "2025-12-24T00:56:49.133Z",
+      "thumbnail": "https://i.ytimg.com/vi/u95Au5SqU10/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1o73o1U0Hz4fyNs3tZENJUWW16Q",
+      "duration": 4736,
+      "language": "en",
+      "channelName": "Public Domain Movies - Classic Old Movies",
+      "channelId": "UCT6gOjzXtqeb_oE-wZVHlFA"
     }
   ],
   "metadata": {
@@ -110,8 +135,13 @@
     "tt0045125",
     "tt0044517"
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "abbott-and-costello",
+      "name": "Abbott and Costello"
+    }
+  ],
   "is_curated": true,
   "verified": false,
-  "lastUpdated": "2026-01-07T18:48:24.038Z"
+  "lastUpdated": "2026-02-02T00:10:24.978Z"
 }

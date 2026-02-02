@@ -16,6 +16,20 @@
       "year": 1958,
       "collection": "feature_films",
       "downloads": 11498
+    },
+    {
+      "type": "archive.org",
+      "url": "https://archive.org/details/the-revenge-of-frankenstein-1958_202406",
+      "id": "the-revenge-of-frankenstein-1958_202406",
+      "title": "The Revenge Of Frankenstein 1958",
+      "description": "Having escaped execution and assumed an alias, Baron Frankenstein transplants his deformed underling's brain into a perfect body, but the result proves to be mortally perilous.",
+      "fileSize": 1612004071,
+      "addedAt": "2026-01-07T00:12:22.157Z",
+      "thumbnail": "https://archive.org/services/img/the-revenge-of-frankenstein-1958_202406",
+      "language": "eng",
+      "year": 1958,
+      "collection": "feature_films",
+      "downloads": 899
     }
   ],
   "metadata": {
@@ -33,8 +47,10 @@
     "Awards": "N/A"
   },
   "relatedMovies": [
+    "tt0050280",
     "tt0061683",
     "tt0052905",
+    "tt0053677",
     "tt0050393",
     "tt0051993",
     "tt0052187",
@@ -42,17 +58,23 @@
     "tt0051432",
     "tt0051020",
     "tt0052379",
-    "tt0051507",
-    "tt0051631",
-    "tt0051948"
+    "tt0051507"
   ],
   "collections": [
     {
       "id": "sci-fi",
       "name": "Science Fiction"
+    },
+    {
+      "id": "frankenstein",
+      "name": "frankenstein"
+    },
+    {
+      "id": "frankenstein",
+      "name": "frankenstein"
     }
   ],
   "is_curated": true,
   "verified": false,
-  "lastUpdated": "2026-01-07T00:12:22.157Z"
+  "lastUpdated": "2026-02-02T01:02:41.941Z"
 }
